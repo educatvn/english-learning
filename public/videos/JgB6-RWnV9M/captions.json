@@ -1,0 +1,409 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 400,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Hello. Welcome to Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 3920,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "In this podcast we have real conversations \nin easy English to help you learn."
+    } ]
+  }, {
+    "tStartMs": 10400,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 11200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "And I'm Georgie. Remember, if you \nwant read along to this podcast,  "
+    } ]
+  }, {
+    "tStartMs": 16560,
+    "dDurationMs": 6419,
+    "segs": [ {
+      "utf8": "you can find a script on our website \n– BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Hi, Georgie. How are you doing?"
+    } ]
+  }, {
+    "tStartMs": 30240,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I'm fine thanks, Neil. How are you?"
+    } ]
+  }, {
+    "tStartMs": 32320,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "I'm very well, thank you."
+    } ]
+  }, {
+    "tStartMs": 34080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "What's today's conversation about, Neil?"
+    } ]
+  }, {
+    "tStartMs": 36640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Today, we're going to talk about travel."
+    } ]
+  }, {
+    "tStartMs": 39520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "We talked about holidays\nin another episode,"
+    } ]
+  }, {
+    "tStartMs": 42880,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "but today we'll talk about everyday travel\nand compare our journeys to work."
+    } ]
+  }, {
+    "tStartMs": 49600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So, Neil,\nwhat is your journey to work like?"
+    } ]
+  }, {
+    "tStartMs": 53680,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "Well, because we live in London\nand it's a big city, it's quite long."
+    } ]
+  }, {
+    "tStartMs": 61120,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "But I get a bus to a tube stop.\nThe tube is the underground train."
+    } ]
+  }, {
+    "tStartMs": 67200,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "And then I get the tube\nto near the BBC and then I walk."
+    } ]
+  }, {
+    "tStartMs": 73360,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Nice. I walk to work."
+    } ]
+  }, {
+    "tStartMs": 75520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "I don't like using the tube,\nthe underground train,"
+    } ]
+  }, {
+    "tStartMs": 79840,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "because there's so many people on it."
+    } ]
+  }, {
+    "tStartMs": 82800,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I prefer to get some fresh air\nin the morning."
+    } ]
+  }, {
+    "tStartMs": 86160,
+    "dDurationMs": 4146,
+    "segs": [ {
+      "utf8": "Ah, you walk to work!\nThat's interesting in London."
+    } ]
+  }, {
+    "tStartMs": 90306,
+    "dDurationMs": 2974,
+    "segs": [ {
+      "utf8": "— Mm-hm.\n— Tell me about your walk to work."
+    } ]
+  }, {
+    "tStartMs": 93280,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Well, my walk starts with walking along\nsome streets, towards a park,"
+    } ]
+  }, {
+    "tStartMs": 100160,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "and then I walk across a park and then\nI walk through some more streets,"
+    } ]
+  }, {
+    "tStartMs": 106560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "because there is a little bit of time\nbetween the park and the office"
+    } ]
+  }, {
+    "tStartMs": 112400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and then I arrive at the office."
+    } ]
+  }, {
+    "tStartMs": 114720,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Very nice.\nSo you don't like public transport?"
+    } ]
+  }, {
+    "tStartMs": 119120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Mm, I use it sometimes\nwhen there's an emergency,"
+    } ]
+  }, {
+    "tStartMs": 123840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "like if it's raining\nor if I don't have time."
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "But, if I have time,\nI like to walk to work."
+    } ]
+  }, {
+    "tStartMs": 131520,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And how long does your journey take?"
+    } ]
+  }, {
+    "tStartMs": 134560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "My journey takes me one hour if I walk"
+    } ]
+  }, {
+    "tStartMs": 138400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and 30 minutes if I take the tube."
+    } ]
+  }, {
+    "tStartMs": 141560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "— That's pretty good for London.\n— What about you?"
+    } ]
+  }, {
+    "tStartMs": 144800,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "My journey takes at least an hour,\nsometimes more."
+    } ]
+  }, {
+    "tStartMs": 150640,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And Neil, you have to get a bus\nand a train. What's your journey like?"
+    } ]
+  }, {
+    "tStartMs": 155600,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "Well, it can be good, but sometimes\nthere's traffic jams on the roads"
+    } ]
+  }, {
+    "tStartMs": 163040,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and so the bus can take a long time."
+    } ]
+  }, {
+    "tStartMs": 166800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But once I get onto the tube,"
+    } ]
+  }, {
+    "tStartMs": 169920,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "it's usually OK as I travel across London."
+    } ]
+  }, {
+    "tStartMs": 176240,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Ooh, Neil, can you explain\nwhat we mean by traffic jam?"
+    } ]
+  }, {
+    "tStartMs": 180880,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "Yeah, so a 'traffic jam' is when there are\ntoo many cars and buses on the road"
+    } ]
+  }, {
+    "tStartMs": 188160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and so the traffic can't move very quickly\nor can't move at all."
+    } ]
+  }, {
+    "tStartMs": 193760,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Oh, yeah, traffic jams are so rubbish."
+    } ]
+  }, {
+    "tStartMs": 196480,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Are there times of the day\nwhen there are more traffic jams?"
+    } ]
+  }, {
+    "tStartMs": 200080,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Yes, so during rush hour."
+    } ]
+  }, {
+    "tStartMs": 202880,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "'Rush hour' is when most people\nare going to work so the roads are busier."
+    } ]
+  }, {
+    "tStartMs": 208400,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "And also, if it's the 'school run',\nschool run time,"
+    } ]
+  }, {
+    "tStartMs": 212480,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "so lots of people on the roads,\ntaking their kids to school,"
+    } ]
+  }, {
+    "tStartMs": 216960,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "then the bus journey takes a long time."
+    } ]
+  }, {
+    "tStartMs": 220400,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "OK. So, that's in the morning\nand in the afternoons?"
+    } ]
+  }, {
+    "tStartMs": 223360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yeah. That's right."
+    } ]
+  }, {
+    "tStartMs": 230960,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "Well, Georgie, your journey to work sounds\nnicer than mine, probably more relaxing."
+    } ]
+  }, {
+    "tStartMs": 238080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Yes. Not when it's raining, though!"
+    } ]
+  }, {
+    "tStartMs": 240720,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Let's recap the words\nwe learned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 244640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "We had 'towards' —\n'travelling in the direction of'."
+    } ]
+  }, {
+    "tStartMs": 249120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "'Across' —\n'travelling from one side to the other'."
+    } ]
+  }, {
+    "tStartMs": 253840,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "'Rush hour' — 'a time when a lot of people\nare moving around the city,"
+    } ]
+  }, {
+    "tStartMs": 258480,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "'usually for work or school'."
+    } ]
+  }, {
+    "tStartMs": 261200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And an expression for something I hate —\n'traffic jam',"
+    } ]
+  }, {
+    "tStartMs": 265520,
+    "dDurationMs": 4509,
+    "segs": [ {
+      "utf8": "which we use to talk about\n'a big delay when you're driving'."
+    } ]
+  }, {
+    "tStartMs": 273040,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Thanks for listening to Real Easy \nEnglish. Visit our website for  "
+    } ]
+  }, {
+    "tStartMs": 277520,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "more activities and courses to help you with \nyour English – BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 284480,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Next time, we'll talk about the news."
+    } ]
+  }, {
+    "tStartMs": 287200,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "See you then. Bye!"
+    } ]
+  }, {
+    "tStartMs": 288640,
+    "dDurationMs": 1365,
+    "segs": [ {
+      "utf8": "Godbye!"
+    } ]
+  } ]
+}

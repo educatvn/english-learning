@@ -1,0 +1,421 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 320,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Hello and welcome to Real Easy English \nfrom BBC Learning English. I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 6400,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And I'm Georgie. In this podcast \nwe have real conversations in  "
+    } ]
+  }, {
+    "tStartMs": 10720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "easy English about a different topic each week."
+    } ]
+  }, {
+    "tStartMs": 14160,
+    "dDurationMs": 4774,
+    "segs": [ {
+      "utf8": "And you can read along with the podcast using the script on our website:"
+    } ]
+  }, {
+    "tStartMs": 18934,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 27760,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Hi, Neil. How are things?"
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Very good, thank you.\nHow are you, Georgie?"
+    } ]
+  }, {
+    "tStartMs": 32160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yes, I'm pretty good, thank you, as well."
+    } ]
+  }, {
+    "tStartMs": 34880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So, Neil, what are we talking about today?"
+    } ]
+  }, {
+    "tStartMs": 37760,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "We are talking about animals.\nWe'll be talking about pets."
+    } ]
+  }, {
+    "tStartMs": 43200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "OK, Neil. So do you have any pets?"
+    } ]
+  }, {
+    "tStartMs": 46160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "No, I don't have any pets,\nbut I know you do, Georgie."
+    } ]
+  }, {
+    "tStartMs": 50320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Yes, I do. I have a black dog called Rafi."
+    } ]
+  }, {
+    "tStartMs": 53920,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "— Rafi?\n— Yeah."
+    } ]
+  }, {
+    "tStartMs": 55280,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Did you choose the name?"
+    } ]
+  }, {
+    "tStartMs": 56720,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Partly, but it was a decision\nwe made as a family."
+    } ]
+  }, {
+    "tStartMs": 61080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Mm. Did you have pets as a child?"
+    } ]
+  }, {
+    "tStartMs": 64320,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Yes, I did."
+    } ]
+  }, {
+    "tStartMs": 65600,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "We used to have cats, actually,\nwe started with cats"
+    } ]
+  }, {
+    "tStartMs": 69120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and then we got a dog\nand then we also had hamsters."
+    } ]
+  }, {
+    "tStartMs": 74560,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "What about you, Neil? Did you have pets?"
+    } ]
+  }, {
+    "tStartMs": 76640,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "No, we didn't have pets when I was young."
+    } ]
+  }, {
+    "tStartMs": 79120,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Oh, I did have a goldfish called Gilbert."
+    } ]
+  }, {
+    "tStartMs": 83600,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "But then, later on, when I was a teenager,\nmy parents got a cat and a dog."
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "— Wow.\n— Mm."
+    } ]
+  }, {
+    "tStartMs": 91200,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Did you have a good relationship\nwith Gilbert?"
+    } ]
+  }, {
+    "tStartMs": 94240,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I don't remember Gilbert, sadly."
+    } ]
+  }, {
+    "tStartMs": 97680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "But we had a cat that I liked very much"
+    } ]
+  }, {
+    "tStartMs": 101280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and I've never really liked dogs,\nI'm afraid."
+    } ]
+  }, {
+    "tStartMs": 104960,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "So, Neil, you don't have any pets now"
+    } ]
+  }, {
+    "tStartMs": 107440,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and you said you don't like dogs,\nbut will you ever get one?"
+    } ]
+  }, {
+    "tStartMs": 113040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "No, Georgie, I don't think so."
+    } ]
+  }, {
+    "tStartMs": 115120,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "I will never get a dog."
+    } ]
+  }, {
+    "tStartMs": 116960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "That's OK. I mean, they're not for\neveryone. What was your cat like?"
+    } ]
+  }, {
+    "tStartMs": 121360,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "The cat made me feel very calm,\nbecause she sat on my lap and purred."
+    } ]
+  }, {
+    "tStartMs": 128480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You just used the word purr.\nCan you explain what that is?"
+    } ]
+  }, {
+    "tStartMs": 132480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Yeah.\n'Purring' is 'the noise that cats make'."
+    } ]
+  }, {
+    "tStartMs": 137280,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Not miaow. Miaow is..."
+    } ]
+  }, {
+    "tStartMs": 140080,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Purring is..."
+    } ]
+  }, {
+    "tStartMs": 143520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And the cat made that noise\nand made me feel calm."
+    } ]
+  }, {
+    "tStartMs": 147280,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Neil, that was a really good purr sound.\nI would say it was purr-fect!"
+    } ]
+  }, {
+    "tStartMs": 153200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So, Georgie, what was your first dog like?"
+    } ]
+  }, {
+    "tStartMs": 156880,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "My first dog was really lovely."
+    } ]
+  }, {
+    "tStartMs": 160160,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I actually used to say\nthat she was my best friend."
+    } ]
+  }, {
+    "tStartMs": 164080,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And we actually have a common expression to describe dogs,"
+    } ]
+  }, {
+    "tStartMs": 167360,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "which is man's best friend."
+    } ]
+  }, {
+    "tStartMs": 169520,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "'Man' here means 'human',\nso human's best friend."
+    } ]
+  }, {
+    "tStartMs": 173200,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "That's because dogs\nare usually quite loyal."
+    } ]
+  }, {
+    "tStartMs": 178160,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "OK, so, Georgie, we've talked about dogs\nand cats, those kind of pets,"
+    } ]
+  }, {
+    "tStartMs": 185040,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and hamsters and goldfish."
+    } ]
+  }, {
+    "tStartMs": 187360,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "But have you ever thought\nabout getting an exotic pet like a snake?"
+    } ]
+  }, {
+    "tStartMs": 195920,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Erm, no, not really."
+    } ]
+  }, {
+    "tStartMs": 198480,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "When I think of pets,\nI think of fluffy animals with fur."
+    } ]
+  }, {
+    "tStartMs": 203520,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "But I do have a friend that got a scorpion\nrecently, which I really don't understand."
+    } ]
+  }, {
+    "tStartMs": 210240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Would you ever get an exotic pet?"
+    } ]
+  }, {
+    "tStartMs": 212880,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "No, absolutely not. I think\nI would be scared of an exotic pet,"
+    } ]
+  }, {
+    "tStartMs": 220080,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "— to be honest.\n— Yes. Yeah."
+    } ]
+  }, {
+    "tStartMs": 222120,
+    "dDurationMs": 3412,
+    "segs": [ {
+      "utf8": "— They just seem dangerous.\n— Mm."
+    } ]
+  }, {
+    "tStartMs": 230560,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Let's recap the vocabulary\nwe learned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 235440,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "We had 'ever', which means 'at any time'."
+    } ]
+  }, {
+    "tStartMs": 240000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And you asked me Georgie,\nwill I ever get a dog?"
+    } ]
+  }, {
+    "tStartMs": 244240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "We've had 'never',\nwhich means 'not at any time'."
+    } ]
+  }, {
+    "tStartMs": 248160,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So, Neil, you said\nyou will never get a dog."
+    } ]
+  }, {
+    "tStartMs": 251840,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "We heard 'man's best friend', which is\n'a common expression to describe dogs'."
+    } ]
+  }, {
+    "tStartMs": 258240,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "And 'purring',\n'the noise a cat makes when it's happy'."
+    } ]
+  }, {
+    "tStartMs": 264960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "That's it for this episode of \nReal Easy English. You can find  "
+    } ]
+  }, {
+    "tStartMs": 275210,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "See you then, goodbye."
+    } ]
+  }, {
+    "tStartMs": 276410,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}

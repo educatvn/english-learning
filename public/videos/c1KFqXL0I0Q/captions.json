@@ -1,0 +1,481 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 400,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Hello! You're listening to Real Easy \nEnglish from BBC Learning English. I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 6240,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "And I'm Georgie. In this podcast we talk \nin easy English about a different topic  "
+    } ]
+  }, {
+    "tStartMs": 11840,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "each week to help improve your English skills."
+    } ]
+  }, {
+    "tStartMs": 14800,
+    "dDurationMs": 8137,
+    "segs": [ {
+      "utf8": "If you want to read along, you can visit \nour website – BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 26956,
+    "dDurationMs": 2404,
+    "segs": [ {
+      "utf8": "— Hi, Neil.\n— Hi, Georgie, how are you?"
+    } ]
+  }, {
+    "tStartMs": 29360,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I'm pretty good, thanks. How are you?"
+    } ]
+  }, {
+    "tStartMs": 31280,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "I'm very well thank you."
+    } ]
+  }, {
+    "tStartMs": 32800,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "What are we talking about today, Neil?"
+    } ]
+  }, {
+    "tStartMs": 34880,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Well, today we're talking about\nsocial media and how much we use it."
+    } ]
+  }, {
+    "tStartMs": 41040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Well, I use social media all the time,\nso I have lots of things to say."
+    } ]
+  }, {
+    "tStartMs": 45680,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Great! OK, Georgie,\nso you said you use social media a lot."
+    } ]
+  }, {
+    "tStartMs": 51840,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Why do you like it?"
+    } ]
+  }, {
+    "tStartMs": 53840,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Well, the reason I like it is actually\nthe reason I dislike it as well."
+    } ]
+  }, {
+    "tStartMs": 58960,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I use it when I'm bored."
+    } ]
+  }, {
+    "tStartMs": 61280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "It's... It can be very entertaining,\nespecially TikTok, for example,"
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "yeah, the videos I watch are very fun\nand entertaining."
+    } ]
+  }, {
+    "tStartMs": 70000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "I like that about it, but it's also\nsomething I hate,"
+    } ]
+  }, {
+    "tStartMs": 73760,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "because it can be very addictive"
+    } ]
+  }, {
+    "tStartMs": 76960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and you can waste a lot of time\nwatching TikTok videos."
+    } ]
+  }, {
+    "tStartMs": 81280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "— Mm.\n— Neil, do you watch TikTok videos?"
+    } ]
+  }, {
+    "tStartMs": 84960,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "I try not to, to be honest,\nbecause I'm too old."
+    } ]
+  }, {
+    "tStartMs": 90240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "You're never too old for TikTok videos!"
+    } ]
+  }, {
+    "tStartMs": 93040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "But I always think I'm using it too much."
+    } ]
+  }, {
+    "tStartMs": 97360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Do you think you use social media\ntoo much, Georgie?"
+    } ]
+  }, {
+    "tStartMs": 100560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think definitely I use social media\ntoo much!"
+    } ]
+  }, {
+    "tStartMs": 104560,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "OK, Georgie, you used the word definitely.\nTell us more about definitely."
+    } ]
+  }, {
+    "tStartMs": 110000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Yes, well, 'definitely' means that\nsomething is 'certainly the case'."
+    } ]
+  }, {
+    "tStartMs": 113840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "If you definitely do something,\nthere is no doubt that you did it."
+    } ]
+  }, {
+    "tStartMs": 118400,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "You certainly did it."
+    } ]
+  }, {
+    "tStartMs": 120640,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Yeah. So what do you use social media for?"
+    } ]
+  }, {
+    "tStartMs": 124240,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "You said you watch videos,\nbut anything else?"
+    } ]
+  }, {
+    "tStartMs": 127200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The main reason I think\nis to stay in touch with my friends."
+    } ]
+  }, {
+    "tStartMs": 132400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "This was definitely true\nwhen I lived in Spain."
+    } ]
+  }, {
+    "tStartMs": 135600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "It was a good way for me to see\nwhat my friends in England were doing."
+    } ]
+  }, {
+    "tStartMs": 140800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I also posted things myself,"
+    } ]
+  }, {
+    "tStartMs": 142800,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "so it was a way to show everyone else\nwhat I was doing as well."
+    } ]
+  }, {
+    "tStartMs": 146160,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Mm-hm."
+    } ]
+  }, {
+    "tStartMs": 147520,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Neil, what do you use social media for?"
+    } ]
+  }, {
+    "tStartMs": 150720,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Well, I like messaging apps, mainly,\nand group chats,"
+    } ]
+  }, {
+    "tStartMs": 154880,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "so that I can catch up with friends\nwho live far away"
+    } ]
+  }, {
+    "tStartMs": 159360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "that I can't actually see in person."
+    } ]
+  }, {
+    "tStartMs": 161840,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Mm, yes, I also use it for that."
+    } ]
+  }, {
+    "tStartMs": 164480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Neil, you just used the verb\ncatch up with."
+    } ]
+  }, {
+    "tStartMs": 167040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Can you explain that a bit more, please?"
+    } ]
+  }, {
+    "tStartMs": 169600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yeah. So, if you 'catch up with' someone,"
+    } ]
+  }, {
+    "tStartMs": 172320,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "it means you speak to them,"
+    } ]
+  }, {
+    "tStartMs": 174160,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "you contact them and you find out\nwhat they've been doing in their life."
+    } ]
+  }, {
+    "tStartMs": 180240,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Find out what activities or what changes\nin their lives have happened."
+    } ]
+  }, {
+    "tStartMs": 186320,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yeah, when you catch up with someone,"
+    } ]
+  }, {
+    "tStartMs": 188000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "it brings you up to date with their life"
+    } ]
+  }, {
+    "tStartMs": 190400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and what they’ve been doing,\nsince you last saw them."
+    } ]
+  }, {
+    "tStartMs": 193200,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So, Georgie, you said you think you use\nyour phone too much for social media."
+    } ]
+  }, {
+    "tStartMs": 199200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Do you have any plans\nto use your phone less?"
+    } ]
+  }, {
+    "tStartMs": 203520,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I would love to use my phone less."
+    } ]
+  }, {
+    "tStartMs": 206320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "But if I'm being realistic,"
+    } ]
+  }, {
+    "tStartMs": 208480,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "I think I will probably continue\nusing my phone in the same way."
+    } ]
+  }, {
+    "tStartMs": 213120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It’s just too difficult to reduce\nthe screen time, it's so addictive."
+    } ]
+  }, {
+    "tStartMs": 217840,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "But maybe in the future,"
+    } ]
+  }, {
+    "tStartMs": 219440,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "I will put those limits that your phone\ncan put to help me reduce my screen time."
+    } ]
+  }, {
+    "tStartMs": 227520,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Georgie, you used words\nlike 'maybe' and 'probably'"
+    } ]
+  }, {
+    "tStartMs": 233120,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "and we use these when\nwe're 'not sure' or 'not certain'"
+    } ]
+  }, {
+    "tStartMs": 239760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "if we are going to do something."
+    } ]
+  }, {
+    "tStartMs": 242400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Yes. So maybe I will use my phone less,"
+    } ]
+  }, {
+    "tStartMs": 245600,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "maybe I will continue using my phone\nin the same way."
+    } ]
+  }, {
+    "tStartMs": 249440,
+    "dDurationMs": 9920,
+    "segs": [ {
+      "utf8": "Probably, I will continue using my phone\nin the same way."
+    } ]
+  }, {
+    "tStartMs": 259360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Well, Georgie, it sounds like\nyou use your phone a lot."
+    } ]
+  }, {
+    "tStartMs": 263360,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Maybe you should have a break\nor just relax a bit!"
+    } ]
+  }, {
+    "tStartMs": 267440,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Yes, Neil. I think you're right."
+    } ]
+  }, {
+    "tStartMs": 269680,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Let's quickly recap the words and phrases\nwe learned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 274320,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "We had 'maybe' which we use to talk about\nsomething that is 'not certain'."
+    } ]
+  }, {
+    "tStartMs": 280160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "'Probably', which means 'most likely'."
+    } ]
+  }, {
+    "tStartMs": 283040,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "'Definitely', which we use\nto say something 'is certain'."
+    } ]
+  }, {
+    "tStartMs": 287200,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "And 'catch up with' — 'talking to someone\nyou haven't seen for a long time'."
+    } ]
+  }, {
+    "tStartMs": 294960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Thanks for listening to \nReal Easy English. Remember,  "
+    } ]
+  }, {
+    "tStartMs": 298320,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "you can find more programmes to help you with \nyour English at BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 304560,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Next time we'll talk about \njourneys and how we get to work."
+    } ]
+  }, {
+    "tStartMs": 309520,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "See you then. Bye!"
+    } ]
+  }, {
+    "tStartMs": 310960,
+    "dDurationMs": 1357,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}

@@ -1,0 +1,445 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Hello. This is Real Easy English, the podcast  "
+    } ]
+  }, {
+    "tStartMs": 5680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "where we have conversations in easy \nEnglish to help you learn. I’m Beth."
+    } ]
+  }, {
+    "tStartMs": 11440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And I'm Neil. Remember, you can find all the  "
+    } ]
+  }, {
+    "tStartMs": 14560,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "vocabulary for this episode and \na text version on our website:"
+    } ]
+  }, {
+    "tStartMs": 19520,
+    "dDurationMs": 5044,
+    "segs": [ {
+      "utf8": "BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 27600,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "How are you today, Neil?"
+    } ]
+  }, {
+    "tStartMs": 29440,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I'm very well, thank you, Beth.\nHow are you?"
+    } ]
+  }, {
+    "tStartMs": 32400,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "I'm good, thank you."
+    } ]
+  }, {
+    "tStartMs": 34240,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "What is the topic\nof our conversation today?"
+    } ]
+  }, {
+    "tStartMs": 37360,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Well, today, Beth,\nwe're talking about schools."
+    } ]
+  }, {
+    "tStartMs": 41040,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "We'll talk about our favourite subjects\nand what qualifications we have."
+    } ]
+  }, {
+    "tStartMs": 46800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "OK, Neil. First, can you explain\nthe word qualifications?"
+    } ]
+  }, {
+    "tStartMs": 51840,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yes, a 'qualification'"
+    } ]
+  }, {
+    "tStartMs": 53520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "is 'an official record that you\nhave successfully done an exam"
+    } ]
+  }, {
+    "tStartMs": 58400,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "'or training for something'."
+    } ]
+  }, {
+    "tStartMs": 60480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "So, for example, you can receive\na qualification in speaking English,"
+    } ]
+  }, {
+    "tStartMs": 65840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "if you pass a certain exam."
+    } ]
+  }, {
+    "tStartMs": 68320,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "OK, great. So, Neil,\nwhat qualifications did you do at school?"
+    } ]
+  }, {
+    "tStartMs": 74080,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "Well, I took all of the normal exams we do\nin the UK, GCSEs and then A-levels."
+    } ]
+  }, {
+    "tStartMs": 81760,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "These are school exams."
+    } ]
+  }, {
+    "tStartMs": 83520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And then university degrees.\nHow about you?"
+    } ]
+  }, {
+    "tStartMs": 87520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yeah, I am the same."
+    } ]
+  }, {
+    "tStartMs": 89200,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "I went to school in the UK and did\nall the same exams probably that you did."
+    } ]
+  }, {
+    "tStartMs": 95920,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Did you like school?"
+    } ]
+  }, {
+    "tStartMs": 97680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Yes, I did like school."
+    } ]
+  }, {
+    "tStartMs": 100560,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I think I just liked\nbeing with my friends,"
+    } ]
+  }, {
+    "tStartMs": 103760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and I thought most subjects\nwere quite interesting."
+    } ]
+  }, {
+    "tStartMs": 107840,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yeah, I think I'm the same."
+    } ]
+  }, {
+    "tStartMs": 109520,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "What were your favourite subjects, Beth?"
+    } ]
+  }, {
+    "tStartMs": 112560,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I really liked English,"
+    } ]
+  }, {
+    "tStartMs": 115280,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "which sounds quite predictable,\nbecause now English is part of my job."
+    } ]
+  }, {
+    "tStartMs": 122800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "But I also quite liked textiles,"
+    } ]
+  }, {
+    "tStartMs": 127040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "which was a subject\nall about how to make clothes,"
+    } ]
+  }, {
+    "tStartMs": 131360,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "and I made a hat. So it was quite a\npractical subject, and I enjoyed that."
+    } ]
+  }, {
+    "tStartMs": 137520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Do you still wear the hat?"
+    } ]
+  }, {
+    "tStartMs": 140000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "I do not. It was not a good hat."
+    } ]
+  }, {
+    "tStartMs": 144640,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "What was your favourite subject?"
+    } ]
+  }, {
+    "tStartMs": 146560,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "I also liked English, but I think\nmy favourite subject was history."
+    } ]
+  }, {
+    "tStartMs": 152040,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Hm, OK. What about\nyour least favourite subject?"
+    } ]
+  }, {
+    "tStartMs": 156000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's easy! Maths. I hate maths."
+    } ]
+  }, {
+    "tStartMs": 159000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "— You still hate maths?\n— I still hate maths!"
+    } ]
+  }, {
+    "tStartMs": 163440,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So, in this conversation about school,"
+    } ]
+  }, {
+    "tStartMs": 167200,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "we used words like 'quite',\n'very' and 'really'."
+    } ]
+  }, {
+    "tStartMs": 173200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "'Quite good' means 'a little bit good'."
+    } ]
+  }, {
+    "tStartMs": 177440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "'Very good' and 'really good'\nmean 'a lot'."
+    } ]
+  }, {
+    "tStartMs": 180960,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "So, for example, Neil, I quite like\nhistory, but you really like history."
+    } ]
+  }, {
+    "tStartMs": 188880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You liked it a lot at school,\nwhereas I liked it a bit."
+    } ]
+  }, {
+    "tStartMs": 192880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "So, did you not like maths\nbecause you weren't very good at it?"
+    } ]
+  }, {
+    "tStartMs": 198640,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Erm, yes, I think.\nI was really bad at maths,"
+    } ]
+  }, {
+    "tStartMs": 203680,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and I didn't like it\nbecause I found it very hard."
+    } ]
+  }, {
+    "tStartMs": 209280,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "How about you?"
+    } ]
+  }, {
+    "tStartMs": 210640,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Erm, I quite liked maths."
+    } ]
+  }, {
+    "tStartMs": 213360,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I don't think there was a subject\nthat I didn't really like."
+    } ]
+  }, {
+    "tStartMs": 217520,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "So, Beth, it sounds like you were good\nat everything at school and worked hard."
+    } ]
+  }, {
+    "tStartMs": 223280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So, do you think you were a nerd?"
+    } ]
+  }, {
+    "tStartMs": 226800,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "Well, a 'nerd' is 'an informal word\nfor somebody who is very good at school'."
+    } ]
+  }, {
+    "tStartMs": 233840,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "So, was I a nerd? Well,\nI did enjoy school, and I worked hard."
+    } ]
+  }, {
+    "tStartMs": 240640,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And one time my friend and I\nasked our teacher"
+    } ]
+  }, {
+    "tStartMs": 244160,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "why we hadn't been given full marks\nfor a presentation"
+    } ]
+  }, {
+    "tStartMs": 248560,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and then she said,\n\"Oh, I'll just give you full marks\"."
+    } ]
+  }, {
+    "tStartMs": 252080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "I think that was probably\nquite a nerdy thing to do, so maybe!"
+    } ]
+  }, {
+    "tStartMs": 256160,
+    "dDurationMs": 5029,
+    "segs": [ {
+      "utf8": "Mm, that's very nerdy, Beth!"
+    } ]
+  }, {
+    "tStartMs": 265200,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Let's look at the vocabulary\nwe learned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 270400,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "We had 'qualification', 'a record that you\nhave completed an exam or a course'."
+    } ]
+  }, {
+    "tStartMs": 277600,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "We had 'quite'.\nThis usually means 'a little'."
+    } ]
+  }, {
+    "tStartMs": 282160,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "'Very' and 'really' are both used\nto mean 'a lot'."
+    } ]
+  }, {
+    "tStartMs": 287120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So, for example, I'm very good at maths."
+    } ]
+  }, {
+    "tStartMs": 291440,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "And 'nerd', which is an informal word\nfor 'someone who is good at school'."
+    } ]
+  }, {
+    "tStartMs": 296560,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "— Like you, Beth.\n— Thanks!"
+    } ]
+  }, {
+    "tStartMs": 309587,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Why not try some of our dramas and stories? Visit BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 316067,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Bye for now."
+    } ]
+  }, {
+    "tStartMs": 317267,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Goodbye."
+    } ]
+  } ]
+}

@@ -1,0 +1,451 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Hello! Welcome to Real Easy English \nfrom BBC Learning English. I'm Georgie."
+    } ]
+  }, {
+    "tStartMs": 6640,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "And I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 8000,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "We're here to help you improve your English \nwith a real conversation in easy English."
+    } ]
+  }, {
+    "tStartMs": 15360,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "If you want to read along, \nyou can find a text version  "
+    } ]
+  }, {
+    "tStartMs": 19040,
+    "dDurationMs": 5315,
+    "segs": [ {
+      "utf8": "of this podcast at BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 30400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Right, let's start the show.\nHow are you today, Neil?"
+    } ]
+  }, {
+    "tStartMs": 34160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I'm very well, thank you, Georgie."
+    } ]
+  }, {
+    "tStartMs": 36400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "What are we talking about in this episode?"
+    } ]
+  }, {
+    "tStartMs": 39600,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Today is all about friends."
+    } ]
+  }, {
+    "tStartMs": 42240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "We'll talk a bit about our friends\nand why they are important."
+    } ]
+  }, {
+    "tStartMs": 46720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Great, let's get started."
+    } ]
+  }, {
+    "tStartMs": 49360,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So, Neil, do you have a lot of friends?"
+    } ]
+  }, {
+    "tStartMs": 53040,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Erm, yes, I do have quite a few friends."
+    } ]
+  }, {
+    "tStartMs": 57840,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "How about you?"
+    } ]
+  }, {
+    "tStartMs": 59360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Yes, I also have quite a lot of friends."
+    } ]
+  }, {
+    "tStartMs": 62800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I've lived in different places,"
+    } ]
+  }, {
+    "tStartMs": 65120,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "so I have made friends in lots of\ndifferent areas and times of my life."
+    } ]
+  }, {
+    "tStartMs": 72800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So, Georgie, you said\nthat you have lived in lots of places,"
+    } ]
+  }, {
+    "tStartMs": 77360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and I know you have lived in Spain."
+    } ]
+  }, {
+    "tStartMs": 80800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So, do you have lots of friends in Spain?"
+    } ]
+  }, {
+    "tStartMs": 84400,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yes, I have a few friends in Spain."
+    } ]
+  }, {
+    "tStartMs": 87120,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "But now that I live in London, it's quite\ndifficult to stay in touch with them."
+    } ]
+  }, {
+    "tStartMs": 93280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "But, actually, one of them\nis coming to visit this weekend."
+    } ]
+  }, {
+    "tStartMs": 98080,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Ah! So you try to 'keep in touch with'\nsome of your friends."
+    } ]
+  }, {
+    "tStartMs": 102880,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "That means 'to keep contact with them',"
+    } ]
+  }, {
+    "tStartMs": 105600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "to make sure that you stay friends\nby speaking to them."
+    } ]
+  }, {
+    "tStartMs": 110640,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes, exactly."
+    } ]
+  }, {
+    "tStartMs": 111840,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And if you have a lot of friends,"
+    } ]
+  }, {
+    "tStartMs": 114480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "it can be difficult\nto stay in touch with so many."
+    } ]
+  }, {
+    "tStartMs": 118800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "What do you like to do with your friends,\nNeil?"
+    } ]
+  }, {
+    "tStartMs": 121680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Well, I like to talk to them, mainly."
+    } ]
+  }, {
+    "tStartMs": 125280,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "So, I like to meet them\nmaybe in a pub or a restaurant,"
+    } ]
+  }, {
+    "tStartMs": 130800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "or we go to a sports match sometimes\nand we..."
+    } ]
+  }, {
+    "tStartMs": 135440,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and we talk there and have a good time."
+    } ]
+  }, {
+    "tStartMs": 138120,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "— That sounds nice.\n— How about you?"
+    } ]
+  }, {
+    "tStartMs": 140800,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Yes, I'm the same."
+    } ]
+  }, {
+    "tStartMs": 142320,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "During the week I think a nice plan\nis to go out for dinner with friends."
+    } ]
+  }, {
+    "tStartMs": 147920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "At the weekends, I like going for a walk\nor getting a coffee with friends."
+    } ]
+  }, {
+    "tStartMs": 153040,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Mm, you can do both of those\nat the same time!"
+    } ]
+  }, {
+    "tStartMs": 156800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yeah. That's right."
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Sometimes I meet friends,\nwe get a coffee to take away,"
+    } ]
+  }, {
+    "tStartMs": 162800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and then go for a walk around the park."
+    } ]
+  }, {
+    "tStartMs": 165920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And are you happy about\nthe number of friends you have?"
+    } ]
+  }, {
+    "tStartMs": 169680,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Or would you like to have more or fewer?"
+    } ]
+  }, {
+    "tStartMs": 172720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I always like making new friends."
+    } ]
+  }, {
+    "tStartMs": 176160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "If you start a new hobby\nor you move to a different place,"
+    } ]
+  }, {
+    "tStartMs": 180880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "there are always more people\nand new people to meet."
+    } ]
+  }, {
+    "tStartMs": 184880,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I like making friends. What about you?"
+    } ]
+  }, {
+    "tStartMs": 188160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Yes, but I like to see my old friends\nand if I make new friends,"
+    } ]
+  }, {
+    "tStartMs": 193760,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "I know it's something that happens slowly\nand that's OK."
+    } ]
+  }, {
+    "tStartMs": 198000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Now, we have used this word friends a lot,"
+    } ]
+  }, {
+    "tStartMs": 201200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "but there are other words for friends too,\naren't there?"
+    } ]
+  }, {
+    "tStartMs": 204960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Yes. One is mate. I use mate a lot."
+    } ]
+  }, {
+    "tStartMs": 209520,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "We also use pal."
+    } ]
+  }, {
+    "tStartMs": 211520,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "So sometimes I refer to\nmy friends that are girls as gal pals."
+    } ]
+  }, {
+    "tStartMs": 217680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Gal pals. That's a nice expression."
+    } ]
+  }, {
+    "tStartMs": 220640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So, Neil, why are friends important\nto you?"
+    } ]
+  }, {
+    "tStartMs": 223920,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Ah, yes, good question!"
+    } ]
+  }, {
+    "tStartMs": 226160,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "Friends are important, I think, because\nyou can be yourself with your friends."
+    } ]
+  }, {
+    "tStartMs": 232960,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "You don't have to pretend, if they're good\nfriends, because they know you as you are."
+    } ]
+  }, {
+    "tStartMs": 238640,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And that's not the same\neverywhere that you go in life."
+    } ]
+  }, {
+    "tStartMs": 242640,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "Yep, that's true!"
+    } ]
+  }, {
+    "tStartMs": 249680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Let's recap the language\nwe learned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 253840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "We learned 'mates' and 'pals',\nwhich are other words for 'friends'."
+    } ]
+  }, {
+    "tStartMs": 258800,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "We heard 'keep in touch with', which means\n'see or speak to someone regularly'."
+    } ]
+  }, {
+    "tStartMs": 265520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "We also say 'stay in touch'."
+    } ]
+  }, {
+    "tStartMs": 268880,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And 'a few', which means\n'more than two, but not many.'"
+    } ]
+  }, {
+    "tStartMs": 273280,
+    "dDurationMs": 4965,
+    "segs": [ {
+      "utf8": "So I have a few friends in Spain,\nbut not many."
+    } ]
+  }, {
+    "tStartMs": 279280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Thanks for listening to Real Easy \nEnglish. Visit our website for  "
+    } ]
+  }, {
+    "tStartMs": 283840,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "more activities and courses to help you with \nyour English. BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 290240,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Next time, we'll talk about \nholidays and places we would like to go."
+    } ]
+  }, {
+    "tStartMs": 295520,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "See you then. Goodbye!"
+    } ]
+  }, {
+    "tStartMs": 296880,
+    "dDurationMs": 1132,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}

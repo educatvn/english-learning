@@ -1,0 +1,403 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Hello and welcome to Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 3920,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "In this podcast, we help you understand \neveryday English conversations."
+    } ]
+  }, {
+    "tStartMs": 9440,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 10240,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "And I'm Georgie."
+    } ]
+  }, {
+    "tStartMs": 11760,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Don't forget to go to our website to find a  "
+    } ]
+  }, {
+    "tStartMs": 14320,
+    "dDurationMs": 7742,
+    "segs": [ {
+      "utf8": "text version of this episode to read \nalong: BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 26080,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Hi, Georgie. How are you?"
+    } ]
+  }, {
+    "tStartMs": 27920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I'm great, thank you, Neil. \nI just had a delicious lunch."
+    } ]
+  }, {
+    "tStartMs": 31840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Oh, nice. What did you eat for lunch?"
+    } ]
+  }, {
+    "tStartMs": 34560,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I had pasta. What did you eat?"
+    } ]
+  }, {
+    "tStartMs": 37280,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I had a chicken sandwich."
+    } ]
+  }, {
+    "tStartMs": 39680,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Mmm. Well, today's episode is \nall about restaurants and food."
+    } ]
+  }, {
+    "tStartMs": 46320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Great. I love it when we talk about food."
+    } ]
+  }, {
+    "tStartMs": 49520,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Me too."
+    } ]
+  }, {
+    "tStartMs": 51120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Neil, do you go to restaurants often?"
+    } ]
+  }, {
+    "tStartMs": 54320,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Not that often. Maybe when I meet some friends."
+    } ]
+  }, {
+    "tStartMs": 60000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "How about you? Do you go to restaurants often?"
+    } ]
+  }, {
+    "tStartMs": 64000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "No, I don't go often. Probably once a month."
+    } ]
+  }, {
+    "tStartMs": 67920,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "OK, and when you go to a restaurant, \nwhat's your favourite part of eating there?"
+    } ]
+  }, {
+    "tStartMs": 74560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "I like to be around lots of people."
+    } ]
+  }, {
+    "tStartMs": 80160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "I really love it when a \nrestaurant has a good atmosphere."
+    } ]
+  }, {
+    "tStartMs": 85360,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I love spending time with friends."
+    } ]
+  }, {
+    "tStartMs": 87440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "What about you? Why do you \nlike eating in a restaurant?"
+    } ]
+  }, {
+    "tStartMs": 90560,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "Well, I like to go to a restaurant that \nserves food that I don't know how to cook."
+    } ]
+  }, {
+    "tStartMs": 98880,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Yep, that's a good point."
+    } ]
+  }, {
+    "tStartMs": 101120,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "So, restaurants with food from \ncountries that I don’t know very well"
+    } ]
+  }, {
+    "tStartMs": 106480,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "or that are very different types \nof food to the food I make."
+    } ]
+  }, {
+    "tStartMs": 111520,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "It’s really nice to eat out and \nthat means to eat not at your home"
+    } ]
+  }, {
+    "tStartMs": 117280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "because you don't have to make the \nfood and you don't have to wash up."
+    } ]
+  }, {
+    "tStartMs": 121520,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "That's true, yes."
+    } ]
+  }, {
+    "tStartMs": 122960,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "It’s also nice to eat out for a special \noccasion. So, like a birthday or a celebration."
+    } ]
+  }, {
+    "tStartMs": 130800,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Yes and another special occasion could \nbe something like Christmas and we at  "
+    } ]
+  }, {
+    "tStartMs": 136240,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "BBC Learning English are eating \nout for that special occasion."
+    } ]
+  }, {
+    "tStartMs": 141360,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "We're having a celebration, aren't we?"
+    } ]
+  }, {
+    "tStartMs": 143760,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Yes, every year we have a Christmas party \nand we usually eat out in a restaurant."
+    } ]
+  }, {
+    "tStartMs": 149920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So, Neil, you said you like eating \nout in lots of different types of  "
+    } ]
+  }, {
+    "tStartMs": 154320,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "restaurants. What do you usually order?"
+    } ]
+  }, {
+    "tStartMs": 157600,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "Well, I really like spicy food like Indian curries and I like fish. So I like to get fish curry."
+    } ]
+  }, {
+    "tStartMs": 165760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Mmm that sounds delicious! And we have \na special way of ordering don't we?"
+    } ]
+  }, {
+    "tStartMs": 170720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "What are some phrases we can use \nto order things in restaurants?"
+    } ]
+  }, {
+    "tStartMs": 174800,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Yeah, so we can say: 'I'll have the fish curry.'"
+    } ]
+  }, {
+    "tStartMs": 180240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "'I'll have the fish curry, please.'"
+    } ]
+  }, {
+    "tStartMs": 182560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Yes, and you can also say, 'Can I have \nthe fish curry, please?', as well."
+    } ]
+  }, {
+    "tStartMs": 188320,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "OK, Georgie, what do you \nusually order in a restaurant?"
+    } ]
+  }, {
+    "tStartMs": 193680,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "I also usually get the fish. Or a risotto."
+    } ]
+  }, {
+    "tStartMs": 199040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "OK, so let's say we are in a restaurant now. I'm  "
+    } ]
+  }, {
+    "tStartMs": 203440,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "the waiter. I say to you: \n'Are you ready to order?'"
+    } ]
+  }, {
+    "tStartMs": 208480,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "'Yes, I am.'"
+    } ]
+  }, {
+    "tStartMs": 210000,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "'And what would you like?'"
+    } ]
+  }, {
+    "tStartMs": 211760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "'Can I get the risotto, please?'"
+    } ]
+  }, {
+    "tStartMs": 214640,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "'Yes, of course.'"
+    } ]
+  }, {
+    "tStartMs": 215920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So we can also say, 'Can I get the risotto?',  "
+    } ]
+  }, {
+    "tStartMs": 219440,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "as well as can I have the risotto. And notice that we say 'the risotto', not a risotto."
+    } ]
+  }, {
+    "tStartMs": 226400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 233360,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Let's recap the language we \nlearned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 238000,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "We had 'eat out' which means 'eat a meal \nat a restaurant rather than at home'."
+    } ]
+  }, {
+    "tStartMs": 244400,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "'Special occasion' – 'a birthday, \nanniversary, or other reason to celebrate'."
+    } ]
+  }, {
+    "tStartMs": 249680,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And we learned that when we order \nin a restaurant, we usually say:  "
+    } ]
+  }, {
+    "tStartMs": 254640,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "'I'll have the something… fish… chicken… risotto.'"
+    } ]
+  }, {
+    "tStartMs": 260880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Or, 'Can I get the...', \nand what you want to order."
+    } ]
+  }, {
+    "tStartMs": 264240,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "So, for example, when I eat at my favourite restaurant, I always get 'the risotto'."
+    } ]
+  }, {
+    "tStartMs": 272480,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Thanks for listening to Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 275440,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "If you like restaurants, you could try our drama  "
+    } ]
+  }, {
+    "tStartMs": 278880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "series The White Elephant all \nabout a busy restaurant kitchen."
+    } ]
+  }, {
+    "tStartMs": 287647,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  } ]
+}

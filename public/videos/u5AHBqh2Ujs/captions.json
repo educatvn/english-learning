@@ -1,0 +1,583 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Hello and welcome"
+    } ]
+  }, {
+    "tStartMs": 1168,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "to Real Easy English,"
+    } ]
+  }, {
+    "tStartMs": 2920,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "the podcast\nwhere we have real conversations"
+    } ]
+  }, {
+    "tStartMs": 5756,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "in easy English to help you learn."
+    } ]
+  }, {
+    "tStartMs": 8008,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "I'm Georgie."
+    } ]
+  }, {
+    "tStartMs": 8967,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "And I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 9968,
+    "dDurationMs": 4505,
+    "segs": [ {
+      "utf8": "Don't forget that there's a video\nversion of this podcast on our website,"
+    } ]
+  }, {
+    "tStartMs": 14473,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "bbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 17059,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "You can find subtitles to read along\nand you can download a free worksheet."
+    } ]
+  }, {
+    "tStartMs": 29863,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "Hello, Neil."
+    } ]
+  }, {
+    "tStartMs": 31490,
+    "dDurationMs": 997,
+    "segs": [ {
+      "utf8": "Hi, Georgie."
+    } ]
+  }, {
+    "tStartMs": 32487,
+    "dDurationMs": 1005,
+    "segs": [ {
+      "utf8": "Happy New Year."
+    } ]
+  }, {
+    "tStartMs": 33492,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Thank you. Happy New Year to you too."
+    } ]
+  }, {
+    "tStartMs": 35661,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "Today we are talking\nabout the start of a new year."
+    } ]
+  }, {
+    "tStartMs": 39248,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "So we're going to talk about some\nof our plans for the new year."
+    } ]
+  }, {
+    "tStartMs": 43252,
+    "dDurationMs": 2877,
+    "segs": [ {
+      "utf8": "And we'll also make\nsome New Year's resolutions."
+    } ]
+  }, {
+    "tStartMs": 46129,
+    "dDurationMs": 6632,
+    "segs": [ {
+      "utf8": "So this is a tradition where people make\npromises to themselves for the new year."
+    } ]
+  }, {
+    "tStartMs": 52761,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "Yeah. They're difficult to keep\naren't they?"
+    } ]
+  }, {
+    "tStartMs": 55097,
+    "dDurationMs": 953,
+    "segs": [ {
+      "utf8": "They are."
+    } ]
+  }, {
+    "tStartMs": 56050,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But we try anyway."
+    } ]
+  }, {
+    "tStartMs": 58058,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "Exactly. So, are you excited\nabout the new year, Neil?"
+    } ]
+  }, {
+    "tStartMs": 61770,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "I think so. 2026. Can you believe it?"
+    } ]
+  }, {
+    "tStartMs": 65274,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "I can not believe it."
+    } ]
+  }, {
+    "tStartMs": 66650,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "OK, so have you got any big plans?"
+    } ]
+  }, {
+    "tStartMs": 70112,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "Um, well, I'm going to start the year\nwith a big trip, actually,"
+    } ]
+  }, {
+    "tStartMs": 74783,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "with my family."
+    } ]
+  }, {
+    "tStartMs": 76285,
+    "dDurationMs": 6047,
+    "segs": [ {
+      "utf8": "Um, we're going to South Africa\nbecause this is where my parents\nhad their honeymoon."
+    } ]
+  }, {
+    "tStartMs": 82332,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "And my mum also used to live there\nfor a while."
+    } ]
+  }, {
+    "tStartMs": 85502,
+    "dDurationMs": 5214,
+    "segs": [ {
+      "utf8": "So it's a dream of hers\nto go with the whole family."
+    } ]
+  }, {
+    "tStartMs": 90716,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "Um, and she can show us around a bit."
+    } ]
+  }, {
+    "tStartMs": 93302,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "What about you?"
+    } ]
+  }, {
+    "tStartMs": 94594,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "Well, I don't have any big plans yet,"
+    } ]
+  }, {
+    "tStartMs": 98765,
+    "dDurationMs": 5256,
+    "segs": [ {
+      "utf8": "but it's an important year at school,\nespecially for my daughter."
+    } ]
+  }, {
+    "tStartMs": 104021,
+    "dDurationMs": 6381,
+    "segs": [ {
+      "utf8": "Um, and so when she finishes that,\nher school year and her exams,"
+    } ]
+  }, {
+    "tStartMs": 110402,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "maybe we'll do something special\nto mark that occasion."
+    } ]
+  }, {
+    "tStartMs": 114573,
+    "dDurationMs": 6214,
+    "segs": [ {
+      "utf8": "So, Georgie, it's impossible to talk about the new year without mentioning resolutions."
+    } ]
+  }, {
+    "tStartMs": 120787,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "So what are your resolutions?"
+    } ]
+  }, {
+    "tStartMs": 123206,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "I think my main one is to make\nfewer resolutions,"
+    } ]
+  }, {
+    "tStartMs": 128211,
+    "dDurationMs": 6298,
+    "segs": [ {
+      "utf8": "because last year I made too many\nand it was really hard to keep them"
+    } ]
+  }, {
+    "tStartMs": 134509,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "and it made me feel very bad about myself."
+    } ]
+  }, {
+    "tStartMs": 137888,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "So this year, I'm just going to keep it simple."
+    } ]
+  }, {
+    "tStartMs": 142267,
+    "dDurationMs": 8050,
+    "segs": [ {
+      "utf8": "Health, so running and um, language\nlearning, Spanish, I need to do that."
+    } ]
+  }, {
+    "tStartMs": 150317,
+    "dDurationMs": 4337,
+    "segs": [ {
+      "utf8": "But for running, I think this time I need a big goal."
+    } ]
+  }, {
+    "tStartMs": 154654,
+    "dDurationMs": 6716,
+    "segs": [ {
+      "utf8": "So I'm a bit scared about it, but I\nthink I'm going to book a half marathon."
+    } ]
+  }, {
+    "tStartMs": 161370,
+    "dDurationMs": 7048,
+    "segs": [ {
+      "utf8": "Um, because then I can make a training\nprogramme and feel really motivated."
+    } ]
+  }, {
+    "tStartMs": 168418,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Um, I think that's what I need."
+    } ]
+  }, {
+    "tStartMs": 170295,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "I think that's a great idea."
+    } ]
+  }, {
+    "tStartMs": 171880,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "Um, what about you, Neil?"
+    } ]
+  }, {
+    "tStartMs": 174299,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Any New Year's resolutions?"
+    } ]
+  }, {
+    "tStartMs": 176259,
+    "dDurationMs": 5881,
+    "segs": [ {
+      "utf8": "Well, usually once Christmas\nand New Year are over,"
+    } ]
+  }, {
+    "tStartMs": 182140,
+    "dDurationMs": 6882,
+    "segs": [ {
+      "utf8": "we have the two darkest,\nsaddest months of the year."
+    } ]
+  }, {
+    "tStartMs": 189022,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "January and February."
+    } ]
+  }, {
+    "tStartMs": 190524,
+    "dDurationMs": 5171,
+    "segs": [ {
+      "utf8": "And normally I really just wish\nthat those months go away"
+    } ]
+  }, {
+    "tStartMs": 195695,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "and that we get into spring."
+    } ]
+  }, {
+    "tStartMs": 197280,
+    "dDurationMs": 6465,
+    "segs": [ {
+      "utf8": "But this year I think I'm going\nto enjoy every day, regardless,"
+    } ]
+  }, {
+    "tStartMs": 203745,
+    "dDurationMs": 4797,
+    "segs": [ {
+      "utf8": "you know, even if the weather is awful\nand it's dark and cold, I still want"
+    } ]
+  }, {
+    "tStartMs": 208542,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "to get out there and appreciate it\nrather than wish my life away."
+    } ]
+  }, {
+    "tStartMs": 213672,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "So, Neil, do you have any goals\nfor this year?"
+    } ]
+  }, {
+    "tStartMs": 216758,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So something you want to achieve?"
+    } ]
+  }, {
+    "tStartMs": 219678,
+    "dDurationMs": 5964,
+    "segs": [ {
+      "utf8": "Yeah, I think I don't really want\nto take up something new."
+    } ]
+  }, {
+    "tStartMs": 225642,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "'Take up' means 'start a new activity'."
+    } ]
+  }, {
+    "tStartMs": 228687,
+    "dDurationMs": 8133,
+    "segs": [ {
+      "utf8": "But I think my goal is to become\ngood at something I like doing."
+    } ]
+  }, {
+    "tStartMs": 236820,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "Right. And what could that be?"
+    } ]
+  }, {
+    "tStartMs": 239698,
+    "dDurationMs": 5881,
+    "segs": [ {
+      "utf8": "So I like learning Spanish,\nbut I'm not very good."
+    } ]
+  }, {
+    "tStartMs": 245579,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "I'm not very dedicated,"
+    } ]
+  }, {
+    "tStartMs": 247122,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "and I'm always jealous\nof people who can speak really well."
+    } ]
+  }, {
+    "tStartMs": 251585,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "Mmm. Um, and the same with my guitar."
+    } ]
+  }, {
+    "tStartMs": 255547,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Yeah. I always want to get better."
+    } ]
+  }, {
+    "tStartMs": 257424,
+    "dDurationMs": 5547,
+    "segs": [ {
+      "utf8": "Yeah. A goal could be to write a song\nand produce it."
+    } ]
+  }, {
+    "tStartMs": 262971,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "Yeah. And play it on this podcast."
+    } ]
+  }, {
+    "tStartMs": 266558,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "If you're all really unlucky."
+    } ]
+  }, {
+    "tStartMs": 268477,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "I don't think anyone wants that."
+    } ]
+  }, {
+    "tStartMs": 271271,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Thank you for your honesty."
+    } ]
+  }, {
+    "tStartMs": 280780,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "Right. Let's recap the language\nwe heard during the conversation."
+    } ]
+  }, {
+    "tStartMs": 285243,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "We heard 'New Year's resolution', which\nis a promise you make to yourself"
+    } ]
+  }, {
+    "tStartMs": 290248,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "at the start of a year to start doing something good"
+    } ]
+  }, {
+    "tStartMs": 293668,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "or stop doing something bad."
+    } ]
+  }, {
+    "tStartMs": 296963,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "We heard 'goals'."
+    } ]
+  }, {
+    "tStartMs": 298632,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "Now, goals are things that we say that\nwe want to do and try to achieve them."
+    } ]
+  }, {
+    "tStartMs": 304262,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "We also heard 'motivated',"
+    } ]
+  }, {
+    "tStartMs": 306348,
+    "dDurationMs": 4212,
+    "segs": [ {
+      "utf8": "which is a feeling of really wanting\nto do something and doing it."
+    } ]
+  }, {
+    "tStartMs": 310560,
+    "dDurationMs": 4588,
+    "segs": [ {
+      "utf8": "For example, I feel motivated to run a half marathon this year."
+    } ]
+  }, {
+    "tStartMs": 315148,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "And we heard the expression 'to wish your life away'."
+    } ]
+  }, {
+    "tStartMs": 319069,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "If you wish your life away, you don't\nappreciate what's happening now."
+    } ]
+  }, {
+    "tStartMs": 324491,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "You look far into the future."
+    } ]
+  }, {
+    "tStartMs": 326826,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "That's it for this episode\nof Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 330121,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "Do you have a New Year's resolution?"
+    } ]
+  }, {
+    "tStartMs": 332249,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "We'd love to hear about it."
+    } ]
+  }, {
+    "tStartMs": 334167,
+    "dDurationMs": 5255,
+    "segs": [ {
+      "utf8": "Email us at.\nlearningenglish@bbc.co.uk"
+    } ]
+  }, {
+    "tStartMs": 339464,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "Is one of your New Year's resolutions\nto improve your English?"
+    } ]
+  }, {
+    "tStartMs": 343260,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "If so, go to our website,"
+    } ]
+  }, {
+    "tStartMs": 345387,
+    "dDurationMs": 4337,
+    "segs": [ {
+      "utf8": "bbclearningenglish.com, where\nyou can find all kinds of activities"
+    } ]
+  }, {
+    "tStartMs": 349724,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "and quizzes to help you improve."
+    } ]
+  }, {
+    "tStartMs": 352102,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "Goodbye for now."
+    } ]
+  }, {
+    "tStartMs": 353561,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Goodbye."
+    } ]
+  } ]
+}

@@ -1,0 +1,493 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 320,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "Hello! You're listening to Real Easy \nEnglish from BBC Learning English. I'm Beth."
+    } ]
+  }, {
+    "tStartMs": 8000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And I'm Neil. This is the podcast where we have  "
+    } ]
+  }, {
+    "tStartMs": 11760,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "real conversations in easy English \nfor you to listen along and learn."
+    } ]
+  }, {
+    "tStartMs": 18640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "As always, you can find a \ntext version of this episode"
+    } ]
+  }, {
+    "tStartMs": 23120,
+    "dDurationMs": 6532,
+    "segs": [ {
+      "utf8": "to read along on our website – \nBBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 35680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So, Beth, how are you this week?"
+    } ]
+  }, {
+    "tStartMs": 38240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I'm very good, thank you.\nHow are you, Neil?"
+    } ]
+  }, {
+    "tStartMs": 40560,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I'm very well, thank you."
+    } ]
+  }, {
+    "tStartMs": 42480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "What are we talking about today?"
+    } ]
+  }, {
+    "tStartMs": 45040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "We are talking about\nhow much we follow the news."
+    } ]
+  }, {
+    "tStartMs": 49040,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Ah, the news!\nOK, so what do we mean by follow the news?"
+    } ]
+  }, {
+    "tStartMs": 55280,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So, when we say 'follow the news',"
+    } ]
+  }, {
+    "tStartMs": 58080,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "it means that you are\n'interested in the news'."
+    } ]
+  }, {
+    "tStartMs": 62000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So you might read it on your phone,"
+    } ]
+  }, {
+    "tStartMs": 65120,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "listen to it on the radio\nor watch it on TV quite regularly."
+    } ]
+  }, {
+    "tStartMs": 70400,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Yes, and you can also follow sports,\ncan't you?"
+    } ]
+  }, {
+    "tStartMs": 74480,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "So if you like a particular,\nfor example, football team,"
+    } ]
+  }, {
+    "tStartMs": 79600,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "you might check your phone a lot\nto find out the score,"
+    } ]
+  }, {
+    "tStartMs": 84160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "to follow and see how they're doing."
+    } ]
+  }, {
+    "tStartMs": 86960,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Yeah, exactly."
+    } ]
+  }, {
+    "tStartMs": 89120,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So, Neil, do you follow the news?"
+    } ]
+  }, {
+    "tStartMs": 92080,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Yes, I think it’s difficult\nnot to follow the news."
+    } ]
+  }, {
+    "tStartMs": 96800,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "First thing in the morning,"
+    } ]
+  }, {
+    "tStartMs": 98080,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "I look on my phone to see\nif anything big has happened overnight,"
+    } ]
+  }, {
+    "tStartMs": 104640,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and then I check a lot during the day\njust to see what’s happening."
+    } ]
+  }, {
+    "tStartMs": 109200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So I do follow news. How about you?"
+    } ]
+  }, {
+    "tStartMs": 112400,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Yes, I'm the same."
+    } ]
+  }, {
+    "tStartMs": 113840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So I get notifications on my phone\nthroughout the day,"
+    } ]
+  }, {
+    "tStartMs": 118880,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "but sometimes I find that\nthat's a little bit too much."
+    } ]
+  }, {
+    "tStartMs": 123840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Sometimes you need a break\nwhen you're working"
+    } ]
+  }, {
+    "tStartMs": 127200,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and you don't want to see the news\nall the time,"
+    } ]
+  }, {
+    "tStartMs": 130800,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "and my phone does notify me a lot\nabout the news."
+    } ]
+  }, {
+    "tStartMs": 135920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yeah, I think you can have too much news"
+    } ]
+  }, {
+    "tStartMs": 139920,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "and it can be not very good for you\nto read lots of usually quite bad news."
+    } ]
+  }, {
+    "tStartMs": 148080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Yes, definitely."
+    } ]
+  }, {
+    "tStartMs": 150160,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "So, why do you like to follow the news,\neven though it can be too sad?"
+    } ]
+  }, {
+    "tStartMs": 157280,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Ah, that's a very good question."
+    } ]
+  }, {
+    "tStartMs": 159760,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "I think it's a bit of a habit."
+    } ]
+  }, {
+    "tStartMs": 162880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a bit addictive"
+    } ]
+  }, {
+    "tStartMs": 164880,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "and I think we sometimes feel like\nwe need to know what’s happening,"
+    } ]
+  }, {
+    "tStartMs": 172080,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "even if we have actually no control\nover what is happening."
+    } ]
+  }, {
+    "tStartMs": 176720,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yeah, I completely agree,"
+    } ]
+  }, {
+    "tStartMs": 178400,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "because even though I get notifications\nand I read the news,"
+    } ]
+  }, {
+    "tStartMs": 183840,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "I sometimes feel like I still don't know\nenough about what’s going on,"
+    } ]
+  }, {
+    "tStartMs": 189200,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "because there's so much information\nout there,"
+    } ]
+  }, {
+    "tStartMs": 192800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and so many different ways to get the news"
+    } ]
+  }, {
+    "tStartMs": 196400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "that it's not enough\nto just read one article."
+    } ]
+  }, {
+    "tStartMs": 201200,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "There's so much information\nthat you want to understand."
+    } ]
+  }, {
+    "tStartMs": 205360,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So, Beth, we work at the BBC."
+    } ]
+  }, {
+    "tStartMs": 207880,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "— We do.\n— It's a news organisation."
+    } ]
+  }, {
+    "tStartMs": 211440,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Have your news habits changed\nsince you started working at the BBC?"
+    } ]
+  }, {
+    "tStartMs": 218160,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Yes, I think they definitely have."
+    } ]
+  }, {
+    "tStartMs": 221440,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "I think I probably pay more attention\nto the news now than I did in the past"
+    } ]
+  }, {
+    "tStartMs": 228480,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "and, for example, I already knew\nsome information about certain topics,"
+    } ]
+  }, {
+    "tStartMs": 235120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "but now I want to learn even more,"
+    } ]
+  }, {
+    "tStartMs": 238400,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "so I try to pay more attention to things"
+    } ]
+  }, {
+    "tStartMs": 240880,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "that maybe I wasn't as interested in\nin the past."
+    } ]
+  }, {
+    "tStartMs": 245509,
+    "dDurationMs": 891,
+    "segs": [ {
+      "utf8": "— Mm.\n— What about you?"
+    } ]
+  }, {
+    "tStartMs": 246400,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Does working at the BBC\nmean you pay more attention to the news?"
+    } ]
+  }, {
+    "tStartMs": 251520,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Well, I used to be a journalist\nat the BBC,"
+    } ]
+  }, {
+    "tStartMs": 256240,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "so probably I used to pay more attention\nor follow the news more than I do now,"
+    } ]
+  }, {
+    "tStartMs": 262960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "because now I make\nthese programmes about English."
+    } ]
+  }, {
+    "tStartMs": 267120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Maybe it's good that you don’t\nfollow the news as much as you did,"
+    } ]
+  }, {
+    "tStartMs": 271360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "because it's not always good."
+    } ]
+  }, {
+    "tStartMs": 273920,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "It's not. It's often bad news."
+    } ]
+  }, {
+    "tStartMs": 281760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "OK, let's recap the vocabulary\nwe learned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 286560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "We had 'follow the news', which means\n'to be interested in the news'."
+    } ]
+  }, {
+    "tStartMs": 291840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "We used too, and 'too' means\n'more than is needed of something',"
+    } ]
+  }, {
+    "tStartMs": 296880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "so I watch too much news."
+    } ]
+  }, {
+    "tStartMs": 300480,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "We also had 'enough', which means\n'as much as is needed of something'."
+    } ]
+  }, {
+    "tStartMs": 306720,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "So if you think you watch enough news, you\ndon't need more and you don't need less."
+    } ]
+  }, {
+    "tStartMs": 313280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And we’ve had 'already',\nwhich means 'before now'."
+    } ]
+  }, {
+    "tStartMs": 317520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Yes, I said that\nbefore I worked at the BBC,"
+    } ]
+  }, {
+    "tStartMs": 321120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "I already followed quite a bit of news."
+    } ]
+  }, {
+    "tStartMs": 325840,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "And I can't believe it is already the end of \nthis episode, and it's the end of this series."
+    } ]
+  }, {
+    "tStartMs": 333200,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Yes, that's sad news! So, we will be back \nwith more easy English podcasts for you,  "
+    } ]
+  }, {
+    "tStartMs": 339760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "but for now, you can find lots more \nactivities and courses to help with  "
+    } ]
+  }, {
+    "tStartMs": 344880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "your English on our website – \nBBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 349680,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Thank you for listening. See you soon!"
+    } ]
+  }, {
+    "tStartMs": 352080,
+    "dDurationMs": 522,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}

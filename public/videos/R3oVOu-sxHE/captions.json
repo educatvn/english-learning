@@ -1,0 +1,451 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 480,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Hello and welcome to Real \nEasy English. I'm Georgie."
+    } ]
+  }, {
+    "tStartMs": 4960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And I'm Neil. In this podcast,  "
+    } ]
+  }, {
+    "tStartMs": 7520,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "we have real conversations in easy English \nto help you improve your language skills."
+    } ]
+  }, {
+    "tStartMs": 15520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "If you want to read along to the podcast,  "
+    } ]
+  }, {
+    "tStartMs": 18080,
+    "dDurationMs": 5983,
+    "segs": [ {
+      "utf8": "you can find a text version at \nBBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 28080,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Hi, Georgie. How are you doing?"
+    } ]
+  }, {
+    "tStartMs": 30400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I'm doing OK, thanks, Neil. How are you?"
+    } ]
+  }, {
+    "tStartMs": 32960,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "I'm fine."
+    } ]
+  }, {
+    "tStartMs": 34240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "What are we talking about this week, Neil?"
+    } ]
+  }, {
+    "tStartMs": 36720,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Today, we're talking about hobbies."
+    } ]
+  }, {
+    "tStartMs": 39520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "We’ll talk about the sports\nwe play in our spare time."
+    } ]
+  }, {
+    "tStartMs": 43680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "OK, great! Can you explain\nwhat you mean by spare time?"
+    } ]
+  }, {
+    "tStartMs": 48800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Well, 'spare time' means\n'the time when we're not working"
+    } ]
+  }, {
+    "tStartMs": 53040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "'and we don't have anything\nthat we need to do'."
+    } ]
+  }, {
+    "tStartMs": 56240,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Yes. And we can also use the phrase\n'free time', which means the same thing."
+    } ]
+  }, {
+    "tStartMs": 61680,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "OK, so, Neil, do you play any sports\nin your free time?"
+    } ]
+  }, {
+    "tStartMs": 66160,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Well, I do exercise, so I go running."
+    } ]
+  }, {
+    "tStartMs": 71520,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "That's not really a sport."
+    } ]
+  }, {
+    "tStartMs": 73760,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "I help my son training when he plays\ncricket, so that's kind of playing sport."
+    } ]
+  }, {
+    "tStartMs": 81040,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Very good."
+    } ]
+  }, {
+    "tStartMs": 81920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And how about you, Georgie.\nDo you play sports?"
+    } ]
+  }, {
+    "tStartMs": 85440,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "I also don’t play a sport, but I do like\nrunning and I also do yoga as well."
+    } ]
+  }, {
+    "tStartMs": 92240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Ah, yoga! When do you do yoga?"
+    } ]
+  }, {
+    "tStartMs": 96160,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "I usually do it during the week,\nbut last weekend I did yoga as well."
+    } ]
+  }, {
+    "tStartMs": 101440,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "I like doing yoga at the end\nof a stressful week,"
+    } ]
+  }, {
+    "tStartMs": 105120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "because I feel it makes me relaxed."
+    } ]
+  }, {
+    "tStartMs": 107840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So, Neil, you said you like running."
+    } ]
+  }, {
+    "tStartMs": 110720,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "When do you like to go running?"
+    } ]
+  }, {
+    "tStartMs": 112640,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "I go running at lunchtime\nwhen I'm working from home."
+    } ]
+  }, {
+    "tStartMs": 119440,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "So it's nice to do some exercise\nin the middle of the day"
+    } ]
+  }, {
+    "tStartMs": 124800,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and go for a run and then feel alive again\nin the afternoon."
+    } ]
+  }, {
+    "tStartMs": 130880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Why else do you like running?"
+    } ]
+  }, {
+    "tStartMs": 133440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Erm, actually, I don't like running!"
+    } ]
+  }, {
+    "tStartMs": 137280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I don't like the actual running,"
+    } ]
+  }, {
+    "tStartMs": 140800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "but after I go running, I feel great,\nalways."
+    } ]
+  }, {
+    "tStartMs": 145360,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And I think, \"Ah, I should go running\nmore,\" but I never want to."
+    } ]
+  }, {
+    "tStartMs": 150080,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Yes, I understand that feeling as well."
+    } ]
+  }, {
+    "tStartMs": 154560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "When did you last go for a run, Georgie?"
+    } ]
+  }, {
+    "tStartMs": 157600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Actually, I went running last weekend."
+    } ]
+  }, {
+    "tStartMs": 161200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "It was a really sunny day\nand it felt great."
+    } ]
+  }, {
+    "tStartMs": 165280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "So, Georgie, do you have any plans\nto go for a run"
+    } ]
+  }, {
+    "tStartMs": 170160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "or maybe do yoga this weekend?"
+    } ]
+  }, {
+    "tStartMs": 174320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Not this weekend, but next weekend,"
+    } ]
+  }, {
+    "tStartMs": 177120,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I have plans to go running\nwith my friends."
+    } ]
+  }, {
+    "tStartMs": 179680,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Oh, wow!\nDo you talk and run at the same time?"
+    } ]
+  }, {
+    "tStartMs": 183440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Absolutely not!"
+    } ]
+  }, {
+    "tStartMs": 185840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Good, because that's like extra exercise."
+    } ]
+  }, {
+    "tStartMs": 188960,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "That is too difficult, Neil.\nI can't run and talk to my friends!"
+    } ]
+  }, {
+    "tStartMs": 194640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "OK, Neil. So, we know that you go running\nand you like cricket."
+    } ]
+  }, {
+    "tStartMs": 199280,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But are there any new sports\nthat you'd like to try?"
+    } ]
+  }, {
+    "tStartMs": 203040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Well, Georgie, you do yoga."
+    } ]
+  }, {
+    "tStartMs": 206400,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I'd like to take up yoga."
+    } ]
+  }, {
+    "tStartMs": 209440,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Erm, but I have tried it in the past\nand it was just too boring."
+    } ]
+  }, {
+    "tStartMs": 216640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Yoga is not boring. It's wonderful!"
+    } ]
+  }, {
+    "tStartMs": 220400,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Neil, could you explain the verb 'take up'\nthat you just used?"
+    } ]
+  }, {
+    "tStartMs": 225680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Yeah, we 'take up' something,"
+    } ]
+  }, {
+    "tStartMs": 229040,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "it means that we 'try something\nfor the first time',"
+    } ]
+  }, {
+    "tStartMs": 232960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "a new hobby or a new habit, I suppose."
+    } ]
+  }, {
+    "tStartMs": 237440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "So, you can take up a sport\nor take up learning a new instrument."
+    } ]
+  }, {
+    "tStartMs": 243120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Mm-hm.\nI'd like to take up painting, I think."
+    } ]
+  }, {
+    "tStartMs": 247120,
+    "dDurationMs": 6562,
+    "segs": [ {
+      "utf8": "I think painting is a really nice way\nto boost your creativity."
+    } ]
+  }, {
+    "tStartMs": 258720,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Let's recap the vocabulary\nwe learned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 263040,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "We had 'next' to talk about\n'a future plan', like next weekend."
+    } ]
+  }, {
+    "tStartMs": 270480,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "We used 'last' to talk about\n'a past plan'."
+    } ]
+  }, {
+    "tStartMs": 274160,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Like last weekend, last month, last week."
+    } ]
+  }, {
+    "tStartMs": 278400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It's usually the most recent."
+    } ]
+  }, {
+    "tStartMs": 280800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And we had 'take up',\nwhich means 'start a new hobby'."
+    } ]
+  }, {
+    "tStartMs": 285120,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Yes, and I'm going to take up \npainting, which is exciting!"
+    } ]
+  }, {
+    "tStartMs": 291920,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Thanks for listening to Real Easy \nEnglish. Visit our website for  "
+    } ]
+  }, {
+    "tStartMs": 296400,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "more activities and courses to help you with \nyour English – BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 303840,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Next time we'll talk about social media."
+    } ]
+  }, {
+    "tStartMs": 307120,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "See you then. Goodbye!"
+    } ]
+  }, {
+    "tStartMs": 308480,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}

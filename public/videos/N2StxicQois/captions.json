@@ -1,0 +1,517 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 720,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Hello, welcome to Real Easy English \nfrom BBC Learning English. I'm Georgie."
+    } ]
+  }, {
+    "tStartMs": 6800,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And I'm Neil. And in this podcast we have real  "
+    } ]
+  }, {
+    "tStartMs": 10960,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "conversations in easy English to \nhelp you improve your English."
+    } ]
+  }, {
+    "tStartMs": 17040,
+    "dDurationMs": 8566,
+    "segs": [ {
+      "utf8": "Remember, you can read what we're saying on \nour website. BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 30640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "How are you today, Georgie?"
+    } ]
+  }, {
+    "tStartMs": 33040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "I'm pretty good, Neil, thank you.\nI'm happy that it’s Friday."
+    } ]
+  }, {
+    "tStartMs": 36880,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Mm, me too!"
+    } ]
+  }, {
+    "tStartMs": 38560,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "So today, we're talking about holidays\nand our dream destinations."
+    } ]
+  }, {
+    "tStartMs": 45760,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Great, I love this topic."
+    } ]
+  }, {
+    "tStartMs": 47440,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "But can you explain what you mean\nby destination, Neil?"
+    } ]
+  }, {
+    "tStartMs": 51680,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "A 'destination' is what we call a place\nwe are going to."
+    } ]
+  }, {
+    "tStartMs": 57920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "The place we would like to go to."
+    } ]
+  }, {
+    "tStartMs": 60560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "OK. So, if we are on a train to visit\nLondon, London is our destination."
+    } ]
+  }, {
+    "tStartMs": 66400,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "But we often use it when we're talking\nabout holidays or special journeys."
+    } ]
+  }, {
+    "tStartMs": 71120,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "That's right. So, a 'dream destination'"
+    } ]
+  }, {
+    "tStartMs": 74080,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "is 'somewhere we would really like to go\nand travel on our holiday'."
+    } ]
+  }, {
+    "tStartMs": 79680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "OK, so, where is your dream\nholiday destination, Neil?"
+    } ]
+  }, {
+    "tStartMs": 84400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I like two different kinds of holidays."
+    } ]
+  }, {
+    "tStartMs": 87280,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "I like interesting cities, interesting\nold cities, like European cities,"
+    } ]
+  }, {
+    "tStartMs": 93200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "but I also like mountains and countryside"
+    } ]
+  }, {
+    "tStartMs": 98000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and those kind of places,\nlike in South America."
+    } ]
+  }, {
+    "tStartMs": 102400,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Mm-hm. Yes, I also have two\ndifferent types of holidays that I like."
+    } ]
+  }, {
+    "tStartMs": 108880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "If I want to relax, I usually want to be\nin the sun by the beach,"
+    } ]
+  }, {
+    "tStartMs": 113520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "but I also love to see\nnew and interesting places,"
+    } ]
+  }, {
+    "tStartMs": 117840,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "places that you can't see\nin your own country."
+    } ]
+  }, {
+    "tStartMs": 121600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Neil, where's your favourite place\nyou've ever been to?"
+    } ]
+  }, {
+    "tStartMs": 125200,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Oh, well, I really, really liked Japan,\nwhen I visited Japan."
+    } ]
+  }, {
+    "tStartMs": 131600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "OK, so if I go to Japan,\nwhat should I do there?"
+    } ]
+  }, {
+    "tStartMs": 135920,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "You should eat as much food as you can,\ncos the food is fantastic."
+    } ]
+  }, {
+    "tStartMs": 140960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And you can eat in a little noodle shop"
+    } ]
+  }, {
+    "tStartMs": 145280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "or you can eat in a big, posh restaurant\nand it's all amazing."
+    } ]
+  }, {
+    "tStartMs": 149280,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Mm, that sounds so good, and I love food!"
+    } ]
+  }, {
+    "tStartMs": 152240,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Ok so, you said I should try\nsome Japanese restaurants."
+    } ]
+  }, {
+    "tStartMs": 156880,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "What is this word 'should'?\nWhat does it mean?"
+    } ]
+  }, {
+    "tStartMs": 158960,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "It means I think it's a good idea for you\nto do that. That's my advice to you."
+    } ]
+  }, {
+    "tStartMs": 165360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "OK, so it's kind of like a recommendation\nin this case?"
+    } ]
+  }, {
+    "tStartMs": 169760,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Yeah. So when you go to Japan,\nyou should eat sushi."
+    } ]
+  }, {
+    "tStartMs": 173200,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "When you go to Japan,\nyou should visit Kyoto to see Zen gardens."
+    } ]
+  }, {
+    "tStartMs": 180560,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So how about you, Georgie?"
+    } ]
+  }, {
+    "tStartMs": 182720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "What's... What's the best place\nyou've ever been on holiday?"
+    } ]
+  }, {
+    "tStartMs": 186800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "I really love Edinburgh in Scotland.\nI love it because it's very green."
+    } ]
+  }, {
+    "tStartMs": 192400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "The city is very close to nature\nand it’s very beautiful."
+    } ]
+  }, {
+    "tStartMs": 196160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The buildings are really beautiful."
+    } ]
+  }, {
+    "tStartMs": 198560,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "OK, so Edinburgh, Georgie.\nWhat could I do in Edinburgh?"
+    } ]
+  }, {
+    "tStartMs": 203200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Well, in August, for example,\nyou could go to the Fringe Festival,"
+    } ]
+  }, {
+    "tStartMs": 208480,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "which is a comedy and arts festival."
+    } ]
+  }, {
+    "tStartMs": 210960,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "So you could see some shows."
+    } ]
+  }, {
+    "tStartMs": 213280,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Or you could go for a walk\nin the national parks outside of the city."
+    } ]
+  }, {
+    "tStartMs": 218720,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Or you could go to see some of the museums\nthey have."
+    } ]
+  }, {
+    "tStartMs": 223040,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "There’s lots of things you could do."
+    } ]
+  }, {
+    "tStartMs": 224800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Yeah, and when we use 'could', we're\ntalking about 'things that are possible'."
+    } ]
+  }, {
+    "tStartMs": 230000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Yes, and that's different from 'should',"
+    } ]
+  }, {
+    "tStartMs": 232160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "because when I say\nyou should do something,"
+    } ]
+  }, {
+    "tStartMs": 234880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "it means that it’s a good idea\nor I'm giving you advice."
+    } ]
+  }, {
+    "tStartMs": 238800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "But 'could',\nI'm just giving you some options,"
+    } ]
+  }, {
+    "tStartMs": 241600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "things that are possible for you to do."
+    } ]
+  }, {
+    "tStartMs": 243520,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Now, we don't always\ngo to another country on holiday"
+    } ]
+  }, {
+    "tStartMs": 248240,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "or even a different city, do we?"
+    } ]
+  }, {
+    "tStartMs": 250320,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "No, now it's actually quite popular\nto go on holiday inside your own country"
+    } ]
+  }, {
+    "tStartMs": 255280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and we have a word for this,\ndon't we, Neil?"
+    } ]
+  }, {
+    "tStartMs": 257440,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Yes, we do. It combines two words,\nthe word 'stay' and the word 'vacation'."
+    } ]
+  }, {
+    "tStartMs": 263120,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Put them together\nand you have 'staycation'."
+    } ]
+  }, {
+    "tStartMs": 266160,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "And a 'staycation'"
+    } ]
+  }, {
+    "tStartMs": 267600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "is 'a holiday at, actually in, your house,\nor near your house'."
+    } ]
+  }, {
+    "tStartMs": 271840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Have you ever done a staycation, Neil?"
+    } ]
+  }, {
+    "tStartMs": 275440,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yes, plenty of times!"
+    } ]
+  }, {
+    "tStartMs": 278000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Often, on a staycation\nyou might do day trips,"
+    } ]
+  }, {
+    "tStartMs": 281040,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "so go and visit places in the area,\nbut come home in the evening."
+    } ]
+  }, {
+    "tStartMs": 291200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Now the problem with holidays\nis they are expensive."
+    } ]
+  }, {
+    "tStartMs": 294320,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "We probably need to save up money\nif we want to travel to all these places,"
+    } ]
+  }, {
+    "tStartMs": 298960,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "apart from the staycation."
+    } ]
+  }, {
+    "tStartMs": 300720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Yes, we should save up some money,\nexactly."
+    } ]
+  }, {
+    "tStartMs": 303840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Let's recap the language we learned\nduring the conversation."
+    } ]
+  }, {
+    "tStartMs": 308080,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "We learned 'destination', which we use\nto talk about 'a place we are going to,"
+    } ]
+  }, {
+    "tStartMs": 314240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "'or we would like to go to'."
+    } ]
+  }, {
+    "tStartMs": 316560,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "'Could', which we use to talk about\n'something that is possible'."
+    } ]
+  }, {
+    "tStartMs": 320480,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "'Should', which we use to talk about\n'something that it's a good idea to do'."
+    } ]
+  }, {
+    "tStartMs": 325760,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This is advice."
+    } ]
+  }, {
+    "tStartMs": 327760,
+    "dDurationMs": 7453,
+    "segs": [ {
+      "utf8": "And 'staycation' which is 'a fun word\nto talk about a holiday at or near home'."
+    } ]
+  }, {
+    "tStartMs": 336240,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "That's it for this episode of Real \nEasy English. Visit our website for  "
+    } ]
+  }, {
+    "tStartMs": 341280,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "more activities and courses to help you with \nyour English. BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 348640,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Next time, we'll be talking about work and jobs."
+    } ]
+  }, {
+    "tStartMs": 352160,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "See you then. Goodbye!"
+    } ]
+  }, {
+    "tStartMs": 353360,
+    "dDurationMs": 1662,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}

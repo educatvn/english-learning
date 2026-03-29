@@ -1,0 +1,445 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 320,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Welcome to Real Easy English, the podcast where  "
+    } ]
+  }, {
+    "tStartMs": 4320,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "we have real conversations in easy \nEnglish to help you learn. I'm Beth."
+    } ]
+  }, {
+    "tStartMs": 10720,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And I'm Neil. If you want to \nread along with this podcast,  "
+    } ]
+  }, {
+    "tStartMs": 14960,
+    "dDurationMs": 6791,
+    "segs": [ {
+      "utf8": "you can find a full transcript on our \nwebsite – BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 26000,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "How are you today, Neil?"
+    } ]
+  }, {
+    "tStartMs": 27520,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I'm very well, thank you, Beth.\nHow about you?"
+    } ]
+  }, {
+    "tStartMs": 30160,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I'm very good."
+    } ]
+  }, {
+    "tStartMs": 31520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So what topic are we talking about\nin this episode?"
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "OK, well, today's episode\nis all about habits and routines."
+    } ]
+  }, {
+    "tStartMs": 42400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Now we talked about our favourite foods\na few weeks ago."
+    } ]
+  }, {
+    "tStartMs": 47200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "But today we'll talk about our meal times\nand routines for eating."
+    } ]
+  }, {
+    "tStartMs": 52480,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Mm, sounds good!"
+    } ]
+  }, {
+    "tStartMs": 54240,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "What do we mean by a routine, Beth?\nIs it different to a habit?"
+    } ]
+  }, {
+    "tStartMs": 59840,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Well, they are similar, but a habit\nis something we do regularly."
+    } ]
+  }, {
+    "tStartMs": 65680,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "So, for example, I eat an apple\nand a banana most days."
+    } ]
+  }, {
+    "tStartMs": 71560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "— Ooh, very healthy.\n— Yeah."
+    } ]
+  }, {
+    "tStartMs": 73840,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "A routine, though, is slightly different."
+    } ]
+  }, {
+    "tStartMs": 76400,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "It's usually more about the time that we\ndo something and the way we do something."
+    } ]
+  }, {
+    "tStartMs": 82800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So, I have my breakfast at 6am every day."
+    } ]
+  }, {
+    "tStartMs": 87840,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "OK."
+    } ]
+  }, {
+    "tStartMs": 89120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "You said you have your breakfast\nat 6am every day."
+    } ]
+  }, {
+    "tStartMs": 93440,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "What do you usually have to eat?"
+    } ]
+  }, {
+    "tStartMs": 96640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Well, usually I have something simple."
+    } ]
+  }, {
+    "tStartMs": 101920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "A bowl of cereal,\nsome toast with marmalade."
+    } ]
+  }, {
+    "tStartMs": 105600,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "How about you, Beth?"
+    } ]
+  }, {
+    "tStartMs": 107360,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I usually have porridge."
+    } ]
+  }, {
+    "tStartMs": 110080,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "And what about lunch?\nWhat time do you have lunch, usually?"
+    } ]
+  }, {
+    "tStartMs": 115360,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Mm, I normally have lunch\nat about one o'clock. What about you?"
+    } ]
+  }, {
+    "tStartMs": 121200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yeah, the same. I don't like it at 12.\nThat's too early."
+    } ]
+  }, {
+    "tStartMs": 125200,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "But by two, I'm getting a little bit\nhungry and angry at the same time!"
+    } ]
+  }, {
+    "tStartMs": 131760,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There's a word for that, Neil."
+    } ]
+  }, {
+    "tStartMs": 133760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So if you're hungry and angry,\nwe can combine them and say 'hangry'."
+    } ]
+  }, {
+    "tStartMs": 138560,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Yeah. So it's important to have regular\nmeal times, so you don't get hangry."
+    } ]
+  }, {
+    "tStartMs": 143840,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "That's true. Now you've just reminded me\nof another word which is 'brunch'."
+    } ]
+  }, {
+    "tStartMs": 149680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Now, that's a combination of the words\n'breakfast' and 'lunch'."
+    } ]
+  }, {
+    "tStartMs": 154560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Do you ever have brunch, Neil?"
+    } ]
+  }, {
+    "tStartMs": 156960,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I love brunch, especially at weekends."
+    } ]
+  }, {
+    "tStartMs": 160880,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "Yeah. When I was at university, I used to\nhave brunch pretty much every day."
+    } ]
+  }, {
+    "tStartMs": 168720,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So I would meet up with my friends"
+    } ]
+  }, {
+    "tStartMs": 172640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "and we would go to a café\nand we would have brunch."
+    } ]
+  }, {
+    "tStartMs": 177440,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Beth, you said that you used to\nhave brunch at university."
+    } ]
+  }, {
+    "tStartMs": 183520,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Used to — what's that mean?"
+    } ]
+  }, {
+    "tStartMs": 185760,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Well, 'used to' is used to talk about\na habit in the past,"
+    } ]
+  }, {
+    "tStartMs": 191200,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "so something you did regularly\nin the past and don't do now."
+    } ]
+  }, {
+    "tStartMs": 196800,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Now, another way of talking about\npast habits is to use would."
+    } ]
+  }, {
+    "tStartMs": 202800,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "So if you remember, I said I would message\nmy friends and we would have brunch."
+    } ]
+  }, {
+    "tStartMs": 209760,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "So 'used to' and 'would' are both used\nto talk about past habits."
+    } ]
+  }, {
+    "tStartMs": 215440,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Do you ever miss a meal?"
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "No. I think when I was at school,\nmany years ago,"
+    } ]
+  }, {
+    "tStartMs": 222960,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "I used to miss breakfast,\nbecause I wanted to stay in bed."
+    } ]
+  }, {
+    "tStartMs": 228320,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "What about you?"
+    } ]
+  }, {
+    "tStartMs": 230560,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "I don't like to miss meals,\nbecause, like I said, I get hangry."
+    } ]
+  }, {
+    "tStartMs": 236640,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "But I guess I also used to miss breakfast\nwhen I was a teenager"
+    } ]
+  }, {
+    "tStartMs": 244240,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "and I needed to sleep for a huge amount of\ntime every night and get up really late."
+    } ]
+  }, {
+    "tStartMs": 251360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Yeah, I think it's quite normal\nand quite interesting"
+    } ]
+  }, {
+    "tStartMs": 254560,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "how your habits change as you get older."
+    } ]
+  }, {
+    "tStartMs": 259680,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "For example, missing meals\nand that sort of thing."
+    } ]
+  }, {
+    "tStartMs": 265800,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 269040,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Right, let's recap the vocabulary\nwe learned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 274080,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "We learnt 'routine', 'the time and way\nwe usually do something'."
+    } ]
+  }, {
+    "tStartMs": 280480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "We heard 'used to' which we use\nto talk about 'a habit in the past'"
+    } ]
+  }, {
+    "tStartMs": 285840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and 'would', which we can also use\nto talk about past habits."
+    } ]
+  }, {
+    "tStartMs": 291040,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And my favourite 'brunch',"
+    } ]
+  }, {
+    "tStartMs": 293440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "which is 'eating breakfast and lunch'\nat the same time'."
+    } ]
+  }, {
+    "tStartMs": 297600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "We also heard a really new word\nin English,"
+    } ]
+  }, {
+    "tStartMs": 301680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "which is a combination of two words,\n'hungry' and 'angry'."
+    } ]
+  }, {
+    "tStartMs": 307520,
+    "dDurationMs": 2564,
+    "segs": [ {
+      "utf8": "It's 'hangry'."
+    } ]
+  }, {
+    "tStartMs": 312160,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Thanks for joining us on Real \nEasy English. Visit our website  "
+    } ]
+  }, {
+    "tStartMs": 317120,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "for more activities and courses \nto help you with your English."
+    } ]
+  }, {
+    "tStartMs": 323440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "In the next episode we'll be \ntalking more about our hobbies."
+    } ]
+  }, {
+    "tStartMs": 328400,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "See you then! Bye."
+    } ]
+  }, {
+    "tStartMs": 329920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Goodbye!"
+    } ]
+  } ]
+}

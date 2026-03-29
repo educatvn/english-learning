@@ -1,0 +1,565 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Welcome to Real Easy English \nfrom BBC Learning English."
+    } ]
+  }, {
+    "tStartMs": 4960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "In this programme, we have real \nconversations in easy English  "
+    } ]
+  }, {
+    "tStartMs": 9680,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "to help you practise listening \nand learn new words and phrases."
+    } ]
+  }, {
+    "tStartMs": 14080,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I'm Beth."
+    } ]
+  }, {
+    "tStartMs": 15440,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "And, I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 16800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "In each episode, we talk in English about  "
+    } ]
+  }, {
+    "tStartMs": 20240,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "a different topic that you \nneed for everyday speaking."
+    } ]
+  }, {
+    "tStartMs": 24800,
+    "dDurationMs": 12156,
+    "segs": [ {
+      "utf8": "If you want to read along, you can visit \nour website. BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 36956,
+    "dDurationMs": 2644,
+    "segs": [ {
+      "utf8": "— Hello, Beth.\n— Hi, Neil. How are you?"
+    } ]
+  }, {
+    "tStartMs": 39600,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "I'm very well, thank you.\nWhat are we talking about today?"
+    } ]
+  }, {
+    "tStartMs": 44720,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Well, today's episode is all about family."
+    } ]
+  }, {
+    "tStartMs": 49040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "We’ll be talking about who is\nin our families and comparing them."
+    } ]
+  }, {
+    "tStartMs": 54560,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "OK, great. So, what do we mean\nwhen we say comparing our families, Beth?"
+    } ]
+  }, {
+    "tStartMs": 61040,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Well, when we 'compare' two things,"
+    } ]
+  }, {
+    "tStartMs": 63920,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "we 'look at them and see if they are the\nsame or different'"
+    } ]
+  }, {
+    "tStartMs": 68720,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "and we can compare things in different\nways, but we often do it with adjectives."
+    } ]
+  }, {
+    "tStartMs": 76000,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "OK, let's start the conversation."
+    } ]
+  }, {
+    "tStartMs": 78720,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So, Neil, how big is your family?"
+    } ]
+  }, {
+    "tStartMs": 83600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "It’s probably average, really."
+    } ]
+  }, {
+    "tStartMs": 86960,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "I have one sister, but she has three kids\nand I have two kids."
+    } ]
+  }, {
+    "tStartMs": 93520,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So, when we get together with my parents,\nthere, there are a few of us."
+    } ]
+  }, {
+    "tStartMs": 98480,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It's not... It's not tiny. It's not huge."
+    } ]
+  }, {
+    "tStartMs": 101680,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "OK, yeah."
+    } ]
+  }, {
+    "tStartMs": 103120,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "I think my family is definitely\nsmaller than yours,"
+    } ]
+  }, {
+    "tStartMs": 107680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "because I don't have\nany brothers or sisters."
+    } ]
+  }, {
+    "tStartMs": 111040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I am an only child."
+    } ]
+  }, {
+    "tStartMs": 113200,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So, when I get together with my family,\nit's very small,"
+    } ]
+  }, {
+    "tStartMs": 117360,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "because I also only have one cousin\nand she's an only child as well."
+    } ]
+  }, {
+    "tStartMs": 124720,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "So my family's tiny!"
+    } ]
+  }, {
+    "tStartMs": 126240,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "OK. And what is your family like?"
+    } ]
+  }, {
+    "tStartMs": 128960,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "It's small, but what's it like?"
+    } ]
+  }, {
+    "tStartMs": 131920,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Erm, it is small, but we're very close."
+    } ]
+  }, {
+    "tStartMs": 135040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So, we see each other quite often."
+    } ]
+  }, {
+    "tStartMs": 137120,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "We are a bit silly."
+    } ]
+  }, {
+    "tStartMs": 139280,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "We like to go out and have food\nand play games and we can be quite loud,"
+    } ]
+  }, {
+    "tStartMs": 145920,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "even though there aren't many of us."
+    } ]
+  }, {
+    "tStartMs": 147760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "OK, it sounds like you get on well\nwith your family. Is that right?"
+    } ]
+  }, {
+    "tStartMs": 152480,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Yeah, definitely, yeah."
+    } ]
+  }, {
+    "tStartMs": 153840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I love spending time with my cousin\nand she has two children."
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "What about you?\nDo you get on well with your sister?"
+    } ]
+  }, {
+    "tStartMs": 162000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Yes, I get on well with my sister."
+    } ]
+  }, {
+    "tStartMs": 164640,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "We don't see each other very often,\nbecause we don't live in the same place."
+    } ]
+  }, {
+    "tStartMs": 170160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "But when we see each other,\nwe have a nice time."
+    } ]
+  }, {
+    "tStartMs": 173360,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "We catch up and chat."
+    } ]
+  }, {
+    "tStartMs": 176120,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 177040,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "So, Beth, we have used the expression\n'get on well with' someone."
+    } ]
+  }, {
+    "tStartMs": 184080,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "What does that mean?"
+    } ]
+  }, {
+    "tStartMs": 185600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Well, that means that you\n'have a good relationship' with them."
+    } ]
+  }, {
+    "tStartMs": 188960,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So, if you get on well with your sister,"
+    } ]
+  }, {
+    "tStartMs": 192160,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "it means when you're together\nyou're happy, you're not fighting."
+    } ]
+  }, {
+    "tStartMs": 196400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It's easy to have good conversation."
+    } ]
+  }, {
+    "tStartMs": 198800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You don't really have any arguments."
+    } ]
+  }, {
+    "tStartMs": 200800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Maybe when you were a child,\nyou didn't get on well with your sister."
+    } ]
+  }, {
+    "tStartMs": 205200,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I don't know."
+    } ]
+  }, {
+    "tStartMs": 206560,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Yes, I think now that we are grown-ups,"
+    } ]
+  }, {
+    "tStartMs": 209360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "it's easier to get on well\nwith your siblings!"
+    } ]
+  }, {
+    "tStartMs": 213120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "When... When... When I was a kid,\nmaybe I was a bit mean to her."
+    } ]
+  }, {
+    "tStartMs": 217200,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Oh, dear!"
+    } ]
+  }, {
+    "tStartMs": 218800,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So, Neil, your sister has three children."
+    } ]
+  }, {
+    "tStartMs": 221800,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "— Yeah.\n— What are the ages of them?"
+    } ]
+  }, {
+    "tStartMs": 224480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Well, for a start, they’re all boys!"
+    } ]
+  }, {
+    "tStartMs": 227040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "OK. Oh, my gosh.\nThat sounds very difficult!"
+    } ]
+  }, {
+    "tStartMs": 231040,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "And the oldest one is 17"
+    } ]
+  }, {
+    "tStartMs": 236400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and he has just done his driving test."
+    } ]
+  }, {
+    "tStartMs": 239600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "It’s difficult to believe,"
+    } ]
+  }, {
+    "tStartMs": 241200,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "because he's the oldest, he's always been\nthe oldest, but now he’s almost an adult."
+    } ]
+  }, {
+    "tStartMs": 247920,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And is he the oldest\nincluding your children?"
+    } ]
+  }, {
+    "tStartMs": 250160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "— So out of all the kids he’s the oldest?\n— Yeah."
+    } ]
+  }, {
+    "tStartMs": 252400,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "He is, yeah."
+    } ]
+  }, {
+    "tStartMs": 253760,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So, in my family,\nmy cousin has two children."
+    } ]
+  }, {
+    "tStartMs": 256800,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "— Mm.\n— And they are five and two."
+    } ]
+  }, {
+    "tStartMs": 261600,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "— So...\n— Ah! Little ones."
+    } ]
+  }, {
+    "tStartMs": 263440,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Yeah. They are the youngest in the family."
+    } ]
+  }, {
+    "tStartMs": 265280,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "But I was the youngest in my family\nuntil they came along and I am 32!"
+    } ]
+  }, {
+    "tStartMs": 272640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So, I was used to being the youngest,"
+    } ]
+  }, {
+    "tStartMs": 275600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "but I'm not the youngest any more,\nnow we've got little ones."
+    } ]
+  }, {
+    "tStartMs": 278320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Oh, well! Are you sad?"
+    } ]
+  }, {
+    "tStartMs": 280480,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "No, I’m OK!"
+    } ]
+  }, {
+    "tStartMs": 288720,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "OK, let's quickly recap the vocabulary\nwe learned in this conversation."
+    } ]
+  }, {
+    "tStartMs": 294000,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "We learnt 'compare'"
+    } ]
+  }, {
+    "tStartMs": 295680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "which means 'to look at two things\nto see if they are the same or different'."
+    } ]
+  }, {
+    "tStartMs": 300000,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "'Bigger' and 'smaller', which are\n'ways to compare the size of something'."
+    } ]
+  }, {
+    "tStartMs": 305040,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "'Youngest' and 'oldest'"
+    } ]
+  }, {
+    "tStartMs": 306640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "which are 'ways to talk about\nthe age of someone or something'."
+    } ]
+  }, {
+    "tStartMs": 310480,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And we looked at\n'get on well with' someone,"
+    } ]
+  }, {
+    "tStartMs": 313920,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "which means\n'to have a good relationship with them'."
+    } ]
+  }, {
+    "tStartMs": 319840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Thanks for listening to Real Easy \nEnglish. Visit our website for  "
+    } ]
+  }, {
+    "tStartMs": 324080,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "more activities and courses to help you with \nyour English. BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 330320,
+    "dDurationMs": 6385,
+    "segs": [ {
+      "utf8": "Next time, we'll talk about food and \nsome of our favourite meals to eat."
+    } ]
+  }, {
+    "tStartMs": 336705,
+    "dDurationMs": 1055,
+    "segs": [ {
+      "utf8": "— Mm.\n— Mm, delicious!"
+    } ]
+  }, {
+    "tStartMs": 337760,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "See you then! Bye."
+    } ]
+  }, {
+    "tStartMs": 339200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Goodbye!"
+    } ]
+  } ]
+}

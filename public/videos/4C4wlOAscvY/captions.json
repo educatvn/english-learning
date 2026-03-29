@@ -1,0 +1,559 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 560,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Welcome to Real Easy English from \nBBC Learning English. I'm Beth."
+    } ]
+  }, {
+    "tStartMs": 5680,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "And I'm Neil. In this podcast, we have \na real conversation in easy English."
+    } ]
+  }, {
+    "tStartMs": 12160,
+    "dDurationMs": 11516,
+    "segs": [ {
+      "utf8": "If you want to read along, you can visit \nour website. BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 23676,
+    "dDurationMs": 2484,
+    "segs": [ {
+      "utf8": "— Hi, Neil.\n— Hi, Beth. How are you?"
+    } ]
+  }, {
+    "tStartMs": 26160,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "I'm very good, thank you. How are you?"
+    } ]
+  }, {
+    "tStartMs": 28120,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "— I'm pretty good, yes.\n— Good, good."
+    } ]
+  }, {
+    "tStartMs": 30080,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "What are we talking about today?"
+    } ]
+  }, {
+    "tStartMs": 31680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Well, today we are talking about food."
+    } ]
+  }, {
+    "tStartMs": 35040,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "In particular,\nwe'll talk about our favourite foods"
+    } ]
+  }, {
+    "tStartMs": 38560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and how often we eat them."
+    } ]
+  }, {
+    "tStartMs": 40960,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "What an amazing topic.\nI have so much to say about food."
+    } ]
+  }, {
+    "tStartMs": 45600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "But you said how often."
+    } ]
+  }, {
+    "tStartMs": 47200,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "What do we mean by\nhow often we eat something?"
+    } ]
+  }, {
+    "tStartMs": 50520,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Mm, good question!"
+    } ]
+  }, {
+    "tStartMs": 52080,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "'How often' means 'how many times'\nwe eat our favourite food."
+    } ]
+  }, {
+    "tStartMs": 57600,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "So we might eat them every week,\nevery day, or if we really like a food,"
+    } ]
+  }, {
+    "tStartMs": 64320,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "we might eat it for breakfast,\nlunch and dinner — every meal!"
+    } ]
+  }, {
+    "tStartMs": 69840,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So, Neil, what is your favourite food?"
+    } ]
+  }, {
+    "tStartMs": 73600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Well, that's a really difficult question,"
+    } ]
+  }, {
+    "tStartMs": 77680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "but I really like fish."
+    } ]
+  }, {
+    "tStartMs": 80800,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Ah, me too!"
+    } ]
+  }, {
+    "tStartMs": 82240,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "I was gonna say that, but actually,\nI really love seafood."
+    } ]
+  }, {
+    "tStartMs": 88400,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "So, I think I’d say any kind of dish\nwith seafood in it,"
+    } ]
+  }, {
+    "tStartMs": 93040,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I absolutely love."
+    } ]
+  }, {
+    "tStartMs": 94240,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So, how often do you eat seafood, Beth?"
+    } ]
+  }, {
+    "tStartMs": 97120,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Well, not very often, actually."
+    } ]
+  }, {
+    "tStartMs": 99680,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "I have it when I go on holiday\nand I have it in restaurants sometimes,"
+    } ]
+  }, {
+    "tStartMs": 103440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "but I don't really cook seafood at home."
+    } ]
+  }, {
+    "tStartMs": 106960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "What about you?\nHow often do you have fish?"
+    } ]
+  }, {
+    "tStartMs": 109760,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Oh, probably a few times a week."
+    } ]
+  }, {
+    "tStartMs": 113280,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "— Really?\n— Maybe, yeah."
+    } ]
+  }, {
+    "tStartMs": 115040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Yeah. We eat a lot of fish."
+    } ]
+  }, {
+    "tStartMs": 117120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "We sometimes have fish at home.\nI normally have it once or twice a week."
+    } ]
+  }, {
+    "tStartMs": 121920,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 122880,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "But I never have seafood at home,\nactually."
+    } ]
+  }, {
+    "tStartMs": 125600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Yeah, OK.\nSo what is your least favourite food?"
+    } ]
+  }, {
+    "tStartMs": 129680,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Ooh, I absolutely hate baked beans!"
+    } ]
+  }, {
+    "tStartMs": 134080,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "You hate baked beans!?"
+    } ]
+  }, {
+    "tStartMs": 135440,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "I think they're disgusting!"
+    } ]
+  }, {
+    "tStartMs": 136960,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "I can't even..."
+    } ]
+  }, {
+    "tStartMs": 138640,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "The smell of them\neven makes me feel a bit sick."
+    } ]
+  }, {
+    "tStartMs": 142240,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, OK."
+    } ]
+  }, {
+    "tStartMs": 144240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So we've talked about\nthe foods that we really like"
+    } ]
+  }, {
+    "tStartMs": 147760,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and the foods that we don't like."
+    } ]
+  }, {
+    "tStartMs": 149680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "But in a general week,\nwhat do you normally cook?"
+    } ]
+  }, {
+    "tStartMs": 154400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Often, we'll eat Indian curries,"
+    } ]
+  }, {
+    "tStartMs": 158160,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "but also Italian pasta dishes\nor Spanish dishes"
+    } ]
+  }, {
+    "tStartMs": 163040,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "and then sometimes more traditional\nBritish roast dinner kind of thing."
+    } ]
+  }, {
+    "tStartMs": 169200,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 170400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I think, generally,\nwe have the same at home."
+    } ]
+  }, {
+    "tStartMs": 173840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Like, we eat a lot of food\nfrom different countries."
+    } ]
+  }, {
+    "tStartMs": 176960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "But I have to say I usually cook\nquite a lot of pasta"
+    } ]
+  }, {
+    "tStartMs": 181440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and quite a lot of rice at home\nin general,"
+    } ]
+  }, {
+    "tStartMs": 184160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "just because they cook really quickly!"
+    } ]
+  }, {
+    "tStartMs": 187360,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So, Beth. You generally eat\nrice and pasta dishes."
+    } ]
+  }, {
+    "tStartMs": 192640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "What does that mean, 'generally'?"
+    } ]
+  }, {
+    "tStartMs": 194800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Well, we use 'generally'\nand 'usually' and 'normally'"
+    } ]
+  }, {
+    "tStartMs": 198880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "for habits or things that we do a lot."
+    } ]
+  }, {
+    "tStartMs": 202960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So, for example,\nif I generally cook pasta or rice,"
+    } ]
+  }, {
+    "tStartMs": 207200,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "that means maybe five times out\nof the seven in a week, I would say."
+    } ]
+  }, {
+    "tStartMs": 212880,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "OK, so that’s most of the time."
+    } ]
+  }, {
+    "tStartMs": 215200,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "If we use 'sometimes' we mean\nthat we'd do it less than 'generally'."
+    } ]
+  }, {
+    "tStartMs": 222000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yeah, sometimes\nmight be two or three times a week."
+    } ]
+  }, {
+    "tStartMs": 226000,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I guess it depends on\nwhat you're talking about."
+    } ]
+  }, {
+    "tStartMs": 228480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But for example, with me,\nI sometimes cook fish."
+    } ]
+  }, {
+    "tStartMs": 232480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Like I said I have it\nmaybe twice a week."
+    } ]
+  }, {
+    "tStartMs": 235120,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So I would say that’s sometimes."
+    } ]
+  }, {
+    "tStartMs": 237520,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Beth, you said that you hate baked beans."
+    } ]
+  }, {
+    "tStartMs": 242160,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So do you ever eat baked beans?"
+    } ]
+  }, {
+    "tStartMs": 245440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Never. No, I can't stand them."
+    } ]
+  }, {
+    "tStartMs": 248800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So I never, ever have baked beans."
+    } ]
+  }, {
+    "tStartMs": 251760,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Well, 'never'\nis something that we don't do."
+    } ]
+  }, {
+    "tStartMs": 255040,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "We just don't ever do it."
+    } ]
+  }, {
+    "tStartMs": 262960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I can’t believe\nyou don't like baked beans."
+    } ]
+  }, {
+    "tStartMs": 265520,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Beans on toast is a classic!"
+    } ]
+  }, {
+    "tStartMs": 267920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "It is. But, no. Not for me."
+    } ]
+  }, {
+    "tStartMs": 270560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Let's quickly recap the vocabulary\nwe learnt during the conversation."
+    } ]
+  }, {
+    "tStartMs": 275280,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "We learnt 'often'\nwhich means 'we do something a lot'."
+    } ]
+  }, {
+    "tStartMs": 279440,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "And we learnt 'how often',"
+    } ]
+  }, {
+    "tStartMs": 281280,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "which we use to ask someone\n'how many times they do something'."
+    } ]
+  }, {
+    "tStartMs": 285920,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "'Usually', 'normally', and 'generally',"
+    } ]
+  }, {
+    "tStartMs": 289200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "which are all ways to talk about\n'things we do a lot'."
+    } ]
+  }, {
+    "tStartMs": 293840,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "'Sometimes',\nwhich we can use"
+    } ]
+  }, {
+    "tStartMs": 295520,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "to talk about 'things we do,\nbut not always or often'."
+    } ]
+  }, {
+    "tStartMs": 300080,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "And 'never' to talk about 'things\nwe don't do', like eat beans, Beth."
+    } ]
+  }, {
+    "tStartMs": 305600,
+    "dDurationMs": 5424,
+    "segs": [ {
+      "utf8": "Yes, just like I never eat baked beans.\nUrgh, horrible!"
+    } ]
+  }, {
+    "tStartMs": 312480,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Thanks for listening to Real Easy \nEnglish. Visit our website for  "
+    } ]
+  }, {
+    "tStartMs": 317200,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "more activities and courses to help you with \nyour English. BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 324400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Next week, we'll talk about our friends."
+    } ]
+  }, {
+    "tStartMs": 327040,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "See you then. Goodbye!"
+    } ]
+  }, {
+    "tStartMs": 328320,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}

@@ -1,0 +1,505 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 400,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Hello, I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 1920,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "And I'm Beth."
+    } ]
+  }, {
+    "tStartMs": 3280,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "And you're listening to Real Easy \nEnglish, the podcast where we have  "
+    } ]
+  }, {
+    "tStartMs": 9120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "real conversations in easy \nEnglish to help you learn."
+    } ]
+  }, {
+    "tStartMs": 14160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "To read along with this podcast, \nyou can find a text version on  "
+    } ]
+  }, {
+    "tStartMs": 18800,
+    "dDurationMs": 6931,
+    "segs": [ {
+      "utf8": "our website. Visit BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 29760,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "How are things, Beth?"
+    } ]
+  }, {
+    "tStartMs": 31440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I'm very well, thank you, Neil.\nHow are you?"
+    } ]
+  }, {
+    "tStartMs": 34160,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Oh, I'm a little tired.\nI didn't sleep very well last night."
+    } ]
+  }, {
+    "tStartMs": 39920,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And today's episode is all about sleep."
+    } ]
+  }, {
+    "tStartMs": 44160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "We'll be talking about our sleep habits,\nand also our dreams."
+    } ]
+  }, {
+    "tStartMs": 50160,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Lovely."
+    } ]
+  }, {
+    "tStartMs": 51200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So, Neil, you said that\nyou didn't sleep well last night."
+    } ]
+  }, {
+    "tStartMs": 56160,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So that's not so lovely.\nDoes that happen very often?"
+    } ]
+  }, {
+    "tStartMs": 60080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "It happens all the time, Beth!\nI don't sleep very well."
+    } ]
+  }, {
+    "tStartMs": 64320,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Oh, dear. How many hours\ndo you sleep at night, Neil?"
+    } ]
+  }, {
+    "tStartMs": 67760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I think probably six and a half hours."
+    } ]
+  }, {
+    "tStartMs": 71680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "— Really?\n— Mmm. How about you?"
+    } ]
+  }, {
+    "tStartMs": 74240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Well, if I sleep less than eight hours,\nthen I'm exhausted."
+    } ]
+  }, {
+    "tStartMs": 79200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "I really like to sleep quite a lot!"
+    } ]
+  }, {
+    "tStartMs": 82320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Ah, you are exhausted.\nWhat does 'exhausted' mean, Beth?"
+    } ]
+  }, {
+    "tStartMs": 85920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "— It means that you are 'really tired'.\n— Mm, yes."
+    } ]
+  }, {
+    "tStartMs": 90080,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Like you after last night because you\ndidn't sleep very well. Are you exhausted?"
+    } ]
+  }, {
+    "tStartMs": 94640,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "I am, Beth. I am absolutely exhausted."
+    } ]
+  }, {
+    "tStartMs": 100080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "What time do you usually go to bed, Neil?"
+    } ]
+  }, {
+    "tStartMs": 103600,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "About 11. I go to bed about 11."
+    } ]
+  }, {
+    "tStartMs": 106720,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I usually go earlier,\nbut about ten o'clock."
+    } ]
+  }, {
+    "tStartMs": 109920,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And do you have dreams?\nDo you dream often?"
+    } ]
+  }, {
+    "tStartMs": 113360,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Yeah, I do, but I find it quite hard\nto remember my dreams."
+    } ]
+  }, {
+    "tStartMs": 119040,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "But sometimes I have nightmares,\nand then they are easier to remember."
+    } ]
+  }, {
+    "tStartMs": 124480,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "So I might wake up in the middle of the\nnight and feel a bit scared or worried."
+    } ]
+  }, {
+    "tStartMs": 131200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Can you tell us about a strange dream\nthat you've had?"
+    } ]
+  }, {
+    "tStartMs": 135200,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Yeah, I had a weird dream\na couple of nights ago."
+    } ]
+  }, {
+    "tStartMs": 139600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I was at my auntie's house in the kitchen"
+    } ]
+  }, {
+    "tStartMs": 143760,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and then suddenly the floor was very wet"
+    } ]
+  }, {
+    "tStartMs": 146320,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and there were three robbers that were\ngoing to come and open the front door."
+    } ]
+  }, {
+    "tStartMs": 152320,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So I had to run across the wet kitchen\nand lock the front door."
+    } ]
+  }, {
+    "tStartMs": 156560,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "It was a bit scary and weird."
+    } ]
+  }, {
+    "tStartMs": 160000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Yeah.\nThat sounds like a really scary dream."
+    } ]
+  }, {
+    "tStartMs": 163040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Yeah. So, a scary dream\nwe can call a 'nightmare'."
+    } ]
+  }, {
+    "tStartMs": 167360,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "So, I had a nightmare, a bad dream,\nthe other night."
+    } ]
+  }, {
+    "tStartMs": 172720,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "And I was in a foreign country, I think\nsomewhere like Italy, a European place,"
+    } ]
+  }, {
+    "tStartMs": 180320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and I couldn't find my family."
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And I was running around the streets,"
+    } ]
+  }, {
+    "tStartMs": 187440,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "trying to find them\nand I couldn't find them."
+    } ]
+  }, {
+    "tStartMs": 190880,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "But then, after a while\nof looking around the streets,"
+    } ]
+  }, {
+    "tStartMs": 196080,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "I saw people in my family,\nand I felt much better."
+    } ]
+  }, {
+    "tStartMs": 201680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So it sounds like\nit started as a nightmare,"
+    } ]
+  }, {
+    "tStartMs": 205120,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "but then it kind of went into a dream."
+    } ]
+  }, {
+    "tStartMs": 208000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Yeah. It was just a normal, happy dream\nby the end."
+    } ]
+  }, {
+    "tStartMs": 211040,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Good!"
+    } ]
+  }, {
+    "tStartMs": 211920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Well, I noticed there\nthat you used the past simple"
+    } ]
+  }, {
+    "tStartMs": 215440,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and the past continuous\nto describe your dream."
+    } ]
+  }, {
+    "tStartMs": 218720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "You said 'I was running around',\nwhich is the past continuous"
+    } ]
+  }, {
+    "tStartMs": 223600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and then you said 'I found them',\nwhich was the past simple."
+    } ]
+  }, {
+    "tStartMs": 226800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And this is really common language\nthat we use"
+    } ]
+  }, {
+    "tStartMs": 229680,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "when we're describing things\nin the past like dreams."
+    } ]
+  }, {
+    "tStartMs": 233520,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So, we've talked about\nhow long we sleep for"
+    } ]
+  }, {
+    "tStartMs": 236800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and we've talked about\ndreams and nightmares,"
+    } ]
+  }, {
+    "tStartMs": 239120,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "but I have a big question for you, Neil."
+    } ]
+  }, {
+    "tStartMs": 242960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Do you snore?"
+    } ]
+  }, {
+    "tStartMs": 247360,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You do!"
+    } ]
+  }, {
+    "tStartMs": 249360,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "That is snoring. Do I snore?"
+    } ]
+  }, {
+    "tStartMs": 252640,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I don't think I do,"
+    } ]
+  }, {
+    "tStartMs": 254560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "but my wife says that I do."
+    } ]
+  }, {
+    "tStartMs": 258400,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Oh, so you do snore!"
+    } ]
+  }, {
+    "tStartMs": 259920,
+    "dDurationMs": 8800,
+    "segs": [ {
+      "utf8": "No, I've never heard myself snore!"
+    } ]
+  }, {
+    "tStartMs": 268720,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Let's have a look at the language\nwe learned in this conversation."
+    } ]
+  }, {
+    "tStartMs": 274000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "We learnt 'nightmare',\nwhich is 'a bad or scary dream'."
+    } ]
+  }, {
+    "tStartMs": 278640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "We heard 'exhausted' — 'very tired'."
+    } ]
+  }, {
+    "tStartMs": 283920,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And we learnt a way to talk about dreams"
+    } ]
+  }, {
+    "tStartMs": 286640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "using the past simple\nand the past continuous."
+    } ]
+  }, {
+    "tStartMs": 290480,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "For example, you dreamt that you were"
+    } ]
+  }, {
+    "tStartMs": 293680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "running around trying to find your family\nand then you found them."
+    } ]
+  }, {
+    "tStartMs": 298000,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "I did."
+    } ]
+  }, {
+    "tStartMs": 300880,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Thanks for listening to Real Easy English. \nIf you liked this, there are lots more  "
+    } ]
+  }, {
+    "tStartMs": 306720,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "programmes to help you with your English \non our website. Like English In A Minute,  "
+    } ]
+  }, {
+    "tStartMs": 312320,
+    "dDurationMs": 4709,
+    "segs": [ {
+      "utf8": "where we explain one language tip in 60 \nseconds."
+    } ]
+  }, {
+    "tStartMs": 317029,
+    "dDurationMs": 3274,
+    "segs": [ {
+      "utf8": "Visit BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 320303,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Next time, we'll talk about our favourite films."
+    } ]
+  }, {
+    "tStartMs": 323743,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "See you then, goodbye!"
+    } ]
+  }, {
+    "tStartMs": 324822,
+    "dDurationMs": 256,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}

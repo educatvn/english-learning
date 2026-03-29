@@ -1,0 +1,469 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 240,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Hello, I'm Georgie."
+    } ]
+  }, {
+    "tStartMs": 1520,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "And I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 2480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Welcome to Real Easy English \nfrom BBC Learning English."
+    } ]
+  }, {
+    "tStartMs": 6400,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Every week, we have a real conversation \nin easy English to help you learn."
+    } ]
+  }, {
+    "tStartMs": 11440,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "You can find the vocabulary from this episode and a text version to read along on our website:"
+    } ]
+  }, {
+    "tStartMs": 17680,
+    "dDurationMs": 4632,
+    "segs": [ {
+      "utf8": "BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 26320,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "How are you, Neil?"
+    } ]
+  }, {
+    "tStartMs": 27760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I'm well, thank you, Georgie. How are you?"
+    } ]
+  }, {
+    "tStartMs": 30160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I am pretty good too, thank you.\nI'm very excited for the weekend."
+    } ]
+  }, {
+    "tStartMs": 34160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Oh, really? Well, today\nwe're talking all about the weekend."
+    } ]
+  }, {
+    "tStartMs": 38640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "We're going to talk about\nwhat we plan to do at the weekend."
+    } ]
+  }, {
+    "tStartMs": 43280,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Great! Let's start."
+    } ]
+  }, {
+    "tStartMs": 46080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So, Georgie,\ndo you have any weekend plans?"
+    } ]
+  }, {
+    "tStartMs": 49920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Yes, I do have plans. I'm going\nto visit my parents at the weekend."
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So I'm gonna get the train\nto my home town. What about you?"
+    } ]
+  }, {
+    "tStartMs": 58080,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I don't really have any special plans,"
+    } ]
+  }, {
+    "tStartMs": 61120,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "but I might spend lots of time\ndoing sport with my kids."
+    } ]
+  }, {
+    "tStartMs": 66960,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Mm-hm, nice, which sports?"
+    } ]
+  }, {
+    "tStartMs": 69920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Erm, cricket in the summer\nand football as well."
+    } ]
+  }, {
+    "tStartMs": 73840,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Nice. So that's what you usually do?"
+    } ]
+  }, {
+    "tStartMs": 75840,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "That's what I usually do."
+    } ]
+  }, {
+    "tStartMs": 76960,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "I usually spend most of the weekend\ntaking my kids to sport."
+    } ]
+  }, {
+    "tStartMs": 81760,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Do you like it?"
+    } ]
+  }, {
+    "tStartMs": 83280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Actually, I really do."
+    } ]
+  }, {
+    "tStartMs": 85440,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "I really do like it. It's fun\nto watch them trying their hardest."
+    } ]
+  }, {
+    "tStartMs": 90640,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Ahh, nice."
+    } ]
+  }, {
+    "tStartMs": 92160,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Is there anything else\nyou'd like to do this weekend?"
+    } ]
+  }, {
+    "tStartMs": 94720,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Well, I might meet up with a friend\nand we might go for some food"
+    } ]
+  }, {
+    "tStartMs": 100720,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "or maybe just a drink\nor we might go for a walk or something."
+    } ]
+  }, {
+    "tStartMs": 106000,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Mm, nice!"
+    } ]
+  }, {
+    "tStartMs": 106880,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And how about you, Georgie?\nWhat do you plan to do when you get home?"
+    } ]
+  }, {
+    "tStartMs": 112400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Well, we have a lunch on Saturday."
+    } ]
+  }, {
+    "tStartMs": 115200,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "And we live in the countryside, so\nwe'll probably go for a walk with the dogs"
+    } ]
+  }, {
+    "tStartMs": 121200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and we're likely to go to the pub as well."
+    } ]
+  }, {
+    "tStartMs": 124160,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Mm. Is this a typical weekend for you?"
+    } ]
+  }, {
+    "tStartMs": 127520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "It's not because I don't usually\ngo home to see my parents."
+    } ]
+  }, {
+    "tStartMs": 132240,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Most weekends I stay in London."
+    } ]
+  }, {
+    "tStartMs": 134160,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I meet some friends. Yeah."
+    } ]
+  }, {
+    "tStartMs": 136240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So this is not a typical weekend,\nbut it's nice to visit my parents."
+    } ]
+  }, {
+    "tStartMs": 139760,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Mm. What are you looking forward to?"
+    } ]
+  }, {
+    "tStartMs": 142120,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "— This weekend?\n— Yeah."
+    } ]
+  }, {
+    "tStartMs": 144880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "I'm really looking forward\nto spending time in the countryside."
+    } ]
+  }, {
+    "tStartMs": 149200,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "When I'm in London,\nI really miss the peace and quiet."
+    } ]
+  }, {
+    "tStartMs": 152640,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And I miss my dog,\nso I'm looking forward to seeing my dog."
+    } ]
+  }, {
+    "tStartMs": 156560,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And it's good to get some fresh air."
+    } ]
+  }, {
+    "tStartMs": 158720,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Yes, exactly, exactly."
+    } ]
+  }, {
+    "tStartMs": 161040,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "So, Georgie, you said you are looking\nforward to being in the countryside."
+    } ]
+  }, {
+    "tStartMs": 166480,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "I did."
+    } ]
+  }, {
+    "tStartMs": 167120,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "And 'looking forward to'"
+    } ]
+  }, {
+    "tStartMs": 168480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "means that you're 'excited about something you're going to do in the future'."
+    } ]
+  }, {
+    "tStartMs": 174480,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Exactly, yes."
+    } ]
+  }, {
+    "tStartMs": 176000,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Like I'm looking forward to seeing my dog."
+    } ]
+  }, {
+    "tStartMs": 178320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Is your dog looking forward to seeing you?"
+    } ]
+  }, {
+    "tStartMs": 181440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Yes, I'm sure he is.\nSo, Neil, I have quite clear plans."
+    } ]
+  }, {
+    "tStartMs": 185920,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I know what I'm going to do this weekend."
+    } ]
+  }, {
+    "tStartMs": 188480,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And to talk about plans like that,"
+    } ]
+  }, {
+    "tStartMs": 190560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "we usually use 'be going to'\nor the present continuous."
+    } ]
+  }, {
+    "tStartMs": 195040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So I said, \"I'm going to visit my parents\nat the weekend\"."
+    } ]
+  }, {
+    "tStartMs": 198880,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "And sometimes we shorten 'going to'\nto 'gonna' when we're speaking quickly."
+    } ]
+  }, {
+    "tStartMs": 204800,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Yeah, now, your plans are certain."
+    } ]
+  }, {
+    "tStartMs": 207280,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Mine are not so certain,\nso I used 'might' and 'may'."
+    } ]
+  }, {
+    "tStartMs": 212800,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I said I might meet my friend."
+    } ]
+  }, {
+    "tStartMs": 215760,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I may go for a meal\nor I may go for a drink."
+    } ]
+  }, {
+    "tStartMs": 219040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It means I'm not completely sure."
+    } ]
+  }, {
+    "tStartMs": 228480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Well, Neil, I'm sure whatever you do\nthis weekend, you'll have a nice time."
+    } ]
+  }, {
+    "tStartMs": 232400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "OK, let's look at the vocabulary\nwe learned during the conversation."
+    } ]
+  }, {
+    "tStartMs": 236320,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "We learned 'might', which we use\nto talk about possible plans."
+    } ]
+  }, {
+    "tStartMs": 240960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I might meet my friend."
+    } ]
+  }, {
+    "tStartMs": 243520,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "'Going to' which we use\nto talk about future plans"
+    } ]
+  }, {
+    "tStartMs": 246480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that are a little bit more certain."
+    } ]
+  }, {
+    "tStartMs": 248480,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So I'm going to visit my parents\nthis weekend."
+    } ]
+  }, {
+    "tStartMs": 251520,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "And 'looking forward to'"
+    } ]
+  }, {
+    "tStartMs": 253120,
+    "dDurationMs": 5483,
+    "segs": [ {
+      "utf8": "which means 'to be pleased or excited\nthat something is going to happen'."
+    } ]
+  }, {
+    "tStartMs": 265711,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "programmes and activities on our \nwebsite: BBC Learning English dot com."
+    } ]
+  }, {
+    "tStartMs": 270671,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Bye for now."
+    } ]
+  }, {
+    "tStartMs": 271551,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Goodbye."
+    } ]
+  } ]
+}

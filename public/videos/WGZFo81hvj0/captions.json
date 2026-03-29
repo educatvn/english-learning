@@ -1,0 +1,673 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 209,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "Hello and welcome\nto Real Easy English,"
+    } ]
+  }, {
+    "tStartMs": 3170,
+    "dDurationMs": 4212,
+    "segs": [ {
+      "utf8": "the podcast where we have\nreal conversations in easy English"
+    } ]
+  }, {
+    "tStartMs": 7382,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "to help you learn."
+    } ]
+  }, {
+    "tStartMs": 8467,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 9551,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "And I'm Georgie."
+    } ]
+  }, {
+    "tStartMs": 10552,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "You can watch this podcast\nwith subtitles on our website,"
+    } ]
+  }, {
+    "tStartMs": 13889,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "bbclearningenglish.com, where\nyou can also find a free worksheet."
+    } ]
+  }, {
+    "tStartMs": 24233,
+    "dDurationMs": 998,
+    "segs": [ {
+      "utf8": "Hi, Georgie."
+    } ]
+  }, {
+    "tStartMs": 25231,
+    "dDurationMs": 1004,
+    "segs": [ {
+      "utf8": "Hello, Neil."
+    } ]
+  }, {
+    "tStartMs": 26235,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "It's getting\ntowards the end of the year."
+    } ]
+  }, {
+    "tStartMs": 29404,
+    "dDurationMs": 831,
+    "segs": [ {
+      "utf8": "It is."
+    } ]
+  }, {
+    "tStartMs": 30235,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How are you feeling about that?"
+    } ]
+  }, {
+    "tStartMs": 32241,
+    "dDurationMs": 5338,
+    "segs": [ {
+      "utf8": "Um, well, there's a few things that\nI wanted to achieve that I haven't,"
+    } ]
+  }, {
+    "tStartMs": 37579,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "so I don't feel good about that,"
+    } ]
+  }, {
+    "tStartMs": 39498,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "but I'm feeling quite festive\nand ready for those celebrations."
+    } ]
+  }, {
+    "tStartMs": 45128,
+    "dDurationMs": 1997,
+    "segs": [ {
+      "utf8": "What about you?"
+    } ]
+  }, {
+    "tStartMs": 47125,
+    "dDurationMs": 3008,
+    "segs": [ {
+      "utf8": "Yeah. Time, time flies, as we say."
+    } ]
+  }, {
+    "tStartMs": 50133,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "It's the end of the year again."
+    } ]
+  }, {
+    "tStartMs": 51510,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "And that is what we're talking about today"
+    } ]
+  }, {
+    "tStartMs": 54263,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "in this episode of Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 57057,
+    "dDurationMs": 1245,
+    "segs": [ {
+      "utf8": "Shall we start?"
+    } ]
+  }, {
+    "tStartMs": 58302,
+    "dDurationMs": 1007,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 59309,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Have you had a good year, Georgie?"
+    } ]
+  }, {
+    "tStartMs": 62479,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "Yes, Neil. I've had a great year."
+    } ]
+  }, {
+    "tStartMs": 64690,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Um, I've been very busy."
+    } ]
+  }, {
+    "tStartMs": 66275,
+    "dDurationMs": 7007,
+    "segs": [ {
+      "utf8": "I've had a few trips and I've also\nturned 30, so I've had a big birthday."
+    } ]
+  }, {
+    "tStartMs": 73282,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "What about you? How has your year been?"
+    } ]
+  }, {
+    "tStartMs": 75409,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "Yeah, it's been pretty good."
+    } ]
+  }, {
+    "tStartMs": 77452,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "I went to your 30th birthday party."
+    } ]
+  }, {
+    "tStartMs": 79997,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "You did."
+    } ]
+  }, {
+    "tStartMs": 81164,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "That was definitely one of my highlights."
+    } ]
+  }, {
+    "tStartMs": 83333,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "Was it?"
+    } ]
+  }, {
+    "tStartMs": 84200,
+    "dDurationMs": 1736,
+    "segs": [ {
+      "utf8": "Talking of highlights,"
+    } ]
+  }, {
+    "tStartMs": 86211,
+    "dDurationMs": 5964,
+    "segs": [ {
+      "utf8": "now highlights are the most important\nor interesting thing."
+    } ]
+  }, {
+    "tStartMs": 92175,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "What have your highlights been\nthis year?"
+    } ]
+  }, {
+    "tStartMs": 94886,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "Well, my 30th birthday was probably\none of my highlights"
+    } ]
+  }, {
+    "tStartMs": 99224,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "because I had friends and family\nfrom all over."
+    } ]
+  }, {
+    "tStartMs": 104229,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "I basically invited everyone I knew,\nwhich is why you got the invite."
+    } ]
+  }, {
+    "tStartMs": 110819,
+    "dDurationMs": 6924,
+    "segs": [ {
+      "utf8": "Um, and yeah, that was something that\nI was quite proud of because I am not"
+    } ]
+  }, {
+    "tStartMs": 117743,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "a very organised person."
+    } ]
+  }, {
+    "tStartMs": 119494,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "And with this I was very organised."
+    } ]
+  }, {
+    "tStartMs": 122748,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "What's been the highlight\nof your year, Neil?"
+    } ]
+  }, {
+    "tStartMs": 125125,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "Oh, well, that's a tricky question,"
+    } ]
+  }, {
+    "tStartMs": 127336,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "but I did go on a fantastic holiday\nwith my family."
+    } ]
+  }, {
+    "tStartMs": 132007,
+    "dDurationMs": 1194,
+    "segs": [ {
+      "utf8": "We went to Sicily."
+    } ]
+  }, {
+    "tStartMs": 133201,
+    "dDurationMs": 1016,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 134217,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "And it's so beautiful."
+    } ]
+  }, {
+    "tStartMs": 136303,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "And the food was amazing."
+    } ]
+  }, {
+    "tStartMs": 139348,
+    "dDurationMs": 2877,
+    "segs": [ {
+      "utf8": "And is there anything you're proud of this year?"
+    } ]
+  }, {
+    "tStartMs": 142225,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Proud of?"
+    } ]
+  }, {
+    "tStartMs": 143643,
+    "dDurationMs": 3129,
+    "segs": [ {
+      "utf8": "Yeah, I'm always proud of my kids."
+    } ]
+  }, {
+    "tStartMs": 146772,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Aww."
+    } ]
+  }, {
+    "tStartMs": 147172,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They make me feel proud."
+    } ]
+  }, {
+    "tStartMs": 150192,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "Um, yes, they they had a good,"
+    } ]
+  }, {
+    "tStartMs": 152819,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "they had a good year. And, um,"
+    } ]
+  }, {
+    "tStartMs": 155489,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "yeah, they both they both did well\nin their own way at school."
+    } ]
+  }, {
+    "tStartMs": 159868,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "Oh. That's nice."
+    } ]
+  }, {
+    "tStartMs": 161161,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "And how about you?"
+    } ]
+  }, {
+    "tStartMs": 162496,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "Well, I talked about being proud\nof my 30th birthday party,"
+    } ]
+  }, {
+    "tStartMs": 166875,
+    "dDurationMs": 5255,
+    "segs": [ {
+      "utf8": "but I also, um, performed\nat the Royal Albert Hall, which is"
+    } ]
+  }, {
+    "tStartMs": 172130,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "a big, famous, um, music hall in the UK, in London."
+    } ]
+  }, {
+    "tStartMs": 176551,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Um, I didn't sing as a soloist."
+    } ]
+  }, {
+    "tStartMs": 179012,
+    "dDurationMs": 6131,
+    "segs": [ {
+      "utf8": "I sang with my choir, um, at the BBC\nProms, which is a big music festival."
+    } ]
+  }, {
+    "tStartMs": 185143,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "Wow. How did it feel to sing\nin front of all those people"
+    } ]
+  }, {
+    "tStartMs": 188688,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "in that incredible setting?"
+    } ]
+  }, {
+    "tStartMs": 190816,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "It felt incredible."
+    } ]
+  }, {
+    "tStartMs": 192859,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "And I had lots of people I knew\nin the audience."
+    } ]
+  }, {
+    "tStartMs": 195946,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "Actually, some of our colleagues came. Yeah."
+    } ]
+  }, {
+    "tStartMs": 198740,
+    "dDurationMs": 5214,
+    "segs": [ {
+      "utf8": "Um, it was, the atmosphere was\nincredible, and I'll never forget it."
+    } ]
+  }, {
+    "tStartMs": 203954,
+    "dDurationMs": 5505,
+    "segs": [ {
+      "utf8": "Wow. So, Georgie, is there anything\nthat you didn't do this year"
+    } ]
+  }, {
+    "tStartMs": 209459,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "that you wanted to do?"
+    } ]
+  }, {
+    "tStartMs": 211211,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Yes. Lots."
+    } ]
+  }, {
+    "tStartMs": 213130,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "Um, I had lots of plans at the beginning of the year."
+    } ]
+  }, {
+    "tStartMs": 216883,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "Um, lots of New Year's resolutions."
+    } ]
+  }, {
+    "tStartMs": 219177,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Like, uh, running."
+    } ]
+  }, {
+    "tStartMs": 221012,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "I wanted to run more."
+    } ]
+  }, {
+    "tStartMs": 222722,
+    "dDurationMs": 3129,
+    "segs": [ {
+      "utf8": "I have not been running very much."
+    } ]
+  }, {
+    "tStartMs": 225851,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "Um, so I regret not doing more running."
+    } ]
+  }, {
+    "tStartMs": 229062,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And also my sugar intake."
+    } ]
+  }, {
+    "tStartMs": 231982,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "We all know that I eat too much sugar,"
+    } ]
+  }, {
+    "tStartMs": 234526,
+    "dDurationMs": 5714,
+    "segs": [ {
+      "utf8": "and I wanted to reduce my sugar\nintake, but I find it too difficult,"
+    } ]
+  }, {
+    "tStartMs": 240240,
+    "dDurationMs": 4504,
+    "segs": [ {
+      "utf8": "so I regret not, um, reducing my sugar intake."
+    } ]
+  }, {
+    "tStartMs": 244744,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "Well, you stopped having sugar\nin your coffee at least."
+    } ]
+  }, {
+    "tStartMs": 248248,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "That's true. What about you, Neil?"
+    } ]
+  }, {
+    "tStartMs": 250625,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "Well, a bit like you,"
+    } ]
+  }, {
+    "tStartMs": 252919,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "um, I wanted to do lots of running. Actually,"
+    } ]
+  }, {
+    "tStartMs": 256923,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "I wanted to get really fit this year,"
+    } ]
+  }, {
+    "tStartMs": 259217,
+    "dDurationMs": 5089,
+    "segs": [ {
+      "utf8": "and I haven't because I hurt my ankle\nand I can't run."
+    } ]
+  }, {
+    "tStartMs": 264306,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "And running is my main way of keeping fit,"
+    } ]
+  }, {
+    "tStartMs": 267809,
+    "dDurationMs": 3264,
+    "segs": [ {
+      "utf8": "so I need to find something else to do."
+    } ]
+  }, {
+    "tStartMs": 271073,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 278403,
+    "dDurationMs": 4505,
+    "segs": [ {
+      "utf8": "Time now to recap some of the vocabulary we've heard in this episode."
+    } ]
+  }, {
+    "tStartMs": 282908,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "Starting with 'highlight'."
+    } ]
+  }, {
+    "tStartMs": 284701,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "And a highlight is the best bit\nof something."
+    } ]
+  }, {
+    "tStartMs": 287704,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "So the highlight of my year, Georgie,\nwas my trip to Sicily."
+    } ]
+  }, {
+    "tStartMs": 291708,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "Or was it your 30th birthday?"
+    } ]
+  }, {
+    "tStartMs": 295253,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "If you are 'proud of something',"
+    } ]
+  }, {
+    "tStartMs": 296755,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "it means you feel good\nabout something you've done."
+    } ]
+  }, {
+    "tStartMs": 299633,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "You can also be proud\nof someone else."
+    } ]
+  }, {
+    "tStartMs": 302052,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "For example, Neil is proud of his kids."
+    } ]
+  }, {
+    "tStartMs": 305305,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "And if you 'regret something', you feel sad about it"
+    } ]
+  }, {
+    "tStartMs": 309100,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "and wish that you had done it\ndifferently. For example,"
+    } ]
+  }, {
+    "tStartMs": 313230,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "I regret not running more."
+    } ]
+  }, {
+    "tStartMs": 314981,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "I'm not very fit."
+    } ]
+  }, {
+    "tStartMs": 316816,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "That's it for this episode of Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 320111,
+    "dDurationMs": 5923,
+    "segs": [ {
+      "utf8": "Try the worksheet to test what you've\nlearnt at bbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 326034,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "We'll be back in the new year"
+    } ]
+  }, {
+    "tStartMs": 327661,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "for more real conversations\nin easy English to help you learn."
+    } ]
+  }, {
+    "tStartMs": 332040,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Have a really great end to 2025."
+    } ]
+  }, {
+    "tStartMs": 334960,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Happy New Year!"
+    } ]
+  } ]
+}

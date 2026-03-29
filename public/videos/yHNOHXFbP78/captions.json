@@ -1,0 +1,625 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 280,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Hello, and welcome\nto Real Easy English,"
+    } ]
+  }, {
+    "tStartMs": 3160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "the podcast\nwhere we have real conversations"
+    } ]
+  }, {
+    "tStartMs": 6120,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "in easy English to help you learn."
+    } ]
+  }, {
+    "tStartMs": 8520,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 9920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And I'm Beth."
+    } ]
+  }, {
+    "tStartMs": 10920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You can find a video\nof this podcast and"
+    } ]
+  }, {
+    "tStartMs": 13920,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "find a worksheet to help you learn\non our website bbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 25560,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Hello, Beth, how are you?"
+    } ]
+  }, {
+    "tStartMs": 26880,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "I'm very well, thank you.\nHow are you, Neil?"
+    } ]
+  }, {
+    "tStartMs": 28760,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I'm very happy.\nThe sun is shining today."
+    } ]
+  }, {
+    "tStartMs": 31240,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "It is. It's a beautiful day."
+    } ]
+  }, {
+    "tStartMs": 33480,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "What are we talking about?"
+    } ]
+  }, {
+    "tStartMs": 35000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Today we're talking\nabout our childhoods."
+    } ]
+  }, {
+    "tStartMs": 38120,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So we'll talk about life,"
+    } ]
+  }, {
+    "tStartMs": 40560,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "how it was,"
+    } ]
+  }, {
+    "tStartMs": 41840,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "What, what our lives were like\nwhen we were children."
+    } ]
+  }, {
+    "tStartMs": 44920,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "How interesting.\nLet's get started."
+    } ]
+  }, {
+    "tStartMs": 47360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "So, Neil, what do you remember most\nabout your childhood?"
+    } ]
+  }, {
+    "tStartMs": 52240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Well, it was such a long time ago,"
+    } ]
+  }, {
+    "tStartMs": 55240,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "but I can remember things, obviously,\nquite clearly."
+    } ]
+  }, {
+    "tStartMs": 59440,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "I lived in a different country\nwhen I was a child."
+    } ]
+  }, {
+    "tStartMs": 64000,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Where did you live?"
+    } ]
+  }, {
+    "tStartMs": 64840,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "I lived in Canada\nuntil I was ten years old."
+    } ]
+  }, {
+    "tStartMs": 69920,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So I can remember,\nvery hot, humid summers,"
+    } ]
+  }, {
+    "tStartMs": 74960,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "but very long\nand very cold and snowy winters."
+    } ]
+  }, {
+    "tStartMs": 78760,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "So you always, like, made snowmen,\nI guess, and had snowball fights?"
+    } ]
+  }, {
+    "tStartMs": 82560,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Yes. We always had a white Christmas,\nwhich is great."
+    } ]
+  }, {
+    "tStartMs": 85920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "And I don't think I've ever had\na white Christmas in England."
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Not in the south of England."
+    } ]
+  }, {
+    "tStartMs": 91600,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Well, I moved house,"
+    } ]
+  }, {
+    "tStartMs": 93480,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "or my family moved house,\nwhen I was ten,"
+    } ]
+  }, {
+    "tStartMs": 96680,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "so I feel like\na slightly similar thing"
+    } ]
+  }, {
+    "tStartMs": 100440,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "where all of my childhood memories\nreally are in this house and playing"
+    } ]
+  }, {
+    "tStartMs": 106600,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "with my friends that lived in that\nvillage and went to my primary school"
+    } ]
+  }, {
+    "tStartMs": 110280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "when I lived in that house.\nHaving friends over for tea."
+    } ]
+  }, {
+    "tStartMs": 113800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "That's a lot of, yeah,\nstrong memories of of my childhood."
+    } ]
+  }, {
+    "tStartMs": 118120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And what kind of things did you do\nwhen you were a child?"
+    } ]
+  }, {
+    "tStartMs": 121520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "What kind of hobbies and interests\ndid you have?"
+    } ]
+  }, {
+    "tStartMs": 125080,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Well, my friends\nand I used to always put on shows."
+    } ]
+  }, {
+    "tStartMs": 129040,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "We would do gymnastics shows\nin the garden."
+    } ]
+  }, {
+    "tStartMs": 131960,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "We'd say, 'Mum, Dad, come and watch\nmy gymnastics show with my friend'."
+    } ]
+  }, {
+    "tStartMs": 137120,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "We used to do singing concerts."
+    } ]
+  }, {
+    "tStartMs": 139440,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "We wrote our own songs."
+    } ]
+  }, {
+    "tStartMs": 141520,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Once, my friend and I recorded\nonto a tape."
+    } ]
+  }, {
+    "tStartMs": 145160,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Do you remember tapes?"
+    } ]
+  }, {
+    "tStartMs": 146200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Of course I remember tapes."
+    } ]
+  }, {
+    "tStartMs": 148000,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "We recorded our own song onto a tape,"
+    } ]
+  }, {
+    "tStartMs": 150840,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and we sent it to a recording studio\nin the hope that they would sign us."
+    } ]
+  }, {
+    "tStartMs": 155440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it a good song?"
+    } ]
+  }, {
+    "tStartMs": 157440,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's great."
+    } ]
+  }, {
+    "tStartMs": 158440,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "I think we need to hear it."
+    } ]
+  }, {
+    "tStartMs": 160800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Maybe at the end of the show."
+    } ]
+  }, {
+    "tStartMs": 164720,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "What about you?"
+    } ]
+  }, {
+    "tStartMs": 165640,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "What sort of hobbies\ndid you have when you were a child?"
+    } ]
+  }, {
+    "tStartMs": 169920,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "I just remember playing outside a lot\nwith my friends"
+    } ]
+  }, {
+    "tStartMs": 174160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and having adventures and\nalso doing lots and lots of sport."
+    } ]
+  }, {
+    "tStartMs": 178720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "So I always liked football and cricket\nand I played when I was in Canada."
+    } ]
+  }, {
+    "tStartMs": 184400,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I played ice hockey."
+    } ]
+  }, {
+    "tStartMs": 185760,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "That's cool.\nCan you still ice skate?"
+    } ]
+  }, {
+    "tStartMs": 188480,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "I'm OK. I'd say\nI'm better than most British people."
+    } ]
+  }, {
+    "tStartMs": 193640,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Because you grow up in Canada"
+    } ]
+  }, {
+    "tStartMs": 195960,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "skating."
+    } ]
+  }, {
+    "tStartMs": 196800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 198800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "But I'm not brilliant."
+    } ]
+  }, {
+    "tStartMs": 200400,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "How do you think the world\nhas changed since you were a child?"
+    } ]
+  }, {
+    "tStartMs": 205680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The world is really different\nfrom when I was a child."
+    } ]
+  }, {
+    "tStartMs": 209680,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Because when I was growing up, we didn't\nhave the internet or mobile phones."
+    } ]
+  }, {
+    "tStartMs": 214440,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And I think\nthey've made such a difference"
+    } ]
+  }, {
+    "tStartMs": 217240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "to the way people communicate\nwith each other."
+    } ]
+  }, {
+    "tStartMs": 221560,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "And it drives me mad sometimes, because\nmy son will try to arrange to go out"
+    } ]
+  }, {
+    "tStartMs": 227240,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "with his friends, just to go\nto the park, in a group chat,"
+    } ]
+  }, {
+    "tStartMs": 231600,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "and then nothing ever happens."
+    } ]
+  }, {
+    "tStartMs": 233240,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And I just say, 'just go there'."
+    } ]
+  }, {
+    "tStartMs": 235440,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 236160,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "It's a hundred metres down the road."
+    } ]
+  }, {
+    "tStartMs": 237560,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Knock the door. But\nI don't think that happens any more."
+    } ]
+  }, {
+    "tStartMs": 241240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "No, I think for me, like,"
+    } ]
+  }, {
+    "tStartMs": 243360,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "something that's really changed is,\nlike I was saying about tapes,"
+    } ]
+  }, {
+    "tStartMs": 247080,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "like the idea of playing a tape\nor putting a CD in a CD player."
+    } ]
+  }, {
+    "tStartMs": 253440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Like, brings back amazing memories."
+    } ]
+  }, {
+    "tStartMs": 255840,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "I used to have a CD\nthat I would play,"
+    } ]
+  }, {
+    "tStartMs": 260360,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "and then I'd sing really loudly,"
+    } ]
+  }, {
+    "tStartMs": 261880,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and I would imagine that then\nsuddenly the band would be in the garden"
+    } ]
+  }, {
+    "tStartMs": 267480,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and they would,\nand they'd be there singing with me."
+    } ]
+  }, {
+    "tStartMs": 270360,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "But I think those physical music devices\neven like having a video or a DVD,"
+    } ]
+  }, {
+    "tStartMs": 277400,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "like, they bring back loads\nof memories for me."
+    } ]
+  }, {
+    "tStartMs": 286320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Let's recap the language we heard\nin our conversation about childhood,"
+    } ]
+  }, {
+    "tStartMs": 291120,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "starting with 'childhood', which is the\nperiod of time when you are a child."
+    } ]
+  }, {
+    "tStartMs": 295960,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "We had 'memory'."
+    } ]
+  }, {
+    "tStartMs": 297720,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "A memory is something\nthat you can remember from the past."
+    } ]
+  }, {
+    "tStartMs": 301200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "We can say\nthat something 'brings back memories',"
+    } ]
+  }, {
+    "tStartMs": 304200,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "which just means that it reminds you\nof something that happened in the past."
+    } ]
+  }, {
+    "tStartMs": 309880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And when we talk about things\nin the past, we often use the past"
+    } ]
+  }, {
+    "tStartMs": 313880,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "simple. For example, I said that I\nplayed in the street with my friends."
+    } ]
+  }, {
+    "tStartMs": 319600,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And we also heard 'used to' and 'would',\nwhich is used when we talk"
+    } ]
+  }, {
+    "tStartMs": 324280,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "about things that happened a number\nof times in the past."
+    } ]
+  }, {
+    "tStartMs": 327560,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So, for example,\nI used to play ice hockey."
+    } ]
+  }, {
+    "tStartMs": 330720,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "It means: I played ice hockey a lot,\nand now I don't any more."
+    } ]
+  }, {
+    "tStartMs": 335400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And that's it for this episode\nof Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 339400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Why not test what you've learnt\nwith the worksheet"
+    } ]
+  }, {
+    "tStartMs": 346520,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Thanks for joining us, and goodbye."
+    } ]
+  }, {
+    "tStartMs": 348280,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  } ]
+}
