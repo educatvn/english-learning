@@ -1,0 +1,685 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Hello and welcome\nto Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 3880,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "In this podcast,"
+    } ]
+  }, {
+    "tStartMs": 4960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "we have real conversations\nin easy English to help you learn."
+    } ]
+  }, {
+    "tStartMs": 9360,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "I'm Beth."
+    } ]
+  }, {
+    "tStartMs": 10480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And I'm Neil,"
+    } ]
+  }, {
+    "tStartMs": 11480,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "and you can find a video version\nof this podcast on our website,\nbbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 17320,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "where you can also find\na free worksheet."
+    } ]
+  }, {
+    "tStartMs": 26000,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "How was your weekend, Neil?"
+    } ]
+  }, {
+    "tStartMs": 27760,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "My weekend was very good."
+    } ]
+  }, {
+    "tStartMs": 29320,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "I did lots of fun things."
+    } ]
+  }, {
+    "tStartMs": 31160,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Oh, good. What about you?"
+    } ]
+  }, {
+    "tStartMs": 33040,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Yeah, I went to a museum that was not\nthat interesting."
+    } ]
+  }, {
+    "tStartMs": 37480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And I did some other\ninteresting things too."
+    } ]
+  }, {
+    "tStartMs": 40480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Well, today,\nBeth, we are talking about days out"
+    } ]
+  }, {
+    "tStartMs": 43600,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and places that are good to visit\nfor a day trip."
+    } ]
+  }, {
+    "tStartMs": 47240,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Very nice.\nLet's get started then."
+    } ]
+  }, {
+    "tStartMs": 50480,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So tell us about your boring day,\nby the sound of it."
+    } ]
+  }, {
+    "tStartMs": 55760,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So it was a prison museum"
+    } ]
+  }, {
+    "tStartMs": 58600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "about, like, medieval England."
+    } ]
+  }, {
+    "tStartMs": 61800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So I feel like it could have been\na bit more exciting,"
+    } ]
+  }, {
+    "tStartMs": 64680,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "but instead I was reading a lot\nabout religion and kings and stuff."
+    } ]
+  }, {
+    "tStartMs": 71280,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "OK, so you spent your weekend learning\nabout prisoners from the Middle Ages?"
+    } ]
+  }, {
+    "tStartMs": 76720,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 77800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah, OK."
+    } ]
+  }, {
+    "tStartMs": 78800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "I wouldn't recommend it too much,\nbut museums can be a good..."
+    } ]
+  }, {
+    "tStartMs": 83440,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 84600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "...thing."
+    } ]
+  }, {
+    "tStartMs": 85600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "What about a day trip\nthat you've enjoyed?"
+    } ]
+  }, {
+    "tStartMs": 88000,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I used to go on lots of day trips\nwith my kids."
+    } ]
+  }, {
+    "tStartMs": 90120,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": " Mm, yeah."
+    } ]
+  }, {
+    "tStartMs": 91520,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So, fun things to do,"
+    } ]
+  }, {
+    "tStartMs": 93600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "we'd go to the seaside in the summer."
+    } ]
+  }, {
+    "tStartMs": 96920,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "But they don't really want\nto hang around with me anymore."
+    } ]
+  }, {
+    "tStartMs": 100400,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "So. You're not cool."
+    } ]
+  }, {
+    "tStartMs": 101960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I'm on my own. Yeah, so"
+    } ]
+  }, {
+    "tStartMs": 104760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I like watching sport."
+    } ]
+  }, {
+    "tStartMs": 108680,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "So I might meet friends\nand go and watch sport."
+    } ]
+  }, {
+    "tStartMs": 111760,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "On Friday, I spent most of the day\nwatching a cricket match."
+    } ]
+  }, {
+    "tStartMs": 115600,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Nice. That sounds\nlike a good day out."
+    } ]
+  }, {
+    "tStartMs": 117680,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Yeah. Well, actually, I did go\nto a museum, but, I also went"
+    } ]
+  }, {
+    "tStartMs": 121880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "to the theatre this weekend and\nthat was a really enjoyable day trip."
+    } ]
+  }, {
+    "tStartMs": 126320,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Did you do any sightseeing?"
+    } ]
+  }, {
+    "tStartMs": 128720,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Well, yeah, we walked past\nquite a lot of famous sights,"
+    } ]
+  }, {
+    "tStartMs": 133880,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "so we went past Big Ben."
+    } ]
+  }, {
+    "tStartMs": 135360,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "We walked past the London Eye,\nTrafalgar Square."
+    } ]
+  }, {
+    "tStartMs": 138640,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Yeah, we did a lot of walking."
+    } ]
+  }, {
+    "tStartMs": 140600,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I'm quite tired, actually."
+    } ]
+  }, {
+    "tStartMs": 142400,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "And are you a thrill seeker?"
+    } ]
+  }, {
+    "tStartMs": 145480,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "So do you like really adventurous\nday trips?"
+    } ]
+  }, {
+    "tStartMs": 151080,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Like, do you like parachuting or\nbungee jumping or any of those things"
+    } ]
+  }, {
+    "tStartMs": 157080,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "or roller coasters?"
+    } ]
+  }, {
+    "tStartMs": 158960,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Theme parks?"
+    } ]
+  }, {
+    "tStartMs": 160360,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "I would say no, not really."
+    } ]
+  }, {
+    "tStartMs": 165040,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "I think if I'm on holiday,\nI'm a bit more adventurous."
+    } ]
+  }, {
+    "tStartMs": 168720,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "So I've done things like,\nyou know, been in speedboats"
+    } ]
+  }, {
+    "tStartMs": 174120,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and that kind of stuff,\nwhich I find quite enjoyable."
+    } ]
+  }, {
+    "tStartMs": 177440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If I'm, if I'm abroad it tends to be."
+    } ]
+  }, {
+    "tStartMs": 179840,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "But I don't really like roller\ncoasters and that sort of thing"
+    } ]
+  }, {
+    "tStartMs": 183800,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "because they, they scare me\nand make me feel a bit sick."
+    } ]
+  }, {
+    "tStartMs": 188240,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "OK. So I wouldn't go\nto a theme park for a day out."
+    } ]
+  }, {
+    "tStartMs": 192280,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "What about you?\nAre you a thrill seeker?"
+    } ]
+  }, {
+    "tStartMs": 195120,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Not anymore. I used to like\ntheme parks when I was younger,"
+    } ]
+  }, {
+    "tStartMs": 200200,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "but I don't really like them anymore.\nOK, Beth."
+    } ]
+  }, {
+    "tStartMs": 202880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So is there anywhere that you have\nalways wanted to visit for a day trip,"
+    } ]
+  }, {
+    "tStartMs": 208160,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "but you haven't?"
+    } ]
+  }, {
+    "tStartMs": 209400,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "There is actually. So, Brighton."
+    } ]
+  }, {
+    "tStartMs": 213480,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I went to Brighton\nwhen I was a child,"
+    } ]
+  }, {
+    "tStartMs": 215960,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "but I can't remember it at all,\nto be honest."
+    } ]
+  }, {
+    "tStartMs": 218840,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So I'd really like to go there on\na day trip because it's not too far."
+    } ]
+  }, {
+    "tStartMs": 222600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And I like the beach\nand I want to have an ice cream."
+    } ]
+  }, {
+    "tStartMs": 226400,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Maybe some fish and chips."
+    } ]
+  }, {
+    "tStartMs": 227880,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I used to live in Brighton."
+    } ]
+  }, {
+    "tStartMs": 229080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Did you?"
+    } ]
+  }, {
+    "tStartMs": 230080,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 230760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "You can take me on a day trip\nand show me around."
+    } ]
+  }, {
+    "tStartMs": 232920,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "I definitely think you should visit."
+    } ]
+  }, {
+    "tStartMs": 234600,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "How about you, Neil?"
+    } ]
+  }, {
+    "tStartMs": 235760,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Is there anywhere that you've\nalways wanted to go on a day trip?"
+    } ]
+  }, {
+    "tStartMs": 239600,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Yeah. I really like train travel,"
+    } ]
+  }, {
+    "tStartMs": 243720,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "and London is actually really close\nto the rest of Europe,"
+    } ]
+  }, {
+    "tStartMs": 247640,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "but we have the sea in the way."
+    } ]
+  }, {
+    "tStartMs": 250160,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "But we have the tunnel, so we can,\nwe can go to Paris, just for the day."
+    } ]
+  }, {
+    "tStartMs": 255880,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And I, it seems like maybe,\nlike it's not long enough"
+    } ]
+  }, {
+    "tStartMs": 261040,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "to just to go somewhere like Paris\nfor a day, but you can do it."
+    } ]
+  }, {
+    "tStartMs": 263880,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "And I kind of like that idea\nof just going from London to Paris"
+    } ]
+  }, {
+    "tStartMs": 268400,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "for the day and back on the train."
+    } ]
+  }, {
+    "tStartMs": 270760,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Sounds a bit crazy."
+    } ]
+  }, {
+    "tStartMs": 272040,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "You'd need a really early train."
+    } ]
+  }, {
+    "tStartMs": 274080,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Really early train, really\nlate train back and lots of energy."
+    } ]
+  }, {
+    "tStartMs": 278680,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 279280,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 280000,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "You wouldn't need to pay\nfor your accommodation."
+    } ]
+  }, {
+    "tStartMs": 281880,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 282680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Go up the Eiffel Tower, come back down, go home."
+    } ]
+  }, {
+    "tStartMs": 286200,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Perfect."
+    } ]
+  }, {
+    "tStartMs": 292320,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Let's recap the vocabulary we heard\nduring the conversation."
+    } ]
+  }, {
+    "tStartMs": 296440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "We had 'day trip', which means visiting\na place for just the day."
+    } ]
+  }, {
+    "tStartMs": 300760,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "We heard 'thrill seeker', which\ndescribes someone who takes part"
+    } ]
+  }, {
+    "tStartMs": 304320,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "in risky and exciting activities."
+    } ]
+  }, {
+    "tStartMs": 307160,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "'Adventurous' means 'unusual\nand exciting'."
+    } ]
+  }, {
+    "tStartMs": 310480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "A person can be adventurous,\nor an experience or a day trip"
+    } ]
+  }, {
+    "tStartMs": 315040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "can be adventurous,\nlike Neil's trip to Paris."
+    } ]
+  }, {
+    "tStartMs": 319280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "We used the word 'sightseeing',\nwhich describes the activity"
+    } ]
+  }, {
+    "tStartMs": 323280,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "where you walk around looking\nat famous buildings and monuments."
+    } ]
+  }, {
+    "tStartMs": 328600,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And that's it for this episode\nof Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 332560,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "You can test what you've learnt\nwith the worksheet on our website,\nbbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 339160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And we'll be back\nwith more easy conversations soon."
+    } ]
+  }, {
+    "tStartMs": 341960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "And we want to hear from you to tell us\nwhat you want to hear us talking about."
+    } ]
+  }, {
+    "tStartMs": 346840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Send an email\nto learningenglish@bbc.co.uk"
+    } ]
+  }, {
+    "tStartMs": 351800,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "We'd love to hear from you."
+    } ]
+  }, {
+    "tStartMs": 353160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Thanks for joining us and see you soon."
+    } ]
+  }, {
+    "tStartMs": 355880,
+    "dDurationMs": 739,
+    "segs": [ {
+      "utf8": "Goodbye."
+    } ]
+  } ]
+}

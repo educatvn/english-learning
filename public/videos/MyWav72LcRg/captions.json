@@ -1,0 +1,511 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Hello and welcome\nto Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 3520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "In this podcast, we have\nreal conversations in easy English"
+    } ]
+  }, {
+    "tStartMs": 7360,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "to help you learn."
+    } ]
+  }, {
+    "tStartMs": 8520,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "I'm Georgie."
+    } ]
+  }, {
+    "tStartMs": 9480,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "And I'm Beth."
+    } ]
+  }, {
+    "tStartMs": 10880,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "You can find a video of this podcast"
+    } ]
+  }, {
+    "tStartMs": 13360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and a worksheet to help you\npractise what you've learnt"
+    } ]
+  }, {
+    "tStartMs": 16920,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "on our website,\nbbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 26840,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "How are you today, Beth?"
+    } ]
+  }, {
+    "tStartMs": 28360,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "I'm very well, thank you.\nHow are you?"
+    } ]
+  }, {
+    "tStartMs": 29880,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yes, I'm pretty good, thank you."
+    } ]
+  }, {
+    "tStartMs": 31560,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Good. So, what are we\ntalking about today?"
+    } ]
+  }, {
+    "tStartMs": 34000,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Well, Beth,\ntoday we are talking about places."
+    } ]
+  }, {
+    "tStartMs": 37400,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "We'll talk about the city and\nthe countryside and which we prefer."
+    } ]
+  }, {
+    "tStartMs": 42440,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Very nice.\nOK, let's start then."
+    } ]
+  }, {
+    "tStartMs": 45360,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "So, Georgie,\nif you were going to visit somewhere,"
+    } ]
+  }, {
+    "tStartMs": 50760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "for example, would you prefer\nto visit the city or the countryside?"
+    } ]
+  }, {
+    "tStartMs": 55720,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Are we talking about the UK\nor going abroad?"
+    } ]
+  }, {
+    "tStartMs": 61120,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Let's start with the UK."
+    } ]
+  }, {
+    "tStartMs": 63480,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "OK. If I visit\nsomewhere in the UK,"
+    } ]
+  }, {
+    "tStartMs": 66720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "I would usually want\nto go to the countryside."
+    } ]
+  }, {
+    "tStartMs": 70800,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "That's because I live in a city."
+    } ]
+  }, {
+    "tStartMs": 73240,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "I live in London."
+    } ]
+  }, {
+    "tStartMs": 74800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "But I'm from the countryside,\nso sometimes I crave going out"
+    } ]
+  }, {
+    "tStartMs": 79760,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "into a more rural area\nwhere I can see more green space."
+    } ]
+  }, {
+    "tStartMs": 84320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "There's more wildlife."
+    } ]
+  }, {
+    "tStartMs": 86800,
+    "dDurationMs": 3335,
+    "segs": [ {
+      "utf8": "It's almost like you need\nto escape the..."
+    } ]
+  }, {
+    "tStartMs": 90135,
+    "dDurationMs": 3025,
+    "segs": [ {
+      "utf8": "the busy hustle and bustle\nof the city."
+    } ]
+  }, {
+    "tStartMs": 93160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Yeah. Do you know, I...\nI completely agree with you."
+    } ]
+  }, {
+    "tStartMs": 96680,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Cities in the UK are great."
+    } ]
+  }, {
+    "tStartMs": 99040,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "There are some great cities, but\nI have visited quite a lot of them."
+    } ]
+  }, {
+    "tStartMs": 103760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "And after a while\nthe cities are all similar,"
+    } ]
+  }, {
+    "tStartMs": 109040,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "whereas the countryside,\nyou can do different activities."
+    } ]
+  }, {
+    "tStartMs": 113120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "It's really nice to see new places."
+    } ]
+  }, {
+    "tStartMs": 115880,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "I... A few years ago, I went to Kent\nand I had never been to Kent before"
+    } ]
+  }, {
+    "tStartMs": 121040,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "because I'm from the north of England\nand Kent is in the south,"
+    } ]
+  }, {
+    "tStartMs": 125720,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "and it was amazing."
+    } ]
+  }, {
+    "tStartMs": 127160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "They had different kinds of buildings\nand, like, architecture on the farms."
+    } ]
+  }, {
+    "tStartMs": 131640,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "We don't have those same kind of roofs\nin the farms in the... in the north."
+    } ]
+  }, {
+    "tStartMs": 137520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yeah, I also went to Kent last year."
+    } ]
+  }, {
+    "tStartMs": 139200,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Did you?"
+    } ]
+  }, {
+    "tStartMs": 139880,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I did, but I went to the seaside"
+    } ]
+  }, {
+    "tStartMs": 142360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "because Kent also\nhas a bit of coastline."
+    } ]
+  }, {
+    "tStartMs": 144840,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 145440,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And yeah, I really enjoyed\nvisiting Kent."
+    } ]
+  }, {
+    "tStartMs": 149000,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "And the villages are so, like, cute\nand picturesque, we could say."
+    } ]
+  }, {
+    "tStartMs": 154720,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "What about when you go abroad?"
+    } ]
+  }, {
+    "tStartMs": 156920,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Do you... do you also visit\nthe countryside in other countries?"
+    } ]
+  }, {
+    "tStartMs": 161400,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "I have done, but to be honest, I would\nnormally go to a city if I go abroad,"
+    } ]
+  }, {
+    "tStartMs": 166880,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "maybe the capital city\nor maybe a smaller city."
+    } ]
+  }, {
+    "tStartMs": 169640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "But one of the reasons for that,\nI think, is the transport."
+    } ]
+  }, {
+    "tStartMs": 174120,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "It's so much easier to get a train\nor a bus when you're in a city."
+    } ]
+  }, {
+    "tStartMs": 180680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And you'd have\nto hire a car, I think,"
+    } ]
+  }, {
+    "tStartMs": 184120,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to visit a village\nor something like that."
+    } ]
+  }, {
+    "tStartMs": 186400,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "It's very true. Usually if\nyou go abroad, you fly to an airport"
+    } ]
+  }, {
+    "tStartMs": 190520,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and the airports are usually closer\nto the city."
+    } ]
+  }, {
+    "tStartMs": 193920,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And if you only have a few days\nin a place,"
+    } ]
+  }, {
+    "tStartMs": 197040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "it's easier to just stay in the city."
+    } ]
+  }, {
+    "tStartMs": 199160,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "It's also, I guess, easier\nto do lots of, like, activities"
+    } ]
+  }, {
+    "tStartMs": 206880,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "in the city when you visit and try\nout lots of the local restaurants."
+    } ]
+  }, {
+    "tStartMs": 212080,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Everything is closer together\nso you can do more things."
+    } ]
+  }, {
+    "tStartMs": 215240,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Yeah. Well, I'm just thinking\nif you're in the city"
+    } ]
+  }, {
+    "tStartMs": 218080,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "you can, like, search on your phone for\nreally good restaurants really easily."
+    } ]
+  }, {
+    "tStartMs": 223000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "But if I'm in Italy, for example,"
+    } ]
+  }, {
+    "tStartMs": 225800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "and I don't speak Italian, it\nwould be really difficult, I think,"
+    } ]
+  }, {
+    "tStartMs": 230440,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "for me to find a good restaurant\nbecause I wouldn't know where to go."
+    } ]
+  }, {
+    "tStartMs": 235480,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Sometimes it's the locals"
+    } ]
+  }, {
+    "tStartMs": 238080,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "in the countryside\nthat are able to tell you this."
+    } ]
+  }, {
+    "tStartMs": 240880,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "It might not even be on the internet."
+    } ]
+  }, {
+    "tStartMs": 243560,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Yep. That's very true."
+    } ]
+  }, {
+    "tStartMs": 251080,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Let's recap the language we used\nin this conversation,"
+    } ]
+  }, {
+    "tStartMs": 254200,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "starting with 'countryside' – land\noutside of towns and cities"
+    } ]
+  }, {
+    "tStartMs": 258600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "where there are not many buildings."
+    } ]
+  }, {
+    "tStartMs": 260520,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "We can also describe this\nwith the adjective 'rural'."
+    } ]
+  }, {
+    "tStartMs": 264400,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "And 'hustle and bustle', the busyness\nand noise that you find in the city."
+    } ]
+  }, {
+    "tStartMs": 270240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "We had 'picturesque',\nwhich means pretty or beautiful."
+    } ]
+  }, {
+    "tStartMs": 273760,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "We often use this\nto describe a place."
+    } ]
+  }, {
+    "tStartMs": 276880,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And 'visit' – to go somewhere\nfor a short time."
+    } ]
+  }, {
+    "tStartMs": 280840,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "That's it for this episode\nof Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 283760,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Go to our website to find a worksheet\nto test what you've learned."
+    } ]
+  }, {
+    "tStartMs": 287160,
+    "dDurationMs": 2015,
+    "segs": [ {
+      "utf8": "bbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 289175,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "See you then!"
+    } ]
+  }, {
+    "tStartMs": 290095,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Goodbye."
+    } ]
+  } ]
+}

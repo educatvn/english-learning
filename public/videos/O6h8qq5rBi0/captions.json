@@ -1,0 +1,589 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 2611,
+    "segs": [ {
+      "utf8": "Hello and welcome\nto Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 2611,
+    "dDurationMs": 3469,
+    "segs": [ {
+      "utf8": "In this podcast, we have real conversations in easy English"
+    } ]
+  }, {
+    "tStartMs": 6080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "to help you understand. I'm Neil."
+    } ]
+  }, {
+    "tStartMs": 8762,
+    "dDurationMs": 1478,
+    "segs": [ {
+      "utf8": "And I'm Beth."
+    } ]
+  }, {
+    "tStartMs": 10240,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "You can watch a video of this podcast"
+    } ]
+  }, {
+    "tStartMs": 13400,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "and find a worksheet to help you learn\non our website, bbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 26120,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Hi Beth, how are you today?"
+    } ]
+  }, {
+    "tStartMs": 27720,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I'm very good, Neil. How are you?"
+    } ]
+  }, {
+    "tStartMs": 29320,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I'm very well.\nWhat are we talking about?"
+    } ]
+  }, {
+    "tStartMs": 32000,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Today we are talking about work\nand the office."
+    } ]
+  }, {
+    "tStartMs": 35880,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "An office is a place with desks and\ncomputers where people do their jobs."
+    } ]
+  }, {
+    "tStartMs": 41320,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "OK. We are\nin a studio in the office,"
+    } ]
+  }, {
+    "tStartMs": 44160,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "but we'll go back to the office\nafter this."
+    } ]
+  }, {
+    "tStartMs": 46920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Yes we will.\nSo, Neil, where do you work?"
+    } ]
+  }, {
+    "tStartMs": 50600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Do you work at home\nor do you work in the office?"
+    } ]
+  }, {
+    "tStartMs": 53880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Well, I do both of those things."
+    } ]
+  }, {
+    "tStartMs": 56760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I work in the office\nusually three days a week,"
+    } ]
+  }, {
+    "tStartMs": 60760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and I work from home two days a week."
+    } ]
+  }, {
+    "tStartMs": 63440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "OK. I'm the same."
+    } ]
+  }, {
+    "tStartMs": 66160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "We have the same schedule. So,"
+    } ]
+  }, {
+    "tStartMs": 68560,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "yeah, at home twice,"
+    } ]
+  }, {
+    "tStartMs": 70440,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "where I have a sort of place\nthat could be considered a home office."
+    } ]
+  }, {
+    "tStartMs": 76600,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Do you like working\nin the office?"
+    } ]
+  }, {
+    "tStartMs": 79480,
+    "dDurationMs": 3225,
+    "segs": [ {
+      "utf8": "I do like working in the office."
+    } ]
+  }, {
+    "tStartMs": 82705,
+    "dDurationMs": 4375,
+    "segs": [ {
+      "utf8": "I think it's easy\nto get work done in the office"
+    } ]
+  }, {
+    "tStartMs": 87080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "because it's an office environment."
+    } ]
+  }, {
+    "tStartMs": 89760,
+    "dDurationMs": 2682,
+    "segs": [ {
+      "utf8": "It's a workplace."
+    } ]
+  }, {
+    "tStartMs": 92442,
+    "dDurationMs": 4158,
+    "segs": [ {
+      "utf8": "But I also quite like working\nfrom home sometimes"
+    } ]
+  }, {
+    "tStartMs": 96600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "because, commuting – London is a big city."
+    } ]
+  }, {
+    "tStartMs": 99560,
+    "dDurationMs": 2804,
+    "segs": [ {
+      "utf8": "You know, coming to work and going back"
+    } ]
+  }, {
+    "tStartMs": 102364,
+    "dDurationMs": 2396,
+    "segs": [ {
+      "utf8": "is really tiring if you do it every day."
+    } ]
+  }, {
+    "tStartMs": 104760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Yeah, I know what you mean."
+    } ]
+  }, {
+    "tStartMs": 107040,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I... I like working\nfrom home occasionally,"
+    } ]
+  }, {
+    "tStartMs": 111800,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "but I definitely prefer being\nin the office."
+    } ]
+  }, {
+    "tStartMs": 115680,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "I think being with colleagues\naround you and I need people,"
+    } ]
+  }, {
+    "tStartMs": 120120,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "and then I can work better."
+    } ]
+  }, {
+    "tStartMs": 121640,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Yeah. So, what's wrong\nwith working from home?"
+    } ]
+  }, {
+    "tStartMs": 125390,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "A lot!"
+    } ]
+  }, {
+    "tStartMs": 128240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I think, when you're in the office,"
+    } ]
+  }, {
+    "tStartMs": 131600,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "yeah, it's louder than at home,"
+    } ]
+  }, {
+    "tStartMs": 134120,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "but I like having the people\naround me."
+    } ]
+  }, {
+    "tStartMs": 136600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "I like being able\nto have conversations."
+    } ]
+  }, {
+    "tStartMs": 139520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "I find it's easier to work\nin an office environment"
+    } ]
+  }, {
+    "tStartMs": 143560,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "because everyone else is working."
+    } ]
+  }, {
+    "tStartMs": 146040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But I feel more lonely at home\nbecause it's just me."
+    } ]
+  }, {
+    "tStartMs": 150920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So, yeah."
+    } ]
+  }, {
+    "tStartMs": 153560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Yeah, I understand what you mean."
+    } ]
+  }, {
+    "tStartMs": 156200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "I also have a bit\nof a problem with working from home,"
+    } ]
+  }, {
+    "tStartMs": 159960,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "because the boundary or the line\nbetween work and home is not so clear."
+    } ]
+  }, {
+    "tStartMs": 166960,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "So when you finish your day,\nyou close your computer"
+    } ]
+  }, {
+    "tStartMs": 171480,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and you think, oh, hang on,\nI'm still at home."
+    } ]
+  }, {
+    "tStartMs": 174320,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "This is where\nI've been working all day."
+    } ]
+  }, {
+    "tStartMs": 176040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And sometimes you feel like\nyou should be doing things for home"
+    } ]
+  }, {
+    "tStartMs": 180280,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "when you're actually working."
+    } ]
+  }, {
+    "tStartMs": 182120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Yeah, it's a bit weirder."
+    } ]
+  }, {
+    "tStartMs": 184920,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Like, it's... it's strange being\nat home because it's harder to know"
+    } ]
+  }, {
+    "tStartMs": 190080,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "whether you should be working or\ndoing a bit of housework. In the office,"
+    } ]
+  }, {
+    "tStartMs": 195160,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "it's easier to just sit and be with\nyour laptop, be with your colleagues"
+    } ]
+  }, {
+    "tStartMs": 199160,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "and just be... be working."
+    } ]
+  }, {
+    "tStartMs": 203640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Have you ever worked somewhere\nthat is not an office?"
+    } ]
+  }, {
+    "tStartMs": 206640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Yes. So, I used to work at a farm."
+    } ]
+  }, {
+    "tStartMs": 210400,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "It was a farm park."
+    } ]
+  }, {
+    "tStartMs": 211960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So, lots of children playing\nand there was a cafe."
+    } ]
+  }, {
+    "tStartMs": 215360,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "There was a play area,\ngo-karts, being with animals."
+    } ]
+  }, {
+    "tStartMs": 219240,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So, lots of different areas."
+    } ]
+  }, {
+    "tStartMs": 222480,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "And it was fun."
+    } ]
+  }, {
+    "tStartMs": 223560,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Lots of variety."
+    } ]
+  }, {
+    "tStartMs": 224760,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "So, that wasn't an office."
+    } ]
+  }, {
+    "tStartMs": 226200,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "What about you?"
+    } ]
+  }, {
+    "tStartMs": 227280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I've worked in all kinds of places,"
+    } ]
+  }, {
+    "tStartMs": 230040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "especially when I was a student."
+    } ]
+  }, {
+    "tStartMs": 232280,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "I worked in factories, farms."
+    } ]
+  }, {
+    "tStartMs": 236320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "I've worked in restaurants, bars,\nall kinds of places"
+    } ]
+  }, {
+    "tStartMs": 240400,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "that are not offices."
+    } ]
+  }, {
+    "tStartMs": 241480,
+    "dDurationMs": 1208,
+    "segs": [ {
+      "utf8": "You've done it all."
+    } ]
+  }, {
+    "tStartMs": 242688,
+    "dDurationMs": 1284,
+    "segs": [ {
+      "utf8": "I've done it all."
+    } ]
+  }, {
+    "tStartMs": 250520,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Let's recap some of the vocabulary\nwe heard in this podcast."
+    } ]
+  }, {
+    "tStartMs": 254800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "We had 'office' –\na place with desks"
+    } ]
+  }, {
+    "tStartMs": 257920,
+    "dDurationMs": 2882,
+    "segs": [ {
+      "utf8": "and computers where people go to work."
+    } ]
+  }, {
+    "tStartMs": 260802,
+    "dDurationMs": 4038,
+    "segs": [ {
+      "utf8": "Sometimes, at BBC Learning English,\nwe work in the office."
+    } ]
+  }, {
+    "tStartMs": 264840,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "We had 'working remotely', which\nwe often also call 'working from home',"
+    } ]
+  }, {
+    "tStartMs": 270320,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and that means working somewhere\nthat isn't the office,"
+    } ]
+  }, {
+    "tStartMs": 273840,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "for example, your home."
+    } ]
+  }, {
+    "tStartMs": 274920,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "But it could also be a cafe\nor something."
+    } ]
+  }, {
+    "tStartMs": 277880,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "And we also had 'colleagues' –"
+    } ]
+  }, {
+    "tStartMs": 279800,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "these are the people\nthat you work with."
+    } ]
+  }, {
+    "tStartMs": 282480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "And we compared working from home\nwith working from an office,"
+    } ]
+  }, {
+    "tStartMs": 287040,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and we used lots of comparatives."
+    } ]
+  }, {
+    "tStartMs": 288960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So, it's harder to concentrate at home"
+    } ]
+  }, {
+    "tStartMs": 292360,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "or it's more difficult\nto get your work done in the office."
+    } ]
+  }, {
+    "tStartMs": 296800,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Yes. And it's louder in the office,\nbut sometimes that's better."
+    } ]
+  }, {
+    "tStartMs": 301320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "That's it for this episode\nof Real Easy English,"
+    } ]
+  }, {
+    "tStartMs": 303840,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "you can test what you've learned\nwith a worksheet,"
+    } ]
+  }, {
+    "tStartMs": 306440,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "which you can download\nfor free from our website,"
+    } ]
+  }, {
+    "tStartMs": 308760,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "bbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 310926,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "Bye!"
+    } ]
+  } ]
+}
