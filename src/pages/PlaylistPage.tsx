@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import ReactPlayer from 'react-player'
-import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, PlayCircle, RotateCcw } from 'lucide-react'
+import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, PlayCircle, RotateCcw, StickyNote, Plus, Trash2 } from 'lucide-react'
 import { UserButton } from '@/components/UserButton'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
@@ -14,8 +14,10 @@ import { useQuizMode } from '@/hooks/useQuizMode'
 import { useWatchTime } from '@/hooks/useWatchTime'
 import { useViewHistory } from '@/hooks/useViewHistory'
 import { useVideoProgress } from '@/hooks/useVideoProgress'
+import { useVideoNotes } from '@/hooks/useVideoNotes'
 import { QuizModal } from '@/components/QuizModal'
 import type { QuizResult } from '@/components/QuizModal'
+import { VideoProgressBar } from '@/components/VideoProgressBar'
 import { saveQuizAttempt } from '@/services/quizResults'
 
 export default function PlaylistPage() {
@@ -25,6 +27,8 @@ export default function PlaylistPage() {
   const playerRef = useRef<HTMLVideoElement>(null)
   const activeCueRef = useRef<HTMLButtonElement>(null)
   const dropdownRef = useRef<HTMLDivElement>(null)
+  const durationMsStateRef = useRef(0)
+  const noteInputRef = useRef<HTMLTextAreaElement>(null)
 
   const [loading, setLoading] = useState(true)
   const [playlist, setPlaylist] = useState<Playlist | null>(null)
@@ -34,18 +38,26 @@ export default function PlaylistPage() {
 
   const [cues, setCues] = useState<CaptionCue[]>([])
   const [currentMs, setCurrentMs] = useState(0)
+  const [durationMs, setDurationMs] = useState(0)
   const [playing, setPlaying] = useState(false)
   const stopAtMsRef = useRef<number | null>(null)
   const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null)
   const cuePlayRef = useRef(false)
 
   const [resumeDismissed, setResumeDismissed] = useState(false)
+  const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes'>('captions')
+  const [isAddingNote, setIsAddingNote] = useState(false)
+  const [pendingNoteMs, setPendingNoteMs] = useState(0)
+  const [noteText, setNoteText] = useState('')
 
   const quiz = useQuizMode()
   const currentVideo = videos[currentIdx] ?? null
   const watchTime = useWatchTime(user?.sub, currentVideo?.videoId)
   const viewHistory = useViewHistory(user?.sub, currentVideo?.videoId)
   const videoProgress = useVideoProgress(user?.sub, currentVideo?.videoId)
+  const { notes, addNote, removeNote } = useVideoNotes(user?.sub, currentVideo?.videoId)
+
+  const showResumeBanner = !resumeDismissed && videoProgress.resumePositionMs !== null
 
   // Load playlist + all videos
   useEffect(() => {
@@ -61,11 +73,15 @@ export default function PlaylistPage() {
       })
       .catch(console.error)
       .finally(() => setLoading(false))
-  }, [id])
+  }, [id]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Reset resume banner when video changes
+  // Reset state on video change
   useEffect(() => {
     setResumeDismissed(false)
+    setIsAddingNote(false)
+    setNoteText('')
+    setDurationMs(0)
+    durationMsStateRef.current = 0
   }, [currentVideo?.videoId])
 
   // Load captions whenever the current video changes
@@ -101,6 +117,10 @@ export default function PlaylistPage() {
     return () => document.removeEventListener('mousedown', onDown)
   }, [dropdownOpen])
 
+  useEffect(() => {
+    if (isAddingNote) noteInputRef.current?.focus()
+  }, [isAddingNote])
+
   // Active cue
   const liveCue = findActiveCue(cues, currentMs)
   const liveCueIdx = liveCue ? cues.indexOf(liveCue) : -1
@@ -111,13 +131,14 @@ export default function PlaylistPage() {
     activeCueRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
   }, [activeCueIdx])
 
-  const showResumeBanner =
-    !resumeDismissed &&
-    videoProgress.resumePositionMs !== null
-
   const handleTimeUpdate = useCallback((e: React.SyntheticEvent<HTMLVideoElement>) => {
     const ms = e.currentTarget.currentTime * 1000
-    videoProgress.onTimeUpdate(ms, e.currentTarget.duration * 1000)
+    const dur = e.currentTarget.duration * 1000
+    if (isFinite(dur) && dur > 0 && dur !== durationMsStateRef.current) {
+      durationMsStateRef.current = dur
+      setDurationMs(dur)
+    }
+    videoProgress.onTimeUpdate(ms, dur)
     if (stopAtMsRef.current !== null && ms >= stopAtMsRef.current) {
       e.currentTarget.pause()
       stopAtMsRef.current = null
@@ -127,6 +148,14 @@ export default function PlaylistPage() {
     }
     setCurrentMs(ms)
   }, [quiz.onCueEnded]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  const handleSeek = useCallback((ms: number) => {
+    const video = playerRef.current
+    if (!video) return
+    video.currentTime = ms / 1000
+    setCurrentMs(ms)
+    setPinnedCueIdx(null)
+  }, [])
 
   const handleCueClick = useCallback((cue: CaptionCue, idx: number) => {
     const video = playerRef.current
@@ -163,12 +192,29 @@ export default function PlaylistPage() {
     }
   }
 
-  // Caption overlay: mask quiz word while cue plays
+  function handleStartAddNote() {
+    setPendingNoteMs(currentMs)
+    setNoteText('')
+    setIsAddingNote(true)
+    setPlaying(false)
+    playerRef.current?.pause()
+  }
+
+  function handleSaveNote() {
+    if (!noteText.trim()) return
+    void addNote(pendingNoteMs, noteText)
+    setIsAddingNote(false)
+    setNoteText('')
+  }
+
+  function handleCancelNote() {
+    setIsAddingNote(false)
+    setNoteText('')
+  }
+
   const overlayText = (() => {
     if (!activeCue) return null
-    if (quiz.quizMode && quiz.quizWordRef.current) {
-      return maskText(activeCue.text, quiz.quizWordRef.current)
-    }
+    if (quiz.quizMode && quiz.quizWordRef.current) return maskText(activeCue.text, quiz.quizWordRef.current)
     return activeCue.text
   })()
 
@@ -221,30 +267,20 @@ export default function PlaylistPage() {
             title={quiz.quizMode ? 'Quiz mode on — click to disable' : 'Enable quiz mode'}
             className={[
               'flex items-center gap-1.5 h-7 px-3 rounded-lg text-xs font-semibold transition-colors mr-2',
-              quiz.quizMode
-                ? 'bg-blue-600 text-white hover:bg-blue-500'
-                : 'bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white',
+              quiz.quizMode ? 'bg-blue-600 text-white hover:bg-blue-500' : 'bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white',
             ].join(' ')}
           >
             <Brain className="w-3.5 h-3.5" />
             Quiz
           </button>
 
-          <button
-            onClick={() => jumpTo(currentIdx - 1)}
-            disabled={currentIdx === 0}
-            className="w-7 h-7 rounded flex items-center justify-center text-gray-400 hover:text-white hover:bg-gray-800 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
-          >
+          <button onClick={() => jumpTo(currentIdx - 1)} disabled={currentIdx === 0}
+            className="w-7 h-7 rounded flex items-center justify-center text-gray-400 hover:text-white hover:bg-gray-800 disabled:opacity-30 disabled:cursor-not-allowed transition-colors">
             <ChevronLeft className="w-4 h-4" />
           </button>
-          <span className="text-xs text-gray-500 font-mono w-12 text-center">
-            {currentIdx + 1}/{videos.length}
-          </span>
-          <button
-            onClick={() => jumpTo(currentIdx + 1)}
-            disabled={currentIdx >= videos.length - 1}
-            className="w-7 h-7 rounded flex items-center justify-center text-gray-400 hover:text-white hover:bg-gray-800 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
-          >
+          <span className="text-xs text-gray-500 font-mono w-12 text-center">{currentIdx + 1}/{videos.length}</span>
+          <button onClick={() => jumpTo(currentIdx + 1)} disabled={currentIdx >= videos.length - 1}
+            className="w-7 h-7 rounded flex items-center justify-center text-gray-400 hover:text-white hover:bg-gray-800 disabled:opacity-30 disabled:cursor-not-allowed transition-colors">
             <ChevronRight className="w-4 h-4" />
           </button>
           <div className="ml-2"><UserButton /></div>
@@ -286,20 +322,12 @@ export default function PlaylistPage() {
                   }}
                   style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }}
                   config={{
-                    youtube: {
-                      cc_load_policy: 0,
-                      cc_lang_pref: 'none',
-                      iv_load_policy: 3,
-                      rel: 0,
-                    },
+                    youtube: { cc_load_policy: 0, cc_lang_pref: 'none', iv_load_policy: 3, rel: 0 },
                   }}
                 />
 
                 {overlayText && (
-                  <div
-                    className="absolute bottom-10 left-0 right-0 flex justify-center pointer-events-none px-4"
-                    style={{ zIndex: 10 }}
-                  >
+                  <div className="absolute bottom-10 left-0 right-0 flex justify-center pointer-events-none px-4" style={{ zIndex: 10 }}>
                     <span className="bg-black/80 text-white text-xl font-medium px-4 py-2 rounded text-center leading-relaxed max-w-3xl">
                       {overlayText}
                     </span>
@@ -313,6 +341,7 @@ export default function PlaylistPage() {
                       const video = playerRef.current
                       if (video && videoProgress.resumePositionMs !== null) {
                         video.currentTime = videoProgress.resumePositionMs / 1000
+                        setCurrentMs(videoProgress.resumePositionMs)
                       }
                       setResumeDismissed(true)
                     }}
@@ -326,67 +355,149 @@ export default function PlaylistPage() {
               </div>
             )}
           </div>
+
+          {/* Progress bar */}
+          <VideoProgressBar
+            currentMs={currentMs}
+            durationMs={durationMs}
+            notes={notes}
+            onSeek={handleSeek}
+          />
         </div>
 
-        {/* Caption sidebar */}
+        {/* Sidebar */}
         <div className="w-96 flex flex-col bg-gray-900 border-l border-gray-800">
-          <div className="px-4 py-3 border-b border-gray-800 shrink-0 flex items-center justify-between">
-            <div>
-              <p className="text-xs text-gray-400 font-medium uppercase tracking-wider">
-                Captions — click to practice
-              </p>
-              {currentVideo && (
-                <p className="text-xs text-gray-500 mt-0.5 truncate">{currentVideo.title}</p>
+          {/* Tabs */}
+          <div className="flex border-b border-gray-800 shrink-0">
+            <SidebarTab active={sidebarTab === 'captions'} onClick={() => setSidebarTab('captions')}>
+              Captions
+            </SidebarTab>
+            <SidebarTab active={sidebarTab === 'notes'} onClick={() => setSidebarTab('notes')}>
+              Notes{notes.length > 0 && (
+                <span className="ml-1.5 text-[9px] bg-yellow-500/20 text-yellow-400 px-1.5 py-0.5 rounded-full font-semibold">
+                  {notes.length}
+                </span>
               )}
-            </div>
+            </SidebarTab>
             {quiz.quizMode && (
-              <span className="text-[10px] bg-blue-900/60 text-blue-300 px-2 py-0.5 rounded-full font-medium shrink-0">
+              <span className="ml-auto self-center mr-3 text-[10px] bg-blue-900/60 text-blue-300 px-2 py-0.5 rounded-full font-medium">
                 Quiz mode
               </span>
             )}
           </div>
 
-          <div className="flex-1 overflow-y-auto">
-            {cues.length === 0 && (
-              <div className="p-6 text-center text-gray-500 text-sm">
-                {currentVideo ? 'No captions available' : 'No video selected'}
+          {/* Captions panel */}
+          {sidebarTab === 'captions' && (
+            <div className="flex-1 overflow-y-auto">
+              {currentVideo && (
+                <p className="px-4 py-2 text-xs text-gray-500 border-b border-gray-800/60 truncate">{currentVideo.title}</p>
+              )}
+              {cues.length === 0 && (
+                <div className="p-6 text-center text-gray-500 text-sm">
+                  {currentVideo ? 'No captions available' : 'No video selected'}
+                </div>
+              )}
+              {cues.map((cue, idx) => {
+                const isActive = idx === activeCueIdx
+                const qw = quiz.quizMode ? pickQuizWord(cue.text) : null
+                const displayText = qw ? maskText(cue.text, qw) : cue.text
+                return (
+                  <button
+                    key={cue.startMs}
+                    ref={isActive ? activeCueRef : null}
+                    onClick={() => handleCueClick(cue, idx)}
+                    className={[
+                      'w-full text-left px-4 py-3 border-b border-gray-800/60',
+                      'text-sm leading-relaxed transition-colors duration-100',
+                      'hover:bg-gray-800 focus:outline-none focus:bg-gray-800',
+                      isActive
+                        ? 'bg-blue-950 border-l-2 border-l-blue-500 text-white'
+                        : 'text-gray-300 border-l-2 border-l-transparent',
+                    ].join(' ')}
+                  >
+                    <span className="text-[10px] text-gray-600 font-mono block mb-0.5">
+                      {formatTime(cue.startMs)}
+                    </span>
+                    {displayText}
+                  </button>
+                )
+              })}
+            </div>
+          )}
+
+          {/* Notes panel */}
+          {sidebarTab === 'notes' && (
+            <div className="flex flex-col flex-1 overflow-hidden">
+              <div className="px-4 py-3 border-b border-gray-800 shrink-0">
+                {isAddingNote ? (
+                  <div className="flex flex-col gap-2">
+                    <div className="flex items-center gap-1.5">
+                      <span className="text-[10px] font-mono text-yellow-400">{formatTime(pendingNoteMs)}</span>
+                      <span className="text-[10px] text-gray-500">— note at this position</span>
+                    </div>
+                    <textarea
+                      ref={noteInputRef}
+                      value={noteText}
+                      onChange={(e) => setNoteText(e.target.value)}
+                      onKeyDown={(e) => {
+                        if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); handleSaveNote() }
+                        if (e.key === 'Escape') handleCancelNote()
+                      }}
+                      placeholder="Type your note… (Enter to save, Esc to cancel)"
+                      rows={3}
+                      className="w-full bg-gray-800 border border-gray-700 rounded-lg px-3 py-2 text-sm text-gray-100 placeholder-gray-600 resize-none focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500/40"
+                    />
+                    <div className="flex gap-2">
+                      <button onClick={handleSaveNote} disabled={!noteText.trim()}
+                        className="flex-1 h-7 rounded-lg bg-blue-600 hover:bg-blue-500 disabled:opacity-40 disabled:cursor-not-allowed text-white text-xs font-semibold transition-colors">
+                        Save
+                      </button>
+                      <button onClick={handleCancelNote}
+                        className="h-7 px-3 rounded-lg bg-gray-800 hover:bg-gray-700 text-gray-400 text-xs transition-colors">
+                        Cancel
+                      </button>
+                    </div>
+                  </div>
+                ) : (
+                  <button onClick={handleStartAddNote}
+                    className="w-full flex items-center justify-center gap-2 h-8 rounded-lg border border-dashed border-gray-700 hover:border-gray-500 text-gray-500 hover:text-gray-300 text-xs transition-colors">
+                    <Plus className="w-3.5 h-3.5" />
+                    Add note at {formatTime(currentMs)}
+                  </button>
+                )}
               </div>
-            )}
-            {cues.map((cue, idx) => {
-              const isActive = idx === activeCueIdx
-              const qw = quiz.quizMode ? pickQuizWord(cue.text) : null
-              const displayText = qw ? maskText(cue.text, qw) : cue.text
-              return (
-                <button
-                  key={cue.startMs}
-                  ref={isActive ? activeCueRef : null}
-                  onClick={() => handleCueClick(cue, idx)}
-                  className={[
-                    'w-full text-left px-4 py-3 border-b border-gray-800/60',
-                    'text-sm leading-relaxed transition-colors duration-100',
-                    'hover:bg-gray-800 focus:outline-none focus:bg-gray-800',
-                    isActive
-                      ? 'bg-blue-950 border-l-2 border-l-blue-500 text-white'
-                      : 'text-gray-300 border-l-2 border-l-transparent',
-                  ].join(' ')}
-                >
-                  <span className="text-[10px] text-gray-600 font-mono block mb-0.5">
-                    {formatTime(cue.startMs)}
-                  </span>
-                  {displayText}
-                </button>
-              )
-            })}
-          </div>
+
+              <div className="flex-1 overflow-y-auto">
+                {notes.length === 0 && !isAddingNote && (
+                  <div className="px-4 py-8 text-center">
+                    <StickyNote className="w-8 h-8 text-gray-700 mx-auto mb-2" />
+                    <p className="text-xs text-gray-600">No notes yet.<br />Add a note while watching.</p>
+                  </div>
+                )}
+                {notes.map((note) => (
+                  <div key={note.createdAt} className="group flex gap-3 px-4 py-3 border-b border-gray-800/60 hover:bg-gray-800/40 transition-colors">
+                    <button
+                      onClick={() => handleSeek(note.positionMs)}
+                      className="text-[10px] font-mono text-yellow-400 hover:text-yellow-300 shrink-0 mt-0.5 hover:underline transition-colors"
+                    >
+                      {formatTime(note.positionMs)}
+                    </button>
+                    <p className="flex-1 text-xs text-gray-300 leading-relaxed whitespace-pre-wrap">{note.text}</p>
+                    <button onClick={() => removeNote(note.createdAt)}
+                      className="opacity-0 group-hover:opacity-100 shrink-0 w-5 h-5 flex items-center justify-center text-gray-600 hover:text-red-400 transition-all"
+                      title="Delete note">
+                      <Trash2 className="w-3 h-3" />
+                    </button>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       </div>
 
       {quiz.quizState && (
-        <QuizModal
-          cue={quiz.quizState.cue}
-          quizWord={quiz.quizState.quizWord}
-          onClose={handleQuizClose}
-        />
+        <QuizModal cue={quiz.quizState.cue} quizWord={quiz.quizState.quizWord} onClose={handleQuizClose} />
       )}
     </div>
   )
@@ -394,39 +505,39 @@ export default function PlaylistPage() {
 
 // ─── ResumeBanner ─────────────────────────────────────────────────────────────
 
-function ResumeBanner({
-  positionMs,
-  onResume,
-  onDismiss,
-}: {
-  positionMs: number
-  onResume: () => void
-  onDismiss: () => void
+function ResumeBanner({ positionMs, onResume, onDismiss }: {
+  positionMs: number; onResume: () => void; onDismiss: () => void
 }) {
   return (
-    <div
-      className="absolute bottom-4 left-4 z-20 flex items-center gap-3 bg-gray-900/95 border border-gray-700 rounded-xl px-4 py-3 shadow-2xl backdrop-blur-sm"
-      style={{ maxWidth: 340 }}
-    >
+    <div className="absolute bottom-4 left-4 z-20 flex items-center gap-3 bg-gray-900/95 border border-gray-700 rounded-xl px-4 py-3 shadow-2xl backdrop-blur-sm" style={{ maxWidth: 340 }}>
       <PlayCircle className="w-5 h-5 text-blue-400 shrink-0" />
       <div className="flex-1 min-w-0">
         <p className="text-xs text-gray-300 font-medium">Continue from where you left off?</p>
         <p className="text-[11px] text-gray-500 mt-0.5">{formatTime(positionMs)}</p>
       </div>
-      <button
-        onClick={onResume}
-        className="h-7 px-3 rounded-lg bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold transition-colors shrink-0"
-      >
-        Resume
-      </button>
-      <button
-        onClick={onDismiss}
-        title="Start from beginning"
-        className="w-7 h-7 rounded-lg flex items-center justify-center text-gray-500 hover:text-white hover:bg-gray-700 transition-colors shrink-0"
-      >
+      <button onClick={onResume} className="h-7 px-3 rounded-lg bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold transition-colors shrink-0">Resume</button>
+      <button onClick={onDismiss} title="Start from beginning" className="w-7 h-7 rounded-lg flex items-center justify-center text-gray-500 hover:text-white hover:bg-gray-700 transition-colors shrink-0">
         <RotateCcw className="w-3.5 h-3.5" />
       </button>
     </div>
+  )
+}
+
+// ─── SidebarTab ───────────────────────────────────────────────────────────────
+
+function SidebarTab({ active, onClick, children }: {
+  active: boolean; onClick: () => void; children: React.ReactNode
+}) {
+  return (
+    <button
+      onClick={onClick}
+      className={[
+        'flex items-center gap-1.5 px-4 py-2.5 text-xs font-medium border-b-2 transition-colors',
+        active ? 'border-blue-500 text-white' : 'border-transparent text-gray-500 hover:text-gray-300',
+      ].join(' ')}
+    >
+      {children}
+    </button>
   )
 }
 
@@ -442,10 +553,8 @@ function LoadingScreen() {
         <span className="font-semibold text-sm tracking-wide text-white">Loading playlist…</span>
       </div>
       <div className="w-40 h-0.5 rounded-full bg-gray-800 overflow-hidden">
-        <div
-          className="h-full w-1/3 bg-blue-500 rounded-full origin-left"
-          style={{ animation: 'indeterminate 1.4s ease-in-out infinite' }}
-        />
+        <div className="h-full w-1/3 bg-blue-500 rounded-full origin-left"
+          style={{ animation: 'indeterminate 1.4s ease-in-out infinite' }} />
       </div>
       <style>{`
         @keyframes indeterminate {

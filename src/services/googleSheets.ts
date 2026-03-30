@@ -41,6 +41,19 @@ export async function getVideos(): Promise<VideoMeta[]> {
   return gas<VideoMeta[]>('getVideos')
 }
 
+export async function getVideosPaged(offset: number, limit: number): Promise<{ videos: VideoMeta[]; total: number }> {
+  return gas<{ videos: VideoMeta[]; total: number }>('getVideosPaged', { offset, limit })
+}
+
+export interface SearchResult {
+  videos: VideoMeta[]
+  playlists: Playlist[]
+}
+
+export async function searchContent(query: string, userId: string): Promise<SearchResult> {
+  return gas<SearchResult>('searchContent', { query, userId })
+}
+
 export async function upsertVideo(video: VideoMeta): Promise<void> {
   await gas('upsertVideo', video)
 }

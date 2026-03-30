@@ -17,8 +17,9 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<HomePage />} />
+      <Route path="/playlist/:id" element={<HomePage />} />
       <Route path="/play/:videoId" element={<PlayPage />} />
-      <Route path="/playlist/:id" element={<PlaylistPage />} />
+      <Route path="/playlist/:id/play" element={<PlaylistPage />} />
       <Route path="/progress" element={<ProgressPage />} />
       <Route path="/history" element={<HistoryPage />} />
       <Route path="/admin/add-video" element={<AddVideoPage />} />

@@ -142,6 +142,35 @@ function getAllVideos() {
   }).filter(function(v) { return v.videoId; });
 }
 
+// Returns newest-first page of videos + total count
+function getVideosPaged(data) {
+  var offset = Number(data.offset) || 0;
+  var limit  = Number(data.limit)  || 24;
+  var all    = getAllVideos().reverse(); // newest first
+  var total  = all.length;
+  var page   = all.slice(offset, offset + limit);
+  return { videos: page, total: total };
+}
+
+// Full-text search across videos (title, channel) and playlists (name)
+function searchContent(data) {
+  var q      = String(data.query || '').toLowerCase().trim();
+  var userId = String(data.userId || '');
+  if (!q) return { videos: [], playlists: [] };
+
+  var videos = getAllVideos().reverse().filter(function(v) {
+    return v.title.toLowerCase().indexOf(q) !== -1 ||
+           v.channelName.toLowerCase().indexOf(q) !== -1;
+  }).slice(0, 20);
+
+  var allPlaylists = getPlaylistsForUser({ userId: userId });
+  var playlists = allPlaylists.filter(function(p) {
+    return p.name.toLowerCase().indexOf(q) !== -1;
+  }).slice(0, 10);
+
+  return { videos: videos, playlists: playlists };
+}
+
 function upsertVideo(video) {
   var sheet = videoSheet();
   var row = [video.videoId, video.title, video.channelName || '', video.thumbnailUrl || '', video.addedAt || ''];
@@ -345,6 +374,8 @@ function doPost(e) {
 
     if (action === 'getPlaylists')      return ok(getPlaylistsForUser(data));
     if (action === 'getVideos')         return ok(getAllVideos());
+    if (action === 'getVideosPaged')    return ok(getVideosPaged(data));
+    if (action === 'searchContent')     return ok(searchContent(data));
     if (action === 'upsertPlaylist')    { upsertPlaylist(data); return ok(null); }
     if (action === 'deletePlaylist')    { deletePlaylist(data.id); return ok(null); }
     if (action === 'upsertVideo')       { upsertVideo(data); return ok(null); }

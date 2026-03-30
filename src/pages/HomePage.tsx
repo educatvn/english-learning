@@ -1,89 +1,147 @@
-import { useEffect, useRef, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { useEffect, useRef, useState, useCallback } from 'react'
+import { Link, useNavigate, useParams } from 'react-router-dom'
 import {
   Play, Plus, ListVideo, Trash2, X, Check,
   Pencil, ChevronUp, ChevronDown, GripVertical, Globe, Lock, RotateCcw,
+  Search, ChevronLeft, ChevronRight, Film, ListMusic,
 } from 'lucide-react'
 import type { VideoMeta, Playlist, VideoProgress } from '@/types'
 import { isResumable } from '@/types'
 import { loadPlaylists, savePlaylist, deletePlaylist } from '@/services/playlists'
-import { loadVideos } from '@/services/videos'
-import { getRecentProgress } from '@/services/googleSheets'
+import { getVideosPaged, getRecentProgress, searchContent } from '@/services/googleSheets'
+import type { SearchResult } from '@/services/googleSheets'
 import { useAuth } from '@/context/AuthContext'
 import { UserButton } from '@/components/UserButton'
 
 // ─── HomePage ────────────────────────────────────────────────────────────────
 
 export default function HomePage() {
-  const { user, isAdmin } = useAuth()
-  const [videos, setVideos] = useState<VideoMeta[]>([])
-  const [playlists, setPlaylists] = useState<Playlist[]>([])
-  const [loading, setLoading] = useState(true)
-  const [selectedPlaylistId, setSelectedPlaylistId] = useState<string | null>(null)
-  const [continueItems, setContinueItems] = useState<{ progress: VideoProgress; video: VideoMeta }[]>([])
+  const PAGE_SIZE = 24
 
+  const { id: playlistIdFromUrl } = useParams<{ id?: string }>()
+  const navigate = useNavigate()
+  const { user, isAdmin } = useAuth()
+  const selectedPlaylistId = playlistIdFromUrl ?? null
+
+  // ── Playlists ────────────────────────────────────────────────────────────
+  const [playlists, setPlaylists] = useState<Playlist[]>([])
+  const [loadingPlaylists, setLoadingPlaylists] = useState(true)
+
+  // ── Paged videos (grid) ──────────────────────────────────────────────────
+  const [videos, setVideos] = useState<VideoMeta[]>([])
+  const [totalVideos, setTotalVideos] = useState(0)
+  const [page, setPage] = useState(1)
+  const [loadingVideos, setLoadingVideos] = useState(true)
+
+  // ── Continue Learning ────────────────────────────────────────────────────
+  const [continueItems, setContinueItems] = useState<{ progress: VideoProgress; video: VideoMeta }[]>([])
+  const [loadingContinue, setLoadingContinue] = useState(true)
+
+  // ── Search ───────────────────────────────────────────────────────────────
+  const [searchQuery, setSearchQuery] = useState('')
+  const [searchResults, setSearchResults] = useState<SearchResult | null>(null)
+  const [loadingSearch, setLoadingSearch] = useState(false)
+  const [searchOpen, setSearchOpen] = useState(false)
+  const searchRef = useRef<HTMLDivElement>(null)
+  const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  // ── Playlist editing ─────────────────────────────────────────────────────
   const [creatingPlaylist, setCreatingPlaylist] = useState(false)
   const [newPlaylistName, setNewPlaylistName] = useState('')
   const newPlaylistInputRef = useRef<HTMLInputElement>(null)
-
   const [editingPlaylist, setEditingPlaylist] = useState<Playlist | null>(null)
 
+  // ── Initial load: playlists + continue learning ──────────────────────────
   useEffect(() => {
     if (!user) return
-    Promise.all([loadVideos(), loadPlaylists(user.sub)])
-      .then(([v, p]) => { setVideos(v); setPlaylists(p) })
-      .finally(() => setLoading(false))
-  }, [user])
-
-  // Load "Continue Learning" — in-progress videos sorted by most recent
-  useEffect(() => {
-    if (!user) return
-    getRecentProgress(user.sub, 5)
-      .then((progressList) => {
-        // Will have videos loaded by now (same user effect runs first), but
-        // videos state may not be ready yet — re-fetch independently to be safe
-        loadVideos().then((allVideos) => {
-          const videoMap = new Map(allVideos.map((v) => [v.videoId, v]))
-          const items = progressList
-            .filter(isResumable)
-            .map((p) => {
-              const video = videoMap.get(p.videoId)
-              return video ? { progress: p, video } : null
-            })
-            .filter(Boolean) as { progress: VideoProgress; video: VideoMeta }[]
-          setContinueItems(items)
-        })
+    setLoadingPlaylists(true)
+    setLoadingContinue(true)
+    loadPlaylists(user.sub)
+      .then((p) => setPlaylists(p))
+      .catch(console.error)
+      .finally(() => setLoadingPlaylists(false))
+    getRecentProgress(user.sub, 20)
+      .then(async (progressList) => {
+        const resumable = progressList.filter(isResumable).slice(0, 5)
+        if (resumable.length === 0) { setContinueItems([]); return }
+        // Fetch only the specific videos needed for continue items
+        const { videos: firstPage } = await getVideosPaged(0, 100)
+        const videoMap = new Map(firstPage.map((v) => [v.videoId, v]))
+        const items = resumable
+          .map((prog) => { const video = videoMap.get(prog.videoId); return video ? { progress: prog, video } : null })
+          .filter(Boolean) as { progress: VideoProgress; video: VideoMeta }[]
+        setContinueItems(items)
       })
       .catch(console.error)
-  }, [user])
+      .finally(() => setLoadingContinue(false))
+  }, [user]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  // ── Fetch page of videos (for grid) ─────────────────────────────────────
+  const fetchPage = useCallback(async (p: number) => {
+    setLoadingVideos(true)
+    const offset = (p - 1) * PAGE_SIZE
+    try {
+      const { videos: v, total } = await getVideosPaged(offset, PAGE_SIZE)
+      setVideos(v)
+      setTotalVideos(total)
+      setPage(p)
+    } catch (e) { console.error(e) }
+    finally { setLoadingVideos(false) }
+  }, []) // eslint-disable-line react-hooks/exhaustive-deps
+
+  useEffect(() => {
+    fetchPage(1)
+  }, []) // eslint-disable-line react-hooks/exhaustive-deps
+
+  // ── Debounced search ─────────────────────────────────────────────────────
+  useEffect(() => {
+    const q = searchQuery.trim()
+    if (!q) { setSearchResults(null); setSearchOpen(false); return }
+    setLoadingSearch(true)
+    setSearchOpen(true)
+    if (debounceRef.current) clearTimeout(debounceRef.current)
+    debounceRef.current = setTimeout(() => {
+      searchContent(q, user?.sub ?? '')
+        .then((res) => { setSearchResults(res); setLoadingSearch(false) })
+        .catch(() => setLoadingSearch(false))
+    }, 350)
+    return () => { if (debounceRef.current) clearTimeout(debounceRef.current) }
+  }, [searchQuery]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Close search dropdown on outside click
+  useEffect(() => {
+    if (!searchOpen) return
+    function onDown(e: MouseEvent) {
+      if (searchRef.current && !searchRef.current.contains(e.target as Node)) setSearchOpen(false)
+    }
+    document.addEventListener('mousedown', onDown)
+    return () => document.removeEventListener('mousedown', onDown)
+  }, [searchOpen])
 
   useEffect(() => {
     if (creatingPlaylist) newPlaylistInputRef.current?.focus()
   }, [creatingPlaylist])
 
+  // ── Handlers ─────────────────────────────────────────────────────────────
   function handleCreatePlaylist() {
     if (!user) return
     const name = newPlaylistName.trim()
     if (!name) return
     const playlist: Playlist = {
-      id: Date.now().toString(),
-      name,
-      videoIds: [],
-      createdAt: new Date().toISOString(),
-      ownerId: user.sub,
-      isSystem: false,
-      isPublic: false,
+      id: Date.now().toString(), name, videoIds: [],
+      createdAt: new Date().toISOString(), ownerId: user.sub,
+      isSystem: false, isPublic: false,
     }
     setPlaylists((prev) => [...prev, playlist])
     setNewPlaylistName('')
     setCreatingPlaylist(false)
-    setSelectedPlaylistId(playlist.id)
+    navigate(`/playlist/${playlist.id}`)
     void savePlaylist(playlist)
   }
 
   function handleDeletePlaylist(id: string) {
     setPlaylists((prev) => prev.filter((p) => p.id !== id))
-    if (selectedPlaylistId === id) setSelectedPlaylistId(null)
+    if (selectedPlaylistId === id) navigate('/')
     void deletePlaylist(id)
   }
 
@@ -96,7 +154,6 @@ export default function HomePage() {
   function handleAddToPlaylist(videoId: string, playlistId: string) {
     const playlist = playlists.find((p) => p.id === playlistId)
     if (!playlist || playlist.videoIds.includes(videoId)) return
-    // Only allow editing own playlists or system playlists if admin
     if (!isAdmin && playlist.ownerId !== user?.sub) return
     const updated = { ...playlist, videoIds: [...playlist.videoIds, videoId] }
     setPlaylists((prev) => prev.map((p) => (p.id === playlistId ? updated : p)))
@@ -112,29 +169,121 @@ export default function HomePage() {
     void savePlaylist(updated)
   }
 
+  // ── Derived ───────────────────────────────────────────────────────────────
   const selectedPlaylist = playlists.find((p) => p.id === selectedPlaylistId) ?? null
   const systemPlaylists = playlists.filter((p) => p.isSystem)
   const userPlaylists = playlists.filter((p) => !p.isSystem && p.ownerId === user?.sub)
 
+  // When a playlist is selected, show only its videos from the loaded page
   const visibleVideos = selectedPlaylist
     ? (selectedPlaylist.videoIds.map((id) => videos.find((v) => v.videoId === id)).filter(Boolean) as VideoMeta[])
     : videos
+  const totalPages = Math.max(1, Math.ceil(totalVideos / PAGE_SIZE))
 
-  // Can a user edit this playlist? Admin can edit system & own. Users can only edit their own.
   function canEdit(p: Playlist) {
     if (isAdmin) return true
     return p.ownerId === user?.sub
   }
 
-  if (loading) return <LoadingScreen />
-
   return (
     <div className="min-h-screen bg-background flex flex-col">
       {/* Header */}
       <header className="border-b border-border bg-card shrink-0">
-        <div className="px-6 py-4 flex items-center justify-between">
-          <span className="font-semibold text-sm">English Learning</span>
-          <div className="flex items-center gap-2">
+        <div className="px-6 py-3 flex items-center gap-4">
+          <span className="font-semibold text-sm shrink-0">English Learning</span>
+
+          {/* Search box + dropdown */}
+          <div ref={searchRef} className="flex-1 relative">
+            <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-muted-foreground pointer-events-none z-10" />
+            <input
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              onFocus={() => { if (searchQuery.trim()) setSearchOpen(true) }}
+              placeholder="Search videos or playlists…"
+              className="w-full h-9 rounded-lg border border-input bg-background pl-9 pr-9 text-sm focus:outline-none focus:ring-1 focus:ring-ring placeholder:text-muted-foreground"
+            />
+            {searchQuery && (
+              <button
+                onClick={() => { setSearchQuery(''); setSearchOpen(false) }}
+                className="absolute right-2.5 top-1/2 -translate-y-1/2 w-5 h-5 flex items-center justify-center rounded text-muted-foreground hover:text-foreground transition-colors z-10"
+              >
+                <X className="w-3.5 h-3.5" />
+              </button>
+            )}
+
+            {/* Dropdown */}
+            {searchOpen && searchQuery.trim() && (
+              <div className="absolute top-full left-0 right-0 mt-1 rounded-xl border border-border bg-card shadow-2xl z-50 overflow-hidden max-h-[480px] overflow-y-auto">
+                {loadingSearch ? (
+                  <div className="px-4 py-8 text-center text-sm text-muted-foreground">Searching…</div>
+                ) : !searchResults || (searchResults.videos.length === 0 && searchResults.playlists.length === 0) ? (
+                  <div className="px-4 py-8 text-center text-sm text-muted-foreground">No results for "{searchQuery.trim()}"</div>
+                ) : (
+                  <>
+                    {searchResults.videos.length > 0 && (
+                      <div>
+                        <div className="px-4 py-2 flex items-center gap-1.5 border-b border-border bg-muted/30">
+                          <Film className="w-3 h-3 text-muted-foreground" />
+                          <span className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                            Videos ({searchResults.videos.length})
+                          </span>
+                        </div>
+                        {searchResults.videos.map((video) => (
+                          <Link
+                            key={video.videoId}
+                            to={`/play/${video.videoId}`}
+                            onClick={() => { setSearchOpen(false); setSearchQuery('') }}
+                            className="flex items-center gap-3 px-4 py-2.5 hover:bg-accent transition-colors"
+                          >
+                            <img src={video.thumbnailUrl} alt="" className="w-16 rounded aspect-video object-cover shrink-0" />
+                            <div className="flex-1 min-w-0">
+                              <p className="text-sm font-medium line-clamp-1">
+                                <Highlight text={video.title} query={searchQuery.trim()} />
+                              </p>
+                              {video.channelName && (
+                                <p className="text-xs text-muted-foreground mt-0.5">
+                                  <Highlight text={video.channelName} query={searchQuery.trim()} />
+                                </p>
+                              )}
+                            </div>
+                          </Link>
+                        ))}
+                      </div>
+                    )}
+                    {searchResults.playlists.length > 0 && (
+                      <div>
+                        <div className="px-4 py-2 flex items-center gap-1.5 border-y border-border bg-muted/30">
+                          <ListMusic className="w-3 h-3 text-muted-foreground" />
+                          <span className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                            Playlists ({searchResults.playlists.length})
+                          </span>
+                        </div>
+                        {searchResults.playlists.map((pl) => (
+                          <button
+                            key={pl.id}
+                            onClick={() => { navigate(`/playlist/${pl.id}`); setSearchOpen(false); setSearchQuery('') }}
+                            className="w-full flex items-center gap-3 px-4 py-2.5 hover:bg-accent transition-colors text-left"
+                          >
+                            <div className="w-16 aspect-video rounded bg-muted flex items-center justify-center shrink-0">
+                              <ListMusic className="w-5 h-5 text-muted-foreground/50" />
+                            </div>
+                            <div className="flex-1 min-w-0">
+                              <p className="text-sm font-medium line-clamp-1">
+                                <Highlight text={pl.name} query={searchQuery.trim()} />
+                              </p>
+                              <p className="text-xs text-muted-foreground mt-0.5">{pl.videoIds.length} videos</p>
+                            </div>
+                          </button>
+                        ))}
+                      </div>
+                    )}
+                  </>
+                )}
+              </div>
+            )}
+          </div>
+
+          <div className="flex items-center gap-2 shrink-0">
             {isAdmin && (
               <Link
                 to="/admin/new-video"
@@ -154,113 +303,125 @@ export default function HomePage() {
           {/* All Videos */}
           <SidebarItem
             label="All Videos"
-            count={videos.length}
+            count={loadingPlaylists ? null : totalVideos}
             active={selectedPlaylistId === null}
-            onClick={() => setSelectedPlaylistId(null)}
+            onClick={() => navigate('/')}
           />
 
           {/* ── System Playlists ── */}
-          {systemPlaylists.length > 0 && (
+          {loadingPlaylists ? (
+            <SidebarSkeleton />
+          ) : (
             <>
-              <SidebarSection label="Playlists" />
-              {systemPlaylists.map((playlist) => (
-                <SidebarItem
-                  key={playlist.id}
-                  label={playlist.name}
-                  count={playlist.videoIds.length}
-                  active={selectedPlaylistId === playlist.id}
-                  onClick={() => setSelectedPlaylistId(playlist.id)}
-                  onEdit={canEdit(playlist) ? () => setEditingPlaylist(playlist) : undefined}
-                  onDelete={isAdmin ? () => handleDeletePlaylist(playlist.id) : undefined}
-                />
-              ))}
+              {systemPlaylists.length > 0 && (
+                <>
+                  <SidebarSection label="Playlists" />
+                  {systemPlaylists.map((playlist) => (
+                    <SidebarItem
+                      key={playlist.id}
+                      label={playlist.name}
+                      count={playlist.videoIds.length}
+                      active={selectedPlaylistId === playlist.id}
+                      onClick={() => navigate(`/playlist/${playlist.id}`)}
+                      onEdit={canEdit(playlist) ? () => setEditingPlaylist(playlist) : undefined}
+                      onDelete={isAdmin ? () => handleDeletePlaylist(playlist.id) : undefined}
+                    />
+                  ))}
+                </>
+              )}
+
+              {/* ── Admin: create system playlist ── */}
+              {isAdmin && (
+                <div className="px-3 mt-1">
+                  <CreateSystemPlaylistButton user={user} onCreated={(pl) => {
+                    setPlaylists((prev) => [...prev, pl])
+                    void savePlaylist(pl)
+                  }} />
+                </div>
+              )}
+
+              {/* ── User Playlists ── */}
+              <div className="mt-2">
+                <div className="px-3 mb-1 flex items-center justify-between">
+                  <SidebarSection label="Your Playlists" inline />
+                  <button
+                    onClick={() => setCreatingPlaylist(true)}
+                    className="w-5 h-5 rounded flex items-center justify-center hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
+                    title="New playlist"
+                  >
+                    <Plus className="w-3.5 h-3.5" />
+                  </button>
+                </div>
+
+                {creatingPlaylist && (
+                  <div className="mx-2 mb-1 flex items-center gap-1">
+                    <input
+                      ref={newPlaylistInputRef}
+                      value={newPlaylistName}
+                      onChange={(e) => setNewPlaylistName(e.target.value)}
+                      onKeyDown={(e) => {
+                        if (e.key === 'Enter') handleCreatePlaylist()
+                        if (e.key === 'Escape') { setCreatingPlaylist(false); setNewPlaylistName('') }
+                      }}
+                      placeholder="Playlist name…"
+                      className="flex-1 h-7 rounded-md border border-input bg-background px-2 text-xs focus:outline-none focus:ring-1 focus:ring-ring"
+                    />
+                    <button
+                      onClick={handleCreatePlaylist}
+                      disabled={!newPlaylistName.trim()}
+                      className="w-6 h-6 rounded flex items-center justify-center bg-primary text-primary-foreground disabled:opacity-50 hover:bg-primary/90 transition-colors"
+                    >
+                      <Check className="w-3.5 h-3.5" />
+                    </button>
+                    <button
+                      onClick={() => { setCreatingPlaylist(false); setNewPlaylistName('') }}
+                      className="w-6 h-6 rounded flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground"
+                    >
+                      <X className="w-3.5 h-3.5" />
+                    </button>
+                  </div>
+                )}
+
+                {userPlaylists.length === 0 && !creatingPlaylist && (
+                  <p className="px-3 text-xs text-muted-foreground">No playlists yet</p>
+                )}
+
+                {userPlaylists.map((playlist) => (
+                  <SidebarItem
+                    key={playlist.id}
+                    label={playlist.name}
+                    count={playlist.videoIds.length}
+                    active={selectedPlaylistId === playlist.id}
+                    onClick={() => navigate(`/playlist/${playlist.id}`)}
+                    isPublic={playlist.isPublic}
+                    onEdit={() => setEditingPlaylist(playlist)}
+                    onDelete={() => handleDeletePlaylist(playlist.id)}
+                  />
+                ))}
+              </div>
             </>
           )}
-
-          {/* ── Admin: create system playlist ── */}
-          {isAdmin && (
-            <div className="px-3 mt-1">
-              <CreateSystemPlaylistButton user={user} onCreated={(pl) => {
-                setPlaylists((prev) => [...prev, pl])
-                void savePlaylist(pl)
-              }} />
-            </div>
-          )}
-
-          {/* ── User Playlists ── */}
-          <div className="mt-2">
-            <div className="px-3 mb-1 flex items-center justify-between">
-              <SidebarSection label="Your Playlists" inline />
-              <button
-                onClick={() => setCreatingPlaylist(true)}
-                className="w-5 h-5 rounded flex items-center justify-center hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
-                title="New playlist"
-              >
-                <Plus className="w-3.5 h-3.5" />
-              </button>
-            </div>
-
-            {creatingPlaylist && (
-              <div className="mx-2 mb-1 flex items-center gap-1">
-                <input
-                  ref={newPlaylistInputRef}
-                  value={newPlaylistName}
-                  onChange={(e) => setNewPlaylistName(e.target.value)}
-                  onKeyDown={(e) => {
-                    if (e.key === 'Enter') handleCreatePlaylist()
-                    if (e.key === 'Escape') { setCreatingPlaylist(false); setNewPlaylistName('') }
-                  }}
-                  placeholder="Playlist name…"
-                  className="flex-1 h-7 rounded-md border border-input bg-background px-2 text-xs focus:outline-none focus:ring-1 focus:ring-ring"
-                />
-                <button
-                  onClick={handleCreatePlaylist}
-                  disabled={!newPlaylistName.trim()}
-                  className="w-6 h-6 rounded flex items-center justify-center bg-primary text-primary-foreground disabled:opacity-50 hover:bg-primary/90 transition-colors"
-                >
-                  <Check className="w-3.5 h-3.5" />
-                </button>
-                <button
-                  onClick={() => { setCreatingPlaylist(false); setNewPlaylistName('') }}
-                  className="w-6 h-6 rounded flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground"
-                >
-                  <X className="w-3.5 h-3.5" />
-                </button>
-              </div>
-            )}
-
-            {userPlaylists.length === 0 && !creatingPlaylist && (
-              <p className="px-3 text-xs text-muted-foreground">No playlists yet</p>
-            )}
-
-            {userPlaylists.map((playlist) => (
-              <SidebarItem
-                key={playlist.id}
-                label={playlist.name}
-                count={playlist.videoIds.length}
-                active={selectedPlaylistId === playlist.id}
-                onClick={() => setSelectedPlaylistId(playlist.id)}
-                isPublic={playlist.isPublic}
-                onEdit={() => setEditingPlaylist(playlist)}
-                onDelete={() => handleDeletePlaylist(playlist.id)}
-              />
-            ))}
-          </div>
         </aside>
 
         {/* Main */}
         <main className="flex-1 overflow-y-auto px-6 py-6">
-          {/* ── Continue Learning ── */}
-          {continueItems.length > 0 && (
+          {/* ── Continue Learning — hide when viewing a playlist ── */}
+          {selectedPlaylistId === null && (
             <section className="mb-7">
               <div className="flex items-center gap-2 mb-3">
                 <RotateCcw className="w-3.5 h-3.5 text-muted-foreground" />
                 <h2 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">Continue Learning</h2>
               </div>
               <div className="flex gap-3 overflow-x-auto pb-1" style={{ scrollbarWidth: 'thin' }}>
-                {continueItems.map(({ progress, video }) => (
-                  <ContinueLearningCard key={video.videoId} progress={progress} video={video} />
-                ))}
+                {loadingContinue ? (
+                  Array.from({ length: 5 }).map((_, i) => <ContinueLearningCardSkeleton key={i} />)
+                ) : continueItems.length === 0 ? (
+                  <p className="text-xs text-muted-foreground py-1">No videos in progress yet.</p>
+                ) : (
+                  continueItems.map(({ progress, video }) => (
+                    <ContinueLearningCard key={video.videoId} progress={progress} video={video} />
+                  ))
+                )}
               </div>
             </section>
           )}
@@ -270,13 +431,16 @@ export default function HomePage() {
               <h1 className="font-semibold text-base">
                 {selectedPlaylist ? selectedPlaylist.name : 'All Videos'}
               </h1>
-              <p className="text-xs text-muted-foreground mt-0.5">
-                {visibleVideos.length} video{visibleVideos.length !== 1 ? 's' : ''}
-              </p>
+              {!loadingVideos && (
+                <p className="text-xs text-muted-foreground mt-0.5">
+                  {selectedPlaylist ? `${visibleVideos.length}` : totalVideos} video{totalVideos !== 1 ? 's' : ''}
+                  {!selectedPlaylist && totalPages > 1 && ` — page ${page} of ${totalPages}`}
+                </p>
+              )}
             </div>
             {selectedPlaylist && selectedPlaylist.videoIds.length > 0 && (
               <Link
-                to={`/playlist/${selectedPlaylist.id}`}
+                to={`/playlist/${selectedPlaylist.id}/play`}
                 className="h-8 px-4 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 flex items-center gap-1.5 transition-colors"
               >
                 <Play className="w-3.5 h-3.5" /> Play All
@@ -284,7 +448,11 @@ export default function HomePage() {
             )}
           </div>
 
-          {visibleVideos.length === 0 && (
+          {loadingVideos ? (
+            <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
+              {Array.from({ length: PAGE_SIZE }).map((_, i) => <VideoCardSkeleton key={i} />)}
+            </div>
+          ) : visibleVideos.length === 0 ? (
             <div className="flex flex-col items-center justify-center py-20 gap-3 text-center">
               <ListVideo className="w-10 h-10 text-muted-foreground/40" />
               <p className="text-muted-foreground text-sm">
@@ -299,25 +467,32 @@ export default function HomePage() {
                 </Link>
               )}
             </div>
-          )}
+          ) : (
+            <>
+              <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
+                {visibleVideos.map((video) => {
+                  const editablePlaylists = playlists.filter((p) => canEdit(p))
+                  return (
+                    <VideoCard
+                      key={video.videoId}
+                      video={video}
+                      playlists={editablePlaylists}
+                      activePlaylistId={selectedPlaylistId}
+                      onAddToPlaylist={handleAddToPlaylist}
+                      onRemoveFromPlaylist={handleRemoveFromPlaylist}
+                    />
+                  )
+                })}
+              </div>
 
-          {visibleVideos.length > 0 && (
-            <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
-              {visibleVideos.map((video) => {
-                // Only show the playlist picker for playlists the user can edit
-                const editablePlaylists = playlists.filter((p) => canEdit(p))
-                return (
-                  <VideoCard
-                    key={video.videoId}
-                    video={video}
-                    playlists={editablePlaylists}
-                    activePlaylistId={selectedPlaylistId}
-                    onAddToPlaylist={handleAddToPlaylist}
-                    onRemoveFromPlaylist={handleRemoveFromPlaylist}
-                  />
-                )
-              })}
-            </div>
+              {!selectedPlaylist && totalPages > 1 && (
+                <Pagination
+                  page={page}
+                  totalPages={totalPages}
+                  onChange={(p) => { fetchPage(p); window.scrollTo({ top: 0, behavior: 'smooth' }) }}
+                />
+              )}
+            </>
           )}
         </main>
       </div>
@@ -331,6 +506,114 @@ export default function HomePage() {
           onClose={() => setEditingPlaylist(null)}
         />
       )}
+    </div>
+  )
+}
+
+// ─── Highlight ────────────────────────────────────────────────────────────────
+
+function Highlight({ text, query }: { text: string; query: string }) {
+  if (!query) return <>{text}</>
+  const idx = text.toLowerCase().indexOf(query.toLowerCase())
+  if (idx === -1) return <>{text}</>
+  return (
+    <>
+      {text.slice(0, idx)}
+      <mark className="bg-yellow-200 dark:bg-yellow-800/60 text-inherit rounded-sm px-0.5">{text.slice(idx, idx + query.length)}</mark>
+      {text.slice(idx + query.length)}
+    </>
+  )
+}
+
+// ─── Pagination ───────────────────────────────────────────────────────────────
+
+function Pagination({ page, totalPages, onChange }: {
+  page: number
+  totalPages: number
+  onChange: (p: number) => void
+}) {
+  // Show at most 7 page buttons with ellipsis
+  const pages: (number | '…')[] = []
+  if (totalPages <= 7) {
+    for (let i = 1; i <= totalPages; i++) pages.push(i)
+  } else {
+    pages.push(1)
+    if (page > 3) pages.push('…')
+    for (let i = Math.max(2, page - 1); i <= Math.min(totalPages - 1, page + 1); i++) pages.push(i)
+    if (page < totalPages - 2) pages.push('…')
+    pages.push(totalPages)
+  }
+
+  return (
+    <div className="flex items-center justify-center gap-1 mt-8">
+      <button
+        onClick={() => onChange(page - 1)}
+        disabled={page === 1}
+        className="w-8 h-8 rounded-lg flex items-center justify-center border border-border hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors text-muted-foreground hover:text-foreground"
+      >
+        <ChevronLeft className="w-4 h-4" />
+      </button>
+
+      {pages.map((p, i) =>
+        p === '…' ? (
+          <span key={`ellipsis-${i}`} className="w-8 h-8 flex items-center justify-center text-xs text-muted-foreground">…</span>
+        ) : (
+          <button
+            key={p}
+            onClick={() => onChange(p)}
+            className={[
+              'w-8 h-8 rounded-lg text-xs font-medium transition-colors',
+              p === page
+                ? 'bg-primary text-primary-foreground'
+                : 'border border-border hover:bg-accent text-muted-foreground hover:text-foreground',
+            ].join(' ')}
+          >
+            {p}
+          </button>
+        )
+      )}
+
+      <button
+        onClick={() => onChange(page + 1)}
+        disabled={page === totalPages}
+        className="w-8 h-8 rounded-lg flex items-center justify-center border border-border hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors text-muted-foreground hover:text-foreground"
+      >
+        <ChevronRight className="w-4 h-4" />
+      </button>
+    </div>
+  )
+}
+
+// ─── Skeletons ────────────────────────────────────────────────────────────────
+
+function Shimmer({ className }: { className: string }) {
+  return (
+    <div className={['rounded-md bg-muted animate-pulse', className].join(' ')} />
+  )
+}
+
+function VideoCardSkeleton() {
+  return (
+    <div className="rounded-xl border border-border bg-card overflow-hidden">
+      <Shimmer className="aspect-video w-full rounded-none rounded-t-xl" />
+      <div className="px-2 py-2 flex flex-col gap-1.5">
+        <Shimmer className="h-3 w-full" />
+        <Shimmer className="h-3 w-2/3" />
+        <Shimmer className="h-2.5 w-1/2 mt-0.5" />
+      </div>
+    </div>
+  )
+}
+
+function ContinueLearningCardSkeleton() {
+  return (
+    <div className="shrink-0 w-52 rounded-xl border border-border bg-card overflow-hidden">
+      <Shimmer className="aspect-video w-full rounded-none rounded-t-xl" />
+      <div className="px-3 py-2 flex flex-col gap-1.5">
+        <Shimmer className="h-3 w-full" />
+        <Shimmer className="h-3 w-3/4" />
+        <Shimmer className="h-2.5 w-1/2 mt-0.5" />
+      </div>
     </div>
   )
 }
@@ -456,33 +739,6 @@ function CreateSystemPlaylistButton({
   )
 }
 
-// ─── LoadingScreen ────────────────────────────────────────────────────────────
-
-function LoadingScreen() {
-  return (
-    <div className="min-h-screen bg-background flex flex-col items-center justify-center gap-5">
-      <div className="flex flex-col items-center gap-3">
-        <div className="w-14 h-14 rounded-2xl bg-primary flex items-center justify-center shadow-lg">
-          <Play className="w-7 h-7 text-primary-foreground translate-x-0.5" />
-        </div>
-        <span className="font-semibold text-sm tracking-wide">English Learning</span>
-      </div>
-      <div className="w-40 h-0.5 rounded-full bg-border overflow-hidden">
-        <div className="h-full w-1/3 bg-primary rounded-full origin-left"
-          style={{ animation: 'indeterminate 1.4s ease-in-out infinite' }}
-        />
-      </div>
-      <style>{`
-        @keyframes indeterminate {
-          0%   { transform: translateX(-100%) scaleX(1) }
-          50%  { transform: translateX(100%) scaleX(1.5) }
-          100% { transform: translateX(300%) scaleX(1) }
-        }
-      `}</style>
-    </div>
-  )
-}
-
 // ─── SidebarSection ───────────────────────────────────────────────────────────
 
 function SidebarSection({ label, inline }: { label: string; inline?: boolean }) {
@@ -495,13 +751,40 @@ function SidebarSection({ label, inline }: { label: string; inline?: boolean }) 
   )
 }
 
+// ─── SidebarSkeleton ─────────────────────────────────────────────────────────
+
+function SidebarSkeleton() {
+  return (
+    <div className="mt-2 flex flex-col gap-0.5">
+      <div className="px-3 mb-1">
+        <Shimmer className="h-2.5 w-16" />
+      </div>
+      {Array.from({ length: 4 }).map((_, i) => (
+        <div key={i} className="mx-2 px-2 py-1.5 flex items-center gap-2">
+          <Shimmer className="flex-1 h-3" />
+          <Shimmer className="w-4 h-2.5 shrink-0" />
+        </div>
+      ))}
+      <div className="mt-3 px-3 mb-1">
+        <Shimmer className="h-2.5 w-20" />
+      </div>
+      {Array.from({ length: 2 }).map((_, i) => (
+        <div key={i} className="mx-2 px-2 py-1.5 flex items-center gap-2">
+          <Shimmer className="flex-1 h-3" />
+          <Shimmer className="w-4 h-2.5 shrink-0" />
+        </div>
+      ))}
+    </div>
+  )
+}
+
 // ─── SidebarItem ─────────────────────────────────────────────────────────────
 
 function SidebarItem({
   label, count, active, onClick, onEdit, onDelete, isPublic,
 }: {
   label: string
-  count: number
+  count: number | null
   active: boolean
   onClick: () => void
   onEdit?: () => void
@@ -524,7 +807,7 @@ function SidebarItem({
           : <Lock className="w-3 h-3 shrink-0 text-muted-foreground/30" />
       )}
       <span className="flex-1 text-xs truncate">{label}</span>
-      <span className="text-[10px] text-muted-foreground shrink-0">{count}</span>
+      {count !== null && <span className="text-[10px] text-muted-foreground shrink-0">{count}</span>}
       {onEdit && (
         <button
           onClick={(e) => { e.stopPropagation(); onEdit() }}
