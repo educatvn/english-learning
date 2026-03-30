@@ -4,6 +4,8 @@ import LoginPage from './pages/LoginPage'
 import HomePage from './pages/HomePage'
 import PlayPage from './pages/PlayPage'
 import PlaylistPage from './pages/PlaylistPage'
+import ProgressPage from './pages/ProgressPage'
+import HistoryPage from './pages/HistoryPage'
 import AddVideoPage from './pages/admin/AddVideoPage'
 import NewVideoPage from './pages/admin/NewVideoPage'
 
@@ -17,6 +19,8 @@ function App() {
       <Route path="/" element={<HomePage />} />
       <Route path="/play/:videoId" element={<PlayPage />} />
       <Route path="/playlist/:id" element={<PlaylistPage />} />
+      <Route path="/progress" element={<ProgressPage />} />
+      <Route path="/history" element={<HistoryPage />} />
       <Route path="/admin/add-video" element={<AddVideoPage />} />
       <Route path="/admin/new-video" element={<NewVideoPage />} />
     </Routes>

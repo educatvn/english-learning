@@ -13,8 +13,15 @@
  * Mỗi lần sửa code: Deploy → Manage Deployments → Edit → New version → Deploy
  *
  * SHEETS:
- *  - "playlists" : id | name | videoIds (JSON array) | createdAt
- *  - "videos"    : videoId | title | channelName | thumbnailUrl | addedAt
+ *  - "playlists"      : id | name | videoIds (JSON array) | createdAt | ownerId | isSystem | isPublic
+ *  - "videos"         : videoId | title | channelName | thumbnailUrl | addedAt
+ *  - "quiz_results"   : userId | videoId | cueStartMs | targetWord | userAnswer | correct | answeredAt
+ *  - "watch_sessions" : userId | videoId | date | seconds | updatedAt
+ *  - "view_history"   : userId | videoId | viewedAt
+ *
+ * ADMIN CONFIG:
+ *  Set VITE_ADMIN_EMAILS in .env.local (client-side).
+ *  GAS does not enforce admin — it trusts the client to send correct ownerId/isSystem values.
  */
 
 // ── Sheet bootstrap ──────────────────────────────────────────────────────────
@@ -31,11 +38,31 @@ function getOrCreateSheet(name, headers) {
 }
 
 function playlistSheet() {
-  return getOrCreateSheet('playlists', ['id', 'name', 'videoIds', 'createdAt']);
+  return getOrCreateSheet('playlists', ['id', 'name', 'videoIds', 'createdAt', 'ownerId', 'isSystem', 'isPublic']);
 }
 
 function videoSheet() {
   return getOrCreateSheet('videos', ['videoId', 'title', 'channelName', 'thumbnailUrl', 'addedAt']);
+}
+
+function quizResultSheet() {
+  return getOrCreateSheet('quiz_results', ['userId', 'videoId', 'cueStartMs', 'targetWord', 'userAnswer', 'correct', 'answeredAt']);
+}
+
+function watchSessionSheet() {
+  return getOrCreateSheet('watch_sessions', ['userId', 'videoId', 'date', 'seconds', 'updatedAt']);
+}
+
+function viewHistorySheet() {
+  return getOrCreateSheet('view_history', ['userId', 'videoId', 'viewedAt']);
+}
+
+function videoProgressSheet() {
+  return getOrCreateSheet('video_progress', ['userId', 'videoId', 'positionMs', 'durationMs', 'updatedAt']);
+}
+
+function videoNotesSheet() {
+  return getOrCreateSheet('video_notes', ['userId', 'videoId', 'positionMs', 'text', 'createdAt']);
 }
 
 // ── Generic row helpers ──────────────────────────────────────────────────────
@@ -50,25 +77,44 @@ function findRowIndex(sheet, colIndex, value) {
 
 // ── Playlist helpers ─────────────────────────────────────────────────────────
 
-function getAllPlaylists() {
-  var data = playlistSheet().getDataRange().getValues();
-  if (data.length <= 1) return [];
-  return data.slice(1).map(function(row) {
+// Returns system playlists + playlists owned by userId + public user playlists
+function getPlaylistsForUser(data) {
+  var userId = String(data.userId);
+  var rows = playlistSheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1).map(function(row) {
     return {
       id:        String(row[0]),
       name:      String(row[1]),
       videoIds:  JSON.parse(row[2] || '[]'),
       createdAt: String(row[3]),
+      ownerId:   String(row[4] || ''),
+      isSystem:  row[5] === 'TRUE' || row[5] === true,
+      isPublic:  row[6] === 'TRUE' || row[6] === true,
     };
-  }).filter(function(p) { return p.id; });
+  }).filter(function(p) {
+    if (!p.id) return false;
+    if (p.isSystem) return true;
+    if (String(p.ownerId) === userId) return true;
+    if (p.isPublic) return true;
+    return false;
+  });
 }
 
 function upsertPlaylist(playlist) {
   var sheet = playlistSheet();
-  var row = [playlist.id, playlist.name, JSON.stringify(playlist.videoIds || []), playlist.createdAt || ''];
+  var row = [
+    playlist.id,
+    playlist.name,
+    JSON.stringify(playlist.videoIds || []),
+    playlist.createdAt || '',
+    playlist.ownerId || '',
+    playlist.isSystem ? 'TRUE' : 'FALSE',
+    playlist.isPublic ? 'TRUE' : 'FALSE',
+  ];
   var idx = findRowIndex(sheet, 0, playlist.id);
   if (idx > 0) {
-    sheet.getRange(idx, 1, 1, 4).setValues([row]);
+    sheet.getRange(idx, 1, 1, 7).setValues([row]);
   } else {
     sheet.appendRow(row);
   }
@@ -107,6 +153,165 @@ function upsertVideo(video) {
   }
 }
 
+// ── Quiz result helpers ──────────────────────────────────────────────────────
+
+function saveQuizAttempt(attempt) {
+  var sheet = quizResultSheet();
+  sheet.appendRow([
+    attempt.userId,
+    attempt.videoId,
+    attempt.cueStartMs,
+    attempt.targetWord,
+    attempt.userAnswer,
+    attempt.correct ? 'TRUE' : 'FALSE',
+    attempt.answeredAt,
+  ]);
+}
+
+// ── Watch session helpers ────────────────────────────────────────────────────
+
+function incrementWatchTime(data) {
+  var sheet = watchSessionSheet();
+  var sheetData = sheet.getDataRange().getValues();
+  // Find existing row for (userId, videoId, date)
+  for (var i = 1; i < sheetData.length; i++) {
+    if (String(sheetData[i][0]) === String(data.userId) &&
+        String(sheetData[i][1]) === String(data.videoId) &&
+        String(sheetData[i][2]) === String(data.date)) {
+      var current = Number(sheetData[i][3]) || 0;
+      sheet.getRange(i + 1, 4).setValue(current + data.seconds);
+      sheet.getRange(i + 1, 5).setValue(data.updatedAt);
+      return;
+    }
+  }
+  sheet.appendRow([data.userId, data.videoId, data.date, data.seconds, data.updatedAt]);
+}
+
+// ── Progress data (watch + quiz for a user) ──────────────────────────────────
+
+function getProgressData(data) {
+  var userId = String(data.userId);
+
+  var watchData = watchSessionSheet().getDataRange().getValues();
+  var sessions = watchData.slice(1)
+    .filter(function(r) { return String(r[0]) === userId; })
+    .map(function(r) {
+      return {
+        userId:    String(r[0]),
+        videoId:   String(r[1]),
+        date:      String(r[2]),
+        seconds:   Number(r[3]) || 0,
+        updatedAt: String(r[4]),
+      };
+    });
+
+  var quizData = quizResultSheet().getDataRange().getValues();
+  var quizzes = quizData.slice(1)
+    .filter(function(r) { return String(r[0]) === userId; })
+    .map(function(r) {
+      return {
+        userId:      String(r[0]),
+        videoId:     String(r[1]),
+        cueStartMs:  Number(r[2]) || 0,
+        targetWord:  String(r[3]),
+        userAnswer:  String(r[4]),
+        correct:     r[5] === 'TRUE' || r[5] === true,
+        answeredAt:  String(r[6]),
+      };
+    });
+
+  return { sessions: sessions, quizzes: quizzes };
+}
+
+// ── View history helpers ─────────────────────────────────────────────────────
+
+function recordView(entry) {
+  viewHistorySheet().appendRow([entry.userId, entry.videoId, entry.viewedAt]);
+}
+
+// ── Video progress helpers ────────────────────────────────────────────────────
+
+function saveVideoProgress(data) {
+  var sheet = videoProgressSheet();
+  var rows = sheet.getDataRange().getValues();
+  for (var i = 1; i < rows.length; i++) {
+    if (String(rows[i][0]) === String(data.userId) && String(rows[i][1]) === String(data.videoId)) {
+      sheet.getRange(i + 1, 3).setValue(data.positionMs);
+      sheet.getRange(i + 1, 4).setValue(data.durationMs || 0);
+      sheet.getRange(i + 1, 5).setValue(data.updatedAt);
+      return;
+    }
+  }
+  sheet.appendRow([data.userId, data.videoId, data.positionMs, data.durationMs || 0, data.updatedAt]);
+}
+
+function getVideoProgress(data) {
+  var userId = String(data.userId);
+  var videoId = String(data.videoId);
+  var rows = videoProgressSheet().getDataRange().getValues();
+  for (var i = 1; i < rows.length; i++) {
+    if (String(rows[i][0]) === userId && String(rows[i][1]) === videoId) {
+      return { userId: userId, videoId: videoId, positionMs: Number(rows[i][2]) || 0, durationMs: Number(rows[i][3]) || 0, updatedAt: String(rows[i][4]) };
+    }
+  }
+  return null;
+}
+
+// Returns in-progress videos (positionMs > 0) sorted by updatedAt desc
+function getRecentProgress(data) {
+  var userId = String(data.userId);
+  var limit = data.limit || 10;
+  var rows = videoProgressSheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1)
+    .filter(function(r) { return String(r[0]) === userId && Number(r[2]) > 0; })
+    .map(function(r) {
+      return { userId: String(r[0]), videoId: String(r[1]), positionMs: Number(r[2]) || 0, durationMs: Number(r[3]) || 0, updatedAt: String(r[4]) };
+    })
+    .sort(function(a, b) { return b.updatedAt.localeCompare(a.updatedAt); })
+    .slice(0, limit);
+}
+
+function getViewHistory(data) {
+  var userId = String(data.userId);
+  var rows = viewHistorySheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1)
+    .filter(function(r) { return String(r[0]) === userId; })
+    .map(function(r) { return { userId: String(r[0]), videoId: String(r[1]), viewedAt: String(r[2]) }; })
+    .reverse(); // newest first
+}
+
+// ── Video notes helpers ───────────────────────────────────────────────────────
+
+function saveNote(data) {
+  videoNotesSheet().appendRow([data.userId, data.videoId, data.positionMs, data.text, data.createdAt]);
+}
+
+function getNotesForVideo(data) {
+  var userId = String(data.userId);
+  var videoId = String(data.videoId);
+  var rows = videoNotesSheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1)
+    .filter(function(r) { return String(r[0]) === userId && String(r[1]) === videoId; })
+    .map(function(r) {
+      return { userId: String(r[0]), videoId: String(r[1]), positionMs: Number(r[2]), text: String(r[3]), createdAt: String(r[4]) };
+    })
+    .sort(function(a, b) { return a.positionMs - b.positionMs; });
+}
+
+function deleteNote(data) {
+  var sheet = videoNotesSheet();
+  var rows = sheet.getDataRange().getValues();
+  for (var i = 1; i < rows.length; i++) {
+    if (String(rows[i][0]) === String(data.userId) && String(rows[i][4]) === String(data.createdAt)) {
+      sheet.deleteRow(i + 1);
+      return;
+    }
+  }
+}
+
 // ── Response helper ──────────────────────────────────────────────────────────
 
 function ok(data) {
@@ -138,11 +343,22 @@ function doPost(e) {
     var action = body.action;
     var data   = body.data;
 
-    if (action === 'getPlaylists')   return ok(getAllPlaylists());
-    if (action === 'getVideos')      return ok(getAllVideos());
-    if (action === 'upsertPlaylist') { upsertPlaylist(data); return ok(null); }
-    if (action === 'deletePlaylist') { deletePlaylist(data.id); return ok(null); }
-    if (action === 'upsertVideo')    { upsertVideo(data); return ok(null); }
+    if (action === 'getPlaylists')      return ok(getPlaylistsForUser(data));
+    if (action === 'getVideos')         return ok(getAllVideos());
+    if (action === 'upsertPlaylist')    { upsertPlaylist(data); return ok(null); }
+    if (action === 'deletePlaylist')    { deletePlaylist(data.id); return ok(null); }
+    if (action === 'upsertVideo')       { upsertVideo(data); return ok(null); }
+    if (action === 'saveQuizAttempt')   { saveQuizAttempt(data); return ok(null); }
+    if (action === 'incrementWatchTime'){ incrementWatchTime(data); return ok(null); }
+    if (action === 'getProgressData')   return ok(getProgressData(data));
+    if (action === 'recordView')        { recordView(data); return ok(null); }
+    if (action === 'getViewHistory')    return ok(getViewHistory(data));
+    if (action === 'saveVideoProgress') { saveVideoProgress(data); return ok(null); }
+    if (action === 'getVideoProgress')  return ok(getVideoProgress(data));
+    if (action === 'getRecentProgress') return ok(getRecentProgress(data));
+    if (action === 'saveNote')          { saveNote(data); return ok(null); }
+    if (action === 'getNotesForVideo')  return ok(getNotesForVideo(data));
+    if (action === 'deleteNote')        { deleteNote(data); return ok(null); }
 
     return err('Unknown action: ' + action);
   } catch (ex) {

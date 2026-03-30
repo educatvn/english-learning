@@ -1,16 +1,26 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import ReactPlayer from 'react-player'
-import { ChevronLeft, ChevronRight, ChevronDown, Play } from 'lucide-react'
+import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, PlayCircle, RotateCcw } from 'lucide-react'
 import { UserButton } from '@/components/UserButton'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
+import { pickQuizWord, maskText } from '@/utils/quizWord'
 import type { VideoMeta, Playlist } from '@/types'
 import { loadPlaylists } from '@/services/playlists'
 import { loadVideos } from '@/services/videos'
+import { useAuth } from '@/context/AuthContext'
+import { useQuizMode } from '@/hooks/useQuizMode'
+import { useWatchTime } from '@/hooks/useWatchTime'
+import { useViewHistory } from '@/hooks/useViewHistory'
+import { useVideoProgress } from '@/hooks/useVideoProgress'
+import { QuizModal } from '@/components/QuizModal'
+import type { QuizResult } from '@/components/QuizModal'
+import { saveQuizAttempt } from '@/services/quizResults'
 
 export default function PlaylistPage() {
   const { id } = useParams<{ id: string }>()
+  const { user } = useAuth()
 
   const playerRef = useRef<HTMLVideoElement>(null)
   const activeCueRef = useRef<HTMLButtonElement>(null)
@@ -22,7 +32,6 @@ export default function PlaylistPage() {
   const [currentIdx, setCurrentIdx] = useState(0)
   const [dropdownOpen, setDropdownOpen] = useState(false)
 
-  // Caption / playback state (mirrors PlayPage)
   const [cues, setCues] = useState<CaptionCue[]>([])
   const [currentMs, setCurrentMs] = useState(0)
   const [playing, setPlaying] = useState(false)
@@ -30,9 +39,18 @@ export default function PlaylistPage() {
   const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null)
   const cuePlayRef = useRef(false)
 
+  const [resumeDismissed, setResumeDismissed] = useState(false)
+
+  const quiz = useQuizMode()
+  const currentVideo = videos[currentIdx] ?? null
+  const watchTime = useWatchTime(user?.sub, currentVideo?.videoId)
+  const viewHistory = useViewHistory(user?.sub, currentVideo?.videoId)
+  const videoProgress = useVideoProgress(user?.sub, currentVideo?.videoId)
+
   // Load playlist + all videos
   useEffect(() => {
-    Promise.all([loadPlaylists(), loadVideos()])
+    if (!user) return
+    Promise.all([loadPlaylists(user.sub), loadVideos()])
       .then(([playlists, allVideos]) => {
         const pl = playlists.find((p) => p.id === id) ?? null
         setPlaylist(pl)
@@ -45,7 +63,10 @@ export default function PlaylistPage() {
       .finally(() => setLoading(false))
   }, [id])
 
-  const currentVideo = videos[currentIdx] ?? null
+  // Reset resume banner when video changes
+  useEffect(() => {
+    setResumeDismissed(false)
+  }, [currentVideo?.videoId])
 
   // Load captions whenever the current video changes
   useEffect(() => {
@@ -54,10 +75,8 @@ export default function PlaylistPage() {
     setPinnedCueIdx(null)
     stopAtMsRef.current = null
     if (!currentVideo) return
-
     const videoId = currentVideo.videoId
     const paths = [`/videos/${videoId}/captions.json`, `/captions/${videoId}.json`]
-
     async function load() {
       for (const path of paths) {
         try {
@@ -76,15 +95,13 @@ export default function PlaylistPage() {
   useEffect(() => {
     if (!dropdownOpen) return
     function onDown(e: MouseEvent) {
-      if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node)) {
-        setDropdownOpen(false)
-      }
+      if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node)) setDropdownOpen(false)
     }
     document.addEventListener('mousedown', onDown)
     return () => document.removeEventListener('mousedown', onDown)
   }, [dropdownOpen])
 
-  // Active cue logic (same as PlayPage)
+  // Active cue
   const liveCue = findActiveCue(cues, currentMs)
   const liveCueIdx = liveCue ? cues.indexOf(liveCue) : -1
   const activeCueIdx = pinnedCueIdx !== null ? pinnedCueIdx : liveCueIdx
@@ -94,27 +111,34 @@ export default function PlaylistPage() {
     activeCueRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
   }, [activeCueIdx])
 
+  const showResumeBanner =
+    !resumeDismissed &&
+    videoProgress.resumePositionMs !== null
+
   const handleTimeUpdate = useCallback((e: React.SyntheticEvent<HTMLVideoElement>) => {
     const ms = e.currentTarget.currentTime * 1000
+    videoProgress.onTimeUpdate(ms, e.currentTarget.duration * 1000)
     if (stopAtMsRef.current !== null && ms >= stopAtMsRef.current) {
       e.currentTarget.pause()
       stopAtMsRef.current = null
       setPlaying(false)
+      quiz.onCueEnded()
       return
     }
     setCurrentMs(ms)
-  }, [])
+  }, [quiz.onCueEnded]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleCueClick = useCallback((cue: CaptionCue, idx: number) => {
     const video = playerRef.current
     if (!video) return
     cuePlayRef.current = true
     setPinnedCueIdx(idx)
+    quiz.onCueStarted(cue)
     video.currentTime = cue.startMs / 1000
     stopAtMsRef.current = cue.endMs
     setPlaying(true)
     video.play().catch(console.error)
-  }, [])
+  }, [quiz.onCueStarted]) // eslint-disable-line react-hooks/exhaustive-deps
 
   function jumpTo(idx: number) {
     if (idx < 0 || idx >= videos.length) return
@@ -123,20 +147,41 @@ export default function PlaylistPage() {
     setPlaying(true)
   }
 
+  function handleQuizClose(result: QuizResult | null) {
+    const snapshotState = quiz.quizState
+    quiz.closeQuiz()
+    if (result && user && currentVideo) {
+      void saveQuizAttempt({
+        userId: user.sub,
+        videoId: currentVideo.videoId,
+        cueStartMs: snapshotState?.cue.startMs ?? 0,
+        targetWord: snapshotState?.quizWord.word ?? '',
+        userAnswer: result.userAnswer,
+        correct: result.correct,
+        answeredAt: new Date().toISOString(),
+      })
+    }
+  }
+
+  // Caption overlay: mask quiz word while cue plays
+  const overlayText = (() => {
+    if (!activeCue) return null
+    if (quiz.quizMode && quiz.quizWordRef.current) {
+      return maskText(activeCue.text, quiz.quizWordRef.current)
+    }
+    return activeCue.text
+  })()
+
   if (loading) return <LoadingScreen />
 
   return (
     <div className="flex flex-col h-screen bg-gray-950 text-white overflow-hidden">
       {/* Header */}
       <header className="h-12 flex items-center px-4 gap-2 bg-gray-900 border-b border-gray-800 shrink-0">
-        <Link
-          to="/"
-          className="font-semibold text-sm tracking-wide hover:text-gray-300 transition-colors shrink-0"
-        >
+        <Link to="/" className="font-semibold text-sm tracking-wide hover:text-gray-300 transition-colors shrink-0">
           English Learning
         </Link>
 
-        {/* Playlist dropdown trigger */}
         <span className="text-gray-700 shrink-0">/</span>
         <div ref={dropdownRef} className="relative min-w-0">
           <button
@@ -159,25 +204,32 @@ export default function PlaylistPage() {
                   ].join(' ')}
                 >
                   <span className="text-[10px] text-gray-500 font-mono w-4 shrink-0">{idx + 1}</span>
-                  <img
-                    src={video.thumbnailUrl}
-                    alt=""
-                    className="w-14 rounded shrink-0 aspect-video object-cover"
-                  />
+                  <img src={video.thumbnailUrl} alt="" className="w-14 rounded shrink-0 aspect-video object-cover" />
                   <span className={['text-xs line-clamp-2 flex-1', idx === currentIdx ? 'text-white' : 'text-gray-300'].join(' ')}>
                     {video.title}
                   </span>
-                  {idx === currentIdx && (
-                    <Play className="w-3 h-3 shrink-0 text-blue-400 fill-blue-400" />
-                  )}
+                  {idx === currentIdx && <Play className="w-3 h-3 shrink-0 text-blue-400 fill-blue-400" />}
                 </button>
               ))}
             </div>
           )}
         </div>
 
-        {/* Prev / counter / Next + user */}
         <div className="ml-auto flex items-center gap-1 shrink-0">
+          <button
+            onClick={quiz.toggleQuizMode}
+            title={quiz.quizMode ? 'Quiz mode on — click to disable' : 'Enable quiz mode'}
+            className={[
+              'flex items-center gap-1.5 h-7 px-3 rounded-lg text-xs font-semibold transition-colors mr-2',
+              quiz.quizMode
+                ? 'bg-blue-600 text-white hover:bg-blue-500'
+                : 'bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white',
+            ].join(' ')}
+          >
+            <Brain className="w-3.5 h-3.5" />
+            Quiz
+          </button>
+
           <button
             onClick={() => jumpTo(currentIdx - 1)}
             disabled={currentIdx === 0}
@@ -199,7 +251,7 @@ export default function PlaylistPage() {
         </div>
       </header>
 
-      {/* Main: video + caption sidebar (same layout as PlayPage) */}
+      {/* Main */}
       <div className="flex flex-1 overflow-hidden">
         {/* Video panel */}
         <div className="flex-1 flex flex-col min-w-0 bg-black">
@@ -216,12 +268,19 @@ export default function PlaylistPage() {
                     if (!cuePlayRef.current) setPinnedCueIdx(null)
                     cuePlayRef.current = false
                     setPlaying(true)
+                    watchTime.onPlay()
+                    videoProgress.onPlay()
+                    viewHistory.onFirstPlay()
                   }}
                   onPause={() => {
                     setPlaying(false)
                     stopAtMsRef.current = null
+                    watchTime.onPause()
+                    videoProgress.onPause()
                   }}
                   onEnded={() => {
+                    watchTime.onPause()
+                    videoProgress.onEnded()
                     if (currentIdx < videos.length - 1) jumpTo(currentIdx + 1)
                     else setPlaying(false)
                   }}
@@ -236,15 +295,29 @@ export default function PlaylistPage() {
                   }}
                 />
 
-                {activeCue && (
+                {overlayText && (
                   <div
                     className="absolute bottom-10 left-0 right-0 flex justify-center pointer-events-none px-4"
                     style={{ zIndex: 10 }}
                   >
                     <span className="bg-black/80 text-white text-xl font-medium px-4 py-2 rounded text-center leading-relaxed max-w-3xl">
-                      {activeCue.text}
+                      {overlayText}
                     </span>
                   </div>
+                )}
+
+                {showResumeBanner && videoProgress.resumePositionMs !== null && (
+                  <ResumeBanner
+                    positionMs={videoProgress.resumePositionMs}
+                    onResume={() => {
+                      const video = playerRef.current
+                      if (video && videoProgress.resumePositionMs !== null) {
+                        video.currentTime = videoProgress.resumePositionMs / 1000
+                      }
+                      setResumeDismissed(true)
+                    }}
+                    onDismiss={() => setResumeDismissed(true)}
+                  />
                 )}
               </>
             ) : (
@@ -257,12 +330,19 @@ export default function PlaylistPage() {
 
         {/* Caption sidebar */}
         <div className="w-96 flex flex-col bg-gray-900 border-l border-gray-800">
-          <div className="px-4 py-3 border-b border-gray-800 shrink-0">
-            <p className="text-xs text-gray-400 font-medium uppercase tracking-wider">
-              Captions — click to practice
-            </p>
-            {currentVideo && (
-              <p className="text-xs text-gray-500 mt-0.5 truncate">{currentVideo.title}</p>
+          <div className="px-4 py-3 border-b border-gray-800 shrink-0 flex items-center justify-between">
+            <div>
+              <p className="text-xs text-gray-400 font-medium uppercase tracking-wider">
+                Captions — click to practice
+              </p>
+              {currentVideo && (
+                <p className="text-xs text-gray-500 mt-0.5 truncate">{currentVideo.title}</p>
+              )}
+            </div>
+            {quiz.quizMode && (
+              <span className="text-[10px] bg-blue-900/60 text-blue-300 px-2 py-0.5 rounded-full font-medium shrink-0">
+                Quiz mode
+              </span>
             )}
           </div>
 
@@ -272,9 +352,10 @@ export default function PlaylistPage() {
                 {currentVideo ? 'No captions available' : 'No video selected'}
               </div>
             )}
-
             {cues.map((cue, idx) => {
               const isActive = idx === activeCueIdx
+              const qw = quiz.quizMode ? pickQuizWord(cue.text) : null
+              const displayText = qw ? maskText(cue.text, qw) : cue.text
               return (
                 <button
                   key={cue.startMs}
@@ -292,13 +373,59 @@ export default function PlaylistPage() {
                   <span className="text-[10px] text-gray-600 font-mono block mb-0.5">
                     {formatTime(cue.startMs)}
                   </span>
-                  {cue.text}
+                  {displayText}
                 </button>
               )
             })}
           </div>
         </div>
       </div>
+
+      {quiz.quizState && (
+        <QuizModal
+          cue={quiz.quizState.cue}
+          quizWord={quiz.quizState.quizWord}
+          onClose={handleQuizClose}
+        />
+      )}
+    </div>
+  )
+}
+
+// ─── ResumeBanner ─────────────────────────────────────────────────────────────
+
+function ResumeBanner({
+  positionMs,
+  onResume,
+  onDismiss,
+}: {
+  positionMs: number
+  onResume: () => void
+  onDismiss: () => void
+}) {
+  return (
+    <div
+      className="absolute bottom-4 left-4 z-20 flex items-center gap-3 bg-gray-900/95 border border-gray-700 rounded-xl px-4 py-3 shadow-2xl backdrop-blur-sm"
+      style={{ maxWidth: 340 }}
+    >
+      <PlayCircle className="w-5 h-5 text-blue-400 shrink-0" />
+      <div className="flex-1 min-w-0">
+        <p className="text-xs text-gray-300 font-medium">Continue from where you left off?</p>
+        <p className="text-[11px] text-gray-500 mt-0.5">{formatTime(positionMs)}</p>
+      </div>
+      <button
+        onClick={onResume}
+        className="h-7 px-3 rounded-lg bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold transition-colors shrink-0"
+      >
+        Resume
+      </button>
+      <button
+        onClick={onDismiss}
+        title="Start from beginning"
+        className="w-7 h-7 rounded-lg flex items-center justify-center text-gray-500 hover:text-white hover:bg-gray-700 transition-colors shrink-0"
+      >
+        <RotateCcw className="w-3.5 h-3.5" />
+      </button>
     </div>
   )
 }

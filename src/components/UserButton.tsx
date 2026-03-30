@@ -1,9 +1,10 @@
 import { useEffect, useRef, useState } from 'react';
-import { LogOut } from 'lucide-react';
+import { LogOut, BarChart2, Shield, Clock } from 'lucide-react';
+import { Link } from 'react-router-dom';
 import { useAuth } from '@/context/AuthContext';
 
 export function UserButton() {
-  const { user, signOut } = useAuth();
+  const { user, isAdmin, signOut } = useAuth();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
@@ -30,15 +31,41 @@ export function UserButton() {
 
       {open && (
         <div className="absolute top-9 right-0 w-52 rounded-xl border border-border bg-card shadow-xl py-1 z-50">
+          {/* User info */}
           <div className="px-3 py-2.5 border-b border-border">
-            <p className="text-xs font-semibold truncate">{user.name}</p>
+            <div className="flex items-center gap-1.5">
+              <p className="text-xs font-semibold truncate">{user.name}</p>
+              {isAdmin && (
+                <span className="shrink-0 inline-flex items-center gap-0.5 text-[9px] font-bold uppercase tracking-wider bg-amber-500/15 text-amber-600 px-1.5 py-0.5 rounded-full">
+                  <Shield className="w-2.5 h-2.5" /> Admin
+                </span>
+              )}
+            </div>
             <p className="text-[10px] text-muted-foreground truncate mt-0.5">{user.email}</p>
           </div>
+
+          {/* Progress link */}
+          <Link
+            to="/progress"
+            onClick={() => setOpen(false)}
+            className="w-full flex items-center gap-2 px-3 py-2 text-xs hover:bg-accent transition-colors text-muted-foreground hover:text-foreground"
+          >
+            <BarChart2 className="w-3.5 h-3.5" />
+            My Progress
+          </Link>
+          <Link
+            to="/history"
+            onClick={() => setOpen(false)}
+            className="w-full flex items-center gap-2 px-3 py-2 text-xs hover:bg-accent transition-colors text-muted-foreground hover:text-foreground"
+          >
+            <Clock className="w-3.5 h-3.5" />
+            Watch History
+          </Link>
+
+          <div className="border-t border-border my-1" />
+
           <button
-            onClick={() => {
-              setOpen(false);
-              signOut();
-            }}
+            onClick={() => { setOpen(false); signOut(); }}
             className="w-full flex items-center gap-2 px-3 py-2 text-xs hover:bg-accent transition-colors text-muted-foreground hover:text-foreground"
           >
             <LogOut className="w-3.5 h-3.5" />
