@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { LogOut, BarChart2, Shield, Clock } from 'lucide-react';
+import { LogOut, BarChart2, Shield, Clock, StickyNote } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { useAuth } from '@/context/AuthContext';
 
@@ -60,6 +60,14 @@ export function UserButton() {
           >
             <Clock className="w-3.5 h-3.5" />
             Watch History
+          </Link>
+          <Link
+            to="/notes"
+            onClick={() => setOpen(false)}
+            className="w-full flex items-center gap-2 px-3 py-2 text-xs hover:bg-accent transition-colors text-muted-foreground hover:text-foreground"
+          >
+            <StickyNote className="w-3.5 h-3.5" />
+            My Notes
           </Link>
 
           <div className="border-t border-border my-1" />

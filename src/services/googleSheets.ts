@@ -123,3 +123,22 @@ export async function getNotesForVideo(userId: string, videoId: string): Promise
 export async function deleteNote(userId: string, createdAt: string): Promise<void> {
   await gas('deleteNote', { userId, createdAt })
 }
+
+export interface NoteWithMeta extends VideoNote {
+  videoTitle: string
+  videoThumbnailUrl: string
+}
+
+export interface NoteSearchResult {
+  notes: NoteWithMeta[]
+  total: number
+}
+
+export async function searchNotes(
+  userId: string,
+  query: string,
+  offset: number,
+  limit: number,
+): Promise<NoteSearchResult> {
+  return gas<NoteSearchResult>('searchNotes', { userId, query, offset, limit })
+}

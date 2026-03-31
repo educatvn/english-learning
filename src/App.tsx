@@ -6,6 +6,7 @@ import PlayPage from './pages/PlayPage'
 import PlaylistPage from './pages/PlaylistPage'
 import ProgressPage from './pages/ProgressPage'
 import HistoryPage from './pages/HistoryPage'
+import NotesPage from './pages/NotesPage'
 import AddVideoPage from './pages/admin/AddVideoPage'
 import NewVideoPage from './pages/admin/NewVideoPage'
 
@@ -22,6 +23,7 @@ function App() {
       <Route path="/playlist/:id/play" element={<PlaylistPage />} />
       <Route path="/progress" element={<ProgressPage />} />
       <Route path="/history" element={<HistoryPage />} />
+      <Route path="/notes" element={<NotesPage />} />
       <Route path="/admin/add-video" element={<AddVideoPage />} />
       <Route path="/admin/new-video" element={<NewVideoPage />} />
     </Routes>

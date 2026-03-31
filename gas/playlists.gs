@@ -341,6 +341,67 @@ function deleteNote(data) {
   }
 }
 
+// Returns all notes for a user, sorted newest-first (used by NotesPage initial load)
+function getAllNotes(data) {
+  var userId = String(data.userId);
+  var rows = videoNotesSheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1)
+    .filter(function(r) { return String(r[0]) === userId; })
+    .map(function(r) {
+      return { userId: String(r[0]), videoId: String(r[1]), positionMs: Number(r[2]), text: String(r[3]), createdAt: String(r[4]) };
+    })
+    .sort(function(a, b) { return b.createdAt.localeCompare(a.createdAt); });
+}
+
+// Server-side search across note text + video titles, with pagination
+// Returns { notes: NoteWithMeta[], total: number }
+function searchNotes(data) {
+  var userId = String(data.userId);
+  var query  = String(data.query  || '').toLowerCase().trim();
+  var offset = Number(data.offset) || 0;
+  var limit  = Number(data.limit)  || 15;
+
+  // Build video lookup: videoId → { title, thumbnailUrl }
+  var videoRows = videoSheet().getDataRange().getValues();
+  var videoMap = {};
+  for (var i = 1; i < videoRows.length; i++) {
+    videoMap[String(videoRows[i][0])] = {
+      title:        String(videoRows[i][1]),
+      thumbnailUrl: String(videoRows[i][3]),
+    };
+  }
+
+  // Fetch all notes for user, newest-first
+  var noteRows = videoNotesSheet().getDataRange().getValues();
+  var all = noteRows.length <= 1 ? [] : noteRows.slice(1)
+    .filter(function(r) { return String(r[0]) === userId; })
+    .map(function(r) {
+      var v = videoMap[String(r[1])] || { title: '', thumbnailUrl: '' };
+      return {
+        userId:           String(r[0]),
+        videoId:          String(r[1]),
+        positionMs:       Number(r[2]),
+        text:             String(r[3]),
+        createdAt:        String(r[4]),
+        videoTitle:       v.title,
+        videoThumbnailUrl: v.thumbnailUrl,
+      };
+    })
+    .sort(function(a, b) { return b.createdAt.localeCompare(a.createdAt); });
+
+  // Filter by query (note text OR video title)
+  var filtered = query ? all.filter(function(n) {
+    return n.text.toLowerCase().indexOf(query) !== -1 ||
+           n.videoTitle.toLowerCase().indexOf(query) !== -1;
+  }) : all;
+
+  return {
+    notes: filtered.slice(offset, offset + limit),
+    total: filtered.length,
+  };
+}
+
 // ── Response helper ──────────────────────────────────────────────────────────
 
 function ok(data) {
@@ -389,6 +450,8 @@ function doPost(e) {
     if (action === 'getRecentProgress') return ok(getRecentProgress(data));
     if (action === 'saveNote')          { saveNote(data); return ok(null); }
     if (action === 'getNotesForVideo')  return ok(getNotesForVideo(data));
+    if (action === 'getAllNotes')        return ok(getAllNotes(data));
+    if (action === 'searchNotes')        return ok(searchNotes(data));
     if (action === 'deleteNote')        { deleteNote(data); return ok(null); }
 
     return err('Unknown action: ' + action);

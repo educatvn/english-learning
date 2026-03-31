@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
 import { useParams, useSearchParams, Link } from 'react-router-dom'
 import ReactPlayer from 'react-player'
-import { Brain, RotateCcw, PlayCircle, StickyNote, Plus, Trash2 } from 'lucide-react'
+import { Brain, X, PlayCircle, StickyNote, Plus, Trash2, ChevronRight } from 'lucide-react'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
 import { pickQuizWord, maskText } from '@/utils/quizWord'
@@ -36,7 +36,6 @@ export default function PlayPage() {
   const [videoTitle, setVideoTitle] = useState<string | null>(null)
 
   const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null)
-  const cuePlayRef = useRef(false)
 
   const [resumeDismissed, setResumeDismissed] = useState(false)
   const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes'>('captions')
@@ -113,9 +112,10 @@ export default function PlayPage() {
     }
     videoProgress.onTimeUpdate(ms, dur)
     if (stopAtMsRef.current !== null && ms >= stopAtMsRef.current) {
-      e.currentTarget.pause()
       stopAtMsRef.current = null
+      e.currentTarget.pause()
       setPlaying(false)
+      setPinnedCueIdx(null)
       quiz.onCueEnded()
       return
     }
@@ -125,6 +125,7 @@ export default function PlayPage() {
   const handleSeek = useCallback((ms: number) => {
     const video = playerRef.current
     if (!video) return
+    stopAtMsRef.current = null
     video.currentTime = ms / 1000
     setCurrentMs(ms)
     setPinnedCueIdx(null)
@@ -133,11 +134,10 @@ export default function PlayPage() {
   const handleCueClick = useCallback((cue: CaptionCue, idx: number) => {
     const video = playerRef.current
     if (!video) return
-    cuePlayRef.current = true
     setPinnedCueIdx(idx)
     quiz.onCueStarted(cue)
-    video.currentTime = cue.startMs / 1000
     stopAtMsRef.current = cue.endMs
+    video.currentTime = cue.startMs / 1000
     setPlaying(true)
     video.play().catch(console.error)
   }, [quiz.onCueStarted]) // eslint-disable-line react-hooks/exhaustive-deps
@@ -186,19 +186,23 @@ export default function PlayPage() {
   })()
 
   return (
-    <div className="flex flex-col h-screen bg-gray-950 text-white overflow-hidden">
-      {/* Header */}
-      <header className="h-12 flex items-center px-4 gap-3 bg-gray-900 border-b border-gray-800 shrink-0">
-        <div className="w-2 h-2 rounded-full bg-red-500" />
-        <Link to="/" className="font-semibold text-sm tracking-wide hover:text-gray-300 transition-colors">
-          English Learning
-        </Link>
-        {videoTitle && (
-          <span className="text-sm text-gray-300 ml-2 truncate max-w-xl">{videoTitle}</span>
-        )}
-        <div className="ml-auto flex items-center gap-2">
-          <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
-          <UserButton />
+    <div className="flex flex-col h-screen bg-background overflow-hidden">
+      {/* Header — same style as all other app pages */}
+      <header className="border-b border-border bg-card shrink-0">
+        <div className="px-4 h-12 flex items-center gap-2">
+          <Link to="/" className="font-semibold text-sm hover:text-foreground transition-colors shrink-0">
+            English Learning
+          </Link>
+          {videoTitle && (
+            <>
+              <ChevronRight className="w-3.5 h-3.5 text-muted-foreground/50 shrink-0" />
+              <span className="text-sm text-muted-foreground truncate">{videoTitle}</span>
+            </>
+          )}
+          <div className="ml-auto flex items-center gap-2 shrink-0">
+            <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
+            <UserButton />
+          </div>
         </div>
       </header>
 
@@ -214,8 +218,9 @@ export default function PlayPage() {
               playing={playing}
               onTimeUpdate={handleTimeUpdate}
               onPlay={() => {
-                if (!cuePlayRef.current) setPinnedCueIdx(null)
-                cuePlayRef.current = false
+                // Only unpin when no cue stop is pending (i.e. user-initiated play,
+                // not a seek-resume triggered by a cue click)
+                if (stopAtMsRef.current === null) setPinnedCueIdx(null)
                 setPlaying(true)
                 watchTime.onPlay()
                 videoProgress.onPlay()
@@ -223,7 +228,11 @@ export default function PlayPage() {
               }}
               onPause={() => {
                 setPlaying(false)
-                stopAtMsRef.current = null
+                // Do NOT clear stopAtMsRef here — seek-induced pause events (fired
+                // asynchronously when handleCueClick seeks) must not erase the stop
+                // point that was set synchronously in the same click handler.
+                // stopAtMsRef is cleared in handleTimeUpdate (natural end) and
+                // handleSeek (user progress-bar seek).
                 watchTime.onPause()
                 videoProgress.onPause()
               }}
@@ -276,9 +285,9 @@ export default function PlayPage() {
         </div>
 
         {/* Sidebar */}
-        <div className="w-96 flex flex-col bg-gray-900 border-l border-gray-800">
+        <div className="w-96 flex flex-col bg-card border-l border-border">
           {/* Sidebar tabs */}
-          <div className="flex border-b border-gray-800 shrink-0">
+          <div className="flex border-b border-border shrink-0">
             <SidebarTab active={sidebarTab === 'captions'} onClick={() => setSidebarTab('captions')}>
               Captions
             </SidebarTab>
@@ -286,7 +295,7 @@ export default function PlayPage() {
               Notes{notes.length > 0 && <span className="ml-1.5 text-[9px] bg-yellow-500/20 text-yellow-400 px-1.5 py-0.5 rounded-full font-semibold">{notes.length}</span>}
             </SidebarTab>
             {quiz.quizMode && (
-              <span className="ml-auto self-center mr-3 text-[10px] bg-blue-900/60 text-blue-300 px-2 py-0.5 rounded-full font-medium">
+              <span className="ml-auto self-center mr-3 text-[10px] bg-primary/10 text-primary px-2 py-0.5 rounded-full font-medium">
                 Quiz mode
               </span>
             )}
@@ -296,7 +305,7 @@ export default function PlayPage() {
           {sidebarTab === 'captions' && (
             <div className="flex-1 overflow-y-auto">
               {cues.length === 0 && (
-                <div className="p-6 text-center text-gray-500 text-sm">Loading captions…</div>
+                <div className="p-6 text-center text-muted-foreground text-sm">Loading captions…</div>
               )}
               {cues.map((cue, idx) => {
                 const isActive = idx === activeCueIdx
@@ -308,15 +317,15 @@ export default function PlayPage() {
                     ref={isActive ? activeCueRef : null}
                     onClick={() => handleCueClick(cue, idx)}
                     className={[
-                      'w-full text-left px-4 py-3 border-b border-gray-800/60',
+                      'w-full text-left px-4 py-3 border-b border-border/60',
                       'text-sm leading-relaxed transition-colors duration-100',
-                      'hover:bg-gray-800 focus:outline-none focus:bg-gray-800',
+                      'hover:bg-accent focus:outline-none focus:bg-accent',
                       isActive
-                        ? 'bg-blue-950 border-l-2 border-l-blue-500 text-white'
-                        : 'text-gray-300 border-l-2 border-l-transparent',
+                        ? 'bg-primary/10 border-l-2 border-l-primary text-foreground'
+                        : 'text-muted-foreground border-l-2 border-l-transparent',
                     ].join(' ')}
                   >
-                    <span className="text-[10px] text-gray-600 font-mono block mb-0.5">
+                    <span className="text-[10px] text-muted-foreground/50 font-mono block mb-0.5">
                       {formatTime(cue.startMs)}
                     </span>
                     {displayText}
@@ -330,12 +339,12 @@ export default function PlayPage() {
           {sidebarTab === 'notes' && (
             <div className="flex flex-col flex-1 overflow-hidden">
               {/* Add note */}
-              <div className="px-4 py-3 border-b border-gray-800 shrink-0">
+              <div className="px-4 py-3 border-b border-border shrink-0">
                 {isAddingNote ? (
                   <div className="flex flex-col gap-2">
                     <div className="flex items-center gap-1.5">
-                      <span className="text-[10px] font-mono text-yellow-400">{formatTime(pendingNoteMs)}</span>
-                      <span className="text-[10px] text-gray-500">— note at this position</span>
+                      <span className="text-[10px] font-mono text-yellow-500">{formatTime(pendingNoteMs)}</span>
+                      <span className="text-[10px] text-muted-foreground">— note at this position</span>
                     </div>
                     <textarea
                       ref={noteInputRef}
@@ -347,19 +356,19 @@ export default function PlayPage() {
                       }}
                       placeholder="Type your note… (Enter to save, Esc to cancel)"
                       rows={3}
-                      className="w-full bg-gray-800 border border-gray-700 rounded-lg px-3 py-2 text-sm text-gray-100 placeholder-gray-600 resize-none focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500/40"
+                      className="w-full bg-muted border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder:text-muted-foreground resize-none focus:outline-none focus:border-primary/50 focus:ring-1 focus:ring-primary/20"
                     />
                     <div className="flex gap-2">
                       <button
                         onClick={handleSaveNote}
                         disabled={!noteText.trim()}
-                        className="flex-1 h-7 rounded-lg bg-blue-600 hover:bg-blue-500 disabled:opacity-40 disabled:cursor-not-allowed text-white text-xs font-semibold transition-colors"
+                        className="flex-1 h-7 rounded-lg bg-primary hover:bg-primary/90 disabled:opacity-40 disabled:cursor-not-allowed text-primary-foreground text-xs font-semibold transition-colors"
                       >
                         Save
                       </button>
                       <button
                         onClick={handleCancelNote}
-                        className="h-7 px-3 rounded-lg bg-gray-800 hover:bg-gray-700 text-gray-400 text-xs transition-colors"
+                        className="h-7 px-3 rounded-lg bg-muted hover:bg-accent text-muted-foreground text-xs transition-colors"
                       >
                         Cancel
                       </button>
@@ -368,7 +377,7 @@ export default function PlayPage() {
                 ) : (
                   <button
                     onClick={handleStartAddNote}
-                    className="w-full flex items-center justify-center gap-2 h-8 rounded-lg border border-dashed border-gray-700 hover:border-gray-500 text-gray-500 hover:text-gray-300 text-xs transition-colors"
+                    className="w-full flex items-center justify-center gap-2 h-8 rounded-lg border border-dashed border-border hover:border-foreground/30 text-muted-foreground hover:text-foreground text-xs transition-colors"
                   >
                     <Plus className="w-3.5 h-3.5" />
                     Add note at {formatTime(currentMs)}
@@ -380,25 +389,25 @@ export default function PlayPage() {
               <div className="flex-1 overflow-y-auto">
                 {notes.length === 0 && !isAddingNote && (
                   <div className="px-4 py-8 text-center">
-                    <StickyNote className="w-8 h-8 text-gray-700 mx-auto mb-2" />
-                    <p className="text-xs text-gray-600">No notes yet.<br />Add a note while watching.</p>
+                    <StickyNote className="w-8 h-8 text-muted-foreground/20 mx-auto mb-2" />
+                    <p className="text-xs text-muted-foreground/60">No notes yet.<br />Add a note while watching.</p>
                   </div>
                 )}
                 {notes.map((note) => (
                   <div
                     key={note.createdAt}
-                    className="group flex gap-3 px-4 py-3 border-b border-gray-800/60 hover:bg-gray-800/40 transition-colors"
+                    className="group flex gap-3 px-4 py-3 border-b border-border/60 hover:bg-accent/50 transition-colors"
                   >
                     <button
                       onClick={() => handleSeek(note.positionMs)}
-                      className="text-[10px] font-mono text-yellow-400 hover:text-yellow-300 shrink-0 mt-0.5 hover:underline transition-colors"
+                      className="text-[10px] font-mono text-yellow-500 hover:text-yellow-400 shrink-0 mt-0.5 hover:underline transition-colors"
                     >
                       {formatTime(note.positionMs)}
                     </button>
-                    <p className="flex-1 text-xs text-gray-300 leading-relaxed whitespace-pre-wrap">{note.text}</p>
+                    <p className="flex-1 text-xs text-foreground leading-relaxed whitespace-pre-wrap">{note.text}</p>
                     <button
                       onClick={() => removeNote(note.createdAt)}
-                      className="opacity-0 group-hover:opacity-100 shrink-0 w-5 h-5 flex items-center justify-center text-gray-600 hover:text-red-400 transition-all"
+                      className="opacity-0 group-hover:opacity-100 shrink-0 w-5 h-5 flex items-center justify-center text-muted-foreground hover:text-destructive transition-all"
                       title="Delete note"
                     >
                       <Trash2 className="w-3 h-3" />
@@ -430,7 +439,10 @@ function ResumeBanner({ positionMs, onResume, onDismiss }: {
   onDismiss: () => void
 }) {
   return (
-    <div className="absolute bottom-4 left-4 z-20 flex items-center gap-3 bg-gray-900/95 border border-gray-700 rounded-xl px-4 py-3 shadow-2xl backdrop-blur-sm" style={{ maxWidth: 340 }}>
+    <>
+      {/* Transparent backdrop — clicking anywhere outside the banner dismisses it */}
+      <div className="absolute inset-0 z-10" onClick={onDismiss} />
+      <div className="absolute bottom-4 left-4 z-20 flex items-center gap-3 bg-gray-900/95 border border-gray-700 rounded-xl px-4 py-3 shadow-2xl backdrop-blur-sm" style={{ maxWidth: 340 }}>
       <PlayCircle className="w-5 h-5 text-blue-400 shrink-0" />
       <div className="flex-1 min-w-0">
         <p className="text-xs text-gray-300 font-medium">Continue from where you left off?</p>
@@ -439,10 +451,11 @@ function ResumeBanner({ positionMs, onResume, onDismiss }: {
       <button onClick={onResume} className="h-7 px-3 rounded-lg bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold transition-colors shrink-0">
         Resume
       </button>
-      <button onClick={onDismiss} title="Start from beginning" className="w-7 h-7 rounded-lg flex items-center justify-center text-gray-500 hover:text-white hover:bg-gray-700 transition-colors shrink-0">
-        <RotateCcw className="w-3.5 h-3.5" />
+      <button onClick={onDismiss} title="Dismiss" className="w-7 h-7 rounded-lg flex items-center justify-center text-gray-500 hover:text-white hover:bg-gray-700 transition-colors shrink-0">
+        <X className="w-3.5 h-3.5" />
       </button>
-    </div>
+      </div>
+    </>
   )
 }
 
@@ -459,8 +472,8 @@ function SidebarTab({ active, onClick, children }: {
       className={[
         'flex items-center gap-1.5 px-4 py-2.5 text-xs font-medium border-b-2 transition-colors',
         active
-          ? 'border-blue-500 text-white'
-          : 'border-transparent text-gray-500 hover:text-gray-300',
+          ? 'border-primary text-foreground'
+          : 'border-transparent text-muted-foreground hover:text-foreground',
       ].join(' ')}
     >
       {children}
@@ -477,7 +490,7 @@ function QuizToggle({ active, onToggle }: { active: boolean; onToggle: () => voi
       title={active ? 'Quiz mode on — click to disable' : 'Enable quiz mode'}
       className={[
         'flex items-center gap-1.5 h-7 px-3 rounded-lg text-xs font-semibold transition-colors',
-        active ? 'bg-blue-600 text-white hover:bg-blue-500' : 'bg-gray-800 text-gray-400 hover:bg-gray-700 hover:text-white',
+        active ? 'bg-primary text-primary-foreground hover:bg-primary/90' : 'bg-muted text-muted-foreground hover:bg-accent hover:text-foreground',
       ].join(' ')}
     >
       <Brain className="w-3.5 h-3.5" />
