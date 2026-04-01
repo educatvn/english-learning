@@ -400,6 +400,59 @@ function searchNotes(data) {
   };
 }
 
+// ── Vocabulary helpers ────────────────────────────────────────────────────────
+// Sheet: vocabulary — userId | id | word | definition | sourceVideoId | sourceMs | sourceCueText | addedAt
+
+function vocabSheet() {
+  return getOrCreateSheet('vocabulary', ['userId', 'id', 'word', 'definition', 'sourceVideoId', 'sourceMs', 'sourceCueText', 'addedAt']);
+}
+
+function addVocabWord(data) {
+  var sheet = vocabSheet();
+  // Prevent duplicate: same userId + same word
+  var rows = sheet.getDataRange().getValues();
+  for (var i = 1; i < rows.length; i++) {
+    if (String(rows[i][0]) === String(data.userId) && String(rows[i][2]) === String(data.word)) {
+      // Update definition/source if already exists
+      sheet.getRange(i + 1, 4).setValue(data.definition || '');
+      return { updated: true };
+    }
+  }
+  sheet.appendRow([data.userId, data.id, data.word, data.definition || '', data.sourceVideoId, data.sourceMs, data.sourceCueText, data.addedAt]);
+  return { added: true };
+}
+
+function getVocabWords(data) {
+  var userId = String(data.userId);
+  var rows = vocabSheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1)
+    .filter(function(r) { return String(r[0]) === userId; })
+    .map(function(r) {
+      return {
+        id:            String(r[1]),
+        word:          String(r[2]),
+        definition:    String(r[3]),
+        sourceVideoId: String(r[4]),
+        sourceMs:      Number(r[5]) || 0,
+        sourceCueText: String(r[6]),
+        addedAt:       String(r[7]),
+      };
+    })
+    .sort(function(a, b) { return b.addedAt.localeCompare(a.addedAt); });
+}
+
+function deleteVocabWord(data) {
+  var sheet = vocabSheet();
+  var rows = sheet.getDataRange().getValues();
+  for (var i = rows.length - 1; i >= 1; i--) {
+    if (String(rows[i][0]) === String(data.userId) && String(rows[i][1]) === String(data.id)) {
+      sheet.deleteRow(i + 1);
+      return;
+    }
+  }
+}
+
 // ── Response helper ──────────────────────────────────────────────────────────
 
 function ok(data) {
@@ -449,6 +502,9 @@ function doPost(e) {
     if (action === 'getAllNotes')        return ok(getAllNotes(data));
     if (action === 'searchNotes')        return ok(searchNotes(data));
     if (action === 'deleteNote')        { deleteNote(data); return ok(null); }
+    if (action === 'addVocabWord')      return ok(addVocabWord(data));
+    if (action === 'getVocabWords')     return ok(getVocabWords(data));
+    if (action === 'deleteVocabWord')   { deleteVocabWord(data); return ok(null); }
 
     return err('Unknown action: ' + action);
   } catch (ex) {

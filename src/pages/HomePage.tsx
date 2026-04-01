@@ -9,13 +9,14 @@ import type { VideoMeta, Playlist, VideoProgress } from '@/types'
 import { isResumable } from '@/types'
 import { loadPlaylists, savePlaylist, deletePlaylist } from '@/services/playlists'
 import { getVideosPaged, getRecentProgress } from '@/services/googleSheets'
+import { loadVideos } from '@/services/videos'
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
 
 // ─── HomePage ────────────────────────────────────────────────────────────────
 
 export default function HomePage() {
-  const PAGE_SIZE = 24
+  const PAGE_SIZE = 18
 
   const { id: playlistIdFromUrl } = useParams<{ id?: string }>()
   const navigate = useNavigate()
@@ -34,6 +35,9 @@ export default function HomePage() {
   const [totalVideos, setTotalVideos] = useState(0)
   const [page, setPage] = useState(1)
   const [loadingVideos, setLoadingVideos] = useState(true)
+
+  // ── All videos map (for playlist lookups) ────────────────────────────────
+  const [allVideosMap, setAllVideosMap] = useState<Map<string, VideoMeta>>(new Map())
 
   // ── Continue Learning ────────────────────────────────────────────────────
   const [continueItem, setContinueItem] = useState<{ progress: VideoProgress; video: VideoMeta } | null>(null)
@@ -84,6 +88,9 @@ export default function HomePage() {
 
   useEffect(() => {
     fetchPage(1)
+    loadVideos()
+      .then((all) => setAllVideosMap(new Map(all.map((v) => [v.videoId, v]))))
+      .catch(console.error)
   }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
@@ -142,9 +149,9 @@ export default function HomePage() {
   const systemPlaylists = playlists.filter((p) => p.isSystem)
   const userPlaylists = playlists.filter((p) => !p.isSystem && p.ownerId === user?.sub)
 
-  // When a playlist is selected, show only its videos from the loaded page
+  // When a playlist is selected, resolve its videos from the full map (not just current page)
   const visibleVideos = selectedPlaylist
-    ? (selectedPlaylist.videoIds.map((id) => videos.find((v) => v.videoId === id)).filter(Boolean) as VideoMeta[])
+    ? (selectedPlaylist.videoIds.map((id) => allVideosMap.get(id)).filter(Boolean) as VideoMeta[])
     : videos
   const totalPages = Math.max(1, Math.ceil(totalVideos / PAGE_SIZE))
 

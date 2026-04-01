@@ -8,7 +8,7 @@ export function isConfigured(): boolean {
 
 type GASResponse<T = unknown> = { ok: true; data: T } | { ok: false; error: string }
 
-async function gas<T>(action: string, data?: unknown): Promise<T> {
+export async function gas<T>(action: string, data?: unknown): Promise<T> {
   const res = await fetch(SCRIPT_URL, {
     method: 'POST',
     headers: { 'Content-Type': 'text/plain;charset=utf-8' },

@@ -3,13 +3,16 @@ import { useParams } from 'react-router-dom'
 import ReactPlayer from 'react-player'
 import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, PlayCircle, X, StickyNote, Plus, Trash2, PanelRight } from 'lucide-react'
 import { AppHeader } from '@/components/AppHeader'
+import { CueText } from '@/components/CueText'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
 import { pickQuizWord, maskText } from '@/utils/quizWord'
-import type { VideoMeta, Playlist } from '@/types'
+import type { VideoMeta, Playlist, VocabEntry } from '@/types'
 import { loadPlaylists } from '@/services/playlists'
 import { loadVideos } from '@/services/videos'
 import { useAuth } from '@/context/AuthContext'
+import { addVocabWord, getVocabWords } from '@/services/vocabulary'
+import { VocabDialog } from '@/components/VocabDialog'
 import { useQuizMode } from '@/hooks/useQuizMode'
 import { useWatchTime } from '@/hooks/useWatchTime'
 import { useVideoProgress } from '@/hooks/useVideoProgress'
@@ -49,6 +52,10 @@ export default function PlaylistPage() {
   const [pendingNoteMs, setPendingNoteMs] = useState(0)
   const [noteText, setNoteText] = useState('')
 
+  const [vocabWords, setVocabWords] = useState<Set<string>>(new Set())
+  const [vocabDialog, setVocabDialog] = useState<{ word: string; cue: CaptionCue } | null>(null)
+  const wasPlayingRef = useRef(false)
+
   const quiz = useQuizMode()
   const currentVideo = videos[currentIdx] ?? null
   const watchTime = useWatchTime(user?.sub)
@@ -56,6 +63,58 @@ export default function PlaylistPage() {
   const { notes, addNote, removeNote } = useVideoNotes(user?.sub, currentVideo?.videoId)
 
   const showResumeBanner = !resumeDismissed && videoProgress.resumePositionMs !== null
+
+  useEffect(() => {
+    if (!user) return
+    getVocabWords(user.sub)
+      .then((entries) => setVocabWords(new Set(entries.map((e) => e.word))))
+      .catch(console.error)
+  }, [user?.sub]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  function handleOverlayMouseEnter() {
+    if (playing) {
+      wasPlayingRef.current = true
+      playerRef.current?.pause()
+      setPlaying(false)
+    }
+  }
+
+  function handleOverlayMouseLeave() {
+    if (wasPlayingRef.current && !vocabDialog) {
+      wasPlayingRef.current = false
+      playerRef.current?.play().catch(console.error)
+      setPlaying(true)
+    }
+  }
+
+  function handleWordClick(word: string) {
+    if (!activeCue) return
+    setVocabDialog({ word, cue: activeCue })
+  }
+
+  async function handleAddToVocab(word: string, definition: string) {
+    if (!user || !currentVideo || !vocabDialog) return
+    const entry: VocabEntry = {
+      id: `${user.sub}_${word}_${Date.now()}`,
+      word: word.toLowerCase(),
+      definition,
+      addedAt: new Date().toISOString(),
+      sourceVideoId: currentVideo.videoId,
+      sourceMs: vocabDialog.cue.startMs,
+      sourceCueText: vocabDialog.cue.text,
+    }
+    await addVocabWord(entry, user.sub)
+    setVocabWords((prev) => new Set([...prev, entry.word]))
+  }
+
+  function handleDialogClose() {
+    setVocabDialog(null)
+    if (wasPlayingRef.current) {
+      wasPlayingRef.current = false
+      playerRef.current?.play().catch(console.error)
+      setPlaying(true)
+    }
+  }
 
   // Load playlist + all videos
   useEffect(() => {
@@ -212,10 +271,10 @@ export default function PlaylistPage() {
     setNoteText('')
   }
 
-  const overlayText = (() => {
+  const overlayMasked = (() => {
     if (!activeCue) return null
     if (quiz.quizMode && quiz.quizWordRef.current) return maskText(activeCue.text, quiz.quizWordRef.current)
-    return activeCue.text
+    return null
   })()
 
   if (loading) return <LoadingScreen />
@@ -335,12 +394,34 @@ export default function PlaylistPage() {
                   }}
                 />
 
-                {overlayText && (
-                  <div className="absolute bottom-10 left-0 right-0 flex justify-center pointer-events-none px-4" style={{ zIndex: 10 }}>
+                {activeCue && (
+                  <div
+                    className="absolute bottom-10 left-0 right-0 flex justify-center px-4"
+                    style={{ zIndex: 10 }}
+                    onMouseEnter={handleOverlayMouseEnter}
+                    onMouseLeave={handleOverlayMouseLeave}
+                  >
                     <span className="bg-black/80 text-white text-xl font-medium px-4 py-2 rounded text-center leading-relaxed max-w-3xl">
-                      {overlayText}
+                      {overlayMasked ?? (
+                        <CueText
+                          text={activeCue.text}
+                          onWordClick={handleWordClick}
+                          savedWords={vocabWords}
+                          dark
+                        />
+                      )}
                     </span>
                   </div>
+                )}
+
+                {vocabDialog && (
+                  <VocabDialog
+                    word={vocabDialog.word}
+                    sourceText={vocabDialog.cue.text}
+                    isSaved={vocabWords.has(vocabDialog.word)}
+                    onAdd={handleAddToVocab}
+                    onClose={handleDialogClose}
+                  />
                 )}
 
                 {showResumeBanner && videoProgress.resumePositionMs !== null && (

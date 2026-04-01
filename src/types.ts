@@ -47,6 +47,16 @@ export interface VideoProgress {
   updatedAt: string
 }
 
+export interface VocabEntry {
+  id: string
+  word: string           // lowercase canonical form
+  definition: string     // from dictionary API (may be empty)
+  addedAt: string        // ISO string
+  sourceVideoId: string
+  sourceMs: number       // cue start timestamp
+  sourceCueText: string  // full sentence for context
+}
+
 /** True when a video has a saved position worth resuming */
 export function isResumable(p: VideoProgress): boolean {
   if (p.positionMs <= 30_000) return false  // < 30 seconds — treat as not started
