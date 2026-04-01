@@ -29,10 +29,6 @@ export default function LoginPage() {
               console.error('Google sign-in failed')
             }}
             useOneTap
-            theme="outline"
-            shape="rectangular"
-            size="large"
-            locale="en"
           />
         </div>
       </div>
