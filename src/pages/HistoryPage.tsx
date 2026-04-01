@@ -69,7 +69,7 @@ export default function HistoryPage() {
     <div className="min-h-screen bg-background flex flex-col">
       <AppHeader breadcrumb="Watch History" hideAddVideo />
 
-      <main className="flex-1 px-6 py-6 max-w-3xl mx-auto w-full">
+      <main className="flex-1 px-4 py-4 md:px-6 md:py-6 max-w-3xl mx-auto w-full">
         {loading ? (
           <div className="flex items-center justify-center py-24 text-muted-foreground text-sm gap-2">
             <Clock className="w-4 h-4 animate-pulse" />
@@ -89,7 +89,7 @@ export default function HistoryPage() {
         ) : (
           <>
             {/* Summary cards */}
-            <div className="grid grid-cols-3 gap-4 mb-6">
+            <div className="grid grid-cols-3 gap-2 md:gap-4 mb-6">
               <SummaryCard label="Today" value={fmtDuration(todaySecs)} />
               <SummaryCard label="Last 7 days" value={fmtDuration(last7Secs)} />
               <SummaryCard label="Last 30 days" value={fmtDuration(last30Secs)} />

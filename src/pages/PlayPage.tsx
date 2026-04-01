@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
 import { useParams, useSearchParams } from 'react-router-dom'
 import ReactPlayer from 'react-player'
-import { Brain, X, PlayCircle, StickyNote, Plus, Trash2 } from 'lucide-react'
+import { Brain, X, PlayCircle, StickyNote, Plus, Trash2, PanelRight } from 'lucide-react'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
 import { pickQuizWord, maskText } from '@/utils/quizWord'
@@ -36,6 +36,7 @@ export default function PlayPage() {
 
   const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null)
 
+  const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false)
   const [resumeDismissed, setResumeDismissed] = useState(false)
   const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes'>('captions')
   const [isAddingNote, setIsAddingNote] = useState(false)
@@ -188,12 +189,23 @@ export default function PlayPage() {
     <div className="flex flex-col h-screen bg-background overflow-hidden">
       <AppHeader
         breadcrumb={videoTitle ?? undefined}
-        right={<QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />}
+        right={
+          <>
+            <button
+              className="md:hidden w-8 h-8 flex items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
+              onClick={() => setMobileSidebarOpen((v) => !v)}
+              title="Captions & Notes"
+            >
+              <PanelRight className="w-4 h-4" />
+            </button>
+            <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
+          </>
+        }
         hideAddVideo
       />
 
       {/* Main */}
-      <div className="flex flex-1 overflow-hidden">
+      <div className="flex flex-1 overflow-hidden relative">
         {/* Video panel */}
         <div className="flex-1 flex flex-col min-w-0 bg-black">
           {/* Video */}
@@ -269,8 +281,33 @@ export default function PlayPage() {
           />
         </div>
 
+        {/* Mobile backdrop */}
+        {mobileSidebarOpen && (
+          <div
+            className="absolute inset-0 bg-black/50 z-30 md:hidden"
+            onClick={() => setMobileSidebarOpen(false)}
+          />
+        )}
+
         {/* Sidebar */}
-        <div className="w-96 flex flex-col bg-card border-l border-border">
+        <div className={[
+          'flex flex-col bg-card border-l border-border',
+          'absolute right-0 inset-y-0 z-40 w-[85vw] sm:w-96',
+          'transition-transform duration-200 ease-in-out',
+          'md:relative md:w-96 md:translate-x-0 md:z-auto md:inset-auto',
+          mobileSidebarOpen ? 'translate-x-0' : 'translate-x-full',
+        ].join(' ')}>
+          {/* Mobile close button */}
+          <div className="md:hidden flex items-center justify-between px-4 py-2 border-b border-border shrink-0">
+            <span className="text-xs font-medium text-muted-foreground">Captions & Notes</span>
+            <button
+              onClick={() => setMobileSidebarOpen(false)}
+              className="w-7 h-7 flex items-center justify-center rounded hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          </div>
+
           {/* Sidebar tabs */}
           <div className="flex border-b border-border shrink-0">
             <SidebarTab active={sidebarTab === 'captions'} onClick={() => setSidebarTab('captions')}>

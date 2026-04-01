@@ -22,6 +22,9 @@ export default function HomePage() {
   const { user, isAdmin } = useAuth()
   const selectedPlaylistId = playlistIdFromUrl ?? null
 
+  // ── Mobile sidebar ────────────────────────────────────────────────────────
+  const [sidebarOpen, setSidebarOpen] = useState(false)
+
   // ── Playlists ────────────────────────────────────────────────────────────
   const [playlists, setPlaylists] = useState<Playlist[]>([])
   const [loadingPlaylists, setLoadingPlaylists] = useState(true)
@@ -152,17 +155,41 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
-      <AppHeader />
+      <AppHeader onMenuClick={() => setSidebarOpen(true)} />
 
-      <div className="flex flex-1 min-h-0">
+      <div className="flex flex-1 min-h-0 relative">
+        {/* Mobile backdrop */}
+        {sidebarOpen && (
+          <div
+            className="fixed inset-0 bg-black/50 z-40 md:hidden"
+            onClick={() => setSidebarOpen(false)}
+          />
+        )}
+
         {/* Sidebar */}
-        <aside className="w-60 shrink-0 border-r border-border bg-card flex flex-col py-3 gap-0.5 overflow-y-auto">
+        <aside className={[
+          'shrink-0 border-r border-border bg-card flex flex-col py-3 gap-0.5 overflow-y-auto',
+          'fixed inset-y-0 left-0 z-50 w-72 transition-transform duration-200',
+          'md:static md:z-auto md:w-60 md:translate-x-0 md:inset-auto',
+          sidebarOpen ? 'translate-x-0' : '-translate-x-full',
+        ].join(' ')}>
+          {/* Mobile close button */}
+          <div className="md:hidden flex items-center justify-between px-3 pb-2 border-b border-border mb-1">
+            <span className="text-xs font-semibold text-muted-foreground uppercase tracking-wide">Menu</span>
+            <button
+              onClick={() => setSidebarOpen(false)}
+              className="w-7 h-7 flex items-center justify-center rounded hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          </div>
+
           {/* All Videos */}
           <SidebarItem
             label="All Videos"
             count={loadingPlaylists ? null : totalVideos}
             active={selectedPlaylistId === null}
-            onClick={() => navigate('/')}
+            onClick={() => { navigate('/'); setSidebarOpen(false) }}
           />
 
           {/* ── System Playlists ── */}
@@ -179,7 +206,7 @@ export default function HomePage() {
                       label={playlist.name}
                       count={playlist.videoIds.length}
                       active={selectedPlaylistId === playlist.id}
-                      onClick={() => navigate(`/playlist/${playlist.id}`)}
+                      onClick={() => { navigate(`/playlist/${playlist.id}`); setSidebarOpen(false) }}
                       onEdit={canEdit(playlist) ? () => setEditingPlaylist(playlist) : undefined}
                       onDelete={isAdmin ? () => handleDeletePlaylist(playlist.id) : undefined}
                     />
@@ -249,7 +276,7 @@ export default function HomePage() {
                     label={playlist.name}
                     count={playlist.videoIds.length}
                     active={selectedPlaylistId === playlist.id}
-                    onClick={() => navigate(`/playlist/${playlist.id}`)}
+                    onClick={() => { navigate(`/playlist/${playlist.id}`); setSidebarOpen(false) }}
                     isPublic={playlist.isPublic}
                     onEdit={() => setEditingPlaylist(playlist)}
                     onDelete={() => handleDeletePlaylist(playlist.id)}
@@ -261,7 +288,7 @@ export default function HomePage() {
         </aside>
 
         {/* Main */}
-        <main className="flex-1 overflow-y-auto px-6 py-6">
+        <main className="flex-1 overflow-y-auto px-3 py-4 md:px-6 md:py-6">
           {/* ── Continue Learning — hide when viewing a playlist ── */}
           {selectedPlaylistId === null && (loadingContinue || continueItem) && (
             <section className="mb-7">
@@ -296,7 +323,7 @@ export default function HomePage() {
           </div>
 
           {loadingVideos ? (
-            <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
+            <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
               {Array.from({ length: PAGE_SIZE }).map((_, i) => <VideoCardSkeleton key={i} />)}
             </div>
           ) : visibleVideos.length === 0 ? (
@@ -316,7 +343,7 @@ export default function HomePage() {
             </div>
           ) : (
             <>
-              <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
+              <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
                 {visibleVideos.map((video) => {
                   const editablePlaylists = playlists.filter((p) => canEdit(p))
                   return (

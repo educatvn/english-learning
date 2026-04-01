@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
 import { useParams } from 'react-router-dom'
 import ReactPlayer from 'react-player'
-import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, PlayCircle, X, StickyNote, Plus, Trash2 } from 'lucide-react'
+import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, PlayCircle, X, StickyNote, Plus, Trash2, PanelRight } from 'lucide-react'
 import { AppHeader } from '@/components/AppHeader'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
@@ -34,6 +34,7 @@ export default function PlaylistPage() {
   const [videos, setVideos] = useState<VideoMeta[]>([])
   const [currentIdx, setCurrentIdx] = useState(0)
   const [dropdownOpen, setDropdownOpen] = useState(false)
+  const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false)
 
   const [cues, setCues] = useState<CaptionCue[]>([])
   const [currentMs, setCurrentMs] = useState(0)
@@ -258,6 +259,13 @@ export default function PlaylistPage() {
         right={
           <div className="flex items-center gap-1">
             <button
+              className="md:hidden w-8 h-8 flex items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
+              onClick={() => setMobileSidebarOpen((v) => !v)}
+              title="Captions & Notes"
+            >
+              <PanelRight className="w-4 h-4" />
+            </button>
+            <button
               onClick={quiz.toggleQuizMode}
               title={quiz.quizMode ? 'Quiz mode on — click to disable' : 'Enable quiz mode'}
               className={[
@@ -282,7 +290,15 @@ export default function PlaylistPage() {
       />
 
       {/* Main */}
-      <div className="flex flex-1 overflow-hidden">
+      <div className="flex flex-1 overflow-hidden relative">
+        {/* Mobile backdrop */}
+        {mobileSidebarOpen && (
+          <div
+            className="absolute inset-0 bg-black/50 z-30 md:hidden"
+            onClick={() => setMobileSidebarOpen(false)}
+          />
+        )}
+
         {/* Video panel */}
         <div className="flex-1 flex flex-col min-w-0 bg-black">
           <div className="relative flex-1 min-h-0">
@@ -359,7 +375,24 @@ export default function PlaylistPage() {
         </div>
 
         {/* Sidebar */}
-        <div className="w-96 flex flex-col bg-card border-l border-border">
+        <div className={[
+          'flex flex-col bg-card border-l border-border',
+          'absolute right-0 inset-y-0 z-40 w-[85vw] sm:w-96',
+          'transition-transform duration-200 ease-in-out',
+          'md:relative md:w-96 md:translate-x-0 md:z-auto md:inset-auto',
+          mobileSidebarOpen ? 'translate-x-0' : 'translate-x-full',
+        ].join(' ')}>
+          {/* Mobile close button */}
+          <div className="md:hidden flex items-center justify-between px-4 py-2 border-b border-border shrink-0">
+            <span className="text-xs font-medium text-muted-foreground">Captions & Notes</span>
+            <button
+              onClick={() => setMobileSidebarOpen(false)}
+              className="w-7 h-7 flex items-center justify-center rounded hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          </div>
+
           {/* Tabs */}
           <div className="flex border-b border-border shrink-0">
             <SidebarTab active={sidebarTab === 'captions'} onClick={() => setSidebarTab('captions')}>

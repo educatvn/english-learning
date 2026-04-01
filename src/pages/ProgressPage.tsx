@@ -99,7 +99,7 @@ export default function ProgressPage() {
           Loading your progress…
         </div>
       ) : (
-        <main className="flex-1 px-6 py-6 max-w-4xl mx-auto w-full">
+        <main className="flex-1 px-4 py-4 md:px-6 md:py-6 max-w-4xl mx-auto w-full">
 
           {/* Period selector */}
           <div className="flex gap-0.5 mb-6 p-1 rounded-lg bg-muted w-fit">
@@ -120,7 +120,7 @@ export default function ProgressPage() {
           </div>
 
           {/* Stats row */}
-          <div className="grid grid-cols-3 gap-4 mb-6">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 md:gap-4 mb-6">
             <StatCard
               icon={<Clock className="w-4 h-4 text-blue-500" />}
               label="Watch Time"
@@ -158,8 +158,8 @@ export default function ProgressPage() {
               quizHistory.length === 0 ? (
                 <EmptyState message="No quiz history yet. Enable Quiz mode and practice some cues!" />
               ) : (
-                <div className="rounded-xl border border-border overflow-hidden">
-                  <table className="w-full text-sm">
+                <div className="rounded-xl border border-border overflow-hidden overflow-x-auto">
+                  <table className="w-full text-sm min-w-150">
                     <thead>
                       <tr className="border-b border-border bg-muted/30">
                         <th className="text-left px-4 py-2.5 text-xs font-semibold text-muted-foreground uppercase tracking-wider">Result</th>
