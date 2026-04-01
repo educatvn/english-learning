@@ -56,8 +56,8 @@ export default function NewVideoPage() {
         thumbnailUrl: `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`,
         addedAt: new Date().toISOString(),
       })
-      // Load playlists for the selector
-      const pls = await loadPlaylists()
+      // Load playlists for the selector (system playlists only — use empty userId)
+      const pls = await loadPlaylists('')
       setPlaylists(pls)
       setSelectedPlaylistIds(new Set())
       setCreatingPlaylist(false)
@@ -77,6 +77,9 @@ export default function NewVideoPage() {
       name,
       videoIds: [],
       createdAt: new Date().toISOString(),
+      ownerId: '',
+      isSystem: true,
+      isPublic: true,
     }
     // Optimistic UI then async save
     setPlaylists((prev) => [...prev, playlist])
