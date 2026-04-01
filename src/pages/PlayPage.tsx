@@ -61,7 +61,8 @@ export default function PlayPage() {
 
   useEffect(() => {
     async function loadCaptions() {
-      const paths = [`/videos/${videoId}/captions.json`, `/captions/${videoId}.json`]
+      const base = import.meta.env.BASE_URL
+      const paths = [`${base}videos/${videoId}/captions.json`, `${base}captions/${videoId}.json`]
       for (const path of paths) {
         try {
           const r = await fetch(path)
