@@ -1,87 +1,73 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { ChevronRight, Clock, Play, Trash2 } from 'lucide-react'
+import { Clock, Play, BarChart2 } from 'lucide-react'
 import { useAuth } from '@/context/AuthContext'
-import { getViewHistory } from '@/services/googleSheets'
-import { loadVideos } from '@/services/videos'
-import { UserButton } from '@/components/UserButton'
-import type { ViewEntry, VideoMeta } from '@/types'
+import { getProgressData } from '@/services/googleSheets'
+import { AppHeader } from '@/components/AppHeader'
+import type { WatchSession } from '@/types'
 
-// ─── helpers ─────────────────────────────────────────────────────────────────
+// ─── helpers ──────────────────────────────────────────────────────────────────
 
-function dayLabel(iso: string): string {
-  const d = new Date(iso)
+function fmtDuration(totalSeconds: number): string {
+  if (totalSeconds < 60) return `${totalSeconds}s`
+  const h = Math.floor(totalSeconds / 3600)
+  const m = Math.floor((totalSeconds % 3600) / 60)
+  const s = totalSeconds % 60
+  if (h > 0) return `${h}h ${m}m`
+  if (m > 0) return s > 0 ? `${m}m ${s}s` : `${m}m`
+  return `${s}s`
+}
+
+function dayLabel(dateStr: string): string {
+  const d = new Date(dateStr + 'T00:00:00')
   const today = new Date()
+  today.setHours(0, 0, 0, 0)
   const yesterday = new Date(today)
   yesterday.setDate(today.getDate() - 1)
-
-  const fmt = (date: Date) =>
-    date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
-
-  if (d.toDateString() === today.toDateString()) return 'Today'
-  if (d.toDateString() === yesterday.toDateString()) return 'Yesterday'
-  return fmt(d)
+  if (d.getTime() === today.getTime()) return 'Today'
+  if (d.getTime() === yesterday.getTime()) return 'Yesterday'
+  return d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' })
 }
 
-function timeLabel(iso: string): string {
-  return new Date(iso).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' })
-}
-
-// Group entries by calendar day (client timezone), preserving newest-first order within each day
-function groupByDay(entries: ViewEntry[]): { label: string; items: ViewEntry[] }[] {
-  const map = new Map<string, ViewEntry[]>()
-  for (const e of entries) {
-    const key = new Date(e.viewedAt).toDateString()
-    if (!map.has(key)) map.set(key, [])
-    map.get(key)!.push(e)
-  }
-  return [...map.entries()].map(([key, items]) => ({
-    label: dayLabel(items[0].viewedAt),
-    items,
-    _key: key,
-  }))
+function buildLast30Days(): string[] {
+  return Array.from({ length: 30 }, (_, i) => {
+    const d = new Date()
+    d.setDate(d.getDate() - (29 - i))
+    return d.toISOString().slice(0, 10)
+  })
 }
 
 // ─── HistoryPage ──────────────────────────────────────────────────────────────
 
 export default function HistoryPage() {
   const { user } = useAuth()
-  const [entries, setEntries] = useState<ViewEntry[]>([])
-  const [videoMap, setVideoMap] = useState<Map<string, VideoMeta>>(new Map())
+  const [sessions, setSessions] = useState<WatchSession[]>([])
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     if (!user) return
-    Promise.all([getViewHistory(user.sub), loadVideos()])
-      .then(([history, videos]) => {
-        setEntries(history)
-        setVideoMap(new Map(videos.map((v) => [v.videoId, v])))
-      })
+    getProgressData(user.sub)
+      .then(({ sessions }) => setSessions(sessions))
       .catch(console.error)
       .finally(() => setLoading(false))
   }, [user])
 
-  function removeEntry(viewedAt: string) {
-    setEntries((prev) => prev.filter((e) => e.viewedAt !== viewedAt))
-  }
+  const days = buildLast30Days()
+  const byDate = new Map(sessions.map((s) => [s.date, s.seconds]))
 
-  const groups = groupByDay(entries)
+  const todayStr = new Date().toISOString().slice(0, 10)
+  const todaySecs = byDate.get(todayStr) ?? 0
+  const last7Secs = days.slice(-7).reduce((sum, d) => sum + (byDate.get(d) ?? 0), 0)
+  const last30Secs = days.reduce((sum, d) => sum + (byDate.get(d) ?? 0), 0)
+
+  const maxSecs = Math.max(...days.map((d) => byDate.get(d) ?? 0), 1)
+
+  const activeDays = days.filter((d) => (byDate.get(d) ?? 0) > 0)
+  const isEmpty = !loading && last30Secs === 0
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
-      {/* Header */}
-      <header className="border-b border-border bg-card shrink-0">
-        <div className="px-6 py-4 flex items-center justify-between">
-          <div className="flex items-center gap-2 text-sm">
-            <Link to="/" className="text-muted-foreground hover:text-foreground transition-colors font-medium">
-              English Learning
-            </Link>
-            <ChevronRight className="w-3.5 h-3.5 text-muted-foreground" />
-            <span className="font-semibold">Watch History</span>
-          </div>
-          <UserButton />
-        </div>
-      </header>
+      <AppHeader breadcrumb="Watch History" hideAddVideo />
 
       <main className="flex-1 px-6 py-6 max-w-3xl mx-auto w-full">
         {loading ? (
@@ -89,9 +75,9 @@ export default function HistoryPage() {
             <Clock className="w-4 h-4 animate-pulse" />
             Loading history…
           </div>
-        ) : entries.length === 0 ? (
+        ) : isEmpty ? (
           <div className="flex flex-col items-center justify-center py-24 gap-3 text-center">
-            <Clock className="w-10 h-10 text-muted-foreground/30" />
+            <BarChart2 className="w-10 h-10 text-muted-foreground/30" />
             <p className="text-muted-foreground text-sm">No watch history yet.</p>
             <Link
               to="/"
@@ -101,91 +87,81 @@ export default function HistoryPage() {
             </Link>
           </div>
         ) : (
-          <div className="space-y-8">
-            {groups.map((group) => (
-              <section key={group._key}>
-                <h2 className="text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-3">
-                  {group.label}
-                </h2>
-                <div className="space-y-2">
-                  {group.items.map((entry) => {
-                    const video = videoMap.get(entry.videoId)
-                    return (
-                      <HistoryRow
-                        key={entry.viewedAt}
-                        entry={entry}
-                        video={video}
-                        onRemove={() => removeEntry(entry.viewedAt)}
+          <>
+            {/* Summary cards */}
+            <div className="grid grid-cols-3 gap-4 mb-6">
+              <SummaryCard label="Today" value={fmtDuration(todaySecs)} />
+              <SummaryCard label="Last 7 days" value={fmtDuration(last7Secs)} />
+              <SummaryCard label="Last 30 days" value={fmtDuration(last30Secs)} />
+            </div>
+
+            {/* Bar chart — 30 days */}
+            <div className="rounded-xl border border-border bg-card px-5 pt-4 pb-3 mb-6">
+              <p className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-4">
+                Daily watch time — last 30 days
+              </p>
+              <div className="flex items-end gap-0.5 h-24">
+                {days.map((d) => {
+                  const secs = byDate.get(d) ?? 0
+                  const pct = secs / maxSecs
+                  const isToday = d === todayStr
+                  return (
+                    <div key={d} className="flex-1 flex flex-col items-center justify-end h-full group relative">
+                      <div
+                        className={[
+                          'w-full rounded-t-sm transition-all',
+                          isToday ? 'bg-primary' : 'bg-primary/30 group-hover:bg-primary/50',
+                        ].join(' ')}
+                        style={{ height: `${Math.max(pct * 100, secs > 0 ? 4 : 0)}%` }}
                       />
-                    )
-                  })}
-                </div>
-              </section>
-            ))}
-          </div>
+                      {/* Tooltip */}
+                      {secs > 0 && (
+                        <div className="absolute bottom-full mb-1.5 left-1/2 -translate-x-1/2 bg-popover border border-border text-[10px] text-foreground px-2 py-1 rounded shadow-md whitespace-nowrap opacity-0 group-hover:opacity-100 transition-opacity z-10 pointer-events-none">
+                          {dayLabel(d)}: {fmtDuration(secs)}
+                        </div>
+                      )}
+                    </div>
+                  )
+                })}
+              </div>
+              <div className="flex justify-between mt-1.5 text-[9px] text-muted-foreground/60">
+                <span>{days[0]?.slice(5)}</span>
+                <span>Today</span>
+              </div>
+            </div>
+
+            {/* Day list — only days with activity */}
+            {activeDays.length > 0 && (
+              <div className="space-y-2">
+                {[...activeDays].reverse().map((d) => (
+                  <div
+                    key={d}
+                    className="flex items-center justify-between px-4 py-3 rounded-xl border border-border bg-card"
+                  >
+                    <div className="flex items-center gap-2">
+                      <Clock className="w-3.5 h-3.5 text-muted-foreground" />
+                      <span className="text-sm">{dayLabel(d)}</span>
+                      <span className="text-xs text-muted-foreground">{d}</span>
+                    </div>
+                    <span className="text-sm font-semibold tabular-nums">{fmtDuration(byDate.get(d)!)}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+          </>
         )}
       </main>
     </div>
   )
 }
 
-// ─── HistoryRow ───────────────────────────────────────────────────────────────
+// ─── SummaryCard ──────────────────────────────────────────────────────────────
 
-function HistoryRow({
-  entry,
-  video,
-  onRemove,
-}: {
-  entry: ViewEntry
-  video: VideoMeta | undefined
-  onRemove: () => void
-}) {
+function SummaryCard({ label, value }: { label: string; value: string }) {
   return (
-    <div className="group flex items-center gap-4 p-3 rounded-xl border border-border bg-card hover:border-foreground/20 transition-colors">
-      {/* Thumbnail */}
-      <Link to={`/play/${entry.videoId}`} className="shrink-0">
-        {video?.thumbnailUrl ? (
-          <div className="relative w-24 rounded-lg overflow-hidden aspect-video bg-muted">
-            <img
-              src={video.thumbnailUrl}
-              alt={video.title}
-              className="w-full h-full object-cover"
-            />
-            <div className="absolute inset-0 bg-black/0 group-hover:bg-black/25 flex items-center justify-center transition-colors">
-              <Play className="w-5 h-5 text-white opacity-0 group-hover:opacity-100 transition-opacity fill-white" />
-            </div>
-          </div>
-        ) : (
-          <div className="w-24 rounded-lg aspect-video bg-muted flex items-center justify-center">
-            <Play className="w-4 h-4 text-muted-foreground" />
-          </div>
-        )}
-      </Link>
-
-      {/* Info */}
-      <div className="flex-1 min-w-0">
-        <Link to={`/play/${entry.videoId}`} className="hover:underline">
-          <p className="text-sm font-medium line-clamp-2 leading-snug">
-            {video?.title ?? entry.videoId}
-          </p>
-        </Link>
-        {video?.channelName && (
-          <p className="text-xs text-muted-foreground mt-0.5">{video.channelName}</p>
-        )}
-        <p className="text-[10px] text-muted-foreground mt-1 flex items-center gap-1">
-          <Clock className="w-3 h-3" />
-          {timeLabel(entry.viewedAt)}
-        </p>
-      </div>
-
-      {/* Remove button (local only — doesn't delete from Sheets) */}
-      <button
-        onClick={onRemove}
-        className="opacity-0 group-hover:opacity-100 w-8 h-8 rounded-lg border border-border flex items-center justify-center hover:bg-destructive/10 hover:text-destructive hover:border-destructive/30 text-muted-foreground transition-all shrink-0"
-        title="Remove from view"
-      >
-        <Trash2 className="w-3.5 h-3.5" />
-      </button>
+    <div className="rounded-xl border border-border bg-card px-4 py-3 flex flex-col gap-1">
+      <p className="text-xs text-muted-foreground">{label}</p>
+      <p className="text-xl font-bold tabular-nums">{value}</p>
     </div>
   )
 }

@@ -1,22 +1,21 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
-import { useParams, useSearchParams, Link } from 'react-router-dom'
+import { useParams, useSearchParams } from 'react-router-dom'
 import ReactPlayer from 'react-player'
-import { Brain, X, PlayCircle, StickyNote, Plus, Trash2, ChevronRight } from 'lucide-react'
+import { Brain, X, PlayCircle, StickyNote, Plus, Trash2 } from 'lucide-react'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
 import { pickQuizWord, maskText } from '@/utils/quizWord'
 import { loadVideos } from '@/services/videos'
 import { useAuth } from '@/context/AuthContext'
+import { AppHeader } from '@/components/AppHeader'
 import { useQuizMode } from '@/hooks/useQuizMode'
 import { useWatchTime } from '@/hooks/useWatchTime'
-import { useViewHistory } from '@/hooks/useViewHistory'
 import { useVideoProgress } from '@/hooks/useVideoProgress'
 import { useVideoNotes } from '@/hooks/useVideoNotes'
 import { QuizModal } from '@/components/QuizModal'
 import type { QuizResult } from '@/components/QuizModal'
 import { VideoProgressBar } from '@/components/VideoProgressBar'
 import { saveQuizAttempt } from '@/services/quizResults'
-import { UserButton } from '@/components/UserButton'
 
 export default function PlayPage() {
   const { videoId } = useParams<{ videoId: string }>()
@@ -45,8 +44,7 @@ export default function PlayPage() {
   const noteInputRef = useRef<HTMLTextAreaElement>(null)
 
   const quiz = useQuizMode()
-  const watchTime = useWatchTime(user?.sub, videoId)
-  const viewHistory = useViewHistory(user?.sub, videoId)
+  const watchTime = useWatchTime(user?.sub)
   const videoProgress = useVideoProgress(user?.sub, videoId)
   const { notes, addNote, removeNote } = useVideoNotes(user?.sub, videoId)
 
@@ -187,24 +185,11 @@ export default function PlayPage() {
 
   return (
     <div className="flex flex-col h-screen bg-background overflow-hidden">
-      {/* Header — same style as all other app pages */}
-      <header className="border-b border-border bg-card shrink-0">
-        <div className="px-4 h-12 flex items-center gap-2">
-          <Link to="/" className="font-semibold text-sm hover:text-foreground transition-colors shrink-0">
-            English Learning
-          </Link>
-          {videoTitle && (
-            <>
-              <ChevronRight className="w-3.5 h-3.5 text-muted-foreground/50 shrink-0" />
-              <span className="text-sm text-muted-foreground truncate">{videoTitle}</span>
-            </>
-          )}
-          <div className="ml-auto flex items-center gap-2 shrink-0">
-            <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
-            <UserButton />
-          </div>
-        </div>
-      </header>
+      <AppHeader
+        breadcrumb={videoTitle ?? undefined}
+        right={<QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />}
+        hideAddVideo
+      />
 
       {/* Main */}
       <div className="flex flex-1 overflow-hidden">
@@ -224,7 +209,6 @@ export default function PlayPage() {
                 setPlaying(true)
                 watchTime.onPlay()
                 videoProgress.onPlay()
-                viewHistory.onFirstPlay()
               }}
               onPause={() => {
                 setPlaying(false)

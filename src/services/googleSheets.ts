@@ -1,4 +1,4 @@
-import type { Playlist, VideoMeta, QuizAttempt, WatchSession, ViewEntry, VideoProgress, VideoNote } from '@/types'
+import type { Playlist, VideoMeta, QuizAttempt, WatchSession, VideoProgress, VideoNote } from '@/types'
 
 const SCRIPT_URL = (import.meta.env.VITE_GOOGLE_SCRIPT_URL as string | undefined)?.trim() ?? ''
 
@@ -68,11 +68,10 @@ export async function saveQuizAttempt(attempt: QuizAttempt): Promise<void> {
 
 export async function incrementWatchTime(data: {
   userId: string
-  videoId: string
   seconds: number
   date: string
 }): Promise<void> {
-  await gas('incrementWatchTime', { ...data, updatedAt: new Date().toISOString() })
+  await gas('incrementWatchTime', data)
 }
 
 // ── Progress data ─────────────────────────────────────────────────────────────
@@ -86,15 +85,6 @@ export async function getProgressData(userId: string): Promise<ProgressData> {
   return gas<ProgressData>('getProgressData', { userId })
 }
 
-// ── View history ──────────────────────────────────────────────────────────────
-
-export async function recordView(entry: ViewEntry): Promise<void> {
-  await gas('recordView', entry)
-}
-
-export async function getViewHistory(userId: string): Promise<ViewEntry[]> {
-  return gas<ViewEntry[]>('getViewHistory', { userId })
-}
 
 // ── Video progress (resume) ───────────────────────────────────────────────────
 

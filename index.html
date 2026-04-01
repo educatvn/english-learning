@@ -4,7 +4,17 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>english-learning</title>
+    <title>English Learning</title>
+    <!-- GitHub Pages SPA redirect: restore path encoded by 404.html -->
+    <script>
+      (function () {
+        var p = window.location.search.slice(1);
+        if (p && p.startsWith('p=')) {
+          var decoded = decodeURIComponent(p.slice(2));
+          window.history.replaceState(null, null, '/' + decoded);
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

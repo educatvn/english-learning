@@ -1,0 +1,841 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Vanessa:\n... Excuse me. Do  "
+    } ]
+  }, {
+    "tStartMs": 1120,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "you know where room 302 is? Did you just freeze \nin fear because you weren't sure what to say?  "
+    } ]
+  }, {
+    "tStartMs": 8640,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "Never fear. Today, I'm here to \nhelp you. Let's talk about it. "
+    } ]
+  }, {
+    "tStartMs": 17760,
+    "dDurationMs": 8480,
+    "segs": [ {
+      "utf8": "Hi, I'm Vanessa from SpeakEnglishWithVanessa.com. \nAnd today you are going to learn how to really ask  "
+    } ]
+  }, {
+    "tStartMs": 26240,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "and give directions in English. Now, probably \na long time ago in your first English classes,  "
+    } ]
+  }, {
+    "tStartMs": 32800,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "you learned turn right, go straight. But the \nreality is nowadays we all use a GPS when we're  "
+    } ]
+  }, {
+    "tStartMs": 40240,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "navigating around a new city. So this isn't really \nthe most useful way to learn directions, but we do  "
+    } ]
+  }, {
+    "tStartMs": 48160,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "still ask for directions in different places. \nFor example, if you get a job at a new office,  "
+    } ]
+  }, {
+    "tStartMs": 54400,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "you might need to ask, \"Oh, excuse me, where's \nthe printer paper.\" Or if you're going to a zoo,  "
+    } ]
+  }, {
+    "tStartMs": 60480,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "you might say, \"Hey, excuse me, can you point \nme in the direction of the elephants?\" We still  "
+    } ]
+  }, {
+    "tStartMs": 65760,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "ask for directions and you need to be able to ask \npolitely and answer correctly as well. So that's  "
+    } ]
+  }, {
+    "tStartMs": 72800,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "what you're going to learn in today's lesson.\nAnd like always, I have created a free  "
+    } ]
+  }, {
+    "tStartMs": 77120,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "PDF worksheet to help you remember all of \ntoday's questions, answers, phrases, ideas,  "
+    } ]
+  }, {
+    "tStartMs": 83840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and you can answer Vanessa's challenge question \nat the bottom of the PDF worksheet. You can click  "
+    } ]
+  }, {
+    "tStartMs": 89840,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "on the link in the description to download that \nfree PDF worksheet today. Let's get started by  "
+    } ]
+  }, {
+    "tStartMs": 95120,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "asking some common questions for directions. The \nfirst set are very direct, but we can always add,  "
+    } ]
+  }, {
+    "tStartMs": 102400,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "excuse me, to the beginning to be a little more \npolite. Excuse me. My ticket says platform six.  "
+    } ]
+  }, {
+    "tStartMs": 109040,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Where is that? What a lovely direct question. \nExcuse me. I'm a new employee. Where do I go?  "
+    } ]
+  }, {
+    "tStartMs": 116880,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "This is a lovely question. Where do I go? If \nyou get invited to someone's house and then you  "
+    } ]
+  }, {
+    "tStartMs": 122480,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "realize you don't know where it is, you can say, \n\"I realize I haven't been to your house before.  "
+    } ]
+  }, {
+    "tStartMs": 129040,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "How do I get there?\"\nHow do I get there?  "
+    } ]
+  }, {
+    "tStartMs": 132720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Or in the office, you might ask, \"Excuse \nme, where's the paper for the copy machine.\"  "
+    } ]
+  }, {
+    "tStartMs": 138240,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Where's the paper for the copy machine? Beautiful. \nLet's go on to some more polite questions that are  "
+    } ]
+  }, {
+    "tStartMs": 144640,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "slightly longer, but you can do it. Excuse \nme. Can you tell me how to get to platform  "
+    } ]
+  }, {
+    "tStartMs": 151680,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "six? Can you tell me how to get to platform six? \nExcuse me, where can I find the toilet paper?  "
+    } ]
+  }, {
+    "tStartMs": 161040,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "Excuse me, where can I find the toilet paper? \nIf it's the year 2020, the answer is nowhere.  "
+    } ]
+  }, {
+    "tStartMs": 169440,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "Excuse me. I'm looking for Dr. Smith's office. \nExcuse me. I'm trying to find Dr. Smith's office.  "
+    } ]
+  }, {
+    "tStartMs": 177600,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Now, this looks like a statement, but really \nwhen you are approaching someone else, it is  "
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "perceived as a question. So if you came up to \nme and said, excuse me, I'm looking for Dr.  "
+    } ]
+  }, {
+    "tStartMs": 189600,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Smith's office. I would know, oh, you're lost.\nYou can't find his office. And I might say,  "
+    } ]
+  }, {
+    "tStartMs": 195680,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "all right, it's right over there. Excuse me, can \nyou help me find my classroom? I'm lost. Can you  "
+    } ]
+  }, {
+    "tStartMs": 202720,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "help me find my classroom? And our last question \nis a little bit long, but it's quite common.  "
+    } ]
+  }, {
+    "tStartMs": 209280,
+    "dDurationMs": 9840,
+    "segs": [ {
+      "utf8": "Excuse me, can you point me in the direction \nof the exit? Can you point me in the direction  "
+    } ]
+  }, {
+    "tStartMs": 219120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "of the exit? So here, you're not asking \nthem to go there with you and to show you  "
+    } ]
+  }, {
+    "tStartMs": 224000,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "exactly where it is, you just want them to point, \nHey, it's generally over that way. Can you point  "
+    } ]
+  }, {
+    "tStartMs": 230320,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "me in the direction of the exit? You might even \nask this at the grocery store too if you don't  "
+    } ]
+  }, {
+    "tStartMs": 235760,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "want the employee to have to stop what they're \ndoing and then go all the way with you to show  "
+    } ]
+  }, {
+    "tStartMs": 240400,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "you where the breakfast cereal is. You might \njust say, excuse me, can you point me in the  "
+    } ]
+  }, {
+    "tStartMs": 246080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "direction of the breakfast cereal?\nThis is a great question to ask.  "
+    } ]
+  }, {
+    "tStartMs": 250880,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Now that we've talked about some common questions \nfor asking for directions, let's talk about giving  "
+    } ]
+  }, {
+    "tStartMs": 256720,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "directions, giving an answer. Now, these \nmight be things that you need to understand  "
+    } ]
+  }, {
+    "tStartMs": 261760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "because someone will tell them to you and you \nneed to remember them so you can find your way,  "
+    } ]
+  }, {
+    "tStartMs": 266560,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "or someone might be asking you, \"Hey, how do I \nget there?\" And you need to know how to respond.  "
+    } ]
+  }, {
+    "tStartMs": 272720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "We're going to be taking a look at a couple common \nsituations where we still ask for directions. The  "
+    } ]
+  }, {
+    "tStartMs": 278400,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "first one is inside a building, specifically in a \nschool. What if someone asked you this question? "
+    } ]
+  }, {
+    "tStartMs": 286000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Dan:\n\"Excuse me, where's room 302.  "
+    } ]
+  }, {
+    "tStartMs": 290320,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Excuse me, where's room 302?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 293840,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Would you know how to respond to that? Well, let \nme give you an example. Go up to the third floor  "
+    } ]
+  }, {
+    "tStartMs": 301360,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "through the double doors and down the hall and \nit will be on the right. Here, we use a lot of  "
+    } ]
+  }, {
+    "tStartMs": 308800,
+    "dDurationMs": 8800,
+    "segs": [ {
+      "utf8": "prepositions. Go up to the third floor through \nthe double doors, down the hall. This is a fixed  "
+    } ]
+  }, {
+    "tStartMs": 317600,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "expression that we often, use down the hall. It's \nnot exactly going downhill, but it doesn't matter,  "
+    } ]
+  }, {
+    "tStartMs": 325360,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "down the hall and it will be on the right, \nor maybe it will be on the left. Great. The  "
+    } ]
+  }, {
+    "tStartMs": 331760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "next place where we often ask for directions is \nin a grocery store. What if someone asked you  "
+    } ]
+  }, {
+    "tStartMs": 337680,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "this question? Would you know what to say?\nDan: "
+    } ]
+  }, {
+    "tStartMs": 340960,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Excuse me, where can I find the organic breakfast \ncereal? Excuse me? Where can I find the organic  "
+    } ]
+  }, {
+    "tStartMs": 347280,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "breakfast cereal?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 348960,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "Well, if you work at that grocery store, you \ncould say the organic breakfast cereal is over  "
+    } ]
+  }, {
+    "tStartMs": 355760,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "on aisle three, near the canned \nfruit, on the top shelf. Here,  "
+    } ]
+  }, {
+    "tStartMs": 362000,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "again, we are using wonderful prepositions \nin context. It's over on aisle three,  "
+    } ]
+  }, {
+    "tStartMs": 368800,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "near the canned fruit, on the top shelf. If you'd \nlike to learn more grocery store vocabulary,  "
+    } ]
+  }, {
+    "tStartMs": 375520,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "you can check out this video I made where \nI walked around an American grocery store  "
+    } ]
+  }, {
+    "tStartMs": 380320,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and talked about everything that I saw and \ntried to give you a lot of common vocabulary,  "
+    } ]
+  }, {
+    "tStartMs": 385520,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "phrases, cultural tips, and everything that you \nneed to know about in American grocery store. "
+    } ]
+  }, {
+    "tStartMs": 391440,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Let's go to our next scenario. Let's imagine that \nyou're visiting a new city and you're staying with  "
+    } ]
+  }, {
+    "tStartMs": 396960,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "a host and you'd like to ask the host some \nadvice, what if you asked this question? "
+    } ]
+  }, {
+    "tStartMs": 403920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Dan:\nCan you help me find a good coffee shop?  "
+    } ]
+  }, {
+    "tStartMs": 406720,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Can you help me find a good coffee shop?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 409760,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Well, first of all, great question. \nCongratulations on asking a good question.  "
+    } ]
+  }, {
+    "tStartMs": 415040,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "The next thing is you would need to understand \nthe answer and someone might say to you, \"Head  "
+    } ]
+  }, {
+    "tStartMs": 421680,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "down the street.\" Oh, does this sound familiar? \nIt sounds similar to down the hall. It's a very  "
+    } ]
+  }, {
+    "tStartMs": 428800,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "similar expression. Head down the street a \ncouple blocks. You can't miss it. Oh, I hate  "
+    } ]
+  }, {
+    "tStartMs": 435680,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "it when people say that because usually you miss \nit. But this is a common verb, to head somewhere.  "
+    } ]
+  }, {
+    "tStartMs": 442320,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "It means you and your head are going in that \ndirection. Head down the street a couple blocks. "
+    } ]
+  }, {
+    "tStartMs": 450160,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "This is usually for kind of defined streets, \nbut you know what, we use this generally too.  "
+    } ]
+  }, {
+    "tStartMs": 457280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Maybe you pass one street or two streets or three \nstreets. This is a couple blocks. This is a very  "
+    } ]
+  }, {
+    "tStartMs": 462480,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "American term. Head down the street, a couple \nblocks. You can't miss it. Let's take a look  "
+    } ]
+  }, {
+    "tStartMs": 468880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "at our next situation, which is in the zoo. We \nrecently went to the zoo and our kids were asking  "
+    } ]
+  }, {
+    "tStartMs": 474160,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "us nonstop the whole time. \"Where's this? How can \nwe see this? When are we going to see this?\" So  "
+    } ]
+  }, {
+    "tStartMs": 479360,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "if you find yourself at a zoo, you \nmight be asking a question like this. "
+    } ]
+  }, {
+    "tStartMs": 483760,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Dan:\nCan you  "
+    } ]
+  }, {
+    "tStartMs": 485120,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "point me in the direction of the elephants? Can \nyou point me in the direction of the elephants? "
+    } ]
+  }, {
+    "tStartMs": 490080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Vanessa:\nAnd I can answer you by saying,  "
+    } ]
+  }, {
+    "tStartMs": 492640,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "\"To get to the elephants. You need to go through \nthe primate exhibit, turn left at the reptile  "
+    } ]
+  }, {
+    "tStartMs": 500400,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "house, and loop around the safari exhibit.\" \nOh, we've got lovely prepositions. Through the  "
+    } ]
+  }, {
+    "tStartMs": 507440,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "primate house. So you got to open the doors, go \nthrough the primate house, and then you need to  "
+    } ]
+  }, {
+    "tStartMs": 511680,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "turn left at the reptile house and loop around. \nSo this is imagining that there is probably  "
+    } ]
+  }, {
+    "tStartMs": 518800,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "like a sidewalk that goes around the safari. \nLoop around the safari, and then over there,  "
+    } ]
+  }, {
+    "tStartMs": 524960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "that's where you're going to see the elephants.\nNext, let's look at asking for directions  "
+    } ]
+  }, {
+    "tStartMs": 529200,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "in a park. What if I asked you this question? \nWould you know how to respond to me? "
+    } ]
+  }, {
+    "tStartMs": 534400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Dan:\nDo you know where the park bathroom is?  "
+    } ]
+  }, {
+    "tStartMs": 538400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Do you know where the park bathroom is?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 541280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "All right. It might be an urgent situation. So \nyou need to know exactly how to give the right  "
+    } ]
+  }, {
+    "tStartMs": 546000,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "directions. You might say you need to follow the \npath around the park, past the splash pad and the  "
+    } ]
+  }, {
+    "tStartMs": 554720,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "bathrooms are right next to the merry-go-round. \nThis is a common expression we often use:  "
+    } ]
+  }, {
+    "tStartMs": 559680,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Right next to. We're not talking about right \nand left, we're talking about immediately  "
+    } ]
+  }, {
+    "tStartMs": 565360,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "next to the merry-go-round. So when someone \nsays I'm right next to my car, it doesn't  "
+    } ]
+  }, {
+    "tStartMs": 572000,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "mean they're on the right side of their car, it \njust means they're immediately beside their car. "
+    } ]
+  }, {
+    "tStartMs": 577440,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "So we could say, you need to follow the path \naround, go past the splash pad. We often use  "
+    } ]
+  }, {
+    "tStartMs": 583280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "this expression. You're going to need to pass \nsome things. Go past the splash pad and the  "
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "bathrooms are right next to the merry-go-round. \nGood luck. Let's take a look at the next scenario,  "
+    } ]
+  }, {
+    "tStartMs": 594240,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "which is at a concert or a sporting event or \nat a theater where you have a ticket that has  "
+    } ]
+  }, {
+    "tStartMs": 601360,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "a specific seat saved for you but the area is \njust too big, you can't find it. So you need  "
+    } ]
+  }, {
+    "tStartMs": 607040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "to ask someone for directions. You might \nask a really polite question like this. "
+    } ]
+  }, {
+    "tStartMs": 611680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Dan:\nExcuse me, could you help me find my seat?  "
+    } ]
+  }, {
+    "tStartMs": 616080,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Excuse me, could you help me find my seat?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 619280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "The person who's working there might say, \noh right, let me take a look at your ticket.  "
+    } ]
+  }, {
+    "tStartMs": 623520,
+    "dDurationMs": 10480,
+    "segs": [ {
+      "utf8": "Your ticket says, okay, you are in section 105, \nrow 12, seats J and K. So to get to section 105,  "
+    } ]
+  }, {
+    "tStartMs": 634000,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "you need to go up the ramp to 105, then go \nup the stairs to row 12 and then go about  "
+    } ]
+  }, {
+    "tStartMs": 642080,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "midway across the row and you'll find seats J \nand K. Whew. This is going to be tough to find.  "
+    } ]
+  }, {
+    "tStartMs": 649600,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "We have some great expressions: up the ramp, up \nthe stairs, and midway over. Midway over means  "
+    } ]
+  }, {
+    "tStartMs": 658320,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "about in the middle of the row, you're going \nto find seats J and K, and that will be where  "
+    } ]
+  }, {
+    "tStartMs": 664480,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "you need to go. Let's take a look at our last \nsituation where you might ask for directions. And  "
+    } ]
+  }, {
+    "tStartMs": 669920,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "that is on transportation. I know I have been lost \ncountless times on transportation and have needed  "
+    } ]
+  }, {
+    "tStartMs": 676320,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "to ask for directions just because, especially \nwhen you're in a new place, transportation can be  "
+    } ]
+  }, {
+    "tStartMs": 682160,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "confusing. So, you might need to ask a \nvery polite question. Something like this. "
+    } ]
+  }, {
+    "tStartMs": 688720,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Dan:\nExcuse me, can you help me find where to go?  "
+    } ]
+  }, {
+    "tStartMs": 693120,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Excuse me, can you help me find where to go?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 696640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Let's imagine you're at a busy train \nstation, but you are completely lost.  "
+    } ]
+  }, {
+    "tStartMs": 701120,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "So you ask someone for directions and they \nsay to you, oh, it looks like on your ticket,  "
+    } ]
+  }, {
+    "tStartMs": 707200,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "you need to go to platform six. Okay, go down the \nstairs, turn to the left, and follow the signs  "
+    } ]
+  }, {
+    "tStartMs": 714880,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "for platform six. This is a common phrase that \nwe often use. Look for the signs for platform  "
+    } ]
+  }, {
+    "tStartMs": 723120,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "six or follow the signs for platform six. You \nmight even use this while you're driving. Follow  "
+    } ]
+  }, {
+    "tStartMs": 729200,
+    "dDurationMs": 8640,
+    "segs": [ {
+      "utf8": "the signs for New York City. You can't miss it. \nFollow the signs for platform six. Then look for  "
+    } ]
+  }, {
+    "tStartMs": 737840,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "train 34, look for train 34. This is giving you a \nspecific piece of instructions, not just look for  "
+    } ]
+  }, {
+    "tStartMs": 745680,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "the signs, but look for train 34 and that will \nbe exactly where you need to go. Whew. That was  "
+    } ]
+  }, {
+    "tStartMs": 752320,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "a lot of directions. I hope if you felt lost, \nnow, you feel like you have found your way. "
+    } ]
+  }, {
+    "tStartMs": 759120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Well, I have a quick question for you, in \nthe comments, can you give me directions to  "
+    } ]
+  }, {
+    "tStartMs": 764560,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "your favorite cafe? Can you use some of today's \nexpressions to give me directions so that I can  "
+    } ]
+  }, {
+    "tStartMs": 770480,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "find it because I really need a nice cup of tea? \nWell, like always, you can download today's free  "
+    } ]
+  }, {
+    "tStartMs": 777200,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "PDF worksheet. There is a link in the description \nwith all of today's directional questions  "
+    } ]
+  }, {
+    "tStartMs": 783120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and how to give directions. You can print \nit out. You could even put it in your bag  "
+    } ]
+  }, {
+    "tStartMs": 788160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "so that next time you travel, you will be \nabsolutely prepared and you will know the  "
+    } ]
+  }, {
+    "tStartMs": 792800,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "right phrases to use and you won't get lost.\nThere is a link in the description so you can  "
+    } ]
+  }, {
+    "tStartMs": 797920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "download the free PDF worksheet today. Well, \nthank you so much for learning English with me,  "
+    } ]
+  }, {
+    "tStartMs": 802320,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "and I'll see you again next Friday for a new \nlesson here on my YouTube channel. Bye. The next  "
+    } ]
+  }, {
+    "tStartMs": 808400,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "step is to download the free PDF worksheet for \nthis lesson. With this free PDF, you will master  "
+    } ]
+  }, {
+    "tStartMs": 815920,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "today's lesson and never forget what you have \nlearned. You can be a confident English speaker.  "
+    } ]
+  }, {
+    "tStartMs": 822800,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Don't forget to subscribe to my YouTube channel \nfor a free English lesson every Friday. Bye."
+    } ]
+  } ]
+}

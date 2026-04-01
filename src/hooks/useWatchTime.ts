@@ -13,14 +13,10 @@ function todayStr(): string {
  *   const { onPlay, onPause } = useWatchTime(user?.sub, videoId)
  *   <ReactPlayer onPlay={onPlay} onPause={onPause} ... />
  */
-export function useWatchTime(
-  userId: string | undefined,
-  videoId: string | undefined,
-) {
+export function useWatchTime(userId: string | undefined) {
   const playStartRef = useRef<number | null>(null)
   const pendingRef = useRef(0)
 
-  // Capture elapsed since last checkpoint without stopping tracking
   function captureElapsed() {
     if (playStartRef.current !== null) {
       const now = Date.now()
@@ -29,12 +25,11 @@ export function useWatchTime(
     }
   }
 
-  // Send accumulated seconds, return how many were sent
-  function flushPending(uid: string, vid: string) {
+  function flushPending(uid: string) {
     const secs = Math.floor(pendingRef.current)
     if (secs < 1) return
     pendingRef.current -= secs
-    void incrementWatchTime({ userId: uid, videoId: vid, seconds: secs, date: todayStr() })
+    void incrementWatchTime({ userId: uid, seconds: secs, date: todayStr() })
   }
 
   const onPlay = useCallback(() => {
@@ -50,22 +45,20 @@ export function useWatchTime(
 
   // Periodic flush every 10 seconds
   useEffect(() => {
-    if (!userId || !videoId) return
+    if (!userId) return
     const uid = userId
-    const vid = videoId
     const id = setInterval(() => {
       captureElapsed()
-      flushPending(uid, vid)
+      flushPending(uid)
     }, 10_000)
     return () => clearInterval(id)
-  }, [userId, videoId]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [userId]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Flush on video change or unmount (captures old video's time)
+  // Flush on unmount
   useEffect(() => {
     const uid = userId
-    const vid = videoId
     return () => {
-      if (!uid || !vid) return
+      if (!uid) return
       if (playStartRef.current !== null) {
         pendingRef.current += (Date.now() - playStartRef.current) / 1000
         playStartRef.current = null
@@ -73,25 +66,24 @@ export function useWatchTime(
       const secs = Math.floor(pendingRef.current)
       pendingRef.current = 0
       if (secs >= 1) {
-        void incrementWatchTime({ userId: uid, videoId: vid, seconds: secs, date: todayStr() })
+        void incrementWatchTime({ userId: uid, seconds: secs, date: todayStr() })
       }
     }
-  }, [userId, videoId]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [userId]) // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Flush when tab is hidden (user switches tabs or closes)
+  // Flush when tab is hidden
   useEffect(() => {
-    if (!userId || !videoId) return
+    if (!userId) return
     const uid = userId
-    const vid = videoId
     function onVisibilityChange() {
       if (document.hidden) {
         captureElapsed()
-        flushPending(uid, vid)
+        flushPending(uid)
       }
     }
     document.addEventListener('visibilitychange', onVisibilityChange)
     return () => document.removeEventListener('visibilitychange', onVisibilityChange)
-  }, [userId, videoId]) // eslint-disable-line react-hooks/exhaustive-deps
+  }, [userId]) // eslint-disable-line react-hooks/exhaustive-deps
 
   return { onPlay, onPause }
 }

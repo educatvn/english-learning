@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { ChevronRight, Clock, Brain, TrendingUp, ExternalLink, Check, X } from 'lucide-react'
+import { Clock, Brain, TrendingUp, ExternalLink, Check, X } from 'lucide-react'
 import { useAuth } from '@/context/AuthContext'
 import { getProgressData } from '@/services/googleSheets'
 import { loadVideos } from '@/services/videos'
-import { UserButton } from '@/components/UserButton'
+import { AppHeader } from '@/components/AppHeader'
 import type { ProgressData } from '@/services/googleSheets'
 import type { VideoMeta } from '@/types'
 
@@ -50,7 +50,6 @@ export default function ProgressPage() {
   const [videos, setVideos] = useState<Map<string, VideoMeta>>(new Map())
   const [loading, setLoading] = useState(true)
   const [period, setPeriod] = useState<Period>('7d')
-  const [histTab, setHistTab] = useState<'watch' | 'quiz'>('watch')
 
   useEffect(() => {
     if (!user) return
@@ -87,35 +86,13 @@ export default function ProgressPage() {
   const periodCorrect = periodQuizzes.filter((q) => q.correct).length
   const periodAccuracy = periodQuizCount > 0 ? Math.round((periodCorrect / periodQuizCount) * 100) : null
 
-  // Watch time by video (all-time, for Watch History tab)
-  const watchByVideo = (() => {
-    if (!data) return []
-    const map = new Map<string, number>()
-    for (const s of data.sessions) map.set(s.videoId, (map.get(s.videoId) ?? 0) + s.seconds)
-    return [...map.entries()]
-      .sort((a, b) => b[1] - a[1])
-      .map(([videoId, seconds]) => ({ videoId, seconds, video: videos.get(videoId) }))
-  })()
-
   const quizHistory = [...(data?.quizzes ?? [])].sort(
     (a, b) => new Date(b.answeredAt).getTime() - new Date(a.answeredAt).getTime(),
   )
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
-      {/* Header */}
-      <header className="border-b border-border bg-card shrink-0">
-        <div className="px-6 py-4 flex items-center gap-2 justify-between">
-          <div className="flex items-center gap-2 text-sm">
-            <Link to="/" className="text-muted-foreground hover:text-foreground transition-colors font-medium">
-              English Learning
-            </Link>
-            <ChevronRight className="w-3.5 h-3.5 text-muted-foreground" />
-            <span className="font-semibold">My Progress</span>
-          </div>
-          <UserButton />
-        </div>
-      </header>
+      <AppHeader breadcrumb="My Progress" hideAddVideo />
 
       {loading ? (
         <div className="flex-1 flex items-center justify-center text-muted-foreground text-sm">
@@ -148,7 +125,7 @@ export default function ProgressPage() {
               icon={<Clock className="w-4 h-4 text-blue-500" />}
               label="Watch Time"
               value={fmtDuration(periodWatchSecs)}
-              sub={`${periodSessions.length} session${periodSessions.length !== 1 ? 's' : ''}`}
+              sub={`${periodSessions.length} day${periodSessions.length !== 1 ? 's' : ''} active`}
             />
             <StatCard
               icon={<Brain className="w-4 h-4 text-purple-500" />}
@@ -172,54 +149,12 @@ export default function ProgressPage() {
             highlightToday={period === 'today'}
           />
 
-          {/* History tabs */}
+          {/* Quiz history */}
           <div className="mt-8">
-            <div className="flex gap-1 mb-5 border-b border-border">
-              <TabButton active={histTab === 'watch'} onClick={() => setHistTab('watch')}>
-                <Clock className="w-3.5 h-3.5" /> Watch History
-              </TabButton>
-              <TabButton active={histTab === 'quiz'} onClick={() => setHistTab('quiz')}>
-                <Brain className="w-3.5 h-3.5" /> Quiz History
-              </TabButton>
-            </div>
-
-            {histTab === 'watch' && (
-              watchByVideo.length === 0 ? (
-                <EmptyState message="No watch history yet. Start watching some videos!" />
-              ) : (
-                <div className="space-y-2">
-                  {watchByVideo.map(({ videoId, seconds, video }) => (
-                    <div
-                      key={videoId}
-                      className="flex items-center gap-4 p-3 rounded-xl border border-border bg-card hover:border-foreground/20 transition-colors"
-                    >
-                      {video?.thumbnailUrl && (
-                        <img src={video.thumbnailUrl} alt="" className="w-20 rounded-lg aspect-video object-cover shrink-0" />
-                      )}
-                      <div className="flex-1 min-w-0">
-                        <p className="text-sm font-medium line-clamp-1">{video?.title ?? videoId}</p>
-                        {video?.channelName && (
-                          <p className="text-xs text-muted-foreground mt-0.5">{video.channelName}</p>
-                        )}
-                      </div>
-                      <div className="text-right shrink-0">
-                        <p className="text-sm font-semibold tabular-nums">{fmtDuration(seconds)}</p>
-                        <p className="text-[10px] text-muted-foreground mt-0.5">total</p>
-                      </div>
-                      <Link
-                        to={`/play/${videoId}`}
-                        className="shrink-0 w-8 h-8 rounded-lg border border-border flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground hover:text-foreground"
-                        title="Open video"
-                      >
-                        <ExternalLink className="w-3.5 h-3.5" />
-                      </Link>
-                    </div>
-                  ))}
-                </div>
-              )
-            )}
-
-            {histTab === 'quiz' && (
+            <p className="text-xs font-semibold text-muted-foreground uppercase tracking-wider mb-4 flex items-center gap-1.5">
+              <Brain className="w-3.5 h-3.5" /> Quiz History
+            </p>
+            {(
               quizHistory.length === 0 ? (
                 <EmptyState message="No quiz history yet. Enable Quiz mode and practice some cues!" />
               ) : (
@@ -398,26 +333,6 @@ function StatCard({ icon, label, value, sub }: {
       <p className="text-2xl font-bold tabular-nums">{value}</p>
       <p className="text-xs text-muted-foreground mt-0.5">{sub}</p>
     </div>
-  )
-}
-
-function TabButton({ active, onClick, children }: {
-  active: boolean
-  onClick: () => void
-  children: React.ReactNode
-}) {
-  return (
-    <button
-      onClick={onClick}
-      className={[
-        'flex items-center gap-1.5 px-4 py-2 text-sm font-medium transition-colors border-b-2 -mb-px',
-        active
-          ? 'border-primary text-foreground'
-          : 'border-transparent text-muted-foreground hover:text-foreground',
-      ].join(' ')}
-    >
-      {children}
-    </button>
   )
 }
 

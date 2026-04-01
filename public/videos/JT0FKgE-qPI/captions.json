@@ -1,0 +1,1363 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Vanessa:\nHi, I'm Vanessa from SpeakEnglishWithVanessa.com.  "
+    } ]
+  }, {
+    "tStartMs": 5040,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "You're invited to a party. Let's talk about it.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 13760,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Oh, hey, are you free this weekend? We're going \nto have a party and I would love to hang out.  "
+    } ]
+  }, {
+    "tStartMs": 19680,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Huh? We're free. We don't cost anything. \nI want to hang out. Are we monkeys?  "
+    } ]
+  }, {
+    "tStartMs": 26560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "No. If you've ever been invited to a party in \nEnglish, well, you've probably heard these words  "
+    } ]
+  }, {
+    "tStartMs": 32320,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "before, but can you use them yourself? Do you know \nhow they're used in real English conversations.  "
+    } ]
+  }, {
+    "tStartMs": 39040,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Well, never fear. Today, I would like \nto bring you in to a moment where I  "
+    } ]
+  }, {
+    "tStartMs": 45360,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "invite two of my friends to my son's birthday \nparty. You're going to see me give them a call,  "
+    } ]
+  }, {
+    "tStartMs": 51840,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "invite them to his birthday party. And you're \ngoing to hear someone say no, and someone say yes,  "
+    } ]
+  }, {
+    "tStartMs": 59040,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "and some of the important daily expressions \nthat we use when declining an invitation and  "
+    } ]
+  }, {
+    "tStartMs": 64960,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "when accepting an invitation. Like always, I've \ncreated a free PDF worksheet with all of today's  "
+    } ]
+  }, {
+    "tStartMs": 71840,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "expressions, ideas, sample sentences. And you can \nanswer Vanessa's challenge question at the bottom  "
+    } ]
+  }, {
+    "tStartMs": 79280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "of the free PDF worksheet. So click on the link in \nthe description to download that worksheet today.  "
+    } ]
+  }, {
+    "tStartMs": 85120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Never forget what you are about to learn.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 88240,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Let's start by watching the clip \nof me inviting my brother-in-law,  "
+    } ]
+  }, {
+    "tStartMs": 92640,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Ben, to my son's birthday party. You're going to \nsee me give him a call. You're going to hear his  "
+    } ]
+  }, {
+    "tStartMs": 97920,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "responses and we're going to go over it expression \nby expression so that you can speak like this too.  "
+    } ]
+  }, {
+    "tStartMs": 104240,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "All right. Let's watch the first clip and then \nI'll talk about it. Let's watch. All right. Let's  "
+    } ]
+  }, {
+    "tStartMs": 109600,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "call Ben and see if he can come.\nBen: "
+    } ]
+  }, {
+    "tStartMs": 122720,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Hello?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 123920,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Hi, Ben. This is Vanessa.\nBen: "
+    } ]
+  }, {
+    "tStartMs": 127360,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Oh, hey, Vanessa.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 129120,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "Hey, I was just calling because I was wondering \nif, by any chance, you are free on Saturday. We're  "
+    } ]
+  }, {
+    "tStartMs": 136320,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "having a little birthday party for Freddie.\nBen: "
+    } ]
+  }, {
+    "tStartMs": 140160,
+    "dDurationMs": 10560,
+    "segs": [ {
+      "utf8": "Oh, Freddie's birthday party. Yeah, let me check \nmy schedule. Yeah, I think we're free. I can bring  "
+    } ]
+  }, {
+    "tStartMs": 150720,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "the whole family.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 151840,
+    "dDurationMs": 9200,
+    "segs": [ {
+      "utf8": "You just heard me say, \"I was wondering if by \nany chance, are you free on Saturday?\" Here I'm  "
+    } ]
+  }, {
+    "tStartMs": 161040,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "using a couple expressions to make this a little \nbit softer. \"I was wondering if by any chance,  "
+    } ]
+  }, {
+    "tStartMs": 169200,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "are you free on Saturday?\" I didn't say, \n\"Hey, are you free on Saturday?\" I could  "
+    } ]
+  }, {
+    "tStartMs": 175360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "have said this. It would be direct. It would \nbe fine. He's my brother-in-law. This is not  "
+    } ]
+  }, {
+    "tStartMs": 180240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "a professional invitation. This is \njust inviting someone from my family.  "
+    } ]
+  }, {
+    "tStartMs": 185440,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "But instead I decided to make it a little bit \nmore indirect. \"I was wondering if by any chance,  "
+    } ]
+  }, {
+    "tStartMs": 193280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "are you free on Saturday?\" Let's see how we \ncan use by any chance in another context. "
+    } ]
+  }, {
+    "tStartMs": 197840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Vanessa:\nBy any chance,  "
+    } ]
+  }, {
+    "tStartMs": 200000,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "can I borrow $10? I forgot my wallet. So you're \nprobably assuming that the other person has  "
+    } ]
+  }, {
+    "tStartMs": 206960,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "$10 that you can borrow, but you want to be \npolite. You're a little bit hesitant to ask and  "
+    } ]
+  }, {
+    "tStartMs": 212800,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "you want to just be kind about it. By any chance, \ncan I borrow $10? I forgot my wallet. Thank you. "
+    } ]
+  }, {
+    "tStartMs": 220080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Vanessa:\nAnd next you heard Ben say this,  "
+    } ]
+  }, {
+    "tStartMs": 222720,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "\"Let me check my schedule.\" This is extremely \ncommon and it's pretty straightforward. So you can  "
+    } ]
+  }, {
+    "tStartMs": 228560,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "just copy and paste this into your own vocabulary. \nIf someone invites you to a coffee shop with them,  "
+    } ]
+  }, {
+    "tStartMs": 235200,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "you could say, \"Oh, I'd love to have \ncoffee with you. Let me check my schedule,  "
+    } ]
+  }, {
+    "tStartMs": 239600,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "but I think I am free tomorrow.\" Though you \nstill want to check, but you kind of think,  "
+    } ]
+  }, {
+    "tStartMs": 245840,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "\"I'll probably be available. Let me check my \nschedule, but I think I will be free tomorrow.\"  "
+    } ]
+  }, {
+    "tStartMs": 250560,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "You just heard me use the word free. And that's \nalso what Ben used. He said, \"I think we're free.\"  "
+    } ]
+  }, {
+    "tStartMs": 256400,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "This is not talking about payment. You might say \nthat item costs $5 and that item is free. This  "
+    } ]
+  }, {
+    "tStartMs": 264320,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "is not what we're talking about. We're talking \nabout available. I'm available, it's kind of a  "
+    } ]
+  }, {
+    "tStartMs": 269760,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "professional way to say this, but you can just say \nit in daily conversation. I'm free. I'm available. "
+    } ]
+  }, {
+    "tStartMs": 277280,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Vanessa:\nLet's watch the next  "
+    } ]
+  }, {
+    "tStartMs": 278720,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "clip of my phone conversation where you're going \nto hear three lovely expressions. Let's watch. "
+    } ]
+  }, {
+    "tStartMs": 283920,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Vanessa:\nOh, great. Well, it's going to be  "
+    } ]
+  }, {
+    "tStartMs": 286800,
+    "dDurationMs": 9280,
+    "segs": [ {
+      "utf8": "in the morning. I thought before nap time would \nprobably be best. So it'll be 10:30 to noon-ish.  "
+    } ]
+  }, {
+    "tStartMs": 296080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "We'll probably have some lunch at the end.\nBen: "
+    } ]
+  }, {
+    "tStartMs": 299840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Okay, that sounds great. We're open \nthe whole day, so we'll be there. "
+    } ]
+  }, {
+    "tStartMs": 303680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Vanessa:\nWhen I was telling Ben the time of the party,  "
+    } ]
+  }, {
+    "tStartMs": 307280,
+    "dDurationMs": 8640,
+    "segs": [ {
+      "utf8": "I said it'll be 10:30 to noon-ish. This little \nadd-on, ish, is common in daily conversation  "
+    } ]
+  }, {
+    "tStartMs": 315920,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "when we're talking about something approximate. \nYou might say, \"That shirt is red-ish.\" Maybe  "
+    } ]
+  }, {
+    "tStartMs": 323440,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "it's kind of pink. Maybe it's kind of a slightly \nbrownish red. It could be somewhere in between.  "
+    } ]
+  }, {
+    "tStartMs": 330160,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "It's red-ish, but we often use this for time \nas well. The party will end at noon-ish.  "
+    } ]
+  }, {
+    "tStartMs": 338000,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "If you want to leave early, it's okay. If you \nstay a little longer, it's okay, but this is the  "
+    } ]
+  }, {
+    "tStartMs": 343440,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "general time for the party. 10:30 to noon-ish.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 347120,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Then Ben said, \"We're open the whole day.\" He's \nnot talking about a business that's open. You can  "
+    } ]
+  }, {
+    "tStartMs": 353280,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "also say this. If you are running a business and \nyou say, \"My shop or my business will be open the  "
+    } ]
+  }, {
+    "tStartMs": 358960,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "whole day.\" That means customers can come and \ngo, but he's not a business. He's just a guy.  "
+    } ]
+  }, {
+    "tStartMs": 365280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So he said, \"We are open the whole day.\" That \nmeans we are free. The expression we talked  "
+    } ]
+  }, {
+    "tStartMs": 370080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "about before, or we're available. We have \nnothing going on, nothing on the schedule,  "
+    } ]
+  }, {
+    "tStartMs": 374480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "nothing on our calendar. We are free \nthe whole day. We're open the whole day. "
+    } ]
+  }, {
+    "tStartMs": 379840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Vanessa:\nAnd then he sealed the deal by saying, \"We'll be  "
+    } ]
+  }, {
+    "tStartMs": 384080,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "there.\" Great. This is an affirmative yes. \"We'll \nbe there.\" It kind of shows also that you're  "
+    } ]
+  }, {
+    "tStartMs": 391520,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "committing to this. You're excited about this. \n\"Oh, I'm so excited that you invited me to  "
+    } ]
+  }, {
+    "tStartMs": 397280,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "your wedding. I'll be there. I feel so privileged \nthat you asked me to be part of that special day.  "
+    } ]
+  }, {
+    "tStartMs": 403760,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I'll be there.\" A great phrase.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 405680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "All right, let's go on to the next clip where \nwe'll hear some more wonderful expressions and  "
+    } ]
+  }, {
+    "tStartMs": 409840,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "then talk about them.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 411440,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Cool, cool. And no pressure, you don't need to \nbring a present or anything. If you really want  "
+    } ]
+  }, {
+    "tStartMs": 416800,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "to, Freddie loves food and snacks. You're welcome \nto bring him like a little snack, but no pressure  "
+    } ]
+  }, {
+    "tStartMs": 422960,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "to bring presents. We'd just love to see you guys.\nBen: "
+    } ]
+  }, {
+    "tStartMs": 426640,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Okay, that sounds good. I might bring some donuts.  "
+    } ]
+  }, {
+    "tStartMs": 429840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "My favorite donut shop is \ndown the road, but, you know. "
+    } ]
+  }, {
+    "tStartMs": 432720,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Vanessa:\nOkay. "
+    } ]
+  }, {
+    "tStartMs": 433440,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Ben:\nI won't bring too much. "
+    } ]
+  }, {
+    "tStartMs": 434560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Vanessa:\nOkay, well, more the merrier. And we'll be glad to  "
+    } ]
+  }, {
+    "tStartMs": 438880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "see you. Thanks so much for being able to come.\nBen: "
+    } ]
+  }, {
+    "tStartMs": 442480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You're welcome. All right, see you later.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 444480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "All right. See you Saturday. Bye.\nBen: "
+    } ]
+  }, {
+    "tStartMs": 446480,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Bye.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 447600,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "In this final clip of our conversation, you \nheard three wonderful phrases. You heard us say  "
+    } ]
+  }, {
+    "tStartMs": 453440,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "this sentence, \"No pressure, you don't need \nto bring a present or anything.\" No pressure.  "
+    } ]
+  }, {
+    "tStartMs": 460160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Well, if you have ever been a parent who has \nbeen invited to many birthday parties for your  "
+    } ]
+  }, {
+    "tStartMs": 465760,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "kids' friends, it can sometimes be a lot of \npressure to choose a present, to always have a  "
+    } ]
+  }, {
+    "tStartMs": 471200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "present ready. And oh, you got invited to a party \nthat's tomorrow. \"Oh, I don't have a present.\"  "
+    } ]
+  }, {
+    "tStartMs": 475840,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "This could be kind of stressful, but really the \nmost important thing is that you are at the party.  "
+    } ]
+  }, {
+    "tStartMs": 481920,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "Your presence is the most important present. So \nusually when I invite someone to one of my kids'  "
+    } ]
+  }, {
+    "tStartMs": 489120,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "birthday parties, I say this, \"Hey, no pressure, \nyou don't need to bring a present. Just come to  "
+    } ]
+  }, {
+    "tStartMs": 494240,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "the party. We'd love to see you.\" And sometimes \npeople bring a present still and that's okay,  "
+    } ]
+  }, {
+    "tStartMs": 500160,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "but it's not a requirement. No pressure. I \njust want you to come and enjoy yourself. "
+    } ]
+  }, {
+    "tStartMs": 505840,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Vanessa:\nSometimes for parties,  "
+    } ]
+  }, {
+    "tStartMs": 507840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "people ask, \"Can I bring anything? Would you like \nme to bring anything?\" Especially if it's like a  "
+    } ]
+  }, {
+    "tStartMs": 512400,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "dinner party or something like that. So you might \nsay, \"Oh yes, please bring your own beer.\" BYOB,  "
+    } ]
+  }, {
+    "tStartMs": 519760,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "we say. Or, \"Please bring your own lawnchair \nbecause we're going to be sitting on the grass. I  "
+    } ]
+  }, {
+    "tStartMs": 525120,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "don't have enough chairs. Just bring a lawnchair.\" \nSomething simple like this. So I suggested you're  "
+    } ]
+  }, {
+    "tStartMs": 530560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "welcome to bring him, my son, a little snack or \nsomething. He loves food. So some people feel  "
+    } ]
+  }, {
+    "tStartMs": 536320,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "a little bit weird about coming to a birthday \nparty without a present. So I gave a suggestion,  "
+    } ]
+  }, {
+    "tStartMs": 542320,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "bring him a little snack. He loves food. So a \nlittle snack is kind of the perfect present for  "
+    } ]
+  }, {
+    "tStartMs": 548800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "him. He will love it. No pressure.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 551680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "The final phrase from my conversation with \nBen is the more the merrier. Usually we use  "
+    } ]
+  }, {
+    "tStartMs": 557520,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "this when talking about people. The more people \nthat are at a party, the merrier or the happier,  "
+    } ]
+  }, {
+    "tStartMs": 563840,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "the more joyful it will be. This is the same \nexpression as Merry Christmas, the merrier it  "
+    } ]
+  }, {
+    "tStartMs": 570080,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "will be. But in this conversation, we were talking \nabout food. Ben suggested bringing some donuts as  "
+    } ]
+  }, {
+    "tStartMs": 575920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "a little gift or something to share with other \npeople at the party. So we're talking about more  "
+    } ]
+  }, {
+    "tStartMs": 581040,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "food. Oh, the more food, the more the merrier. \nFeel free to bring it. We'd love to have it. "
+    } ]
+  }, {
+    "tStartMs": 587760,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Vanessa:\nWell, it doesn't always go so well  "
+    } ]
+  }, {
+    "tStartMs": 590320,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "when you invite someone to a party, sometimes they \ncan't come. They decline your invitation. We're  "
+    } ]
+  }, {
+    "tStartMs": 597280,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "going to be watching a clip where I call my friend \nLauren to invite her to Freddie's birthday party,  "
+    } ]
+  }, {
+    "tStartMs": 602880,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "but she can't come. You're going to hear some \ndifferent phrases and some polite ways to say,  "
+    } ]
+  }, {
+    "tStartMs": 609520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "\"Sorry, I can't come.\" All right, let's watch the \nfirst clip of my conversation with her. And then  "
+    } ]
+  }, {
+    "tStartMs": 614000,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "we'll break it down together.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 615920,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "All right. We are going to call my friend Lauren \nand invite her to Freddie's second birthday party.  "
+    } ]
+  }, {
+    "tStartMs": 622560,
+    "dDurationMs": 10280,
+    "segs": [ {
+      "utf8": "Here goes.\nLauren: "
+    } ]
+  }, {
+    "tStartMs": 635760,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Hello?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 636720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Hi, Lauren. It's Vanessa.\nLauren: "
+    } ]
+  }, {
+    "tStartMs": 640640,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Hi, Vanessa. How are you today?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 642480,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "Oh, I'm doing well. I have some exciting news. \nThat, as you know, Freddie's going to be two soon  "
+    } ]
+  }, {
+    "tStartMs": 649840,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and we're going to have a party.\nLauren: "
+    } ]
+  }, {
+    "tStartMs": 652640,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Oh, wonderful.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 654000,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "Yeah, so I wanted to invite you and \nsee if you're free. It's going to be on  "
+    } ]
+  }, {
+    "tStartMs": 660160,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Saturday, 10:30 AM till like after lunchtime.  "
+    } ]
+  }, {
+    "tStartMs": 666560,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And yeah, are you free to come?\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 670080,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "In this first clip where I invited Lauren to \nFreddie's birthday party, I started off by  "
+    } ]
+  }, {
+    "tStartMs": 675040,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "using the expression here goes before I called \nher. I don't know about you, but I sometimes  "
+    } ]
+  }, {
+    "tStartMs": 681440,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "feel a little bit nervous calling someone on the \nphone. It's not because I'm nervous to talk to my  "
+    } ]
+  }, {
+    "tStartMs": 686320,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "friend. It's more that when I call them, I don't \nwant to be interrupting whatever they're doing.  "
+    } ]
+  }, {
+    "tStartMs": 691920,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Nowadays with texting, it feels a little more \nserious to give someone a phone call. So I said,  "
+    } ]
+  }, {
+    "tStartMs": 697600,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "\"Here goes.\" If you're doing something that you \nfeel a little bit nervous about, maybe you're  "
+    } ]
+  }, {
+    "tStartMs": 702160,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "asking someone on a date, you might say, \"Okay, \nI'm going to do this. I'm going to ask her on  "
+    } ]
+  }, {
+    "tStartMs": 707840,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "a date. Here goes.\" Oh, you're kind of preparing \nyourself to take some kind of risk and trying to  "
+    } ]
+  }, {
+    "tStartMs": 714000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "give yourself some courage. Here goes.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 717120,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "At the end of this clip, I asked her the question, \n\"Are you free to come to Freddie's birthday party?  "
+    } ]
+  }, {
+    "tStartMs": 723520,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Are you free to come to Freddie's birthday party?\" \nThis is another way to invite someone to an event.  "
+    } ]
+  }, {
+    "tStartMs": 730080,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "And we're using that same word free a lot, because \nthis is what's most used in daily conversation.  "
+    } ]
+  }, {
+    "tStartMs": 736240,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Are you free to come next Saturday? Are you free \nthis afternoon? Are you free next month? I was  "
+    } ]
+  }, {
+    "tStartMs": 741840,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "thinking we could go to the beach together. Are \nyou free? What a beautiful phrase. All right,  "
+    } ]
+  }, {
+    "tStartMs": 746880,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "let's watch our next clip where you'll \nhear some more wonderful phrases. "
+    } ]
+  }, {
+    "tStartMs": 750400,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Lauren:\nI would love to, however,  "
+    } ]
+  }, {
+    "tStartMs": 753680,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I will be working during that time.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 756160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Oh.\nLauren: "
+    } ]
+  }, {
+    "tStartMs": 758480,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Yeah. Where I work is open on Saturdays and in \nthe morning, so unfortunately I'll be working  "
+    } ]
+  }, {
+    "tStartMs": 765440,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "at that time.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 766400,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Oh.\nLauren: "
+    } ]
+  }, {
+    "tStartMs": 766800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "But I would love to get together with you guys \nanother time to celebrate Freddie's birthday. "
+    } ]
+  }, {
+    "tStartMs": 771840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Vanessa:\nYou heard Lauren decline my invitation. She said,  "
+    } ]
+  }, {
+    "tStartMs": 777040,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "\"I would love to, however, I'm going to be working \nduring that time.\" I would love to, but the moment  "
+    } ]
+  }, {
+    "tStartMs": 786080,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "that you hear this phrase, especially that tone of \nvoice, that kind of sad tone of voice. Oh, I would  "
+    } ]
+  }, {
+    "tStartMs": 792080,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "love to, but I'm not free tomorrow afternoon. I \nwould love to, but I'm really busy this week. I  "
+    } ]
+  }, {
+    "tStartMs": 800320,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "would love to, but... This is a really polite \nway to decline an invitation. Sometimes when  "
+    } ]
+  }, {
+    "tStartMs": 806000,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "we decline an invitation, we want to kind of show \nthat, \"Hey, I still want to see you. I still like  "
+    } ]
+  }, {
+    "tStartMs": 811920,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "to hang out with you. So let's make alternative \nplans.\" And that's kind of what you heard Lauren  "
+    } ]
+  }, {
+    "tStartMs": 817200,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "suggesting. She said this phrase, \"But I would \nlove to get together with you guys another time.  "
+    } ]
+  }, {
+    "tStartMs": 823760,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "I would love to get together another time.\" This \nphrase to get together means just to see each  "
+    } ]
+  }, {
+    "tStartMs": 830560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "other, to hang out, to spend time together.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 834640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "If you are trying to decline an invitation, \nbut you want to create alternative plans,  "
+    } ]
+  }, {
+    "tStartMs": 839360,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "you might say, \"Hey, yeah, I \nwould love to hang out tomorrow,  "
+    } ]
+  }, {
+    "tStartMs": 843520,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "but I'm busy, but I would love to get together \nanother time. Are you free on Thursday?\" Okay,  "
+    } ]
+  }, {
+    "tStartMs": 850960,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "you can solidify another time to see each other.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 853920,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "I must say that in the US, we sometimes \ndon't have a great reputation for  "
+    } ]
+  }, {
+    "tStartMs": 859600,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "following through. So if someone says, \"Oh, I \nwould love to get together, but I can't, but  "
+    } ]
+  }, {
+    "tStartMs": 865440,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "maybe we can get together another time,\" and they \ndon't make a specific plan, don't be disappointed  "
+    } ]
+  }, {
+    "tStartMs": 871600,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "if they don't follow up and make another plan. \nSometimes we just say this to be polite to show,  "
+    } ]
+  }, {
+    "tStartMs": 878000,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "\"Hey, I still like you. It's nothing personal. I \njust can't come to that event.\" So sometimes we  "
+    } ]
+  }, {
+    "tStartMs": 883520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "say, \"Yeah, let's get together another time. \nMaybe over the summer, we can get together.\"  "
+    } ]
+  }, {
+    "tStartMs": 888400,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "And if they never call you, don't worry. It's not \npersonal. Sometimes this is kind of just part of  "
+    } ]
+  }, {
+    "tStartMs": 894640,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "American culture.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 896560,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Let's watch the final clip so that you can see \nhow we conclude our conversation in some more  "
+    } ]
+  }, {
+    "tStartMs": 901520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "wonderful daily English expressions. Let's watch.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 905520,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "That sounds good. Yeah, I'm sure we'll see you \nprobably sometime over the next week. And, yeah,  "
+    } ]
+  }, {
+    "tStartMs": 911600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "we can get together and have dinner. I mean, \nwhen you're a kid having multiple birthdays is  "
+    } ]
+  }, {
+    "tStartMs": 916800,
+    "dDurationMs": 3171,
+    "segs": [ {
+      "utf8": "the norm. You celebrate all month.\nLauren: "
+    } ]
+  }, {
+    "tStartMs": 919971,
+    "dDurationMs": 1549,
+    "segs": [ {
+      "utf8": "And also the dream.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 921520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Yeah, that's the dream. We want to keep \ncelebrating birthdays again, and again, and again.  "
+    } ]
+  }, {
+    "tStartMs": 927200,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Well, sorry you can't come, \nbut hopefully we'll see you  "
+    } ]
+  }, {
+    "tStartMs": 930080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "next week at some point.\nLauren: "
+    } ]
+  }, {
+    "tStartMs": 932720,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "That would be lovely.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 933840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Okay. Well thanks so much. Have a good morning.\nLauren: "
+    } ]
+  }, {
+    "tStartMs": 937520,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Thank you, you guys too. And please \ntell Freddie happy birthday from Lauren. "
+    } ]
+  }, {
+    "tStartMs": 941200,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Vanessa:\nI will. Thanks so much. Bye. "
+    } ]
+  }, {
+    "tStartMs": 943680,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Lauren:\nYou're welcome. Bye. "
+    } ]
+  }, {
+    "tStartMs": 945200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Vanessa:\nOh, what a bummer.  "
+    } ]
+  }, {
+    "tStartMs": 948880,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Well, we see Lauren about once a week, once every \nother week. So I'm sure we'll have plenty of time  "
+    } ]
+  }, {
+    "tStartMs": 953760,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "to celebrate, but bummer she can't come. To \nrespond to Lauren I said, \"That sounds good.  "
+    } ]
+  }, {
+    "tStartMs": 961840,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "That sounds good.\" This simply means, \"I agree. I \nthink this is a great idea.\" You can also use this  "
+    } ]
+  }, {
+    "tStartMs": 970000,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "in professional situations. If your boss says, \n\"I'd like you to finish this report by 3:00 PM.  "
+    } ]
+  }, {
+    "tStartMs": 976800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "I know you're really busy. Do you think you can \nfinish it by 3:00 PM?\" You could say, \"That sounds  "
+    } ]
+  }, {
+    "tStartMs": 981280,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "good. I can do it.\" This is agreeing and saying, \n\"Yes, this is something that I would like.\" "
+    } ]
+  }, {
+    "tStartMs": 987040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Vanessa:\nIn this clip you heard me say a really polite  "
+    } ]
+  }, {
+    "tStartMs": 990160,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "expression. \"Sorry, you can't come. Sorry, you \ncan't come.\" I'm not saying, \"All right, Lauren  "
+    } ]
+  }, {
+    "tStartMs": 997360,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "can't come. I'm excited.\" No, I want her to know \nthat I wish she could come, but you know what? Our  "
+    } ]
+  }, {
+    "tStartMs": 1003200,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "friendship's not over. It's not the end of the \nworld, but this is a polite thing to say when  "
+    } ]
+  }, {
+    "tStartMs": 1007600,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "someone declines an invitation. \"Sorry you can't \ncome, we'll miss you. Sorry you can't come...\"  "
+    } ]
+  }, {
+    "tStartMs": 1013680,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Or the next expression that we're about to talk \nabout, \"But hopefully we'll see you at some  "
+    } ]
+  }, {
+    "tStartMs": 1020080,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "point next week.\" At some point. We didn't make \nspecific plans like, \"I will see you on Tuesday.\"  "
+    } ]
+  }, {
+    "tStartMs": 1027440,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "Instead, I said at some point. Now, because Lauren \nis my close friend, I'm not trying to just say  "
+    } ]
+  }, {
+    "tStartMs": 1034880,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "something nice. Instead, we will see each other at \nsome point next week, just over that phone call.  "
+    } ]
+  }, {
+    "tStartMs": 1041280,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "We didn't make a specific plan. I'm not being the \nAmerican stereotype in that situation and pushing  "
+    } ]
+  }, {
+    "tStartMs": 1047280,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "her off. But this is a polite thing to say, \"Hey, \nwe'll get together at some point. Don't worry  "
+    } ]
+  }, {
+    "tStartMs": 1052560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "about it. Enjoy what you've got going on.\"\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 1055600,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "And the final expression I said is, \"What a \nbummer. Bummer she can't come.\" This expression,  "
+    } ]
+  }, {
+    "tStartMs": 1062000,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "what a bummer or just bummer, is a \nkind of casual or slang way to say,  "
+    } ]
+  }, {
+    "tStartMs": 1068400,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "\"That's a shame.\" Now that's a shame is pretty \nstrong. So in daily conversation for something  "
+    } ]
+  }, {
+    "tStartMs": 1074480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "like this, that's kind of light. It's not too \nserious. You can say, \"Oh, what a bummer. She  "
+    } ]
+  }, {
+    "tStartMs": 1079440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "can't come.\" Let's look at these two phrases \nbecause I want to make sure you can use each of  "
+    } ]
+  }, {
+    "tStartMs": 1083600,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "these accurately grammatically. What a bummer \nthat you can't come to Disney World with us.  "
+    } ]
+  }, {
+    "tStartMs": 1090160,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Or, bummer that you can't come to Disney World \nwith us. You can use just the word bummer,  "
+    } ]
+  }, {
+    "tStartMs": 1096400,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "or you can say what a bummer you can't come \nto Disney World with us. We'll miss you. "
+    } ]
+  }, {
+    "tStartMs": 1101040,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Vanessa:\nSo by any chance, did you  "
+    } ]
+  }, {
+    "tStartMs": 1104080,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "learn how to accept and decline an invitation in \nEnglish during today's lesson? I hope so. Don't  "
+    } ]
+  }, {
+    "tStartMs": 1111040,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "forget to download the free PDF worksheet that \ngoes with today's lesson so that you can accept  "
+    } ]
+  }, {
+    "tStartMs": 1116720,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "and decline an invitation in English naturally \nand politely. There's a link in the description  "
+    } ]
+  }, {
+    "tStartMs": 1122240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "so that you can download the PDF today.\nVanessa: "
+    } ]
+  }, {
+    "tStartMs": 1124640,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And now I have a question for you. Are you \nfree this weekend to come to my son's birthday  "
+    } ]
+  }, {
+    "tStartMs": 1129600,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "party? Let me know in the comments. You can \naccept or decline my invitation and you can  "
+    } ]
+  }, {
+    "tStartMs": 1135680,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "practice what you've learned today. Well, \nthank you so much for learning English with  "
+    } ]
+  }, {
+    "tStartMs": 1138960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "me and I'll see you again next Friday for a \nnew lesson here on my YouTube channel. Bye. "
+    } ]
+  }, {
+    "tStartMs": 1144160,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Vanessa:\nThe next step is  "
+    } ]
+  }, {
+    "tStartMs": 1145840,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "to download the free PDF worksheet for this \nlesson. With this free PDF, you will master  "
+    } ]
+  }, {
+    "tStartMs": 1152720,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "today's lesson and never forget what you have \nlearned. You can be a confident English speaker.  "
+    } ]
+  }, {
+    "tStartMs": 1159600,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Don't forget to subscribe to my YouTube channel \nfor a free English lesson every Friday. Bye."
+    } ]
+  } ]
+}

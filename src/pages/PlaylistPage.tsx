@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
-import { useParams, Link } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import ReactPlayer from 'react-player'
 import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, PlayCircle, X, StickyNote, Plus, Trash2 } from 'lucide-react'
-import { UserButton } from '@/components/UserButton'
+import { AppHeader } from '@/components/AppHeader'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
 import { pickQuizWord, maskText } from '@/utils/quizWord'
@@ -12,7 +12,6 @@ import { loadVideos } from '@/services/videos'
 import { useAuth } from '@/context/AuthContext'
 import { useQuizMode } from '@/hooks/useQuizMode'
 import { useWatchTime } from '@/hooks/useWatchTime'
-import { useViewHistory } from '@/hooks/useViewHistory'
 import { useVideoProgress } from '@/hooks/useVideoProgress'
 import { useVideoNotes } from '@/hooks/useVideoNotes'
 import { QuizModal } from '@/components/QuizModal'
@@ -51,8 +50,7 @@ export default function PlaylistPage() {
 
   const quiz = useQuizMode()
   const currentVideo = videos[currentIdx] ?? null
-  const watchTime = useWatchTime(user?.sub, currentVideo?.videoId)
-  const viewHistory = useViewHistory(user?.sub, currentVideo?.videoId)
+  const watchTime = useWatchTime(user?.sub)
   const videoProgress = useVideoProgress(user?.sub, currentVideo?.videoId)
   const { notes, addNote, removeNote } = useVideoNotes(user?.sub, currentVideo?.videoId)
 
@@ -222,17 +220,10 @@ export default function PlaylistPage() {
 
   return (
     <div className="flex flex-col h-screen bg-background overflow-hidden">
-      {/* Header — same style as all other app pages */}
-      <header className="border-b border-border bg-card shrink-0">
-        <div className="px-4 h-12 flex items-center gap-2">
-          <Link to="/" className="font-semibold text-sm hover:text-foreground transition-colors shrink-0">
-            English Learning
-          </Link>
-
-          <ChevronRight className="w-3.5 h-3.5 text-muted-foreground/50 shrink-0" />
-
-          {/* Playlist name + video selector dropdown */}
-          <div ref={dropdownRef} className="relative min-w-0">
+      <AppHeader
+        hideAddVideo
+        breadcrumb={
+          <div ref={dropdownRef} className="relative">
             <button
               onClick={() => setDropdownOpen((v) => !v)}
               className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors px-2 py-1 rounded hover:bg-accent max-w-xs"
@@ -240,7 +231,6 @@ export default function PlaylistPage() {
               <span className="truncate">{playlist?.name ?? '…'}</span>
               <ChevronDown className="w-3.5 h-3.5 shrink-0" />
             </button>
-
             {dropdownOpen && videos.length > 0 && (
               <div className="absolute top-full left-0 mt-1 w-72 rounded-lg border border-border bg-card shadow-xl py-1 z-50 max-h-80 overflow-y-auto">
                 {videos.map((video, idx) => (
@@ -263,8 +253,9 @@ export default function PlaylistPage() {
               </div>
             )}
           </div>
-
-          <div className="ml-auto flex items-center gap-1 shrink-0">
+        }
+        right={
+          <div className="flex items-center gap-1">
             <button
               onClick={quiz.toggleQuizMode}
               title={quiz.quizMode ? 'Quiz mode on — click to disable' : 'Enable quiz mode'}
@@ -276,7 +267,6 @@ export default function PlaylistPage() {
               <Brain className="w-3.5 h-3.5" />
               Quiz
             </button>
-
             <button onClick={() => jumpTo(currentIdx - 1)} disabled={currentIdx === 0}
               className="w-7 h-7 rounded flex items-center justify-center text-muted-foreground hover:text-foreground hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors">
               <ChevronLeft className="w-4 h-4" />
@@ -286,10 +276,9 @@ export default function PlaylistPage() {
               className="w-7 h-7 rounded flex items-center justify-center text-muted-foreground hover:text-foreground hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors">
               <ChevronRight className="w-4 h-4" />
             </button>
-            <div className="ml-1"><UserButton /></div>
           </div>
-        </div>
-      </header>
+        }
+      />
 
       {/* Main */}
       <div className="flex flex-1 overflow-hidden">
@@ -309,7 +298,6 @@ export default function PlaylistPage() {
                     setPlaying(true)
                     watchTime.onPlay()
                     videoProgress.onPlay()
-                    viewHistory.onFirstPlay()
                   }}
                   onPause={() => {
                     setPlaying(false)

@@ -27,17 +27,8 @@ export interface QuizAttempt {
 }
 
 export interface WatchSession {
-  userId: string
-  videoId: string
-  date: string
+  date: string     // YYYY-MM-DD
   seconds: number
-  updatedAt: string
-}
-
-export interface ViewEntry {
-  userId: string
-  videoId: string
-  viewedAt: string  // ISO timestamp of when playback started
 }
 
 export interface VideoNote {

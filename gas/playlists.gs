@@ -16,8 +16,7 @@
  *  - "playlists"      : id | name | videoIds (JSON array) | createdAt | ownerId | isSystem | isPublic
  *  - "videos"         : videoId | title | channelName | thumbnailUrl | addedAt
  *  - "quiz_results"   : userId | videoId | cueStartMs | targetWord | userAnswer | correct | answeredAt
- *  - "watch_sessions" : userId | videoId | date | seconds | updatedAt
- *  - "view_history"   : userId | videoId | viewedAt
+ *  - "watch_daily"    : userId | date (YYYY-MM-DD) | seconds  (one row/user/day, max 30 days)
  *
  * ADMIN CONFIG:
  *  Set VITE_ADMIN_EMAILS in .env.local (client-side).
@@ -49,12 +48,8 @@ function quizResultSheet() {
   return getOrCreateSheet('quiz_results', ['userId', 'videoId', 'cueStartMs', 'targetWord', 'userAnswer', 'correct', 'answeredAt']);
 }
 
-function watchSessionSheet() {
-  return getOrCreateSheet('watch_sessions', ['userId', 'videoId', 'date', 'seconds', 'updatedAt']);
-}
-
-function viewHistorySheet() {
-  return getOrCreateSheet('view_history', ['userId', 'videoId', 'viewedAt']);
+function watchDailySheet() {
+  return getOrCreateSheet('watch_daily', ['userId', 'date', 'seconds']);
 }
 
 function videoProgressSheet() {
@@ -197,41 +192,50 @@ function saveQuizAttempt(attempt) {
   ]);
 }
 
-// ── Watch session helpers ────────────────────────────────────────────────────
+// ── Watch daily helpers ──────────────────────────────────────────────────────
+// One row per user per day (max 30 days). Rows older than 30 days are pruned automatically.
 
 function incrementWatchTime(data) {
-  var sheet = watchSessionSheet();
-  var sheetData = sheet.getDataRange().getValues();
-  // Find existing row for (userId, videoId, date)
-  for (var i = 1; i < sheetData.length; i++) {
-    if (String(sheetData[i][0]) === String(data.userId) &&
-        String(sheetData[i][1]) === String(data.videoId) &&
-        String(sheetData[i][2]) === String(data.date)) {
-      var current = Number(sheetData[i][3]) || 0;
-      sheet.getRange(i + 1, 4).setValue(current + data.seconds);
-      sheet.getRange(i + 1, 5).setValue(data.updatedAt);
-      return;
+  var sheet = watchDailySheet();
+  var rows = sheet.getDataRange().getValues();
+  var userId = String(data.userId);
+  var date = String(data.date);
+
+  // Upsert: find existing row for (userId, date)
+  var found = false;
+  for (var i = 1; i < rows.length; i++) {
+    if (String(rows[i][0]) === userId && String(rows[i][1]) === date) {
+      sheet.getRange(i + 1, 3).setValue(Number(rows[i][2]) + data.seconds);
+      found = true;
+      break;
     }
   }
-  sheet.appendRow([data.userId, data.videoId, data.date, data.seconds, data.updatedAt]);
+  if (!found) {
+    sheet.appendRow([userId, date, data.seconds]);
+  }
+
+  // Prune rows for this user older than 30 days (iterate bottom-up to keep indices stable)
+  var cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 30);
+  var cutoffStr = cutoff.toISOString().slice(0, 10);
+  var rowsNow = sheet.getDataRange().getValues();
+  for (var i = rowsNow.length - 1; i >= 1; i--) {
+    if (String(rowsNow[i][0]) === userId && String(rowsNow[i][1]) < cutoffStr) {
+      sheet.deleteRow(i + 1);
+    }
+  }
 }
 
-// ── Progress data (watch + quiz for a user) ──────────────────────────────────
+// ── Progress data (watch daily + quiz for a user) ────────────────────────────
 
 function getProgressData(data) {
   var userId = String(data.userId);
 
-  var watchData = watchSessionSheet().getDataRange().getValues();
+  var watchData = watchDailySheet().getDataRange().getValues();
   var sessions = watchData.slice(1)
     .filter(function(r) { return String(r[0]) === userId; })
     .map(function(r) {
-      return {
-        userId:    String(r[0]),
-        videoId:   String(r[1]),
-        date:      String(r[2]),
-        seconds:   Number(r[3]) || 0,
-        updatedAt: String(r[4]),
-      };
+      return { date: String(r[1]), seconds: Number(r[2]) || 0 };
     });
 
   var quizData = quizResultSheet().getDataRange().getValues();
@@ -250,12 +254,6 @@ function getProgressData(data) {
     });
 
   return { sessions: sessions, quizzes: quizzes };
-}
-
-// ── View history helpers ─────────────────────────────────────────────────────
-
-function recordView(entry) {
-  viewHistorySheet().appendRow([entry.userId, entry.videoId, entry.viewedAt]);
 }
 
 // ── Video progress helpers ────────────────────────────────────────────────────
@@ -443,8 +441,6 @@ function doPost(e) {
     if (action === 'saveQuizAttempt')   { saveQuizAttempt(data); return ok(null); }
     if (action === 'incrementWatchTime'){ incrementWatchTime(data); return ok(null); }
     if (action === 'getProgressData')   return ok(getProgressData(data));
-    if (action === 'recordView')        { recordView(data); return ok(null); }
-    if (action === 'getViewHistory')    return ok(getViewHistory(data));
     if (action === 'saveVideoProgress') { saveVideoProgress(data); return ok(null); }
     if (action === 'getVideoProgress')  return ok(getVideoProgress(data));
     if (action === 'getRecentProgress') return ok(getRecentProgress(data));

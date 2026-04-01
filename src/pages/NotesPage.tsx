@@ -1,9 +1,9 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { ChevronRight, StickyNote, Search, Play, Trash2, Clock, Loader2 } from 'lucide-react'
+import { StickyNote, Search, Play, Trash2, Clock, Loader2 } from 'lucide-react'
 import { useAuth } from '@/context/AuthContext'
 import { searchNotes, deleteNote } from '@/services/googleSheets'
-import { UserButton } from '@/components/UserButton'
+import { AppHeader } from '@/components/AppHeader'
 import type { NoteWithMeta } from '@/services/googleSheets'
 
 const PAGE_SIZE = 15
@@ -102,19 +102,7 @@ export default function NotesPage() {
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
-      {/* Header */}
-      <header className="border-b border-border bg-card shrink-0">
-        <div className="px-6 py-4 flex items-center justify-between">
-          <div className="flex items-center gap-2 text-sm">
-            <Link to="/" className="text-muted-foreground hover:text-foreground transition-colors font-medium">
-              English Learning
-            </Link>
-            <ChevronRight className="w-3.5 h-3.5 text-muted-foreground" />
-            <span className="font-semibold">My Notes</span>
-          </div>
-          <UserButton />
-        </div>
-      </header>
+      <AppHeader breadcrumb="My Notes" hideAddVideo />
 
       <main className="flex-1 px-6 py-6 max-w-3xl mx-auto w-full">
         {/* ── First load spinner ── */}
