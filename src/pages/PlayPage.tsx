@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
 import { useParams, useSearchParams } from 'react-router-dom'
 import ReactPlayer from 'react-player'
-import { Brain, X, PlayCircle, StickyNote, Plus, Trash2, PanelRight } from 'lucide-react'
+import { Brain, X, PlayCircle, StickyNote, Plus, Trash2 } from 'lucide-react'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
 import { pickQuizWord, maskText } from '@/utils/quizWord'
@@ -36,7 +36,6 @@ export default function PlayPage() {
 
   const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null)
 
-  const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false)
   const [resumeDismissed, setResumeDismissed] = useState(false)
   const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes'>('captions')
   const [isAddingNote, setIsAddingNote] = useState(false)
@@ -189,35 +188,21 @@ export default function PlayPage() {
     <div className="flex flex-col h-screen bg-background overflow-hidden">
       <AppHeader
         breadcrumb={videoTitle ?? undefined}
-        right={
-          <>
-            <button
-              className="md:hidden w-8 h-8 flex items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
-              onClick={() => setMobileSidebarOpen((v) => !v)}
-              title="Captions & Notes"
-            >
-              <PanelRight className="w-4 h-4" />
-            </button>
-            <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
-          </>
-        }
+        right={<QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />}
         hideAddVideo
       />
 
-      {/* Main */}
-      <div className="flex flex-1 overflow-hidden relative">
-        {/* Video panel */}
-        <div className="flex-1 flex flex-col min-w-0 bg-black">
-          {/* Video */}
-          <div className="relative flex-1 min-h-0">
+      {/* Main — vertical stack on mobile, side-by-side on desktop */}
+      <div className="flex flex-col md:flex-row flex-1 overflow-hidden">
+        {/* Video column — fixed aspect-ratio on mobile, fills space on desktop */}
+        <div className="shrink-0 md:flex-1 flex flex-col bg-black md:min-w-0">
+          <div className="relative w-full aspect-video md:aspect-auto md:flex-1 md:min-h-0">
             <ReactPlayer
               ref={playerRef}
               src={`https://www.youtube.com/watch?v=${videoId}`}
               playing={playing}
               onTimeUpdate={handleTimeUpdate}
               onPlay={() => {
-                // Only unpin when no cue stop is pending (i.e. user-initiated play,
-                // not a seek-resume triggered by a cue click)
                 if (stopAtMsRef.current === null) setPinnedCueIdx(null)
                 setPlaying(true)
                 watchTime.onPlay()
@@ -225,11 +210,6 @@ export default function PlayPage() {
               }}
               onPause={() => {
                 setPlaying(false)
-                // Do NOT clear stopAtMsRef here — seek-induced pause events (fired
-                // asynchronously when handleCueClick seeks) must not erase the stop
-                // point that was set synchronously in the same click handler.
-                // stopAtMsRef is cleared in handleTimeUpdate (natural end) and
-                // handleSeek (user progress-bar seek).
                 watchTime.onPause()
                 videoProgress.onPause()
               }}
@@ -248,8 +228,9 @@ export default function PlayPage() {
               }}
             />
 
+            {/* Caption overlay — desktop only (captions panel is always visible on mobile) */}
             {overlayText && (
-              <div className="absolute bottom-10 left-0 right-0 flex justify-center pointer-events-none px-4" style={{ zIndex: 10 }}>
+              <div className="hidden md:flex absolute bottom-10 left-0 right-0 justify-center pointer-events-none px-4" style={{ zIndex: 10 }}>
                 <span className="bg-black/80 text-white text-xl font-medium px-4 py-2 rounded text-center leading-relaxed max-w-3xl">
                   {overlayText}
                 </span>
@@ -272,7 +253,7 @@ export default function PlayPage() {
             )}
           </div>
 
-          {/* Custom progress bar */}
+          {/* Progress bar */}
           <VideoProgressBar
             currentMs={currentMs}
             durationMs={durationMs}
@@ -281,33 +262,8 @@ export default function PlayPage() {
           />
         </div>
 
-        {/* Mobile backdrop */}
-        {mobileSidebarOpen && (
-          <div
-            className="absolute inset-0 bg-black/50 z-30 md:hidden"
-            onClick={() => setMobileSidebarOpen(false)}
-          />
-        )}
-
-        {/* Sidebar */}
-        <div className={[
-          'flex flex-col bg-card border-l border-border',
-          'absolute right-0 inset-y-0 z-40 w-[85vw] sm:w-96',
-          'transition-transform duration-200 ease-in-out',
-          'md:relative md:w-96 md:translate-x-0 md:z-auto md:inset-auto',
-          mobileSidebarOpen ? 'translate-x-0' : 'translate-x-full',
-        ].join(' ')}>
-          {/* Mobile close button */}
-          <div className="md:hidden flex items-center justify-between px-4 py-2 border-b border-border shrink-0">
-            <span className="text-xs font-medium text-muted-foreground">Captions & Notes</span>
-            <button
-              onClick={() => setMobileSidebarOpen(false)}
-              className="w-7 h-7 flex items-center justify-center rounded hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
-            >
-              <X className="w-4 h-4" />
-            </button>
-          </div>
-
+        {/* Sidebar — always visible below video on mobile, on right on desktop */}
+        <div className="flex-1 md:flex-none md:w-96 flex flex-col bg-card border-t md:border-t-0 md:border-l border-border overflow-hidden min-h-0">
           {/* Sidebar tabs */}
           <div className="flex border-b border-border shrink-0">
             <SidebarTab active={sidebarTab === 'captions'} onClick={() => setSidebarTab('captions')}>

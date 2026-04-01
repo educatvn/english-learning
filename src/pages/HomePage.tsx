@@ -488,10 +488,10 @@ function ContinueLearningBanner({ progress, video }: { progress: VideoProgress; 
   return (
     <Link
       to={`/play/${video.videoId}?t=${progress.positionMs}`}
-      className="group flex items-center gap-4 p-3 rounded-xl border border-border bg-card hover:border-foreground/20 hover:shadow-sm transition-all"
+      className="group flex items-center gap-3 p-3 rounded-xl border border-border bg-card hover:border-foreground/20 hover:shadow-sm transition-all"
     >
       {/* Thumbnail */}
-      <div className="relative shrink-0 w-32 rounded-lg aspect-video bg-muted overflow-hidden">
+      <div className="relative shrink-0 w-24 sm:w-32 rounded-lg aspect-video bg-muted overflow-hidden">
         <img
           src={video.thumbnailUrl}
           alt={video.title}
@@ -522,7 +522,7 @@ function ContinueLearningBanner({ progress, video }: { progress: VideoProgress; 
       </div>
 
       {/* CTA */}
-      <div className="shrink-0 h-8 px-4 rounded-lg bg-primary text-primary-foreground text-xs font-medium flex items-center gap-1.5 group-hover:bg-primary/90 transition-colors">
+      <div className="hidden sm:flex shrink-0 h-8 px-4 rounded-lg bg-primary text-primary-foreground text-xs font-medium items-center gap-1.5 group-hover:bg-primary/90 transition-colors">
         <Play className="w-3 h-3" /> Resume
       </div>
     </Link>
