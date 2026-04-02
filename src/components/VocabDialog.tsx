@@ -28,6 +28,7 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
   const [definition, setDefinition] = useState<string | null>(null)
   const [adding, setAdding] = useState(false)
   const [added, setAdded] = useState(isSaved)
+  const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
     fetchDefinition(word).then(setDefinition).catch(() => setDefinition(''))
@@ -42,10 +43,16 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
 
   async function handleAdd() {
     setAdding(true)
-    await onAdd(word, definition ?? '')
-    setAdded(true)
-    setAdding(false)
-    setTimeout(onClose, 800)
+    setError(null)
+    try {
+      await onAdd(word, definition ?? '')
+      setAdded(true)
+      setTimeout(onClose, 800)
+    } catch (e) {
+      setError(e instanceof Error ? e.message : 'Failed to save. Please try again.')
+    } finally {
+      setAdding(false)
+    }
   }
 
   return (
@@ -92,6 +99,11 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
             "{highlightWord(sourceText, word)}"
           </p>
         </div>
+
+        {/* Error */}
+        {error && (
+          <p className="text-xs text-destructive bg-destructive/10 rounded-lg px-3 py-2">{error}</p>
+        )}
 
         {/* CTA */}
         <button

@@ -290,10 +290,10 @@ export default function PlayPage() {
               }}
             />
 
-            {/* Caption overlay */}
+            {/* Caption overlay — desktop only */}
             {activeCue && (
               <div
-                className="absolute bottom-10 left-0 right-0 flex justify-center px-4"
+                className="absolute bottom-10 left-0 right-0 hidden md:flex justify-center px-4"
                 style={{ zIndex: 10 }}
                 onMouseEnter={handleOverlayMouseEnter}
                 onMouseLeave={handleOverlayMouseLeave}
@@ -336,6 +336,22 @@ export default function PlayPage() {
               />
             )}
           </div>
+
+          {/* Caption strip — mobile only */}
+          {activeCue && (
+            <div className="md:hidden bg-black px-4 py-2.5 shrink-0 border-t border-white/10">
+              <p className="text-white text-base font-medium text-center leading-relaxed">
+                {overlayMasked ?? (
+                  <CueText
+                    text={activeCue.text}
+                    onWordClick={handleWordClick}
+                    savedWords={vocabWords}
+                    dark
+                  />
+                )}
+              </p>
+            </div>
+          )}
 
           {/* Progress bar */}
           <VideoProgressBar
