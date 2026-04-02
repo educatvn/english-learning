@@ -1,0 +1,1993 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 5933,
+    "dDurationMs": 548,
+    "segs": [ {
+      "utf8": "Hi."
+    } ]
+  }, {
+    "tStartMs": 6564,
+    "dDurationMs": 1227,
+    "segs": [ {
+      "utf8": "Hello."
+    } ]
+  }, {
+    "tStartMs": 9634,
+    "dDurationMs": 2313,
+    "segs": [ {
+      "utf8": "Did you accept that waitressing job today?"
+    } ]
+  }, {
+    "tStartMs": 12037,
+    "dDurationMs": 3715,
+    "segs": [ {
+      "utf8": "Yes, l did. Thank you.\nHow was your day?"
+    } ]
+  }, {
+    "tStartMs": 16006,
+    "dDurationMs": 2742,
+    "segs": [ {
+      "utf8": "Oh, it was. . . normal."
+    } ]
+  }, {
+    "tStartMs": 19444,
+    "dDurationMs": 2137,
+    "segs": [ {
+      "utf8": "Did you study for your exams?"
+    } ]
+  }, {
+    "tStartMs": 22514,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Not exactly."
+    } ]
+  }, {
+    "tStartMs": 24282,
+    "dDurationMs": 1212,
+    "segs": [ {
+      "utf8": "What did you do?"
+    } ]
+  }, {
+    "tStartMs": 26217,
+    "dDurationMs": 1082,
+    "segs": [ {
+      "utf8": "l made something. . ."
+    } ]
+  }, {
+    "tStartMs": 29000,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "for you."
+    } ]
+  }, {
+    "tStartMs": 30988,
+    "dDurationMs": 516,
+    "segs": [ {
+      "utf8": "For me?"
+    } ]
+  }, {
+    "tStartMs": 33277,
+    "dDurationMs": 875,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 34558,
+    "dDurationMs": 845,
+    "segs": [ {
+      "utf8": "Open it!"
+    } ]
+  }, {
+    "tStartMs": 41753,
+    "dDurationMs": 2923,
+    "segs": [ {
+      "utf8": "lt's a drawing. . . of me!"
+    } ]
+  }, {
+    "tStartMs": 46104,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "lt's. . . You drew this?"
+    } ]
+  }, {
+    "tStartMs": 50674,
+    "dDurationMs": 1575,
+    "segs": [ {
+      "utf8": "lt's very beautiful. . ."
+    } ]
+  }, {
+    "tStartMs": 53711,
+    "dDurationMs": 1241,
+    "segs": [ {
+      "utf8": "You're very beautiful!"
+    } ]
+  }, {
+    "tStartMs": 56981,
+    "dDurationMs": 1695,
+    "segs": [ {
+      "utf8": "l'm h-o-o-o-me!"
+    } ]
+  }, {
+    "tStartMs": 59149,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Welcome back."
+    } ]
+  }, {
+    "tStartMs": 60450,
+    "dDurationMs": 1179,
+    "segs": [ {
+      "utf8": "Aggie, hi!"
+    } ]
+  }, {
+    "tStartMs": 62920,
+    "dDurationMs": 1107,
+    "segs": [ {
+      "utf8": "How was your trip?"
+    } ]
+  }, {
+    "tStartMs": 65022,
+    "dDurationMs": 2653,
+    "segs": [ {
+      "utf8": "We had a wonderful time!"
+    } ]
+  }, {
+    "tStartMs": 67959,
+    "dDurationMs": 1016,
+    "segs": [ {
+      "utf8": "That's good."
+    } ]
+  }, {
+    "tStartMs": 69593,
+    "dDurationMs": 1636,
+    "segs": [ {
+      "utf8": "What was Ryde like?"
+    } ]
+  }, {
+    "tStartMs": 71229,
+    "dDurationMs": 2122,
+    "segs": [ {
+      "utf8": "The place was fantastic!"
+    } ]
+  }, {
+    "tStartMs": 74399,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "What did you do there?"
+    } ]
+  }, {
+    "tStartMs": 75501,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Did you go the House?"
+    } ]
+  }, {
+    "tStartMs": 77402,
+    "dDurationMs": 2757,
+    "segs": [ {
+      "utf8": "We had a tour of the\nOsborne House, yes."
+    } ]
+  }, {
+    "tStartMs": 80159,
+    "dDurationMs": 2178,
+    "segs": [ {
+      "utf8": "And the hotel was comfortable?"
+    } ]
+  }, {
+    "tStartMs": 82340,
+    "dDurationMs": 4306,
+    "segs": [ {
+      "utf8": "Oh, yes! Harold didn't want to leave our room."
+    } ]
+  }, {
+    "tStartMs": 87611,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "l'm sure he didn't."
+    } ]
+  }, {
+    "tStartMs": 88947,
+    "dDurationMs": 1416,
+    "segs": [ {
+      "utf8": "What else did you see?"
+    } ]
+  }, {
+    "tStartMs": 90482,
+    "dDurationMs": 6572,
+    "segs": [ {
+      "utf8": "The most fantastic shops:\nceramics, craft works. . ."
+    } ]
+  }, {
+    "tStartMs": 97054,
+    "dDurationMs": 3693,
+    "segs": [ {
+      "utf8": "l got almost all of my\nChristmas shopping done."
+    } ]
+  }, {
+    "tStartMs": 102727,
+    "dDurationMs": 1818,
+    "segs": [ {
+      "utf8": "So what's been happening here?"
+    } ]
+  }, {
+    "tStartMs": 104863,
+    "dDurationMs": 1052,
+    "segs": [ {
+      "utf8": "What's new?"
+    } ]
+  }, {
+    "tStartMs": 106697,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "- Nothing!\n- Nothing!"
+    } ]
+  }, {
+    "tStartMs": 109167,
+    "dDurationMs": 2126,
+    "segs": [ {
+      "utf8": "l see. . ."
+    } ]
+  }, {
+    "tStartMs": 113456,
+    "dDurationMs": 1558,
+    "segs": [ {
+      "utf8": "Agatha are you, Ok?"
+    } ]
+  }, {
+    "tStartMs": 115424,
+    "dDurationMs": 1493,
+    "segs": [ {
+      "utf8": "You seem a little sad."
+    } ]
+  }, {
+    "tStartMs": 118161,
+    "dDurationMs": 5004,
+    "segs": [ {
+      "utf8": "Well, l rearrange the furniture, but l\nalways feel sad when l leave Harold."
+    } ]
+  }, {
+    "tStartMs": 124166,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "l know what you need. . ."
+    } ]
+  }, {
+    "tStartMs": 126535,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "To have a shower?"
+    } ]
+  }, {
+    "tStartMs": 128471,
+    "dDurationMs": 1712,
+    "segs": [ {
+      "utf8": "No, you need to have a break."
+    } ]
+  }, {
+    "tStartMs": 130472,
+    "dDurationMs": 2712,
+    "segs": [ {
+      "utf8": "A few days away at a beauty farm."
+    } ]
+  }, {
+    "tStartMs": 133975,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "That's a good idea, Victor.\nAre you doing anything tomorrow?"
+    } ]
+  }, {
+    "tStartMs": 137832,
+    "dDurationMs": 4803,
+    "segs": [ {
+      "utf8": "Well, l... l haven't got anything planned.\nl'm not doing anything special."
+    } ]
+  }, {
+    "tStartMs": 142635,
+    "dDurationMs": 3375,
+    "segs": [ {
+      "utf8": "l think l'll send you to the Burbank's\nbeauty farm in Somerset!"
+    } ]
+  }, {
+    "tStartMs": 146955,
+    "dDurationMs": 4482,
+    "segs": [ {
+      "utf8": "Well, l. . . Oh, but who is going to look\nafter this place while l'm away?"
+    } ]
+  }, {
+    "tStartMs": 151627,
+    "dDurationMs": 7116,
+    "segs": [ {
+      "utf8": "l've got to clean the oven, vacuum the\ncarpets, wash the curtains. . . and then\nthere's ironing to be done."
+    } ]
+  }, {
+    "tStartMs": 158883,
+    "dDurationMs": 2029,
+    "segs": [ {
+      "utf8": "Well, Agatha, l'll do that for you."
+    } ]
+  }, {
+    "tStartMs": 161570,
+    "dDurationMs": 4731,
+    "segs": [ {
+      "utf8": "Oh, but you don't know where l keep\nthe mop, the vacuum cleaner, the iron."
+    } ]
+  }, {
+    "tStartMs": 166442,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Come on Agatha, l know!\nl live here, remember?"
+    } ]
+  }, {
+    "tStartMs": 168945,
+    "dDurationMs": 3272,
+    "segs": [ {
+      "utf8": "lt's decided! Pack your bags, you're\ngoing to a beauty farm!"
+    } ]
+  }, {
+    "tStartMs": 172682,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "Well, Ok!"
+    } ]
+  }, {
+    "tStartMs": 175183,
+    "dDurationMs": 3458,
+    "segs": [ {
+      "utf8": "Thank you. l'm going to call Betty\nnow and see if she wants to come."
+    } ]
+  }, {
+    "tStartMs": 179388,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "l'm so excited!"
+    } ]
+  }, {
+    "tStartMs": 185628,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "lt's nice being alone."
+    } ]
+  }, {
+    "tStartMs": 188197,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Yes, just the 2 of us."
+    } ]
+  }, {
+    "tStartMs": 190932,
+    "dDurationMs": 1086,
+    "segs": [ {
+      "utf8": "What shall we do?"
+    } ]
+  }, {
+    "tStartMs": 193269,
+    "dDurationMs": 1197,
+    "segs": [ {
+      "utf8": "l can move a little closer..."
+    } ]
+  }, {
+    "tStartMs": 195104,
+    "dDurationMs": 2385,
+    "segs": [ {
+      "utf8": "But we promised Agatha\nwe would clean the house."
+    } ]
+  }, {
+    "tStartMs": 198573,
+    "dDurationMs": 1791,
+    "segs": [ {
+      "utf8": "Well, we can do it very quickly. . ."
+    } ]
+  }, {
+    "tStartMs": 200942,
+    "dDurationMs": 2722,
+    "segs": [ {
+      "utf8": "And l'd like to change some of the\nfurniture while Agatha is away."
+    } ]
+  }, {
+    "tStartMs": 203664,
+    "dDurationMs": 2751,
+    "segs": [ {
+      "utf8": "She changes things without asking\nme, and l'd like this house to..."
+    } ]
+  }, {
+    "tStartMs": 206415,
+    "dDurationMs": 3426,
+    "segs": [ {
+      "utf8": "to say something about me, it's\nnot just Agatha's house!"
+    } ]
+  }, {
+    "tStartMs": 209841,
+    "dDurationMs": 597,
+    "segs": [ {
+      "utf8": "Right!"
+    } ]
+  }, {
+    "tStartMs": 211554,
+    "dDurationMs": 2482,
+    "segs": [ {
+      "utf8": "Ok. The chores now."
+    } ]
+  }, {
+    "tStartMs": 214757,
+    "dDurationMs": 2011,
+    "segs": [ {
+      "utf8": "Chores? What are 'chores'?"
+    } ]
+  }, {
+    "tStartMs": 217626,
+    "dDurationMs": 3187,
+    "segs": [ {
+      "utf8": "Chores are the little jobs around the\nhouse that we need to do."
+    } ]
+  }, {
+    "tStartMs": 221129,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Oh, l see. . ."
+    } ]
+  }, {
+    "tStartMs": 222164,
+    "dDurationMs": 4673,
+    "segs": [ {
+      "utf8": "Remember? Sweeping the floor,\ndusting the furniture, doing the shopping."
+    } ]
+  }, {
+    "tStartMs": 227413,
+    "dDurationMs": 2573,
+    "segs": [ {
+      "utf8": "l love shopping\nbut that's not a chore."
+    } ]
+  }, {
+    "tStartMs": 230805,
+    "dDurationMs": 2857,
+    "segs": [ {
+      "utf8": "Doing the shopping is very\ndifferent from going shopping."
+    } ]
+  }, {
+    "tStartMs": 234277,
+    "dDurationMs": 1714,
+    "segs": [ {
+      "utf8": "Doing the shopping is food shopping."
+    } ]
+  }, {
+    "tStartMs": 236311,
+    "dDurationMs": 3904,
+    "segs": [ {
+      "utf8": "Oh, that reminds me. l have to go to the\nsupermarket to get some housekeeping things."
+    } ]
+  }, {
+    "tStartMs": 240216,
+    "dDurationMs": 1274,
+    "segs": [ {
+      "utf8": "Do you need anything?"
+    } ]
+  }, {
+    "tStartMs": 241551,
+    "dDurationMs": 2891,
+    "segs": [ {
+      "utf8": "No. l'll stay here and\nstart vacuuming."
+    } ]
+  }, {
+    "tStartMs": 244987,
+    "dDurationMs": 3005,
+    "segs": [ {
+      "utf8": "Oh, great. l'll be back in half an hour."
+    } ]
+  }, {
+    "tStartMs": 248558,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Are you sure we don't need any\nspecial ingredients for dinner tonight?"
+    } ]
+  }, {
+    "tStartMs": 252143,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "No, Chang is bringing something from\nthe international food store later."
+    } ]
+  }, {
+    "tStartMs": 256131,
+    "dDurationMs": 1516,
+    "segs": [ {
+      "utf8": "Not that Chang again. . ."
+    } ]
+  }, {
+    "tStartMs": 259735,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 261102,
+    "dDurationMs": 1002,
+    "segs": [ {
+      "utf8": "Good. l'll...\nl'll see you later."
+    } ]
+  }, {
+    "tStartMs": 262104,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 262971,
+    "dDurationMs": 1172,
+    "segs": [ {
+      "utf8": "- Bye.\n- Bye, see you!"
+    } ]
+  }, {
+    "tStartMs": 265437,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Here's the tea."
+    } ]
+  }, {
+    "tStartMs": 266639,
+    "dDurationMs": 1089,
+    "segs": [ {
+      "utf8": "Can you pass me the mug?"
+    } ]
+  }, {
+    "tStartMs": 274146,
+    "dDurationMs": 3153,
+    "segs": [ {
+      "utf8": "Now tell me all about the beauty centre."
+    } ]
+  }, {
+    "tStartMs": 277515,
+    "dDurationMs": 4085,
+    "segs": [ {
+      "utf8": "Oh, marvellous!\nlt was a wonderful idea!"
+    } ]
+  }, {
+    "tStartMs": 282188,
+    "dDurationMs": 6197,
+    "segs": [ {
+      "utf8": "The mud treatment was good for my skin,\nand the thermal baths were so relaxing."
+    } ]
+  }, {
+    "tStartMs": 288385,
+    "dDurationMs": 1576,
+    "segs": [ {
+      "utf8": "You should try it."
+    } ]
+  }, {
+    "tStartMs": 289961,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Did you have a massage?"
+    } ]
+  }, {
+    "tStartMs": 291429,
+    "dDurationMs": 3424,
+    "segs": [ {
+      "utf8": "Massages and aromatherapy in all the rooms."
+    } ]
+  }, {
+    "tStartMs": 294999,
+    "dDurationMs": 1229,
+    "segs": [ {
+      "utf8": "l feel great!"
+    } ]
+  }, {
+    "tStartMs": 297136,
+    "dDurationMs": 3191,
+    "segs": [ {
+      "utf8": "ln fact, you should go there with Victor one day."
+    } ]
+  }, {
+    "tStartMs": 300872,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "What do you think?"
+    } ]
+  }, {
+    "tStartMs": 302307,
+    "dDurationMs": 1024,
+    "segs": [ {
+      "utf8": "That's a good idea."
+    } ]
+  }, {
+    "tStartMs": 303709,
+    "dDurationMs": 2195,
+    "segs": [ {
+      "utf8": "So it's not only for women."
+    } ]
+  }, {
+    "tStartMs": 305904,
+    "dDurationMs": 2122,
+    "segs": [ {
+      "utf8": "No, lots of men go there."
+    } ]
+  }, {
+    "tStartMs": 308280,
+    "dDurationMs": 3697,
+    "segs": [ {
+      "utf8": "lt's a wellness centre and a fitness centre, too."
+    } ]
+  }, {
+    "tStartMs": 312718,
+    "dDurationMs": 1884,
+    "segs": [ {
+      "utf8": "l think Victor would enjoy it."
+    } ]
+  }, {
+    "tStartMs": 314719,
+    "dDurationMs": 1132,
+    "segs": [ {
+      "utf8": "l'll talk to him about it."
+    } ]
+  }, {
+    "tStartMs": 318224,
+    "dDurationMs": 3228,
+    "segs": [ {
+      "utf8": "Elena, l want to ask you something."
+    } ]
+  }, {
+    "tStartMs": 322203,
+    "dDurationMs": 1525,
+    "segs": [ {
+      "utf8": "Woman to woman."
+    } ]
+  }, {
+    "tStartMs": 326264,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "Of course, woman to woman..."
+    } ]
+  }, {
+    "tStartMs": 329534,
+    "dDurationMs": 2144,
+    "segs": [ {
+      "utf8": "What do you think about Victor?"
+    } ]
+  }, {
+    "tStartMs": 332971,
+    "dDurationMs": 4432,
+    "segs": [ {
+      "utf8": "Er... well, l like Victor, he's a friend, a good friend."
+    } ]
+  }, {
+    "tStartMs": 338177,
+    "dDurationMs": 2275,
+    "segs": [ {
+      "utf8": "l mean, as a woman..."
+    } ]
+  }, {
+    "tStartMs": 341313,
+    "dDurationMs": 3662,
+    "segs": [ {
+      "utf8": "Do you think he's handsome,"
+    } ]
+  }, {
+    "tStartMs": 345551,
+    "dDurationMs": 2067,
+    "segs": [ {
+      "utf8": "well, physically attractive?"
+    } ]
+  }, {
+    "tStartMs": 349621,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Well. . . yes... he's a handsome man."
+    } ]
+  }, {
+    "tStartMs": 354459,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "Are you attracted to him?"
+    } ]
+  }, {
+    "tStartMs": 358496,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "Er, l... Yes, he... he's attractive."
+    } ]
+  }, {
+    "tStartMs": 363736,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "l... l like him."
+    } ]
+  }, {
+    "tStartMs": 365671,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "l'm a bit worried. . ."
+    } ]
+  }, {
+    "tStartMs": 368941,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Does he ever talk about his friends?"
+    } ]
+  }, {
+    "tStartMs": 372545,
+    "dDurationMs": 3436,
+    "segs": [ {
+      "utf8": "Oh yes, he often mentions\nhis friend Paul."
+    } ]
+  }, {
+    "tStartMs": 376448,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "Paul? A friend?"
+    } ]
+  }, {
+    "tStartMs": 378951,
+    "dDurationMs": 2434,
+    "segs": [ {
+      "utf8": "l've never met anyone called Paul."
+    } ]
+  }, {
+    "tStartMs": 381853,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "They go to the gym together."
+    } ]
+  }, {
+    "tStartMs": 383823,
+    "dDurationMs": 2366,
+    "segs": [ {
+      "utf8": "To the gym? What for?"
+    } ]
+  }, {
+    "tStartMs": 386858,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Exercise, swimming, you know. . ."
+    } ]
+  }, {
+    "tStartMs": 389829,
+    "dDurationMs": 2373,
+    "segs": [ {
+      "utf8": "Working out on the exercise machines."
+    } ]
+  }, {
+    "tStartMs": 393565,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "l wonder who Paul is. . ."
+    } ]
+  }, {
+    "tStartMs": 397136,
+    "dDurationMs": 1797,
+    "segs": [ {
+      "utf8": "Thanks for making the tea."
+    } ]
+  }, {
+    "tStartMs": 399438,
+    "dDurationMs": 1262,
+    "segs": [ {
+      "utf8": "Give me a hug, dear."
+    } ]
+  }, {
+    "tStartMs": 400738,
+    "dDurationMs": 1058,
+    "segs": [ {
+      "utf8": "lt's Ok."
+    } ]
+  }, {
+    "tStartMs": 406744,
+    "dDurationMs": 1331,
+    "segs": [ {
+      "utf8": "Hi, Elena, hi Agatha!"
+    } ]
+  }, {
+    "tStartMs": 408647,
+    "dDurationMs": 1607,
+    "segs": [ {
+      "utf8": "How was your day at the beauty centre?"
+    } ]
+  }, {
+    "tStartMs": 410254,
+    "dDurationMs": 1725,
+    "segs": [ {
+      "utf8": "Oh, fine, fine!"
+    } ]
+  }, {
+    "tStartMs": 412584,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Have you just been to the gym?"
+    } ]
+  }, {
+    "tStartMs": 414686,
+    "dDurationMs": 1516,
+    "segs": [ {
+      "utf8": "Yes, how did you guess?"
+    } ]
+  }, {
+    "tStartMs": 416721,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "With Paul?"
+    } ]
+  }, {
+    "tStartMs": 419257,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "Actually yes. . ."
+    } ]
+  }, {
+    "tStartMs": 421459,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "But you don't know Paul."
+    } ]
+  }, {
+    "tStartMs": 423495,
+    "dDurationMs": 4483,
+    "segs": [ {
+      "utf8": "No, l don't, but Elena told me about him."
+    } ]
+  }, {
+    "tStartMs": 429000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "We'd love to meet him."
+    } ]
+  }, {
+    "tStartMs": 431436,
+    "dDurationMs": 2798,
+    "segs": [ {
+      "utf8": "Why don't you invite him\nto supper one evening?"
+    } ]
+  }, {
+    "tStartMs": 434273,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "l'll cook him a special meal."
+    } ]
+  }, {
+    "tStartMs": 436674,
+    "dDurationMs": 2951,
+    "segs": [ {
+      "utf8": "Of course l will. . .one of these days."
+    } ]
+  }, {
+    "tStartMs": 440813,
+    "dDurationMs": 2384,
+    "segs": [ {
+      "utf8": "So, did you like the changing\nwe did while you were away?"
+    } ]
+  }, {
+    "tStartMs": 443415,
+    "dDurationMs": 4061,
+    "segs": [ {
+      "utf8": "Yes, yes, great! Now Victor,"
+    } ]
+  }, {
+    "tStartMs": 447519,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "l suggested that you and Elena"
+    } ]
+  }, {
+    "tStartMs": 451357,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "should go to the beauty centre\ntogether one day."
+    } ]
+  }, {
+    "tStartMs": 455361,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Me? To the beauty centre!"
+    } ]
+  }, {
+    "tStartMs": 457996,
+    "dDurationMs": 2882,
+    "segs": [ {
+      "utf8": "Well, it's for men too, and there's a fitness centre."
+    } ]
+  }, {
+    "tStartMs": 461767,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "Well. . . l suppose you're right. . ."
+    } ]
+  }, {
+    "tStartMs": 464609,
+    "dDurationMs": 1872,
+    "segs": [ {
+      "utf8": "Would you like to do that Elena?"
+    } ]
+  }, {
+    "tStartMs": 467305,
+    "dDurationMs": 1992,
+    "segs": [ {
+      "utf8": "Yes, l would. l... l'd love to!"
+    } ]
+  }, {
+    "tStartMs": 471277,
+    "dDurationMs": 3107,
+    "segs": [ {
+      "utf8": "And l might invite Paul to come, too!"
+    } ]
+  }, {
+    "tStartMs": 474480,
+    "dDurationMs": 4179,
+    "segs": [ {
+      "utf8": "No, no, just the two of you!"
+    } ]
+  }, {
+    "tStartMs": 479518,
+    "dDurationMs": 1592,
+    "segs": [ {
+      "utf8": "That's the whole point!"
+    } ]
+  }, {
+    "tStartMs": 485133,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "Can you peel the potatoes?"
+    } ]
+  }, {
+    "tStartMs": 487101,
+    "dDurationMs": 1288,
+    "segs": [ {
+      "utf8": "Did you buy the steak?"
+    } ]
+  }, {
+    "tStartMs": 489104,
+    "dDurationMs": 2568,
+    "segs": [ {
+      "utf8": "l'm starving.\nSteak and potatoes for me!"
+    } ]
+  }, {
+    "tStartMs": 491672,
+    "dDurationMs": 1993,
+    "segs": [ {
+      "utf8": "Victor! Forget the potatoes!"
+    } ]
+  }, {
+    "tStartMs": 494408,
+    "dDurationMs": 1305,
+    "segs": [ {
+      "utf8": "We have to talk."
+    } ]
+  }, {
+    "tStartMs": 497279,
+    "dDurationMs": 4138,
+    "segs": [ {
+      "utf8": "You really should spend\nmore time socialising."
+    } ]
+  }, {
+    "tStartMs": 501916,
+    "dDurationMs": 3382,
+    "segs": [ {
+      "utf8": "You must get out more.\nGo to the movies or something."
+    } ]
+  }, {
+    "tStartMs": 505553,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "But l have to prepare for my exams."
+    } ]
+  }, {
+    "tStartMs": 507922,
+    "dDurationMs": 3251,
+    "segs": [ {
+      "utf8": "Well, you can study during the week,\nnot at the weekends."
+    } ]
+  }, {
+    "tStartMs": 511760,
+    "dDurationMs": 5533,
+    "segs": [ {
+      "utf8": "You must dedicate more free time to seeing\nyour friends, and making new friends."
+    } ]
+  }, {
+    "tStartMs": 517398,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "Like my new friend, Paul?"
+    } ]
+  }, {
+    "tStartMs": 519434,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "No, no, l didn't mean him."
+    } ]
+  }, {
+    "tStartMs": 522536,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "You should take Elena out with you."
+    } ]
+  }, {
+    "tStartMs": 526074,
+    "dDurationMs": 2218,
+    "segs": [ {
+      "utf8": "She could practice her English."
+    } ]
+  }, {
+    "tStartMs": 528709,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "Well, l have to study a lot.\nlt's my final year."
+    } ]
+  }, {
+    "tStartMs": 531420,
+    "dDurationMs": 3123,
+    "segs": [ {
+      "utf8": "l can't remember the last time\nyou went out with a girl."
+    } ]
+  }, {
+    "tStartMs": 535383,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "You're not ugly, Victor."
+    } ]
+  }, {
+    "tStartMs": 537218,
+    "dDurationMs": 1951,
+    "segs": [ {
+      "utf8": "You do attract women's attention."
+    } ]
+  }, {
+    "tStartMs": 539453,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "l can't understand it."
+    } ]
+  }, {
+    "tStartMs": 542056,
+    "dDurationMs": 3538,
+    "segs": [ {
+      "utf8": "and you don't have to tell me if you don't want to..."
+    } ]
+  }, {
+    "tStartMs": 546428,
+    "dDurationMs": 3289,
+    "segs": [ {
+      "utf8": "Thanks for that.\nWhere's the butter for frying?"
+    } ]
+  }, {
+    "tStartMs": 551098,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "You don't need all that butter."
+    } ]
+  }, {
+    "tStartMs": 553568,
+    "dDurationMs": 2728,
+    "segs": [ {
+      "utf8": "You should use olive oil instead. lt's better for you."
+    } ]
+  }, {
+    "tStartMs": 556505,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "l read an article in the newspaper\nabout depression and the foods we eat."
+    } ]
+  }, {
+    "tStartMs": 560809,
+    "dDurationMs": 5279,
+    "segs": [ {
+      "utf8": "What we eat affects our personality\nand how we react to others."
+    } ]
+  }, {
+    "tStartMs": 566214,
+    "dDurationMs": 2882,
+    "segs": [ {
+      "utf8": "l know. lf l don't eat, l'm not a nice person!"
+    } ]
+  }, {
+    "tStartMs": 569250,
+    "dDurationMs": 1939,
+    "segs": [ {
+      "utf8": "Ok, l can't live on meat alone!"
+    } ]
+  }, {
+    "tStartMs": 571520,
+    "dDurationMs": 5546,
+    "segs": [ {
+      "utf8": "There are the food groups: breads,\ncereals, rice and pasta, poultry and fish. . ."
+    } ]
+  }, {
+    "tStartMs": 577491,
+    "dDurationMs": 4562,
+    "segs": [ {
+      "utf8": "And you can't exclude eggs,\nvegetables, fruits, beans, milk. . ."
+    } ]
+  }, {
+    "tStartMs": 582096,
+    "dDurationMs": 1059,
+    "segs": [ {
+      "utf8": "Yes, yes. . ."
+    } ]
+  }, {
+    "tStartMs": 583932,
+    "dDurationMs": 1729,
+    "segs": [ {
+      "utf8": "You use too much butter."
+    } ]
+  }, {
+    "tStartMs": 586101,
+    "dDurationMs": 3697,
+    "segs": [ {
+      "utf8": "You don't have to give up your\nbutter and chocolate biscuits"
+    } ]
+  }, {
+    "tStartMs": 590104,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "l'm just saying you should use less."
+    } ]
+  }, {
+    "tStartMs": 593307,
+    "dDurationMs": 4062,
+    "segs": [ {
+      "utf8": "lt will help you to stay healthy and fit,\nand that's a good thing, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 597369,
+    "dDurationMs": 620,
+    "segs": [ {
+      "utf8": "Sure!"
+    } ]
+  }, {
+    "tStartMs": 598512,
+    "dDurationMs": 3038,
+    "segs": [ {
+      "utf8": "But you have to eat more\nvegetables."
+    } ]
+  }, {
+    "tStartMs": 601550,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "They're an important source of vitamins..."
+    } ]
+  }, {
+    "tStartMs": 603751,
+    "dDurationMs": 2293,
+    "segs": [ {
+      "utf8": "l always have tomatoes and olives on my pizza!"
+    } ]
+  }, {
+    "tStartMs": 606741,
+    "dDurationMs": 2124,
+    "segs": [ {
+      "utf8": "Oh dear, l can't help you!"
+    } ]
+  }, {
+    "tStartMs": 609824,
+    "dDurationMs": 2611,
+    "segs": [ {
+      "utf8": "You should go to a doctor\nand have a check up."
+    } ]
+  }, {
+    "tStartMs": 612435,
+    "dDurationMs": 3195,
+    "segs": [ {
+      "utf8": "That's enough. l can't take it anymore."
+    } ]
+  }, {
+    "tStartMs": 615864,
+    "dDurationMs": 2318,
+    "segs": [ {
+      "utf8": "You have to stop trying\nto control my life."
+    } ]
+  }, {
+    "tStartMs": 618834,
+    "dDurationMs": 1822,
+    "segs": [ {
+      "utf8": "You should respect my life\nand how l live it."
+    } ]
+  }, {
+    "tStartMs": 620901,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "l'm sorry, l just think that\nyou should do things. . ."
+    } ]
+  }, {
+    "tStartMs": 624605,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "You should...You shouldn't..."
+    } ]
+  }, {
+    "tStartMs": 626174,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "You can't...You must...\nYou mustn't..."
+    } ]
+  }, {
+    "tStartMs": 628143,
+    "dDurationMs": 2594,
+    "segs": [ {
+      "utf8": "Not everyone is like you Agatha.\nThank goodness!"
+    } ]
+  }, {
+    "tStartMs": 630846,
+    "dDurationMs": 2095,
+    "segs": [ {
+      "utf8": "l don't have to explain\nmy lifestyle to you. . ."
+    } ]
+  }, {
+    "tStartMs": 634316,
+    "dDurationMs": 898,
+    "segs": [ {
+      "utf8": "Oh dear,"
+    } ]
+  }, {
+    "tStartMs": 638919,
+    "dDurationMs": 1171,
+    "segs": [ {
+      "utf8": "What have l done?"
+    } ]
+  }, {
+    "tStartMs": 641523,
+    "dDurationMs": 1866,
+    "segs": [ {
+      "utf8": "Did l offend him?"
+    } ]
+  }, {
+    "tStartMs": 651168,
+    "dDurationMs": 1303,
+    "segs": [ {
+      "utf8": "Why do you have those bags?"
+    } ]
+  }, {
+    "tStartMs": 654238,
+    "dDurationMs": 1881,
+    "segs": [ {
+      "utf8": "Where are you going, Agatha?"
+    } ]
+  }, {
+    "tStartMs": 657140,
+    "dDurationMs": 3182,
+    "segs": [ {
+      "utf8": "l've already decided. l'm moving out."
+    } ]
+  }, {
+    "tStartMs": 661378,
+    "dDurationMs": 4541,
+    "segs": [ {
+      "utf8": "What? Now? You're leaving now?"
+    } ]
+  }, {
+    "tStartMs": 666015,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Where are you going?"
+    } ]
+  }, {
+    "tStartMs": 667718,
+    "dDurationMs": 1328,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 669046,
+    "dDurationMs": 2148,
+    "segs": [ {
+      "utf8": "What has happened?\nWhy are you moving out?"
+    } ]
+  }, {
+    "tStartMs": 671654,
+    "dDurationMs": 2038,
+    "segs": [ {
+      "utf8": "l don't want to disturb anyone."
+    } ]
+  }, {
+    "tStartMs": 674425,
+    "dDurationMs": 5368,
+    "segs": [ {
+      "utf8": "l think Victor and l need\nto lead separate lives."
+    } ]
+  }, {
+    "tStartMs": 681331,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "Victor needs his freedom."
+    } ]
+  }, {
+    "tStartMs": 687337,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "l'm so upset."
+    } ]
+  }, {
+    "tStartMs": 692376,
+    "dDurationMs": 3591,
+    "segs": [ {
+      "utf8": "Not everyone has the same character."
+    } ]
+  }, {
+    "tStartMs": 696580,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "Elena, you're timid and shy,\nVictor's more reserved,"
+    } ]
+  }, {
+    "tStartMs": 703453,
+    "dDurationMs": 4563,
+    "segs": [ {
+      "utf8": "not everyone is sociable and outgoing like me."
+    } ]
+  }, {
+    "tStartMs": 709759,
+    "dDurationMs": 1808,
+    "segs": [ {
+      "utf8": "l'm too demanding."
+    } ]
+  }, {
+    "tStartMs": 712762,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Now you're being dramatic."
+    } ]
+  }, {
+    "tStartMs": 714595,
+    "dDurationMs": 5274,
+    "segs": [ {
+      "utf8": "l don't fit in here. l'm leaving.\nl'm going to Betty's."
+    } ]
+  }, {
+    "tStartMs": 719970,
+    "dDurationMs": 2023,
+    "segs": [ {
+      "utf8": "Upset? Does it mean sad?"
+    } ]
+  }, {
+    "tStartMs": 722839,
+    "dDurationMs": 3531,
+    "segs": [ {
+      "utf8": "Yes, a combination of sad and angry."
+    } ]
+  }, {
+    "tStartMs": 727011,
+    "dDurationMs": 3824,
+    "segs": [ {
+      "utf8": "Perhaps, you didn't like the new furniture,\nVictor bought while you were away?"
+    } ]
+  }, {
+    "tStartMs": 731247,
+    "dDurationMs": 4389,
+    "segs": [ {
+      "utf8": "She said she liked the bookcase, anyway you're\nnot moving out. Don't be ridiculous."
+    } ]
+  }, {
+    "tStartMs": 735718,
+    "dDurationMs": 1142,
+    "segs": [ {
+      "utf8": "Where will you live?"
+    } ]
+  }, {
+    "tStartMs": 738054,
+    "dDurationMs": 2457,
+    "segs": [ {
+      "utf8": "l'm going to stay with Betty\nfor a few weeks."
+    } ]
+  }, {
+    "tStartMs": 741158,
+    "dDurationMs": 1651,
+    "segs": [ {
+      "utf8": "Then l'll decide."
+    } ]
+  }, {
+    "tStartMs": 743426,
+    "dDurationMs": 1508,
+    "segs": [ {
+      "utf8": "Are you two fighting?"
+    } ]
+  }, {
+    "tStartMs": 745295,
+    "dDurationMs": 4089,
+    "segs": [ {
+      "utf8": "No, well, we had an argument last night."
+    } ]
+  }, {
+    "tStartMs": 749967,
+    "dDurationMs": 3794,
+    "segs": [ {
+      "utf8": "You just have to respect other\npeople's decisions more, that's all."
+    } ]
+  }, {
+    "tStartMs": 754003,
+    "dDurationMs": 1409,
+    "segs": [ {
+      "utf8": "You don't have to move out."
+    } ]
+  }, {
+    "tStartMs": 755872,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "l think Victor is saying you just\nhave to give him more space"
+    } ]
+  }, {
+    "tStartMs": 758842,
+    "dDurationMs": 2692,
+    "segs": [ {
+      "utf8": "but you don't have to move out to do that."
+    } ]
+  }, {
+    "tStartMs": 761911,
+    "dDurationMs": 2573,
+    "segs": [ {
+      "utf8": "Agatha, it... it won't be\nthe same without you here!"
+    } ]
+  }, {
+    "tStartMs": 766149,
+    "dDurationMs": 3085,
+    "segs": [ {
+      "utf8": "lt's just... sometimes you're\nstubborn and selfish."
+    } ]
+  }, {
+    "tStartMs": 771588,
+    "dDurationMs": 1729,
+    "segs": [ {
+      "utf8": "But... but you're also very caring,"
+    } ]
+  }, {
+    "tStartMs": 774058,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "loyal, generous, funny..."
+    } ]
+  }, {
+    "tStartMs": 779463,
+    "dDurationMs": 1416,
+    "segs": [ {
+      "utf8": "Funny? Like fun?"
+    } ]
+  }, {
+    "tStartMs": 781165,
+    "dDurationMs": 5189,
+    "segs": [ {
+      "utf8": "Humorous. l'm demanding and\nbossy too, right?"
+    } ]
+  }, {
+    "tStartMs": 786770,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Listen you two. l think we all have to calm down."
+    } ]
+  }, {
+    "tStartMs": 790239,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "l don't understand all the words\nyou are using,"
+    } ]
+  }, {
+    "tStartMs": 792542,
+    "dDurationMs": 2491,
+    "segs": [ {
+      "utf8": "but insulting each other is not going to help."
+    } ]
+  }, {
+    "tStartMs": 795546,
+    "dDurationMs": 5396,
+    "segs": [ {
+      "utf8": "Victor, you have a lot to do and l am sure\nyou have been a little anxious recently."
+    } ]
+  }, {
+    "tStartMs": 803153,
+    "dDurationMs": 4386,
+    "segs": [ {
+      "utf8": "Sorry Agatha. When l'm studying for\nexams, l become very nervous."
+    } ]
+  }, {
+    "tStartMs": 807623,
+    "dDurationMs": 1531,
+    "segs": [ {
+      "utf8": "This is an important time for me."
+    } ]
+  }, {
+    "tStartMs": 810393,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "See, Agatha? He's apologizing."
+    } ]
+  }, {
+    "tStartMs": 812396,
+    "dDurationMs": 3178,
+    "segs": [ {
+      "utf8": "And l'm sure he's going to be kind\nand understanding from now on."
+    } ]
+  }, {
+    "tStartMs": 820211,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Did you get caught in the rain?"
+    } ]
+  }, {
+    "tStartMs": 822481,
+    "dDurationMs": 1151,
+    "segs": [ {
+      "utf8": "ls it still raining?"
+    } ]
+  }, {
+    "tStartMs": 824557,
+    "dDurationMs": 2296,
+    "segs": [ {
+      "utf8": "Well, l wasn't swimming in the Thames!!!"
+    } ]
+  }, {
+    "tStartMs": 830306,
+    "dDurationMs": 3676,
+    "segs": [ {
+      "utf8": "The rain started while l was riding\nback from class."
+    } ]
+  }, {
+    "tStartMs": 833982,
+    "dDurationMs": 1548,
+    "segs": [ {
+      "utf8": "lt's still raining now."
+    } ]
+  }, {
+    "tStartMs": 835944,
+    "dDurationMs": 1687,
+    "segs": [ {
+      "utf8": "This weather's terrible."
+    } ]
+  }, {
+    "tStartMs": 838147,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Come and get warm."
+    } ]
+  }, {
+    "tStartMs": 846188,
+    "dDurationMs": 1284,
+    "segs": [ {
+      "utf8": "There you go."
+    } ]
+  }, {
+    "tStartMs": 848358,
+    "dDurationMs": 1738,
+    "segs": [ {
+      "utf8": "ls Agatha home?"
+    } ]
+  }, {
+    "tStartMs": 850559,
+    "dDurationMs": 4013,
+    "segs": [ {
+      "utf8": "No, she was on her way to yoga\nwhen l came back from class."
+    } ]
+  }, {
+    "tStartMs": 855898,
+    "dDurationMs": 4519,
+    "segs": [ {
+      "utf8": "l hope you're not coming down with\na cold. Your hair's still wet."
+    } ]
+  }, {
+    "tStartMs": 860417,
+    "dDurationMs": 2498,
+    "segs": [ {
+      "utf8": "There, pass me the towel.\nl'll dry it for you."
+    } ]
+  }, {
+    "tStartMs": 864507,
+    "dDurationMs": 1808,
+    "segs": [ {
+      "utf8": "Thanks, that feels nice."
+    } ]
+  }, {
+    "tStartMs": 867209,
+    "dDurationMs": 3154,
+    "segs": [ {
+      "utf8": "Last night when l came back\nfrom work, it was also raining."
+    } ]
+  }, {
+    "tStartMs": 871381,
+    "dDurationMs": 1065,
+    "segs": [ {
+      "utf8": "That's London!"
+    } ]
+  }, {
+    "tStartMs": 873493,
+    "dDurationMs": 3229,
+    "segs": [ {
+      "utf8": "lf you move a little closer, l can\nreach the back of your head better."
+    } ]
+  }, {
+    "tStartMs": 882620,
+    "dDurationMs": 1822,
+    "segs": [ {
+      "utf8": "ANH NGU VIPS\n(youtube.com/anhnguvips)"
+    } ]
+  }, {
+    "tStartMs": 893670,
+    "dDurationMs": 2945,
+    "segs": [ {
+      "utf8": "Hey, it's just me."
+    } ]
+  }, {
+    "tStartMs": 896738,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Are you Ok?"
+    } ]
+  }, {
+    "tStartMs": 897941,
+    "dDurationMs": 5274,
+    "segs": [ {
+      "utf8": "All's well. lt's just the vase\nnear the door, that's all."
+    } ]
+  }, {
+    "tStartMs": 903412,
+    "dDurationMs": 1477,
+    "segs": [ {
+      "utf8": "l have to make a phone call."
+    } ]
+  }, {
+    "tStartMs": 905081,
+    "dDurationMs": 4885,
+    "segs": [ {
+      "utf8": "l'll do it from the other room so l\nwon't disturb you two there studying..."
+    } ]
+  }, {
+    "tStartMs": 910253,
+    "dDurationMs": 4688,
+    "segs": [ {
+      "utf8": "You don't have to. We can go upstairs. . .\nl... l can go to my bedroom."
+    } ]
+  }, {
+    "tStartMs": 914941,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "And Elena is...is better off drying\nher hair in the bathroom."
+    } ]
+  }, {
+    "tStartMs": 918527,
+    "dDurationMs": 1059,
+    "segs": [ {
+      "utf8": "Yes, of course."
+    } ]
+  }, {
+    "tStartMs": 927269,
+    "dDurationMs": 1665,
+    "segs": [ {
+      "utf8": "Oh, l have to tell Betty. . ."
+    } ]
+  }, {
+    "tStartMs": 929372,
+    "dDurationMs": 1187,
+    "segs": [ {
+      "utf8": "l can't wait!"
+    } ]
+  }, {
+    "tStartMs": 936045,
+    "dDurationMs": 3566,
+    "segs": [ {
+      "utf8": "Good morning, may l speak\nto Betty Summers, please?"
+    } ]
+  }, {
+    "tStartMs": 941684,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Betty you'll never guess. . ."
+    } ]
+  }, {
+    "tStartMs": 943987,
+    "dDurationMs": 998,
+    "segs": [ {
+      "utf8": "Betty?"
+    } ]
+  }, {
+    "tStartMs": 945688,
+    "dDurationMs": 3647,
+    "segs": [ {
+      "utf8": "Ooops sorry, wrong Betty."
+    } ]
+  }, {
+    "tStartMs": 950125,
+    "dDurationMs": 3437,
+    "segs": [ {
+      "utf8": "Could you put me through\nto Betty Summers, please?"
+    } ]
+  }, {
+    "tStartMs": 954096,
+    "dDurationMs": 3392,
+    "segs": [ {
+      "utf8": "She works in the accounts\ndepartment on the 2nd floor."
+    } ]
+  }, {
+    "tStartMs": 957666,
+    "dDurationMs": 1845,
+    "segs": [ {
+      "utf8": "Extension 566."
+    } ]
+  }, {
+    "tStartMs": 960302,
+    "dDurationMs": 1265,
+    "segs": [ {
+      "utf8": "Yes, l'll hold."
+    } ]
+  }, {
+    "tStartMs": 961567,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "Thanks."
+    } ]
+  }, {
+    "tStartMs": 964406,
+    "dDurationMs": 5419,
+    "segs": [ {
+      "utf8": "Betty, you'll never guess what my\nlittle brother was doing when l came home!"
+    } ]
+  }, {
+    "tStartMs": 971446,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "He was sitting on the sofa kissing Elena."
+    } ]
+  }, {
+    "tStartMs": 976719,
+    "dDurationMs": 4031,
+    "segs": [ {
+      "utf8": "No, no, they were definitely kissing. . ."
+    } ]
+  }, {
+    "tStartMs": 981124,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "lt wasn't just a quick kiss."
+    } ]
+  }, {
+    "tStartMs": 982925,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "They were kissing when l arrived home."
+    } ]
+  }, {
+    "tStartMs": 988862,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "Do you want green tea or black, Agatha?"
+    } ]
+  }, {
+    "tStartMs": 991194,
+    "dDurationMs": 3078,
+    "segs": [ {
+      "utf8": "Oh, green please. lt's supposed\nto be very good for you."
+    } ]
+  }, {
+    "tStartMs": 995203,
+    "dDurationMs": 2243,
+    "segs": [ {
+      "utf8": "You've never had green tea before, Agatha."
+    } ]
+  }, {
+    "tStartMs": 997739,
+    "dDurationMs": 1682,
+    "segs": [ {
+      "utf8": "You said it tastes bitter."
+    } ]
+  }, {
+    "tStartMs": 999467,
+    "dDurationMs": 1326,
+    "segs": [ {
+      "utf8": "Are you starting a new diet?"
+    } ]
+  }, {
+    "tStartMs": 1000938,
+    "dDurationMs": 3757,
+    "segs": [ {
+      "utf8": "No! l just think l need to be a little healthier."
+    } ]
+  }, {
+    "tStartMs": 1005846,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "When l was a young girl, l loved watching\nmy mother make afternoon tea."
+    } ]
+  }, {
+    "tStartMs": 1010852,
+    "dDurationMs": 4323,
+    "segs": [ {
+      "utf8": "Her grandmother taught her\nhow to make a proper pot of tea."
+    } ]
+  }, {
+    "tStartMs": 1016357,
+    "dDurationMs": 4343,
+    "segs": [ {
+      "utf8": "When we were children, Agatha\nand Betty would help mum make\nher special jam-drop biscuits."
+    } ]
+  }, {
+    "tStartMs": 1022130,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What are 'jam-drop biscuits'?"
+    } ]
+  }, {
+    "tStartMs": 1024132,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "They're biscuits which you push\nyour thumb into to leave"
+    } ]
+  }, {
+    "tStartMs": 1027135,
+    "dDurationMs": 5366,
+    "segs": [ {
+      "utf8": "a little hole to put the delicious\nhome-made strawberry jam into."
+    } ]
+  }, {
+    "tStartMs": 1033106,
+    "dDurationMs": 802,
+    "segs": [ {
+      "utf8": "Dad and l loved them."
+    } ]
+  }, {
+    "tStartMs": 1034096,
+    "dDurationMs": 4136,
+    "segs": [ {
+      "utf8": "Our cousins always had apple cakes with\ntheir tea but jam-drops were our favourite."
+    } ]
+  }, {
+    "tStartMs": 1038679,
+    "dDurationMs": 4553,
+    "segs": [ {
+      "utf8": "Although aunt Mary has always\nmade marvellous jams."
+    } ]
+  }, {
+    "tStartMs": 1046383,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Mmm... this tea's good."
+    } ]
+  }, {
+    "tStartMs": 1048188,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "Mum sent it from Manchester."
+    } ]
+  }, {
+    "tStartMs": 1050457,
+    "dDurationMs": 1865,
+    "segs": [ {
+      "utf8": "That's where our grandmother's from."
+    } ]
+  }, {
+    "tStartMs": 1052323,
+    "dDurationMs": 3925,
+    "segs": [ {
+      "utf8": "She goes often to visit relatives and\nold school friends."
+    } ]
+  }, {
+    "tStartMs": 1057431,
+    "dDurationMs": 1938,
+    "segs": [ {
+      "utf8": "Where are you two from originally?"
+    } ]
+  }, {
+    "tStartMs": 1059433,
+    "dDurationMs": 4061,
+    "segs": [ {
+      "utf8": "Well, mum's family's from\nManchester and dad's from the US."
+    } ]
+  }, {
+    "tStartMs": 1064072,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "We spent our school years living\nwith our dad's family in Arizona\nuntil he was transferred here with work."
+    } ]
+  }, {
+    "tStartMs": 1070844,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "Then we lived in a flat in Flagstaff and we used to visit our granny."
+    } ]
+  }, {
+    "tStartMs": 1075516,
+    "dDurationMs": 1227,
+    "segs": [ {
+      "utf8": "Grandmother."
+    } ]
+  }, {
+    "tStartMs": 1076743,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "On the farm in the country."
+    } ]
+  }, {
+    "tStartMs": 1080221,
+    "dDurationMs": 3527,
+    "segs": [ {
+      "utf8": "Ok guys, l've something to tell you."
+    } ]
+  }, {
+    "tStartMs": 1085359,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "l've just been to the doctor's and.."
+    } ]
+  }, {
+    "tStartMs": 1087394,
+    "dDurationMs": 1142,
+    "segs": [ {
+      "utf8": "Oh, is everything Ok?"
+    } ]
+  }, {
+    "tStartMs": 1089162,
+    "dDurationMs": 2122,
+    "segs": [ {
+      "utf8": "You have been ill a lot recently."
+    } ]
+  }, {
+    "tStartMs": 1091495,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "Have you taken those vitamin pills\nl left on the table?"
+    } ]
+  }, {
+    "tStartMs": 1093580,
+    "dDurationMs": 1945,
+    "segs": [ {
+      "utf8": "Victor,..."
+    } ]
+  }, {
+    "tStartMs": 1095903,
+    "dDurationMs": 904,
+    "segs": [ {
+      "utf8": "l'm pregnant."
+    } ]
+  }, {
+    "tStartMs": 1101308,
+    "dDurationMs": 2322,
+    "segs": [ {
+      "utf8": "How long have you known?"
+    } ]
+  }, {
+    "tStartMs": 1103978,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "Have you told Harold?"
+    } ]
+  }, {
+    "tStartMs": 1105513,
+    "dDurationMs": 2821,
+    "segs": [ {
+      "utf8": "l've just spoken to him.\nAlthough he suspected it for weeks!"
+    } ]
+  }, {
+    "tStartMs": 1108983,
+    "dDurationMs": 3637,
+    "segs": [ {
+      "utf8": "His transfer has just come through\nand he's coming back to London."
+    } ]
+  }, {
+    "tStartMs": 1112620,
+    "dDurationMs": 988,
+    "segs": [ {
+      "utf8": "For good."
+    } ]
+  }, {
+    "tStartMs": 1114454,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "That's fantastic news."
+    } ]
+  }, {
+    "tStartMs": 1118024,
+    "dDurationMs": 1202,
+    "segs": [ {
+      "utf8": "l wonder who that is."
+    } ]
+  }, {
+    "tStartMs": 1119226,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "l'll go."
+    } ]
+  }, {
+    "tStartMs": 1126701,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "Harold! Oh, what a surprise!"
+    } ]
+  } ]
+}

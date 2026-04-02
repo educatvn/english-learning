@@ -1,0 +1,2539 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3309,
+    "dDurationMs": 1338,
+    "segs": [ {
+      "utf8": "Hi, I'm Mark Ryder."
+    } ]
+  }, {
+    "tStartMs": 5015,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "You're the new marketing director."
+    } ]
+  }, {
+    "tStartMs": 7184,
+    "dDurationMs": 652,
+    "segs": [ {
+      "utf8": "That' right."
+    } ]
+  }, {
+    "tStartMs": 7861,
+    "dDurationMs": 2651,
+    "segs": [ {
+      "utf8": "I'm Nicole Delacroix.\nI'm Allie's personal assistant."
+    } ]
+  }, {
+    "tStartMs": 11052,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "Welcome to Paris."
+    } ]
+  }, {
+    "tStartMs": 12013,
+    "dDurationMs": 521,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 12534,
+    "dDurationMs": 1644,
+    "segs": [ {
+      "utf8": "I'll just tell Allie, you're here."
+    } ]
+  }, {
+    "tStartMs": 16754,
+    "dDurationMs": 2438,
+    "segs": [ {
+      "utf8": "Allie, Mark Ryder's here."
+    } ]
+  }, {
+    "tStartMs": 20286,
+    "dDurationMs": 645,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 23187,
+    "dDurationMs": 1878,
+    "segs": [ {
+      "utf8": "You're from San Francisco, aren't you?"
+    } ]
+  }, {
+    "tStartMs": 25107,
+    "dDurationMs": 852,
+    "segs": [ {
+      "utf8": "Yes, I am."
+    } ]
+  }, {
+    "tStartMs": 26010,
+    "dDurationMs": 1052,
+    "segs": [ {
+      "utf8": "Hello Mark!"
+    } ]
+  }, {
+    "tStartMs": 27062,
+    "dDurationMs": 2905,
+    "segs": [ {
+      "utf8": "Allie, it's good to see you again.\nHow are you?"
+    } ]
+  }, {
+    "tStartMs": 30211,
+    "dDurationMs": 624,
+    "segs": [ {
+      "utf8": "Very well."
+    } ]
+  }, {
+    "tStartMs": 30937,
+    "dDurationMs": 1592,
+    "segs": [ {
+      "utf8": "Did you have a good journey?"
+    } ]
+  }, {
+    "tStartMs": 32937,
+    "dDurationMs": 1455,
+    "segs": [ {
+      "utf8": "Yes, fine. No problems."
+    } ]
+  }, {
+    "tStartMs": 35717,
+    "dDurationMs": 1651,
+    "segs": [ {
+      "utf8": "Let me introduce you to the team."
+    } ]
+  }, {
+    "tStartMs": 37368,
+    "dDurationMs": 2427,
+    "segs": [ {
+      "utf8": "You've met Nicole, my\npersonal assistant."
+    } ]
+  }, {
+    "tStartMs": 39795,
+    "dDurationMs": 1124,
+    "segs": [ {
+      "utf8": "Yes, we've said hello."
+    } ]
+  }, {
+    "tStartMs": 41571,
+    "dDurationMs": 2655,
+    "segs": [ {
+      "utf8": "This is Jacques Lemaitre,\nour PR director."
+    } ]
+  }, {
+    "tStartMs": 44295,
+    "dDurationMs": 1476,
+    "segs": [ {
+      "utf8": "How do you do, Mark Ryder?"
+    } ]
+  }, {
+    "tStartMs": 45771,
+    "dDurationMs": 1025,
+    "segs": [ {
+      "utf8": "How do you do?"
+    } ]
+  }, {
+    "tStartMs": 46796,
+    "dDurationMs": 1275,
+    "segs": [ {
+      "utf8": "And this is Ben, our designer."
+    } ]
+  }, {
+    "tStartMs": 48264,
+    "dDurationMs": 1247,
+    "segs": [ {
+      "utf8": "- Hi Mark.\n- Great to meet you Ben."
+    } ]
+  }, {
+    "tStartMs": 49511,
+    "dDurationMs": 1115,
+    "segs": [ {
+      "utf8": "We've heard a lot about you."
+    } ]
+  }, {
+    "tStartMs": 50650,
+    "dDurationMs": 1512,
+    "segs": [ {
+      "utf8": "Really? Oh good, I hope"
+    } ]
+  }, {
+    "tStartMs": 52749,
+    "dDurationMs": 1773,
+    "segs": [ {
+      "utf8": "Ok. Should we go to my office?"
+    } ]
+  }, {
+    "tStartMs": 58049,
+    "dDurationMs": 972,
+    "segs": [ {
+      "utf8": "What a lovely view!"
+    } ]
+  }, {
+    "tStartMs": 59386,
+    "dDurationMs": 1792,
+    "segs": [ {
+      "utf8": "The river's beautiful, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 61689,
+    "dDurationMs": 3151,
+    "segs": [ {
+      "utf8": "Paris is so romantic.\nI can't believe we're\nhere together at last."
+    } ]
+  }, {
+    "tStartMs": 64980,
+    "dDurationMs": 1249,
+    "segs": [ {
+      "utf8": "Yes. It's weird."
+    } ]
+  }, {
+    "tStartMs": 66569,
+    "dDurationMs": 577,
+    "segs": [ {
+      "utf8": "Weird?"
+    } ]
+  }, {
+    "tStartMs": 67521,
+    "dDurationMs": 2884,
+    "segs": [ {
+      "utf8": "It's wonderful. I really missed you."
+    } ]
+  }, {
+    "tStartMs": 70405,
+    "dDurationMs": 995,
+    "segs": [ {
+      "utf8": "Me, too."
+    } ]
+  }, {
+    "tStartMs": 72723,
+    "dDurationMs": 778,
+    "segs": [ {
+      "utf8": "Why don't we sit down?"
+    } ]
+  }, {
+    "tStartMs": 79900,
+    "dDurationMs": 1224,
+    "segs": [ {
+      "utf8": "So did you like the office?"
+    } ]
+  }, {
+    "tStartMs": 81124,
+    "dDurationMs": 1355,
+    "segs": [ {
+      "utf8": "Yes, it's great."
+    } ]
+  }, {
+    "tStartMs": 83181,
+    "dDurationMs": 1383,
+    "segs": [ {
+      "utf8": "How do you get out with everyone?"
+    } ]
+  }, {
+    "tStartMs": 84564,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Ok, but we'll see.\nI've only been here 3 weeks."
+    } ]
+  }, {
+    "tStartMs": 88758,
+    "dDurationMs": 1193,
+    "segs": [ {
+      "utf8": "What did you think of them?"
+    } ]
+  }, {
+    "tStartMs": 90190,
+    "dDurationMs": 1985,
+    "segs": [ {
+      "utf8": "Oh, I thought shock was very nice."
+    } ]
+  }, {
+    "tStartMs": 92228,
+    "dDurationMs": 681,
+    "segs": [ {
+      "utf8": "And Nicole."
+    } ]
+  }, {
+    "tStartMs": 93272,
+    "dDurationMs": 1087,
+    "segs": [ {
+      "utf8": "What about Nicole?"
+    } ]
+  }, {
+    "tStartMs": 95573,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "She was very friendly."
+    } ]
+  }, {
+    "tStartMs": 99207,
+    "dDurationMs": 1809,
+    "segs": [ {
+      "utf8": "You know we have to keep things secret."
+    } ]
+  }, {
+    "tStartMs": 101867,
+    "dDurationMs": 671,
+    "segs": [ {
+      "utf8": "What're they?"
+    } ]
+  }, {
+    "tStartMs": 103083,
+    "dDurationMs": 3035,
+    "segs": [ {
+      "utf8": "You know, us, our relationship."
+    } ]
+  }, {
+    "tStartMs": 106697,
+    "dDurationMs": 2637,
+    "segs": [ {
+      "utf8": "I don't want the people in the\noffice to know we're together."
+    } ]
+  }, {
+    "tStartMs": 109407,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "No, of course not."
+    } ]
+  }, {
+    "tStartMs": 111090,
+    "dDurationMs": 1449,
+    "segs": [ {
+      "utf8": "But it isn't going to be easy."
+    } ]
+  }, {
+    "tStartMs": 112899,
+    "dDurationMs": 1243,
+    "segs": [ {
+      "utf8": "No, it isn't."
+    } ]
+  }, {
+    "tStartMs": 115990,
+    "dDurationMs": 926,
+    "segs": [ {
+      "utf8": "How's the hotel?"
+    } ]
+  }, {
+    "tStartMs": 117433,
+    "dDurationMs": 1245,
+    "segs": [ {
+      "utf8": "Well it's ok, I guess."
+    } ]
+  }, {
+    "tStartMs": 118678,
+    "dDurationMs": 3449,
+    "segs": [ {
+      "utf8": "But it's not like I'm having my\nown place I have to find an apartment."
+    } ]
+  }, {
+    "tStartMs": 122855,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Don't worry, won't take you long."
+    } ]
+  }, {
+    "tStartMs": 128015,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "What are you thinking?"
+    } ]
+  }, {
+    "tStartMs": 130700,
+    "dDurationMs": 1071,
+    "segs": [ {
+      "utf8": "Do you really want to know?"
+    } ]
+  }, {
+    "tStartMs": 132960,
+    "dDurationMs": 2582,
+    "segs": [ {
+      "utf8": "I was wondering what\nkind of boss you'll be."
+    } ]
+  }, {
+    "tStartMs": 136075,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "Well, you'll find out tomorrow."
+    } ]
+  }, {
+    "tStartMs": 144285,
+    "dDurationMs": 3162,
+    "segs": [ {
+      "utf8": "Mark, would you mind sending\nme those concept dates?"
+    } ]
+  }, {
+    "tStartMs": 147447,
+    "dDurationMs": 882,
+    "segs": [ {
+      "utf8": "Of course not."
+    } ]
+  }, {
+    "tStartMs": 153684,
+    "dDurationMs": 2286,
+    "segs": [ {
+      "utf8": "Ben, are you busy?"
+    } ]
+  }, {
+    "tStartMs": 156329,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Me?"
+    } ]
+  }, {
+    "tStartMs": 157478,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Never."
+    } ]
+  }, {
+    "tStartMs": 158658,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Could you help me?"
+    } ]
+  }, {
+    "tStartMs": 160353,
+    "dDurationMs": 1739,
+    "segs": [ {
+      "utf8": "I can't open this document."
+    } ]
+  }, {
+    "tStartMs": 162642,
+    "dDurationMs": 1011,
+    "segs": [ {
+      "utf8": "Sure"
+    } ]
+  }, {
+    "tStartMs": 163653,
+    "dDurationMs": 679,
+    "segs": [ {
+      "utf8": "Thanks."
+    } ]
+  }, {
+    "tStartMs": 166976,
+    "dDurationMs": 805,
+    "segs": [ {
+      "utf8": "Hi Nicole,"
+    } ]
+  }, {
+    "tStartMs": 167781,
+    "dDurationMs": 2117,
+    "segs": [ {
+      "utf8": "Could you sign these, please?"
+    } ]
+  }, {
+    "tStartMs": 169900,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "Sure."
+    } ]
+  }, {
+    "tStartMs": 171456,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Is it Ok if I take\ntomorrow afternoon off?"
+    } ]
+  }, {
+    "tStartMs": 175156,
+    "dDurationMs": 2324,
+    "segs": [ {
+      "utf8": "I'm sorry, but tomorrow is really difficult."
+    } ]
+  }, {
+    "tStartMs": 178055,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "What about Friday afternoon?"
+    } ]
+  }, {
+    "tStartMs": 179655,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "Friday?"
+    } ]
+  }, {
+    "tStartMs": 181352,
+    "dDurationMs": 926,
+    "segs": [ {
+      "utf8": "That's fine."
+    } ]
+  }, {
+    "tStartMs": 182278,
+    "dDurationMs": 2563,
+    "segs": [ {
+      "utf8": "Do you think you could send\nme the request by email?"
+    } ]
+  }, {
+    "tStartMs": 186454,
+    "dDurationMs": 948,
+    "segs": [ {
+      "utf8": "Yes, of course."
+    } ]
+  }, {
+    "tStartMs": 189080,
+    "dDurationMs": 947,
+    "segs": [ {
+      "utf8": "Hello,"
+    } ]
+  }, {
+    "tStartMs": 190027,
+    "dDurationMs": 1476,
+    "segs": [ {
+      "utf8": "Hi Mark,"
+    } ]
+  }, {
+    "tStartMs": 191503,
+    "dDurationMs": 1797,
+    "segs": [ {
+      "utf8": "Could you hold a moment, Mark?"
+    } ]
+  }, {
+    "tStartMs": 193452,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Thank you, Nicole."
+    } ]
+  }, {
+    "tStartMs": 197577,
+    "dDurationMs": 2174,
+    "segs": [ {
+      "utf8": "Can you come and see me\nwhen you have a moment?"
+    } ]
+  }, {
+    "tStartMs": 202741,
+    "dDurationMs": 1756,
+    "segs": [ {
+      "utf8": "Have you started\nlooking for an apartment?"
+    } ]
+  }, {
+    "tStartMs": 204561,
+    "dDurationMs": 1404,
+    "segs": [ {
+      "utf8": "No, I haven't had time yet."
+    } ]
+  }, {
+    "tStartMs": 206696,
+    "dDurationMs": 1774,
+    "segs": [ {
+      "utf8": "No, it's best to get to know Paris first."
+    } ]
+  }, {
+    "tStartMs": 208470,
+    "dDurationMs": 2276,
+    "segs": [ {
+      "utf8": "- Yeah, it's a big city.\n-  Yeah"
+    } ]
+  }, {
+    "tStartMs": 214845,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "Merci."
+    } ]
+  }, {
+    "tStartMs": 217686,
+    "dDurationMs": 765,
+    "segs": [ {
+      "utf8": "Merci."
+    } ]
+  }, {
+    "tStartMs": 221067,
+    "dDurationMs": 1131,
+    "segs": [ {
+      "utf8": "Merci beaucoup!"
+    } ]
+  }, {
+    "tStartMs": 222974,
+    "dDurationMs": 1263,
+    "segs": [ {
+      "utf8": "Very good, Mark."
+    } ]
+  }, {
+    "tStartMs": 224237,
+    "dDurationMs": 745,
+    "segs": [ {
+      "utf8": "Thanks."
+    } ]
+  }, {
+    "tStartMs": 224982,
+    "dDurationMs": 1738,
+    "segs": [ {
+      "utf8": "That's nearly all the French I know."
+    } ]
+  }, {
+    "tStartMs": 234408,
+    "dDurationMs": 1844,
+    "segs": [ {
+      "utf8": "Yeah, just a minute."
+    } ]
+  }, {
+    "tStartMs": 236796,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "Sorry."
+    } ]
+  }, {
+    "tStartMs": 241910,
+    "dDurationMs": 1304,
+    "segs": [ {
+      "utf8": "How do you like the office?"
+    } ]
+  }, {
+    "tStartMs": 243214,
+    "dDurationMs": 779,
+    "segs": [ {
+      "utf8": "Oh, it's great!"
+    } ]
+  }, {
+    "tStartMs": 243993,
+    "dDurationMs": 1462,
+    "segs": [ {
+      "utf8": "And the people?"
+    } ]
+  }, {
+    "tStartMs": 245517,
+    "dDurationMs": 2996,
+    "segs": [ {
+      "utf8": "Really friendly. I like Ben a lot.\nHe's amazing with computers."
+    } ]
+  }, {
+    "tStartMs": 248932,
+    "dDurationMs": 1441,
+    "segs": [ {
+      "utf8": "And Jacques' really nice guy."
+    } ]
+  }, {
+    "tStartMs": 251654,
+    "dDurationMs": 5013,
+    "segs": [ {
+      "utf8": "Jacques is very charming.\nEverybody likes him and\nhe has a lovely wife."
+    } ]
+  }, {
+    "tStartMs": 256923,
+    "dDurationMs": 4298,
+    "segs": [ {
+      "utf8": "She used to be a pop\nstar when she was young.\nHave you heard of Elisabeth?"
+    } ]
+  }, {
+    "tStartMs": 261329,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "No, I'm sorry. I haven't."
+    } ]
+  }, {
+    "tStartMs": 263498,
+    "dDurationMs": 1385,
+    "segs": [ {
+      "utf8": "She's very pretty."
+    } ]
+  }, {
+    "tStartMs": 266279,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "Allie is very attractive, too."
+    } ]
+  }, {
+    "tStartMs": 268956,
+    "dDurationMs": 564,
+    "segs": [ {
+      "utf8": "Allie?"
+    } ]
+  }, {
+    "tStartMs": 270570,
+    "dDurationMs": 1246,
+    "segs": [ {
+      "utf8": "Yeah, I guess."
+    } ]
+  }, {
+    "tStartMs": 273539,
+    "dDurationMs": 2488,
+    "segs": [ {
+      "utf8": "Although her clothes are very English."
+    } ]
+  }, {
+    "tStartMs": 276998,
+    "dDurationMs": 1496,
+    "segs": [ {
+      "utf8": "And she's very formal."
+    } ]
+  }, {
+    "tStartMs": 279305,
+    "dDurationMs": 3329,
+    "segs": [ {
+      "utf8": "You know today I asked her\nif I could have a day off."
+    } ]
+  }, {
+    "tStartMs": 282634,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "And she wanted me\nto send her an email."
+    } ]
+  }, {
+    "tStartMs": 284935,
+    "dDurationMs": 2677,
+    "segs": [ {
+      "utf8": "Well, the English have their funny ways."
+    } ]
+  }, {
+    "tStartMs": 289919,
+    "dDurationMs": 989,
+    "segs": [ {
+      "utf8": "Oh, Hi, Allie."
+    } ]
+  }, {
+    "tStartMs": 290908,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Hi,"
+    } ]
+  }, {
+    "tStartMs": 291413,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Allie! Hi!\nI get you a drink."
+    } ]
+  }, {
+    "tStartMs": 293360,
+    "dDurationMs": 2704,
+    "segs": [ {
+      "utf8": "Thanks. I'll have a diet Coke."
+    } ]
+  }, {
+    "tStartMs": 304138,
+    "dDurationMs": 1454,
+    "segs": [ {
+      "utf8": "Where exactly is it?"
+    } ]
+  }, {
+    "tStartMs": 308751,
+    "dDurationMs": 1224,
+    "segs": [ {
+      "utf8": "I'm sorry.\nI didn't catch that."
+    } ]
+  }, {
+    "tStartMs": 312400,
+    "dDurationMs": 585,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 314996,
+    "dDurationMs": 694,
+    "segs": [ {
+      "utf8": "How far is it?"
+    } ]
+  }, {
+    "tStartMs": 318763,
+    "dDurationMs": 727,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 321576,
+    "dDurationMs": 872,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 323406,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Merci."
+    } ]
+  }, {
+    "tStartMs": 328378,
+    "dDurationMs": 817,
+    "segs": [ {
+      "utf8": "Any luck?"
+    } ]
+  }, {
+    "tStartMs": 329830,
+    "dDurationMs": 1676,
+    "segs": [ {
+      "utf8": "I think I found an apartment."
+    } ]
+  }, {
+    "tStartMs": 331506,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "How do I get to Belleville?"
+    } ]
+  }, {
+    "tStartMs": 334518,
+    "dDurationMs": 3278,
+    "segs": [ {
+      "utf8": "The easiest way is to get\nthe metro at Pyramides."
+    } ]
+  }, {
+    "tStartMs": 338320,
+    "dDurationMs": 2926,
+    "segs": [ {
+      "utf8": "Take line 14 and change at Châtelet."
+    } ]
+  }, {
+    "tStartMs": 341246,
+    "dDurationMs": 591,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 342216,
+    "dDurationMs": 3609,
+    "segs": [ {
+      "utf8": "Then take line 11 towards\nMairie des Lilas."
+    } ]
+  }, {
+    "tStartMs": 345840,
+    "dDurationMs": 971,
+    "segs": [ {
+      "utf8": "Where do I get off?"
+    } ]
+  }, {
+    "tStartMs": 347694,
+    "dDurationMs": 1027,
+    "segs": [ {
+      "utf8": "At Dell Villa?"
+    } ]
+  }, {
+    "tStartMs": 349250,
+    "dDurationMs": 1795,
+    "segs": [ {
+      "utf8": "And how many stops is it?"
+    } ]
+  }, {
+    "tStartMs": 352974,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Six, I think."
+    } ]
+  }, {
+    "tStartMs": 355263,
+    "dDurationMs": 1788,
+    "segs": [ {
+      "utf8": "Oh, right.\nI found it on the map."
+    } ]
+  }, {
+    "tStartMs": 357795,
+    "dDurationMs": 1629,
+    "segs": [ {
+      "utf8": "How long does it take to get there?"
+    } ]
+  }, {
+    "tStartMs": 360511,
+    "dDurationMs": 1378,
+    "segs": [ {
+      "utf8": "About that's an hour."
+    } ]
+  }, {
+    "tStartMs": 362291,
+    "dDurationMs": 1179,
+    "segs": [ {
+      "utf8": "Have you found a flat?"
+    } ]
+  }, {
+    "tStartMs": 363696,
+    "dDurationMs": 2388,
+    "segs": [ {
+      "utf8": "Yeah. in Belleville this time."
+    } ]
+  }, {
+    "tStartMs": 366423,
+    "dDurationMs": 1166,
+    "segs": [ {
+      "utf8": "When are you going to see it?"
+    } ]
+  }, {
+    "tStartMs": 367832,
+    "dDurationMs": 855,
+    "segs": [ {
+      "utf8": "This afternoon?"
+    } ]
+  }, {
+    "tStartMs": 368687,
+    "dDurationMs": 2383,
+    "segs": [ {
+      "utf8": "If you can wait till six,\nI'll give you a lift."
+    } ]
+  }, {
+    "tStartMs": 371492,
+    "dDurationMs": 2634,
+    "segs": [ {
+      "utf8": "I live near Belleville.\nSo I'm driving that way."
+    } ]
+  }, {
+    "tStartMs": 374716,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "That's great.\nThanks."
+    } ]
+  }, {
+    "tStartMs": 376641,
+    "dDurationMs": 1096,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 383368,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "This is the apartment."
+    } ]
+  }, {
+    "tStartMs": 391785,
+    "dDurationMs": 841,
+    "segs": [ {
+      "utf8": "Merci madam."
+    } ]
+  }, {
+    "tStartMs": 394679,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Sorry Nicole, what did she say?"
+    } ]
+  }, {
+    "tStartMs": 396517,
+    "dDurationMs": 2911,
+    "segs": [ {
+      "utf8": "She said we can have a look at\nthe flat. She's going to wait downstairs."
+    } ]
+  }, {
+    "tStartMs": 399462,
+    "dDurationMs": 545,
+    "segs": [ {
+      "utf8": "Thanks."
+    } ]
+  }, {
+    "tStartMs": 406194,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "So, what do you think?"
+    } ]
+  }, {
+    "tStartMs": 408166,
+    "dDurationMs": 1728,
+    "segs": [ {
+      "utf8": "It's a long way from the station."
+    } ]
+  }, {
+    "tStartMs": 410760,
+    "dDurationMs": 1113,
+    "segs": [ {
+      "utf8": "And it's on the 4th floor."
+    } ]
+  }, {
+    "tStartMs": 411873,
+    "dDurationMs": 1824,
+    "segs": [ {
+      "utf8": "It's a pity there isn't a lift."
+    } ]
+  }, {
+    "tStartMs": 413697,
+    "dDurationMs": 2117,
+    "segs": [ {
+      "utf8": "Who needs one the\nstairs are good exercise?"
+    } ]
+  }, {
+    "tStartMs": 415934,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "Look, there's a great view from here."
+    } ]
+  }, {
+    "tStartMs": 417902,
+    "dDurationMs": 1153,
+    "segs": [ {
+      "utf8": "It's also very noisy."
+    } ]
+  }, {
+    "tStartMs": 419482,
+    "dDurationMs": 2025,
+    "segs": [ {
+      "utf8": "Sure, but it has character."
+    } ]
+  }, {
+    "tStartMs": 422249,
+    "dDurationMs": 2262,
+    "segs": [ {
+      "utf8": "It's just how I imagined\nan apartment in Paris."
+    } ]
+  }, {
+    "tStartMs": 424708,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Everything's old."
+    } ]
+  }, {
+    "tStartMs": 426316,
+    "dDurationMs": 3416,
+    "segs": [ {
+      "utf8": "Including the heating\nit would be very cold in winter."
+    } ]
+  }, {
+    "tStartMs": 432349,
+    "dDurationMs": 948,
+    "segs": [ {
+      "utf8": "Oh, Hi,"
+    } ]
+  }, {
+    "tStartMs": 433297,
+    "dDurationMs": 1594,
+    "segs": [ {
+      "utf8": "Well, what's it like?"
+    } ]
+  }, {
+    "tStartMs": 435622,
+    "dDurationMs": 2288,
+    "segs": [ {
+      "utf8": "Nice, really Parisian."
+    } ]
+  }, {
+    "tStartMs": 437910,
+    "dDurationMs": 1419,
+    "segs": [ {
+      "utf8": "Are you going to take it?"
+    } ]
+  }, {
+    "tStartMs": 439329,
+    "dDurationMs": 1255,
+    "segs": [ {
+      "utf8": "I think so."
+    } ]
+  }, {
+    "tStartMs": 440584,
+    "dDurationMs": 1548,
+    "segs": [ {
+      "utf8": "I can't wait to see it."
+    } ]
+  }, {
+    "tStartMs": 442132,
+    "dDurationMs": 846,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 443770,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "Are you Ok?"
+    } ]
+  }, {
+    "tStartMs": 444904,
+    "dDurationMs": 1861,
+    "segs": [ {
+      "utf8": "Are you on your own?"
+    } ]
+  }, {
+    "tStartMs": 446765,
+    "dDurationMs": 3578,
+    "segs": [ {
+      "utf8": "No, I'm with the woman\nwho owns the apartment.\nI'll call you back."
+    } ]
+  }, {
+    "tStartMs": 450701,
+    "dDurationMs": 744,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 451445,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Speak later.\nLove you."
+    } ]
+  }, {
+    "tStartMs": 453595,
+    "dDurationMs": 2126,
+    "segs": [ {
+      "utf8": "Love you, too.\nBye."
+    } ]
+  }, {
+    "tStartMs": 457509,
+    "dDurationMs": 1496,
+    "segs": [ {
+      "utf8": "Sorry about... that."
+    } ]
+  }, {
+    "tStartMs": 459400,
+    "dDurationMs": 3352,
+    "segs": [ {
+      "utf8": "That was... that was my...daughter."
+    } ]
+  }, {
+    "tStartMs": 462872,
+    "dDurationMs": 1442,
+    "segs": [ {
+      "utf8": "Calling from America?"
+    } ]
+  }, {
+    "tStartMs": 464634,
+    "dDurationMs": 2818,
+    "segs": [ {
+      "utf8": "You know, she's just taking an interest."
+    } ]
+  }, {
+    "tStartMs": 468062,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "Taking an interest. That's nice."
+    } ]
+  }, {
+    "tStartMs": 474536,
+    "dDurationMs": 3085,
+    "segs": [ {
+      "utf8": "I got a message this\nmorning, it's from Jacques."
+    } ]
+  }, {
+    "tStartMs": 479386,
+    "dDurationMs": 1498,
+    "segs": [ {
+      "utf8": "Allie,\nIt's Jacques."
+    } ]
+  }, {
+    "tStartMs": 481175,
+    "dDurationMs": 5135,
+    "segs": [ {
+      "utf8": "I'm in Rome, my return\nflight's been cancelled.\nThere's a small problem."
+    } ]
+  }, {
+    "tStartMs": 486310,
+    "dDurationMs": 6203,
+    "segs": [ {
+      "utf8": "Scarlett Scarpino is in Paris for\nher concerts of this evening.\nI was going to look after her today."
+    } ]
+  }, {
+    "tStartMs": 492513,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "Could you possibly take care of her?"
+    } ]
+  }, {
+    "tStartMs": 495313,
+    "dDurationMs": 1054,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 496765,
+    "dDurationMs": 1865,
+    "segs": [ {
+      "utf8": "And see you later."
+    } ]
+  }, {
+    "tStartMs": 499955,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "You've met Scarlett\nScarpino, haven't you, Ben?"
+    } ]
+  }, {
+    "tStartMs": 503235,
+    "dDurationMs": 4001,
+    "segs": [ {
+      "utf8": "The punk princess.\nYeah, I met her in London last year."
+    } ]
+  }, {
+    "tStartMs": 507326,
+    "dDurationMs": 1154,
+    "segs": [ {
+      "utf8": "What's she like?"
+    } ]
+  }, {
+    "tStartMs": 509127,
+    "dDurationMs": 2187,
+    "segs": [ {
+      "utf8": "Let's say she's a bit difficult."
+    } ]
+  }, {
+    "tStartMs": 511837,
+    "dDurationMs": 1682,
+    "segs": [ {
+      "utf8": "What are we going to do with her?"
+    } ]
+  }, {
+    "tStartMs": 513519,
+    "dDurationMs": 1914,
+    "segs": [ {
+      "utf8": "Why don't you show her around Paris?"
+    } ]
+  }, {
+    "tStartMs": 515433,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "I have a better idea."
+    } ]
+  }, {
+    "tStartMs": 516804,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Why don't you show her around Paris?"
+    } ]
+  }, {
+    "tStartMs": 518514,
+    "dDurationMs": 1006,
+    "segs": [ {
+      "utf8": "What? me?"
+    } ]
+  }, {
+    "tStartMs": 519520,
+    "dDurationMs": 894,
+    "segs": [ {
+      "utf8": "I'm new here."
+    } ]
+  }, {
+    "tStartMs": 520414,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "You can't leave me to do this on my own."
+    } ]
+  }, {
+    "tStartMs": 522975,
+    "dDurationMs": 2054,
+    "segs": [ {
+      "utf8": "Ok, why don't we take her to Nootre Dame?"
+    } ]
+  }, {
+    "tStartMs": 525029,
+    "dDurationMs": 2058,
+    "segs": [ {
+      "utf8": "I mean, it's her first time in Paris, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 527497,
+    "dDurationMs": 2298,
+    "segs": [ {
+      "utf8": "I don't think churches are really her thing."
+    } ]
+  }, {
+    "tStartMs": 530383,
+    "dDurationMs": 1449,
+    "segs": [ {
+      "utf8": "How about taking her on a boat trip?"
+    } ]
+  }, {
+    "tStartMs": 531832,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "Brilliant."
+    } ]
+  }, {
+    "tStartMs": 532800,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "and then we can go up the Eiffel Tower."
+    } ]
+  }, {
+    "tStartMs": 534390,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "That's a good idea.\nI'm sure she'll love the view."
+    } ]
+  }, {
+    "tStartMs": 536836,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "And she might fall off."
+    } ]
+  }, {
+    "tStartMs": 538571,
+    "dDurationMs": 1411,
+    "segs": [ {
+      "utf8": "Thanks for your help, Ben."
+    } ]
+  }, {
+    "tStartMs": 539982,
+    "dDurationMs": 1591,
+    "segs": [ {
+      "utf8": "Shall we have lunch after that?"
+    } ]
+  }, {
+    "tStartMs": 541948,
+    "dDurationMs": 1223,
+    "segs": [ {
+      "utf8": "Let's go somewhere really nice."
+    } ]
+  }, {
+    "tStartMs": 543559,
+    "dDurationMs": 1842,
+    "segs": [ {
+      "utf8": "Do you have any recommendations, Ben?"
+    } ]
+  }, {
+    "tStartMs": 545401,
+    "dDurationMs": 2079,
+    "segs": [ {
+      "utf8": "What about La Renaissance?"
+    } ]
+  }, {
+    "tStartMs": 548023,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "That's Jacques' favorite."
+    } ]
+  }, {
+    "tStartMs": 549191,
+    "dDurationMs": 975,
+    "segs": [ {
+      "utf8": "That sounds perfect!"
+    } ]
+  }, {
+    "tStartMs": 551706,
+    "dDurationMs": 1505,
+    "segs": [ {
+      "utf8": "Ben, do you want to come, too?"
+    } ]
+  }, {
+    "tStartMs": 553670,
+    "dDurationMs": 3198,
+    "segs": [ {
+      "utf8": "Sorry Allie. I'm really busy."
+    } ]
+  }, {
+    "tStartMs": 556868,
+    "dDurationMs": 2805,
+    "segs": [ {
+      "utf8": "But I'm sure you'll have\nan unforgettable meal."
+    } ]
+  }, {
+    "tStartMs": 572849,
+    "dDurationMs": 1452,
+    "segs": [ {
+      "utf8": "So Scarlett!"
+    } ]
+  }, {
+    "tStartMs": 574301,
+    "dDurationMs": 1282,
+    "segs": [ {
+      "utf8": "What would you like?"
+    } ]
+  }, {
+    "tStartMs": 575775,
+    "dDurationMs": 1014,
+    "segs": [ {
+      "utf8": "Nothing."
+    } ]
+  }, {
+    "tStartMs": 578165,
+    "dDurationMs": 1333,
+    "segs": [ {
+      "utf8": "Aren't you hungry?"
+    } ]
+  }, {
+    "tStartMs": 579498,
+    "dDurationMs": 2071,
+    "segs": [ {
+      "utf8": "Sure but this food's really horrible."
+    } ]
+  }, {
+    "tStartMs": 581677,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "This is one of the finest\nrestaurants in Paris."
+    } ]
+  }, {
+    "tStartMs": 584262,
+    "dDurationMs": 2897,
+    "segs": [ {
+      "utf8": "Well, I can't eat this stuff.\nI never touch meat."
+    } ]
+  }, {
+    "tStartMs": 587159,
+    "dDurationMs": 1516,
+    "segs": [ {
+      "utf8": "The seafood looks good."
+    } ]
+  }, {
+    "tStartMs": 589451,
+    "dDurationMs": 582,
+    "segs": [ {
+      "utf8": "Hey!"
+    } ]
+  }, {
+    "tStartMs": 590454,
+    "dDurationMs": 1225,
+    "segs": [ {
+      "utf8": "Fish have feelings, too."
+    } ]
+  }, {
+    "tStartMs": 592559,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "What about the mushroom risotto?"
+    } ]
+  }, {
+    "tStartMs": 594593,
+    "dDurationMs": 2973,
+    "segs": [ {
+      "utf8": "Mushrooms...\nNo way."
+    } ]
+  }, {
+    "tStartMs": 598470,
+    "dDurationMs": 2171,
+    "segs": [ {
+      "utf8": "Didn't they tell you guys\nabout my allergies?"
+    } ]
+  }, {
+    "tStartMs": 603102,
+    "dDurationMs": 2442,
+    "segs": [ {
+      "utf8": "I'm allergic to mushrooms,\nstrawberries, nuts..."
+    } ]
+  }, {
+    "tStartMs": 605636,
+    "dDurationMs": 1187,
+    "segs": [ {
+      "utf8": "Shall we go someplace else?"
+    } ]
+  }, {
+    "tStartMs": 607455,
+    "dDurationMs": 2713,
+    "segs": [ {
+      "utf8": "Whatever.\nI'm going to the restroom."
+    } ]
+  }, {
+    "tStartMs": 616787,
+    "dDurationMs": 2186,
+    "segs": [ {
+      "utf8": "Well, that was a disastrous this morning."
+    } ]
+  }, {
+    "tStartMs": 618973,
+    "dDurationMs": 3194,
+    "segs": [ {
+      "utf8": "The boat trip made her feel sick\nand she wouldn't go up the Eiffel Tower."
+    } ]
+  }, {
+    "tStartMs": 622521,
+    "dDurationMs": 1329,
+    "segs": [ {
+      "utf8": "\"I can't stand heights\""
+    } ]
+  }, {
+    "tStartMs": 624263,
+    "dDurationMs": 1747,
+    "segs": [ {
+      "utf8": "It's a pity we didn't just\ntake her shopping."
+    } ]
+  }, {
+    "tStartMs": 626601,
+    "dDurationMs": 1115,
+    "segs": [ {
+      "utf8": "She's so spoilt."
+    } ]
+  }, {
+    "tStartMs": 627861,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Oh, come on. She's just a kid really."
+    } ]
+  }, {
+    "tStartMs": 630164,
+    "dDurationMs": 2513,
+    "segs": [ {
+      "utf8": "So, what are we going to do about lunch?"
+    } ]
+  }, {
+    "tStartMs": 632677,
+    "dDurationMs": 1305,
+    "segs": [ {
+      "utf8": "Shall we leave now?"
+    } ]
+  }, {
+    "tStartMs": 634926,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "No, hang on. I have an idea.\nLet me talk to the waiter."
+    } ]
+  }, {
+    "tStartMs": 639380,
+    "dDurationMs": 2778,
+    "segs": [ {
+      "utf8": "Do you think you could\npossibly do me a favor?"
+    } ]
+  }, {
+    "tStartMs": 642158,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Yes, of course, sir. What would you like?"
+    } ]
+  }, {
+    "tStartMs": 654540,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Well, I think this place is great."
+    } ]
+  }, {
+    "tStartMs": 656453,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "More wine, Allie?"
+    } ]
+  }, {
+    "tStartMs": 657994,
+    "dDurationMs": 1086,
+    "segs": [ {
+      "utf8": "No, thanks."
+    } ]
+  }, {
+    "tStartMs": 660764,
+    "dDurationMs": 1245,
+    "segs": [ {
+      "utf8": "Mademoiselle..."
+    } ]
+  }, {
+    "tStartMs": 663113,
+    "dDurationMs": 1307,
+    "segs": [ {
+      "utf8": "What's this?"
+    } ]
+  }, {
+    "tStartMs": 664722,
+    "dDurationMs": 1391,
+    "segs": [ {
+      "utf8": "It's your lunch, Scarlett."
+    } ]
+  }, {
+    "tStartMs": 667029,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "But I didn't order anything."
+    } ]
+  }, {
+    "tStartMs": 672894,
+    "dDurationMs": 3109,
+    "segs": [ {
+      "utf8": "Hey, pizza margherita!"
+    } ]
+  }, {
+    "tStartMs": 676003,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "Cool!"
+    } ]
+  }, {
+    "tStartMs": 686449,
+    "dDurationMs": 2527,
+    "segs": [ {
+      "utf8": "- That was a great concert last night, Scarlett .\n- Thanks."
+    } ]
+  }, {
+    "tStartMs": 689884,
+    "dDurationMs": 2539,
+    "segs": [ {
+      "utf8": "As we know Scarlett's got\na new CD coming out soon."
+    } ]
+  }, {
+    "tStartMs": 692610,
+    "dDurationMs": 3353,
+    "segs": [ {
+      "utf8": "So let's have a look at the best way.\nWe can promote it in France."
+    } ]
+  }, {
+    "tStartMs": 696237,
+    "dDurationMs": 765,
+    "segs": [ {
+      "utf8": "Ok."
+    } ]
+  }, {
+    "tStartMs": 697002,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Well, I think Scarlett should visit the\nmajor music stores."
+    } ]
+  }, {
+    "tStartMs": 700601,
+    "dDurationMs": 2571,
+    "segs": [ {
+      "utf8": "In my opinion, that's the\nbest way to meet her fans."
+    } ]
+  }, {
+    "tStartMs": 703728,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "I'm not so sure.\nWhat do you think, Jacques?"
+    } ]
+  }, {
+    "tStartMs": 706245,
+    "dDurationMs": 1894,
+    "segs": [ {
+      "utf8": "Actually, I don't agree with Mark."
+    } ]
+  }, {
+    "tStartMs": 709176,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "Scarlett isn't commercial in that way."
+    } ]
+  }, {
+    "tStartMs": 711954,
+    "dDurationMs": 1483,
+    "segs": [ {
+      "utf8": "Scarlett?"
+    } ]
+  }, {
+    "tStartMs": 713965,
+    "dDurationMs": 1282,
+    "segs": [ {
+      "utf8": "Scarlett?"
+    } ]
+  }, {
+    "tStartMs": 716065,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "I agree with Jacques."
+    } ]
+  }, {
+    "tStartMs": 717512,
+    "dDurationMs": 2807,
+    "segs": [ {
+      "utf8": "I don't have a commercial image.\nIt isn't my style."
+    } ]
+  }, {
+    "tStartMs": 720673,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "Ok, but Scarlett needs more publicity."
+    } ]
+  }, {
+    "tStartMs": 723218,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "What about a series of TV\nand radio interviews?"
+    } ]
+  }, {
+    "tStartMs": 726018,
+    "dDurationMs": 908,
+    "segs": [ {
+      "utf8": "Don't you agree?"
+    } ]
+  }, {
+    "tStartMs": 727091,
+    "dDurationMs": 1912,
+    "segs": [ {
+      "utf8": "Yes, that's what everybody does."
+    } ]
+  }, {
+    "tStartMs": 729175,
+    "dDurationMs": 1808,
+    "segs": [ {
+      "utf8": "What we want is something different."
+    } ]
+  }, {
+    "tStartMs": 732239,
+    "dDurationMs": 5134,
+    "segs": [ {
+      "utf8": "Personally, I think Scarlett should\ntour clubs and summer festivals."
+    } ]
+  }, {
+    "tStartMs": 738830,
+    "dDurationMs": 2926,
+    "segs": [ {
+      "utf8": "She can DJ, play her favorite music..."
+    } ]
+  }, {
+    "tStartMs": 742840,
+    "dDurationMs": 3124,
+    "segs": [ {
+      "utf8": "...play the new CD and meet her fans, too."
+    } ]
+  }, {
+    "tStartMs": 746227,
+    "dDurationMs": 2953,
+    "segs": [ {
+      "utf8": "Yes, absolutely. That's a much better idea."
+    } ]
+  }, {
+    "tStartMs": 749678,
+    "dDurationMs": 827,
+    "segs": [ {
+      "utf8": "Mark?"
+    } ]
+  }, {
+    "tStartMs": 751135,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "Ok, why not?"
+    } ]
+  }, {
+    "tStartMs": 754309,
+    "dDurationMs": 1032,
+    "segs": [ {
+      "utf8": "Scarlett?"
+    } ]
+  }, {
+    "tStartMs": 755727,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "I think..."
+    } ]
+  }, {
+    "tStartMs": 763807,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "That's a great idea!"
+    } ]
+  }, {
+    "tStartMs": 766265,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "Thank you, Jacques."
+    } ]
+  }, {
+    "tStartMs": 781623,
+    "dDurationMs": 1413,
+    "segs": [ {
+      "utf8": "It's great to be on our own again."
+    } ]
+  }, {
+    "tStartMs": 783067,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 784361,
+    "dDurationMs": 1472,
+    "segs": [ {
+      "utf8": "Is this the first time you've\nbeen to the Louvre?"
+    } ]
+  }, {
+    "tStartMs": 785833,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 787872,
+    "dDurationMs": 745,
+    "segs": [ {
+      "utf8": "What's the matter?"
+    } ]
+  }, {
+    "tStartMs": 789633,
+    "dDurationMs": 1253,
+    "segs": [ {
+      "utf8": "Is this about the meeting?"
+    } ]
+  }, {
+    "tStartMs": 790886,
+    "dDurationMs": 2147,
+    "segs": [ {
+      "utf8": "Because I agree with\nJacques and not with you?"
+    } ]
+  }, {
+    "tStartMs": 793609,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Yeah, well, we knew it wouldn't be easy."
+    } ]
+  }, {
+    "tStartMs": 795809,
+    "dDurationMs": 1305,
+    "segs": [ {
+      "utf8": "Working together, I mean."
+    } ]
+  }, {
+    "tStartMs": 797656,
+    "dDurationMs": 1457,
+    "segs": [ {
+      "utf8": "It's difficult for me as well."
+    } ]
+  }, {
+    "tStartMs": 799198,
+    "dDurationMs": 1354,
+    "segs": [ {
+      "utf8": "But if I don't agree with you."
+    } ]
+  }, {
+    "tStartMs": 800606,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I know, I know, you're the boss."
+    } ]
+  }, {
+    "tStartMs": 801906,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "And I have to do my job."
+    } ]
+  }, {
+    "tStartMs": 803555,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "I really thought that Jacques' idea\nwas better. And so did Scarlett."
+    } ]
+  }, {
+    "tStartMs": 807492,
+    "dDurationMs": 2838,
+    "segs": [ {
+      "utf8": "It's not a big deal, Allie.\nI'm fine, really."
+    } ]
+  }, {
+    "tStartMs": 812579,
+    "dDurationMs": 2218,
+    "segs": [ {
+      "utf8": "So who exactly was the Mona Lisa?"
+    } ]
+  }, {
+    "tStartMs": 815529,
+    "dDurationMs": 3442,
+    "segs": [ {
+      "utf8": "I'm not sure.\nI think she was the wife of a banker."
+    } ]
+  }, {
+    "tStartMs": 818971,
+    "dDurationMs": 3518,
+    "segs": [ {
+      "utf8": "Is that why she's smiling?\nBecause her husband has a good salary?"
+    } ]
+  }, {
+    "tStartMs": 823017,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "I also read somewhere that\nshe was a self-portrait of Leonardo."
+    } ]
+  }, {
+    "tStartMs": 826418,
+    "dDurationMs": 2076,
+    "segs": [ {
+      "utf8": "A self-portrait?\nYou're kidding!"
+    } ]
+  }, {
+    "tStartMs": 829970,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Now, I don't know much about art...\n...but Leonardo da Vinci was a man, right?"
+    } ]
+  }, {
+    "tStartMs": 834081,
+    "dDurationMs": 1275,
+    "segs": [ {
+      "utf8": "Well, it's just a theory."
+    } ]
+  }, {
+    "tStartMs": 837156,
+    "dDurationMs": 1514,
+    "segs": [ {
+      "utf8": "Why do you think she's smiling?"
+    } ]
+  }, {
+    "tStartMs": 839551,
+    "dDurationMs": 4692,
+    "segs": [ {
+      "utf8": "Well, in my opinion, she's the\nmanaging director of a music company."
+    } ]
+  }, {
+    "tStartMs": 844813,
+    "dDurationMs": 758,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 845571,
+    "dDurationMs": 5298,
+    "segs": [ {
+      "utf8": "She lives in Paris, she's in love with\nher marketing director... and she has\na lot of fun telling him what to do."
+    } ]
+  }, {
+    "tStartMs": 851071,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "That's really unfair!"
+    } ]
+  }, {
+    "tStartMs": 852364,
+    "dDurationMs": 2866,
+    "segs": [ {
+      "utf8": "Hey, we're not in the office now.\nYou can't tell me I'm wrong."
+    } ]
+  }, {
+    "tStartMs": 855958,
+    "dDurationMs": 697,
+    "segs": [ {
+      "utf8": "Let's get a coffee."
+    } ]
+  }, {
+    "tStartMs": 856655,
+    "dDurationMs": 858,
+    "segs": [ {
+      "utf8": "Good idea."
+    } ]
+  }, {
+    "tStartMs": 858079,
+    "dDurationMs": 1207,
+    "segs": [ {
+      "utf8": "Don't turn around!"
+    } ]
+  }, {
+    "tStartMs": 859286,
+    "dDurationMs": 663,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 860475,
+    "dDurationMs": 1546,
+    "segs": [ {
+      "utf8": "I've just seen Ben from the office."
+    } ]
+  }, {
+    "tStartMs": 862021,
+    "dDurationMs": 691,
+    "segs": [ {
+      "utf8": "Where?"
+    } ]
+  }, {
+    "tStartMs": 862712,
+    "dDurationMs": 1138,
+    "segs": [ {
+      "utf8": "I said don't look!"
+    } ]
+  }, {
+    "tStartMs": 864582,
+    "dDurationMs": 2384,
+    "segs": [ {
+      "utf8": "I don't think he's seen us.\nLet's get out of here. Come on!"
+    } ]
+  }, {
+    "tStartMs": 869842,
+    "dDurationMs": 584,
+    "segs": [ {
+      "utf8": "Hi."
+    } ]
+  }, {
+    "tStartMs": 871083,
+    "dDurationMs": 1483,
+    "segs": [ {
+      "utf8": "- Hi.\n- Hello."
+    } ]
+  }, {
+    "tStartMs": 872566,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Did you have a nice weekend?"
+    } ]
+  }, {
+    "tStartMs": 873526,
+    "dDurationMs": 3472,
+    "segs": [ {
+      "utf8": "Oh, yeah,\nYou'll never guess who I saw on Saturday."
+    } ]
+  }, {
+    "tStartMs": 876998,
+    "dDurationMs": 661,
+    "segs": [ {
+      "utf8": "Who?"
+    } ]
+  }, {
+    "tStartMs": 878220,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "Allie and Mark in the Louvre together."
+    } ]
+  }, {
+    "tStartMs": 883279,
+    "dDurationMs": 1139,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 884844,
+    "dDurationMs": 1052,
+    "segs": [ {
+      "utf8": "You're joking."
+    } ]
+  }, {
+    "tStartMs": 885896,
+    "dDurationMs": 1574,
+    "segs": [ {
+      "utf8": "It was definitely them."
+    } ]
+  }, {
+    "tStartMs": 888595,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "And they looked really close.\nI think they were holding hands."
+    } ]
+  }, {
+    "tStartMs": 891497,
+    "dDurationMs": 2098,
+    "segs": [ {
+      "utf8": "No, I don't believe it."
+    } ]
+  }, {
+    "tStartMs": 893595,
+    "dDurationMs": 1427,
+    "segs": [ {
+      "utf8": "It's true. I'm telling you."
+    } ]
+  }, {
+    "tStartMs": 895250,
+    "dDurationMs": 4708,
+    "segs": [ {
+      "utf8": "And I think they saw me because\nthey turned and left really quickly."
+    } ]
+  }, {
+    "tStartMs": 900500,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Are you serious?"
+    } ]
+  }, {
+    "tStartMs": 902509,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "You know, I'm not surprised."
+    } ]
+  }, {
+    "tStartMs": 904230,
+    "dDurationMs": 3131,
+    "segs": [ {
+      "utf8": "I think they've been seeing each\nother ever since Mark arrived."
+    } ]
+  }, {
+    "tStartMs": 907495,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "Oh, maybe even before."
+    } ]
+  }, {
+    "tStartMs": 909622,
+    "dDurationMs": 1374,
+    "segs": [ {
+      "utf8": "That's incredible."
+    } ]
+  }, {
+    "tStartMs": 911349,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "What makes you say that?"
+    } ]
+  }, {
+    "tStartMs": 912390,
+    "dDurationMs": 4252,
+    "segs": [ {
+      "utf8": "When I went to look at Mark's new\napartment. I'm sure Allie called\nhim on his mobile."
+    } ]
+  }, {
+    "tStartMs": 917077,
+    "dDurationMs": 3542,
+    "segs": [ {
+      "utf8": "And I've seen her looking at him ...\nin certain way..."
+    } ]
+  }, {
+    "tStartMs": 920712,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "Hey, quiet everyone. It's Mark."
+    } ]
+  }, {
+    "tStartMs": 925914,
+    "dDurationMs": 741,
+    "segs": [ {
+      "utf8": "Hi!"
+    } ]
+  }, {
+    "tStartMs": 926935,
+    "dDurationMs": 977,
+    "segs": [ {
+      "utf8": "Good morning!"
+    } ]
+  }, {
+    "tStartMs": 941463,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "Dear all,"
+    } ]
+  }, {
+    "tStartMs": 943194,
+    "dDurationMs": 8014,
+    "segs": [ {
+      "utf8": "Please find attached a copy of\nthe latest sales report from the USA."
+    } ]
+  }, {
+    "tStartMs": 951409,
+    "dDurationMs": 856,
+    "segs": [ {
+      "utf8": "Mark."
+    } ]
+  }, {
+    "tStartMs": 954660,
+    "dDurationMs": 1776,
+    "segs": [ {
+      "utf8": "So, did you guys have a good weekend?"
+    } ]
+  }, {
+    "tStartMs": 956436,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Yes, fine."
+    } ]
+  }, {
+    "tStartMs": 958209,
+    "dDurationMs": 1695,
+    "segs": [ {
+      "utf8": "Not bad. Very quiet."
+    } ]
+  }, {
+    "tStartMs": 959904,
+    "dDurationMs": 1655,
+    "segs": [ {
+      "utf8": "What about you, Mark?"
+    } ]
+  }, {
+    "tStartMs": 961559,
+    "dDurationMs": 2844,
+    "segs": [ {
+      "utf8": "Oh, I spent most of the time at home."
+    } ]
+  }, {
+    "tStartMs": 964408,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Just being domestic, you know.\nThe apartment's looking pretty nice now."
+    } ]
+  }, {
+    "tStartMs": 968568,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "You must come around\nfor a meal one evening."
+    } ]
+  }, {
+    "tStartMs": 970887,
+    "dDurationMs": 1427,
+    "segs": [ {
+      "utf8": "That would be very nice."
+    } ]
+  }, {
+    "tStartMs": 973453,
+    "dDurationMs": 2139,
+    "segs": [ {
+      "utf8": "So didn't you go out at all?"
+    } ]
+  }, {
+    "tStartMs": 975984,
+    "dDurationMs": 2856,
+    "segs": [ {
+      "utf8": "Oh,\nSure, I went to the Louvre on Saturday."
+    } ]
+  }, {
+    "tStartMs": 979310,
+    "dDurationMs": 1154,
+    "segs": [ {
+      "utf8": "I felt like getting a bit of culture."
+    } ]
+  }, {
+    "tStartMs": 980754,
+    "dDurationMs": 1328,
+    "segs": [ {
+      "utf8": "On your own?"
+    } ]
+  }, {
+    "tStartMs": 983212,
+    "dDurationMs": 883,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 984476,
+    "dDurationMs": 4089,
+    "segs": [ {
+      "utf8": "I kind of prefer going to\nmuseums and galleries on my own."
+    } ]
+  }, {
+    "tStartMs": 988939,
+    "dDurationMs": 2049,
+    "segs": [ {
+      "utf8": "You can look at everything at your own pace."
+    } ]
+  }, {
+    "tStartMs": 990988,
+    "dDurationMs": 1172,
+    "segs": [ {
+      "utf8": "That's funny."
+    } ]
+  }, {
+    "tStartMs": 992994,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "I went to the Louvre on Saturday, too."
+    } ]
+  }, {
+    "tStartMs": 995394,
+    "dDurationMs": 553,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 996961,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "I didn't see you."
+    } ]
+  }, {
+    "tStartMs": 998331,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "It's a big place."
+    } ]
+  }, {
+    "tStartMs": 999440,
+    "dDurationMs": 2541,
+    "segs": [ {
+      "utf8": "I didn't see you either."
+    } ]
+  }, {
+    "tStartMs": 1008208,
+    "dDurationMs": 1847,
+    "segs": [ {
+      "utf8": "I've just had an email from Allie."
+    } ]
+  }, {
+    "tStartMs": 1011199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So have I."
+    } ]
+  }, {
+    "tStartMs": 1013989,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Me, too."
+    } ]
+  }, {
+    "tStartMs": 1016960,
+    "dDurationMs": 5011,
+    "segs": [ {
+      "utf8": "Dear Mark,\nThank you for the information."
+    } ]
+  }, {
+    "tStartMs": 1021971,
+    "dDurationMs": 3819,
+    "segs": [ {
+      "utf8": "And thank you, darling, for a wonderful weekend.\nAllie."
+    } ]
+  }, {
+    "tStartMs": 1035047,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Mark Ryder."
+    } ]
+  }, {
+    "tStartMs": 1036347,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Mark,\nCan you come in?"
+    } ]
+  }, {
+    "tStartMs": 1038513,
+    "dDurationMs": 1227,
+    "segs": [ {
+      "utf8": "Sure."
+    } ]
+  }, {
+    "tStartMs": 1046479,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Thanks for the sales report."
+    } ]
+  }, {
+    "tStartMs": 1048439,
+    "dDurationMs": 2633,
+    "segs": [ {
+      "utf8": "I think there's something more\nimportant to talk about right now."
+    } ]
+  }, {
+    "tStartMs": 1051359,
+    "dDurationMs": 795,
+    "segs": [ {
+      "utf8": "What do you mean?"
+    } ]
+  }, {
+    "tStartMs": 1052172,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That message you sent me."
+    } ]
+  }, {
+    "tStartMs": 1053285,
+    "dDurationMs": 3657,
+    "segs": [ {
+      "utf8": "You hit 'reply to all'. You sent\nit to everyone in the office."
+    } ]
+  }, {
+    "tStartMs": 1056942,
+    "dDurationMs": 2108,
+    "segs": [ {
+      "utf8": "Oh, no,\nYou're joking."
+    } ]
+  }, {
+    "tStartMs": 1059115,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Oh, Mark,\nI'm so sorry."
+    } ]
+  }, {
+    "tStartMs": 1061939,
+    "dDurationMs": 1837,
+    "segs": [ {
+      "utf8": "I did it without thinking."
+    } ]
+  }, {
+    "tStartMs": 1063776,
+    "dDurationMs": 1055,
+    "segs": [ {
+      "utf8": "It's all right, Allie."
+    } ]
+  }, {
+    "tStartMs": 1064831,
+    "dDurationMs": 1311,
+    "segs": [ {
+      "utf8": "It's an easy mistake to make."
+    } ]
+  }, {
+    "tStartMs": 1066142,
+    "dDurationMs": 1309,
+    "segs": [ {
+      "utf8": "How could I be so stupid?"
+    } ]
+  }, {
+    "tStartMs": 1067451,
+    "dDurationMs": 2213,
+    "segs": [ {
+      "utf8": "I just wasn't concentrating."
+    } ]
+  }, {
+    "tStartMs": 1069664,
+    "dDurationMs": 503,
+    "segs": [ {
+      "utf8": "Allie,"
+    } ]
+  }, {
+    "tStartMs": 1070940,
+    "dDurationMs": 1036,
+    "segs": [ {
+      "utf8": "I'm really sorry."
+    } ]
+  }, {
+    "tStartMs": 1072036,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Don't worry about it. It doesn't matter."
+    } ]
+  }, {
+    "tStartMs": 1074246,
+    "dDurationMs": 2015,
+    "segs": [ {
+      "utf8": "But I think we should talk to the others."
+    } ]
+  }, {
+    "tStartMs": 1076261,
+    "dDurationMs": 1684,
+    "segs": [ {
+      "utf8": "Yes.\nYou're right."
+    } ]
+  }, {
+    "tStartMs": 1078801,
+    "dDurationMs": 1616,
+    "segs": [ {
+      "utf8": "I'll do it. It was my fault."
+    } ]
+  }, {
+    "tStartMs": 1081967,
+    "dDurationMs": 1674,
+    "segs": [ {
+      "utf8": "Listen everybody!"
+    } ]
+  }, {
+    "tStartMs": 1085894,
+    "dDurationMs": 2565,
+    "segs": [ {
+      "utf8": "I just want to say that I'm terribly sorry."
+    } ]
+  }, {
+    "tStartMs": 1088524,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "I haven't been honest with you."
+    } ]
+  }, {
+    "tStartMs": 1091112,
+    "dDurationMs": 2655,
+    "segs": [ {
+      "utf8": "We, Mark and I..."
+    } ]
+  }, {
+    "tStartMs": 1093767,
+    "dDurationMs": 931,
+    "segs": [ {
+      "utf8": "Well,..."
+    } ]
+  }, {
+    "tStartMs": 1094698,
+    "dDurationMs": 4824,
+    "segs": [ {
+      "utf8": "That's Ok, Allie.\nWe had already guessed.\nIt wasn't really a surprise."
+    } ]
+  }, {
+    "tStartMs": 1107771,
+    "dDurationMs": 2588,
+    "segs": [ {
+      "utf8": "I still can't work out how they knew about us."
+    } ]
+  }, {
+    "tStartMs": 1110359,
+    "dDurationMs": 2752,
+    "segs": [ {
+      "utf8": "I was always really careful\nnot to treat you differently."
+    } ]
+  }, {
+    "tStartMs": 1113767,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "You were really hard on me."
+    } ]
+  }, {
+    "tStartMs": 1115657,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Mark, I wasn't."
+    } ]
+  }, {
+    "tStartMs": 1116962,
+    "dDurationMs": 2021,
+    "segs": [ {
+      "utf8": "Oh, you were just being fair and very British."
+    } ]
+  }, {
+    "tStartMs": 1118983,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "So if it wasn't me, it must have been you."
+    } ]
+  }, {
+    "tStartMs": 1121726,
+    "dDurationMs": 738,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 1122471,
+    "dDurationMs": 3214,
+    "segs": [ {
+      "utf8": "I've got my own office. You're\nwith them all the time."
+    } ]
+  }, {
+    "tStartMs": 1125685,
+    "dDurationMs": 3022,
+    "segs": [ {
+      "utf8": "You must have said something.\nYou're hopeless at keeping secrets!"
+    } ]
+  }, {
+    "tStartMs": 1128707,
+    "dDurationMs": 4269,
+    "segs": [ {
+      "utf8": "Don't blame me.\nThis wasn't my fault.\nThey probably just guessed."
+    } ]
+  }, {
+    "tStartMs": 1132976,
+    "dDurationMs": 1256,
+    "segs": [ {
+      "utf8": "How?"
+    } ]
+  }, {
+    "tStartMs": 1135071,
+    "dDurationMs": 2348,
+    "segs": [ {
+      "utf8": "You know the French, they're\nexperts on love affairs."
+    } ]
+  }, {
+    "tStartMs": 1137969,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "Maybe."
+    } ]
+  }, {
+    "tStartMs": 1140115,
+    "dDurationMs": 3311,
+    "segs": [ {
+      "utf8": "Actually, I think it's great that\neveryone knows. Now we don't\nhave to pretend any more."
+    } ]
+  }, {
+    "tStartMs": 1143435,
+    "dDurationMs": 1958,
+    "segs": [ {
+      "utf8": "Yeah, that's true."
+    } ]
+  }, {
+    "tStartMs": 1147484,
+    "dDurationMs": 3805,
+    "segs": [ {
+      "utf8": "Allie, there's something I've been\nwanting to ask you for a long time."
+    } ]
+  }, {
+    "tStartMs": 1151676,
+    "dDurationMs": 1391,
+    "segs": [ {
+      "utf8": "I just haven't said anything."
+    } ]
+  }, {
+    "tStartMs": 1154119,
+    "dDurationMs": 1411,
+    "segs": [ {
+      "utf8": "But it's now or never."
+    } ]
+  }, {
+    "tStartMs": 1157380,
+    "dDurationMs": 3558,
+    "segs": [ {
+      "utf8": "Allie, will you marry me?"
+    } ]
+  }, {
+    "tStartMs": 1163251,
+    "dDurationMs": 2548,
+    "segs": [ {
+      "utf8": "Sorry Mark,\nI didn't hear a word you said."
+    } ]
+  }, {
+    "tStartMs": 1167615,
+    "dDurationMs": 677,
+    "segs": [ {
+      "utf8": "I said..."
+    } ]
+  }, {
+    "tStartMs": 1168885,
+    "dDurationMs": 2063,
+    "segs": [ {
+      "utf8": "Will you marry me?"
+    } ]
+  }, {
+    "tStartMs": 1172652,
+    "dDurationMs": 789,
+    "segs": [ {
+      "utf8": "Yes, I will."
+    } ]
+  }, {
+    "tStartMs": 1177408,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "Was that a 'Yes'?"
+    } ]
+  }, {
+    "tStartMs": 1178142,
+    "dDurationMs": 1291,
+    "segs": [ {
+      "utf8": "Yes!!!"
+    } ]
+  }, {
+    "tStartMs": 1184515,
+    "dDurationMs": 4627,
+    "segs": [ {
+      "utf8": "Can you confirm that in an email\nfor me? Just don't send it to\neveryone in the office this time."
+    } ]
+  } ]
+}
