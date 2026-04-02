@@ -435,6 +435,13 @@ function indexVideoWords(data) {
   return { added: true };
 }
 
+// Return all videoIds that have an entry in the caption index.
+function getIndexedVideoIds() {
+  var rows = captionIndexSheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1).map(function(r) { return String(r[0]); });
+}
+
 // Return videoIds whose indexed word list contains the given word.
 function searchCaptionIndex(data) {
   var word = String(data.word || '').toLowerCase().trim();
@@ -552,6 +559,7 @@ function doPost(e) {
     if (action === 'getAllNotes')        return ok(getAllNotes(data));
     if (action === 'searchNotes')        return ok(searchNotes(data));
     if (action === 'deleteNote')        { deleteNote(data); return ok(null); }
+    if (action === 'getIndexedVideoIds') return ok(getIndexedVideoIds());
     if (action === 'indexVideoWords')   return ok(indexVideoWords(data));
     if (action === 'searchCaptionIndex') return ok(searchCaptionIndex(data));
     if (action === 'addVocabWord')      return ok(addVocabWord(data));

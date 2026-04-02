@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
 import { useParams, useSearchParams } from 'react-router-dom'
 import ReactPlayer from 'react-player'
-import { Brain, StickyNote, Plus, Trash2 } from 'lucide-react'
+import { Brain, StickyNote, Plus, Trash2, PanelRightClose, PanelRightOpen } from 'lucide-react'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
 import { pickQuizWord, maskText } from '@/utils/quizWord'
@@ -46,6 +46,7 @@ export default function PlayPage() {
   const [noteText, setNoteText] = useState('')
   const noteInputRef = useRef<HTMLTextAreaElement>(null)
 
+  const [sidebarOpen, setSidebarOpen] = useState(true)
   const [vocabWords, setVocabWords] = useState<Set<string>>(new Set())
   const [vocabDialog, setVocabDialog] = useState<{ word: string; cue: CaptionCue } | null>(null)
   // Track whether video was playing before overlay hover paused it
@@ -247,7 +248,20 @@ export default function PlayPage() {
     <div className="flex flex-col h-screen bg-background overflow-hidden">
       <AppHeader
         breadcrumb={videoTitle ?? undefined}
-        right={<QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />}
+        right={
+          <div className="flex items-center gap-1">
+            <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
+            <button
+              onClick={() => setSidebarOpen((v) => !v)}
+              title={sidebarOpen ? 'Hide sidebar' : 'Show sidebar'}
+              className="hidden md:flex w-8 h-8 items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
+            >
+              {sidebarOpen
+                ? <PanelRightClose className="w-4 h-4" />
+                : <PanelRightOpen className="w-4 h-4" />}
+            </button>
+          </div>
+        }
         hideAddVideo
       />
 
@@ -346,7 +360,11 @@ export default function PlayPage() {
         </div>
 
         {/* Sidebar — always visible below video on mobile, on right on desktop */}
-        <div className="flex-1 md:flex-none md:w-96 flex flex-col bg-card border-t md:border-t-0 md:border-l border-border overflow-hidden min-h-0">
+        <div className={[
+          'flex-1 md:flex-none md:w-96 flex flex-col bg-card border-t md:border-t-0 md:border-l border-border overflow-hidden min-h-0',
+          'md:transition-all md:duration-200',
+          sidebarOpen ? '' : 'md:hidden',
+        ].join(' ')}>
           {/* Sidebar tabs */}
           <div className="flex border-b border-border shrink-0">
             <SidebarTab active={sidebarTab === 'captions'} onClick={() => setSidebarTab('captions')}>

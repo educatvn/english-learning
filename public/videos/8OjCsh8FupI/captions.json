@@ -1,0 +1,3643 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 570,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "You want to speak English\nmore clearly and concisely."
+    } ]
+  }, {
+    "tStartMs": 3930,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "I'm going to give you seven tips."
+    } ]
+  }, {
+    "tStartMs": 5820,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "Are you ready?"
+    } ]
+  }, {
+    "tStartMs": 6780,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Well then let's jump right in."
+    } ]
+  }, {
+    "tStartMs": 9570,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Tip number one, this is very important."
+    } ]
+  }, {
+    "tStartMs": 12930,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Use sign post language."
+    } ]
+  }, {
+    "tStartMs": 16980,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Again, use sign signpost language."
+    } ]
+  }, {
+    "tStartMs": 20250,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "What is signpost language?"
+    } ]
+  }, {
+    "tStartMs": 21870,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "In other words, you're going\nto guide your listeners."
+    } ]
+  }, {
+    "tStartMs": 25064,
+    "dDurationMs": 5521,
+    "segs": [ {
+      "utf8": "Through your speech with\nclear verbal markers."
+    } ]
+  }, {
+    "tStartMs": 30615,
+    "dDurationMs": 6029,
+    "segs": [ {
+      "utf8": "Listen, when I say this first tip, we\nhave six more, but this first tip is"
+    } ]
+  }, {
+    "tStartMs": 36644,
+    "dDurationMs": 6421,
+    "segs": [ {
+      "utf8": "so important because each and every\nNative English speaker uses this tip."
+    } ]
+  }, {
+    "tStartMs": 43185,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "So how can you do this?"
+    } ]
+  }, {
+    "tStartMs": 45105,
+    "dDurationMs": 1649,
+    "segs": [ {
+      "utf8": "Here is a breakdown."
+    } ]
+  }, {
+    "tStartMs": 47085,
+    "dDurationMs": 6210,
+    "segs": [ {
+      "utf8": "The first thing is to start\nwith phrases like first, next."
+    } ]
+  }, {
+    "tStartMs": 53595,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Or finally to help listeners\nfollow your sequence of ideas."
+    } ]
+  }, {
+    "tStartMs": 58905,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Think about it."
+    } ]
+  }, {
+    "tStartMs": 59685,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Even, I just used this marker,\nthis phrase, I said, first,"
+    } ]
+  }, {
+    "tStartMs": 65385,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "native English speakers."
+    } ]
+  }, {
+    "tStartMs": 66975,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Use these markers, these\nsignposts as we speak."
+    } ]
+  }, {
+    "tStartMs": 72825,
+    "dDurationMs": 2505,
+    "segs": [ {
+      "utf8": "Here's the second way you can do this."
+    } ]
+  }, {
+    "tStartMs": 76304,
+    "dDurationMs": 9241,
+    "segs": [ {
+      "utf8": "Use transition phrases such as, for\nexample, or in contrast or similarly"
+    } ]
+  }, {
+    "tStartMs": 85755,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "to show relationships between ideas."
+    } ]
+  }, {
+    "tStartMs": 89745,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "Let's say you're speaking on\nthe topic of travel and you"
+    } ]
+  }, {
+    "tStartMs": 94515,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "say, ah, I lived in South Korea."
+    } ]
+  }, {
+    "tStartMs": 96975,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "I did, and you're speaking about Korea."
+    } ]
+  }, {
+    "tStartMs": 99315,
+    "dDurationMs": 5205,
+    "segs": [ {
+      "utf8": "And you can say similarly,\nJapan also has, do, do, do."
+    } ]
+  }, {
+    "tStartMs": 105015,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "You've mentioned things in Korea."
+    } ]
+  }, {
+    "tStartMs": 106695,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Maybe they're stationary."
+    } ]
+  }, {
+    "tStartMs": 107925,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "I love stationary, by the\nway, pens, come on, woowee."
+    } ]
+  }, {
+    "tStartMs": 111315,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "And then you say similarly."
+    } ]
+  }, {
+    "tStartMs": 113205,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Japan also offers great\nstationary products."
+    } ]
+  }, {
+    "tStartMs": 117075,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "Again, these phrases help the person to\nfollow along as they're listening to you."
+    } ]
+  }, {
+    "tStartMs": 123255,
+    "dDurationMs": 5819,
+    "segs": [ {
+      "utf8": "And it also, using this technique,\nagain, using signpost language also"
+    } ]
+  }, {
+    "tStartMs": 129074,
+    "dDurationMs": 4111,
+    "segs": [ {
+      "utf8": "helps you be more concise, more clear,\nand speak English more fluently."
+    } ]
+  }, {
+    "tStartMs": 133799,
+    "dDurationMs": 8671,
+    "segs": [ {
+      "utf8": "What about this one indicate shifts in\ntopic with phrases like moving on to, or"
+    } ]
+  }, {
+    "tStartMs": 142589,
+    "dDurationMs": 4261,
+    "segs": [ {
+      "utf8": "turning to, or let's now discuss again."
+    } ]
+  }, {
+    "tStartMs": 147209,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "Tip number one is all about\nusing the signpost language."
+    } ]
+  }, {
+    "tStartMs": 151500,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "You're literally directing\nsomeone through your brain."
+    } ]
+  }, {
+    "tStartMs": 155820,
+    "dDurationMs": 539,
+    "segs": [ {
+      "utf8": "Listen."
+    } ]
+  }, {
+    "tStartMs": 156959,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "You have many thoughts\nbecause you're intelligent."
+    } ]
+  }, {
+    "tStartMs": 159540,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "You have many ideas\nbecause you're amazing."
+    } ]
+  }, {
+    "tStartMs": 161970,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "You have many things you want to\nsay, and the person listening to you"
+    } ]
+  }, {
+    "tStartMs": 166079,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "wants to go on the journey with you."
+    } ]
+  }, {
+    "tStartMs": 168959,
+    "dDurationMs": 4981,
+    "segs": [ {
+      "utf8": "But just like when you're traveling\nsomewhere, there are signposts."
+    } ]
+  }, {
+    "tStartMs": 174060,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "There are different things to let you\nknow where you are on the journey."
+    } ]
+  }, {
+    "tStartMs": 177590,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Signpost language is important\nas you are speaking first."
+    } ]
+  }, {
+    "tStartMs": 182299,
+    "dDurationMs": 541,
+    "segs": [ {
+      "utf8": "Ah, okay."
+    } ]
+  }, {
+    "tStartMs": 182840,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "We're on the first point next."
+    } ]
+  }, {
+    "tStartMs": 184370,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Okay, we're on the next\npoint in conclusion."
+    } ]
+  }, {
+    "tStartMs": 186500,
+    "dDurationMs": 1019,
+    "segs": [ {
+      "utf8": "Okay, we're wrapping up."
+    } ]
+  }, {
+    "tStartMs": 188150,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Use signpost language tip number one."
+    } ]
+  }, {
+    "tStartMs": 191900,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "Now, before we go to tip number two, I\nwant to give you this bonus tip, baby."
+    } ]
+  }, {
+    "tStartMs": 196310,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "So I"
+    } ]
+  }, {
+    "tStartMs": 196970,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "have the English with\nTiffani app, and I want you"
+    } ]
+  }, {
+    "tStartMs": 199130,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "to download it because\nin this app each week."
+    } ]
+  }, {
+    "tStartMs": 202545,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "You will find lessons to help."
+    } ]
+  }, {
+    "tStartMs": 204135,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "You can download the app for\nfree, but I want to specifically"
+    } ]
+  }, {
+    "tStartMs": 206745,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "show you right here if you're\nwatching the weekly English fluency"
+    } ]
+  }, {
+    "tStartMs": 211485,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "lessons with teacher Tiffani."
+    } ]
+  }, {
+    "tStartMs": 213120,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "Each week you will"
+    } ]
+  }, {
+    "tStartMs": 214755,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "find lessons that coincide\nwith my YouTube lessons."
+    } ]
+  }, {
+    "tStartMs": 220665,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "For example, we are in 2025 right now."
+    } ]
+  }, {
+    "tStartMs": 224860,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "You will find each of the lessons for\nthis year, each lesson from each week."
+    } ]
+  }, {
+    "tStartMs": 231490,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "You can click on, let's see."
+    } ]
+  }, {
+    "tStartMs": 232630,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Let's click on this one right here."
+    } ]
+  }, {
+    "tStartMs": 234765,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "And you can practice."
+    } ]
+  }, {
+    "tStartMs": 236805,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "You can review what I taught you in\nthis YouTube English lesson, or if"
+    } ]
+  }, {
+    "tStartMs": 241785,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "you're watching on the podcast, you\ncan practice what you've learned."
+    } ]
+  }, {
+    "tStartMs": 245385,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "So again,"
+    } ]
+  }, {
+    "tStartMs": 246055,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "download the English with\nTiffani app and continue studying"
+    } ]
+  }, {
+    "tStartMs": 249525,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "with me."
+    } ]
+  }, {
+    "tStartMs": 250005,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "You can download it totally for free."
+    } ]
+  }, {
+    "tStartMs": 252345,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Now we're going after the\nbonus to tip number two."
+    } ]
+  }, {
+    "tStartMs": 256965,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Tip number two is implement."
+    } ]
+  }, {
+    "tStartMs": 260019,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "The rule of three."
+    } ]
+  }, {
+    "tStartMs": 261940,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Listen, baby, I love this rule."
+    } ]
+  }, {
+    "tStartMs": 266290,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "It's very important, the rule of three."
+    } ]
+  }, {
+    "tStartMs": 268750,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "So you're going to organize\ninformation in groups of three for"
+    } ]
+  }, {
+    "tStartMs": 273460,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "maximum impact and memorability."
+    } ]
+  }, {
+    "tStartMs": 277020,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "Again, when you group things in three,\nsomething happens in the brain of"
+    } ]
+  }, {
+    "tStartMs": 282810,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "the person listening to you, they're\nable to grasp what you're saying."
+    } ]
+  }, {
+    "tStartMs": 286380,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "So again, implement the rule of three."
+    } ]
+  }, {
+    "tStartMs": 289260,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Now you're asking Tiff, how do I do this?"
+    } ]
+  }, {
+    "tStartMs": 291630,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "I got you."
+    } ]
+  }, {
+    "tStartMs": 292469,
+    "dDurationMs": 1981,
+    "segs": [ {
+      "utf8": "Don't you worry how to do this?"
+    } ]
+  }, {
+    "tStartMs": 294450,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "So you're going to structure your\nmain arguments or examples in"
+    } ]
+  }, {
+    "tStartMs": 299640,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "sets of three whenever possible."
+    } ]
+  }, {
+    "tStartMs": 303450,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Let's say you're speaking about."
+    } ]
+  }, {
+    "tStartMs": 305625,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Your favorite?"
+    } ]
+  }, {
+    "tStartMs": 308475,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Mm. Let's do your favorite\ntelevision programs."
+    } ]
+  }, {
+    "tStartMs": 313425,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Instead of saying 16 television\nprograms, pick three."
+    } ]
+  }, {
+    "tStartMs": 317895,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Say your top three television programs."
+    } ]
+  }, {
+    "tStartMs": 320205,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Let's say you're speaking about\nyour favorite drink, right?"
+    } ]
+  }, {
+    "tStartMs": 323565,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Juice or soda."
+    } ]
+  }, {
+    "tStartMs": 325185,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "I don't drink alcohol."
+    } ]
+  }, {
+    "tStartMs": 326925,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "But you can say, oh, I love apple, I\nlove mango, and I love pineapple juice."
+    } ]
+  }, {
+    "tStartMs": 332415,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "Or you can say, Ooh, I love Sprite,\nI love Fanta, and I love grape soda."
+    } ]
+  }, {
+    "tStartMs": 337875,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Again, grouping them in threes."
+    } ]
+  }, {
+    "tStartMs": 340815,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Here's the second way\nyou can utilize this tip."
+    } ]
+  }, {
+    "tStartMs": 344295,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "You can use three part lists to make\nyour points more memorable and impactful."
+    } ]
+  }, {
+    "tStartMs": 350715,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "I actually just gave you a few lists,\nright, for the soda and for the juice."
+    } ]
+  }, {
+    "tStartMs": 354810,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Again, it's very powerful to\nimplement the rule of three."
+    } ]
+  }, {
+    "tStartMs": 358710,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "You could also apply the pattern of\nset up confrontation and resolution."
+    } ]
+  }, {
+    "tStartMs": 364380,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Three parts set up."
+    } ]
+  }, {
+    "tStartMs": 366915,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Confrontation and resolution when\ntelling stories or presenting cases."
+    } ]
+  }, {
+    "tStartMs": 371115,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Remember, at the very end of each lesson,\nI tell you a story for story time, so"
+    } ]
+  }, {
+    "tStartMs": 376875,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "don't miss it at the very end, but I\nusually give you the setting, the setup,"
+    } ]
+  }, {
+    "tStartMs": 382665,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "then a confrontation, something happens,\nand then the resolution, three parts."
+    } ]
+  }, {
+    "tStartMs": 387465,
+    "dDurationMs": 629,
+    "segs": [ {
+      "utf8": "Again."
+    } ]
+  }, {
+    "tStartMs": 388635,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Tip number two is."
+    } ]
+  }, {
+    "tStartMs": 390270,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Implement the rule of three, my friend."
+    } ]
+  }, {
+    "tStartMs": 393480,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Tip number two."
+    } ]
+  }, {
+    "tStartMs": 395730,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Tip number two is, and we're\ncalling these tips or steps."
+    } ]
+  }, {
+    "tStartMs": 398970,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Steps to help you speak English fluently."
+    } ]
+  }, {
+    "tStartMs": 401400,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "So tips or steps."
+    } ]
+  }, {
+    "tStartMs": 402660,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 403650,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Practice active listening."
+    } ]
+  }, {
+    "tStartMs": 407070,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Now, you want to improve\nyour own speaking, right?"
+    } ]
+  }, {
+    "tStartMs": 409200,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "You wanna speak English fluently."
+    } ]
+  }, {
+    "tStartMs": 410970,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "In order to do this, you have\nto become a better listener."
+    } ]
+  }, {
+    "tStartMs": 416760,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "When you become a better listener,\nyou'll also become a better speaker."
+    } ]
+  }, {
+    "tStartMs": 421620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So how can you do this?"
+    } ]
+  }, {
+    "tStartMs": 424170,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 425010,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "How can you do this?"
+    } ]
+  }, {
+    "tStartMs": 427080,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "Observe how effective speakers\norganize and deliver their messages."
+    } ]
+  }, {
+    "tStartMs": 433380,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Think about your favorite\nspeaker, your favorite teacher."
+    } ]
+  }, {
+    "tStartMs": 437955,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Hopefully it's to me and think\nabout how the individuals"
+    } ]
+  }, {
+    "tStartMs": 441375,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "actually organize their thoughts."
+    } ]
+  }, {
+    "tStartMs": 443865,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "How do they present the information?"
+    } ]
+  }, {
+    "tStartMs": 447315,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "As you're dissecting, as you're\nbreaking down, as you're picking"
+    } ]
+  }, {
+    "tStartMs": 451665,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "out the important parts, your brain\nwill naturally try to apply those"
+    } ]
+  }, {
+    "tStartMs": 455595,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "same things when you speak English."
+    } ]
+  }, {
+    "tStartMs": 458670,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Another way, pay attention to the\nspeaking techniques that capture your"
+    } ]
+  }, {
+    "tStartMs": 465030,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "interest and adapt them for your own use."
+    } ]
+  }, {
+    "tStartMs": 468360,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Hey, I really like when Tiff tells\nstories, or I really like when Tiff"
+    } ]
+  }, {
+    "tStartMs": 472050,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "gives three reasons, or, I really like\nwhen Tiff gives three examples, the"
+    } ]
+  }, {
+    "tStartMs": 475980,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "things that catch your attention, the\nthing that grips you, the things that"
+    } ]
+  }, {
+    "tStartMs": 479910,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "grab your attention or your interests."
+    } ]
+  }, {
+    "tStartMs": 482610,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Try to mimic them."
+    } ]
+  }, {
+    "tStartMs": 484500,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "The third way is analyze what\nmakes certain speakers clear and"
+    } ]
+  }, {
+    "tStartMs": 490530,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "concise, and then incorporate\nthose elements into your speech."
+    } ]
+  }, {
+    "tStartMs": 495330,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "What is it about that person that makes\nit so easy for me to understand them?"
+    } ]
+  }, {
+    "tStartMs": 499650,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "What are they doing?"
+    } ]
+  }, {
+    "tStartMs": 500580,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "For example, something you'll notice if\nyou're watching me right now on YouTube"
+    } ]
+  }, {
+    "tStartMs": 505380,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "as I'm teaching this lesson, something\nthat I do all the time is I use my hands."
+    } ]
+  }, {
+    "tStartMs": 511260,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "And you've probably been watching me\nthe entire time you've noticed it,"
+    } ]
+  }, {
+    "tStartMs": 514950,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "but I want you to think about this."
+    } ]
+  }, {
+    "tStartMs": 516660,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "I purposely use my hands when I speak."
+    } ]
+  }, {
+    "tStartMs": 519210,
+    "dDurationMs": 450,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 519720,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Because I want to enhance your\nexperience as you're watching"
+    } ]
+  }, {
+    "tStartMs": 523320,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "me, as I'm teaching you."
+    } ]
+  }, {
+    "tStartMs": 524760,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "When I say I'm giving you three\nelements, when I say here, this is"
+    } ]
+  }, {
+    "tStartMs": 527790,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "number five, something happens when\nwhat you're hearing, what you're"
+    } ]
+  }, {
+    "tStartMs": 532440,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "listening to matches what you see."
+    } ]
+  }, {
+    "tStartMs": 535650,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "The brain is connecting these things\nand it makes it easier to understand."
+    } ]
+  }, {
+    "tStartMs": 539880,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "So."
+    } ]
+  }, {
+    "tStartMs": 540690,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Think about the individuals\nyou enjoy listening to."
+    } ]
+  }, {
+    "tStartMs": 544320,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "If you're watching them, watch\nthem closely as you listen to them"
+    } ]
+  }, {
+    "tStartMs": 548040,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "and try to mimic, try to emulate,\ntry to copy what they are doing."
+    } ]
+  }, {
+    "tStartMs": 553680,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "Make sense?"
+    } ]
+  }, {
+    "tStartMs": 554790,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Yeah, you got it."
+    } ]
+  }, {
+    "tStartMs": 556260,
+    "dDurationMs": 450,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 556830,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Now let's move on to tip number four."
+    } ]
+  }, {
+    "tStartMs": 561480,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Employ the bottom line upfront technique."
+    } ]
+  }, {
+    "tStartMs": 566444,
+    "dDurationMs": 811,
+    "segs": [ {
+      "utf8": "Say it again."
+    } ]
+  }, {
+    "tStartMs": 567555,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Employ, start using the\nbottom line upfront technique."
+    } ]
+  }, {
+    "tStartMs": 572444,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "In other words, start your conclusion\nfirst, then provide supporting details."
+    } ]
+  }, {
+    "tStartMs": 579435,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "You start with the end,\nand then you go backwards."
+    } ]
+  }, {
+    "tStartMs": 583275,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "They do this in movies."
+    } ]
+  }, {
+    "tStartMs": 584595,
+    "dDurationMs": 3989,
+    "segs": [ {
+      "utf8": "Sometimes they show you the\nfinal scene and what happens."
+    } ]
+  }, {
+    "tStartMs": 588735,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "It opens up this curiosity."
+    } ]
+  }, {
+    "tStartMs": 592125,
+    "dDurationMs": 450,
+    "segs": [ {
+      "utf8": "Hold up."
+    } ]
+  }, {
+    "tStartMs": 592575,
+    "dDurationMs": 330,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 593385,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "Wait a minute."
+    } ]
+  }, {
+    "tStartMs": 594375,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Why is this woman crying on the boat?"
+    } ]
+  }, {
+    "tStartMs": 596265,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "What happened?"
+    } ]
+  }, {
+    "tStartMs": 597585,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And then the movie starts and it fills\nin those holes like what happened?"
+    } ]
+  }, {
+    "tStartMs": 602895,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Remember English fluency?"
+    } ]
+  }, {
+    "tStartMs": 604515,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "It's not just about the words you've\nused, it's about your ability to convey"
+    } ]
+  }, {
+    "tStartMs": 608925,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "an idea, to convey a thought, to share\nyour ideas in a clear and concise."
+    } ]
+  }, {
+    "tStartMs": 613979,
+    "dDurationMs": 421,
+    "segs": [ {
+      "utf8": "Way."
+    } ]
+  }, {
+    "tStartMs": 614939,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "One tip, one strategy is to start using\nthe bottom line upfront technique."
+    } ]
+  }, {
+    "tStartMs": 621089,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "So how do you do this?"
+    } ]
+  }, {
+    "tStartMs": 622469,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 623310,
+    "dDurationMs": 1139,
+    "segs": [ {
+      "utf8": "How can you do this?"
+    } ]
+  }, {
+    "tStartMs": 624569,
+    "dDurationMs": 8040,
+    "segs": [ {
+      "utf8": "Begin with your main point or conclusion\nbefore explaining how you arrived at it."
+    } ]
+  }, {
+    "tStartMs": 632699,
+    "dDurationMs": 5071,
+    "segs": [ {
+      "utf8": "For example, you've heard me say\nthis before, the five W's method"
+    } ]
+  }, {
+    "tStartMs": 637770,
+    "dDurationMs": 3569,
+    "segs": [ {
+      "utf8": "is the most powerful method to\nhelp you speak English fluently."
+    } ]
+  }, {
+    "tStartMs": 641729,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Now, if you've."
+    } ]
+  }, {
+    "tStartMs": 643365,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "You've probably heard it because\nyou're my student, but let's say"
+    } ]
+  }, {
+    "tStartMs": 646545,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "someone new comes up and they're like,\nwell, what's the five W's method?"
+    } ]
+  }, {
+    "tStartMs": 649545,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Immediately they're curious."
+    } ]
+  }, {
+    "tStartMs": 650985,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "I've given the conclusion the\nfive W's method is amazing."
+    } ]
+  }, {
+    "tStartMs": 654645,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Who, what, when, where, and\nwhy, but how do you apply it?"
+    } ]
+  }, {
+    "tStartMs": 657165,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "How does she come up with this?"
+    } ]
+  }, {
+    "tStartMs": 658375,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Why does Tiffani think that's the best"
+    } ]
+  }, {
+    "tStartMs": 660255,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "method?"
+    } ]
+  }, {
+    "tStartMs": 661455,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And then I provide information,\nagain, bottom line, upfront."
+    } ]
+  }, {
+    "tStartMs": 667065,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Or you can use phrases\nlike The key takeaway is."
+    } ]
+  }, {
+    "tStartMs": 672420,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "Or what this means is to highlight\nyour main message, to highlight"
+    } ]
+  }, {
+    "tStartMs": 678210,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the most important point, and\nthen you give the support."
+    } ]
+  }, {
+    "tStartMs": 682470,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "It's basically like working\nbackwards, bottom line, upfront."
+    } ]
+  }, {
+    "tStartMs": 687720,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Or you can structure your speech as\nan inverted pyramid with the most"
+    } ]
+  }, {
+    "tStartMs": 694680,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "important information first inverted."
+    } ]
+  }, {
+    "tStartMs": 698850,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "So a pyramid is usually like this."
+    } ]
+  }, {
+    "tStartMs": 701115,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "Inverted."
+    } ]
+  }, {
+    "tStartMs": 701805,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "You see that inverted and tell the\nmost important information first."
+    } ]
+  }, {
+    "tStartMs": 706695,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "All right, element tip number four."
+    } ]
+  }, {
+    "tStartMs": 709665,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Now it's time to move\non to tip number five."
+    } ]
+  }, {
+    "tStartMs": 712125,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I don't know if you can tell,\nbut I really like teaching"
+    } ]
+  }, {
+    "tStartMs": 714045,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "English and I'm having a ball."
+    } ]
+  }, {
+    "tStartMs": 715665,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I hope you're enjoying this lesson too."
+    } ]
+  }, {
+    "tStartMs": 717465,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 718335,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Tip number five, practice\nchunking information."
+    } ]
+  }, {
+    "tStartMs": 723615,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "In other words, group related ideas\ntogether to make them easier to follow."
+    } ]
+  }, {
+    "tStartMs": 730245,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Think about it this lesson."
+    } ]
+  }, {
+    "tStartMs": 731805,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "In this lesson, I'm helping you\nunderstand important tips to help"
+    } ]
+  }, {
+    "tStartMs": 735915,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "you be more clear and more concise."
+    } ]
+  }, {
+    "tStartMs": 738345,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "I'm not teaching you five English words."
+    } ]
+  }, {
+    "tStartMs": 740475,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "I'm not teaching you\nthree English expressions."
+    } ]
+  }, {
+    "tStartMs": 742725,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "I'm not teaching you two idioms."
+    } ]
+  }, {
+    "tStartMs": 744225,
+    "dDurationMs": 360,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 744615,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Our focus for this week's lesson is\nhow you can speak English clearly"
+    } ]
+  }, {
+    "tStartMs": 750255,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and concisely using these seven tips."
+    } ]
+  }, {
+    "tStartMs": 752895,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "We're speaking about English fluency."
+    } ]
+  }, {
+    "tStartMs": 756135,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "One focus."
+    } ]
+  }, {
+    "tStartMs": 757305,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "One topic makes sense, right?"
+    } ]
+  }, {
+    "tStartMs": 759765,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Chunking information."
+    } ]
+  }, {
+    "tStartMs": 761265,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So how can you do this\nas an English learner?"
+    } ]
+  }, {
+    "tStartMs": 764085,
+    "dDurationMs": 1739,
+    "segs": [ {
+      "utf8": "Here's the first thing you can do."
+    } ]
+  }, {
+    "tStartMs": 766515,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "Organize your speech into logical\nsections of related information,"
+    } ]
+  }, {
+    "tStartMs": 772935,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "logical sections of related information."
+    } ]
+  }, {
+    "tStartMs": 777465,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "My friend, I hope you understand, I'm\ngonna, I'm gonna actually pause my lesson"
+    } ]
+  }, {
+    "tStartMs": 782145,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "really quickly just to encourage you."
+    } ]
+  }, {
+    "tStartMs": 785565,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "I hope you realize how\nintelligent you are."
+    } ]
+  }, {
+    "tStartMs": 789795,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "I know English is challenging."
+    } ]
+  }, {
+    "tStartMs": 791325,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "I know that you've learned lots of\nwords and it's frustrating when you"
+    } ]
+  }, {
+    "tStartMs": 793665,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "get to a situation you can't find them."
+    } ]
+  }, {
+    "tStartMs": 795615,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "But I need you to realize you're\nintelligent and the only, or the"
+    } ]
+  }, {
+    "tStartMs": 799905,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "main reason why you've struggled\nis because no one has taught you"
+    } ]
+  }, {
+    "tStartMs": 804105,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "about organizing your thoughts."
+    } ]
+  }, {
+    "tStartMs": 806430,
+    "dDurationMs": 3149,
+    "segs": [ {
+      "utf8": "About the importance of being\nlogical when you're speaking"
+    } ]
+  }, {
+    "tStartMs": 809579,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "English, not about using 5,000 words."
+    } ]
+  }, {
+    "tStartMs": 812339,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "It's about using the right words in\nthe right context at the right time."
+    } ]
+  }, {
+    "tStartMs": 817050,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "Logic is important when you are trying\nto speak English fluently, and I want you"
+    } ]
+  }, {
+    "tStartMs": 822000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to realize that, and you're intelligent."
+    } ]
+  }, {
+    "tStartMs": 824670,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "You are a logical person."
+    } ]
+  }, {
+    "tStartMs": 825870,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "You can do it."
+    } ]
+  }, {
+    "tStartMs": 827069,
+    "dDurationMs": 1951,
+    "segs": [ {
+      "utf8": "So element number five, back to it Now."
+    } ]
+  }, {
+    "tStartMs": 829500,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Organize your speech into logical\nsections of related information."
+    } ]
+  }, {
+    "tStartMs": 833430,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Another thing that's powerful is."
+    } ]
+  }, {
+    "tStartMs": 836459,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "Use pauses between chunks to\nhelp listeners process one set of"
+    } ]
+  }, {
+    "tStartMs": 842069,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "ideas before moving to the next."
+    } ]
+  }, {
+    "tStartMs": 844500,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "So let's say, for example, I'm\ntelling you my favorite foods, right?"
+    } ]
+  }, {
+    "tStartMs": 847859,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "And I say I have three favorites."
+    } ]
+  }, {
+    "tStartMs": 849420,
+    "dDurationMs": 4169,
+    "segs": [ {
+      "utf8": "I have ah, first Indian, then\nThai, then Mexican, and I start"
+    } ]
+  }, {
+    "tStartMs": 853589,
+    "dDurationMs": 1651,
+    "segs": [ {
+      "utf8": "talking about Indian food."
+    } ]
+  }, {
+    "tStartMs": 855240,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "I remember the first\ntime I had Indian food."
+    } ]
+  }, {
+    "tStartMs": 857430,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Honestly, I really do."
+    } ]
+  }, {
+    "tStartMs": 858780,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "I remember my friend in high school, her\nmom made this egg, I think it was egg drop"
+    } ]
+  }, {
+    "tStartMs": 862079,
+    "dDurationMs": 1831,
+    "segs": [ {
+      "utf8": "soup or egg, something kind of egg curry."
+    } ]
+  }, {
+    "tStartMs": 864105,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "Amazing."
+    } ]
+  }, {
+    "tStartMs": 864855,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Burn the mess out of my mouth, but\nthe flavor absolutely delicious."
+    } ]
+  }, {
+    "tStartMs": 868275,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And I'm telling you the story about\nIndian food and how I first had"
+    } ]
+  }, {
+    "tStartMs": 871755,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "it and, and how delicious it was."
+    } ]
+  }, {
+    "tStartMs": 874845,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Then I pause Indian food."
+    } ]
+  }, {
+    "tStartMs": 877365,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Ooh, absolutely amazing."
+    } ]
+  }, {
+    "tStartMs": 880035,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "But let me tell you now."
+    } ]
+  }, {
+    "tStartMs": 881834,
+    "dDurationMs": 1021,
+    "segs": [ {
+      "utf8": "About Thai food."
+    } ]
+  }, {
+    "tStartMs": 883605,
+    "dDurationMs": 2459,
+    "segs": [ {
+      "utf8": "I paused for a moment\nto let your brain know."
+    } ]
+  }, {
+    "tStartMs": 886245,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Okay, we finished"
+    } ]
+  }, {
+    "tStartMs": 887805,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "with this section."
+    } ]
+  }, {
+    "tStartMs": 888745,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Tiffani told me a short story"
+    } ]
+  }, {
+    "tStartMs": 890625,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "about her first time eating Indian food."
+    } ]
+  }, {
+    "tStartMs": 892605,
+    "dDurationMs": 4349,
+    "segs": [ {
+      "utf8": "Her mom, her friend's mom made this egg\ncurry that was so delicious but spicy."
+    } ]
+  }, {
+    "tStartMs": 897855,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Now it's time to move to Thai food."
+    } ]
+  }, {
+    "tStartMs": 899834,
+    "dDurationMs": 4591,
+    "segs": [ {
+      "utf8": "Again, pausing for a moment to give\nthe person's brain an opportunity"
+    } ]
+  }, {
+    "tStartMs": 904425,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "to say, Hey, this chapter's done."
+    } ]
+  }, {
+    "tStartMs": 906915,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Now it's time to move to the next chapter."
+    } ]
+  }, {
+    "tStartMs": 908775,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Listen."
+    } ]
+  }, {
+    "tStartMs": 910500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Being clear and concise."
+    } ]
+  }, {
+    "tStartMs": 912810,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "This proves and shows that you\ncan speak English fluently."
+    } ]
+  }, {
+    "tStartMs": 917040,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Here's the third way you can do this."
+    } ]
+  }, {
+    "tStartMs": 919590,
+    "dDurationMs": 7050,
+    "segs": [ {
+      "utf8": "Create clear verbal transitions\nbetween chunks to signal when you're"
+    } ]
+  }, {
+    "tStartMs": 926640,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "shifting to a new group of ideas."
+    } ]
+  }, {
+    "tStartMs": 929700,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Think about it."
+    } ]
+  }, {
+    "tStartMs": 930720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I told you about the Indian\nfood experience I had."
+    } ]
+  }, {
+    "tStartMs": 933810,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Then I said, now let me\ntell you about Thai food."
+    } ]
+  }, {
+    "tStartMs": 939255,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I transitioned verbal transition."
+    } ]
+  }, {
+    "tStartMs": 941535,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Now I'm stopping what I was saying."
+    } ]
+  }, {
+    "tStartMs": 944325,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Now I'm moving to Thai food."
+    } ]
+  }, {
+    "tStartMs": 947235,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Verbal transitions are important."
+    } ]
+  }, {
+    "tStartMs": 948915,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "So again, tip number five,\npractice chunking information."
+    } ]
+  }, {
+    "tStartMs": 953415,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Tip number six, and these are tips."
+    } ]
+  }, {
+    "tStartMs": 956625,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Listen my friend, these are tips that\neven native English speakers have to"
+    } ]
+  }, {
+    "tStartMs": 960915,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "implement, have to utilize why you\ndon't just automatically become an"
+    } ]
+  }, {
+    "tStartMs": 965655,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "amazing speaker, just out the womb."
+    } ]
+  }, {
+    "tStartMs": 968280,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "As soon as you're born, you learn,\nand I'm saying this because even"
+    } ]
+  }, {
+    "tStartMs": 972450,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "native English speakers, we have to\nlearn how to speak English fluently."
+    } ]
+  }, {
+    "tStartMs": 976830,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Just like you learned how to speak your\nlanguage fluently, I'm teaching you the"
+    } ]
+  }, {
+    "tStartMs": 981570,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "principles, the methods, the strategies\nthat we as native English speakers have to"
+    } ]
+  }, {
+    "tStartMs": 986490,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "follow in order to speak English fluently."
+    } ]
+  }, {
+    "tStartMs": 989430,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "If I just start using random words,\nyou're not gonna watch me anymore."
+    } ]
+  }, {
+    "tStartMs": 992880,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "You say tip, I don't\nknow what you're saying."
+    } ]
+  }, {
+    "tStartMs": 994930,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "But I know how to speak in chunks."
+    } ]
+  }, {
+    "tStartMs": 997750,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "I know how to use transition words."
+    } ]
+  }, {
+    "tStartMs": 999730,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "I know how to teach you in a way\nthat is logical and you are going"
+    } ]
+  }, {
+    "tStartMs": 1004020,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "to be able to speak the same way."
+    } ]
+  }, {
+    "tStartMs": 1006840,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "Tip number six, eliminate redundancy."
+    } ]
+  }, {
+    "tStartMs": 1010890,
+    "dDurationMs": 1049,
+    "segs": [ {
+      "utf8": "I like this word actually."
+    } ]
+  }, {
+    "tStartMs": 1011939,
+    "dDurationMs": 1171,
+    "segs": [ {
+      "utf8": "I like pronouncing this word."
+    } ]
+  }, {
+    "tStartMs": 1013320,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Eliminate redundancy."
+    } ]
+  }, {
+    "tStartMs": 1015300,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "You like that?"
+    } ]
+  }, {
+    "tStartMs": 1015900,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Say redundancy."
+    } ]
+  }, {
+    "tStartMs": 1019110,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "Good job."
+    } ]
+  }, {
+    "tStartMs": 1019740,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Alright, so say things once."
+    } ]
+  }, {
+    "tStartMs": 1022819,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "Clearly instead of repeating\nthe same idea in different ways."
+    } ]
+  }, {
+    "tStartMs": 1027770,
+    "dDurationMs": 5309,
+    "segs": [ {
+      "utf8": "Now, there are certain periods of\ntime when it's important to say"
+    } ]
+  }, {
+    "tStartMs": 1033079,
+    "dDurationMs": 1951,
+    "segs": [ {
+      "utf8": "the same thing in different ways."
+    } ]
+  }, {
+    "tStartMs": 1035060,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "You're trying to emphasize\nsomething, you're trying to teach"
+    } ]
+  }, {
+    "tStartMs": 1037579,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "something, which is what I'm doing."
+    } ]
+  }, {
+    "tStartMs": 1039740,
+    "dDurationMs": 5669,
+    "segs": [ {
+      "utf8": "But in general, it's important to\nsay what you mean and say it clearly."
+    } ]
+  }, {
+    "tStartMs": 1045859,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Let me explain how you can do this again."
+    } ]
+  }, {
+    "tStartMs": 1048319,
+    "dDurationMs": 1471,
+    "segs": [ {
+      "utf8": "We're on tip number six."
+    } ]
+  }, {
+    "tStartMs": 1049790,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "How can you do this?"
+    } ]
+  }, {
+    "tStartMs": 1051575,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Review your speech for instances\nwhere you say the same thing multiple"
+    } ]
+  }, {
+    "tStartMs": 1056015,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "ways and choose the clearest version."
+    } ]
+  }, {
+    "tStartMs": 1060125,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "Let's say I've said, oh, Indian food\nis amazing, it Indian food is awesome."
+    } ]
+  }, {
+    "tStartMs": 1064504,
+    "dDurationMs": 2491,
+    "segs": [ {
+      "utf8": "Indian food really matches my taste buds."
+    } ]
+  }, {
+    "tStartMs": 1067310,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Okay, well, really matches my taste\nBuds is a bit clearer than amazing."
+    } ]
+  }, {
+    "tStartMs": 1072260,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Awesome."
+    } ]
+  }, {
+    "tStartMs": 1073340,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "It helps the person know, ah,\nTIFF likes well seasoned food."
+    } ]
+  }, {
+    "tStartMs": 1078050,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Tiff doesn't mind spice."
+    } ]
+  }, {
+    "tStartMs": 1080240,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Why I said it matches my taste buds."
+    } ]
+  }, {
+    "tStartMs": 1083300,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Alright, so pick the clearest version."
+    } ]
+  }, {
+    "tStartMs": 1086360,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "The second way you can do this\nis replace wordy phrases with"
+    } ]
+  }, {
+    "tStartMs": 1090770,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "more concise alternatives."
+    } ]
+  }, {
+    "tStartMs": 1093485,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So instead of saying at this point\nin time, and again, it depends on the"
+    } ]
+  }, {
+    "tStartMs": 1098045,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "situation, but instead of saying at this\npoint in time, I could say now, so I was"
+    } ]
+  }, {
+    "tStartMs": 1104105,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "speaking about Indian food and my first\nexperience when my mom, my friend's mom"
+    } ]
+  }, {
+    "tStartMs": 1108004,
+    "dDurationMs": 2071,
+    "segs": [ {
+      "utf8": "made, and I said, now let's transition."
+    } ]
+  }, {
+    "tStartMs": 1110075,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "I could have said, at this\npoint in time, I would like to"
+    } ]
+  }, {
+    "tStartMs": 1113045,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "tell you about Thai food, Uhuh."
+    } ]
+  }, {
+    "tStartMs": 1114905,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Now I'm going to tell you about Thai food."
+    } ]
+  }, {
+    "tStartMs": 1118235,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "So be clear and concise."
+    } ]
+  }, {
+    "tStartMs": 1120530,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "The third way is to use\nprecision in your word choice."
+    } ]
+  }, {
+    "tStartMs": 1125120,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "To avoid needing clarification or\nrepetition, be clear, be concise."
+    } ]
+  }, {
+    "tStartMs": 1131149,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Know what you want to say, my friend."
+    } ]
+  }, {
+    "tStartMs": 1133790,
+    "dDurationMs": 4139,
+    "segs": [ {
+      "utf8": "We're speaking about being clear and\nconcise to improve your English fluency."
+    } ]
+  }, {
+    "tStartMs": 1138590,
+    "dDurationMs": 6329,
+    "segs": [ {
+      "utf8": "Tip number seven, create\na mental framework."
+    } ]
+  }, {
+    "tStartMs": 1145930,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Ooh, man, I love teaching English."
+    } ]
+  }, {
+    "tStartMs": 1147460,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Create a mental framework."
+    } ]
+  }, {
+    "tStartMs": 1149740,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Use visualization techniques to organize\nand remember your speaking points."
+    } ]
+  }, {
+    "tStartMs": 1154480,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Let's say, for example, you have\nto give a speech and your speech is"
+    } ]
+  }, {
+    "tStartMs": 1158350,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "going to be about your family, and\nyou want to speak about each member"
+    } ]
+  }, {
+    "tStartMs": 1161620,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "of your family, your father, your\nmother, your sister, your brother,"
+    } ]
+  }, {
+    "tStartMs": 1165370,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "and then maybe even your dog, right?"
+    } ]
+  }, {
+    "tStartMs": 1167830,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "And you want to speak about them,\nbut you want to visualize it"
+    } ]
+  }, {
+    "tStartMs": 1170770,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "as you're, as you're preparing."
+    } ]
+  }, {
+    "tStartMs": 1172705,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "So maybe your dad will be an\napple, your mom will be a banana."
+    } ]
+  }, {
+    "tStartMs": 1176185,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Your sister might be a grape, your\nbrother might be a walnut, a walnut, pick"
+    } ]
+  }, {
+    "tStartMs": 1181465,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "something, and then you're visualizing it."
+    } ]
+  }, {
+    "tStartMs": 1183325,
+    "dDurationMs": 689,
+    "segs": [ {
+      "utf8": "Even just now."
+    } ]
+  }, {
+    "tStartMs": 1184014,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "When I said that, it sounded\ninteresting, you're like, oh, huh."
+    } ]
+  }, {
+    "tStartMs": 1186955,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "So now I'm thinking, okay,\nthe apple, what is an apple?"
+    } ]
+  }, {
+    "tStartMs": 1188965,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Apple's very strong and\napple is sweet inside."
+    } ]
+  }, {
+    "tStartMs": 1192385,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Even though strong on the\noutside, a banana is kind of"
+    } ]
+  }, {
+    "tStartMs": 1194245,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "soft and my mom is really soft."
+    } ]
+  }, {
+    "tStartMs": 1196135,
+    "dDurationMs": 2129,
+    "segs": [ {
+      "utf8": "And you see what happened\nright there, right?"
+    } ]
+  }, {
+    "tStartMs": 1199235,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Create a mental framework."
+    } ]
+  }, {
+    "tStartMs": 1200735,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Make these connections."
+    } ]
+  }, {
+    "tStartMs": 1201785,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "So when you go to give a\nspeech, apple, banana, great."
+    } ]
+  }, {
+    "tStartMs": 1205175,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Wanna, I'm thinking about these\nthings to describe my family."
+    } ]
+  }, {
+    "tStartMs": 1209555,
+    "dDurationMs": 270,
+    "segs": [ {
+      "utf8": "Ooh."
+    } ]
+  }, {
+    "tStartMs": 1209885,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Even just now, I'm like,\nwow, it really works."
+    } ]
+  }, {
+    "tStartMs": 1212555,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "How can you do it?"
+    } ]
+  }, {
+    "tStartMs": 1213395,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 1214115,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Here are three ways you can do this."
+    } ]
+  }, {
+    "tStartMs": 1216335,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "First, visualize your speech as\na physical structure or journey."
+    } ]
+  }, {
+    "tStartMs": 1221295,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "With distinct locations\nfor each main point."
+    } ]
+  }, {
+    "tStartMs": 1225014,
+    "dDurationMs": 4111,
+    "segs": [ {
+      "utf8": "Let's say, I'm gonna tell you about\nmy life journey, literally, right?"
+    } ]
+  }, {
+    "tStartMs": 1229635,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "And I wanna talk about my experience\nwhen I was in South Korea teaching"
+    } ]
+  }, {
+    "tStartMs": 1233055,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "English and also learning Korean, right?"
+    } ]
+  }, {
+    "tStartMs": 1235245,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "For about 10 years I was there."
+    } ]
+  }, {
+    "tStartMs": 1237105,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "True story."
+    } ]
+  }, {
+    "tStartMs": 1238035,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "And I, I'm trying to\ntake you on my journey."
+    } ]
+  }, {
+    "tStartMs": 1239835,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "So what's the first thing?"
+    } ]
+  }, {
+    "tStartMs": 1240764,
+    "dDurationMs": 271,
+    "segs": [ {
+      "utf8": "Oh, okay."
+    } ]
+  }, {
+    "tStartMs": 1241035,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I want to talk about the\ninstitute that I worked for."
+    } ]
+  }, {
+    "tStartMs": 1243405,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 1243915,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Then I wanna talk about\nmy favorite restaurant."
+    } ]
+  }, {
+    "tStartMs": 1245745,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 1245955,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "This Korean restaurant with the Alma."
+    } ]
+  }, {
+    "tStartMs": 1247730,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "And how she used to feed me\ndelicious food in the morning."
+    } ]
+  }, {
+    "tStartMs": 1250550,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Then I want to tell you about, oh\nman, when I used to actually visit my"
+    } ]
+  }, {
+    "tStartMs": 1254090,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "friend, so you see, and at the mountain."
+    } ]
+  }, {
+    "tStartMs": 1257090,
+    "dDurationMs": 3329,
+    "segs": [ {
+      "utf8": "So I'm creating this journey in\nmy mind and also being able to"
+    } ]
+  }, {
+    "tStartMs": 1260419,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "express it to you clear and concise."
+    } ]
+  }, {
+    "tStartMs": 1263780,
+    "dDurationMs": 7169,
+    "segs": [ {
+      "utf8": "Next, you can also do this associate\nkey points with familiar objects or"
+    } ]
+  }, {
+    "tStartMs": 1270949,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "places to help recall them smoothly."
+    } ]
+  }, {
+    "tStartMs": 1273919,
+    "dDurationMs": 2371,
+    "segs": [ {
+      "utf8": "What fruit did I say my dad was?"
+    } ]
+  }, {
+    "tStartMs": 1277645,
+    "dDurationMs": 1195,
+    "segs": [ {
+      "utf8": "Ah, you got it."
+    } ]
+  }, {
+    "tStartMs": 1278960,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "I said my dad was an apple."
+    } ]
+  }, {
+    "tStartMs": 1280640,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "You see just that simple connection."
+    } ]
+  }, {
+    "tStartMs": 1282860,
+    "dDurationMs": 390,
+    "segs": [ {
+      "utf8": "Apple."
+    } ]
+  }, {
+    "tStartMs": 1283250,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "My dad, my mom, banana, my sister."
+    } ]
+  }, {
+    "tStartMs": 1286820,
+    "dDurationMs": 360,
+    "segs": [ {
+      "utf8": "Great."
+    } ]
+  }, {
+    "tStartMs": 1287180,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "You see just those simple connections."
+    } ]
+  }, {
+    "tStartMs": 1289220,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "I just said it as an example,\nyet you remembered it."
+    } ]
+  }, {
+    "tStartMs": 1291860,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Again, associate key points\nwith familiar objects."
+    } ]
+  }, {
+    "tStartMs": 1295280,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "We all know Apple."
+    } ]
+  }, {
+    "tStartMs": 1296360,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "We all know Banana."
+    } ]
+  }, {
+    "tStartMs": 1297500,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "We all know grape."
+    } ]
+  }, {
+    "tStartMs": 1298610,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1299930,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "The third way you can do this practice\nwalking through your mental framework"
+    } ]
+  }, {
+    "tStartMs": 1306170,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "before important speaking situations."
+    } ]
+  }, {
+    "tStartMs": 1309230,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "If I'm gonna talk about my family."
+    } ]
+  }, {
+    "tStartMs": 1310550,
+    "dDurationMs": 180,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 1310730,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Re let me remember."
+    } ]
+  }, {
+    "tStartMs": 1311990,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Ooh, okay."
+    } ]
+  }, {
+    "tStartMs": 1312590,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Apple, banana."
+    } ]
+  }, {
+    "tStartMs": 1313700,
+    "dDurationMs": 240,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 1313940,
+    "dDurationMs": 390,
+    "segs": [ {
+      "utf8": "Grape."
+    } ]
+  }, {
+    "tStartMs": 1314360,
+    "dDurationMs": 210,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 1314570,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "Walnut."
+    } ]
+  }, {
+    "tStartMs": 1315754,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "And then when I get to the conversation,\nI'll just naturally start speaking."
+    } ]
+  }, {
+    "tStartMs": 1319235,
+    "dDurationMs": 450,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1319835,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Because apple, banana, great, walnut."
+    } ]
+  }, {
+    "tStartMs": 1321905,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "These are things I see on a regular basis."
+    } ]
+  }, {
+    "tStartMs": 1323705,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "It's very comfortable."
+    } ]
+  }, {
+    "tStartMs": 1325054,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Think of something easy to connect\nto, a challenging topic, and it'll"
+    } ]
+  }, {
+    "tStartMs": 1329764,
+    "dDurationMs": 3331,
+    "segs": [ {
+      "utf8": "make it easier for you to speak on\nthat challenging topic because you"
+    } ]
+  }, {
+    "tStartMs": 1333095,
+    "dDurationMs": 1709,
+    "segs": [ {
+      "utf8": "have the familiar things in your mind."
+    } ]
+  }, {
+    "tStartMs": 1335345,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "Make sense?"
+    } ]
+  }, {
+    "tStartMs": 1336605,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "Yes, my friend."
+    } ]
+  }, {
+    "tStartMs": 1337295,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "You're so smart."
+    } ]
+  }, {
+    "tStartMs": 1338375,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "I hope you enjoyed this lesson."
+    } ]
+  }, {
+    "tStartMs": 1339815,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "If you want to continue studying with\nme, you can actually start my course,"
+    } ]
+  }, {
+    "tStartMs": 1344975,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the 365 day English study plan, where\neach day for an entire year, you'll"
+    } ]
+  }, {
+    "tStartMs": 1349775,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "get a lesson from me helping you\nget to the advanced English level."
+    } ]
+  }, {
+    "tStartMs": 1353345,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "All you have to do is go to"
+    } ]
+  }, {
+    "tStartMs": 1354450,
+    "dDurationMs": 4475,
+    "segs": [ {
+      "utf8": "speak English with Tiffani.com/ 3 6 5."
+    } ]
+  }, {
+    "tStartMs": 1358925,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Plan again."
+    } ]
+  }, {
+    "tStartMs": 1359895,
+    "dDurationMs": 4215,
+    "segs": [ {
+      "utf8": "Speak English with Tiffani.com/ 3 6 5."
+    } ]
+  }, {
+    "tStartMs": 1364110,
+    "dDurationMs": 1205,
+    "segs": [ {
+      "utf8": "Plan my"
+    } ]
+  }, {
+    "tStartMs": 1365315,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "friend, I will talk to\nyou in the next lesson."
+    } ]
+  }, {
+    "tStartMs": 1373085,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Change my heart."
+    } ]
+  }, {
+    "tStartMs": 1374524,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "Oh God."
+    } ]
+  }, {
+    "tStartMs": 1376460,
+    "dDurationMs": 939,
+    "segs": [ {
+      "utf8": "You still there?"
+    } ]
+  }, {
+    "tStartMs": 1379865,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "You know what time it is."
+    } ]
+  }, {
+    "tStartMs": 1381370,
+    "dDurationMs": 5305,
+    "segs": [ {
+      "utf8": "It's story time a I said it's story time."
+    } ]
+  }, {
+    "tStartMs": 1386830,
+    "dDurationMs": 490,
+    "segs": [ {
+      "utf8": "Alright."
+    } ]
+  }, {
+    "tStartMs": 1388295,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "I mentioned a few moments\nago that I lived in Korea."
+    } ]
+  }, {
+    "tStartMs": 1391835,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "I lived in South Korea\nfor about 10 years now."
+    } ]
+  }, {
+    "tStartMs": 1394265,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "You may or may not have already known\nthat, depending on if you're new."
+    } ]
+  }, {
+    "tStartMs": 1397745,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Hey boo."
+    } ]
+  }, {
+    "tStartMs": 1398915,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "Hey, good to see you."
+    } ]
+  }, {
+    "tStartMs": 1400025,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "If you're not new, welcome back, homey."
+    } ]
+  }, {
+    "tStartMs": 1402335,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "Good to see you."
+    } ]
+  }, {
+    "tStartMs": 1403685,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "So I lived in Korea for about 10 years."
+    } ]
+  }, {
+    "tStartMs": 1406265,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "I taught English and I was a\nmissionary, and I also learned Korean."
+    } ]
+  }, {
+    "tStartMs": 1410675,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "I went to grad school there."
+    } ]
+  }, {
+    "tStartMs": 1411905,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So Korea is literally, South\nKorea is literally my second home."
+    } ]
+  }, {
+    "tStartMs": 1416000,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Now, as you can tell, I am\nan African-American woman, a"
+    } ]
+  }, {
+    "tStartMs": 1420020,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "proud African-American woman."
+    } ]
+  }, {
+    "tStartMs": 1422060,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I love being an African-American woman."
+    } ]
+  }, {
+    "tStartMs": 1425960,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "Now, depending on where you are\nfrom, you may or may have not met"
+    } ]
+  }, {
+    "tStartMs": 1432350,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "an African-American woman before."
+    } ]
+  }, {
+    "tStartMs": 1434905,
+    "dDurationMs": 220,
+    "segs": [ {
+      "utf8": "If"
+    } ]
+  }, {
+    "tStartMs": 1435129,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "not, hello, my name is Tiffani."
+    } ]
+  }, {
+    "tStartMs": 1437382,
+    "dDurationMs": 1878,
+    "segs": [ {
+      "utf8": "Nice to meet you Boo."
+    } ]
+  }, {
+    "tStartMs": 1439310,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "But."
+    } ]
+  }, {
+    "tStartMs": 1440465,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "There are many different views\nof African Americans that are"
+    } ]
+  }, {
+    "tStartMs": 1444785,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "held by people around the world."
+    } ]
+  }, {
+    "tStartMs": 1446795,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Some people who have never met an African\nAmerican person only know what they've"
+    } ]
+  }, {
+    "tStartMs": 1450875,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "seen on TV or on the movies or what\nthey've heard or seen in a magazine."
+    } ]
+  }, {
+    "tStartMs": 1457340,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So I knew this."
+    } ]
+  }, {
+    "tStartMs": 1459560,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "So when I was in South Korea, again,\nbeautiful skin, it's a different"
+    } ]
+  }, {
+    "tStartMs": 1463940,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "color When you look at Korean skin,\nmy skin tone is darker than a Koreans."
+    } ]
+  }, {
+    "tStartMs": 1469160,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Again, I love, I absolutely\nlove my skin tone."
+    } ]
+  }, {
+    "tStartMs": 1472160,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "I really do."
+    } ]
+  }, {
+    "tStartMs": 1472880,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "I actually have a tan right now."
+    } ]
+  }, {
+    "tStartMs": 1474200,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "True story."
+    } ]
+  }, {
+    "tStartMs": 1474920,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "I was, um, in Florida,\nso I have a tan still."
+    } ]
+  }, {
+    "tStartMs": 1478159,
+    "dDurationMs": 1831,
+    "segs": [ {
+      "utf8": "And so I love my skin color."
+    } ]
+  }, {
+    "tStartMs": 1480080,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "There are unique qualities that I\nhave as an African American woman."
+    } ]
+  }, {
+    "tStartMs": 1483860,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "My hair texture."
+    } ]
+  }, {
+    "tStartMs": 1485000,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Now again, I have braids right now."
+    } ]
+  }, {
+    "tStartMs": 1486290,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "This is not my hair."
+    } ]
+  }, {
+    "tStartMs": 1487340,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "This is actually, uh,\nextension's hair put on my hair."
+    } ]
+  }, {
+    "tStartMs": 1490520,
+    "dDurationMs": 2129,
+    "segs": [ {
+      "utf8": "But I have a unique hair texture."
+    } ]
+  }, {
+    "tStartMs": 1492649,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "It's very, very curly, tight curls."
+    } ]
+  }, {
+    "tStartMs": 1494899,
+    "dDurationMs": 361,
+    "segs": [ {
+      "utf8": "I love it."
+    } ]
+  }, {
+    "tStartMs": 1495260,
+    "dDurationMs": 1889,
+    "segs": [ {
+      "utf8": "I can do so many things with my hair."
+    } ]
+  }, {
+    "tStartMs": 1497149,
+    "dDurationMs": 691,
+    "segs": [ {
+      "utf8": "Stay with me."
+    } ]
+  }, {
+    "tStartMs": 1497960,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "This is part of the story."
+    } ]
+  }, {
+    "tStartMs": 1499700,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So there are many different things\nabout me as an African or woman that"
+    } ]
+  }, {
+    "tStartMs": 1502220,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "are a African American woman that\nare intriguing, that are interesting."
+    } ]
+  }, {
+    "tStartMs": 1506930,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "South Koreans, some have seen\nAfrican Americans, some have not."
+    } ]
+  }, {
+    "tStartMs": 1512629,
+    "dDurationMs": 5461,
+    "segs": [ {
+      "utf8": "So there is a measure of curiosity when\nyou've never experienced someone, when"
+    } ]
+  }, {
+    "tStartMs": 1518090,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "you've never been exposed to something,\nthere is a measure of curiosity."
+    } ]
+  }, {
+    "tStartMs": 1522710,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Why is this the first part of our story?"
+    } ]
+  }, {
+    "tStartMs": 1525465,
+    "dDurationMs": 4535,
+    "segs": [ {
+      "utf8": "One day I was on a train in\nSouth Korea and this was after."
+    } ]
+  }, {
+    "tStartMs": 1530360,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "I had learned Korean, so I\ncould speak Korean fluently."
+    } ]
+  }, {
+    "tStartMs": 1533300,
+    "dDurationMs": 6089,
+    "segs": [ {
+      "utf8": "I was sitting on the train and the train\nwas crowded and I sat down and I saw a"
+    } ]
+  }, {
+    "tStartMs": 1539389,
+    "dDurationMs": 3541,
+    "segs": [ {
+      "utf8": "group of teenagers, Korean teenagers."
+    } ]
+  }, {
+    "tStartMs": 1542930,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "There were probably about six or\nseven of them, and I was actually,"
+    } ]
+  }, {
+    "tStartMs": 1547520,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "I was standing, I wasn't sitting."
+    } ]
+  }, {
+    "tStartMs": 1548600,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "This is how the conversation happened."
+    } ]
+  }, {
+    "tStartMs": 1549710,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "So I'm standing and they were on my\nleft, about six or seven of them."
+    } ]
+  }, {
+    "tStartMs": 1553925,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "All boys."
+    } ]
+  }, {
+    "tStartMs": 1554615,
+    "dDurationMs": 270,
+    "segs": [ {
+      "utf8": "I think."
+    } ]
+  }, {
+    "tStartMs": 1554915,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "All boys."
+    } ]
+  }, {
+    "tStartMs": 1555514,
+    "dDurationMs": 3091,
+    "segs": [ {
+      "utf8": "And I was standing there again,\nremember, African American woman."
+    } ]
+  }, {
+    "tStartMs": 1558725,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "My skin comb, my skin tone."
+    } ]
+  }, {
+    "tStartMs": 1560555,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "My skin color is different\nfrom Koreans, right?"
+    } ]
+  }, {
+    "tStartMs": 1563855,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Different hair, texture."
+    } ]
+  }, {
+    "tStartMs": 1564905,
+    "dDurationMs": 4859,
+    "segs": [ {
+      "utf8": "And at that time, I think I had\nan Afro and I was standing on the"
+    } ]
+  }, {
+    "tStartMs": 1569764,
+    "dDurationMs": 1651,
+    "segs": [ {
+      "utf8": "train and I was listening to them."
+    } ]
+  }, {
+    "tStartMs": 1571415,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "They didn't know I could understand their\nlanguage and they were just being kids."
+    } ]
+  }, {
+    "tStartMs": 1574865,
+    "dDurationMs": 1139,
+    "segs": [ {
+      "utf8": "They weren't saying anything bad."
+    } ]
+  }, {
+    "tStartMs": 1576514,
+    "dDurationMs": 2191,
+    "segs": [ {
+      "utf8": "And then one of them noticed me again."
+    } ]
+  }, {
+    "tStartMs": 1578705,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Remember I said."
+    } ]
+  }, {
+    "tStartMs": 1580190,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Some people have had interactions with\nAfrican Americans and some people haven't."
+    } ]
+  }, {
+    "tStartMs": 1583850,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Again, the world is vast."
+    } ]
+  }, {
+    "tStartMs": 1585830,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "I've never had the opportunity\nor the privilege to meet"
+    } ]
+  }, {
+    "tStartMs": 1588770,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "someone from Mongolia yet."
+    } ]
+  }, {
+    "tStartMs": 1590270,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "I can't wait to meet them, but\nI would love to speak with them."
+    } ]
+  }, {
+    "tStartMs": 1593480,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "So teenagers never, in my\nopinion, had never seen an"
+    } ]
+  }, {
+    "tStartMs": 1597170,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "African American woman in person."
+    } ]
+  }, {
+    "tStartMs": 1598760,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "The reason I say that, they're\nhaving their conversation and all"
+    } ]
+  }, {
+    "tStartMs": 1602300,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "of a sudden one of them sees me, and\nI'll say what they said in English,"
+    } ]
+  }, {
+    "tStartMs": 1605600,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "but they were speaking in Korean."
+    } ]
+  }, {
+    "tStartMs": 1606770,
+    "dDurationMs": 2045,
+    "segs": [ {
+      "utf8": "They said, yo, yo, look, look."
+    } ]
+  }, {
+    "tStartMs": 1609545,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "Y'all see that lady?"
+    } ]
+  }, {
+    "tStartMs": 1611075,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "It's a black lady."
+    } ]
+  }, {
+    "tStartMs": 1612935,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "So I'm just standing there."
+    } ]
+  }, {
+    "tStartMs": 1613805,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm acting like I can't\nunderstand another kid."
+    } ]
+  }, {
+    "tStartMs": 1616835,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Oh man, yo, look at her hair."
+    } ]
+  }, {
+    "tStartMs": 1619475,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "It's so different."
+    } ]
+  }, {
+    "tStartMs": 1620795,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "They're just being kids."
+    } ]
+  }, {
+    "tStartMs": 1621875,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "They're curious."
+    } ]
+  }, {
+    "tStartMs": 1622925,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "They're looking."
+    } ]
+  }, {
+    "tStartMs": 1623495,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "They're looking at my unique\nqualities, my unique characteristic."
+    } ]
+  }, {
+    "tStartMs": 1626915,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "I've never seen hair\nlike that before, yo man."
+    } ]
+  }, {
+    "tStartMs": 1630095,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "And so they're just\ntalking about me, right?"
+    } ]
+  }, {
+    "tStartMs": 1632015,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "They're looking at me."
+    } ]
+  }, {
+    "tStartMs": 1633545,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "And now again, I could speak Korean,\nso I knew what they were saying."
+    } ]
+  }, {
+    "tStartMs": 1637460,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Yeah, but they're staring\nat me talking, some smiling."
+    } ]
+  }, {
+    "tStartMs": 1641450,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "I'm like, wow, man, look at that."
+    } ]
+  }, {
+    "tStartMs": 1642830,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Wow, I've never seen that."
+    } ]
+  }, {
+    "tStartMs": 1643910,
+    "dDurationMs": 450,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1644570,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "But if you don't understand what\nsomeone's saying, you might think"
+    } ]
+  }, {
+    "tStartMs": 1647390,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "they're speaking negatively about you."
+    } ]
+  }, {
+    "tStartMs": 1649010,
+    "dDurationMs": 360,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1650360,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So it got to the point I said, okay, now\nit's time for me to shock these kids."
+    } ]
+  }, {
+    "tStartMs": 1655070,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So I turned and I looked at\nthem and they kind of paused."
+    } ]
+  }, {
+    "tStartMs": 1658175,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Only because now this woman is\nlooking at them, but they didn't"
+    } ]
+  }, {
+    "tStartMs": 1660815,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "know I could understand them."
+    } ]
+  }, {
+    "tStartMs": 1662405,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "And I started speaking to them in Korean\nand I said, Hey, how are you guys doing?"
+    } ]
+  }, {
+    "tStartMs": 1665855,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "And they were like, oh, just speak Korean."
+    } ]
+  }, {
+    "tStartMs": 1668045,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Just so again, they're kids."
+    } ]
+  }, {
+    "tStartMs": 1669275,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "I love kids, right?"
+    } ]
+  }, {
+    "tStartMs": 1670235,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "They're teenagers."
+    } ]
+  }, {
+    "tStartMs": 1670805,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "We're like 14 or 15."
+    } ]
+  }, {
+    "tStartMs": 1671915,
+    "dDurationMs": 330,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1672875,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "And at that time I was in my\nmid thirties and I was like, you"
+    } ]
+  }, {
+    "tStartMs": 1675335,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "know, hey, how are you doing?"
+    } ]
+  }, {
+    "tStartMs": 1676085,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "They're like, oh my goodness."
+    } ]
+  }, {
+    "tStartMs": 1676985,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "You speak Korean again?"
+    } ]
+  }, {
+    "tStartMs": 1679820,
+    "dDurationMs": 3329,
+    "segs": [ {
+      "utf8": "When it comes to someone who has\nnever been exposed to you or your"
+    } ]
+  }, {
+    "tStartMs": 1683149,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "culture, instead of being offended,\nit's an opportunity to share"
+    } ]
+  }, {
+    "tStartMs": 1687439,
+    "dDurationMs": 2131,
+    "segs": [ {
+      "utf8": "with them what makes you special."
+    } ]
+  }, {
+    "tStartMs": 1690050,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "So I was talking to the kids and they\nwere like, how do you speak Korean?"
+    } ]
+  }, {
+    "tStartMs": 1692990,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "So I'm like, you know, I've\nlived here for a while."
+    } ]
+  }, {
+    "tStartMs": 1695149,
+    "dDurationMs": 1411,
+    "segs": [ {
+      "utf8": "And I said, okay, you guys are curious."
+    } ]
+  }, {
+    "tStartMs": 1696649,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "They're like, yeah, like, and we proceeded\nto have a conversation for about five or"
+    } ]
+  }, {
+    "tStartMs": 1700010,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "10 minutes before I got off of the train."
+    } ]
+  }, {
+    "tStartMs": 1702919,
+    "dDurationMs": 3091,
+    "segs": [ {
+      "utf8": "In that moment, I shared with\nthem some things about me."
+    } ]
+  }, {
+    "tStartMs": 1706100,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "I asked them about who they were."
+    } ]
+  }, {
+    "tStartMs": 1707750,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "I asked them, Hey, you know,\nhow was your day at school?"
+    } ]
+  }, {
+    "tStartMs": 1710120,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And I helped them realize, yes, we\nmight look different from each other."
+    } ]
+  }, {
+    "tStartMs": 1714950,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Your skin is one color."
+    } ]
+  }, {
+    "tStartMs": 1716149,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "My skin is another color."
+    } ]
+  }, {
+    "tStartMs": 1717350,
+    "dDurationMs": 2789,
+    "segs": [ {
+      "utf8": "My hair texture is one, and\nyour hair texture is another."
+    } ]
+  }, {
+    "tStartMs": 1720919,
+    "dDurationMs": 1291,
+    "segs": [ {
+      "utf8": "But we're still people."
+    } ]
+  }, {
+    "tStartMs": 1722840,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And we still can connect."
+    } ]
+  }, {
+    "tStartMs": 1724880,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "It was the best interaction, and I think\nI might have changed their life because"
+    } ]
+  }, {
+    "tStartMs": 1730220,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "up until that point, they had never seen\nan African American woman in person."
+    } ]
+  }, {
+    "tStartMs": 1734780,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Maybe they saw one on tv, maybe\nthey saw one in a magazine."
+    } ]
+  }, {
+    "tStartMs": 1737840,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Maybe they saw one on their cell\nphone, but now they had an actual"
+    } ]
+  }, {
+    "tStartMs": 1741110,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "interaction with an African\nAmerican woman in real life."
+    } ]
+  }, {
+    "tStartMs": 1745185,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "And we both, all of us\nenjoyed the conversation."
+    } ]
+  }, {
+    "tStartMs": 1749445,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "So I wanted to tell you this story\nbecause again, I love kids and I loved"
+    } ]
+  }, {
+    "tStartMs": 1754365,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "our interaction, and I love helping\nthem understand more about the world."
+    } ]
+  }, {
+    "tStartMs": 1758505,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "But I told this story also for you."
+    } ]
+  }, {
+    "tStartMs": 1760965,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "You might be in a situation\nwhere someone misunderstands you."
+    } ]
+  }, {
+    "tStartMs": 1766100,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Maybe they say something to you\nbecause they are not familiar with"
+    } ]
+  }, {
+    "tStartMs": 1769760,
+    "dDurationMs": 3869,
+    "segs": [ {
+      "utf8": "your culture, or they've never\nexperienced you as an individual."
+    } ]
+  }, {
+    "tStartMs": 1773659,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Instead of being upset,\ngive them an opportunity."
+    } ]
+  }, {
+    "tStartMs": 1778520,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Give them the privilege of\nlearning more about you."
+    } ]
+  }, {
+    "tStartMs": 1781970,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1782810,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Because you're special, you're unique,\nand they need to understand that."
+    } ]
+  }, {
+    "tStartMs": 1788060,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I'll talk to you in the next lesson."
+    } ]
+  } ]
+}

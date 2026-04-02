@@ -1,0 +1,565 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Hello and welcome\nto Real Easy English,"
+    } ]
+  }, {
+    "tStartMs": 2840,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "the podcast where we have\nreal conversations in easy English"
+    } ]
+  }, {
+    "tStartMs": 6720,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "to help you learn."
+    } ]
+  }, {
+    "tStartMs": 7760,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "I'm Georgie."
+    } ]
+  }, {
+    "tStartMs": 8440,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And I'm Neil,"
+    } ]
+  }, {
+    "tStartMs": 9440,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and don't forget that this podcast is\nnow available as a video on our website,"
+    } ]
+  }, {
+    "tStartMs": 14200,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "so you can watch us at\nbbclearningenglish.com."
+    } ]
+  }, {
+    "tStartMs": 24760,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hi Neil, how are you today?"
+    } ]
+  }, {
+    "tStartMs": 26760,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Hi, Georgie.\nI'm very well. Actually,"
+    } ]
+  }, {
+    "tStartMs": 29320,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "I'm really happy today because\nthe Sun is shining, and it's warm,"
+    } ]
+  }, {
+    "tStartMs": 34640,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and it seems like it's been a long time\nsince we had such nice sunny weather."
+    } ]
+  }, {
+    "tStartMs": 39400,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "I know, the changing\nof the seasons is so wonderful,"
+    } ]
+  }, {
+    "tStartMs": 42960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and actually, that's what\nwe're talking about today."
+    } ]
+  }, {
+    "tStartMs": 45240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Today we're going to talk about\nthe seasons and the different types"
+    } ]
+  }, {
+    "tStartMs": 48600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "of weather we get in the UK."
+    } ]
+  }, {
+    "tStartMs": 51200,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Yes. So in the UK, we – our"
+    } ]
+  }, {
+    "tStartMs": 54680,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "seasons are roughly like this."
+    } ]
+  }, {
+    "tStartMs": 57280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "So March, April,\nMay – those are the spring seasons."
+    } ]
+  }, {
+    "tStartMs": 62000,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Then we move into summer, which is\nJune, July and August. Autumn,"
+    } ]
+  }, {
+    "tStartMs": 67560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "that's September, October, November."
+    } ]
+  }, {
+    "tStartMs": 69960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And then we're into winter\nfor December, January, February."
+    } ]
+  }, {
+    "tStartMs": 74240,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Yeah. More or less.\nApproximately."
+    } ]
+  }, {
+    "tStartMs": 76080,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Yeah. So, Neil,\nwhat is your favourite season?"
+    } ]
+  }, {
+    "tStartMs": 79520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Well, you can probably guess\nbecause I'm so happy"
+    } ]
+  }, {
+    "tStartMs": 82520,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "that it's spring and summer combined."
+    } ]
+  }, {
+    "tStartMs": 85360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So anything with long late nights\nand evenings I love."
+    } ]
+  }, {
+    "tStartMs": 90160,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "What else is good about summer?"
+    } ]
+  }, {
+    "tStartMs": 92680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "In the summer, you can be outside."
+    } ]
+  }, {
+    "tStartMs": 96840,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "You can go swimming in the sea."
+    } ]
+  }, {
+    "tStartMs": 100720,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "You can stay up late and\nyou have wonderful light in the UK."
+    } ]
+  }, {
+    "tStartMs": 106960,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "What's your favourite season\nthen, Georgie?"
+    } ]
+  }, {
+    "tStartMs": 109280,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Well, I'm a big fan\nof the seasons,"
+    } ]
+  }, {
+    "tStartMs": 113000,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "the transition seasons."
+    } ]
+  }, {
+    "tStartMs": 114480,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "So I really like spring and autumn,\nespecially spring."
+    } ]
+  }, {
+    "tStartMs": 119840,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Right now we're in spring in the UK,"
+    } ]
+  }, {
+    "tStartMs": 122120,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and you can see everyone looking\nhappier because we've had"
+    } ]
+  }, {
+    "tStartMs": 126880,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "a really long, hard, dark, cold\nwinter and everyone is smiling now"
+    } ]
+  }, {
+    "tStartMs": 134280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "because they... there are blossoms\non the trees which make me so happy."
+    } ]
+  }, {
+    "tStartMs": 139160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I love seeing pink blossoms\non the trees."
+    } ]
+  }, {
+    "tStartMs": 141880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "The days are warmer and,"
+    } ]
+  }, {
+    "tStartMs": 145320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "yeah, there's this sense\nof a transition."
+    } ]
+  }, {
+    "tStartMs": 148320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Same with autumn."
+    } ]
+  }, {
+    "tStartMs": 150360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Although you're leaving\nthe summer months,"
+    } ]
+  }, {
+    "tStartMs": 153240,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I really love the colours\non the trees as well."
+    } ]
+  }, {
+    "tStartMs": 157120,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Especially those cooler,\ncrisp days when the sky is blue"
+    } ]
+  }, {
+    "tStartMs": 163360,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and the leaves are orange and brown."
+    } ]
+  }, {
+    "tStartMs": 165600,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "I love that."
+    } ]
+  }, {
+    "tStartMs": 166480,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Wow. You're making me look forward\nto autumn,"
+    } ]
+  }, {
+    "tStartMs": 168520,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "and it's not even summer yet."
+    } ]
+  }, {
+    "tStartMs": 172240,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Is there a season\nthat you don't like?"
+    } ]
+  }, {
+    "tStartMs": 174320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I do like all the seasons."
+    } ]
+  }, {
+    "tStartMs": 177040,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "I like to have balance, so I wouldn't\nlike to have summer all year round,"
+    } ]
+  }, {
+    "tStartMs": 181720,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "but I think\nwinter is my least favourite"
+    } ]
+  }, {
+    "tStartMs": 186120,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "because of the dark days. In the UK"
+    } ]
+  }, {
+    "tStartMs": 189680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "I think it's particularly hard"
+    } ]
+  }, {
+    "tStartMs": 193960,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "because, especially January\nand February, it's really cold and"
+    } ]
+  }, {
+    "tStartMs": 199760,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "there's nothing really to get us\nthrough the... the sad times."
+    } ]
+  }, {
+    "tStartMs": 206440,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I know exactly what you mean."
+    } ]
+  }, {
+    "tStartMs": 207840,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "There are good things about winter, but\nmostly it's just difficult, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 213240,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I agree. It's the dark."
+    } ]
+  }, {
+    "tStartMs": 214840,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "I can't stand it."
+    } ]
+  }, {
+    "tStartMs": 215960,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Yeah. So, as I said, I quite like having\nthe balance of different seasons"
+    } ]
+  }, {
+    "tStartMs": 221560,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "throughout the year."
+    } ]
+  }, {
+    "tStartMs": 222600,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "I like to have transitions\nand changes."
+    } ]
+  }, {
+    "tStartMs": 225720,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "What about you, Neil?"
+    } ]
+  }, {
+    "tStartMs": 226800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "How do you feel about... about that?"
+    } ]
+  }, {
+    "tStartMs": 229000,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Yeah, I think I agree."
+    } ]
+  }, {
+    "tStartMs": 231040,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I mean, it would be nice\nto have a shorter winter,"
+    } ]
+  }, {
+    "tStartMs": 234840,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "but I think I would still prefer\nto have different seasons"
+    } ]
+  }, {
+    "tStartMs": 239520,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "because, like I said, I really like\nthe late light evenings in the summer."
+    } ]
+  }, {
+    "tStartMs": 246880,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And I think,\neven though I hate the dark winters,"
+    } ]
+  }, {
+    "tStartMs": 250280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I would really miss that,\nif the weather was nice all year"
+    } ]
+  }, {
+    "tStartMs": 253640,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "but got dark at the same time,\nlike at six or seven o'clock."
+    } ]
+  }, {
+    "tStartMs": 262440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "OK, let's recap the language\nwe heard in the conversation."
+    } ]
+  }, {
+    "tStartMs": 265960,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "We learned different ways to talk\nabout the seasons."
+    } ]
+  }, {
+    "tStartMs": 268800,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "For example,\n'looking forward to' – that means"
+    } ]
+  }, {
+    "tStartMs": 271440,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "you're excited for something\nto happen in the future."
+    } ]
+  }, {
+    "tStartMs": 274600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "That's right.\nSo I'm really looking forward"
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "to the warm,\nlight, sunny evenings in the summer."
+    } ]
+  }, {
+    "tStartMs": 281680,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "We heard 'to be a big fan of' – that\nmeans that you really like something."
+    } ]
+  }, {
+    "tStartMs": 285920,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "For example,\nI'm a big fan of spring and autumn."
+    } ]
+  }, {
+    "tStartMs": 289640,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Yes, Georgie is a big fan\nof the transition seasons."
+    } ]
+  }, {
+    "tStartMs": 293040,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I'm not such a big fan\nof winter, though."
+    } ]
+  }, {
+    "tStartMs": 296280,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Actually, I can't stand it,\nwhich means that I really hate it."
+    } ]
+  }, {
+    "tStartMs": 301400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Thanks for listening\nto Real Easy English."
+    } ]
+  }, {
+    "tStartMs": 303960,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "We've talked\nabout the seasons in the UK,"
+    } ]
+  }, {
+    "tStartMs": 306320,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but the seasons are different all\naround the world."
+    } ]
+  }, {
+    "tStartMs": 309240,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "What are the seasons\nlike where you live?"
+    } ]
+  }, {
+    "tStartMs": 311440,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Email us at\nlearningenglish@bbc.co.uk."
+    } ]
+  }, {
+    "tStartMs": 316000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "We always like to hear from you."
+    } ]
+  }, {
+    "tStartMs": 317400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Goodbye."
+    } ]
+  }, {
+    "tStartMs": 318400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  } ]
+}

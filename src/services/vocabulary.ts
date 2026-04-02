@@ -31,6 +31,11 @@ export async function deleteVocabWord(userId: string, id: string): Promise<void>
 
 // ── Caption search index ──────────────────────────────────────────────────────
 
+/** Return all videoIds that have an entry in the caption index. */
+export async function getIndexedVideoIds(): Promise<string[]> {
+  return gas<string[]>('getIndexedVideoIds')
+}
+
 /** Store the unique word list for a video (called when a video is added). */
 export async function indexVideoWords(videoId: string, words: string[]): Promise<void> {
   await gas('indexVideoWords', { videoId, words })
