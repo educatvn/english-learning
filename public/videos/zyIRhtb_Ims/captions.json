@@ -1,0 +1,2851 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1377,
+    "dDurationMs": 1111,
+    "segs": [ {
+      "utf8": "Good evening ma'am."
+    } ]
+  }, {
+    "tStartMs": 2488,
+    "dDurationMs": 798,
+    "segs": [ {
+      "utf8": "Good evening."
+    } ]
+  }, {
+    "tStartMs": 4003,
+    "dDurationMs": 1584,
+    "segs": [ {
+      "utf8": "Where are you arriving from?"
+    } ]
+  }, {
+    "tStartMs": 5658,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "from London."
+    } ]
+  }, {
+    "tStartMs": 6433,
+    "dDurationMs": 1922,
+    "segs": [ {
+      "utf8": "What's the purpose of your visit?"
+    } ]
+  }, {
+    "tStartMs": 8543,
+    "dDurationMs": 2049,
+    "segs": [ {
+      "utf8": "Business. I'm here for a conference."
+    } ]
+  }, {
+    "tStartMs": 10968,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "How long are you staying in the U.S?"
+    } ]
+  }, {
+    "tStartMs": 12988,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "A week."
+    } ]
+  }, {
+    "tStartMs": 13964,
+    "dDurationMs": 1742,
+    "segs": [ {
+      "utf8": "Where are you staying in?"
+    } ]
+  }, {
+    "tStartMs": 16092,
+    "dDurationMs": 2484,
+    "segs": [ {
+      "utf8": "In San Francisco at the Pacific View Hotel."
+    } ]
+  }, {
+    "tStartMs": 19141,
+    "dDurationMs": 1316,
+    "segs": [ {
+      "utf8": "Do you know anybody here?"
+    } ]
+  }, {
+    "tStartMs": 20890,
+    "dDurationMs": 1404,
+    "segs": [ {
+      "utf8": "Yes, Mark Ryder."
+    } ]
+  }, {
+    "tStartMs": 22764,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Is he family or a friend?"
+    } ]
+  }, {
+    "tStartMs": 25118,
+    "dDurationMs": 1905,
+    "segs": [ {
+      "utf8": "He's a colleague and a friend."
+    } ]
+  }, {
+    "tStartMs": 28193,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Do you have his phone number?"
+    } ]
+  }, {
+    "tStartMs": 30194,
+    "dDurationMs": 2605,
+    "segs": [ {
+      "utf8": "Yes his... mobile is..."
+    } ]
+  }, {
+    "tStartMs": 35668,
+    "dDurationMs": 4038,
+    "segs": [ {
+      "utf8": "4056557182."
+    } ]
+  }, {
+    "tStartMs": 41389,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Is this your first visit to the U.S?"
+    } ]
+  }, {
+    "tStartMs": 43463,
+    "dDurationMs": 751,
+    "segs": [ {
+      "utf8": "Yes, it is."
+    } ]
+  }, {
+    "tStartMs": 45171,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Enjoy your stay in San Francisco."
+    } ]
+  }, {
+    "tStartMs": 46829,
+    "dDurationMs": 785,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 49733,
+    "dDurationMs": 525,
+    "segs": [ {
+      "utf8": "Allie!"
+    } ]
+  }, {
+    "tStartMs": 50258,
+    "dDurationMs": 1325,
+    "segs": [ {
+      "utf8": "- Hi.\n- Hi. Mark."
+    } ]
+  }, {
+    "tStartMs": 51583,
+    "dDurationMs": 1049,
+    "segs": [ {
+      "utf8": "You look great."
+    } ]
+  }, {
+    "tStartMs": 52732,
+    "dDurationMs": 726,
+    "segs": [ {
+      "utf8": "You, too."
+    } ]
+  }, {
+    "tStartMs": 54415,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "How are you?"
+    } ]
+  }, {
+    "tStartMs": 55275,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "I'm fine. How was the flight?"
+    } ]
+  }, {
+    "tStartMs": 56651,
+    "dDurationMs": 1797,
+    "segs": [ {
+      "utf8": "Long. 11 hours."
+    } ]
+  }, {
+    "tStartMs": 58448,
+    "dDurationMs": 1452,
+    "segs": [ {
+      "utf8": "Oh, you must be really tired."
+    } ]
+  }, {
+    "tStartMs": 59900,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "Yes. I couldn't sleep at all.\nThe people next to me\nhad a baby with them."
+    } ]
+  }, {
+    "tStartMs": 64699,
+    "dDurationMs": 1024,
+    "segs": [ {
+      "utf8": "What's the time here?"
+    } ]
+  }, {
+    "tStartMs": 65723,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "I need to change my watch."
+    } ]
+  }, {
+    "tStartMs": 67088,
+    "dDurationMs": 1309,
+    "segs": [ {
+      "utf8": "7:00 in the evening."
+    } ]
+  }, {
+    "tStartMs": 68528,
+    "dDurationMs": 1395,
+    "segs": [ {
+      "utf8": "It's 3:00 in the morning for me."
+    } ]
+  }, {
+    "tStartMs": 70075,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Ok. I'm gonna take you right\nto the hotel and you could rest."
+    } ]
+  }, {
+    "tStartMs": 73925,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Fine. Hmm."
+    } ]
+  }, {
+    "tStartMs": 77425,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "Sorry."
+    } ]
+  }, {
+    "tStartMs": 78760,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "You are gonna love San Francisco."
+    } ]
+  }, {
+    "tStartMs": 80876,
+    "dDurationMs": 1276,
+    "segs": [ {
+      "utf8": "I'm so pleased you came."
+    } ]
+  }, {
+    "tStartMs": 82152,
+    "dDurationMs": 546,
+    "segs": [ {
+      "utf8": "Me, too."
+    } ]
+  }, {
+    "tStartMs": 82698,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "It's great to see you again."
+    } ]
+  }, {
+    "tStartMs": 84797,
+    "dDurationMs": 1562,
+    "segs": [ {
+      "utf8": "Come on, my car is in the parking lot.\nLet's go."
+    } ]
+  }, {
+    "tStartMs": 89267,
+    "dDurationMs": 797,
+    "segs": [ {
+      "utf8": "Good evening, ma'am."
+    } ]
+  }, {
+    "tStartMs": 90064,
+    "dDurationMs": 1277,
+    "segs": [ {
+      "utf8": "How can I help you?"
+    } ]
+  }, {
+    "tStartMs": 91366,
+    "dDurationMs": 1549,
+    "segs": [ {
+      "utf8": "Good evening. I have a reservation."
+    } ]
+  }, {
+    "tStartMs": 92940,
+    "dDurationMs": 3428,
+    "segs": [ {
+      "utf8": "My name's Allison Gray.\nI'm here for the MTC conference."
+    } ]
+  }, {
+    "tStartMs": 96368,
+    "dDurationMs": 851,
+    "segs": [ {
+      "utf8": "Just a moment."
+    } ]
+  }, {
+    "tStartMs": 99468,
+    "dDurationMs": 2635,
+    "segs": [ {
+      "utf8": "Uh. Here it is Miss Gray. For 6 nights?"
+    } ]
+  }, {
+    "tStartMs": 102103,
+    "dDurationMs": 938,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 105045,
+    "dDurationMs": 1157,
+    "segs": [ {
+      "utf8": "Ok, Miss Gray."
+    } ]
+  }, {
+    "tStartMs": 107443,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "Here's your key.\nYou're in room 419 on the 4th floor."
+    } ]
+  }, {
+    "tStartMs": 111593,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 112194,
+    "dDurationMs": 1352,
+    "segs": [ {
+      "utf8": "What time is breakfast?"
+    } ]
+  }, {
+    "tStartMs": 113546,
+    "dDurationMs": 3756,
+    "segs": [ {
+      "utf8": "From 7:00 to 9:00 in the\npavilion restaurant on the sixth floor."
+    } ]
+  }, {
+    "tStartMs": 117302,
+    "dDurationMs": 642,
+    "segs": [ {
+      "utf8": "Thanks."
+    } ]
+  }, {
+    "tStartMs": 118296,
+    "dDurationMs": 1096,
+    "segs": [ {
+      "utf8": "Where's the lift?"
+    } ]
+  }, {
+    "tStartMs": 120668,
+    "dDurationMs": 1451,
+    "segs": [ {
+      "utf8": "The elevators are over there."
+    } ]
+  }, {
+    "tStartMs": 122841,
+    "dDurationMs": 1105,
+    "segs": [ {
+      "utf8": "Thanks."
+    } ]
+  }, {
+    "tStartMs": 123946,
+    "dDurationMs": 1446,
+    "segs": [ {
+      "utf8": "Do you need any help with your bag?"
+    } ]
+  }, {
+    "tStartMs": 125392,
+    "dDurationMs": 766,
+    "segs": [ {
+      "utf8": "Yes, please."
+    } ]
+  }, {
+    "tStartMs": 130667,
+    "dDurationMs": 446,
+    "segs": [ {
+      "utf8": "Hello"
+    } ]
+  }, {
+    "tStartMs": 131113,
+    "dDurationMs": 859,
+    "segs": [ {
+      "utf8": "Reception."
+    } ]
+  }, {
+    "tStartMs": 131972,
+    "dDurationMs": 1926,
+    "segs": [ {
+      "utf8": "Hello, this is room 419."
+    } ]
+  }, {
+    "tStartMs": 133898,
+    "dDurationMs": 1276,
+    "segs": [ {
+      "utf8": "How can I help you?"
+    } ]
+  }, {
+    "tStartMs": 135174,
+    "dDurationMs": 2749,
+    "segs": [ {
+      "utf8": "I have a problem with the air conditioning."
+    } ]
+  }, {
+    "tStartMs": 137970,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "It isn't working and\nit's very hot in my room."
+    } ]
+  }, {
+    "tStartMs": 141123,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "I'm sorry, Ma'am.\nI'll send someone up\nto look at it right now."
+    } ]
+  }, {
+    "tStartMs": 144300,
+    "dDurationMs": 544,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 148200,
+    "dDurationMs": 927,
+    "segs": [ {
+      "utf8": "Room server. How can I help you?"
+    } ]
+  }, {
+    "tStartMs": 149127,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Hello, this is room 419."
+    } ]
+  }, {
+    "tStartMs": 151675,
+    "dDurationMs": 1454,
+    "segs": [ {
+      "utf8": "Can I have a tuna sandwich, please?"
+    } ]
+  }, {
+    "tStartMs": 153440,
+    "dDurationMs": 1345,
+    "segs": [ {
+      "utf8": "Whole wheat or white bread?"
+    } ]
+  }, {
+    "tStartMs": 155258,
+    "dDurationMs": 924,
+    "segs": [ {
+      "utf8": "Whole wheat, please."
+    } ]
+  }, {
+    "tStartMs": 156706,
+    "dDurationMs": 1533,
+    "segs": [ {
+      "utf8": "With or without milk?"
+    } ]
+  }, {
+    "tStartMs": 158279,
+    "dDurationMs": 604,
+    "segs": [ {
+      "utf8": "Without."
+    } ]
+  }, {
+    "tStartMs": 159431,
+    "dDurationMs": 1955,
+    "segs": [ {
+      "utf8": "French fries or salad?"
+    } ]
+  }, {
+    "tStartMs": 161410,
+    "dDurationMs": 1322,
+    "segs": [ {
+      "utf8": "Salad, please."
+    } ]
+  }, {
+    "tStartMs": 163408,
+    "dDurationMs": 725,
+    "segs": [ {
+      "utf8": "Anything drink?"
+    } ]
+  }, {
+    "tStartMs": 164133,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "Yes, a diet coke."
+    } ]
+  }, {
+    "tStartMs": 166305,
+    "dDurationMs": 989,
+    "segs": [ {
+      "utf8": "With ice and lemon?"
+    } ]
+  }, {
+    "tStartMs": 167971,
+    "dDurationMs": 948,
+    "segs": [ {
+      "utf8": "Just ice."
+    } ]
+  }, {
+    "tStartMs": 169799,
+    "dDurationMs": 1573,
+    "segs": [ {
+      "utf8": "Yours be there in 5 minutes, ma'am."
+    } ]
+  }, {
+    "tStartMs": 171372,
+    "dDurationMs": 608,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 174100,
+    "dDurationMs": 3066,
+    "segs": [ {
+      "utf8": "Here you go Allie.\nA cappuccino see I remembered."
+    } ]
+  }, {
+    "tStartMs": 177243,
+    "dDurationMs": 1539,
+    "segs": [ {
+      "utf8": "Well done. Thanks."
+    } ]
+  }, {
+    "tStartMs": 179283,
+    "dDurationMs": 1233,
+    "segs": [ {
+      "utf8": "Did you sleep well?"
+    } ]
+  }, {
+    "tStartMs": 180516,
+    "dDurationMs": 826,
+    "segs": [ {
+      "utf8": "Yes. very well."
+    } ]
+  }, {
+    "tStartMs": 182061,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "How are things?"
+    } ]
+  }, {
+    "tStartMs": 183566,
+    "dDurationMs": 1189,
+    "segs": [ {
+      "utf8": "They're fine."
+    } ]
+  }, {
+    "tStartMs": 185283,
+    "dDurationMs": 1499,
+    "segs": [ {
+      "utf8": "What are the plans for the week?"
+    } ]
+  }, {
+    "tStartMs": 186782,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "Well, today we don't have any free time."
+    } ]
+  }, {
+    "tStartMs": 188718,
+    "dDurationMs": 3663,
+    "segs": [ {
+      "utf8": "But tomorrow I'm going to take\nyou to this great little restaurant."
+    } ]
+  }, {
+    "tStartMs": 192381,
+    "dDurationMs": 1077,
+    "segs": [ {
+      "utf8": "Oh, that sounds good."
+    } ]
+  }, {
+    "tStartMs": 193458,
+    "dDurationMs": 3649,
+    "segs": [ {
+      "utf8": "And then on Wednesday night,\nthere's a cocktail party here at the hotel."
+    } ]
+  }, {
+    "tStartMs": 197107,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "and then a conference dinner on Thursday."
+    } ]
+  }, {
+    "tStartMs": 199709,
+    "dDurationMs": 2298,
+    "segs": [ {
+      "utf8": "Is there anything special you want to do?"
+    } ]
+  }, {
+    "tStartMs": 202007,
+    "dDurationMs": 7454,
+    "segs": [ {
+      "utf8": "Well, I'd like to see the bay and the\nGolden Gate Bridge and I'd like\nto go shopping this time."
+    } ]
+  }, {
+    "tStartMs": 210333,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Hi Mark, how are you doing?"
+    } ]
+  }, {
+    "tStartMs": 212252,
+    "dDurationMs": 1515,
+    "segs": [ {
+      "utf8": "Hi Brad. I'm fine.\nJust fine."
+    } ]
+  }, {
+    "tStartMs": 214717,
+    "dDurationMs": 1854,
+    "segs": [ {
+      "utf8": "Aren't you going to introduce me?"
+    } ]
+  }, {
+    "tStartMs": 216826,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "Oh!.."
+    } ]
+  }, {
+    "tStartMs": 217425,
+    "dDurationMs": 4602,
+    "segs": [ {
+      "utf8": "Sure.\nAllie, this is Brad Martin.\nBrad works in the Los Angeles office."
+    } ]
+  }, {
+    "tStartMs": 222100,
+    "dDurationMs": 2589,
+    "segs": [ {
+      "utf8": "Brad, this is Allie Gray from the London office."
+    } ]
+  }, {
+    "tStartMs": 224689,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "- Hello!\n- Hi Allie. great to meet you."
+    } ]
+  }, {
+    "tStartMs": 228040,
+    "dDurationMs": 3274,
+    "segs": [ {
+      "utf8": "Mark told me you were very nice,\nbut he didn't tell me you were so beautiful."
+    } ]
+  }, {
+    "tStartMs": 232540,
+    "dDurationMs": 2349,
+    "segs": [ {
+      "utf8": "So, is this your first time in San Francisco?"
+    } ]
+  }, {
+    "tStartMs": 234889,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "Yes..., yes, it is."
+    } ]
+  }, {
+    "tStartMs": 236789,
+    "dDurationMs": 1475,
+    "segs": [ {
+      "utf8": "Has Mark show you this site?"
+    } ]
+  }, {
+    "tStartMs": 238264,
+    "dDurationMs": 1526,
+    "segs": [ {
+      "utf8": "Well, not yet."
+    } ]
+  }, {
+    "tStartMs": 239790,
+    "dDurationMs": 2575,
+    "segs": [ {
+      "utf8": "Then, maybe I can\nshow you around I love this city."
+    } ]
+  }, {
+    "tStartMs": 243114,
+    "dDurationMs": 2676,
+    "segs": [ {
+      "utf8": "Allie, It's time to go. Excuse Brad."
+    } ]
+  }, {
+    "tStartMs": 245790,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Well, great to meet you Allie.\nI'll see you around."
+    } ]
+  }, {
+    "tStartMs": 249239,
+    "dDurationMs": 2495,
+    "segs": [ {
+      "utf8": "Yes, nice to meet you, too.\nGood bye."
+    } ]
+  }, {
+    "tStartMs": 252484,
+    "dDurationMs": 1051,
+    "segs": [ {
+      "utf8": "Bye."
+    } ]
+  }, {
+    "tStartMs": 255967,
+    "dDurationMs": 1049,
+    "segs": [ {
+      "utf8": "Are you ready to order?"
+    } ]
+  }, {
+    "tStartMs": 257436,
+    "dDurationMs": 4627,
+    "segs": [ {
+      "utf8": "Yes, to start a tomato\nand mozzarella salad.\nIs that right now?"
+    } ]
+  }, {
+    "tStartMs": 262063,
+    "dDurationMs": 547,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 262610,
+    "dDurationMs": 2827,
+    "segs": [ {
+      "utf8": "And the mushroom soup for me."
+    } ]
+  }, {
+    "tStartMs": 265437,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "And for your main course?"
+    } ]
+  }, {
+    "tStartMs": 267011,
+    "dDurationMs": 1455,
+    "segs": [ {
+      "utf8": "I'll have the fried chicken."
+    } ]
+  }, {
+    "tStartMs": 268811,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "With french fries or a baked potato?"
+    } ]
+  }, {
+    "tStartMs": 271171,
+    "dDurationMs": 1076,
+    "segs": [ {
+      "utf8": "A baked potato, please."
+    } ]
+  }, {
+    "tStartMs": 273297,
+    "dDurationMs": 1125,
+    "segs": [ {
+      "utf8": "And for you, sir?"
+    } ]
+  }, {
+    "tStartMs": 274422,
+    "dDurationMs": 2776,
+    "segs": [ {
+      "utf8": "And I'd like the steak with french fries."
+    } ]
+  }, {
+    "tStartMs": 277198,
+    "dDurationMs": 3726,
+    "segs": [ {
+      "utf8": "How do you like your steak?\nRare, medium, well-done?"
+    } ]
+  }, {
+    "tStartMs": 280924,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Rare, please?"
+    } ]
+  }, {
+    "tStartMs": 282875,
+    "dDurationMs": 1054,
+    "segs": [ {
+      "utf8": "And to drink?"
+    } ]
+  }, {
+    "tStartMs": 284225,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Could you bring us the wine list, please?"
+    } ]
+  }, {
+    "tStartMs": 290500,
+    "dDurationMs": 2576,
+    "segs": [ {
+      "utf8": "Chicken for you, ma'am."
+    } ]
+  }, {
+    "tStartMs": 293856,
+    "dDurationMs": 948,
+    "segs": [ {
+      "utf8": "And the steak for you, sir?"
+    } ]
+  }, {
+    "tStartMs": 295454,
+    "dDurationMs": 2976,
+    "segs": [ {
+      "utf8": "I'm sorry, but I asked for\na baked potato not fries."
+    } ]
+  }, {
+    "tStartMs": 298577,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "No problem. I'll change it."
+    } ]
+  }, {
+    "tStartMs": 301141,
+    "dDurationMs": 954,
+    "segs": [ {
+      "utf8": "Excuse me!"
+    } ]
+  }, {
+    "tStartMs": 303392,
+    "dDurationMs": 753,
+    "segs": [ {
+      "utf8": "Yes, sir."
+    } ]
+  }, {
+    "tStartMs": 304145,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I asked for my steak rare\nand this is well-done."
+    } ]
+  }, {
+    "tStartMs": 307365,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "I'm very sorry.\nI'll send it back to the kitchen."
+    } ]
+  }, {
+    "tStartMs": 318700,
+    "dDurationMs": 1022,
+    "segs": [ {
+      "utf8": "Could we have the check, please?"
+    } ]
+  }, {
+    "tStartMs": 319769,
+    "dDurationMs": 796,
+    "segs": [ {
+      "utf8": "Yes, sir."
+    } ]
+  }, {
+    "tStartMs": 327666,
+    "dDurationMs": 1276,
+    "segs": [ {
+      "utf8": "- Your check.\n- Thanks"
+    } ]
+  }, {
+    "tStartMs": 329441,
+    "dDurationMs": 769,
+    "segs": [ {
+      "utf8": "Excuse me."
+    } ]
+  }, {
+    "tStartMs": 330585,
+    "dDurationMs": 1575,
+    "segs": [ {
+      "utf8": "I think there's a mistake in the check."
+    } ]
+  }, {
+    "tStartMs": 332309,
+    "dDurationMs": 2783,
+    "segs": [ {
+      "utf8": "We only had two glasses\nof wine, not a bottle."
+    } ]
+  }, {
+    "tStartMs": 335308,
+    "dDurationMs": 1914,
+    "segs": [ {
+      "utf8": "Yes, you're right."
+    } ]
+  }, {
+    "tStartMs": 337858,
+    "dDurationMs": 2537,
+    "segs": [ {
+      "utf8": "I'm very sorry.\nIt's not my day today."
+    } ]
+  }, {
+    "tStartMs": 340732,
+    "dDurationMs": 1146,
+    "segs": [ {
+      "utf8": "I'll get you a new check."
+    } ]
+  }, {
+    "tStartMs": 342183,
+    "dDurationMs": 522,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 344867,
+    "dDurationMs": 1554,
+    "segs": [ {
+      "utf8": "- Your check, sir.\n- Thanks."
+    } ]
+  }, {
+    "tStartMs": 350070,
+    "dDurationMs": 753,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 351796,
+    "dDurationMs": 1827,
+    "segs": [ {
+      "utf8": "Thank you, Mark.\nThat was a lovely dinner."
+    } ]
+  }, {
+    "tStartMs": 353623,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "I'm glad you enjoyed it."
+    } ]
+  }, {
+    "tStartMs": 356350,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "How's your daughter?"
+    } ]
+  }, {
+    "tStartMs": 358053,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Jennifer. She's 5."
+    } ]
+  }, {
+    "tStartMs": 359554,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "She's with her mother in Los Angeles."
+    } ]
+  }, {
+    "tStartMs": 361401,
+    "dDurationMs": 888,
+    "segs": [ {
+      "utf8": "Mark!"
+    } ]
+  }, {
+    "tStartMs": 363237,
+    "dDurationMs": 531,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 363768,
+    "dDurationMs": 2422,
+    "segs": [ {
+      "utf8": "Can I ask you something?\nSomething personal."
+    } ]
+  }, {
+    "tStartMs": 366595,
+    "dDurationMs": 1598,
+    "segs": [ {
+      "utf8": "Sure, what?"
+    } ]
+  }, {
+    "tStartMs": 368492,
+    "dDurationMs": 1311,
+    "segs": [ {
+      "utf8": "How long were you married?"
+    } ]
+  }, {
+    "tStartMs": 370166,
+    "dDurationMs": 754,
+    "segs": [ {
+      "utf8": "3 years."
+    } ]
+  }, {
+    "tStartMs": 371620,
+    "dDurationMs": 1153,
+    "segs": [ {
+      "utf8": "Why did you break up?"
+    } ]
+  }, {
+    "tStartMs": 373782,
+    "dDurationMs": 1514,
+    "segs": [ {
+      "utf8": "There were a lot of reasons."
+    } ]
+  }, {
+    "tStartMs": 375815,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "We were very young\nwhen we had Jennifer."
+    } ]
+  }, {
+    "tStartMs": 378024,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "We were both working very hard."
+    } ]
+  }, {
+    "tStartMs": 379784,
+    "dDurationMs": 1554,
+    "segs": [ {
+      "utf8": "We didn't spend much time together."
+    } ]
+  }, {
+    "tStartMs": 381542,
+    "dDurationMs": 1132,
+    "segs": [ {
+      "utf8": "The usual story."
+    } ]
+  }, {
+    "tStartMs": 384271,
+    "dDurationMs": 1279,
+    "segs": [ {
+      "utf8": "What about you, Allie?"
+    } ]
+  }, {
+    "tStartMs": 385920,
+    "dDurationMs": 1878,
+    "segs": [ {
+      "utf8": "Well, there was someone."
+    } ]
+  }, {
+    "tStartMs": 387798,
+    "dDurationMs": 1922,
+    "segs": [ {
+      "utf8": "I met him when I was at university."
+    } ]
+  }, {
+    "tStartMs": 389720,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "We were together for 2 years."
+    } ]
+  }, {
+    "tStartMs": 392645,
+    "dDurationMs": 754,
+    "segs": [ {
+      "utf8": "We broke up."
+    } ]
+  }, {
+    "tStartMs": 393872,
+    "dDurationMs": 849,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 394721,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "I don't know."
+    } ]
+  }, {
+    "tStartMs": 395972,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Usual story."
+    } ]
+  }, {
+    "tStartMs": 406748,
+    "dDurationMs": 749,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 409197,
+    "dDurationMs": 611,
+    "segs": [ {
+      "utf8": "Listen!"
+    } ]
+  }, {
+    "tStartMs": 410217,
+    "dDurationMs": 2075,
+    "segs": [ {
+      "utf8": "Oh, it's early.\nIt's only 9 o'clock."
+    } ]
+  }, {
+    "tStartMs": 412816,
+    "dDurationMs": 1091,
+    "segs": [ {
+      "utf8": "Shall we go for a walk?"
+    } ]
+  }, {
+    "tStartMs": 414042,
+    "dDurationMs": 1525,
+    "segs": [ {
+      "utf8": "Good idea!\nWhere should we go?"
+    } ]
+  }, {
+    "tStartMs": 415567,
+    "dDurationMs": 2352,
+    "segs": [ {
+      "utf8": "There's a place called Fisherman's Wharf."
+    } ]
+  }, {
+    "tStartMs": 417919,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "It's right on the bay.\nThere are a lot of cafes and bars."
+    } ]
+  }, {
+    "tStartMs": 421155,
+    "dDurationMs": 1831,
+    "segs": [ {
+      "utf8": "We could have another cup of coffee."
+    } ]
+  }, {
+    "tStartMs": 422986,
+    "dDurationMs": 1503,
+    "segs": [ {
+      "utf8": "Fine. Let's go."
+    } ]
+  }, {
+    "tStartMs": 428254,
+    "dDurationMs": 1913,
+    "segs": [ {
+      "utf8": "Good morning, ma'am.\nHow can I help you?"
+    } ]
+  }, {
+    "tStartMs": 430267,
+    "dDurationMs": 2367,
+    "segs": [ {
+      "utf8": "I want to go shopping.\nWhere's the best place to go?"
+    } ]
+  }, {
+    "tStartMs": 432967,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Well, all the big department stores\nare around Union Square."
+    } ]
+  }, {
+    "tStartMs": 436533,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "Can you tell me how to get there?"
+    } ]
+  }, {
+    "tStartMs": 437700,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Yes, of course."
+    } ]
+  }, {
+    "tStartMs": 443300,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Go out of the hotel and turn left."
+    } ]
+  }, {
+    "tStartMs": 445933,
+    "dDurationMs": 4433,
+    "segs": [ {
+      "utf8": "Go straight ahead down Sutter Street,\nturn left at Stockton."
+    } ]
+  }, {
+    "tStartMs": 450467,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "It's the 3rd Street on the left."
+    } ]
+  }, {
+    "tStartMs": 452100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Union Square will be right in front of you.\nYou can't miss it."
+    } ]
+  }, {
+    "tStartMs": 454500,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Thanks."
+    } ]
+  }, {
+    "tStartMs": 460700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh... Where is it?"
+    } ]
+  }, {
+    "tStartMs": 466767,
+    "dDurationMs": 2534,
+    "segs": [ {
+      "utf8": "Excuse me.\nCan you tell me the way to Union Square?"
+    } ]
+  }, {
+    "tStartMs": 469620,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Hey!"
+    } ]
+  }, {
+    "tStartMs": 470667,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "Don't I know you?"
+    } ]
+  }, {
+    "tStartMs": 472300,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "I don't think so."
+    } ]
+  }, {
+    "tStartMs": 473617,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Allie, I'm Brad."
+    } ]
+  }, {
+    "tStartMs": 477333,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Brad Martin from the Los Angeles office."
+    } ]
+  }, {
+    "tStartMs": 480933,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I'm Mark's friend. Remember?"
+    } ]
+  }, {
+    "tStartMs": 483467,
+    "dDurationMs": 1733,
+    "segs": [ {
+      "utf8": "We met yesterday at the Hotel."
+    } ]
+  }, {
+    "tStartMs": 485733,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "Oh. Yes.\nThat's right, Brad."
+    } ]
+  }, {
+    "tStartMs": 487300,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "I'm so sorry."
+    } ]
+  }, {
+    "tStartMs": 488833,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "No problem."
+    } ]
+  }, {
+    "tStartMs": 490950,
+    "dDurationMs": 1217,
+    "segs": [ {
+      "utf8": "What are you doing here?"
+    } ]
+  }, {
+    "tStartMs": 492700,
+    "dDurationMs": 2967,
+    "segs": [ {
+      "utf8": "I want to go shopping.\nI'm looking for Union Square."
+    } ]
+  }, {
+    "tStartMs": 495700,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "But I'm lost."
+    } ]
+  }, {
+    "tStartMs": 497500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Where's Mark?"
+    } ]
+  }, {
+    "tStartMs": 498679,
+    "dDurationMs": 2345,
+    "segs": [ {
+      "utf8": "He's at the hotel.\nHe had a meeting, I think."
+    } ]
+  }, {
+    "tStartMs": 502023,
+    "dDurationMs": 1589,
+    "segs": [ {
+      "utf8": "Listen, Allie."
+    } ]
+  }, {
+    "tStartMs": 503612,
+    "dDurationMs": 3898,
+    "segs": [ {
+      "utf8": "I'm going to take you\nfor a cup of coffee at Delmonico."
+    } ]
+  }, {
+    "tStartMs": 507510,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "They have the best coffee\nin San Francisco and amazing cookies."
+    } ]
+  }, {
+    "tStartMs": 511011,
+    "dDurationMs": 2774,
+    "segs": [ {
+      "utf8": "And I'll walk with you to Union Square."
+    } ]
+  }, {
+    "tStartMs": 514333,
+    "dDurationMs": 1704,
+    "segs": [ {
+      "utf8": "Oh, that's really kind of you.\nAre you sure?"
+    } ]
+  }, {
+    "tStartMs": 516037,
+    "dDurationMs": 1777,
+    "segs": [ {
+      "utf8": "Absolutely!"
+    } ]
+  }, {
+    "tStartMs": 518089,
+    "dDurationMs": 1219,
+    "segs": [ {
+      "utf8": "It's my pleasure."
+    } ]
+  }, {
+    "tStartMs": 519739,
+    "dDurationMs": 1097,
+    "segs": [ {
+      "utf8": "Ok, great."
+    } ]
+  }, {
+    "tStartMs": 521136,
+    "dDurationMs": 2979,
+    "segs": [ {
+      "utf8": "I'm awful with new cities.\nI always get lost."
+    } ]
+  }, {
+    "tStartMs": 525214,
+    "dDurationMs": 1882,
+    "segs": [ {
+      "utf8": "I love your British accent."
+    } ]
+  }, {
+    "tStartMs": 536317,
+    "dDurationMs": 762,
+    "segs": [ {
+      "utf8": "Can I help you?"
+    } ]
+  }, {
+    "tStartMs": 537079,
+    "dDurationMs": 3035,
+    "segs": [ {
+      "utf8": "Yes, I really like this sweater.\nDo you have it in a medium?"
+    } ]
+  }, {
+    "tStartMs": 540689,
+    "dDurationMs": 1021,
+    "segs": [ {
+      "utf8": "Let's see."
+    } ]
+  }, {
+    "tStartMs": 544800,
+    "dDurationMs": 1278,
+    "segs": [ {
+      "utf8": "We have it in red in a medium."
+    } ]
+  }, {
+    "tStartMs": 546078,
+    "dDurationMs": 1384,
+    "segs": [ {
+      "utf8": "No, I want it in black."
+    } ]
+  }, {
+    "tStartMs": 547462,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "Just a minute. I'll go and check."
+    } ]
+  }, {
+    "tStartMs": 556652,
+    "dDurationMs": 3271,
+    "segs": [ {
+      "utf8": "Here you are a black medium.\nDo you want to try it on?"
+    } ]
+  }, {
+    "tStartMs": 559979,
+    "dDurationMs": 2215,
+    "segs": [ {
+      "utf8": "No, thanks. I'm sure it'll be fine.\nHow much is it?"
+    } ]
+  }, {
+    "tStartMs": 562194,
+    "dDurationMs": 1984,
+    "segs": [ {
+      "utf8": "$43.38"
+    } ]
+  }, {
+    "tStartMs": 564632,
+    "dDurationMs": 2411,
+    "segs": [ {
+      "utf8": "Oh! It says $39.99."
+    } ]
+  }, {
+    "tStartMs": 567043,
+    "dDurationMs": 4969,
+    "segs": [ {
+      "utf8": "Yes, but that doesn't include sales tax.\nThat's 8.5% extra."
+    } ]
+  }, {
+    "tStartMs": 572012,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "Oh, Ok.\nDo you take Master Card?"
+    } ]
+  }, {
+    "tStartMs": 574367,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes, of course."
+    } ]
+  }, {
+    "tStartMs": 577433,
+    "dDurationMs": 2317,
+    "segs": [ {
+      "utf8": "WWW.FACEBOOK.COM/ANHNGUVIPS"
+    } ]
+  }, {
+    "tStartMs": 580717,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "Can I help you?"
+    } ]
+  }, {
+    "tStartMs": 582090,
+    "dDurationMs": 3475,
+    "segs": [ {
+      "utf8": "Yes, I bought this sweater\nabout half an hour ago."
+    } ]
+  }, {
+    "tStartMs": 585565,
+    "dDurationMs": 2276,
+    "segs": [ {
+      "utf8": "Yes. I remember.\nIs there a problem?"
+    } ]
+  }, {
+    "tStartMs": 587841,
+    "dDurationMs": 2396,
+    "segs": [ {
+      "utf8": "Yes, I've decided it's too big for me."
+    } ]
+  }, {
+    "tStartMs": 590237,
+    "dDurationMs": 1003,
+    "segs": [ {
+      "utf8": "What size is it?"
+    } ]
+  }, {
+    "tStartMs": 591240,
+    "dDurationMs": 996,
+    "segs": [ {
+      "utf8": "Medium."
+    } ]
+  }, {
+    "tStartMs": 592236,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "So you need a small."
+    } ]
+  }, {
+    "tStartMs": 596940,
+    "dDurationMs": 1045,
+    "segs": [ {
+      "utf8": "I don't see one here."
+    } ]
+  }, {
+    "tStartMs": 598233,
+    "dDurationMs": 1026,
+    "segs": [ {
+      "utf8": "Do you have any more?"
+    } ]
+  }, {
+    "tStartMs": 599782,
+    "dDurationMs": 1652,
+    "segs": [ {
+      "utf8": "I'll go and check just a minute."
+    } ]
+  }, {
+    "tStartMs": 607135,
+    "dDurationMs": 2424,
+    "segs": [ {
+      "utf8": "I'm sorry, but we don't have\nanother one in black."
+    } ]
+  }, {
+    "tStartMs": 609633,
+    "dDurationMs": 1003,
+    "segs": [ {
+      "utf8": "Oh, dear!"
+    } ]
+  }, {
+    "tStartMs": 610636,
+    "dDurationMs": 1207,
+    "segs": [ {
+      "utf8": "We can order one for you."
+    } ]
+  }, {
+    "tStartMs": 612035,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "It'll only take a few days."
+    } ]
+  }, {
+    "tStartMs": 613370,
+    "dDurationMs": 1315,
+    "segs": [ {
+      "utf8": "No, I'm leaving on Saturday."
+    } ]
+  }, {
+    "tStartMs": 615912,
+    "dDurationMs": 1644,
+    "segs": [ {
+      "utf8": "Would you like to\nexchange it for something else?"
+    } ]
+  }, {
+    "tStartMs": 618164,
+    "dDurationMs": 1954,
+    "segs": [ {
+      "utf8": "Not really?\nCould I have a refund?"
+    } ]
+  }, {
+    "tStartMs": 620225,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "No problem.\nDo you have the receipt?"
+    } ]
+  }, {
+    "tStartMs": 622375,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 625641,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "Here you are."
+    } ]
+  }, {
+    "tStartMs": 629025,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Allie, you look great as usual."
+    } ]
+  }, {
+    "tStartMs": 632570,
+    "dDurationMs": 811,
+    "segs": [ {
+      "utf8": "How was your morning?"
+    } ]
+  }, {
+    "tStartMs": 633381,
+    "dDurationMs": 622,
+    "segs": [ {
+      "utf8": "Really good."
+    } ]
+  }, {
+    "tStartMs": 634003,
+    "dDurationMs": 1475,
+    "segs": [ {
+      "utf8": "First, I went shopping."
+    } ]
+  }, {
+    "tStartMs": 635478,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Then I went to the Museum of Modern Art."
+    } ]
+  }, {
+    "tStartMs": 637528,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "What did you think of it?"
+    } ]
+  }, {
+    "tStartMs": 638378,
+    "dDurationMs": 3778,
+    "segs": [ {
+      "utf8": "It was wonderful, but I didn't have\nenough time to see it all, never mind."
+    } ]
+  }, {
+    "tStartMs": 642156,
+    "dDurationMs": 898,
+    "segs": [ {
+      "utf8": "Maybe next time."
+    } ]
+  }, {
+    "tStartMs": 644340,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "What a lovely evening."
+    } ]
+  }, {
+    "tStartMs": 646005,
+    "dDurationMs": 998,
+    "segs": [ {
+      "utf8": "Hi, Allie."
+    } ]
+  }, {
+    "tStartMs": 647003,
+    "dDurationMs": 753,
+    "segs": [ {
+      "utf8": "Oh!"
+    } ]
+  }, {
+    "tStartMs": 647756,
+    "dDurationMs": 1874,
+    "segs": [ {
+      "utf8": "How's the shopping?"
+    } ]
+  }, {
+    "tStartMs": 649630,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Great! Thanks."
+    } ]
+  }, {
+    "tStartMs": 650702,
+    "dDurationMs": 794,
+    "segs": [ {
+      "utf8": "Am I?"
+    } ]
+  }, {
+    "tStartMs": 652644,
+    "dDurationMs": 2845,
+    "segs": [ {
+      "utf8": "And did you like the museum?\nI hope you didn't get lost again."
+    } ]
+  }, {
+    "tStartMs": 656613,
+    "dDurationMs": 2474,
+    "segs": [ {
+      "utf8": "Hey! I didn't know\nyou two were friends already."
+    } ]
+  }, {
+    "tStartMs": 659087,
+    "dDurationMs": 1661,
+    "segs": [ {
+      "utf8": "We met this morning. I got lost."
+    } ]
+  }, {
+    "tStartMs": 660748,
+    "dDurationMs": 3824,
+    "segs": [ {
+      "utf8": "I was trying to find Union Square\nand suddenly Brad appeared."
+    } ]
+  }, {
+    "tStartMs": 664572,
+    "dDurationMs": 1449,
+    "segs": [ {
+      "utf8": "So I took her to my favorite coffee shop."
+    } ]
+  }, {
+    "tStartMs": 666647,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Allie!\nWhat would you like to drink?"
+    } ]
+  }, {
+    "tStartMs": 668947,
+    "dDurationMs": 2425,
+    "segs": [ {
+      "utf8": "I'd like a cocktail, please.\nA margarita."
+    } ]
+  }, {
+    "tStartMs": 671372,
+    "dDurationMs": 2426,
+    "segs": [ {
+      "utf8": "What a good idea.\nI'll have one, too."
+    } ]
+  }, {
+    "tStartMs": 673798,
+    "dDurationMs": 3557,
+    "segs": [ {
+      "utf8": "Mark,\nCould you get us a couple of margaritas?"
+    } ]
+  }, {
+    "tStartMs": 678400,
+    "dDurationMs": 1497,
+    "segs": [ {
+      "utf8": "So Now, I'm the waiter, Am I?"
+    } ]
+  }, {
+    "tStartMs": 681998,
+    "dDurationMs": 4985,
+    "segs": [ {
+      "utf8": "So... tell me about the museum, Allie?\nWhat was your favorite painting?"
+    } ]
+  }, {
+    "tStartMs": 689723,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "Hi, how can I help you?"
+    } ]
+  }, {
+    "tStartMs": 691826,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "Do you have any painkillers?\nI have a headache."
+    } ]
+  }, {
+    "tStartMs": 694201,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "I'm sorry. We can't give our guests medicine,\nbut we can call a doctor for you if you like."
+    } ]
+  }, {
+    "tStartMs": 698431,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "No, it's Ok. I don't need a doctor."
+    } ]
+  }, {
+    "tStartMs": 699993,
+    "dDurationMs": 3354,
+    "segs": [ {
+      "utf8": "It's just a cold, but is\nthere a chemist's near the hotel?"
+    } ]
+  }, {
+    "tStartMs": 703347,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Do you mean a pharmacy?"
+    } ]
+  }, {
+    "tStartMs": 704570,
+    "dDurationMs": 1704,
+    "segs": [ {
+      "utf8": "Sorry, that's right a pharmacy."
+    } ]
+  }, {
+    "tStartMs": 706274,
+    "dDurationMs": 2309,
+    "segs": [ {
+      "utf8": "Sure. There's one right across the street."
+    } ]
+  }, {
+    "tStartMs": 708594,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 709314,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You're welcome."
+    } ]
+  }, {
+    "tStartMs": 713277,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Good morning, can I help you?"
+    } ]
+  }, {
+    "tStartMs": 714625,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "I have a bad cold.\nDo you have something I can take?"
+    } ]
+  }, {
+    "tStartMs": 717228,
+    "dDurationMs": 1355,
+    "segs": [ {
+      "utf8": "What symptoms do you have?"
+    } ]
+  }, {
+    "tStartMs": 718836,
+    "dDurationMs": 1882,
+    "segs": [ {
+      "utf8": "I have a headache and a cough."
+    } ]
+  }, {
+    "tStartMs": 721242,
+    "dDurationMs": 985,
+    "segs": [ {
+      "utf8": "Do you have a temperature?"
+    } ]
+  }, {
+    "tStartMs": 722227,
+    "dDurationMs": 1141,
+    "segs": [ {
+      "utf8": "No, I don't think so."
+    } ]
+  }, {
+    "tStartMs": 723552,
+    "dDurationMs": 1024,
+    "segs": [ {
+      "utf8": "Does your back hurt?"
+    } ]
+  }, {
+    "tStartMs": 724576,
+    "dDurationMs": 1007,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 725583,
+    "dDurationMs": 1315,
+    "segs": [ {
+      "utf8": "Are you allergic to any drugs?"
+    } ]
+  }, {
+    "tStartMs": 726905,
+    "dDurationMs": 2025,
+    "segs": [ {
+      "utf8": "I'm allergic to penicillin."
+    } ]
+  }, {
+    "tStartMs": 729926,
+    "dDurationMs": 924,
+    "segs": [ {
+      "utf8": "No problem."
+    } ]
+  }, {
+    "tStartMs": 731227,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "These are aspirin.\nThese'll make you feel better."
+    } ]
+  }, {
+    "tStartMs": 733328,
+    "dDurationMs": 1495,
+    "segs": [ {
+      "utf8": "How many do I have to take?"
+    } ]
+  }, {
+    "tStartMs": 734924,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Two every four hours?"
+    } ]
+  }, {
+    "tStartMs": 736496,
+    "dDurationMs": 1072,
+    "segs": [ {
+      "utf8": "Sorry. How often?"
+    } ]
+  }, {
+    "tStartMs": 737568,
+    "dDurationMs": 4064,
+    "segs": [ {
+      "utf8": "Every four hours if you don't feel\nbetter in 24 hours, you should see a doctor."
+    } ]
+  }, {
+    "tStartMs": 741967,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Ok. Thanks."
+    } ]
+  }, {
+    "tStartMs": 743417,
+    "dDurationMs": 902,
+    "segs": [ {
+      "utf8": "How much are they?"
+    } ]
+  }, {
+    "tStartMs": 744319,
+    "dDurationMs": 1363,
+    "segs": [ {
+      "utf8": "$4.75, please."
+    } ]
+  }, {
+    "tStartMs": 747860,
+    "dDurationMs": 803,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 748663,
+    "dDurationMs": 998,
+    "segs": [ {
+      "utf8": "You're welcome."
+    } ]
+  }, {
+    "tStartMs": 753322,
+    "dDurationMs": 1296,
+    "segs": [ {
+      "utf8": "Bless you. Are you Ok?"
+    } ]
+  }, {
+    "tStartMs": 755515,
+    "dDurationMs": 3982,
+    "segs": [ {
+      "utf8": "It's just a cold.\nI had a bad headache this\nmorning, but I feel better now."
+    } ]
+  }, {
+    "tStartMs": 760534,
+    "dDurationMs": 2352,
+    "segs": [ {
+      "utf8": "Listen! I'm really sorry\nabout last night."
+    } ]
+  }, {
+    "tStartMs": 763228,
+    "dDurationMs": 999,
+    "segs": [ {
+      "utf8": "What do you mean?"
+    } ]
+  }, {
+    "tStartMs": 764227,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "At the party.\nI got kind of angry at Brad.\nHe was really annoying me."
+    } ]
+  }, {
+    "tStartMs": 769277,
+    "dDurationMs": 1796,
+    "segs": [ {
+      "utf8": "Oh, I think he's very nice."
+    } ]
+  }, {
+    "tStartMs": 771073,
+    "dDurationMs": 2379,
+    "segs": [ {
+      "utf8": "Yeah, women always think so."
+    } ]
+  }, {
+    "tStartMs": 775262,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "Don't worry Mark.\nBrad's not my type."
+    } ]
+  }, {
+    "tStartMs": 779759,
+    "dDurationMs": 2652,
+    "segs": [ {
+      "utf8": "So, what is your type, Allie?"
+    } ]
+  }, {
+    "tStartMs": 782411,
+    "dDurationMs": 2048,
+    "segs": [ {
+      "utf8": "You know, what my type is..."
+    } ]
+  }, {
+    "tStartMs": 786237,
+    "dDurationMs": 5252,
+    "segs": [ {
+      "utf8": "Dark hair, 34 years old,\nlives in San Francisco."
+    } ]
+  }, {
+    "tStartMs": 792441,
+    "dDurationMs": 2452,
+    "segs": [ {
+      "utf8": "Listen, tomorrow's your last day."
+    } ]
+  }, {
+    "tStartMs": 794893,
+    "dDurationMs": 2324,
+    "segs": [ {
+      "utf8": "I want to do something special.\nWhat would you like to do?"
+    } ]
+  }, {
+    "tStartMs": 797217,
+    "dDurationMs": 1548,
+    "segs": [ {
+      "utf8": "I don't mind. You choose."
+    } ]
+  }, {
+    "tStartMs": 798765,
+    "dDurationMs": 3727,
+    "segs": [ {
+      "utf8": "How about a boat trip around the bay?"
+    } ]
+  }, {
+    "tStartMs": 802492,
+    "dDurationMs": 3106,
+    "segs": [ {
+      "utf8": "We could do that in the\nmorning and then have\nnice dinner in the evening."
+    } ]
+  }, {
+    "tStartMs": 805598,
+    "dDurationMs": 1341,
+    "segs": [ {
+      "utf8": "That sounds fantastic!"
+    } ]
+  }, {
+    "tStartMs": 807945,
+    "dDurationMs": 1646,
+    "segs": [ {
+      "utf8": "It's too bad. You can't stay longer."
+    } ]
+  }, {
+    "tStartMs": 809591,
+    "dDurationMs": 3325,
+    "segs": [ {
+      "utf8": "Yes. It's a pity!\nThis week has gone so quickly."
+    } ]
+  }, {
+    "tStartMs": 812916,
+    "dDurationMs": 2925,
+    "segs": [ {
+      "utf8": "I feel I've just arrived\nand now I'm going home."
+    } ]
+  }, {
+    "tStartMs": 816672,
+    "dDurationMs": 2594,
+    "segs": [ {
+      "utf8": "Well, I'm gonna make sure\ntomorrow is a really special day."
+    } ]
+  }, {
+    "tStartMs": 823782,
+    "dDurationMs": 1026,
+    "segs": [ {
+      "utf8": "Hi, Allie."
+    } ]
+  }, {
+    "tStartMs": 826036,
+    "dDurationMs": 1224,
+    "segs": [ {
+      "utf8": "How are you feeling today?"
+    } ]
+  }, {
+    "tStartMs": 827433,
+    "dDurationMs": 803,
+    "segs": [ {
+      "utf8": "Much better."
+    } ]
+  }, {
+    "tStartMs": 828304,
+    "dDurationMs": 724,
+    "segs": [ {
+      "utf8": "Oh, good."
+    } ]
+  }, {
+    "tStartMs": 830078,
+    "dDurationMs": 2476,
+    "segs": [ {
+      "utf8": "Are you going to be warm\nenough for just that sweater?"
+    } ]
+  }, {
+    "tStartMs": 832554,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "It might be a little cold on the boat."
+    } ]
+  }, {
+    "tStartMs": 834453,
+    "dDurationMs": 952,
+    "segs": [ {
+      "utf8": "I'll be fine."
+    } ]
+  }, {
+    "tStartMs": 835781,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Are we going to walk to the bay?"
+    } ]
+  }, {
+    "tStartMs": 837205,
+    "dDurationMs": 2578,
+    "segs": [ {
+      "utf8": "No, it's too far.\nIt's better if we get a cab."
+    } ]
+  }, {
+    "tStartMs": 840025,
+    "dDurationMs": 1259,
+    "segs": [ {
+      "utf8": "How long does it take by cab?"
+    } ]
+  }, {
+    "tStartMs": 841616,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "About 10 minutes?"
+    } ]
+  }, {
+    "tStartMs": 842891,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "And how long is the boat trip?"
+    } ]
+  }, {
+    "tStartMs": 844866,
+    "dDurationMs": 1269,
+    "segs": [ {
+      "utf8": "I'm not sure."
+    } ]
+  }, {
+    "tStartMs": 846332,
+    "dDurationMs": 1803,
+    "segs": [ {
+      "utf8": "I think it's an hour.\nWhy?"
+    } ]
+  }, {
+    "tStartMs": 848252,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "Well, I have to be back here\nby 1:00. I'm expecting an\nimportant phone call."
+    } ]
+  }, {
+    "tStartMs": 852752,
+    "dDurationMs": 1705,
+    "segs": [ {
+      "utf8": "Not from Brad. I hope."
+    } ]
+  }, {
+    "tStartMs": 854457,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Well... actually..."
+    } ]
+  }, {
+    "tStartMs": 856339,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "No, of course not."
+    } ]
+  }, {
+    "tStartMs": 857474,
+    "dDurationMs": 1104,
+    "segs": [ {
+      "utf8": "From the New York office."
+    } ]
+  }, {
+    "tStartMs": 858578,
+    "dDurationMs": 1878,
+    "segs": [ {
+      "utf8": "Ok, let's go."
+    } ]
+  }, {
+    "tStartMs": 863882,
+    "dDurationMs": 927,
+    "segs": [ {
+      "utf8": "Good morning."
+    } ]
+  }, {
+    "tStartMs": 865307,
+    "dDurationMs": 925,
+    "segs": [ {
+      "utf8": "Good morning, sir."
+    } ]
+  }, {
+    "tStartMs": 866352,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "What time does the next boat leave?"
+    } ]
+  }, {
+    "tStartMs": 867967,
+    "dDurationMs": 885,
+    "segs": [ {
+      "utf8": "At 10 o'clock."
+    } ]
+  }, {
+    "tStartMs": 869402,
+    "dDurationMs": 778,
+    "segs": [ {
+      "utf8": "How long does it take?"
+    } ]
+  }, {
+    "tStartMs": 870180,
+    "dDurationMs": 999,
+    "segs": [ {
+      "utf8": "About an hour?"
+    } ]
+  }, {
+    "tStartMs": 871576,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "And where exactly does the boat go?"
+    } ]
+  }, {
+    "tStartMs": 873626,
+    "dDurationMs": 5527,
+    "segs": [ {
+      "utf8": "It goes under the bridge around\nAngel Island and pass Alcatraz\nand then back here."
+    } ]
+  }, {
+    "tStartMs": 880286,
+    "dDurationMs": 2226,
+    "segs": [ {
+      "utf8": "Can we get anything to eat\nor drink on the boat?"
+    } ]
+  }, {
+    "tStartMs": 882512,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "Yes, ma'am.\nThere's a snack bar."
+    } ]
+  }, {
+    "tStartMs": 884314,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Can I have two tickets, please?"
+    } ]
+  }, {
+    "tStartMs": 886114,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Sure."
+    } ]
+  }, {
+    "tStartMs": 887915,
+    "dDurationMs": 787,
+    "segs": [ {
+      "utf8": "2 adults."
+    } ]
+  }, {
+    "tStartMs": 889078,
+    "dDurationMs": 949,
+    "segs": [ {
+      "utf8": "How much is that?"
+    } ]
+  }, {
+    "tStartMs": 890628,
+    "dDurationMs": 2374,
+    "segs": [ {
+      "utf8": "That's $40."
+    } ]
+  }, {
+    "tStartMs": 894927,
+    "dDurationMs": 528,
+    "segs": [ {
+      "utf8": "There you are,"
+    } ]
+  }, {
+    "tStartMs": 895455,
+    "dDurationMs": 775,
+    "segs": [ {
+      "utf8": "Thank you, sir."
+    } ]
+  }, {
+    "tStartMs": 896230,
+    "dDurationMs": 651,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 903535,
+    "dDurationMs": 1996,
+    "segs": [ {
+      "utf8": "So, what do you think of San Francisco?"
+    } ]
+  }, {
+    "tStartMs": 906381,
+    "dDurationMs": 1284,
+    "segs": [ {
+      "utf8": "It's beautiful, Mark\nI love it."
+    } ]
+  }, {
+    "tStartMs": 908130,
+    "dDurationMs": 1276,
+    "segs": [ {
+      "utf8": "Better than London?"
+    } ]
+  }, {
+    "tStartMs": 909406,
+    "dDurationMs": 1974,
+    "segs": [ {
+      "utf8": "Not better, different."
+    } ]
+  }, {
+    "tStartMs": 911681,
+    "dDurationMs": 1949,
+    "segs": [ {
+      "utf8": "Do you think you could live here?"
+    } ]
+  }, {
+    "tStartMs": 913881,
+    "dDurationMs": 1004,
+    "segs": [ {
+      "utf8": "No, I don't think so."
+    } ]
+  }, {
+    "tStartMs": 915455,
+    "dDurationMs": 1151,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 916830,
+    "dDurationMs": 1223,
+    "segs": [ {
+      "utf8": "Well, it's a long way from London."
+    } ]
+  }, {
+    "tStartMs": 918053,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "I think I'd miss all\nmy family and friends."
+    } ]
+  }, {
+    "tStartMs": 920874,
+    "dDurationMs": 2059,
+    "segs": [ {
+      "utf8": "Could you live somewhere else?\nBut in Europe."
+    } ]
+  }, {
+    "tStartMs": 923349,
+    "dDurationMs": 1706,
+    "segs": [ {
+      "utf8": "Maybe.\nWhy do you ask?"
+    } ]
+  }, {
+    "tStartMs": 925915,
+    "dDurationMs": 1688,
+    "segs": [ {
+      "utf8": "Oh, No reason, I just wondered."
+    } ]
+  }, {
+    "tStartMs": 927642,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "On your left you can\nsee the island of Alcatraz."
+    } ]
+  }, {
+    "tStartMs": 930441,
+    "dDurationMs": 2205,
+    "segs": [ {
+      "utf8": "Look! Can you see that building."
+    } ]
+  }, {
+    "tStartMs": 932646,
+    "dDurationMs": 4949,
+    "segs": [ {
+      "utf8": "That used to be the prison but it was\nclosed in 1963 it's a museum now."
+    } ]
+  }, {
+    "tStartMs": 938919,
+    "dDurationMs": 1685,
+    "segs": [ {
+      "utf8": "Where are we going for dinner tonight?"
+    } ]
+  }, {
+    "tStartMs": 940649,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "It's a surprise."
+    } ]
+  }, {
+    "tStartMs": 941717,
+    "dDurationMs": 1939,
+    "segs": [ {
+      "utf8": "Oh, I'm really looking forward to it."
+    } ]
+  }, {
+    "tStartMs": 943656,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "Me, too."
+    } ]
+  }, {
+    "tStartMs": 944929,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "I'm cold."
+    } ]
+  }, {
+    "tStartMs": 946008,
+    "dDurationMs": 919,
+    "segs": [ {
+      "utf8": "Do you want to borrow my coat?"
+    } ]
+  }, {
+    "tStartMs": 946927,
+    "dDurationMs": 902,
+    "segs": [ {
+      "utf8": "No, it's Ok."
+    } ]
+  }, {
+    "tStartMs": 951319,
+    "dDurationMs": 1145,
+    "segs": [ {
+      "utf8": "I'm gonna miss you, Mark"
+    } ]
+  }, {
+    "tStartMs": 953525,
+    "dDurationMs": 2971,
+    "segs": [ {
+      "utf8": "Hey, excuse me.\nCould you take a photo of us, please?"
+    } ]
+  }, {
+    "tStartMs": 956631,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Sure."
+    } ]
+  }, {
+    "tStartMs": 964957,
+    "dDurationMs": 878,
+    "segs": [ {
+      "utf8": "Are you ready?"
+    } ]
+  }, {
+    "tStartMs": 966114,
+    "dDurationMs": 546,
+    "segs": [ {
+      "utf8": "Ready."
+    } ]
+  }, {
+    "tStartMs": 966936,
+    "dDurationMs": 1027,
+    "segs": [ {
+      "utf8": "Say \"cheese\""
+    } ]
+  }, {
+    "tStartMs": 981149,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Good afternoon,\nHow can I help you?"
+    } ]
+  }, {
+    "tStartMs": 983054,
+    "dDurationMs": 2653,
+    "segs": [ {
+      "utf8": "Hi.\n'm leaving tomorrow morning very early."
+    } ]
+  }, {
+    "tStartMs": 985837,
+    "dDurationMs": 2682,
+    "segs": [ {
+      "utf8": "Could you prepare my bill\nso I can pay this evening?"
+    } ]
+  }, {
+    "tStartMs": 988519,
+    "dDurationMs": 791,
+    "segs": [ {
+      "utf8": "Of course."
+    } ]
+  }, {
+    "tStartMs": 989479,
+    "dDurationMs": 1353,
+    "segs": [ {
+      "utf8": "And could you order me a cab?"
+    } ]
+  }, {
+    "tStartMs": 991079,
+    "dDurationMs": 755,
+    "segs": [ {
+      "utf8": "For what time?"
+    } ]
+  }, {
+    "tStartMs": 992267,
+    "dDurationMs": 1391,
+    "segs": [ {
+      "utf8": "My flight's at 9:15."
+    } ]
+  }, {
+    "tStartMs": 993658,
+    "dDurationMs": 2604,
+    "segs": [ {
+      "utf8": "So I have to be at the airport at 7:15."
+    } ]
+  }, {
+    "tStartMs": 996262,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "Then you'll need a cab at 6 o'clock."
+    } ]
+  }, {
+    "tStartMs": 998180,
+    "dDurationMs": 1321,
+    "segs": [ {
+      "utf8": "I'll order one for you."
+    } ]
+  }, {
+    "tStartMs": 999501,
+    "dDurationMs": 2326,
+    "segs": [ {
+      "utf8": "Thanks. Oh,\nHas there been a phone call for me?"
+    } ]
+  }, {
+    "tStartMs": 1002056,
+    "dDurationMs": 1779,
+    "segs": [ {
+      "utf8": "Oh, yes.\nThere's a message for you."
+    } ]
+  }, {
+    "tStartMs": 1005644,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Can you call this number in New York?"
+    } ]
+  }, {
+    "tStartMs": 1007585,
+    "dDurationMs": 1242,
+    "segs": [ {
+      "utf8": "Right.\nThanks."
+    } ]
+  }, {
+    "tStartMs": 1008827,
+    "dDurationMs": 715,
+    "segs": [ {
+      "utf8": "You're welcome."
+    } ]
+  }, {
+    "tStartMs": 1012050,
+    "dDurationMs": 783,
+    "segs": [ {
+      "utf8": "Hello"
+    } ]
+  }, {
+    "tStartMs": 1013050,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Hello,\nIs that MTC?"
+    } ]
+  }, {
+    "tStartMs": 1015617,
+    "dDurationMs": 1417,
+    "segs": [ {
+      "utf8": "Sorry. You've got the wrong number."
+    } ]
+  }, {
+    "tStartMs": 1017183,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "Oh, sorry."
+    } ]
+  }, {
+    "tStartMs": 1022216,
+    "dDurationMs": 1884,
+    "segs": [ {
+      "utf8": "MTC New York.\nHow can I help you?"
+    } ]
+  }, {
+    "tStartMs": 1024100,
+    "dDurationMs": 2175,
+    "segs": [ {
+      "utf8": "Hello, can I speak to Lisa Formosa, please?"
+    } ]
+  }, {
+    "tStartMs": 1026275,
+    "dDurationMs": 2259,
+    "segs": [ {
+      "utf8": "Just a moment.\nI'll put you through."
+    } ]
+  }, {
+    "tStartMs": 1030228,
+    "dDurationMs": 822,
+    "segs": [ {
+      "utf8": "Hello!"
+    } ]
+  }, {
+    "tStartMs": 1031050,
+    "dDurationMs": 1426,
+    "segs": [ {
+      "utf8": "Hi, is that Lisa?"
+    } ]
+  }, {
+    "tStartMs": 1032476,
+    "dDurationMs": 981,
+    "segs": [ {
+      "utf8": "No, I'm sorry."
+    } ]
+  }, {
+    "tStartMs": 1033457,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "She's not at her desk right now."
+    } ]
+  }, {
+    "tStartMs": 1035277,
+    "dDurationMs": 1567,
+    "segs": [ {
+      "utf8": "Can I leave a message, please?"
+    } ]
+  }, {
+    "tStartMs": 1036844,
+    "dDurationMs": 821,
+    "segs": [ {
+      "utf8": "Sure."
+    } ]
+  }, {
+    "tStartMs": 1038044,
+    "dDurationMs": 1757,
+    "segs": [ {
+      "utf8": "Tell her Allie Gray called."
+    } ]
+  }, {
+    "tStartMs": 1039801,
+    "dDurationMs": 1453,
+    "segs": [ {
+      "utf8": "I'll call back in 5 minutes."
+    } ]
+  }, {
+    "tStartMs": 1042641,
+    "dDurationMs": 2217,
+    "segs": [ {
+      "utf8": "MTC New York.\nHow can I help you?"
+    } ]
+  }, {
+    "tStartMs": 1044858,
+    "dDurationMs": 2447,
+    "segs": [ {
+      "utf8": "Hello. Can I speak to Lisa Formosa, please?"
+    } ]
+  }, {
+    "tStartMs": 1047661,
+    "dDurationMs": 947,
+    "segs": [ {
+      "utf8": "Just a moment."
+    } ]
+  }, {
+    "tStartMs": 1049752,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "I'm sorry, the line's busy."
+    } ]
+  }, {
+    "tStartMs": 1051721,
+    "dDurationMs": 969,
+    "segs": [ {
+      "utf8": "Do you want to hold?"
+    } ]
+  }, {
+    "tStartMs": 1052690,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Ok, I'll hold."
+    } ]
+  }, {
+    "tStartMs": 1058971,
+    "dDurationMs": 709,
+    "segs": [ {
+      "utf8": "Hello."
+    } ]
+  }, {
+    "tStartMs": 1059734,
+    "dDurationMs": 2019,
+    "segs": [ {
+      "utf8": "Hi Lisa,\nIt's Allie Gray."
+    } ]
+  }, {
+    "tStartMs": 1061753,
+    "dDurationMs": 2113,
+    "segs": [ {
+      "utf8": "Allie, Hi\nHow is California?"
+    } ]
+  }, {
+    "tStartMs": 1063866,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Great..., great!"
+    } ]
+  }, {
+    "tStartMs": 1065617,
+    "dDurationMs": 1991,
+    "segs": [ {
+      "utf8": "Well, is it good news or bad news?"
+    } ]
+  }, {
+    "tStartMs": 1067608,
+    "dDurationMs": 1366,
+    "segs": [ {
+      "utf8": "It's good."
+    } ]
+  }, {
+    "tStartMs": 1068974,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "You've got the job in Paris."
+    } ]
+  }, {
+    "tStartMs": 1070407,
+    "dDurationMs": 1993,
+    "segs": [ {
+      "utf8": "Oh, wonderful.\nThat's fantastic!"
+    } ]
+  }, {
+    "tStartMs": 1073885,
+    "dDurationMs": 2455,
+    "segs": [ {
+      "utf8": "Thanks for everything.\nI've had a great time here."
+    } ]
+  }, {
+    "tStartMs": 1076877,
+    "dDurationMs": 2501,
+    "segs": [ {
+      "utf8": "Cheers... to us."
+    } ]
+  }, {
+    "tStartMs": 1082315,
+    "dDurationMs": 691,
+    "segs": [ {
+      "utf8": "Allie!"
+    } ]
+  }, {
+    "tStartMs": 1085443,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "We need to talk about the future.\nI mean about our future."
+    } ]
+  }, {
+    "tStartMs": 1090835,
+    "dDurationMs": 841,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1092895,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Allie, I really think we\nhave a future together."
+    } ]
+  }, {
+    "tStartMs": 1096579,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "I'm serious."
+    } ]
+  }, {
+    "tStartMs": 1097850,
+    "dDurationMs": 4308,
+    "segs": [ {
+      "utf8": "So my Mark, but the problem is you\nlive here and I live in London."
+    } ]
+  }, {
+    "tStartMs": 1102158,
+    "dDurationMs": 2612,
+    "segs": [ {
+      "utf8": "We're 6,000 miles apart."
+    } ]
+  }, {
+    "tStartMs": 1105304,
+    "dDurationMs": 2785,
+    "segs": [ {
+      "utf8": "Maybe that's not\ngoing to be a problem."
+    } ]
+  }, {
+    "tStartMs": 1108770,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "I have something to tell you.\nWe're not gonna be 6,000 miles apart."
+    } ]
+  }, {
+    "tStartMs": 1112569,
+    "dDurationMs": 2338,
+    "segs": [ {
+      "utf8": "We're only gonna be 300 miles apart."
+    } ]
+  }, {
+    "tStartMs": 1114971,
+    "dDurationMs": 886,
+    "segs": [ {
+      "utf8": "What do you mean?"
+    } ]
+  }, {
+    "tStartMs": 1116574,
+    "dDurationMs": 2846,
+    "segs": [ {
+      "utf8": "You know the new MTC office.\nIt's opening in Paris next month."
+    } ]
+  }, {
+    "tStartMs": 1119420,
+    "dDurationMs": 891,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1120641,
+    "dDurationMs": 1007,
+    "segs": [ {
+      "utf8": "Well, I'm going there."
+    } ]
+  }, {
+    "tStartMs": 1122109,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "I'm gonna be the marketing manager."
+    } ]
+  }, {
+    "tStartMs": 1123708,
+    "dDurationMs": 3346,
+    "segs": [ {
+      "utf8": "Isn't that amazing?\nI'll only be an hour away from you."
+    } ]
+  }, {
+    "tStartMs": 1127057,
+    "dDurationMs": 939,
+    "segs": [ {
+      "utf8": "You're joking."
+    } ]
+  }, {
+    "tStartMs": 1128515,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "No, I'm serious."
+    } ]
+  }, {
+    "tStartMs": 1131570,
+    "dDurationMs": 1852,
+    "segs": [ {
+      "utf8": "What's the matter?\nAre you pleased?"
+    } ]
+  }, {
+    "tStartMs": 1133422,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "You don't look very happy."
+    } ]
+  }, {
+    "tStartMs": 1134915,
+    "dDurationMs": 1952,
+    "segs": [ {
+      "utf8": "Yes, I am happy.\nIt's amazing."
+    } ]
+  }, {
+    "tStartMs": 1136867,
+    "dDurationMs": 3308,
+    "segs": [ {
+      "utf8": "But I have something\nto tell you, too."
+    } ]
+  }, {
+    "tStartMs": 1141740,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "I'm going to the Paris office, too."
+    } ]
+  }, {
+    "tStartMs": 1143944,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "I've just heard. That was the\nphone call I was waiting for."
+    } ]
+  }, {
+    "tStartMs": 1147425,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "I don't believe it."
+    } ]
+  }, {
+    "tStartMs": 1149056,
+    "dDurationMs": 1827,
+    "segs": [ {
+      "utf8": "That's wonderful.\nWe'll be together."
+    } ]
+  }, {
+    "tStartMs": 1151601,
+    "dDurationMs": 736,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1153262,
+    "dDurationMs": 2522,
+    "segs": [ {
+      "utf8": "But there's just one little thing, Mark."
+    } ]
+  }, {
+    "tStartMs": 1157032,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "What's that?"
+    } ]
+  }, {
+    "tStartMs": 1158606,
+    "dDurationMs": 1873,
+    "segs": [ {
+      "utf8": "I'm going to be the director in Paris."
+    } ]
+  }, {
+    "tStartMs": 1160934,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "I'm going to be your boss."
+    } ]
+  } ]
+}

@@ -1,0 +1,1271 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 0
+  }, {
+    "juJustifCode": 2
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 4,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 3,
+    "ccCols": 32
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Transcriber: Jack Ashra Agban\nReviewer: Raúl Higareda"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 3621,
+    "dDurationMs": 4042,
+    "segs": [ {
+      "utf8": "What is it that causes some people\nto achieve a high level of success"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 7704,
+    "dDurationMs": 1375,
+    "segs": [ {
+      "utf8": "while others don't?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 9246,
+    "dDurationMs": 4417,
+    "segs": [ {
+      "utf8": "Is it talent, timing, charisma,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 13996,
+    "dDurationMs": 2083,
+    "segs": [ {
+      "utf8": "or is it something else entirely?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 16663,
+    "dDurationMs": 3708,
+    "segs": [ {
+      "utf8": "What is it that enables people\nto achieve excellence"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 20413,
+    "dDurationMs": 3416,
+    "segs": [ {
+      "utf8": "in their chosen profession and in life?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 23996,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "I’ve spent the past three decades\nstudying high achievers"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 27371,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "in an effort to determine\nthe answer to these questions."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 30579,
+    "dDurationMs": 4292,
+    "segs": [ {
+      "utf8": "In addition to learning from hundreds\nof highly successful men and women,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 34912,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "I've also interviewed\nover 80 podcast guests"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 37704,
+    "dDurationMs": 4542,
+    "segs": [ {
+      "utf8": "who have achieved excellence\nin various and diverse areas of life."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 42621,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "A New York Times best-selling author,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 45579,
+    "dDurationMs": 5042,
+    "segs": [ {
+      "utf8": "an Olympic athlete,\nthe founder of a luxury hotel chain,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 50912,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "a NASA astronaut, and even Miss America."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 55329,
+    "dDurationMs": 1125,
+    "segs": [ {
+      "utf8": "I’d tell you which one,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 56496,
+    "dDurationMs": 2875,
+    "segs": [ {
+      "utf8": "but she made me promise\nnot to tell you the year she won."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 59412,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "(Laughter)"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 61162,
+    "dDurationMs": 3209,
+    "segs": [ {
+      "utf8": "Through the years, I’ve uncovered\nall the traits you might think of"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 64413,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "when you hear the word excellence"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 66454,
+    "dDurationMs": 3292,
+    "segs": [ {
+      "utf8": "and when you think about\nwhat it takes to achieve success"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 69788,
+    "dDurationMs": 2458,
+    "segs": [ {
+      "utf8": "at the pinnacle of various professions."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 72704,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "Number one, belief."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 75329,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Number two, consistency."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 78704,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Number three, discipline."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 81871,
+    "dDurationMs": 2208,
+    "segs": [ {
+      "utf8": "Number four, focus."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 84329,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And number five,\ngood old-fashioned hard work."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 88996,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "These specific traits were expressed\nrepeatedly in my conversations,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 93329,
+    "dDurationMs": 2709,
+    "segs": [ {
+      "utf8": "and even when they didn’t use\nthose exact words,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 96079,
+    "dDurationMs": 2875,
+    "segs": [ {
+      "utf8": "you could hear them clearly\nin the way they described"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 98996,
+    "dDurationMs": 3208,
+    "segs": [ {
+      "utf8": "what it took to succeed\nat the highest level."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 102996,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "What was so interesting to me, though,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 105454,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "so fascinating,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 107371,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "was what they said wasn't nearly\nas relevant as what they didn't say."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 112871,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "In the hundreds of conversations\nI've had with highly successful people,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 116913,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "not one of them mentioned\nthe one word that captures the essence"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 121246,
+    "dDurationMs": 3125,
+    "segs": [ {
+      "utf8": "of what it takes to achieve\na high level of success."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 124788,
+    "dDurationMs": 2958,
+    "segs": [ {
+      "utf8": "So what is it that no one\ntells you about excellence?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 130329,
+    "dDurationMs": 1125,
+    "segs": [ {
+      "utf8": "It's boring."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 132496,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "I know, it sounds crazy, doesn’t it?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 135204,
+    "dDurationMs": 3709,
+    "segs": [ {
+      "utf8": "It turns out the secret\nto extraordinary success,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 138996,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "to excellence,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 140704,
+    "dDurationMs": 2459,
+    "segs": [ {
+      "utf8": "is doing boring things really well."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 143579,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "It's not what you expected to hear, is it?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 146079,
+    "dDurationMs": 1709,
+    "segs": [ {
+      "utf8": "It surprised me too."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 147871,
+    "dDurationMs": 3458,
+    "segs": [ {
+      "utf8": "We celebrate the big moments,\nthe victories, the medals,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 151371,
+    "dDurationMs": 1417,
+    "segs": [ {
+      "utf8": "the accomplishments."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 153038,
+    "dDurationMs": 3166,
+    "segs": [ {
+      "utf8": "But excellence isn’t what happens\nwhen you’re in the limelight,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 156788,
+    "dDurationMs": 3291,
+    "segs": [ {
+      "utf8": "it’s what happens when no one is watching."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 160704,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "August 13th, 2008. Beijing, China."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 163996,
+    "dDurationMs": 3583,
+    "segs": [ {
+      "utf8": "Michael Phelps had just won\nthe gold medal again."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 167704,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Less than an hour later,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 168996,
+    "dDurationMs": 3958,
+    "segs": [ {
+      "utf8": "he was back in the water\nfor the 4x200 meter freestyle relay."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 173163,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "In that race, the US team broke\nthe seven-minute barrier"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 176538,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "for the first time in Olympic history,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 178996,
+    "dDurationMs": 4042,
+    "segs": [ {
+      "utf8": "crushing the world record\nin winning the gold medal."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 183329,
+    "dDurationMs": 4584,
+    "segs": [ {
+      "utf8": "My friend Peter Vanderkaay swam\non that relay team with Michael Phelps."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 188246,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "He stood so proud on the podium\nas the national anthem played."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 192621,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "But that victory,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 194329,
+    "dDurationMs": 2542,
+    "segs": [ {
+      "utf8": "excellence wasn’t\nbreaking the world record"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 197163,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "or even standing on the podium\nto receive the gold medal."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 200496,
+    "dDurationMs": 5375,
+    "segs": [ {
+      "utf8": "Excellence was the thousands of hours\ninvested in early morning training,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 205954,
+    "dDurationMs": 2125,
+    "segs": [ {
+      "utf8": "endless laps in the pool,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 208121,
+    "dDurationMs": 3042,
+    "segs": [ {
+      "utf8": "and the relentless focus\non perfecting technique"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 211204,
+    "dDurationMs": 3375,
+    "segs": [ {
+      "utf8": "during the four years leading up\nto the Olympic Games."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 214913,
+    "dDurationMs": 1958,
+    "segs": [ {
+      "utf8": "Excellence is boring,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 217121,
+    "dDurationMs": 4625,
+    "segs": [ {
+      "utf8": "and that’s exactly why\nso few people achieve it."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 222079,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "It’s not about luck.\nIt’s not about talent."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 225288,
+    "dDurationMs": 3416,
+    "segs": [ {
+      "utf8": "It's about small steps repeated over time."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 229079,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "Excellence is doing what you know you need\nto do to be successful consistently,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 234704,
+    "dDurationMs": 1584,
+    "segs": [ {
+      "utf8": "even when it’s hard,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 236371,
+    "dDurationMs": 1375,
+    "segs": [ {
+      "utf8": "and it is hard,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 237913,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "and even when it’s boring."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 241329,
+    "dDurationMs": 3292,
+    "segs": [ {
+      "utf8": "Sociologist Daniel Chambliss\nstudied Olympic swimmers"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 244663,
+    "dDurationMs": 3208,
+    "segs": [ {
+      "utf8": "and coined the phrase\n“the mundanity of excellence.”"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 248079,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "He called it mundane."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 249829,
+    "dDurationMs": 3084,
+    "segs": [ {
+      "utf8": "He found that what separates\nchampions from everyone else"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 252954,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "isn’t superhuman talent,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 254996,
+    "dDurationMs": 3125,
+    "segs": [ {
+      "utf8": "it’s dozens of tiny actions done right"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 258496,
+    "dDurationMs": 6542,
+    "segs": [ {
+      "utf8": "and then done again and again and again."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 266329,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Reading Dr. Chambliss’s research\nwas a huge “aha” moment for me."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 270538,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "As I reflected on my own life,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 272329,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I realized that “boring”\nwas the perfect word to describe"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 275871,
+    "dDurationMs": 4042,
+    "segs": [ {
+      "utf8": "all the actions I had taken\nthroughout my life to achieve success."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 280371,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "Whether it was training hours a day"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 282329,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "as a nationally ranked\njunior table tennis player,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 285204,
+    "dDurationMs": 4709,
+    "segs": [ {
+      "utf8": "studying late nights and weekends\nto earn my MBA while working full time,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 290163,
+    "dDurationMs": 2875,
+    "segs": [ {
+      "utf8": "or waking up at 4:00 every morning"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 293079,
+    "dDurationMs": 3917,
+    "segs": [ {
+      "utf8": "to write the manuscript that would\none day become a best-selling book."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 297246,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "I realized the excellence\nI created throughout my life"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 300954,
+    "dDurationMs": 3917,
+    "segs": [ {
+      "utf8": "consisted of doing what I knew\nI needed to do to be successful."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 305204,
+    "dDurationMs": 4584,
+    "segs": [ {
+      "utf8": "Small, boring steps repeated over time."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 310163,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And by the way, my podcast guests\nall share similar experiences."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 314371,
+    "dDurationMs": 4833,
+    "segs": [ {
+      "utf8": "The New York Times best-selling author\nI mentioned earlier, Nora Roberts."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 319496,
+    "dDurationMs": 2708,
+    "segs": [ {
+      "utf8": "Nora was the single mom\nof two preschoolers"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 322246,
+    "dDurationMs": 3042,
+    "segs": [ {
+      "utf8": "living in rural Maryland\nin the late 1970s."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 325454,
+    "dDurationMs": 3542,
+    "segs": [ {
+      "utf8": "During a blizzard in February 1979,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 329038,
+    "dDurationMs": 4125,
+    "segs": [ {
+      "utf8": "with three feet of snow\nand a dwindling supply of chocolate,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 333413,
+    "dDurationMs": 5416,
+    "segs": [ {
+      "utf8": "Nora took out a notebook and a pencil\nand started to write down stories."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 338913,
+    "dDurationMs": 4541,
+    "segs": [ {
+      "utf8": "She fell in love with the process\nand quickly produced six manuscripts."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 343621,
+    "dDurationMs": 4042,
+    "segs": [ {
+      "utf8": "Nora went on to write over 255 novels,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 347704,
+    "dDurationMs": 4375,
+    "segs": [ {
+      "utf8": "124 of which made it\nto the New York Times best-seller list."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 352538,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "What were Nora’s small, boring steps?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 355371,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Writing."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 356829,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Eight hours a day, every day,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 359996,
+    "dDurationMs": 1792,
+    "segs": [ {
+      "utf8": "even while on vacation"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 361829,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "and even while raising\ntwo boys as a single mom."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 365579,
+    "dDurationMs": 3042,
+    "segs": [ {
+      "utf8": "Now, you might be thinking\nyou're not an Olympic athlete"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 368663,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "or a New York Times best-selling author."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 371246,
+    "dDurationMs": 3792,
+    "segs": [ {
+      "utf8": "Maybe you’re in healthcare,\nyou’re in sales, or you’re a parent."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 375371,
+    "dDurationMs": 3917,
+    "segs": [ {
+      "utf8": "The good news is,\nexcellence is available to all of us."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 379454,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "It’s the nurse who double-checks\nevery chart, every dose, every detail,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 383871,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "long after others have gone home."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 386329,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "It’s the salesperson who makes\n80 cold calls per day,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 389704,
+    "dDurationMs": 2792,
+    "segs": [ {
+      "utf8": "5 days per week, 50 weeks per year,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 392538,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "year in and year out."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 395079,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "It's the parent who reads\nbedtime stories night after night,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 398871,
+    "dDurationMs": 2625,
+    "segs": [ {
+      "utf8": "instilling a love\nof reading in their child."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 401913,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "It’s the handwritten\nthank-you note you send,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 404746,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "because everyone else\nis going to send a text or an email,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 408954,
+    "dDurationMs": 3417,
+    "segs": [ {
+      "utf8": "or even more likely, nothing at all."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 412913,
+    "dDurationMs": 4791,
+    "segs": [ {
+      "utf8": "It’s the small,\nconsistent steps repeated over time."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 417871,
+    "dDurationMs": 2625,
+    "segs": [ {
+      "utf8": "It's doing what most people won't do."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 420954,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Here’s the problem,\nwe’ve lowered our standards."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 424663,
+    "dDurationMs": 2708,
+    "segs": [ {
+      "utf8": "Today we give everyone a trophy."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 427496,
+    "dDurationMs": 2958,
+    "segs": [ {
+      "utf8": "We celebrate simply showing up, don't we?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 430829,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "We now have\na dozen valedictorians at graduation."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 436371,
+    "dDurationMs": 4125,
+    "segs": [ {
+      "utf8": "But if we hand out trophies\nwithout the effort, what's the point?"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 441038,
+    "dDurationMs": 3083,
+    "segs": [ {
+      "utf8": "Excellence isn’t elitist, it’s earned."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 444204,
+    "dDurationMs": 4084,
+    "segs": [ {
+      "utf8": "And you earn it by doing what you know\nyou need to do to be successful,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 448954,
+    "dDurationMs": 5459,
+    "segs": [ {
+      "utf8": "even when no one applauds,\nand even when no one is there to see it."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 454996,
+    "dDurationMs": 1583,
+    "segs": [ {
+      "utf8": "So let me ask you,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 456621,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "what’s one thing you know\nyou need to do to be successful,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 459913,
+    "dDurationMs": 2208,
+    "segs": [ {
+      "utf8": "but you haven’t\nbeen doing it consistently?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 462413,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "Whatever that is for you,\nI challenge you to do that."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 465121,
+    "dDurationMs": 2208,
+    "segs": [ {
+      "utf8": "One small habit, just one."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 467413,
+    "dDurationMs": 4541,
+    "segs": [ {
+      "utf8": "One action, one step,\nevery day for the next 30 days,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 472413,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "because that's where excellence begins."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 475454,
+    "dDurationMs": 4875,
+    "segs": [ {
+      "utf8": "There’s an old joke about a man who goes\nto New York for a concert but gets lost."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 480413,
+    "dDurationMs": 4208,
+    "segs": [ {
+      "utf8": "He sees a man walking down\nthe sidewalk carrying a violin case."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 484788,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "“Excuse me, sir, can you tell me\nhow to get to Carnegie Hall?”"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 489371,
+    "dDurationMs": 4417,
+    "segs": [ {
+      "utf8": "The musician stops, smiles, and responds,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 493996,
+    "dDurationMs": 3042,
+    "segs": [ {
+      "utf8": "“Practice, practice, practice.”"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 497079,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "(Laughter)"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 498954,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "I know that’s just a joke,\nbut don’t miss this,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 503413,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "that’s how you create excellence too."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 506454,
+    "dDurationMs": 3584,
+    "segs": [ {
+      "utf8": "Not with gold medals,\nnot with standing ovations,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 510329,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "but with the small,\nconsistent steps that no one sees."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 515204,
+    "dDurationMs": 4583,
+    "segs": [ {
+      "utf8": "Excellence isn’t the moment you cross\nthe finish line to a cheering crowd,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 521329,
+    "dDurationMs": 4625,
+    "segs": [ {
+      "utf8": "it’s everything you do in silence\nwhen no one’s watching."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 526662,
+    "dDurationMs": 4292,
+    "segs": [ {
+      "utf8": "And that’s what no one\ntells you about excellence."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 531454,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 532496,
+    "dDurationMs": 2291,
+    "segs": [ {
+      "utf8": "(Applause and cheers)"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  } ]
+}
