@@ -23,6 +23,17 @@
  *  GAS does not enforce admin — it trusts the client to send correct ownerId/isSystem values.
  */
 
+// ── Date helper ──────────────────────────────────────────────────────────────
+// Google Sheets auto-converts "YYYY-MM-DD" strings to Date objects.
+// Use this whenever reading a date-only cell to get a consistent YYYY-MM-DD string.
+function toDateStr(value) {
+  if (value instanceof Date) {
+    var tz = SpreadsheetApp.getActiveSpreadsheet().getSpreadsheetTimeZone();
+    return Utilities.formatDate(value, tz, 'yyyy-MM-dd');
+  }
+  return String(value);
+}
+
 // ── Sheet bootstrap ──────────────────────────────────────────────────────────
 
 function getOrCreateSheet(name, headers) {
@@ -204,7 +215,7 @@ function incrementWatchTime(data) {
   // Upsert: find existing row for (userId, date)
   var found = false;
   for (var i = 1; i < rows.length; i++) {
-    if (String(rows[i][0]) === userId && String(rows[i][1]) === date) {
+    if (String(rows[i][0]) === userId && toDateStr(rows[i][1]) === date) {
       sheet.getRange(i + 1, 3).setValue(Number(rows[i][2]) + data.seconds);
       found = true;
       break;
@@ -217,10 +228,10 @@ function incrementWatchTime(data) {
   // Prune rows for this user older than 30 days (iterate bottom-up to keep indices stable)
   var cutoff = new Date();
   cutoff.setDate(cutoff.getDate() - 30);
-  var cutoffStr = cutoff.toISOString().slice(0, 10);
+  var cutoffStr = Utilities.formatDate(cutoff, 'UTC', 'yyyy-MM-dd');
   var rowsNow = sheet.getDataRange().getValues();
   for (var i = rowsNow.length - 1; i >= 1; i--) {
-    if (String(rowsNow[i][0]) === userId && String(rowsNow[i][1]) < cutoffStr) {
+    if (String(rowsNow[i][0]) === userId && toDateStr(rowsNow[i][1]) < cutoffStr) {
       sheet.deleteRow(i + 1);
     }
   }
@@ -235,7 +246,7 @@ function getProgressData(data) {
   var sessions = watchData.slice(1)
     .filter(function(r) { return String(r[0]) === userId; })
     .map(function(r) {
-      return { date: String(r[1]), seconds: Number(r[2]) || 0 };
+      return { date: toDateStr(r[1]), seconds: Number(r[2]) || 0 };
     });
 
   var quizData = quizResultSheet().getDataRange().getValues();
@@ -400,6 +411,45 @@ function searchNotes(data) {
   };
 }
 
+// ── Caption index helpers ─────────────────────────────────────────────────────
+// Sheet: caption_index — videoId | words (JSON array of unique lowercase words)
+// Used to power "In other videos" search without fetching all caption files.
+
+function captionIndexSheet() {
+  return getOrCreateSheet('caption_index', ['videoId', 'words']);
+}
+
+// Upsert word list for a video. Called when a video is added.
+function indexVideoWords(data) {
+  var sheet = captionIndexSheet();
+  var videoId = String(data.videoId);
+  var words   = JSON.stringify(data.words || []);
+  var rows    = sheet.getDataRange().getValues();
+  for (var i = 1; i < rows.length; i++) {
+    if (String(rows[i][0]) === videoId) {
+      sheet.getRange(i + 1, 2).setValue(words);
+      return { updated: true };
+    }
+  }
+  sheet.appendRow([videoId, words]);
+  return { added: true };
+}
+
+// Return videoIds whose indexed word list contains the given word.
+function searchCaptionIndex(data) {
+  var word = String(data.word || '').toLowerCase().trim();
+  if (!word) return [];
+  var rows = captionIndexSheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  var results = [];
+  for (var i = 1; i < rows.length; i++) {
+    var words = [];
+    try { words = JSON.parse(rows[i][1] || '[]'); } catch (e) {}
+    if (words.indexOf(word) !== -1) results.push(String(rows[i][0]));
+  }
+  return results;
+}
+
 // ── Vocabulary helpers ────────────────────────────────────────────────────────
 // Sheet: vocabulary — userId | id | word | definition | sourceVideoId | sourceMs | sourceCueText | addedAt
 
@@ -502,6 +552,8 @@ function doPost(e) {
     if (action === 'getAllNotes')        return ok(getAllNotes(data));
     if (action === 'searchNotes')        return ok(searchNotes(data));
     if (action === 'deleteNote')        { deleteNote(data); return ok(null); }
+    if (action === 'indexVideoWords')   return ok(indexVideoWords(data));
+    if (action === 'searchCaptionIndex') return ok(searchCaptionIndex(data));
     if (action === 'addVocabWord')      return ok(addVocabWord(data));
     if (action === 'getVocabWords')     return ok(getVocabWords(data));
     if (action === 'deleteVocabWord')   { deleteVocabWord(data); return ok(null); }

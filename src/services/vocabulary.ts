@@ -28,3 +28,15 @@ export async function getVocabWords(userId: string): Promise<VocabEntry[]> {
 export async function deleteVocabWord(userId: string, id: string): Promise<void> {
   await gas('deleteVocabWord', { userId, id })
 }
+
+// ── Caption search index ──────────────────────────────────────────────────────
+
+/** Store the unique word list for a video (called when a video is added). */
+export async function indexVideoWords(videoId: string, words: string[]): Promise<void> {
+  await gas('indexVideoWords', { videoId, words })
+}
+
+/** Return videoIds whose indexed word list contains the given word. */
+export async function searchCaptionIndex(word: string): Promise<string[]> {
+  return gas<string[]>('searchCaptionIndex', { word })
+}

@@ -2,12 +2,26 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import {
   Loader2, Video, CheckCircle2, AlertCircle, ChevronRight,
-  Play, Plus, Check, ListVideo,
+  Play, Plus, Check, ListVideo, RefreshCw,
 } from 'lucide-react'
 import { COMMON_LANGUAGES, extractVideoId, fetchRawJSON3 } from '@/services/youtubeSubtitles'
 import { loadPlaylists, savePlaylist } from '@/services/playlists'
-import { saveVideo, saveCaptions } from '@/services/videos'
+import { saveVideo, saveCaptions, loadVideos } from '@/services/videos'
+import { parseJSON3 } from '@/utils/captionParser'
+import { indexVideoWords } from '@/services/vocabulary'
 import type { Playlist, VideoMeta } from '@/types'
+
+// ── Word extractor ────────────────────────────────────────────────────────────
+
+function extractWords(cues: { text: string }[]): string[] {
+  const wordRe = /[a-zA-Z][a-zA-Z']*[a-zA-Z]|[a-zA-Z]/g
+  const set = new Set<string>()
+  for (const cue of cues) {
+    const matches = cue.text.toLowerCase().match(wordRe) ?? []
+    for (const w of matches) set.add(w.replace(/^'+|'+$/g, ''))
+  }
+  return [...set]
+}
 
 type Step = 'idle' | 'fetching-info' | 'preview' | 'saving' | 'done'
 
@@ -107,10 +121,12 @@ export default function NewVideoPage() {
       // 1. Save video meta to Google Sheets (+ localStorage cache)
       await saveVideo(meta)
 
-      // 2. Fetch + save captions file (static, served from /videos/{id}/captions.json)
+      // 2. Fetch + save captions, then index words for search
       try {
         const captions = await fetchRawJSON3(meta.videoId, selectedLang.code)
         await saveCaptions(meta.videoId, captions)
+        const { cues } = parseJSON3(captions)
+        await indexVideoWords(meta.videoId, extractWords(cues))
       } catch {
         // Captions optional — continue without them
       }
@@ -366,6 +382,9 @@ export default function NewVideoPage() {
           </section>
         )}
 
+        {/* Re-index tool */}
+        {step === 'idle' && <ReindexSection />}
+
         {/* Done */}
         {step === 'done' && savedVideoId && (
           <section className="bg-card border border-border rounded-xl p-6 space-y-4">
@@ -399,5 +418,84 @@ export default function NewVideoPage() {
         )}
       </main>
     </div>
+  )
+}
+
+// ── ReindexSection ────────────────────────────────────────────────────────────
+
+function ReindexSection() {
+  const [status, setStatus] = useState<'idle' | 'running' | 'done'>('idle')
+  const [progress, setProgress] = useState({ done: 0, total: 0 })
+  const base = import.meta.env.BASE_URL
+
+  async function handleReindex() {
+    setStatus('running')
+    const videos = await loadVideos()
+    setProgress({ done: 0, total: videos.length })
+
+    for (const video of videos) {
+      try {
+        const paths = [
+          `${base}videos/${video.videoId}/captions.json`,
+          `${base}captions/${video.videoId}.json`,
+        ]
+        for (const path of paths) {
+          try {
+            const res = await fetch(path)
+            if (!res.ok) continue
+            const data = await res.json()
+            const { cues } = parseJSON3(data)
+            await indexVideoWords(video.videoId, extractWords(cues))
+            break
+          } catch { continue }
+        }
+      } catch { /* skip video */ }
+      setProgress((p) => ({ ...p, done: p.done + 1 }))
+    }
+
+    setStatus('done')
+  }
+
+  return (
+    <section className="bg-card border border-border rounded-xl p-6 space-y-3">
+      <div>
+        <h2 className="text-sm font-medium flex items-center gap-2">
+          <RefreshCw className="w-4 h-4 text-muted-foreground" />
+          Re-index captions for word search
+        </h2>
+        <p className="text-xs text-muted-foreground mt-1">
+          Builds the word search index for all existing videos. Run this once after deploying the vocabulary feature.
+        </p>
+      </div>
+
+      {status === 'idle' && (
+        <button
+          onClick={handleReindex}
+          className="h-9 px-4 rounded-lg bg-muted text-foreground text-sm font-medium hover:bg-accent transition-colors"
+        >
+          Re-index all videos
+        </button>
+      )}
+      {status === 'running' && (
+        <div className="space-y-2">
+          <div className="flex items-center gap-2 text-sm text-muted-foreground">
+            <Loader2 className="w-4 h-4 animate-spin" />
+            Indexing {progress.done}/{progress.total} videos…
+          </div>
+          <div className="w-full h-1.5 bg-muted rounded-full overflow-hidden">
+            <div
+              className="h-full bg-primary rounded-full transition-all duration-200"
+              style={{ width: progress.total > 0 ? `${(progress.done / progress.total) * 100}%` : '0%' }}
+            />
+          </div>
+        </div>
+      )}
+      {status === 'done' && (
+        <div className="flex items-center gap-2 text-sm text-emerald-600">
+          <CheckCircle2 className="w-4 h-4" />
+          Done — indexed {progress.total} videos.
+        </div>
+      )}
+    </section>
   )
 }

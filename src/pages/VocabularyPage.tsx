@@ -3,11 +3,10 @@ import { Link } from 'react-router-dom'
 import { BookOpen, Trash2, Search, ChevronDown, ChevronUp, ExternalLink, Loader2, BookPlus } from 'lucide-react'
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
-import { getVocabWords, deleteVocabWord } from '@/services/vocabulary'
+import { getVocabWords, deleteVocabWord, searchCaptionIndex } from '@/services/vocabulary'
 import { loadVideos } from '@/services/videos'
 import { parseJSON3 } from '@/utils/captionParser'
-import type { VocabEntry } from '@/types'
-import type { VideoMeta } from '@/types'
+import type { VocabEntry, VideoMeta } from '@/types'
 
 // ─── Caption search ───────────────────────────────────────────────────────────
 
@@ -17,12 +16,26 @@ interface CaptionHit {
   text: string
 }
 
-async function searchCaptions(word: string, videos: VideoMeta[]): Promise<CaptionHit[]> {
+/**
+ * 2-step search:
+ * 1. Ask GAS which videoIds contain the word (O(1) API call, no caption fetches)
+ * 2. Fetch captions only for matching videos to get exact cue text + timestamp
+ */
+async function searchCaptions(word: string, videoMap: Map<string, VideoMeta>): Promise<CaptionHit[]> {
   const base = import.meta.env.BASE_URL
   const re = new RegExp(`\\b${word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i')
 
+  // Step 1 — get matching videoIds from the index
+  const matchingIds = await searchCaptionIndex(word)
+  if (matchingIds.length === 0) return []
+
+  // Step 2 — fetch captions only for matching videos
+  const matchingVideos = matchingIds
+    .map((id) => videoMap.get(id))
+    .filter((v): v is VideoMeta => v !== undefined)
+
   const results = await Promise.allSettled(
-    videos.map(async (video): Promise<CaptionHit[]> => {
+    matchingVideos.map(async (video): Promise<CaptionHit[]> => {
       const paths = [
         `${base}videos/${video.videoId}/captions.json`,
         `${base}captions/${video.videoId}.json`,
@@ -71,11 +84,11 @@ function highlightWord(text: string, word: string): React.ReactNode {
 
 function WordCard({
   entry,
-  allVideos,
+  videoMap,
   onDelete,
 }: {
   entry: VocabEntry
-  allVideos: VideoMeta[]
+  videoMap: Map<string, VideoMeta>
   onDelete: () => void
 }) {
   const [expanded, setExpanded] = useState(false)
@@ -88,13 +101,13 @@ function WordCard({
     if (!didSearch.current && !expanded) {
       didSearch.current = true
       setSearching(true)
-      const results = await searchCaptions(entry.word, allVideos)
+      const results = await searchCaptions(entry.word, videoMap)
       setHits(results)
       setSearching(false)
     }
   }
 
-  const sourceVideo = allVideos.find((v) => v.videoId === entry.sourceVideoId)
+  const sourceVideo = videoMap.get(entry.sourceVideoId)
 
   return (
     <div className="rounded-xl border border-border bg-card overflow-hidden">
@@ -206,7 +219,7 @@ function WordCard({
 export default function VocabularyPage() {
   const { user } = useAuth()
   const [entries, setEntries] = useState<VocabEntry[]>([])
-  const [allVideos, setAllVideos] = useState<VideoMeta[]>([])
+  const [videoMap, setVideoMap] = useState<Map<string, VideoMeta>>(new Map())
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -217,7 +230,7 @@ export default function VocabularyPage() {
     ])
       .then(([words, videos]) => {
         setEntries(words)
-        setAllVideos(videos)
+        setVideoMap(new Map(videos.map((v) => [v.videoId, v])))
       })
       .catch(console.error)
       .finally(() => setLoading(false))
@@ -263,7 +276,7 @@ export default function VocabularyPage() {
                 <WordCard
                   key={entry.id}
                   entry={entry}
-                  allVideos={allVideos}
+                  videoMap={videoMap}
                   onDelete={() => handleDelete(entry)}
                 />
               ))}

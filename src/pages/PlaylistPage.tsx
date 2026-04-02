@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
 import { useParams } from 'react-router-dom'
 import ReactPlayer from 'react-player'
-import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, PlayCircle, X, StickyNote, Plus, Trash2, PanelRight } from 'lucide-react'
+import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, X, StickyNote, Plus, Trash2, PanelRight } from 'lucide-react'
 import { AppHeader } from '@/components/AppHeader'
 import { CueText } from '@/components/CueText'
 import { parseJSON3, findActiveCue } from '@/utils/captionParser'
@@ -46,7 +46,6 @@ export default function PlaylistPage() {
   const stopAtMsRef = useRef<number | null>(null)
   const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null)
 
-  const [resumeDismissed, setResumeDismissed] = useState(false)
   const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes'>('captions')
   const [isAddingNote, setIsAddingNote] = useState(false)
   const [pendingNoteMs, setPendingNoteMs] = useState(0)
@@ -62,7 +61,6 @@ export default function PlaylistPage() {
   const videoProgress = useVideoProgress(user?.sub, currentVideo?.videoId)
   const { notes, addNote, removeNote } = useVideoNotes(user?.sub, currentVideo?.videoId)
 
-  const showResumeBanner = !resumeDismissed && videoProgress.resumePositionMs !== null
 
   useEffect(() => {
     if (!user) return
@@ -134,7 +132,6 @@ export default function PlaylistPage() {
 
   // Reset state on video change
   useEffect(() => {
-    setResumeDismissed(false)
     setIsAddingNote(false)
     setNoteText('')
     setDurationMs(0)
@@ -425,20 +422,6 @@ export default function PlaylistPage() {
                   />
                 )}
 
-                {showResumeBanner && videoProgress.resumePositionMs !== null && (
-                  <ResumeBanner
-                    positionMs={videoProgress.resumePositionMs}
-                    onResume={() => {
-                      const video = playerRef.current
-                      if (video && videoProgress.resumePositionMs !== null) {
-                        video.currentTime = videoProgress.resumePositionMs / 1000
-                        setCurrentMs(videoProgress.resumePositionMs)
-                      }
-                      setResumeDismissed(true)
-                    }}
-                    onDismiss={() => setResumeDismissed(true)}
-                  />
-                )}
               </>
             ) : (
               <div className="absolute inset-0 flex items-center justify-center text-muted-foreground text-sm">
@@ -624,29 +607,6 @@ export default function PlaylistPage() {
         <QuizModal cue={quiz.quizState.cue} quizWord={quiz.quizState.quizWord} onClose={handleQuizClose} />
       )}
     </div>
-  )
-}
-
-// ─── ResumeBanner ─────────────────────────────────────────────────────────────
-
-function ResumeBanner({ positionMs, onResume, onDismiss }: {
-  positionMs: number; onResume: () => void; onDismiss: () => void
-}) {
-  return (
-    <>
-      <div className="absolute inset-0 z-10" onClick={onDismiss} />
-      <div className="absolute bottom-4 left-4 z-20 flex items-center gap-3 bg-gray-900/95 border border-gray-700 rounded-xl px-4 py-3 shadow-2xl backdrop-blur-sm" style={{ maxWidth: 340 }}>
-        <PlayCircle className="w-5 h-5 text-blue-400 shrink-0" />
-        <div className="flex-1 min-w-0">
-          <p className="text-xs text-gray-300 font-medium">Continue from where you left off?</p>
-          <p className="text-[11px] text-gray-500 mt-0.5">{formatTime(positionMs)}</p>
-        </div>
-        <button onClick={onResume} className="h-7 px-3 rounded-lg bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold transition-colors shrink-0">Resume</button>
-        <button onClick={onDismiss} title="Dismiss" className="w-7 h-7 rounded-lg flex items-center justify-center text-gray-500 hover:text-white hover:bg-gray-700 transition-colors shrink-0">
-          <X className="w-3.5 h-3.5" />
-        </button>
-      </div>
-    </>
   )
 }
 
