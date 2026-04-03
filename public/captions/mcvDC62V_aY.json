@@ -1,0 +1,4117 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 2
+  }, {
+    "juJustifCode": 0
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 23
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 22
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 27
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 23
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 27
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 31
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 24
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 20
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 30
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 20
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 28
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 21
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 22
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 29
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 30
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 24
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 21
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 25
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 26
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 18
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 31
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 12
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 28
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 19
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 29
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 17
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 14
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 15
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 13
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 18
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 26
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 25
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 16
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 16
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 10
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 9
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 17
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 7
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 8
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 11
+  } ],
+  "events": [ {
+    "tStartMs": 1067,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "David Muir, ABC's World\nNews Tonight, America's"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 3903,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "most watched newscast."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 5638,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "Now streaming same day with\nall the breaking news of"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 9208,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "the day on Disney Plus."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 10810,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Most watched, most trusted."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 12912,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "Now on Disney Plus every night."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 15949,
+    "dDurationMs": 2668,
+    "segs": [ {
+      "utf8": "Tonight, we are tracking\nthe historic American"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 18717,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "mission to the moon."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 19919,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "Booster ignition and lift off."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 22588,
+    "dDurationMs": 3036,
+    "segs": [ {
+      "utf8": "Just moments ago,\nthe giant Artemis II"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 25724,
+    "dDurationMs": 3137,
+    "segs": [ {
+      "utf8": "rocket, 322 feet high,\nlasting off from the Kennedy"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 28962,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "Space Center in Florida,\ntaking four astronauts"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 31431,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "on a 10-day mission\nto the moon and back,"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 33800,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "the first such journey\nin more than 50 years,"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 36636,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "and the first giant step in a\nreturn to the moon's surface."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 39872,
+    "dDurationMs": 3237,
+    "segs": [ {
+      "utf8": "On board, a historic crew,\nthe first African-American,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 43209,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "first woman, and first Canadian"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 44977,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "to head to the moon."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 46046,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "What they did in the\nhours before the launch,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 48181,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "playing cards for luck,\nleaving through the same doors"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 51050,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "as the Apollo astronauts\ngenerations ago,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 53820,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "meeting with their families\nand saying their thank"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 56155,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "yous to the ground team."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 57256,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "Gio Benitez is there."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 59392,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "President Trump addresses\nthe nation tonight"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 61327,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "on the war with Iran, five\nweeks after the president"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 64063,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "ordered an all-out\nassault on Iran."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 66031,
+    "dDurationMs": 2637,
+    "segs": [ {
+      "utf8": "His first time addressing the\nAmerican people on the war"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 68768,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "with oil prices soaring\nas polling shows"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 71204,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "the majority of Americans\ndisapprove of the war"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 73873,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "amid mixed messages from the\nadministration on the conflict."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 76942,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "Mary Bruce reports\nfrom the White House."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 79011,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "Tonight, massive new\nstrikes by the US on Iran,"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 81814,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "American bombers hitting targets\nin Isfahan and with thousands"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 85217,
+    "dDurationMs": 3004,
+    "segs": [ {
+      "utf8": "of Marines and elite American\nforces flowing into the region,"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 88321,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "what we're learning about\npossible ground operations"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 90890,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "inside Iran."
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 91958,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Also tonight, the urgent\nsearch for a kidnapped"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 94259,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "American journalist,\nthe chilling video of"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 96395,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "her getting shoved into a car\nin Baghdad, what we're learning"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 99365,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "about her abductors tonight."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 100833,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "Matt Rivers reports\nfrom the region."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 102668,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "The Supreme Court hears\narguments on birthright"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 104938,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "citizenship, a right that\nwas first guaranteed"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 107173,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "in the 14th Amendment, President\nTrump there in the court,"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 110343,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "a first for an\nAmerican president,"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 112312,
+    "dDurationMs": 2802,
+    "segs": [ {
+      "utf8": "with the justices skeptical of\nthe government's arguments."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 115214,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "A New York man accused\nof terrorizing"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 117383,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "his neighborhood for weeks,\nallegedly caught on camera"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 120286,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "throwing homemade pipe bombs."
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 121954,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "Police say he had more\nthan two dozen bombs."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 124490,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Aaron Katurski is standing by."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 126425,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "The defense begins in the case\nagainst a Hawaiian doctor"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 129428,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "accused of trying\nto kill his wife,"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 131430,
+    "dDurationMs": 2737,
+    "segs": [ {
+      "utf8": "what his son told the\njury his father told him."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 134267,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Former Fleetwood Mac superstar\nLindsey Buckingham reportedly"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 137737,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "attacked in Los Angeles."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 139104,
+    "dDurationMs": 3338,
+    "segs": [ {
+      "utf8": "Accused CEO killer Luigi\nMangione is back in court, what"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 142542,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "his lawyers asked a\nfederal judge to do."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 145144,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "And a major pharmaceutical\ncompany shrinks the price on"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 148247,
+    "dDurationMs": 4805,
+    "segs": [ {
+      "utf8": "a popular type of\nweight loss drugs."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 156622,
+    "dDurationMs": 8108,
+    "segs": [ {
+      "utf8": "\u003e\u003e Good evening, everyone I'm\nLindsay Davis in for David"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 164830,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "tonight we begin with a historic\nlaunch of the Artemis 2"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 167733,
+    "dDurationMs": 3637,
+    "segs": [ {
+      "utf8": "mission, the first crew journey\naround the moon in more than 50"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 171470,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "years. The awesome sight\nthe engines igniting the"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 175441,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "spacecraft lifting off\npropelled by one of the most"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 177810,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "powerful rockets ever made."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 179545,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "First critical minutes\nof its flight going"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 182148,
+    "dDurationMs": 2902,
+    "segs": [ {
+      "utf8": "off just as planned\nmoments into the flight,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 185151,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "the solid rocket booster\nseparating at the top"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 188020,
+    "dDurationMs": 768,
+    "segs": [ {
+      "utf8": "of the rocket."
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 188888,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "Four astronauts\nstrapped into the"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 190690,
+    "dDurationMs": 3269,
+    "segs": [ {
+      "utf8": "Orion spacecraft, setting\nout on a 10 day mission"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 194059,
+    "dDurationMs": 2437,
+    "segs": [ {
+      "utf8": "deeper into space\nthan any ever before."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 196596,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "They will orbit the\nearth before heading"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 198798,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "to the moon, circling\naround the dark side, then"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 201467,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "returning to Earth the 10\nday mission with a lofty"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 204203,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "goal to prepare the way\nfor future flights to land"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 206906,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "astronauts on the moon\nand build a permanent"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 209375,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "outpost there."
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 210309,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "ABC's Gio Benitez\nleads us off from the"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 212511,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Kennedy Space Center tonight."
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 215381,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "And here we go."
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 216682,
+    "dDurationMs": 11779,
+    "segs": [ {
+      "utf8": "10, 9, 8, 7, RS-25 engines, 8,\n4, 3, 2, 1, booster ignition,"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 228561,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "and lift off."
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 230730,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "The crew of Artemis II\nnow bound for the moon."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 233833,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Humanity's next\ngreat voyage begins."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 236602,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "Tonight, the Artemis II\nmission is underway."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 239105,
+    "dDurationMs": 3703,
+    "segs": [ {
+      "utf8": "Four astronauts on a 10-day\nmission to the moon and back."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 242908,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "Roger, roll pitch."
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 244343,
+    "dDurationMs": 3404,
+    "segs": [ {
+      "utf8": "The Orion spacecraft lifting\noff, powered by that"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 247847,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "massive, 322-foot-tall,\n6-million-pound rocket"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 251450,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "packed with more than\n700,000 gallons of liquid"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 254253,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "oxygen and hydrogen."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 255487,
+    "dDurationMs": 2137,
+    "segs": [ {
+      "utf8": "Passing one minute,\napproaching max Q."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 257724,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Crowds at Kennedy Space\nCenter clamoring to watch"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 260025,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "it soar through the air."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 261126,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "The integrity\nguidance converged."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 263228,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "On board, Commander Reid\nWeissman, a 50-year-old"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 265832,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "fighter pilot and father\nof two from Baltimore,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 268301,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "who's led multiple spacewalks\nwhile on board the"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 270536,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "International Space Station."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 271971,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "In the pilot's seat,\nCaptain Victor Glover."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 274106,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "He's from Pomona, California,\nand he and his wife,"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 276909,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "Diana, have four children."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 278444,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "Mission specialist Christina\nCook, who made history"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 281480,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "as part of an all-female\nspacewalk back in 2019,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 284183,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "and Canadian mission\nspecialist Jeremy Hansen."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 286518,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "It's the father of three's\nfirst time going into space,"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 289555,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "and the first Canadian\nto shoot to the moon."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 291924,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "Before launch, teams\nchecking those suits."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 294126,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "Then, just as astronauts\nhave done in past missions,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 296528,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "a bit of superstition,\nplaying cards"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 298764,
+    "dDurationMs": 3604,
+    "segs": [ {
+      "utf8": "until everyone loses a hand\nto leave bad luck behind."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 302468,
+    "dDurationMs": 3237,
+    "segs": [ {
+      "utf8": "Then a group photo and a thank\nyou to their support team."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 305805,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "And just like the Apollo\nastronauts did before them"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 308307,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "some 50 years ago,"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 310909,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "the astronauts walking\nout of those famous doors"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 313245,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "to the outside world."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 314313,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "- Thank you all for\nbeing out here."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 315915,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "It's a great day for us."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 317115,
+    "dDurationMs": 2737,
+    "segs": [ {
+      "utf8": "- Saying one final goodbye\nto their family and friends"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 319952,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "before they hopped in the\nAstrovan for the ride to Launch"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 322988,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "Complex 39B at Kennedy Space\nCenter at Cape Canaveral."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 325991,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "Their path lined with supporters\nwaving flags and cheering, a"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 329595,
+    "dDurationMs": 3436,
+    "segs": [ {
+      "utf8": "quick thumbs up before taking\nthe elevator up to the capsule."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 333131,
+    "dDurationMs": 2771,
+    "segs": [ {
+      "utf8": "Teams in the sterile white\nroom helping the astronauts"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 336002,
+    "dDurationMs": 3102,
+    "segs": [ {
+      "utf8": "with their gloves and helmets,\nthen shutting the hatch door."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 339204,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "spacecraft about the size of a\nsix-person tent, the astronauts"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 342808,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "nicknamed it \"Integrity.\""
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 344377,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "Orion will orbit the Earth for\nthe first day as crews with"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 347346,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "mission control make sure all\nsystems are working properly."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 350483,
+    "dDurationMs": 2702,
+    "segs": [ {
+      "utf8": "Then they'll slingshot towards\nthe Moon and around it,"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 353285,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "seeing the far side of the\nMoon for the first time in"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 356021,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "more than half a century."
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 357490,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "Once they're out of the\nMoon's orbit, Earth's gravity"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 359825,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "takes over and with the\nhelp of 12 thrusters"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 362061,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "that keep the capsule on\ntrack, Orion heads back to"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 365131,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "Earth. Hitting Earth's\natmosphere at nearly 25,000"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 368067,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "miles an hour, Orion's heat\nshield will protect the"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 370903,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "crew from temperatures\nnearing 5,000 degrees before"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 373872,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "it splashes down in the Pacific."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 375607,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "\"Splashdown.\" They\nwon't land on the moon."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 377943,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "This mission is a quest to\ntest the abilities of the"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 380913,
+    "dDurationMs": 3002,
+    "segs": [ {
+      "utf8": "Orion spacecraft, which NASA\nplans to use as America's"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 384016,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "vehicle for future lunar\njourneys, as they work"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 386652,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "to establish a long-term\npresence there"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 388754,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "and hopefully use\nthe moon as a base"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 390756,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "to explore other\nplanets like Mars."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 394793,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "And so, Lindsey,\nI gotta tell you"
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 396228,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "that being here, it's\nquite incredible"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 398096,
+    "dDurationMs": 2804,
+    "segs": [ {
+      "utf8": "because you can feel the\nvibrations in the Earth"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 401000,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "as that lifts off."
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 402268,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "In fact, right at that\nmoment, I almost feel it in"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 404503,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "my body right now, just\nwatching it again there,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 407006,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "because it was so palpable\nwhere you feel it"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 409842,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "coming up your body and\nreally just making it all"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 413446,
+    "dDurationMs": 3903,
+    "segs": [ {
+      "utf8": "so emotional because this,\nthis is what is possible"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 417449,
+    "dDurationMs": 3938,
+    "segs": [ {
+      "utf8": "if humanity comes together,\n- What a unifying moment"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 421487,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "to witness, Gio, thank you."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 423723,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "Next tonight, President\nTrump's first address"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 425591,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "to the nation since the\nstart of the war with Iran."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 428294,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "In the five weeks since,\nthe president has offered"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 430963,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "conflicting signals on\nthe reasons and goals"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 432865,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "of the conflict, while here\nat home, polling shows"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 435634,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "Americans are eager\nfor this war to end."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 437970,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "ABC's chief White House\ncorrespondent Mary Bruce"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 441073,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "reports from the White House."
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 442908,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "Tonight five weeks after\nlaunching this war"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 445311,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "with Iran, President\nTrump for the first time"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 447746,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "set to address the\nnation in prime time."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 450349,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "We're finishing the job and I\nthink within maybe two weeks,"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 454453,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "maybe a couple of days\nlonger to do the job."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 457690,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "But it's not clear what\nconditions need to be"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 460259,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "met for the president\nto end this conflict."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 462795,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "And while he's vowing this will\nbe over soon, today he said"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 466165,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "in an interview, quote, \"We'll\ncome back to do spot hits on"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 469935,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Iranian targets as needed.\""
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 472037,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "According to the president,\nIran is asking for a ceasefire."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 475307,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "But Trump says the U.S."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 476809,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "will only consider it when the"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 478777,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "Hormuz Strait is open, free and\nclear, saying, \"Until then, we"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 482748,
+    "dDurationMs": 3404,
+    "segs": [ {
+      "utf8": "are blasting Iran into oblivion,\nor as they say, back to"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 486252,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "the Stone Ages.\""
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 487486,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "But moments later,\nIran said they haven't"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 490022,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "asked for any ceasefire."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 491523,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "One top official\nwarning the U.S."
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 493692,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "the Strait of Hormuz\nwill certainly"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 495994,
+    "dDurationMs": 1436,
+    "segs": [ {
+      "utf8": "reopen, but not for you."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 497530,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "The president has argued\nit's up to other countries"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 500499,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "to reopen the strait."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 501734,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "But Iran's chokehold on the\ncritical waterway has sent gas"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 504970,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "prices in the U.S."
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 505971,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "skyrocketing to\nover $4 a gallon."
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 509008,
+    "dDurationMs": 2802,
+    "segs": [ {
+      "utf8": "Trump insists those prices\nwill come down quickly"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 511910,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "once the operation ends."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 513679,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "All I have to do is leave\nIran, and we'll be doing"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 516582,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "that very soon, and it'll\nbecome tumbling down."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 519084,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "Tonight's address comes after\nweeks of mixed messages"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 521887,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "and head-spinning threats\nfrom the president,"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 524256,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "and as polling shows,\nAmericans are eager"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 526591,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "for this war to end."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 528460,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "60% of Americans disapprove\nof the military operation,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 532364,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "and 2/3 say the U.S."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 533665,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "should work to end\nthis conflict quickly."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 536668,
+    "dDurationMs": 3437,
+    "segs": [ {
+      "utf8": "But the president insists\nhis operation is succeeding."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 540205,
+    "dDurationMs": 3204,
+    "segs": [ {
+      "utf8": "Just 24 hours ago, he said\nthe US had achieved his goal"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 543509,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "of preventing Iran from\ndeveloping a nuclear weapon,"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 546445,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "though he presented no evidence."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 548247,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "I had one goal, they will\nhave no nuclear weapon,"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 551583,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "and that goal has been attained."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 553252,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "They will not have\nnuclear weapons."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 555287,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "But today, Trump said\nhe's not concerned"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 557523,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "about removing Iran's\nremaining stockpile"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 559725,
+    "dDurationMs": 3703,
+    "segs": [ {
+      "utf8": "of enriched uranium, saying,\n\"That's so far underground."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 563528,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "I don't care about that.\""
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 565464,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "And tonight, President Trump,\nfrustrated with NATO allies who"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 568601,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "have refused to join the\nwar effort even though he"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 571070,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "gave them no heads up,\nis again threatening"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 573371,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "to leave the alliance."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 574573,
+    "dDurationMs": 3104,
+    "segs": [ {
+      "utf8": "Trump saying he is, quote,\n\"absolutely\" considering"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 577777,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "pulling the U.S."
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 578777,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "out of NATO."
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 579745,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Lindsey. Mary Bruce\nfrom the White House."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 581514,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Mary, thank you."
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 582514,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "And stay with us for\nthe president's address"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 584683,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "to the nation at 9 p.m."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 585750,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "Eastern right here on ABC."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 587118,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "Meanwhile, in the\nMiddle East, the U.S."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 589521,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "is striking new\ntargets across Iran."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 591757,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "The president is refusing\nto rule out putting troops"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 594292,
+    "dDurationMs": 969,
+    "segs": [ {
+      "utf8": "on the ground there."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 595361,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "What we're learning\ntonight about the possible"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 597262,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "ground options President\nTrump was recently"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 599165,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "briefed on, and it comes\namid the urgent search"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 601800,
+    "dDurationMs": 2737,
+    "segs": [ {
+      "utf8": "for an American journalist\nkidnapped in Baghdad,"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 604637,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "grabbed on the street\nand then driven away."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 606705,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "ABC's Matt Rivers\nreports from the region"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 608707,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "Tonight, stunning new\nvideo as the U.S."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 612511,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "unleashes furious attacks across"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 615881,
+    "dDurationMs": 3137,
+    "segs": [ {
+      "utf8": "Iran, with the world\nwatching President"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 619118,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "Trump's speech."
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 621353,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Huge explosions seen in video\ncirculating online, this one"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 625023,
+    "dDurationMs": 4305,
+    "segs": [ {
+      "utf8": "in the city of Isfahan, flames\nand smoke filling the sky."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 629428,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "Officials tonight say more than\n12,000 targets have been hit."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 632765,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "And after those comments\nfrom President Trump"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 634967,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "today, dismissing concerns\nabout Iran's highly"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 637303,
+    "dDurationMs": 2668,
+    "segs": [ {
+      "utf8": "enriched uranium, tonight a\nsource telling ABC News the"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 640071,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "president was recently briefed\non a variety of options to"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 643141,
+    "dDurationMs": 3604,
+    "segs": [ {
+      "utf8": "send ground troops into Iran,\nincluding the potential seizure"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 646845,
+    "dDurationMs": 1636,
+    "segs": [ {
+      "utf8": "of that highly enriched uranium."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 648581,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "It would likely involve a large\nspecial operations force."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 652017,
+    "dDurationMs": 3137,
+    "segs": [ {
+      "utf8": "Ground forces could also\nbe used to seize Iran's"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 655254,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "key oil hub of Karg Island."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 657022,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "No final decisions have been\nmade, but with the Strait of"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 659825,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "Hormuz still effectively\nshut down, there's no end in"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 662894,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "sight to those skyrocketing\noil and gas prices."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 666032,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "And in Iraq tonight, the\nFBI joining the urgent"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 668434,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "search for kidnapped\nAmerican journalist Shelley"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 671070,
+    "dDurationMs": 3102,
+    "segs": [ {
+      "utf8": "Kittleson, seen here\nstruggling as she's forced"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 674272,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "into a car in Baghdad."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 675674,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "I do think that she\nwas certainly targeted"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 677776,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "because she's American."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 679044,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "Also that she is one of\nthe very few journalists"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 682080,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "who goes into the region."
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 683716,
+    "dDurationMs": 3436,
+    "segs": [ {
+      "utf8": "A lot of people know her\nand it's possible that"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 687252,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "she was on the radar."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 688821,
+    "dDurationMs": 4003,
+    "segs": [ {
+      "utf8": "Iraqi authorities say an\nIran-backed militia is"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 692924,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "behind the kidnapping."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 694926,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "Lindsay, tonight a U.S."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 696061,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "official telling\nABC News that that"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 697763,
+    "dDurationMs": 2735,
+    "segs": [ {
+      "utf8": "American journalist was\nwarned of specific threats"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 700599,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "against her but chose\nto keep doing her work."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 703435,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "Lindsay? Matt Rivers\nin Doha for us."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 705938,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ],
+    "wpWinPosId": 37,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 707072,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "Back here now, the Supreme\nCourt hearing arguments"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 708807,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "over the constitutionality\nof President Trump's"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 711343,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "executive order ending\nbirthright citizenship."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 714046,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "President Trump there\nin the chamber,"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 715947,
+    "dDurationMs": 2737,
+    "segs": [ {
+      "utf8": "face to face with the justices,\nmost of them with sharp"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 718784,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "questions about his rationale."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 720285,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Here's ABC's Devin Dwyer."
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 723388,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "- Tonight, President Trump\nleaving the Supreme Court"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 725924,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "after a historic\n90-minute first visit"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 728627,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "by a sitting president, as\nthe government's attorney"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 731797,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "argued birthright citizenship\nhas become exploited."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 734867,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "We're in a new world now, as\nJustice Alito pointed out to"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 736935,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "you, where 8 billion people\nare one plane ride away"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 739304,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "from having a child who's a U.S."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 741206,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "citizen. Well, it's a new world."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 742775,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "It's the same Constitution."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 744009,
+    "dDurationMs": 3403,
+    "segs": [ {
+      "utf8": "For more than a century, the\n14th Amendment has given"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 747512,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "children born on U.S."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 748948,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "soil U.S."
+    } ],
+    "wpWinPosId": 38,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 750182,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "citizenship, regardless of\ntheir parents' legal status."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 752717,
+    "dDurationMs": 1903,
+    "segs": [ {
+      "utf8": "On day one, Trump\ntried to change that"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 754720,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "legacy by executive order,\nexcluding children of"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 757356,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "unauthorized immigrants\nand temporary visitors"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 760025,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "like tourists."
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 761293,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Today, as hundreds of immigrant\nadvocates rallied outside the"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 764263,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "court, most of the justices\nsignaled they aren't"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 766898,
+    "dDurationMs": 1202,
+    "segs": [ {
+      "utf8": "buying Trump's plan."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 768200,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Justice Neil Gorsuch pointing to\nthe text of the Constitution's"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 771270,
+    "dDurationMs": 2268,
+    "segs": [ {
+      "utf8": "citizenship clause,\nwhich applies to all"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 773638,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "persons born in the U.S."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 775207,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "Justice Amy Coney Barrett\nwondering how officials"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 777943,
+    "dDurationMs": 2702,
+    "segs": [ {
+      "utf8": "would determine which\nnewborns should be deported."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 780745,
+    "dDurationMs": 2971,
+    "segs": [ {
+      "utf8": "You're not going to know at\nthe time of birth for some"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 783816,
+    "dDurationMs": 2902,
+    "segs": [ {
+      "utf8": "people whether they have\nthe intent to stay or not."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 786818,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "And while Trump's order would\nonly apply going forward,"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 789988,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Justice Sonia Sotomayor\nwarning it could be used to"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 793091,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "take citizenship away."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 794693,
+    "dDurationMs": 5539,
+    "segs": [ {
+      "utf8": "the government could move to\nunnaturalize people who were"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 800332,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "born here of illegal residents."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 803469,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "- Lindsay, the president was\nattentive and expressionless"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 806071,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "inside that chamber, posting\non social media afterwards"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 808941,
+    "dDurationMs": 3269,
+    "segs": [ {
+      "utf8": "that the US is stupid for\nallowing birthright citizenship."
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 812310,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "A ruling on the\nconstitutionality of"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 814646,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "his order to end it is\nexpected by the end of June."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 817649,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "- Devin Dwyer covering\nthe courts for us."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 819651,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "Thank you, Devin."
+    } ],
+    "wpWinPosId": 39,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 820886,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "Now to the New York man charged\nwith using weapons of mass"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 823422,
+    "dDurationMs": 2368,
+    "segs": [ {
+      "utf8": "destruction after federal\nagents say they found"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 825891,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "more than two dozen\npipe bombs in his home."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 828159,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Prosecutors say he put his\nentire neighborhood at risk."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 830729,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "Here's ABC's Aaron Katursky."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 833432,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "Tonight prosecutors say this is\nthe man accused of terrorizing"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 836134,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "his neighborhood north of\nNew York City for weeks with"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 838770,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "homemade pipe bombs."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 840005,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "Video obtained by WABC\nshowing a man tossing"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 842707,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "an apparent explosive."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 844175,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "said they found more\nthan two dozen in the"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 846244,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "suspect's apartment."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 847445,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "Federal agents descending on\nRaymond Elder's home in White"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 849948,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "Plains after neighbors reported\nhearing loud explosions"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 852851,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "early Monday morning."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 854185,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "Boom! And the second\none went off,"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 856588,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "that's when the window shook."
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 858323,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "When officers arrived, they said\nthey smelled an acrid burning"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 861460,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "odor and found Elder's with\na lighter and his hands"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 864162,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "were darkened by a\nbluish-black chemical residue."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 867199,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "This improvised explosive\ndevice made from a piece of PVC"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 870636,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "piping with a protruding fuse."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 872504,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "One woman who lives near Elders\ntold police she heard 10"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 875574,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "loud booms in the last month."
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 877175,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "An Elders roommate\npointed investigators"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 879511,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "to a purple suitcase\nthat they said contained"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 882014,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "supplies for making bombs,\nincluding tubing and"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 884750,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "wiring, wicks and chemicals."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 886418,
+    "dDurationMs": 3036,
+    "segs": [ {
+      "utf8": "When authorities searched the\nresidence, they said they found"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 889554,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "approximately 25 improvised\nexplosive devices in"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 892124,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "various locations\nthroughout the apartment."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 894560,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "The suspect's being held\ntonight, Lindsay, on"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 896595,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "charges of using weapons\nof mass destruction."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 898663,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Prosecutors said he put his\nentire community at risk,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 901333,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "though so far they've pointed\nto no specific motive."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 904569,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Lindsay? Aaron, thank you."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 906504,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "Next, at the trial of the\ndoctor in Hawaii accused of"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 909207,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "trying to kill his wife, his\nson testifying to what he"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 911877,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "says his father told him\nthe day of the attack."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 914012,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "And tonight, the doctor taking\nthe stand in his own defense."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 917348,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Here's ABC's Trevor Rolfe."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 919118,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "- You do solemnly\nswear or affirm"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 920385,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "that the testimony\nyou're about to give"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 921653,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "will be the truth,\nthe whole truth,"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 922687,
+    "dDurationMs": 768,
+    "segs": [ {
+      "utf8": "and nothing but the truth."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 923555,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "- I do."
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 924523,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "- Tonight, the Hawaii\ndoctor accused"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 926257,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "of trying to murder his\nwife on a birthday hike"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 929027,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "is taking the stand\nin his own defense,"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 931430,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "telling the jury about\nwhat he called an affair"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 933631,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "between his wife and\none of her coworkers."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 935967,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "It comes a day after\nstunning testimony"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 938070,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "from Gerhard Koenig's son,\nwho testified minutes"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 941173,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "after the alleged attack,\nHis father video called"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 944142,
+    "dDurationMs": 1202,
+    "segs": [ {
+      "utf8": "him and confessed."
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 945444,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "What did the defendant\ntell you during that call?"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 947579,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "As close to word for word\nas you can remember."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 950148,
+    "dDurationMs": 3204,
+    "segs": [ {
+      "utf8": "That he would not be\nmaking it back to Maui"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 953452,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "and to take good care\nof the younger kids"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 957222,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "and that he had, that\nAerie, my stepmom,"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 960592,
+    "dDurationMs": 3637,
+    "segs": [ {
+      "utf8": "had been cheating on him and\nthat he tried to kill her."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 964329,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "Prosecutors say Dr. Koenig\ntried pushing his wife,"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 966898,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "Arielle, off this high cliff\nand attempted to inject"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 970301,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "her with a syringe before\nhitting her repeatedly"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 973304,
+    "dDurationMs": 1703,
+    "segs": [ {
+      "utf8": "on the head with a jagged rock."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 975107,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "I asked what was on\nhis shirt because it"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 977308,
+    "dDurationMs": 2604,
+    "segs": [ {
+      "utf8": "looked like I saw splatters\nof something on his"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 980012,
+    "dDurationMs": 3002,
+    "segs": [ {
+      "utf8": "shirt and he said oh it's\njust her meaning Arie's"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 983114,
+    "dDurationMs": 3103,
+    "segs": [ {
+      "utf8": "blood. Dr. Koenig's defense\nattorneys say Ariel"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 986317,
+    "dDurationMs": 3438,
+    "segs": [ {
+      "utf8": "Koenig started the fight and\nhe acted in self-defense."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 989855,
+    "dDurationMs": 3369,
+    "segs": [ {
+      "utf8": "Today they called an expert\nwho testified, area was hit"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 993324,
+    "dDurationMs": 3171,
+    "segs": [ {
+      "utf8": "fewer times than she claimed\nto police and she did not"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 996595,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "sustain life\nthreatening injuries."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 999064,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "All of the injury was\nto the scalp itself"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1001700,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "and that's all that was injured."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1003635,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "The bone wasn't fractured,\nthe brain wasn't"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1006305,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "injured. Lindsay dr\nkonigs defense tonight."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1008940,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "He ever confessed if he's\nconvicted, he could face life"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1012111,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "in prison."
+    } ],
+    "wpWinPosId": 37,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1012777,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "Lindsay Trevor, thank you."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1014279,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "When we come back."
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1015347,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "A rock and roll\nlegend is attacked in"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1017516,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "Santa Monica, a suspect\nreportedly tossing an unknown"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1020352,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "substance at Fleetwood\nMac guitarist Lindsay"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1022388,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "Buckingham, alleged Ceo\nkiller Luigi Mangione"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1025657,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "back in court."
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1026625,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "The FDA approves a new weight"
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1028193,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "loss pill and Hershey\nis changing the Reese's"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1030495,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "peanut butter cup again."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1034532,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "Next tonight, former\nFleetwood Mac guitarist"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1036601,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "Lindsay Buckingham has been\nattacked in Santa Monica."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1039538,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "A woman allegedly doused\nhim in with an unknown"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1042441,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "substance and then\nfled the scene."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1044242,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Buckingham was not hurt."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1045543,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "Police are searching\nfor the suspect."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1047479,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "A federal judge delaying\nthe trial of accused CEO"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1049948,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "killer Luigi Mangione\nuntil October Mangione in"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1053184,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "federal court today."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1054619,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "His state trial in the killing"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1056221,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "of Brian Thompson also\nmoved to September."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1058423,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "He's pleaded not guilty to all"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1060058,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "counts. When we come back,\na new and cheaper weight"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1062828,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "weight loss pill is\nabout to hit the market."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1066532,
+    "dDurationMs": 3069,
+    "segs": [ {
+      "utf8": "To the index now, the FDA\nhas approved a new GLP-1"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1069701,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "weight loss drug in pill form."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1071670,
+    "dDurationMs": 2368,
+    "segs": [ {
+      "utf8": "Eli Lilly's Fondayo is\nexpected to start being"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1074138,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "available on Monday."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1075273,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "A monthly supply without\ninsurance will start at"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1078609,
+    "dDurationMs": 1603,
+    "segs": [ {
+      "utf8": "$149 for the lowest dose."
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1080312,
+    "dDurationMs": 3202,
+    "segs": [ {
+      "utf8": "Hershey says it's returning\nto its classic recipe after"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1083615,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "a firestorm over changes\nto some of its more"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1086151,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "popular products."
+    } ],
+    "wpWinPosId": 39,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1087285,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "Among them, the iconic\nReese's Peanut Butter Cup."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1089854,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "Hershey came under fire\nafter the grandson"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1091823,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "of the inventor of\nthe Peanut Butter Cup"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1093859,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "accused the company of\nusing cheaper ingredients."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1096228,
+    "dDurationMs": 3737,
+    "segs": [ {
+      "utf8": "Hershey says that its classic\nrecipes will return next year."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1100065,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "After the break, we go back\nto the Artemis mission"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1102634,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "with a look inside\nthe Orion capsule."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1106504,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "Finally, with four astronauts\nnow bound for the moon,"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1109073,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "we go inside the place\nthey'll call home"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1110975,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "for the next 10 days."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1113611,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "Tonight on this\nhistoric moon mission,"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1115747,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "the four astronauts\nanswer the question,"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1118383,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "just how are they\ngonna live up there"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1119751,
+    "dDurationMs": 3069,
+    "segs": [ {
+      "utf8": "in those cramped quarters\ntogether for 10 days?"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1122920,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "- All right, we're getting\nready to get into the vehicle."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1125190,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "- Pilot Victor Glover and\nthe team give us a tour"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1127725,
+    "dDurationMs": 2704,
+    "segs": [ {
+      "utf8": "of the replica Orion spacecraft\nthey're training in."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1130529,
+    "dDurationMs": 2735,
+    "segs": [ {
+      "utf8": "- Heading in."
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1133364,
+    "dDurationMs": 1503,
+    "segs": [ {
+      "utf8": "Made it."
+    } ],
+    "wpWinPosId": 41,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1134967,
+    "dDurationMs": 3269,
+    "segs": [ {
+      "utf8": "- Just getting in takes a\nlittle bit of attention."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1138336,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Commander Reed Wiseman\nshows us the kitchen."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1140605,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "I'm in the, basically\nthe kitchen,"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1142507,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "so that's just the kitchen sink."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1144276,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "This is where we need\nto come to pour water"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1146410,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "in our glass and drink it."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1148079,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "And for dinner time."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1149347,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "Our food warmer, which\nis a briefcase here,"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1151516,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "and if we had food in it,\nI would be opening it up"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1153385,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "and showing you\nhow awesome it is."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1155620,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "The gym."
+    } ],
+    "wpWinPosId": 41,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1156521,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "This is the flywheel\nexercise device."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1158456,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "This is one of the things\nthat we have to sort of think"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1161192,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "in a zero-G environment."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1163328,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "Mission specialist,\nChristina Cook,"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1165230,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "shows us where they'll sleep."
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1166665,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "- I'm gonna be hanging\nlike a bat is my plan,"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1168934,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "but I won't even know it\n'cause there's no gravity."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1171035,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "- Putting you down on the deck,\nand now you're looking straight"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1174105,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "up into the docking tunnel."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1175072,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "- Tonight, the grand tour."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1176942,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "And the crew says they are\nready for this mission"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1179811,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "and for the out of\nthis world views."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1182347,
+    "dDurationMs": 4137,
+    "segs": [ {
+      "utf8": "- Windows are gonna\ndraw the crew together."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1186584,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "We're gonna see some cool\nthings out those windows."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1189254,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "- Cool indeed."
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1190455,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "I'm Lindsay Davis."
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1191389,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Thanks so much for watching."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1192657,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "Good night."
+    } ],
+    "wpWinPosId": 42,
+    "wsWinStyleId": 1
+  } ]
+}

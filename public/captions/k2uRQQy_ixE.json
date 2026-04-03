@@ -1,0 +1,6043 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 2
+  }, {
+    "juJustifCode": 0
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 30
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 28
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 29
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 31
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 27
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 24
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 26
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 19
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 21
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 22
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 25
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 20
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 13
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 23
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 8
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 5
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 12
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 6
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 10
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 18
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 4
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 7
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 86,
+    "rcRows": 1,
+    "ccCols": 9
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 3,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 23
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 93,
+    "rcRows": 2,
+    "ccCols": 28
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 86,
+    "rcRows": 2,
+    "ccCols": 30
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 17
+  }, {
+    "apPoint": 4,
+    "ahHorPos": 50,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 30
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 26
+  }, {
+    "apPoint": 4,
+    "ahHorPos": 50,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 4,
+    "ahHorPos": 50,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 31
+  }, {
+    "apPoint": 4,
+    "ahHorPos": 50,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 27
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 24
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 25
+  }, {
+    "apPoint": 4,
+    "ahHorPos": 50,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 28
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 6
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 9
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 12
+  }, {
+    "apPoint": 4,
+    "ahHorPos": 50,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 29
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 10
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 86,
+    "rcRows": 2,
+    "ccCols": 31
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 16
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 20
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 22
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 21
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 28
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 86,
+    "rcRows": 2,
+    "ccCols": 29
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 18
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 93,
+    "rcRows": 2,
+    "ccCols": 31
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 19
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 14
+  }, {
+    "apPoint": 3,
+    "ahHorPos": 3,
+    "avVerPos": 76,
+    "rcRows": 1,
+    "ccCols": 3
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 25
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 27
+  } ],
+  "events": [ {
+    "tStartMs": 16449,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "BREAKING TONIGHT A SIGNIFICANT"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 18250,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "ESCALATION AS THOUSANDS MORE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 19752,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "AMERICAN GROUND TROOPS ARRIVE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 20619,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "IN THE MIDDLE EAST, AS IRAN NOW"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 22254,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "THREATENS TO ATTACK ISRAELI AND"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 24156,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "AMERICAN COLLEGES IN THE REGION."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 25491,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "AND WITH PAYCHECKS ON THE WAY,"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 27026,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "WHEN WILL THOSE ENDLESS AIRPORT"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 28661,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "SECURITY LINES FINALLY EASE UP?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 30863,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "WE BEGIN WITH THE WAR IN IRAN."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 32798,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "NOW IN ITS FIFTH WEEK, 3500"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 35134,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "MARINES AND SAILORS HAVE"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 36235,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "ARRIVED. 50,000 TROOPS NOW IN"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 38671,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "THE REGION. THE PENTAGON IS"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 40172,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "REPORTEDLY MULLING OPTIONS."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 41974,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "PRESIDENT TRUMP HAS NOT YET"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 43442,
+    "dDurationMs": 935,
+    "segs": [ {
+      "utf8": "DECIDED WHETHER TO LAUNCH A"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 44477,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "GROUND INVASION. SECRETARY OF"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 45945,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "STATE MARCO RUBIO ON HOW LONG"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 47747,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "THE WAR COULD LAST. WILL IT BE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 49215,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "WEEKS OR MONTHS? PLUS, THE"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 50983,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "LATEST ON NEW TALKS IN PAKISTAN"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 53019,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "TO END THE FIGHTING. IRAN NOW"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 54920,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "REELING FROM STRIKES ON SCHOOLS"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 56389,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "IN TEHRAN AND SUGGESTING"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 57857,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "ATTACKS ON AMERICAN"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 58891,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "UNIVERSITIES IN THE MIDDLE EAST."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 60325,
+    "dDurationMs": 1336,
+    "segs": [ {
+      "utf8": "AND THERE'S NEW CONCERN THAT"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 61761,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "IRANIAN ALLIES MAY TRY TO BLOCK"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 63696,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "THE RED SEA, ANOTHER VITAL"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 65397,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "SHIPPING ROUTE. WE HAVE TEAM"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 66865,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "COVERAGE ALSO TONIGHT. THOSE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 68935,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "EXCRUCIATING SECURITY LINES AT"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 70369,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "THE AIRPORT, TSA AGENTS ARE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 72238,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "CALLING OUT IN RECORD NUMBERS"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 74073,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "AFTER GOING WITHOUT PAY FOR"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 75274,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "MORE THAN A MONTH. WITH THE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 76842,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "CHECKS FINALLY COMING, WILL THE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 78310,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "DELAYS EASE UP? AN ALLEGED"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80879,
+    "dDurationMs": 1336,
+    "segs": [ {
+      "utf8": "BOMBING PLOT THWARTED A NEW"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 82315,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "PHOTO OF THE DEVICE LEFT"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 83783,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "OUTSIDE THE BANK OF AMERICA IN"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 85551,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "PARIS, AND WHAT THE"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 86985,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "INVESTIGATION HAS TURNED UP."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 88454,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "TIGER WOODS OUT OF JAIL AFTER"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 90289,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "THAT SERIOUS ACCIDENT AND NOW"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 91991,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "FACING A CHARGE OF DRIVING"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 93092,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "UNDER THE INFLUENCE. HOW THIS"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 94393,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "WILL IMPACT HIS LATEST COMEBACK."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 96329,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "THE HORRIFIC SCHOOL BUS CRASH."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 98497,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "TWO CHILDREN KILLED PARENTS"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 100266,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "DESCRIBED THE AWFUL SCENE."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 102468,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "NASA'S RETURN TO THE MOON. THE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 103970,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "COUNTDOWN TO ARTEMIS TWO, WHY"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 105404,
+    "dDurationMs": 1636,
+    "segs": [ {
+      "utf8": "THE MISSION IS SO IMPORTANT,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 107140,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "AND WHAT THEY'VE DONE TO FIX A"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 108774,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "STUBBORN HYDROGEN LEAK. THE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 110442,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "BRAZEN CHOCOLATE THEFT ONE WEEK"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 112578,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "BEFORE EASTER. WHO STOLE 12"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 114713,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "TONS OF KITKATS AND AMERICA"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 117216,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "STRONG TONIGHT? HOW? SHE WENT"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 118317,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "FROM HOSPITAL JANITOR TO DOCTOR"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 121020,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "AT THE SAME HOSPITAL."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 125958,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "\u003e\u003e FROM ABC NEWS WORLD"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 127994,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "HEADQUARTERS IN NEW YORK. THIS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 129928,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "IS WORLD NEWS TONIGHT."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 132364,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "\u003e\u003e GOOD EVENING EVERYONE."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 133332,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "THANKS SO MUCH FOR JOINING US"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 134533,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "ON THIS SUNDAY. I'M LINSEY"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 136368,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "DAVIS. WE BEGIN TONIGHT WITH"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 137569,
+    "dDurationMs": 1803,
+    "segs": [ {
+      "utf8": "THE WAR IN IRAN NOW ENTERING"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 139472,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "ITS FIFTH WEEK. MORE THAN"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 141440,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "50,000 AMERICAN TROOPS ARE NOW"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 142574,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "IN THE MIDDLE EAST. THIS IS"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 144677,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "3500 MARINES AND SAILORS HAVE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 146412,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "ARRIVED IN THE REGION."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 147480,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "PRESIDENT TRUMP IS SAID TO BE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 148948,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "CONSIDERING HIS NEXT OPTIONS,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 150383,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "INCLUDING A GROUND INVASION OR"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 152184,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "SEIZING AN ISLAND. TEHRAN"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 153953,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "LAUNCHING ITS AIR DEFENSE"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 155120,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "SYSTEMS AMID AN UNRELENTING"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 156455,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "ASSAULT BY U.S. AND ISRAELI"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 157857,
+    "dDurationMs": 868,
+    "segs": [ {
+      "utf8": "STRIKES. AND IRAN IS"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 158825,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "THREATENING RETALIATION."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 160693,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "STRIKES ON ISRAELI AND AMERICAN"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 162461,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "UNIVERSITIES IN THE REGION."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 163729,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "THIS AFTER AN ISRAELI AIRSTRIKE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 165364,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "HIT IRAN'S UNIVERSITY OF"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 166799,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "SCIENCE AND TECHNOLOGY CAMPUS."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 168567,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "POPE LEO WITH HARSH WORDS ABOUT"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 170369,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "THE WAR ON HIS PALM SUNDAY,"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 171870,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "SAYING, GOD, QUOTE, DOES NOT"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 173639,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "LISTEN TO THE PRAYERS OF THOSE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 175007,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "WHO WAGE WAR AND A SOBERING"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 177242,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "REMINDER OF THE COST OF THIS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 178377,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "WAR. MORE THAN 3000 PEOPLE HAVE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 180546,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "BEEN KILLED ACROSS THE REGION,"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 182248,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "INCLUDING 13 AMERICAN SERVICE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 184417,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "MEMBERS. WE HAVE TEAM COVERAGE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 185851,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "TONIGHT. ABC'S SENIOR WHITE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 186952,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "HOUSE CORRESPONDENT SELENA WANG"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 188754,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "LEADS US OFF."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 191590,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "\u003e\u003e TONIGHT. GROWING CONCERN THE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 193058,
+    "dDurationMs": 1169,
+    "segs": [ {
+      "utf8": "U.S. COULD SOON PUT BOOTS ON"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 194327,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "THE GROUND FOR MILITARY"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 196261,
+    "dDurationMs": 2804,
+    "segs": [ {
+      "utf8": "OPERATIONS INSIDE IRAN. THE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 199165,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "MOUNTING QUESTIONS COME AS THE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 201066,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "FIRST U.S. GROUND TROOPS ARRIVE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 202568,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "IN THE MIDDLE EAST. 3500"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 204937,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "SAILORS AND MARINES FROM THE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 206472,
+    "dDurationMs": 3437,
+    "segs": [ {
+      "utf8": "31ST MARINE EXPEDITIONARY UNIT,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 210009,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "EQUIPPED WITH TRANSPORTING"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 211476,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "STRIKE FIGHTER AIRCRAFT AND"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 213646,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "AMPHIBIOUS ASSAULT CAPABILITIES."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 217216,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "SECOND MARINE UNIT IS ON ITS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 219051,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "WAY AND EXPECTED TO ARRIVE BY"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 221154,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "MAY. AN ADDITIONAL 1500"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 224757,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "SOLDIERS FROM THE ARMY'S ELITE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 226525,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "82ND AIRBORNE ALSO PREPARING TO"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 229061,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "DEPLOY THOSE TROOPS TRAINED TO"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 231197,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "PARACHUTE BEHIND ENEMY LINES."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 233032,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "THE U.S. NOW HAS 50,000 TROOPS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 235868,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "STATIONED IN THE MIDDLE EAST."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 237369,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "THE PENTAGON SAYS THEY'RE"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 238571,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "GIVING THE PRESIDENT, WHO HAS"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 239839,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "NOT RULED OUT USING GROUND"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 241674,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "TROOPS, MORE OPTIONS. LAWMAKERS,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 244543,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "INCLUDING FROM THE PRESIDENT'S"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 245644,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "OWN PARTY, URGING TRUMP TO"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 248147,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "CONSULT CONGRESS FIRST."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 249949,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "\u003e\u003e IF WE'RE GOING TO DO A"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 251083,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "CONVENTIONAL GROUND OPERATION"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 252551,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "WITH MARINES AND 82ND AIRBORNE,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 254686,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "THAT IS A GROUND WAR THAT I"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 256856,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "BELIEVE CONGRESS SHOULD HAVE A"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 258057,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "SAY AND WE SHOULD BE BRIEFED ON."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 259958,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "\u003e\u003e AS THE WAR PASSES ITS ONE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 261894,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "MONTH MARK. SOURCES TELL ABC"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 263329,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "NEWS SECRETARY RUBIO PRIVATELY"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 265464,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "TOLD G-7 ALLIES THE WAR WOULD"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 268033,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "CONTINUE FOR ANOTHER 2 TO 4"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 269768,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "WEEKS. U.S. AND ISRAELI ATTACKS"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 273405,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "LIGHTING UP THE NIGHT SKY IN"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 274874,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "TEHRAN WITH THE MISSILE"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 276309,
+    "dDurationMs": 3803,
+    "segs": [ {
+      "utf8": "ONSLAUGHT THIS WEEKEND. THESE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 280212,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "VIDEOS SHOW FIRST RESPONDERS IN"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 282014,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "IRAN SEARCHING THROUGH THE"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 283515,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "RUBBLE IN TEHRAN, SEVERAL"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 285250,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "BUILDINGS NEARBY AT A"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 287085,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "UNIVERSITY ALSO DAMAGED, AND"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 289187,
+    "dDurationMs": 1736,
+    "segs": [ {
+      "utf8": "NOW IRAN IS WARNING IT WILL"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 291023,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "CONSIDER AMERICAN UNIVERSITIES"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 292658,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "WITH CAMPUSES IN THE REGION"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 294961,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "LEGITIMATE TARGETS. THIS COMES"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 296829,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "AS THE NUMBER OF AMERICANS"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 298497,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "WOUNDED GROWS, NOW, MORE THAN"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 302134,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "313 AMERICAN SERVICE MEMBERS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 303936,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "HAVE DIED. AT LEAST 15"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 306438,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "AMERICANS WERE WOUNDED ON"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 307907,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "FRIDAY IN AN IRANIAN ATTACK ON"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 309741,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "A U.S. BASE IN SAUDI ARABIA,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 312211,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "WHICH ALSO REPORTEDLY DESTROYED"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 314046,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "A CRITICAL DRONE SURVEILLANCE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 315915,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "AND RECONNAISSANCE PLANE USED"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 317350,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "BY THE AIR FORCE, ACCORDING TO"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 319217,
+    "dDurationMs": 2771,
+    "segs": [ {
+      "utf8": "THE WALL STREET JOURNAL. AND"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 322088,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "PRESIDENT TRUMP IS PROJECTING"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 323756,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "OPTIMISM ABOUT DIPLOMACY. AND"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 325558,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "TONIGHT, THE MISSION OF THOSE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 326959,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "TROOPS REMAINS UNCLEAR, THOUGH"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 329094,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "SECRETARY RUBIO INSISTS THE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 330563,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "U.S. CAN STILL REACH ITS GOALS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 332798,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "WITHOUT BOOTS ON THE GROUND."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 334567,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "LINDSEY."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 335267,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "\u003e\u003e A LOT OF APPREHENSION ABOUT"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 336702,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "HOW THAT WILL END. SELENA."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 338137,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "THANK YOU. NOW TO THE NEW"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 339939,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "DIPLOMATIC PUSH TO END THE WAR"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 341107,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "BETWEEN THE U.S. AND IRAN. TOP"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 342941,
+    "dDurationMs": 935,
+    "segs": [ {
+      "utf8": "MIDDLE EAST OFFICIALS HELD A"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 343976,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "MEETING TODAY WITHOUT"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 345378,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "REPRESENTATIVES FROM THE"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 346111,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "WARRING NATIONS. LET'S BRING IN"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 347546,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "ABC'S MATT RIVERS IN DOHA,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 349315,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "QATAR TONIGHT. MATT, WHAT CAN"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 350616,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "YOU TELL US ABOUT THIS MEETING?"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 353252,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "\u003e\u003e WELL, LINDSEY, THE FOREIGN"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 354386,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "MINISTERS FOR EGYPT, SAUDI"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 355487,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "ARABIA, TURKEY AND PAKISTAN ALL"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 357256,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "MET IN ISLAMABAD TODAY TO TRY"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 358924,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "AND LAY OUT A ROADMAP FOR PEACE,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 360493,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "BUT NOT PRESENT THE U.S. IRAN"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 362594,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "OR ISRAEL. STILL, THE PAKISTANI"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 363829,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "FOREIGN MINISTER SAYS HE THINKS"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 365430,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "THE U.S. AND IRAN WILL MEET,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 366631,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "QUOTE, IN THE COMING DAYS AS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 368767,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "THOUSANDS OF U.S. TROOPS ARE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 369835,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "STILL HEADED THIS WAY. THIS AS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 371203,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "A NEW ENTRANT INTO THE WAR"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 373038,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "EMERGES THE HOUTHIS IN YEMEN"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 374507,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "FIRING A MISSILE TOWARD ISRAEL"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 376041,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "OVER THE WEEKEND, A REMINDER"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 377610,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "THE COUNTRY COULD CAUSE MAJOR"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 379211,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "HAVOC SHOULD THEY TRY AND CLOSE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 380379,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "THE STRAIT OF BABA MANDEB IN"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 382214,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "THE RED SEA. ANY DISRUPTION IN"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 383783,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "THE RED SEA WOULD, OF COURSE,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 385351,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "BE CATASTROPHIC FOR GLOBAL OIL"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 386752,
+    "dDurationMs": 768,
+    "segs": [ {
+      "utf8": "SUPPLIES. AND FINALLY, AS"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 387620,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "ISRAEL CONTINUES ITS WAR WITH"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 389354,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "HEZBOLLAH IN LEBANON, A 22 YEAR"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 391123,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "OLD ISRAELI AMERICAN SOLDIER"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 392624,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "FROM CONNECTICUT WAS KILLED."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 394760,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "LINDSEY."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 395461,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "\u003e\u003e SO MANY LIVES CUT SHORT BY"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 396862,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "THIS WAR. MATT. THANK YOU. NOW"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 398330,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "TO THE NATION'S TRAVEL CHAOS."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 400532,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "PAYCHECKS ARE ON THE WAY FOR"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 401667,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "TSA WORKERS. BUT WAIT TIMES AT"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 403536,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "SOME AIRPORTS ARE STILL LONG."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 405470,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "TODAY, NEARLY 3000 OFFICERS,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 407639,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "MORE THAN 10% CALLED OUT ON"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 409775,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "SATURDAY. AND IT'S UNCLEAR IF"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 410842,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "TOMORROW WILL BE ANY BETTER."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 412044,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "HERE'S ABC'S MOLA LENGHI."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 414447,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "\u003e\u003e TONIGHT, OFFICIALS AT"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 415514,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "AIRPORTS ACROSS THE COUNTRY"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 417416,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "HOPING SCENES LIKE THIS FADE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 419885,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "FAST."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 420619,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "\u003e\u003e THE SOONER THEY GET PAID. I"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 421286,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "MEAN I'M SURE THAT WILL HELP"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 422487,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "ALL OF US GET THROUGH THESE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 424323,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "LINES QUICK."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 425024,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "\u003e\u003e WITH TSA PAYCHECKS. FINALLY"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 426224,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "ON THE WAY, AFTER PRESIDENT"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 427392,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "TRUMP SIGNED A MEMO LATE FRIDAY"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 428827,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "ORDERING THE DEPARTMENT OF"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 429961,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "HOMELAND SECURITY TO RESTORE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 431430,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "PAY TO TSA WORKERS. THE MONEY"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 433899,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "CAN'T COME FAST ENOUGH FOR JILL"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 436068,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "DANOVITCH. THIS SINGLE MOTHER"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 437235,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "OF FOUR HAS GONE WITHOUT PAY"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 439004,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "FOR MORE THAN A MONTH."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 440372,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "\u003e\u003e I THINK WE'RE GOING TO BE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 441573,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "STUCK IN THIS POSITION FOR A"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 443408,
+    "dDurationMs": 1169,
+    "segs": [ {
+      "utf8": "LONG TIME, AND IT'S AGGRAVATING."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 444677,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "IT'S FRUSTRATING, AND THIS IS"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 446912,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "JUST SO RIDICULOUS AT THIS"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 449081,
+    "dDurationMs": 534,
+    "segs": [ {
+      "utf8": "POINT."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 449715,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "\u003e\u003e NEARLY 3000 TSA AGENTS,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 451583,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "THAT'S JUST OVER 10% OF THE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 453786,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "WORKFORCE CALLED OUT SATURDAY"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 455220,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "WITH AIRPORTS IN TEXAS AND"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 456922,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "MARYLAND HIT HARDEST. MEANWHILE,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 458791,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "THE STANDOFF OVER FUNDING THE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 460325,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "DEPARTMENT OF HOMELAND SECURITY"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 461693,
+    "dDurationMs": 1736,
+    "segs": [ {
+      "utf8": "IS NOT BUDGING. HOUSE"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 463529,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "REPUBLICANS BEFORE LEAVING TOWN"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 464596,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "FOR A TWO WEEK CONGRESSIONAL"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 466098,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "BREAK, REJECTED A SENATE DEAL"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 467532,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "TO RESTORE FUNDING. PUSHING"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 469301,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "THEIR OWN STOPGAP PLAN INSTEAD,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 471069,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "TRUMP ADMINISTRATION BORDER"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 472471,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "CZAR TOM HOMAN SAYS WITH THE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 474339,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "WAR IN IRAN ESCALATING FUNDING,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 476308,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "THE AGENCY IS MORE CRITICAL"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 478310,
+    "dDurationMs": 501,
+    "segs": [ {
+      "utf8": "THAN EVER."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 478911,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "\u003e\u003e IN A TIME, WE HAVE A"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 480078,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "HEIGHTENED THREAT, YOU KNOW,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 481480,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "POSTURE RIGHT NOW IN THIS"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 482614,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "COUNTRY BECAUSE OF WHAT'S GOING"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 483982,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "ON IN THE WORLD. WE GOT TO KEEP"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 485951,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "THE AIRPORT SAFE. WE GOT TO"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 487086,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "KEEP THE AMERICAN PEOPLE, YOU"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 488320,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "KNOW, GOING THROUGH THOSE LINES."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 489955,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "\u003e\u003e AND ON FRIDAY, SENATE"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 491089,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "MAJORITY LEADER JOHN THUNE,"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 492090,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "SEEN AT REAGAN NATIONAL AIRPORT,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 493425,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "FOX NEWS, ASKING IF THE HOUSE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 495194,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "IS GOING TO DO THEIR JOB."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 496662,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "\u003e\u003e WELL WE'LL SEE. WE MADE SOME"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 500132,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "TEMPORARY HEADWAY, BUT WE GOT A"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 501333,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "LOT OF WORK TO DO. STILL."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 503402,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "\u003e\u003e PARALLEL LINES HERE AT BWI"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 504536,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "HAVE IMPROVED SIGNIFICANTLY"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 506705,
+    "dDurationMs": 935,
+    "segs": [ {
+      "utf8": "SINCE THIS MORNING. WHETHER IT"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 507740,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "STAYS THAT WAY LIKELY DEPENDS"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 508974,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "ON WHETHER THOSE TSA AGENTS WHO"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 510642,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "HAVE BEEN CALLING OUT WILL"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 512411,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "RETURN TO WORK ON MONDAY. WHEN"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 514980,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "PRESIDENT TRUMP PROMISES"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 515881,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "THEY'LL FINALLY GET PAID,"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 516816,
+    "dDurationMs": 633,
+    "segs": [ {
+      "utf8": "LINDSAY."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 517549,
+    "dDurationMs": 935,
+    "segs": [ {
+      "utf8": "\u003e\u003e HOPEFULLY WE'LL SEE SOME"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 518584,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "IMPROVEMENT. THANK YOU. NOW TO"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 520352,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "THOSE NO KINGS PROTESTS ACROSS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 522321,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "THE COUNTRY. MUSIC LEGEND BRUCE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 523955,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "SPRINGSTEEN PERFORMED AT THE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 525424,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "FLAGSHIP DEMONSTRATION IN SAINT"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 526525,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "PAUL, MINNESOTA. MILLIONS"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 528627,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "ATTENDED RALLIES ACROSS THE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 530395,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "NATION, VOICING THEIR"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 531530,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "OPPOSITION TO THE TRUMP"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 532631,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "ADMINISTRATION'S POLICIES."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 534333,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "ORGANIZERS SAY IT WAS THE"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 535901,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "LARGEST SINGLE DAY OF"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 536969,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "NONVIOLENT PROTESTS IN MODERN"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 538737,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "AMERICAN HISTORY. HERE'S ABC'S"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 540940,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "MELISSA DUNN."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 542675,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "\u003e\u003e ACROSS THE COUNTRY FROM NEW"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 544043,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "YORK, DALLAS TO SAN FRANCISCO."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 546579,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "MILLIONS OF PEOPLE OUT FOR THE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 548781,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "NO PROTESTS."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 550348,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "\u003e\u003e NO IN OUR STREETS."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 552717,
+    "dDurationMs": 969,
+    "segs": [ {
+      "utf8": "\u003e\u003e DEMONSTRATORS CALLING OUT"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 553786,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "PRESIDENT DONALD TRUMP AND HIS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 555554,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "ADMINISTRATION'S POLICIES IN"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 557455,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "MINNESOTA. BRUCE SPRINGSTEEN"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 559624,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "PERFORMING STREETS OF"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 561060,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "MINNEAPOLIS."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 561794,
+    "dDurationMs": 3102,
+    "segs": [ {
+      "utf8": "\u003e\u003e ON THE STREETS OF"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 564997,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "MINNEAPOLIS."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 568634,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "\u003e\u003e THE STATE'S GOVERNOR CALLING"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 569968,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "OUT THE TRUMP ADMINISTRATION"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 571770,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "FOR GOING TOO FAR WITH THEIR"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 573638,
+    "dDurationMs": 1336,
+    "segs": [ {
+      "utf8": "IMMIGRATION CRACKDOWN."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 575074,
+    "dDurationMs": 2735,
+    "segs": [ {
+      "utf8": "\u003e\u003e WHEN DEMOCRACY ITSELF SEEMS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 577909,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "TO BE AT RISK. IT WAS MINNESOTA"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 581546,
+    "dDurationMs": 2737,
+    "segs": [ {
+      "utf8": "WHO SAID, NOT ON OUR WATCH."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 584383,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "\u003e\u003e ORGANIZERS SAY 3000 SEPARATE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 586552,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "RALLIES ON SATURDAY MARKED THE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 588387,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "LARGEST SINGLE DAY"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 589821,
+    "dDurationMs": 1269,
+    "segs": [ {
+      "utf8": "DEMONSTRATION IN THE NATION."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 591190,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "AND IT'S NOT JUST BIG CITIES."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 593092,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "SMALLER MUNICIPALITIES,"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 594593,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "INCLUDING BUFFALO, NEW YORK,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 596061,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "SAW DEMONSTRATORS TAKING TO THE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 598130,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "STREETS."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 598797,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "\u003e\u003e IT'S TIME TO SPEAK UP. I"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 600632,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "DON'T WANT TO BE A BYSTANDER TO"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 602601,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "THIS."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 603302,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "\u003e\u003e OUT WEST, CROWDS MARCHED"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 604236,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "DOWN THE STREETS OF SAN DIEGO,"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 607906,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "AND IN LOS ANGELES THERE WAS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 609975,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "ISOLATED VIOLENCE. FEDERAL LAW"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 611777,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "ENFORCEMENT DEPLOYING WHAT"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 612978,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "APPEARED TO BE TEAR GAS OUTSIDE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 614713,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "A FEDERAL DETENTION CENTER."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 616481,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "POLICE ORDERING DISPERSALS, THE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 618951,
+    "dDurationMs": 3603,
+    "segs": [ {
+      "utf8": "LAPD ARRESTING 75 PEOPLE."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 622654,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "LINDSAY, PRESIDENT TRUMP HAS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 623722,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "NOT COMMENTED ON THESE LATEST"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 625124,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "ROUNDS OF PROTESTS. NOW, LAST"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 626558,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "FALL, TRUMP DID SAY HE IS NOT A"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 629127,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "KING."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 629794,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "\u003e\u003e LINSEY MELISSA THANK YOU."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 631964,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "OVERSEAS NOW TO FRENCH POLICE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 633098,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "THWARTING AN ALLEGED BOMBING"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 634433,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "ATTACK OUTSIDE THE BANK OF"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 635901,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "AMERICA BUILDING IN PARIS."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 637202,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "LET'S BRING IN ABC'S MARCUS"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 638770,
+    "dDurationMs": 1736,
+    "segs": [ {
+      "utf8": "MOORE. MARCUS WHAT'S THE LATEST"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 640606,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "WITH THIS INVESTIGATION."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 641640,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "\u003e\u003e WELL LINSEY POLICE IN FRANCE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 643208,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "HAVE NOW ARRESTED THREE PEOPLE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 644877,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "IN CONNECTION WITH THE ALLEGED"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 646378,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "TERROR ATTACK. AND ABC NEWS HAS"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 648146,
+    "dDurationMs": 1002,
+    "segs": [ {
+      "utf8": "OBTAINED THIS IMAGE OF THE"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 649248,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "DEVICE THAT POLICE SAY THE"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 650683,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "SUSPECTS TRIED TO DETONATE. WE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 652418,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "HAVE ALSO LEARNED TONIGHT THAT"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 653652,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "ALL OF THE SUSPECTS ARE YOUNGER"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 655087,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "THAN 18. ANTI-TERROR"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 656822,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "AUTHORITIES SAY THEY TRIED TO"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 657956,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "DETONATE THE DEVICE OUTSIDE A"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 658990,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "BANK OF AMERICA BUILDING AROUND"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 661093,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "330 SATURDAY MORNING. IT'S"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 662895,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "DESCRIBED AS FLAMMABLE LIQUID"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 664363,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "IN A CONTAINER TAPED TO A"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 666131,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "FIREWORKS TUBE. POLICE SAY THEY"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 667599,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "THWARTED THE ALLEGED ATTACK, AS"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 669034,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "ONE SUSPECT WAS USING A LIGHTER"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 670836,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "TO SET OFF THE DEVICE. ANOTHER"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 673338,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "SUSPECT WAS RECORDING THE"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 674773,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "ALLEGED ATTACK AND WAS LATER"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 676542,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "ARRESTED. ALL OF THIS COMES AT"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 677876,
+    "dDurationMs": 1736,
+    "segs": [ {
+      "utf8": "A TIME OF HEIGHTENED ALERT AT"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 679712,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "U.S. AFFILIATED BUSINESSES AND"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 681613,
+    "dDurationMs": 1002,
+    "segs": [ {
+      "utf8": "FACILITIES ACROSS THE GLOBE."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 682715,
+    "dDurationMs": 566,
+    "segs": [ {
+      "utf8": "LINDSAY."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 683381,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "\u003e\u003e SO MANY ON EDGE. MARCUS."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 684516,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "THANK YOU. NOW TO THE COUNTDOWN"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 686485,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "TO NASA'S HISTORIC MOON MISSION."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 688820,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "ARTEMIS TWO IS SCHEDULED FOR"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 689888,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "LAUNCH ON WEDNESDAY, APRIL 1ST."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 691690,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "IT'S THE FIRST HUMAN MOON"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 693559,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "MISSION IN MORE THAN 50 YEARS."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 695660,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "ABC'S PERRY RUSSOM IS HERE WITH"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 697195,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "THE NEW DETAILS COMING IN"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 698697,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "TONIGHT."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 699631,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "\u003e\u003e WITH DAYS TO GO UNTIL NASA'S"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 701400,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "HISTORIC LAUNCH. SENDING"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 702868,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "ASTRONAUTS AROUND THE MOON"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 704269,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "TONIGHT. THE ARTEMIS TWO CREW"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 705737,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "SPEAKING OUT AHEAD OF THEIR"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 707072,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "MISSION."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 707739,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "\u003e\u003e SO AT THIS POINT, WE CAN"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 708974,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "SAFELY SAY THE CREW IS READY,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 710642,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "THE ROCKETS READY, THE"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 712244,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "SPACESHIPS READY, GROUND"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 713679,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "SYSTEMS ARE READY, AND WE ONLY"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 715213,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "NEED TO HAVE THE WEATHER TO"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 716815,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "COOPERATE."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 717583,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "\u003e\u003e THE TEAM IS IN QUARANTINE AT"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 718850,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "KENNEDY SPACE CENTER IN FLORIDA."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 719951,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "FINAL PREPARATIONS UNDERWAY."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 721887,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "ARTEMIS TWO IS A TEST FLIGHT, A"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 725190,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "685,000 MILE JOURNEY"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 726625,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "SLINGSHOTTING FOUR ASTRONAUTS"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 728060,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "AROUND THE MOON COMING BACK TO"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 729761,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "EARTH ABOUT TEN DAYS LATER."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 731229,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "THEY'LL GO DEEPER INTO SPACE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 732864,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "THAN ANY HUMAN HAS EVER GONE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 734866,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "BEFORE. IT'S A CRITICAL STEP IN"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 736668,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "NASA'S MULTIBILLION DOLLAR"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 738670,
+    "dDurationMs": 935,
+    "segs": [ {
+      "utf8": "PROJECT TO LAND HUMANS BACK ON"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 739705,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "THE MOON, BUILD A LUNAR BASE,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 741673,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "AND SEND ASTRONAUTS TO MARS."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 744376,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "\u003e\u003e WE HAVE THE OPPORTUNITY TO"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 746345,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "ANSWER THE QUESTION THAT COULD"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 747712,
+    "dDurationMs": 1703,
+    "segs": [ {
+      "utf8": "BE THE QUESTION OF OUR LIFETIME,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 749515,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "WHICH IS, ARE WE ALONE?"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 750648,
+    "dDurationMs": 1002,
+    "segs": [ {
+      "utf8": "\u003e\u003e THE MISSION YEARS IN THE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 751750,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "MAKING HAS BEEN PLAGUED BY"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 753518,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "DELAYS, FROM HYDROGEN FUEL"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 754719,
+    "dDurationMs": 1269,
+    "segs": [ {
+      "utf8": "LEAKS TO AN INTERRUPTION OF"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 756088,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "HELIUM FLOW IN THE ROCKET."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 757355,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "\u003e\u003e I WILL TELL YOU, THE FOUR OF"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 759023,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "US, WE ARE READY TO GO. THE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 760959,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "TEAM IS READY TO GO AND THE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 762895,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "VEHICLE IS READY TO GO."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 763962,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "\u003e\u003e THE TEAM INCLUDES REID"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 765164,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "WISEMAN, VICTOR GLOVER,"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 766098,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "CHRISTINA COOK AND JEREMY"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 767032,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "HANSEN FROM THE CANADIAN SPACE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 768167,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "AGENCY. THE MISSION IS FILLED"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 769802,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "WITH FIRSTS, INCLUDING GLOVER,"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 771270,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "SET TO BECOME THE FIRST BLACK"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 772671,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "MAN TO BE SENT NEAR THE MOON."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 774473,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "\u003e\u003e YOUNG BROWN BOYS AND GIRLS"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 775874,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "CAN LOOK AT ME AND GO, HEY, HE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 777876,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "LOOKS LIKE ME. AND HE'S DOING"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 779044,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "WHAT? AND THAT'S GREAT. I LOVE"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 780845,
+    "dDurationMs": 435,
+    "segs": [ {
+      "utf8": "THAT."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 781614,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "\u003e\u003e NASA SAYS RIGHT NOW THEY ARE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 782847,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "FORECAST TO BE AN 80% GO FOR"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 784048,
+    "dDurationMs": 1703,
+    "segs": [ {
+      "utf8": "WEDNESDAY. THAT IS WHEN THIS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 785851,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "LAUNCH WINDOW OPENS."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 786518,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "\u003e\u003e LINDSAY PERRY, THANK YOU."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 787886,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "AND TUNE IN TO ABC NEWS LIVE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 789320,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "FOR COVERAGE OF ARTEMIS TWO"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 790889,
+    "dDurationMs": 1202,
+    "segs": [ {
+      "utf8": "MISSION TO THE MOON ON"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 792191,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "WEDNESDAY, APRIL 1ST. NOW TO A"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 794727,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "HEARTBREAKING TRAGEDY IN"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 796127,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "TENNESSEE. TWO STUDENTS WERE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 797562,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "KILLED AND SEVERAL OTHERS"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 798630,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "INJURED AFTER A SCHOOL BUS"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 800098,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "CRASH. THE KENWOOD MIDDLE"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 801500,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "SCHOOL STUDENTS WERE ON A FIELD"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 803068,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "TRIP. ONE OFFICIAL CALLED THIS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 804169,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "A PARENT'S WORST NIGHTMARE. THE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 806572,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "COMMUNITY CLEARLY DEVASTATED."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 807706,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "HERE'S ABC'S REENA ROY."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 809808,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "\u003e\u003e AN EMOTIONAL VIGIL IN"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 811209,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "TENNESSEE THIS WEEKEND AS LOVED"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 812978,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "ONES GATHERED TO REMEMBER THESE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 814813,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "TWO YOUNG GIRLS WHO WERE KILLED"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 816615,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "WHEN THEIR SCHOOL BUS CRASHED"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 818417,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "DURING A FIELD TRIP. NEWLY"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 820318,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "RELEASED VIDEO SHOWS THE BUS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 821686,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "COLLIDING WITH A DUMP TRUCK AND"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 822954,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "AN SUV IN CARROLL COUNTY ON"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 825290,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "FRIDAY, WITH MORE THAN TWO"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 826357,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "DOZEN MIDDLE SCHOOL STUDENTS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 827926,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "AND ADULTS ON BOARD."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 830295,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "\u003e\u003e THEIR CAR PULLED UP IN HER"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 832798,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "CAR."
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 833599,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "\u003e\u003e ONE OF THOSE STUDENTS"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 834800,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "CALLING HIS MOM. IMMEDIATELY."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 836068,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "\u003e\u003e HE WENT TO TURN THE CAMERA"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 838637,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "AND FACETIME. AND THAT'S WHEN I"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 840405,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "SAW THE BUS. AND THAT'S WHERE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 841640,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "THE PANIC KIND OF SET IN."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 843375,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "\u003e\u003e YOU CAN SEE EMERGENCY"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 844543,
+    "dDurationMs": 767,
+    "segs": [ {
+      "utf8": "RESPONDERS RUSHING THIS"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 845410,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "STRETCHER FROM THE SCENE AND A"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 847279,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "HELICOPTER TAKING THE INJURED"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 848279,
+    "dDurationMs": 1736,
+    "segs": [ {
+      "utf8": "TO NEARBY HOSPITALS MOMENTS"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 850115,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "AFTER THE DEADLY ACCIDENT."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 851950,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "\u003e\u003e THIS IS A PARENT'S WORST"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 853017,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "NIGHTMARE, AND WE RECOGNIZE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 854385,
+    "dDurationMs": 435,
+    "segs": [ {
+      "utf8": "THAT."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 855087,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "\u003e\u003e THE COMMUNITY NOW COMING"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 856221,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "TOGETHER TO SUPPORT THE"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 857756,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "FAMILIES GRIEVING THEIR SUDDEN"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 859525,
+    "dDurationMs": 533,
+    "segs": [ {
+      "utf8": "LOSSES."
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 860158,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "\u003e\u003e AND ASK FOR EVERYONE TO"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 860892,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "CONTINUE TO KEEP THOSE FAMILIES"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 862727,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "IN YOUR PRAYERS. AND I ASK THAT"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 865163,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "YOU ALSO KEEP ALL OUR FIRST"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 866331,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "RESPONDERS IN YOUR PRAYERS,"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 867799,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "BECAUSE THEY'VE WITNESSED SOME"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 868867,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "STUFF TODAY THAT THEY'LL"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 870636,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "REMEMBER FOR THE REST OF THEIR"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 872170,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "LIVES."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 872904,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "\u003e\u003e NOW, OFFICIALS SAY THIS IS"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 873705,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "STILL AN ONGOING INVESTIGATION,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 875707,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "AND TROOPERS ARE ACTIVELY"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 877109,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "WORKING TO DETERMINE THE"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 879344,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "CIRCUMSTANCES SURROUNDING THIS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 880378,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "TRAGIC CRASH. LINDSAY."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 881846,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "\u003e\u003e KEEPING THAT COMMUNITY IN"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 883281,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "OUR THOUGHTS AND PRAYERS. REENA."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 884716,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "THANK YOU. NEXT. TONIGHT, TIGER"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 886284,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "WOODS IS OUT OF JAIL AND FACING"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 888186,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "QUESTIONS ABOUT HIS FUTURE. THE"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 889254,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "GOLFING LEGEND WAS PREPARING"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 890355,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "FOR YET ANOTHER COMEBACK AND A"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 891890,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "POSSIBLE APPEARANCE AT THE"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 893725,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "MASTERS WHEN HE WAS CHARGED"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 894859,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "WITH A DUI AFTER A ROLLOVER"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 896261,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "CRASH IN FLORIDA. HERE'S ABC'S"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 898063,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "ANDREW DYMBURT TONIGHT."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 900331,
+    "dDurationMs": 1536,
+    "segs": [ {
+      "utf8": "\u003e\u003e NEW QUESTIONS ABOUT TIGER"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 901967,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "WOODS FUTURE AFTER THE 15 TIME"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 903802,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "MAJOR CHAMPION WAS ARRESTED AND"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 905670,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "CHARGED WITH DUI FOLLOWING A"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 907706,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "ROLLOVER CRASH NEAR HIS HOME ON"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 909174,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "JUPITER ISLAND, FLORIDA. WOODS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 911076,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "SEEN LEAVING MARTIN COUNTY JAIL"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 912778,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "LATE FRIDAY NIGHT. NOW THE ALL"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 914546,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "PRO GOLFER FACES AN UNCERTAIN"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 916348,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "FUTURE ON THE PGA TOUR."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 917850,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "\u003e\u003e THE WAY I LOOK AT IT,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 919284,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "THERE'S GOT TO BE SOME SORT OF"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 921185,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "PUNISHMENT OR WITHDRAWAL OR"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 922887,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "SOME SORT OF SUSPENSION FROM"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 925090,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "THE GAME."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 926057,
+    "dDurationMs": 1002,
+    "segs": [ {
+      "utf8": "\u003e\u003e AUTHORITIES SAY WOODS WAS"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 927159,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "SPEEDING AND OVERTOOK A TRUCK"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 928393,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "ON A TWO LANE ROAD. WOODS WAS"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 930128,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "NOT HURT IN THE CRASH, AND"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 931496,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "POLICE SAY HE PASSED A"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 933065,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "BREATHALYZER TEST, BUT REFUSED"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 934099,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "TO LET OFFICERS TAKE A BLOOD OR"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 935767,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "URINE SAMPLE. SUSPECTING WOODS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 937569,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "WAS IMPAIRED, INVESTIGATORS SAY"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 939370,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "HE WAS PLACED UNDER ARREST."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 940772,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "\u003e\u003e IT DOESN'T MATTER WHO YOU"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 941907,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "ARE. IF YOU BREAK THE LAW,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 943775,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "WE'RE GOING TO FOLLOW THE LAW."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 944943,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "\u003e\u003e IT'S A TROUBLING HEADLINE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 946144,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "FOR WOODS AND ONE WE'VE SEEN"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 947879,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "BEFORE. NOW, AT LEAST THE"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 948947,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "FOURTH TIME HE'S BEEN INVOLVED"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 950115,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "IN A VEHICLE RELATED CRASH OR"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 951849,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "ARREST. IT'S THE SECOND TIME"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 952984,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "HE'S BEEN CHARGED WITH DUI, AND"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 954786,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "THE SECOND TIME HE'S BEEN"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 955887,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "INVOLVED IN A ROLLOVER CRASH,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 957055,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "NEARLY LOSING HIS LEG. BACK IN"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 959291,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "2021 AFTER HIS SUV HE WAS"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 960658,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "DRIVING ROLLED SEVERAL TIMES"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 962393,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "OUTSIDE LOS ANGELES. LINDSAY"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 964262,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "THE PGA HAS YET TO OFFICIALLY"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 966197,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "COMMENT, AND WOODS'S STATUS FOR"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 967432,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "NEXT WEEK'S MASTERS TOURNAMENT"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 969034,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "IS STILL UNKNOWN. LINDSAY."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 971436,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "\u003e\u003e ANDREW. THANK YOU. THERE'S"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 972571,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "STILL MUCH MORE AHEAD ON WORLD"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 973705,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "NEWS TONIGHT THIS SUNDAY,"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 975373,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "INCLUDING THE BRAZEN CANDY"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 976808,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "THEFT, 12 TONS OF CHOCOLATE"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 978977,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "BARS STOLEN AND THE DRAMATIC"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 981179,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "BODY CAMERA VIDEO. OFFICERS RUSH"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 984216,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "TO RESCUE GUESTS FROM A\nBURNING MOTEL"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 988487,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "TONIGHT DRAMATIC BODY CAMERA\nVIDEO"
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 990121,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "SHOWS POLICE RUSHING TO A"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 991890,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "BURNING MOTEL NEAR FORT WORTH,"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 993725,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "TEXAS. ONE ROOM WAS FULLY"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 995160,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "ENGULFED IN FLAMES WHEN"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 996227,
+    "dDurationMs": 1703,
+    "segs": [ {
+      "utf8": "OFFICERS GOT THERE ON THURSDAY."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 998030,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "THEY PULLED AN UNCONSCIOUS MAN"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 999497,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "TO SAFETY, THEN WENT ROOM BY"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1001266,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "ROOM WARNING PEOPLE TO GET OUT."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1003001,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "THAT ONE GUEST WAS RUSHED TO A"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1004836,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "HOSPITAL WITH BURNS. TWO"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1006204,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "OFFICERS SUFFERED MINOR SMOKE"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1008139,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "INHALATION. AND TONIGHT, THE"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1009474,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "REMARKABLE STORY OF THE AIR"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1010975,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "CANADA FLIGHT ATTENDANT WHO"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1012377,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "SURVIVED THAT DEADLY CRASH AT"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1013779,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "NEW YORK'S LAGUARDIA AIRPORT."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1015614,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "SOLANGE TREMBLAY, SEEN HERE IN"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1017482,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "HER HOSPITAL BED. SHE WAS"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1019217,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "THROWN MORE THAN 300FT WHEN HER"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1021019,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "PLANE CRASHED INTO A FIRETRUCK"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1022621,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "WHILE LANDING. TREMBLAY"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1023922,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "SUFFERED TWO SHATTERED LEGS AND"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1025690,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "HAS UNDERGONE MULTIPLE"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1027459,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "SURGERIES. A GOFUNDME PAGE HAS"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1028927,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "BEEN SET UP TO HELP PAY FOR HER"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1030429,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "CARE, AND WE'RE TRACKING"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1032263,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "DANGEROUS FIRE WEATHER"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1033598,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "CONDITIONS ACROSS THE COUNTRY."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1034699,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "RED FLAG WARNINGS ARE UP IN"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1036601,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "MULTIPLE STATES WITH HIGH WINDS"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1037936,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "AND LOW HUMIDITY. THE WARM"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1039704,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "WEATHER IN THE WEST IS NOW"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1041506,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "EXPANDING EASTWARD. HIGH"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1043007,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "TEMPERATURES THIS WEEK WILL"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1043708,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "REACH THE UPPER 70S IN THE"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1045877,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "NORTHEAST AND THE LOW MID 80S"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1047679,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "IN THE SOUTH. WHEN WE COME BACK."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1049480,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "HOW'S YOUR BRACKET LOOKING?"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1050949,
+    "dDurationMs": 3904,
+    "segs": [ {
+      "utf8": "WHO'S MADE IT FROM THE ELITE 8\nTO THE FINAL 4"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1056355,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "\u003e\u003e\u003e TO THE INDEX."
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1057489,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "A LOT OF CHOCOLATE LOVERS MUST"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1059024,
+    "dDurationMs": 2802,
+    "segs": [ {
+      "utf8": "BE SAYING GIVE ME A BREAK."
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1061926,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "NESTLES SAYS A TRUCK LOADED WITH"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1064829,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "NEARLY 414,000 KIT KAT BARS WAS"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1067765,
+    "dDurationMs": 1136,
+    "segs": [ {
+      "utf8": "STOLEN THIS WEEK IN EUROPE."
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1069001,
+    "dDurationMs": 1133,
+    "segs": [ {
+      "utf8": "THAT'S 12 TONS OF CANDY."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1070234,
+    "dDurationMs": 2904,
+    "segs": [ {
+      "utf8": "THE BARS MADE IN ITALY WERE"
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1073238,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "SHAPED LIKE RACE CARS AS PART OF"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1075040,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "A TIE-IN WITH FORMULA ONE."
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1077475,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "THE TRUCK DISAPPEARED SOMEWHERE"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1078743,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "ALONG THE 800-MILE ROUTE."
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1080745,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "\u003e\u003e\u003e ON TO MARCH MADNESS NOW."
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1082413,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "A FINAL FOUR IS COMING INTO"
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1085049,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "FOCUS."
+    } ],
+    "wpWinPosId": 37,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1086217,
+    "dDurationMs": 1069,
+    "segs": [ {
+      "utf8": "MICHIGAN EARNED A SPOT AFTER"
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1087386,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "BEATING TENNESSEE 95-62."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1088620,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "THE WOLVERINES JOIN ARIZONA AND"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1090789,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "ILLINOIS."
+    } ],
+    "wpWinPosId": 38,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1091557,
+    "dDurationMs": 933,
+    "segs": [ {
+      "utf8": "THOSE TWO ARE IN THE FINAL FOUR"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1092590,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "FOR THE FIRST TIME IN MORE THAN"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1093759,
+    "dDurationMs": 567,
+    "segs": [ {
+      "utf8": "TWO DECADES."
+    } ],
+    "wpWinPosId": 39,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1094426,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "FOR THE WOMEN, PERENNIAL"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1095594,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "FAVORITE UCONN IS ALSO ON ITS"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1097729,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "WAY AFTER BEATING NOTRE DAME BY"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1099464,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "18 POINTS."
+    } ],
+    "wpWinPosId": 41,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1100865,
+    "dDurationMs": 3103,
+    "segs": [ {
+      "utf8": "ANOTHER TOP SEED, UCLA, OUSTED"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1104069,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "DUKE, 70-58."
+    } ],
+    "wpWinPosId": 39,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1105570,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "\u003e\u003e\u003e WHEN WE COME BACK, AMERICA\nSTRONG."
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1107839,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "SHE WENT FROM JANITOR TO DOCTOR\nAT THE SAME HOSPITAL"
+    } ],
+    "wpWinPosId": 42,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1114112,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "FINALLY, TONIGHT, AMERICA STRONG"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1115814,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "THE STORY OF A WOMAN WHO'S PROOF"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1116915,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "OF WHAT PERSISTENCE CAN BUILD."
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1119884,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "SHAY TAYLOR ALLEN RECENTLY"
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1121386,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "OPENED AN ENVELOPE THAT WOULD"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1122520,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "CHANGE HER LIFE."
+    } ],
+    "wpWinPosId": 43,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1124756,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "\u003e\u003e I GOT IN!"
+    } ],
+    "wpWinPosId": 39,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1126925,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "\u003e\u003e Linsey: THE FOURTH YEAR"
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1128159,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "HOWARD UNIVERSITY MEDICAL"
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1129260,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "STUDENT OFFICIALLY MATCHING WITH"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1131229,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "YALE NEW HAVEN HOSPITAL FOR HER"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1132964,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "RESIDENCY IN ANESTHESIOLOGY."
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1136567,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "A LONG ROAD THAT'S COME FULL"
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1138069,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "CIRCLE FOR THE 32-YEAR-OLD WHO"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1140471,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "IS ABOUT TO HEAD BACK TO THE"
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1141572,
+    "dDurationMs": 1069,
+    "segs": [ {
+      "utf8": "VERY HOSPITAL WHERE SHE ONCE"
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1142741,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "WORKED AS A JANITOR."
+    } ],
+    "wpWinPosId": 44,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1144976,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "THIS TIME AS A DOCTOR."
+    } ],
+    "wpWinPosId": 45,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1146378,
+    "dDurationMs": 3636,
+    "segs": [ {
+      "utf8": "\u003e\u003e I WAS BORN AND RAISED IN NEW\nHAVEN."
+    } ],
+    "wpWinPosId": 42,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1150215,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "JUST MY MOM AND MY TWO BROTHERS."
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1151750,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "SHE WAS A SINGLE MOM OF THREE."
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1154152,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "\u003e\u003e Linsey: DESPITE GRADUATING IN"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1155754,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "THE TOP 10% OF HER HIGH SCHOOL"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1157789,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "CLASS, SHE SAID SHE DIDN'T KNOW"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1159190,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "WHAT WOULD COME NEXT."
+    } ],
+    "wpWinPosId": 46,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1160758,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "\u003e\u003e I STARTED AT YALE HOSPITAL AS"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1162193,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "A JANITOR AT 18 YEARS OLD,"
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1163795,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "WORKING THERE FOR A FEW YEARS"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1165630,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "BEFORE I WENT TO UNDER GRAD AT"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1167632,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "SOUTHERN CONNECTICUT, AND THEN I"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1168866,
+    "dDurationMs": 3437,
+    "segs": [ {
+      "utf8": "WASN'T UNTIL MY SOPHMORE YR,\nWHEN MY MOM BECMAE THAT I"
+    } ],
+    "wpWinPosId": 47,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1172403,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "REALIZED I WANTED TO BECOME A\nDOCTOR"
+    } ],
+    "wpWinPosId": 48,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1174539,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "\u003e\u003e Linsey: SHE DIDN'T KNOW WHAT"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1175474,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "THAT WOULD ENTAIL."
+    } ],
+    "wpWinPosId": 49,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1176542,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "I DID NOT KNOW THE PROCESS SO I\nHAD TO LITERALLY"
+    } ],
+    "wpWinPosId": 50,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1178376,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "\u003e\u003e I HAD TO SIT THERE AND GOO"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1179510,
+    "dDurationMs": 1603,
+    "segs": [ {
+      "utf8": "GOOGLE THE WHOLE PROCESS AND"
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1181213,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "EVERYTHING I HAD TO GO THROUGH"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1182547,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "TO BECOME A DOCTOR."
+    } ],
+    "wpWinPosId": 51,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1186083,
+    "dDurationMs": 1169,
+    "segs": [ {
+      "utf8": "I FELT LIKE I'M IN A DREAM."
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1187352,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "I COULD HAVE NEVER IMAGINED I"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1189621,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "WOULD BE GOING BACK TO THE SAME"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1190755,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "HOSPITAL THAT I WAS NOT ONLY"
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1192156,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "BORN AT BUT A JANITOR AT TO BE A"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1194459,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "DOCTOR FOR MY COMMUNITY."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1196094,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "\u003e\u003e Linsey: TONIGHT, SHAY SHARES"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1197995,
+    "dDurationMs": 1269,
+    "segs": [ {
+      "utf8": "WHAT GOT HER THIS FAR."
+    } ],
+    "wpWinPosId": 45,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1199364,
+    "dDurationMs": 768,
+    "segs": [ {
+      "utf8": "\u003e\u003e KEEP GOING."
+    } ],
+    "wpWinPosId": 52,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1200232,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "YOU HAVE TO TAKE THE LOSSES IN"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1202500,
+    "dDurationMs": 1202,
+    "segs": [ {
+      "utf8": "ORDER TO GET WHERE YOU NEED TO"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1203802,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "GO."
+    } ],
+    "wpWinPosId": 53,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 1204636,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "YOU LITERALLY HAVE TO VISUALIZE"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1207238,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "IT FOR YOURSELF AND KEEP MOVING"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1210141,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "HUGE CONGRATS! THANKS FOR\nWATCHING."
+    } ],
+    "wpWinPosId": 54,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1211743,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "I'M LINSEY DAVIS, GOODNIGHT"
+    } ],
+    "wpWinPosId": 55,
+    "wsWinStyleId": 1
+  } ]
+}
