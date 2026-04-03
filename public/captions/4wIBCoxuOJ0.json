@@ -1,0 +1,547 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 8579,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "In the fall of 1960,\nFrances Oldham Kelsey"
+    } ]
+  }, {
+    "tStartMs": 11538,
+    "dDurationMs": 3541,
+    "segs": [ {
+      "utf8": "was one of the Food \nand Drug Administration’s newest recruits."
+    } ]
+  }, {
+    "tStartMs": 15079,
+    "dDurationMs": 1417,
+    "segs": [ {
+      "utf8": "Before the year was out,"
+    } ]
+  }, {
+    "tStartMs": 16496,
+    "dDurationMs": 2792,
+    "segs": [ {
+      "utf8": "she would begin a fight that would \nsave thousands of lives,"
+    } ]
+  }, {
+    "tStartMs": 19288,
+    "dDurationMs": 2458,
+    "segs": [ {
+      "utf8": "though no one knew it at the time."
+    } ]
+  }, {
+    "tStartMs": 21746,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "Although she was new to the FDA,\nKelsey was no novice as a scientist."
+    } ]
+  }, {
+    "tStartMs": 25829,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "After graduating \nfrom high school at age 15,"
+    } ]
+  }, {
+    "tStartMs": 28663,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "she enrolled \nat McGill University in Montreal"
+    } ]
+  }, {
+    "tStartMs": 31704,
+    "dDurationMs": 4375,
+    "segs": [ {
+      "utf8": "and earned both undergraduate \nand master’s degrees in pharmacology."
+    } ]
+  }, {
+    "tStartMs": 36079,
+    "dDurationMs": 1958,
+    "segs": [ {
+      "utf8": "From there, she applied\nfor a research post"
+    } ]
+  }, {
+    "tStartMs": 38037,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "at the University of Chicago’s\npharmacology department."
+    } ]
+  }, {
+    "tStartMs": 41287,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "Her acceptance letter was addressed \nto Mr. Oldham."
+    } ]
+  }, {
+    "tStartMs": 44912,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Kelsey later joked that had her name \nbeen Elizabeth or Mary Jane,"
+    } ]
+  }, {
+    "tStartMs": 48412,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "her career might have ended there."
+    } ]
+  }, {
+    "tStartMs": 50329,
+    "dDurationMs": 2042,
+    "segs": [ {
+      "utf8": "Fortunately, it didn’t."
+    } ]
+  }, {
+    "tStartMs": 52371,
+    "dDurationMs": 1875,
+    "segs": [ {
+      "utf8": "She earned her doctorate\nin pharmacology"
+    } ]
+  }, {
+    "tStartMs": 54246,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "and accepted Chicago’s invitation \nto stay as faculty,"
+    } ]
+  }, {
+    "tStartMs": 57287,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "where she undertook pioneering\nresearch on drugs and fetal safety."
+    } ]
+  }, {
+    "tStartMs": 60912,
+    "dDurationMs": 5209,
+    "segs": [ {
+      "utf8": "In 1950, she earned an MD, \nher fourth and final degree."
+    } ]
+  }, {
+    "tStartMs": 66121,
+    "dDurationMs": 1708,
+    "segs": [ {
+      "utf8": "By the time she joined the FDA,"
+    } ]
+  }, {
+    "tStartMs": 67829,
+    "dDurationMs": 4917,
+    "segs": [ {
+      "utf8": "Frances Kelsey was one of the most\neducated, experienced scientists around."
+    } ]
+  }, {
+    "tStartMs": 72746,
+    "dDurationMs": 1792,
+    "segs": [ {
+      "utf8": "Yet, as the newest member\nof the team,"
+    } ]
+  }, {
+    "tStartMs": 74538,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "Kelsey was assigned what everyone \nthought would be an easy review:"
+    } ]
+  }, {
+    "tStartMs": 78163,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "an application from the\nUS drug company Merrell"
+    } ]
+  }, {
+    "tStartMs": 81163,
+    "dDurationMs": 2916,
+    "segs": [ {
+      "utf8": "to sell a drug called thalidomide."
+    } ]
+  }, {
+    "tStartMs": 84079,
+    "dDurationMs": 2459,
+    "segs": [ {
+      "utf8": "Thalidomide was a sedative \ndeveloped in Germany"
+    } ]
+  }, {
+    "tStartMs": 86538,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "that was already being widely used \nin dozens of countries"
+    } ]
+  }, {
+    "tStartMs": 89371,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "to treat insomnia and workplace stress."
+    } ]
+  }, {
+    "tStartMs": 92704,
+    "dDurationMs": 2459,
+    "segs": [ {
+      "utf8": "Thalidomide’s anti-nausea properties"
+    } ]
+  }, {
+    "tStartMs": 95163,
+    "dDurationMs": 4041,
+    "segs": [ {
+      "utf8": "also made it a popular remedy for pregnant\nwomen with morning sickness."
+    } ]
+  }, {
+    "tStartMs": 99204,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "Reviewing Merrell’s application,"
+    } ]
+  }, {
+    "tStartMs": 101121,
+    "dDurationMs": 4583,
+    "segs": [ {
+      "utf8": "Kelsey found its data on thalidomide’s\nabsorption and toxicity inadequate."
+    } ]
+  }, {
+    "tStartMs": 105704,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "Today, the FDA classifies drugs based \non their safety for a fetus."
+    } ]
+  }, {
+    "tStartMs": 110163,
+    "dDurationMs": 3583,
+    "segs": [ {
+      "utf8": "But in 1960, many experts believed \nthat the placental barrier"
+    } ]
+  }, {
+    "tStartMs": 113746,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "shielded a fetus from harm."
+    } ]
+  }, {
+    "tStartMs": 115663,
+    "dDurationMs": 1875,
+    "segs": [ {
+      "utf8": "Kelsey's earlier animal-based research"
+    } ]
+  }, {
+    "tStartMs": 117538,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "demonstrated the opposite:"
+    } ]
+  }, {
+    "tStartMs": 119038,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "drugs could pass from mother \nto fetus through the placenta."
+    } ]
+  }, {
+    "tStartMs": 122288,
+    "dDurationMs": 2625,
+    "segs": [ {
+      "utf8": "Like other drug companies at this time,"
+    } ]
+  }, {
+    "tStartMs": 124913,
+    "dDurationMs": 2958,
+    "segs": [ {
+      "utf8": "Merrell had not tested its drug \non pregnant animals."
+    } ]
+  }, {
+    "tStartMs": 127871,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "Kelsey later said Merrell’s evidence \nfor thalidomide’s safety seemed"
+    } ]
+  }, {
+    "tStartMs": 131704,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "“more like testimonials than\nthe results of well-designed studies.”"
+    } ]
+  }, {
+    "tStartMs": 135663,
+    "dDurationMs": 2208,
+    "segs": [ {
+      "utf8": "Kelsey rejected Merrell’s application"
+    } ]
+  }, {
+    "tStartMs": 137871,
+    "dDurationMs": 3583,
+    "segs": [ {
+      "utf8": "and asked them to submit a second \nbacked by better evidence."
+    } ]
+  }, {
+    "tStartMs": 141454,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "Her FDA colleagues \nsupported this decision."
+    } ]
+  }, {
+    "tStartMs": 144288,
+    "dDurationMs": 2791,
+    "segs": [ {
+      "utf8": "Merrell had expected a quick, \naffirmative reply"
+    } ]
+  }, {
+    "tStartMs": 147079,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "so it could launch thalidomide\nfor the holiday season,"
+    } ]
+  }, {
+    "tStartMs": 149996,
+    "dDurationMs": 2042,
+    "segs": [ {
+      "utf8": "when sedative sales soar."
+    } ]
+  }, {
+    "tStartMs": 152038,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "Instead of supplying Kelsey\nwith the data she requested"
+    } ]
+  }, {
+    "tStartMs": 154621,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "they first tried to convince her\nto approve the drug"
+    } ]
+  }, {
+    "tStartMs": 156996,
+    "dDurationMs": 2542,
+    "segs": [ {
+      "utf8": "over a series of calls and visits."
+    } ]
+  }, {
+    "tStartMs": 159538,
+    "dDurationMs": 1625,
+    "segs": [ {
+      "utf8": "When these failed to sway her,"
+    } ]
+  }, {
+    "tStartMs": 161163,
+    "dDurationMs": 1916,
+    "segs": [ {
+      "utf8": "Merrell executives complained"
+    } ]
+  }, {
+    "tStartMs": 163079,
+    "dDurationMs": 3375,
+    "segs": [ {
+      "utf8": "that stubborn and nit-picking \nKelsey was the problem,"
+    } ]
+  }, {
+    "tStartMs": 166454,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "not thalidomide."
+    } ]
+  }, {
+    "tStartMs": 168371,
+    "dDurationMs": 1583,
+    "segs": [ {
+      "utf8": "The FDA backed Kelsey,"
+    } ]
+  }, {
+    "tStartMs": 169954,
+    "dDurationMs": 2084,
+    "segs": [ {
+      "utf8": "forcing Merrell to file \nanother application,"
+    } ]
+  }, {
+    "tStartMs": 172038,
+    "dDurationMs": 916,
+    "segs": [ {
+      "utf8": "and another,"
+    } ]
+  }, {
+    "tStartMs": 172954,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "and another."
+    } ]
+  }, {
+    "tStartMs": 174704,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "As Kelsey reviewed \nand rejected each new application,"
+    } ]
+  }, {
+    "tStartMs": 177871,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "news of thalidomide’s adverse \nside effects began to surface."
+    } ]
+  }, {
+    "tStartMs": 181371,
+    "dDurationMs": 3708,
+    "segs": [ {
+      "utf8": "Doctors reported cases of nerve damage \nin early 1961,"
+    } ]
+  }, {
+    "tStartMs": 185079,
+    "dDurationMs": 3834,
+    "segs": [ {
+      "utf8": "and by fall,\nthey’d unmasked a more horrible truth."
+    } ]
+  }, {
+    "tStartMs": 188913,
+    "dDurationMs": 4041,
+    "segs": [ {
+      "utf8": "Thalidomide, widely used by pregnant\nwomen, caused severe birth defects."
+    } ]
+  }, {
+    "tStartMs": 192954,
+    "dDurationMs": 2292,
+    "segs": [ {
+      "utf8": "Thousands of babies died in utero,"
+    } ]
+  }, {
+    "tStartMs": 195246,
+    "dDurationMs": 3542,
+    "segs": [ {
+      "utf8": "and tens of thousands more \nwere born with extra appendages,"
+    } ]
+  }, {
+    "tStartMs": 198788,
+    "dDurationMs": 1416,
+    "segs": [ {
+      "utf8": "shorter limbs,"
+    } ]
+  }, {
+    "tStartMs": 200204,
+    "dDurationMs": 1542,
+    "segs": [ {
+      "utf8": "or no limbs at all."
+    } ]
+  }, {
+    "tStartMs": 201746,
+    "dDurationMs": 4417,
+    "segs": [ {
+      "utf8": "In November 1961, thalidomide \nwas pulled from the German market."
+    } ]
+  }, {
+    "tStartMs": 206163,
+    "dDurationMs": 3375,
+    "segs": [ {
+      "utf8": "Nonetheless, Merrell continued trying \nto get it approved in the US"
+    } ]
+  }, {
+    "tStartMs": 209538,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "for several months before withdrawing \ntheir sixth and final application."
+    } ]
+  }, {
+    "tStartMs": 213621,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "While Kelsey wasn’t the only scientist \nto identify the risks of thalidomide,"
+    } ]
+  }, {
+    "tStartMs": 217788,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "she sounded the alarm"
+    } ]
+  }, {
+    "tStartMs": 219038,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "that kept it off the multi-billion-dollar \nAmerican drug market."
+    } ]
+  }, {
+    "tStartMs": 222288,
+    "dDurationMs": 3416,
+    "segs": [ {
+      "utf8": "As public awareness \nof the thalidomide tragedy grew,"
+    } ]
+  }, {
+    "tStartMs": 225704,
+    "dDurationMs": 3292,
+    "segs": [ {
+      "utf8": "the quiet scientist \nbecame a media sensation."
+    } ]
+  }, {
+    "tStartMs": 228996,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "Headlines in newspapers \nand magazines heralded her heroism"
+    } ]
+  }, {
+    "tStartMs": 232329,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "while a smiling President John F. Kennedy"
+    } ]
+  }, {
+    "tStartMs": 234704,
+    "dDurationMs": 3209,
+    "segs": [ {
+      "utf8": "presented her an award \non the White House lawn."
+    } ]
+  }, {
+    "tStartMs": 237913,
+    "dDurationMs": 1625,
+    "segs": [ {
+      "utf8": "After the thalidomide scare,"
+    } ]
+  }, {
+    "tStartMs": 239538,
+    "dDurationMs": 3083,
+    "segs": [ {
+      "utf8": "Congress passed laws that expanded \nthe FDA’s authority"
+    } ]
+  }, {
+    "tStartMs": 242621,
+    "dDurationMs": 2792,
+    "segs": [ {
+      "utf8": "and toughened requirements \nfor new drug applications."
+    } ]
+  }, {
+    "tStartMs": 245413,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "Kelsey was tapped to head \nthe agency’s drug investigation branch."
+    } ]
+  }, {
+    "tStartMs": 249079,
+    "dDurationMs": 2875,
+    "segs": [ {
+      "utf8": "Working at the FDA in\ndifferent capacities into her 90s,"
+    } ]
+  }, {
+    "tStartMs": 251954,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "Kelsey was able to witness the changes \nher actions helped inspire."
+    } ]
+  }, {
+    "tStartMs": 256121,
+    "dDurationMs": 3542,
+    "segs": [ {
+      "utf8": "Her visibility may have dimmed since,\nbut her legacy endures."
+    } ]
+  }, {
+    "tStartMs": 259663,
+    "dDurationMs": 4208,
+    "segs": [ {
+      "utf8": "Privileging facts over opinions, \nand patience over shortcuts,"
+    } ]
+  }, {
+    "tStartMs": 263871,
+    "dDurationMs": 3042,
+    "segs": [ {
+      "utf8": "she made evidence-based medicine\nthe foundation of reforms"
+    } ]
+  }, {
+    "tStartMs": 266913,
+    "dDurationMs": 2541,
+    "segs": [ {
+      "utf8": "that continue to protect people today."
+    } ]
+  } ]
+}

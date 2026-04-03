@@ -1,0 +1,517 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 7808,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Whether she’s describing \nbickering families,"
+    } ]
+  }, {
+    "tStartMs": 10588,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "quiet declarations of love,"
+    } ]
+  }, {
+    "tStartMs": 12358,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "or juicy gossip,"
+    } ]
+  }, {
+    "tStartMs": 13988,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "Jane Austen’s writing often feels as \nthough it was written just for you."
+    } ]
+  }, {
+    "tStartMs": 18808,
+    "dDurationMs": 3635,
+    "segs": [ {
+      "utf8": "Her dry wit and cheeky playfulness \ninforms her heroines,"
+    } ]
+  }, {
+    "tStartMs": 22443,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "whose conversational tone welcomes readers\nwith a conspiratorial wink."
+    } ]
+  }, {
+    "tStartMs": 27523,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "It’s even been said that some readers \nfeel like the author’s secret confidante,"
+    } ]
+  }, {
+    "tStartMs": 31943,
+    "dDurationMs": 4438,
+    "segs": [ {
+      "utf8": "trading letters with their delightfully \nwicked friend Jane."
+    } ]
+  }, {
+    "tStartMs": 36381,
+    "dDurationMs": 2411,
+    "segs": [ {
+      "utf8": "But this unique brand of \ntongue-in-cheek humor"
+    } ]
+  }, {
+    "tStartMs": 38802,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "is just one of the many feats found \nin her sly satires"
+    } ]
+  }, {
+    "tStartMs": 42362,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "of society, civility, \nand sweeping romance."
+    } ]
+  }, {
+    "tStartMs": 46642,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Written in the early nineteenth century,"
+    } ]
+  }, {
+    "tStartMs": 48852,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Austen's novels decode \nthe sheltered lives"
+    } ]
+  }, {
+    "tStartMs": 51282,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "of the upper classes in rural England."
+    } ]
+  }, {
+    "tStartMs": 54082,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "From resentment couched in pleasantries"
+    } ]
+  }, {
+    "tStartMs": 56732,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "to arguing that masks attraction,"
+    } ]
+  }, {
+    "tStartMs": 59202,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "her work explores the bewildering \ncollision of emotions and etiquette."
+    } ]
+  }, {
+    "tStartMs": 63906,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "But while romance is a common \nthread in her work,"
+    } ]
+  }, {
+    "tStartMs": 66456,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Austen dismissed the sentimental style \nof writing so popular at the time."
+    } ]
+  }, {
+    "tStartMs": 70836,
+    "dDurationMs": 2114,
+    "segs": [ {
+      "utf8": "Instead of lofty love stories,"
+    } ]
+  }, {
+    "tStartMs": 72950,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "her characters act naturally, \nand often awkwardly."
+    } ]
+  }, {
+    "tStartMs": 77040,
+    "dDurationMs": 2473,
+    "segs": [ {
+      "utf8": "They trade pragmatic advice, \nfriendly jokes"
+    } ]
+  }, {
+    "tStartMs": 79513,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and not-so-friendly barbs \nabout their arrogant peers."
+    } ]
+  }, {
+    "tStartMs": 83633,
+    "dDurationMs": 3162,
+    "segs": [ {
+      "utf8": "As they grapple with the endless rules \nof their society,"
+    } ]
+  }, {
+    "tStartMs": 86795,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Austen’s characters can usually find humor"
+    } ]
+  }, {
+    "tStartMs": 89055,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "in all the hypocrisy, propriety, \nand small talk."
+    } ]
+  }, {
+    "tStartMs": 92865,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "As Mr. Bennet jokes \nto his favorite daughter,"
+    } ]
+  }, {
+    "tStartMs": 95945,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "“For what do we live, \nbut to make sport for our neighbors"
+    } ]
+  }, {
+    "tStartMs": 98685,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and laugh at them in our turn?”"
+    } ]
+  }, {
+    "tStartMs": 101285,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And though her heroines might ridicule \nsenseless social mores,"
+    } ]
+  }, {
+    "tStartMs": 104805,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Austen fully understood the practical \nimportance of maintaining appearances."
+    } ]
+  }, {
+    "tStartMs": 109485,
+    "dDurationMs": 1404,
+    "segs": [ {
+      "utf8": "At the time she was writing,"
+    } ]
+  }, {
+    "tStartMs": 110889,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "a wealthy marriage was a financial \nnecessity for most young women,"
+    } ]
+  }, {
+    "tStartMs": 114529,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "and she often explores the tension between\nthe mythical quest for love,"
+    } ]
+  }, {
+    "tStartMs": 118489,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "and the economic benefits \nof making a match."
+    } ]
+  }, {
+    "tStartMs": 122079,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The savvy socialite Mary Crawford sums \nthis up in \"Mansfield Park;\""
+    } ]
+  }, {
+    "tStartMs": 127079,
+    "dDurationMs": 2812,
+    "segs": [ {
+      "utf8": "“I would have everybody marry \nif they can do it properly:"
+    } ]
+  }, {
+    "tStartMs": 129891,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "I do not like to have people \nthrow themselves away.”"
+    } ]
+  }, {
+    "tStartMs": 133501,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Unsurprisingly, these themes were also \npresent in Austen’s personal life."
+    } ]
+  }, {
+    "tStartMs": 138661,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "Born in 1775,"
+    } ]
+  }, {
+    "tStartMs": 140829,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "she lived in the social circles \nfound in her novels."
+    } ]
+  }, {
+    "tStartMs": 144179,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Jane's parents supported her education,"
+    } ]
+  }, {
+    "tStartMs": 146459,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "and provided space for her to write \nand publish her work anonymously."
+    } ]
+  }, {
+    "tStartMs": 150279,
+    "dDurationMs": 3023,
+    "segs": [ {
+      "utf8": "But writing was hardly lucrative work."
+    } ]
+  }, {
+    "tStartMs": 153302,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And although she had sparks of chemistry,"
+    } ]
+  }, {
+    "tStartMs": 155542,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "she never married."
+    } ]
+  }, {
+    "tStartMs": 157052,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "Elements of her circumstances can be found\nin many of her characters;"
+    } ]
+  }, {
+    "tStartMs": 160912,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "often intelligent women with witty, \npragmatic personalities,"
+    } ]
+  }, {
+    "tStartMs": 165222,
+    "dDurationMs": 2308,
+    "segs": [ {
+      "utf8": "and rich inner lives."
+    } ]
+  }, {
+    "tStartMs": 167530,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "These headstrong heroines provide \nan entertaining anchor"
+    } ]
+  }, {
+    "tStartMs": 170880,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "for their tumultuous romantic narratives."
+    } ]
+  }, {
+    "tStartMs": 173450,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Like the irreverent Elizabeth Bennet \nof \"Pride and Prejudice,\""
+    } ]
+  }, {
+    "tStartMs": 177260,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "whose devotion to her sisters’ love lives \nblinds her to a clumsy suitor."
+    } ]
+  }, {
+    "tStartMs": 182400,
+    "dDurationMs": 3092,
+    "segs": [ {
+      "utf8": "Or the iron-willed Anne Elliot \nof \"Persuasion,\""
+    } ]
+  }, {
+    "tStartMs": 185492,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "who chooses to remain unmarried \nafter the disappearance of her first love."
+    } ]
+  }, {
+    "tStartMs": 190352,
+    "dDurationMs": 1307,
+    "segs": [ {
+      "utf8": "And Elinor Dashwood,"
+    } ]
+  }, {
+    "tStartMs": 191659,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "who fiercely protects her family \nat the cost of her own desires"
+    } ]
+  }, {
+    "tStartMs": 195089,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "in \"Sense and Sensibility.\""
+    } ]
+  }, {
+    "tStartMs": 197719,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "These women all encounter \ndifficult choices"
+    } ]
+  }, {
+    "tStartMs": 199919,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "about romantic, filial, and \nfinancial stability,"
+    } ]
+  }, {
+    "tStartMs": 203449,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "and they resolve them without \nsacrificing their values–"
+    } ]
+  }, {
+    "tStartMs": 206411,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "or their sense of humor."
+    } ]
+  }, {
+    "tStartMs": 208601,
+    "dDurationMs": 3798,
+    "segs": [ {
+      "utf8": "Of course, these characters \nare far from perfect."
+    } ]
+  }, {
+    "tStartMs": 212399,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "They often think they have \nall the answers."
+    } ]
+  }, {
+    "tStartMs": 214799,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "And by telling the story \nfrom their perspective,"
+    } ]
+  }, {
+    "tStartMs": 217099,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Austen tricks the viewer into believing \ntheir heroine knows best–"
+    } ]
+  }, {
+    "tStartMs": 221539,
+    "dDurationMs": 4538,
+    "segs": [ {
+      "utf8": "only to pull the rug out from under \nthe protagonist and the reader."
+    } ]
+  }, {
+    "tStartMs": 226077,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "In \"Emma,\" the titular character feels \nsurrounded by dull neighbors,"
+    } ]
+  }, {
+    "tStartMs": 229781,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and friends who can’t hope \nto match her wit."
+    } ]
+  }, {
+    "tStartMs": 233141,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "As her guests prattle on and \non about nothing,"
+    } ]
+  }, {
+    "tStartMs": 235691,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "the reader begins to agree–"
+    } ]
+  }, {
+    "tStartMs": 237371,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Emma is the only exciting character \nin this quiet neighborhood."
+    } ]
+  }, {
+    "tStartMs": 241561,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Yet despite her swelling ego,"
+    } ]
+  }, {
+    "tStartMs": 243951,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "Emma may not be as in control \nas she thinks – in life or love."
+    } ]
+  }, {
+    "tStartMs": 249691,
+    "dDurationMs": 2057,
+    "segs": [ {
+      "utf8": "And Austen’s intimate use of perspective"
+    } ]
+  }, {
+    "tStartMs": 251748,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "makes these revelations doubly surprising,"
+    } ]
+  }, {
+    "tStartMs": 254528,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "blindsiding both Emma and her audience."
+    } ]
+  }, {
+    "tStartMs": 258428,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "But rather than diminishing \nher host of heroines,"
+    } ]
+  }, {
+    "tStartMs": 261358,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "these flaws only confirm “the \ninconsistency of all human characters.”"
+    } ]
+  }, {
+    "tStartMs": 266588,
+    "dDurationMs": 3998,
+    "segs": [ {
+      "utf8": "Their complexity has kept Austen \nprominent on stage and screen,"
+    } ]
+  }, {
+    "tStartMs": 270586,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "and made her work easily adaptable \nfor modern sensibilities."
+    } ]
+  }, {
+    "tStartMs": 274446,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "So hopefully,"
+    } ]
+  }, {
+    "tStartMs": 275466,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "new readers will continue \nto find a friend in Ms. Austen"
+    } ]
+  }, {
+    "tStartMs": 278446,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "for many years to come."
+    } ]
+  } ]
+}

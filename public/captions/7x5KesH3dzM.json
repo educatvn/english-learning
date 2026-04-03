@@ -1,0 +1,493 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 7761,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "In the German town of Nördlingen in 1593,"
+    } ]
+  }, {
+    "tStartMs": 12681,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "an innkeeper named Maria Höll found \nherself accused of witchcraft."
+    } ]
+  }, {
+    "tStartMs": 17861,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "She was arrested for questioning, \nand denied the charges."
+    } ]
+  }, {
+    "tStartMs": 21721,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "She continued to insist she wasn’t a witch\nthrough 62 rounds of torture"
+    } ]
+  }, {
+    "tStartMs": 26871,
+    "dDurationMs": 3828,
+    "segs": [ {
+      "utf8": "before her accusers finally released her."
+    } ]
+  }, {
+    "tStartMs": 30699,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "Rebekka Lemp, accused a few years earlier\nin the same town, faced a worse fate."
+    } ]
+  }, {
+    "tStartMs": 36129,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "She wrote to her husband from jail"
+    } ]
+  }, {
+    "tStartMs": 38259,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "worrying that she would \nconfess under torture,"
+    } ]
+  }, {
+    "tStartMs": 40949,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "even though she was innocent."
+    } ]
+  }, {
+    "tStartMs": 42999,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "After giving a false confession,"
+    } ]
+  }, {
+    "tStartMs": 45099,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "she was burned at the stake \nin front of her family."
+    } ]
+  }, {
+    "tStartMs": 49169,
+    "dDurationMs": 3287,
+    "segs": [ {
+      "utf8": "Höll and Lemp were both victims of the \nwitch hunts"
+    } ]
+  }, {
+    "tStartMs": 52456,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "that occurred in Europe and the American \ncolonies"
+    } ]
+  }, {
+    "tStartMs": 54836,
+    "dDurationMs": 4024,
+    "segs": [ {
+      "utf8": "from the late 15th century \nuntil the early 18th century."
+    } ]
+  }, {
+    "tStartMs": 58860,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "These witch hunts were not a unified \ninitiative by a single authority,"
+    } ]
+  }, {
+    "tStartMs": 63310,
+    "dDurationMs": 2807,
+    "segs": [ {
+      "utf8": "but rather a phenomenon that occurred \nsporadically"
+    } ]
+  }, {
+    "tStartMs": 66117,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "and followed a similar pattern each time."
+    } ]
+  }, {
+    "tStartMs": 69007,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "The term “witch” has taken \non many meanings,"
+    } ]
+  }, {
+    "tStartMs": 72507,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "but in these hunts, a witch was someone \nwho allegedly gained magical powers"
+    } ]
+  }, {
+    "tStartMs": 77217,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "by obeying Satan rather than God."
+    } ]
+  }, {
+    "tStartMs": 80597,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "This definition of witchcraft spread \nthrough churches in Western Europe"
+    } ]
+  }, {
+    "tStartMs": 84707,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "starting at the end of the 15th century."
+    } ]
+  }, {
+    "tStartMs": 87547,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "It really gained traction after the pope \ngave a friar and professor of theology"
+    } ]
+  }, {
+    "tStartMs": 92677,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "named Heinrich Kraemer"
+    } ]
+  }, {
+    "tStartMs": 94447,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "permission to conduct inquisitions in \nsearch of witches in 1485."
+    } ]
+  }, {
+    "tStartMs": 99657,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "His first, in the town of Innsbruck,"
+    } ]
+  }, {
+    "tStartMs": 102097,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "didn’t gain much traction with the local\nauthorities,"
+    } ]
+  }, {
+    "tStartMs": 104867,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "who disapproved of his harsh questioning\nof respectable citizens"
+    } ]
+  }, {
+    "tStartMs": 108597,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and shut down his trials."
+    } ]
+  }, {
+    "tStartMs": 110917,
+    "dDurationMs": 7310,
+    "segs": [ {
+      "utf8": "Undeterred, he wrote a book called the \n\"Malleus Maleficarum,\" or \"Hammer of Witches.\""
+    } ]
+  }, {
+    "tStartMs": 118227,
+    "dDurationMs": 2786,
+    "segs": [ {
+      "utf8": "The text argued for the existence of \nwitches"
+    } ]
+  }, {
+    "tStartMs": 121013,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and suggested ruthless tactics for hunting\nand prosecuting them."
+    } ]
+  }, {
+    "tStartMs": 125133,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "He singled out women as easier targets for\nthe devil’s influence,"
+    } ]
+  }, {
+    "tStartMs": 129133,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "though men could also be witches."
+    } ]
+  }, {
+    "tStartMs": 131913,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Kraemer’s book spurred others to write \ntheir own books"
+    } ]
+  }, {
+    "tStartMs": 135453,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "and give sermons on the \ndangers of witchcraft."
+    } ]
+  }, {
+    "tStartMs": 138503,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "According to these texts,"
+    } ]
+  }, {
+    "tStartMs": 140133,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "witches practiced rituals including \nkissing the Devil’s anus"
+    } ]
+  }, {
+    "tStartMs": 144473,
+    "dDurationMs": 5208,
+    "segs": [ {
+      "utf8": "and poisoning or bewitching targets the \ndevil singled out for harm."
+    } ]
+  }, {
+    "tStartMs": 149681,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Though there was no evidence to support\nany of these claims,"
+    } ]
+  }, {
+    "tStartMs": 152801,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "belief in witches became widespread."
+    } ]
+  }, {
+    "tStartMs": 156241,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "A witch hunt often began \nwith a misfortune:"
+    } ]
+  }, {
+    "tStartMs": 159111,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "a failed harvest, a sick cow, \nor a stillborn child."
+    } ]
+  }, {
+    "tStartMs": 164681,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "Community members blamed witchcraft, \nand accused each other of being witches."
+    } ]
+  }, {
+    "tStartMs": 169631,
+    "dDurationMs": 3486,
+    "segs": [ {
+      "utf8": "Many of the accused were people on \nthe fringes of society:"
+    } ]
+  }, {
+    "tStartMs": 173117,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "the elderly, the poor, or social outcasts,"
+    } ]
+  }, {
+    "tStartMs": 177317,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "but any member of the community\ncould be targeted,"
+    } ]
+  }, {
+    "tStartMs": 180147,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "even occasionally children."
+    } ]
+  }, {
+    "tStartMs": 182317,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "While religious authorities encouraged \nwitch hunts,"
+    } ]
+  }, {
+    "tStartMs": 184837,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "local secular governments usually carried \nout the detainment"
+    } ]
+  }, {
+    "tStartMs": 187917,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and punishment of accused witches."
+    } ]
+  }, {
+    "tStartMs": 190517,
+    "dDurationMs": 3884,
+    "segs": [ {
+      "utf8": "Those suspected of witchcraft were \nquestioned and often tortured—"
+    } ]
+  }, {
+    "tStartMs": 194401,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and under torture, thousands of innocent \npeople confessed to witchcraft"
+    } ]
+  }, {
+    "tStartMs": 199001,
+    "dDurationMs": 2611,
+    "segs": [ {
+      "utf8": "and implicated others in turn."
+    } ]
+  }, {
+    "tStartMs": 201612,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "Because these witch hunts occurred \nsporadically over centuries and continents"
+    } ]
+  }, {
+    "tStartMs": 206342,
+    "dDurationMs": 2704,
+    "segs": [ {
+      "utf8": "the specifics varied considerably."
+    } ]
+  }, {
+    "tStartMs": 209046,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Punishments for convicted witches ranged \nfrom small fines to burning at the stake."
+    } ]
+  }, {
+    "tStartMs": 215006,
+    "dDurationMs": 4783,
+    "segs": [ {
+      "utf8": "The hunt in which Höll and Lemp were \naccused dragged on for nine years,"
+    } ]
+  }, {
+    "tStartMs": 219789,
+    "dDurationMs": 2259,
+    "segs": [ {
+      "utf8": "while others lasted just months."
+    } ]
+  }, {
+    "tStartMs": 222048,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "They could have anywhere from a few to a \nfew hundred victims."
+    } ]
+  }, {
+    "tStartMs": 226094,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "The motivations of the witch hunters \nprobably varied as well,"
+    } ]
+  }, {
+    "tStartMs": 229694,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "but it seems likely that many weren’t \nconsciously looking for scapegoats—"
+    } ]
+  }, {
+    "tStartMs": 233919,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "instead, they sincerely believed \nin witchcraft,"
+    } ]
+  }, {
+    "tStartMs": 237239,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "and thought they were doing good by \nrooting it out in their communities."
+    } ]
+  }, {
+    "tStartMs": 241649,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Institutions of power enabled real harm to\nbe done on the basis of these beliefs."
+    } ]
+  }, {
+    "tStartMs": 248009,
+    "dDurationMs": 2157,
+    "segs": [ {
+      "utf8": "But there were dissenters all along–"
+    } ]
+  }, {
+    "tStartMs": 250166,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "jurists, scholars, and physicians \ncountered books"
+    } ]
+  }, {
+    "tStartMs": 254536,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "like Kraemer’s \"Hammer of Witches\""
+    } ]
+  }, {
+    "tStartMs": 256546,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "with texts objecting to the \ncruelty of the hunts,"
+    } ]
+  }, {
+    "tStartMs": 259376,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the use of forced confessions, \nand the lack of evidence of witchcraft."
+    } ]
+  }, {
+    "tStartMs": 264016,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "From the late 17th through the mid-18th \ncentury,"
+    } ]
+  }, {
+    "tStartMs": 267376,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "their arguments gained force with the rise\nof stronger central governments"
+    } ]
+  }, {
+    "tStartMs": 271826,
+    "dDurationMs": 2994,
+    "segs": [ {
+      "utf8": "and legal norms like due process."
+    } ]
+  }, {
+    "tStartMs": 274820,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "Witch hunting slowly declined until it \ndisappeared altogether."
+    } ]
+  }, {
+    "tStartMs": 279880,
+    "dDurationMs": 4344,
+    "segs": [ {
+      "utf8": "Both the onset and demise of these \natrocities came gradually,"
+    } ]
+  }, {
+    "tStartMs": 284224,
+    "dDurationMs": 3144,
+    "segs": [ {
+      "utf8": "out of seemingly ordinary circumstances."
+    } ]
+  }, {
+    "tStartMs": 287368,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "The potential for similar situations,"
+    } ]
+  }, {
+    "tStartMs": 290008,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "in which authorities use their powers to\nmobilize society against a false threat,"
+    } ]
+  }, {
+    "tStartMs": 295798,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "still exists today—"
+    } ]
+  }, {
+    "tStartMs": 297838,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "but so does the capacity of reasoned \ndissent to combat those false beliefs."
+    } ]
+  } ]
+}

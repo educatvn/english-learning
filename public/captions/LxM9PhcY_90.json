@@ -1,0 +1,463 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 6878,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "In the spring of 1944, Tokyo residents\nexperienced numerous aerial attacks"
+    } ]
+  }, {
+    "tStartMs": 12508,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "from Allied bombers."
+    } ]
+  }, {
+    "tStartMs": 14427,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Air raid sirens warned citizens \nto get indoors"
+    } ]
+  }, {
+    "tStartMs": 17430,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "and preceded strategic blackouts\nacross the city."
+    } ]
+  }, {
+    "tStartMs": 21392,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "But 28-year old Hisako Koyama \nsaw these blackouts as opportunities."
+    } ]
+  }, {
+    "tStartMs": 26522,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "Dragging a futon over her head \nfor protection,"
+    } ]
+  }, {
+    "tStartMs": 29817,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "Koyama would gaze at the night sky,"
+    } ]
+  }, {
+    "tStartMs": 32195,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "tracking all sorts \nof astronomical phenomena."
+    } ]
+  }, {
+    "tStartMs": 35740,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "However, her latest endeavor required \nthe light of day."
+    } ]
+  }, {
+    "tStartMs": 39786,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "By angling her telescope towards the sun,"
+    } ]
+  }, {
+    "tStartMs": 42872,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "Koyama could project the star's\nlight onto a sheet of paper,"
+    } ]
+  }, {
+    "tStartMs": 46959,
+    "dDurationMs": 3546,
+    "segs": [ {
+      "utf8": "allowing her to sketch \nthe sun’s shifting surface."
+    } ]
+  }, {
+    "tStartMs": 50505,
+    "dDurationMs": 5797,
+    "segs": [ {
+      "utf8": "She spent weeks recreating this set up,\ntracking every change she saw."
+    } ]
+  }, {
+    "tStartMs": 56302,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "But while Koyama didn't know it,"
+    } ]
+  }, {
+    "tStartMs": 58262,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "these drawings were the start \nof one of the most important records"
+    } ]
+  }, {
+    "tStartMs": 61974,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "of solar activity in human history."
+    } ]
+  }, {
+    "tStartMs": 65353,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "To understand exactly what Koyama\nsaw on the sun’s surface,"
+    } ]
+  }, {
+    "tStartMs": 69482,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "we first need to understand \nwhat’s happening inside the star."
+    } ]
+  }, {
+    "tStartMs": 73361,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "Every second, \ntrillions of hydrogen atoms"
+    } ]
+  }, {
+    "tStartMs": 76489,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "fuse into helium atoms\nin a process called nuclear fusion."
+    } ]
+  }, {
+    "tStartMs": 81661,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "This ongoing explosion maintains \nthe sun’s internal temperature"
+    } ]
+  }, {
+    "tStartMs": 86207,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "of roughly 15 million degrees Celsius,"
+    } ]
+  }, {
+    "tStartMs": 89335,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "which is more than enough energy \nto transform gas"
+    } ]
+  }, {
+    "tStartMs": 92713,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "into churning pools of plasma."
+    } ]
+  }, {
+    "tStartMs": 96217,
+    "dDurationMs": 5505,
+    "segs": [ {
+      "utf8": "Plasma consists of charged particles \nthat produce powerful magnetic fields."
+    } ]
+  }, {
+    "tStartMs": 101889,
+    "dDurationMs": 5214,
+    "segs": [ {
+      "utf8": "But unlike the stable charged particles \nthat maintain magnetic activity on Earth,"
+    } ]
+  }, {
+    "tStartMs": 107103,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "this plasma is constantly in flux,"
+    } ]
+  }, {
+    "tStartMs": 110189,
+    "dDurationMs": 4213,
+    "segs": [ {
+      "utf8": "alternately disrupting and amplifying\nthe sun's magnetic field."
+    } ]
+  }, {
+    "tStartMs": 114944,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "This ongoing movement can produce"
+    } ]
+  }, {
+    "tStartMs": 117029,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "temporary concentrations \nof magnetic activity"
+    } ]
+  }, {
+    "tStartMs": 120074,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "which inhibit the movement of molecules \nand in turn reduce heat in that area."
+    } ]
+  }, {
+    "tStartMs": 125413,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "And since regions with less heat \ngenerate less light,"
+    } ]
+  }, {
+    "tStartMs": 128833,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "places with the strongest magnetic fields\nappear as dark spots"
+    } ]
+  }, {
+    "tStartMs": 133129,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "scattered across the sun’s surface."
+    } ]
+  }, {
+    "tStartMs": 135715,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "These so-called sunspots \nare always moving,"
+    } ]
+  }, {
+    "tStartMs": 139093,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "both as a result of plasma \nswirling within the sphere,"
+    } ]
+  }, {
+    "tStartMs": 142513,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "and the sun’s rotation."
+    } ]
+  }, {
+    "tStartMs": 145016,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "And because they’re often \nclustered together,"
+    } ]
+  }, {
+    "tStartMs": 147518,
+    "dDurationMs": 4588,
+    "segs": [ {
+      "utf8": "accurately counting sunspots and tracking \ntheir movement can be a challenge,"
+    } ]
+  }, {
+    "tStartMs": 152106,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "depending greatly on the perception \nand judgment of the viewer."
+    } ]
+  }, {
+    "tStartMs": 156152,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "This is precisely where Koyama’s \ncontributions would be so valuable."
+    } ]
+  }, {
+    "tStartMs": 160531,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "Despite having no\nformal training in astronomy,"
+    } ]
+  }, {
+    "tStartMs": 163659,
+    "dDurationMs": 3546,
+    "segs": [ {
+      "utf8": "her observations and sketches\nwere remarkably accurate."
+    } ]
+  }, {
+    "tStartMs": 167371,
+    "dDurationMs": 4213,
+    "segs": [ {
+      "utf8": "After sending her work \nto the Oriental Astronomical Association,"
+    } ]
+  }, {
+    "tStartMs": 171584,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "she received a letter of commendation for\nher dedicated and detailed observations."
+    } ]
+  }, {
+    "tStartMs": 176964,
+    "dDurationMs": 4213,
+    "segs": [ {
+      "utf8": "With their support, she began to visit \nthe Tokyo Museum of Science,"
+    } ]
+  }, {
+    "tStartMs": 181177,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "where she could use a far superior\ntelescope to continue her work."
+    } ]
+  }, {
+    "tStartMs": 185640,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "Koyama soon joined the museum's staff\nas a professional observer,"
+    } ]
+  }, {
+    "tStartMs": 190436,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "and over the next 40 years, \nshe worked on a daily basis,"
+    } ]
+  }, {
+    "tStartMs": 193940,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "producing over 10,000 drawings\nof the sun’s surface."
+    } ]
+  }, {
+    "tStartMs": 198236,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "Researchers already knew magnetic currents\nin the sun followed an 11 year cycle"
+    } ]
+  }, {
+    "tStartMs": 203741,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "that moved sunspots in a butterfly shaped \npath over the star’s surface."
+    } ]
+  }, {
+    "tStartMs": 208746,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "But using Koyama’s record,"
+    } ]
+  }, {
+    "tStartMs": 210665,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "they could precisely follow \nspecific sunspots and clusters"
+    } ]
+  }, {
+    "tStartMs": 214794,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "through that journey."
+    } ]
+  }, {
+    "tStartMs": 216128,
+    "dDurationMs": 5381,
+    "segs": [ {
+      "utf8": "This kind of detail offered a real-time\nindication of the sun’s magnetic activity,"
+    } ]
+  }, {
+    "tStartMs": 221509,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "allowing scientists to track \nall kinds of solar phenomena,"
+    } ]
+  }, {
+    "tStartMs": 225096,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "including volatile solar flares."
+    } ]
+  }, {
+    "tStartMs": 228516,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "These flares typically emanate\nfrom the vicinity of sunspots,"
+    } ]
+  }, {
+    "tStartMs": 232645,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "and can travel all the way \nto Earth’s atmosphere."
+    } ]
+  }, {
+    "tStartMs": 236065,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "Here, they can create geomagnetic storms"
+    } ]
+  }, {
+    "tStartMs": 238818,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "capable of disrupting long range \ncommunication and causing blackouts."
+    } ]
+  }, {
+    "tStartMs": 243322,
+    "dDurationMs": 5255,
+    "segs": [ {
+      "utf8": "Solar flares also pose a major risk \nto satellites and manned space stations,"
+    } ]
+  }, {
+    "tStartMs": 248744,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "making them essential to predict \nand plan for."
+    } ]
+  }, {
+    "tStartMs": 251831,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "During an interview in 1964,"
+    } ]
+  }, {
+    "tStartMs": 254458,
+    "dDurationMs": 4672,
+    "segs": [ {
+      "utf8": "Koyama lamented that her 17 years \nof observation had barely been enough"
+    } ]
+  }, {
+    "tStartMs": 259130,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "to produce a single butterfly record\nof the solar cycle."
+    } ]
+  }, {
+    "tStartMs": 263050,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "But by the end of her career, \nshe’d drawn three and a half cycles—"
+    } ]
+  }, {
+    "tStartMs": 267471,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "one of the longest records ever made."
+    } ]
+  }, {
+    "tStartMs": 270016,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "Better still, the quality of her\ndrawings was so consistent,"
+    } ]
+  }, {
+    "tStartMs": 274103,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "researchers used them as a baseline \nto reconstruct the past 400 years"
+    } ]
+  }, {
+    "tStartMs": 279066,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "of sunspot activity\nfrom various historical sources."
+    } ]
+  }, {
+    "tStartMs": 282737,
+    "dDurationMs": 4462,
+    "segs": [ {
+      "utf8": "This project extends Koyama’s legacy\nfar beyond her own lifetime,"
+    } ]
+  }, {
+    "tStartMs": 287199,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "and proves that science is not built\nsolely on astounding discoveries,"
+    } ]
+  }, {
+    "tStartMs": 291620,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "but also on careful observation\nof the world around us."
+    } ]
+  } ]
+}
