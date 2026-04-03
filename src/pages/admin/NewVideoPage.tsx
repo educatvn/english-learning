@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Loader2, Video, CheckCircle2, AlertCircle, ChevronRight, Play, Plus, Check, ListVideo, RefreshCw } from 'lucide-react';
 import { extractVideoId } from '@/services/youtubeSubtitles';
@@ -28,6 +28,10 @@ export default function NewVideoPage() {
   const [error, setError] = useState<string | null>(null);
   const [meta, setMeta] = useState<VideoMeta | null>(null);
   const [savedVideoId, setSavedVideoId] = useState<string | null>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // Auto-focus input on mount
+  useEffect(() => { inputRef.current?.focus(); }, []);
 
   // Playlist state — loaded when preview opens
   const [playlists, setPlaylists] = useState<Playlist[]>([]);
@@ -52,8 +56,17 @@ export default function NewVideoPage() {
     setStep('fetching-info');
 
     try {
-      const res = await fetch(`/youtube-proxy/oembed?url=${encodeURIComponent(`https://www.youtube.com/watch?v=${videoId}`)}&format=json`);
+      const [res, existingVideos, pls] = await Promise.all([
+        fetch(`/youtube-proxy/oembed?url=${encodeURIComponent(`https://www.youtube.com/watch?v=${videoId}`)}&format=json`),
+        loadVideos(),
+        loadPlaylists(''),
+      ]);
       if (!res.ok) throw new Error('Không fetch được thông tin video');
+
+      if (existingVideos.some(v => v.videoId === videoId)) {
+        throw new Error(`Video này đã tồn tại trong thư viện.`);
+      }
+
       const oembed = (await res.json()) as { title?: string; author_name?: string };
 
       setMeta({
@@ -63,10 +76,10 @@ export default function NewVideoPage() {
         thumbnailUrl: `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`,
         addedAt: new Date().toISOString(),
       });
-      // Load playlists for the selector (system playlists only — use empty userId)
-      const pls = await loadPlaylists('');
-      setPlaylists(pls);
-      setSelectedPlaylistIds(new Set());
+      // Sort newest-first by createdAt, auto-select the newest one
+      const sorted = [...pls].sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+      setPlaylists(sorted);
+      setSelectedPlaylistIds(sorted.length > 0 ? new Set([sorted[0].id]) : new Set());
       setCreatingPlaylist(false);
       setNewPlaylistName('');
       setStep('preview');
@@ -89,7 +102,7 @@ export default function NewVideoPage() {
       isPublic: true,
     };
     // Optimistic UI then async save
-    setPlaylists(prev => [...prev, playlist]);
+    setPlaylists(prev => [playlist, ...prev]);
     setSelectedPlaylistIds(prev => new Set([...prev, playlist.id]));
     setNewPlaylistName('');
     setCreatingPlaylist(false);
@@ -113,7 +126,7 @@ export default function NewVideoPage() {
     const base = import.meta.env.BASE_URL;
     try {
       // 1. Fetch + validate captions first (required)
-      const captionPaths = [`${base}videos/${meta.videoId}/captions.json`, `${base}captions/${meta.videoId}.json`];
+      const captionPaths = [`${base}captions/${meta.videoId}.json`];
       let captions: unknown = null;
       for (const path of captionPaths) {
         try {
@@ -126,7 +139,7 @@ export default function NewVideoPage() {
           /* try next */
         }
       }
-      if (!captions) throw new Error('Không tìm thấy caption cho video này. Vui lòng thêm file captions.json trước.');
+      if (!captions) throw new Error(`Không tìm thấy caption cho video này. Vui lòng thêm file public/captions/${meta.videoId}.json trước.`);
       const { cues } = parseJSON3(captions);
       if (cues.length === 0) throw new Error('File captions.json rỗng hoặc không hợp lệ.');
 
@@ -158,6 +171,7 @@ export default function NewVideoPage() {
     setSelectedPlaylistIds(new Set());
     setNewPlaylistName('');
     setCreatingPlaylist(false);
+    setTimeout(() => inputRef.current?.focus(), 0);
   }
 
   const isSaving = step === 'saving';
@@ -188,6 +202,7 @@ export default function NewVideoPage() {
           </div>
           <div className="flex gap-2">
             <input
+              ref={inputRef}
               type="text"
               placeholder="S7mfygW40Cs  hoặc  https://www.youtube.com/watch?v=..."
               value={input}
@@ -236,8 +251,6 @@ export default function NewVideoPage() {
                 <p className="text-xs text-muted-foreground font-mono mt-1">{meta.videoId}</p>
               </div>
             </div>
-
-            <div className="border-t border-border" />
 
             <div className="border-t border-border" />
 
@@ -404,10 +417,6 @@ function ReindexSection() {
   const [progress, setProgress] = useState({ done: 0, total: 0 });
   const base = import.meta.env.BASE_URL;
 
-  useEffect(() => {
-    loadUnindexed();
-  }, []);
-
   async function loadUnindexed() {
     setLoading(true);
     try {
@@ -420,8 +429,12 @@ function ReindexSection() {
     setLoading(false);
   }
 
+  // Run once on mount — loadUnindexed is stable (defined in component scope)
+  // eslint-disable-next-line react-hooks/set-state-in-effect
+  useEffect(() => { void loadUnindexed(); }, []);
+
   async function indexOne(video: VideoMeta): Promise<boolean> {
-    const paths = [`${base}videos/${video.videoId}/captions.json`, `${base}captions/${video.videoId}.json`];
+    const paths = [`${base}captions/${video.videoId}.json`];
     for (const path of paths) {
       try {
         const res = await fetch(path);

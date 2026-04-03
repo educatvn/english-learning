@@ -36,10 +36,7 @@ async function searchCaptions(word: string, videoMap: Map<string, VideoMeta>): P
 
   const results = await Promise.allSettled(
     matchingVideos.map(async (video): Promise<CaptionHit[]> => {
-      const paths = [
-        `${base}videos/${video.videoId}/captions.json`,
-        `${base}captions/${video.videoId}.json`,
-      ]
+      const paths = [`${base}captions/${video.videoId}.json`]
       for (const path of paths) {
         try {
           const res = await fetch(path)

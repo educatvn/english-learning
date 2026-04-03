@@ -2,9 +2,10 @@ import { useEffect, useRef, useState, useCallback } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import {
   Play, Plus, ListVideo, Trash2, X, Check,
-  Pencil, ChevronUp, ChevronDown, GripVertical, Globe, Lock, RotateCcw,
+  Pencil, GripVertical, Globe, Lock, RotateCcw,
   ChevronLeft, ChevronRight,
 } from 'lucide-react'
+import { DragDropContext, Droppable, Draggable, type DropResult } from '@hello-pangea/dnd'
 import type { VideoMeta, Playlist, VideoProgress } from '@/types'
 import { isResumable } from '@/types'
 import { loadPlaylists, savePlaylist, deletePlaylist } from '@/services/playlists'
@@ -16,7 +17,7 @@ import { AppHeader } from '@/components/AppHeader'
 // ─── HomePage ────────────────────────────────────────────────────────────────
 
 export default function HomePage() {
-  const PAGE_SIZE = 18
+  const PAGE_SIZE = 24
 
   const { id: playlistIdFromUrl } = useParams<{ id?: string }>()
   const navigate = useNavigate()
@@ -51,6 +52,7 @@ export default function HomePage() {
   const [newPlaylistName, setNewPlaylistName] = useState('')
   const newPlaylistInputRef = useRef<HTMLInputElement>(null)
   const [editingPlaylist, setEditingPlaylist] = useState<Playlist | null>(null)
+  const [playlistPage, setPlaylistPage] = useState(1)
 
   // ── Initial load: playlists + continue learning ──────────────────────────
   useEffect(() => {
@@ -96,6 +98,8 @@ export default function HomePage() {
   useEffect(() => {
     if (creatingPlaylist) newPlaylistInputRef.current?.focus()
   }, [creatingPlaylist])
+
+  useEffect(() => { setPlaylistPage(1) }, [selectedPlaylistId])
 
   // ── Handlers ─────────────────────────────────────────────────────────────
   function handleCreatePlaylist() {
@@ -150,9 +154,13 @@ export default function HomePage() {
   const userPlaylists = playlists.filter((p) => !p.isSystem && p.ownerId === user?.sub)
 
   // When a playlist is selected, resolve its videos from the full map (not just current page)
-  const visibleVideos = selectedPlaylist
+  const allPlaylistVideos = selectedPlaylist
     ? (selectedPlaylist.videoIds.map((id) => allVideosMap.get(id)).filter(Boolean) as VideoMeta[])
-    : videos
+    : []
+  const playlistTotalPages = Math.max(1, Math.ceil(allPlaylistVideos.length / PAGE_SIZE))
+  const playlistVideosPage = allPlaylistVideos.slice((playlistPage - 1) * PAGE_SIZE, playlistPage * PAGE_SIZE)
+
+  const visibleVideos = selectedPlaylist ? playlistVideosPage : videos
   const totalPages = Math.max(1, Math.ceil(totalVideos / PAGE_SIZE))
 
   function canEdit(p: Playlist) {
@@ -307,25 +315,42 @@ export default function HomePage() {
             </section>
           )}
 
-          <div className="flex items-center justify-between mb-5">
-            <div>
-              <h1 className="font-semibold text-base">
-                {selectedPlaylist ? selectedPlaylist.name : 'All Videos'}
-              </h1>
-              {!loadingVideos && (
-                <p className="text-xs text-muted-foreground mt-0.5">
-                  {selectedPlaylist ? `${visibleVideos.length}` : totalVideos} video{totalVideos !== 1 ? 's' : ''}
-                  {!selectedPlaylist && totalPages > 1 && ` — page ${page} of ${totalPages}`}
-                </p>
+          <div className="flex items-center justify-between gap-4 mb-5">
+            <div className="flex items-center gap-3 min-w-0">
+              <div className="min-w-0">
+                <h1 className="font-semibold text-base truncate">
+                  {selectedPlaylist ? selectedPlaylist.name : 'All Videos'}
+                </h1>
+                {!loadingVideos && (
+                  <p className="text-xs text-muted-foreground mt-0.5">
+                    {selectedPlaylist ? allPlaylistVideos.length : totalVideos} video{(selectedPlaylist ? allPlaylistVideos.length : totalVideos) !== 1 ? 's' : ''}
+                  </p>
+                )}
+              </div>
+              {selectedPlaylist && selectedPlaylist.videoIds.length > 0 && (
+                <Link
+                  to={`/playlist/${selectedPlaylist.id}/play`}
+                  className="h-8 px-4 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 flex items-center gap-1.5 transition-colors shrink-0"
+                >
+                  <Play className="w-3.5 h-3.5" /> Play All
+                </Link>
               )}
             </div>
-            {selectedPlaylist && selectedPlaylist.videoIds.length > 0 && (
-              <Link
-                to={`/playlist/${selectedPlaylist.id}/play`}
-                className="h-8 px-4 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 flex items-center gap-1.5 transition-colors"
-              >
-                <Play className="w-3.5 h-3.5" /> Play All
-              </Link>
+            {!selectedPlaylist && totalPages > 1 && (
+              <Pagination
+                page={page}
+                totalPages={totalPages}
+                compact
+                onChange={(p) => { fetchPage(p); }}
+              />
+            )}
+            {selectedPlaylist && playlistTotalPages > 1 && (
+              <Pagination
+                page={playlistPage}
+                totalPages={playlistTotalPages}
+                compact
+                onChange={(p) => { setPlaylistPage(p); }}
+              />
             )}
           </div>
 
@@ -373,6 +398,14 @@ export default function HomePage() {
                   onChange={(p) => { fetchPage(p); window.scrollTo({ top: 0, behavior: 'smooth' }) }}
                 />
               )}
+              {selectedPlaylist && playlistTotalPages > 1 && (
+                <Pagination
+                  page={playlistPage}
+                  totalPages={playlistTotalPages}
+                  onChange={(p) => { setPlaylistPage(p); window.scrollTo({ top: 0, behavior: 'smooth' }) }}
+                />
+              )}
+
             </>
           )}
         </main>
@@ -381,7 +414,7 @@ export default function HomePage() {
       {editingPlaylist && (
         <PlaylistEditModal
           playlist={editingPlaylist}
-          videos={videos}
+          videoMap={allVideosMap}
           isAdmin={isAdmin}
           onSave={handleSaveEditedPlaylist}
           onClose={() => setEditingPlaylist(null)}
@@ -393,10 +426,11 @@ export default function HomePage() {
 
 // ─── Pagination ───────────────────────────────────────────────────────────────
 
-function Pagination({ page, totalPages, onChange }: {
+function Pagination({ page, totalPages, onChange, compact }: {
   page: number
   totalPages: number
   onChange: (p: number) => void
+  compact?: boolean
 }) {
   // Show at most 7 page buttons with ellipsis
   const pages: (number | '…')[] = []
@@ -411,7 +445,7 @@ function Pagination({ page, totalPages, onChange }: {
   }
 
   return (
-    <div className="flex items-center justify-center gap-1 mt-8">
+    <div className={['flex items-center gap-1 flex-wrap justify-end', compact ? '' : 'mt-8'].join(' ')}>
       <button
         onClick={() => onChange(page - 1)}
         disabled={page === 1}
@@ -809,13 +843,13 @@ function VideoCard({
 
 function PlaylistEditModal({
   playlist,
-  videos,
+  videoMap,
   isAdmin,
   onSave,
   onClose,
 }: {
   playlist: Playlist
-  videos: VideoMeta[]
+  videoMap: Map<string, VideoMeta>
   isAdmin: boolean
   onSave: (updated: Playlist) => void
   onClose: () => void
@@ -824,14 +858,13 @@ function PlaylistEditModal({
   const [videoIds, setVideoIds] = useState(playlist.videoIds)
   const [isPublic, setIsPublic] = useState(playlist.isPublic)
 
-  const videoMap = new Map(videos.map((v) => [v.videoId, v]))
   const playlistVideos = videoIds.map((id) => videoMap.get(id)).filter(Boolean) as VideoMeta[]
 
-  function move(idx: number, dir: -1 | 1) {
+  function onDragEnd(result: DropResult) {
+    if (!result.destination) return
     const next = [...videoIds]
-    const target = idx + dir
-    if (target < 0 || target >= next.length) return
-    ;[next[idx], next[target]] = [next[target], next[idx]]
+    const [moved] = next.splice(result.source.index, 1)
+    next.splice(result.destination.index, 0, moved)
     setVideoIds(next)
   }
 
@@ -899,32 +932,48 @@ function PlaylistEditModal({
           )}
         </div>
 
-        <div className="flex-1 overflow-y-auto px-3 py-2">
-          {playlistVideos.length === 0 && (
-            <p className="text-xs text-muted-foreground text-center py-6">No videos in this playlist</p>
-          )}
-          {playlistVideos.map((video, idx) => (
-            <div key={video.videoId} className="flex items-center gap-2 py-2 px-2 rounded-lg hover:bg-accent/50 group">
-              <GripVertical className="w-3.5 h-3.5 text-muted-foreground/40 shrink-0" />
-              <img src={video.thumbnailUrl} alt="" className="w-14 rounded shrink-0 aspect-video object-cover" />
-              <div className="flex-1 min-w-0">
-                <p className="text-xs font-medium line-clamp-2 leading-snug">{video.title}</p>
-                {video.channelName && <p className="text-[10px] text-muted-foreground mt-0.5">{video.channelName}</p>}
+        <DragDropContext onDragEnd={onDragEnd}>
+          <Droppable droppableId="playlist-videos">
+            {(provided) => (
+              <div
+                ref={provided.innerRef}
+                {...provided.droppableProps}
+                className="flex-1 overflow-y-auto px-3 py-2"
+              >
+                {playlistVideos.length === 0 && (
+                  <p className="text-xs text-muted-foreground text-center py-6">No videos in this playlist</p>
+                )}
+                {playlistVideos.map((video, idx) => (
+                  <Draggable key={video.videoId} draggableId={video.videoId} index={idx}>
+                    {(drag, snapshot) => (
+                      <div
+                        ref={drag.innerRef}
+                        {...drag.draggableProps}
+                        className={[
+                          'flex items-center gap-2 py-2 px-2 rounded-lg group',
+                          snapshot.isDragging ? 'bg-accent shadow-lg' : 'hover:bg-accent/50',
+                        ].join(' ')}
+                      >
+                        <div {...drag.dragHandleProps} className="cursor-grab active:cursor-grabbing shrink-0">
+                          <GripVertical className="w-3.5 h-3.5 text-muted-foreground/40" />
+                        </div>
+                        <img src={video.thumbnailUrl} alt="" className="w-14 rounded shrink-0 aspect-video object-cover" />
+                        <div className="flex-1 min-w-0">
+                          <p className="text-xs font-medium line-clamp-2 leading-snug">{video.title}</p>
+                          {video.channelName && <p className="text-[10px] text-muted-foreground mt-0.5">{video.channelName}</p>}
+                        </div>
+                        <button onClick={() => remove(video.videoId)} className="w-6 h-6 flex items-center justify-center rounded hover:bg-destructive/10 hover:text-destructive text-muted-foreground transition-colors shrink-0">
+                          <X className="w-3.5 h-3.5" />
+                        </button>
+                      </div>
+                    )}
+                  </Draggable>
+                ))}
+                {provided.placeholder}
               </div>
-              <div className="flex flex-col shrink-0">
-                <button onClick={() => move(idx, -1)} disabled={idx === 0} className="w-5 h-5 flex items-center justify-center rounded hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors">
-                  <ChevronUp className="w-3 h-3" />
-                </button>
-                <button onClick={() => move(idx, 1)} disabled={idx === playlistVideos.length - 1} className="w-5 h-5 flex items-center justify-center rounded hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors">
-                  <ChevronDown className="w-3 h-3" />
-                </button>
-              </div>
-              <button onClick={() => remove(video.videoId)} className="w-6 h-6 flex items-center justify-center rounded hover:bg-destructive/10 hover:text-destructive text-muted-foreground transition-colors shrink-0">
-                <X className="w-3.5 h-3.5" />
-              </button>
-            </div>
-          ))}
-        </div>
+            )}
+          </Droppable>
+        </DragDropContext>
 
         <div className="flex items-center justify-end gap-2 px-5 py-4 border-t border-border shrink-0">
           <button onClick={onClose} className="h-8 px-4 rounded-lg border border-border text-xs font-medium hover:bg-accent transition-colors">Cancel</button>

@@ -1,0 +1,1327 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 0
+  }, {
+    "juJustifCode": 2
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 4,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 3,
+    "ccCols": 32
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Transcriber: Huỳnh Thị Thến\nReviewer: THANH LIEM HUYNH"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 4625,
+    "dDurationMs": 5131,
+    "segs": [ {
+      "utf8": "It's amazing to think that 50\nyears ago the movie jaws came"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 9756,
+    "dDurationMs": 5964,
+    "segs": [ {
+      "utf8": "out that music. Steven\nSpielberg, the director,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 15928,
+    "dDurationMs": 4505,
+    "segs": [ {
+      "utf8": "had a malfunctioning\nmechanical shark on his hands."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 21476,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "It didn't work, and it\ndidn't make it into very many"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 25104,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "of the scenes in the movie."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 26856,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "And that let our imaginations run wild."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 31903,
+    "dDurationMs": 6047,
+    "segs": [ {
+      "utf8": "And they did. I was seven years\nold when I saw the movie jaws."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 38868,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "I walked out of that movie\ntheater terrified of sharks."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 44332,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "I thought they were everywhere."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 46959,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "I thought they were under my bed."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 48795,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "So I jumped from the carpet\nto my bed every night,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 52048,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "terrified I was going to be eaten."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 54675,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "I would sit at the kitchen\ntable with my legs up"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 57720,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "because I thought sharks\nwere swimming under the table."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 60973,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "And I did make the swim team"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 62850,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "because I was swimming from sharks\nthat were coming out of the drain."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 68106,
+    "dDurationMs": 6297,
+    "segs": [ {
+      "utf8": "So I had a big shark\nproblem and I wasn't alone."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 75655,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "Jaws broke something in us."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 79242,
+    "dDurationMs": 2752,
+    "segs": [ {
+      "utf8": "It broke our connection to the ocean."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 83454,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "You'll never go in the water again."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 85748,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "Killer shark. Monster."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 87542,
+    "dDurationMs": 5463,
+    "segs": [ {
+      "utf8": "Shark. This is what we've heard\nfor 50 years about sharks."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 93256,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "This has defined the way we think\nabout sharks in our world."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 98928,
+    "dDurationMs": 6048,
+    "segs": [ {
+      "utf8": "And I think I would still be thinking\nabout sharks in this way if it weren't"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 104976,
+    "dDurationMs": 5589,
+    "segs": [ {
+      "utf8": "for my parents. And they had an animal\nencyclopedia set in our house,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 111149,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "and I was able to read all about sharks,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 115069,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "and what I read changed my life."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 118990,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "They're not monsters."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 121117,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "I learned that they are fantastically\nadapted creatures"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 125997,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "with a long evolutionary\nhistory on our planet."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 129667,
+    "dDurationMs": 4922,
+    "segs": [ {
+      "utf8": "And you know what? My fear\ntransformed into fascination."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 135173,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "And so now I'm a shark biologist."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 141012,
+    "dDurationMs": 6506,
+    "segs": [ {
+      "utf8": "And I have spent the last 30 years\ntraveling the world with other scientists,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 147518,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "trying to unlock the secrets of sharks."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 150271,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "I study lemon sharks, bull sharks,\ntiger sharks, hammerhead sharks,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 155359,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "and even great white\nsharks like the one in jaws."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 159739,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "I have spent thousands\nof hours underwater,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 165036,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "and what I can tell you is that\nwe have given sharks our fear"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 170416,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "and they don't deserve it."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 173878,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "The ocean is our home."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 177089,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "It's where we came from."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 180009,
+    "dDurationMs": 6173,
+    "segs": [ {
+      "utf8": "It's where life evolved\nand we are over 70% water."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 186182,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "Our hearts are 80% water."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 189810,
+    "dDurationMs": 5047,
+    "segs": [ {
+      "utf8": "And when we are on near\nor around water, we change."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 195191,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "We become calm. We're happier."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 198486,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "Neurobiology tells us it's the blue mind."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 202406,
+    "dDurationMs": 3963,
+    "segs": [ {
+      "utf8": "And so when we break\nthat connection through fear,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 207245,
+    "dDurationMs": 2752,
+    "segs": [ {
+      "utf8": "we break something in ourselves."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 210414,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "And it has consequences to us."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 214335,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "And those consequences are big."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 218589,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "There is a bias.\nWe know more about the surface"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 223302,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "of Mars than we do our own deep ocean."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 228224,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "And the bias extends\nto the animals in the ocean"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 232395,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "and the way that we treat them."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 235314,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "Sharks are in global\ndecline since the 1970s."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 239694,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "We've lost over 70% of our sharks,\nand in some species,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 244573,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "upwards of 90% are gone."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 248494,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "And 30% of sharks are facing\nextinction today"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 253207,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "and another 30% are data deficient."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 256419,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "That means we don't even have enough\ninformation on how to classify them"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 260589,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "on the conservation spectrum."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 263718,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "And so the International Shark Attack File\nhas been tracking shark"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 268264,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "and human interactions for over 400 years."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 271726,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "Sharks kill 3 to 4\npeople per year globally."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 277440,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "That's it. By accident."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 280234,
+    "dDurationMs": 6715,
+    "segs": [ {
+      "utf8": "But we humans, we kill over 100\nmillion sharks per year on purpose"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 286949,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "for their fins and for their meat."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 289118,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "And so, for the first time\nin history, sharks are holding on."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 294165,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "Will they make it through us?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 298753,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "So you might think, okay, well,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 300838,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "an ocean without"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 301881,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "sharks\nsounds pretty good to me."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 304050,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "I can go swimming.\nI don't have to be afraid."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 306886,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Why do sharks matter?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 308346,
+    "dDurationMs": 6631,
+    "segs": [ {
+      "utf8": "Sharks have been on our planet\nfor over 460 million years."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 316062,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "They are older than the rings of Saturn."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 319815,
+    "dDurationMs": 4213,
+    "segs": [ {
+      "utf8": "They have lived through\nfive mass extinction events."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 324153,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Every single one\nthat we've had on this planet."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 326864,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "They have been here\nand they have survived."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 329742,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "Even the one that took out\nthe dinosaurs, who was here?"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 333871,
+    "dDurationMs": 5797,
+    "segs": [ {
+      "utf8": "The sharks. So the story\nof the shark is a story of survival,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 340586,
+    "dDurationMs": 6131,
+    "segs": [ {
+      "utf8": "and an ocean without sharks is the\nscariest ocean I can imagine."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 347927,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "And so when I look into a shark's eyes,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 351222,
+    "dDurationMs": 4796,
+    "segs": [ {
+      "utf8": "I'm really looking back\nin time as to all of the adaptations"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 356185,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "and everything that has happened,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 357937,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "to allow that shark"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 359230,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "to be there, looking back at me."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 361399,
+    "dDurationMs": 4504,
+    "segs": [ {
+      "utf8": "And it's an honor. And so I want\nto share with you a few of the species"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 365903,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "in the ocean today.\nThis is the whale shark."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 369407,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "It's the biggest shark in the ocean."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 372034,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "It has beautiful polka\ndot markings down its body,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 375538,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "and it can grow upwards of 50ft long."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 379708,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "And my son and I have swam\nright next to this shark."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 382586,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "And you may think, what?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 384255,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "Why would you do that?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 385965,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "Well, because this shark\nis totally harmless."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 388843,
+    "dDurationMs": 4045,
+    "segs": [ {
+      "utf8": "It eats tiny little plants\nand animals called plankton."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 392930,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "The largest shark bodies being built\nby nearly microscopic animals."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 399437,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "Hammerhead sharks. So\nhammerheads are my favorite sharks."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 404275,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "They are the most recent\nevolved sharks in the ocean."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 407653,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "There are multiple hammerhead species,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 410197,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "and they school together in the hundreds,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 413617,
+    "dDurationMs": 6048,
+    "segs": [ {
+      "utf8": "and they may use the Earth's magnetic\nlines to navigate to know where they are."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 420249,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "There is a social\nstructure within hammerheads,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 424086,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "and I've studied their sensory systems."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 426881,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "They can see straight ahead."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 428716,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "They have amazing visual fields,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 430926,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "and they use all of their senses\ntogether in order to interact"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 435389,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "with their environment."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 436724,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "And they are critically\nendangered species."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 440269,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "We may lose hammerheads on our watch."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 445649,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "This is the big eye thresher shark."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 447985,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "It has a big eye, but it has a huge tail."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 451447,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "And it uses that tail\nas a weapon to stun fish."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 456076,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "And it can spin around and put\nthose fish right into its mouth."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 459580,
+    "dDurationMs": 5631,
+    "segs": [ {
+      "utf8": "So this is an adaptation\nto maximize the feeding in this shark."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 466378,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "Okay. So this is the pyjama shark."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 469340,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "I was able to study these down\nin South Africa."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 472009,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "That's the only place they're found."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 474094,
+    "dDurationMs": 3963,
+    "segs": [ {
+      "utf8": "And we put down a camera and that little\nwhite tube is full of bait."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 478224,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "And we can see which sharks\ncome into the bait."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 481560,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "And what we found here is a bunch\nof pyjama sharks."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 485523,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "They all came in to see what was going on,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 487691,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "and it was like a pyjama\nshark slumber party."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 493697,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "Did you know that we have sharks\nthat can walk on land?"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 497826,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "This is the epaulette shark."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 499828,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "It lives in northern Australia"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 502498,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "and it uses its pectoral fins\nto walk on land during low tide,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 508087,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "where it can then go\nand hunt little fish in pools."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 512508,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "And these animals can stay out\nof the water upwards"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 515928,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "to an hour without any permanent damage."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 519181,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "And for new walking, shark species\nhave just been described by science."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 524687,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "And this is the tasselled wobbegong."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 528315,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "What a name. Wobbegong."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 530317,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "So it looks like a piece of carpet."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 532486,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "I would know I was in the 70s."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 534613,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "We had terrible pieces of carpet."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 536657,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "This is what it looks like."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 538576,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "But this is the master of disguise."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 542413,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "And so this shark uses its camouflage\nto be able to hunt effectively."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 546709,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "It's a sit and wait predator."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 548752,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "But what I hope you\ncan see here is that all"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 552172,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "of these sharks are very different."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 554341,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "And they have evolved and adapted\ninto the environments in which they live."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 558596,
+    "dDurationMs": 6214,
+    "segs": [ {
+      "utf8": "And so the story of the shark is a story\nof diversity, of longevity."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 565185,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "And they are critically important\nfor our ecosystem health in the ocean."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 570566,
+    "dDurationMs": 4796,
+    "segs": [ {
+      "utf8": "And the stories that we tell are\nthe stories that we believe."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 576030,
+    "dDurationMs": 4212,
+    "segs": [ {
+      "utf8": "And the story of the shark\ncan change right now."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 581702,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "So the next time you see\na movie about a killer shark,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 586707,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "think about getting a ticket for that."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 589168,
+    "dDurationMs": 5964,
+    "segs": [ {
+      "utf8": "Or maybe not. The next time you see\na social media post portraying a shark"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 595132,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "as a villain and a monster, call it out."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 599345,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Kids love sharks. They don't fear them."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 602765,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "They don't know that jaws mantra."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 605100,
+    "dDurationMs": 5381,
+    "segs": [ {
+      "utf8": "So the next time you're talking to kids\nand your parents and your neighbors,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 611148,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "lean into the wonder."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 613150,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Don't lean into the fear."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 615027,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "Because when we connect with sharks,\nwe connect with the ocean."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 619281,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "And when we connect with the ocean,\nwe connect with ourselves. Thank you."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  } ]
+}

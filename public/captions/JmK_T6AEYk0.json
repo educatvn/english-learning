@@ -1,0 +1,1255 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 0
+  }, {
+    "juJustifCode": 2
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 3,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 4,
+    "ccCols": 32
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Transcriber: Malak Hossam\nReviewer: NGUYEN THI  KIM ĐOAN"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 2996,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Thank you sir."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 11956,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I want you to picture a scene."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 14156,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Gospel R32 up in their match."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 18916,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "They're winning. The players are excited."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 22236,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "The home crowd is cheering."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 23956,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "This could be the moment that that gospel."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 25996,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Bring it all the way home."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 28436,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Last three seconds three two."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 32996,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "One gospel of one.\nAnd the crowd are going wild."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 39196,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "But this isn't a game that's played\non a pitch or on a court"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 46516,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "or in a stadium."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 50356,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "This."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 53116,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Is a game that's played\non a computer screen."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 57356,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And students are competing\nin this game all around the country."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 61476,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "But here in gospel, our students\nhave become a beacon of light for all"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 66316,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "of those around the world."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 71076,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "This is a sport that has no\nlimits, no exclusions,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 75036,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and you'll never hear anyone say, no,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 77436,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "you can't join in. This is a sport\nwhere everyone can play regardless"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 83676,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "of age, gender,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 86636,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "ability."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 88156,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Everyone can take part."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 90236,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "There's no separate leagues,\nno separate divisions."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 93356,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Everyone is united."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 97156,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "It's competitive player\nversus player, computer gaming,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 102476,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and it's separate from the traditional\ncouch co-op games that you"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 106276,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "may be familiar with or sofa\ngames that you normally play at home."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 110276,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Play online with friends."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 111756,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "It's completely different to that."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 113436,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "It's driven by different skill sets\nthat are required in all walks of life."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 120036,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "It requires dedication, hard work,\nand communication skills to succeed."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 127796,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "What I'm talking about is esports."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 133196,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Esports. Not only is different\nfrom traditional gaming,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 137556,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "but it allows students\nto develop the skills of the future."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 142676,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "In 2020, for a future skills\nreport suggested that the workforce"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 146956,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "of tomorrow are going to need teamwork,\ndecision making, critical thinking,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 151796,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "leadership skills. All of these aspects\ncan be found in one match of esports."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 158356,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "All of these skills can be developed\nby playing computer games."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 163476,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "In one match. You may have one\nteam that is discussing their comms"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 167236,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and strategies in an exceptional manner,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 171196,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "something that you\nwouldn't normally see every day."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 175596,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Now, traditional sports often have to\nadapt their games to suit the players."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 182516,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "We may have wheelchair basketball,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 184276,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "walking football or separate\nwomen's leagues,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 188516,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "but still people are separated."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 190836,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Still, people have to play\nin those distinct leagues."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 194156,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Those distinct competitions."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 197236,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Esports is different."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 200636,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Esports unites players."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 203316,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "It allows because of technology\nfor players to compete"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 207796,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "with able bodied friends, peers."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 212716,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "It enables people to play regardless\nof whether they're female, male,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 217836,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "however they choose to identify,\nand it truly levels the playing field."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 222316,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "It gives everyone a chance to compete"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 224436,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and have that thrill\nof winning a competition,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 227276,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "going off and celebrating\nwith their peers."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 233116,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "In 2019, Gosport\nstarted their esports journey"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 237916,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "in an Fe college by\ncreating a lunchtime gaming club."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 243876,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "That lunchtime gaming club enabled\nstudents to come from all walks of life"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 248756,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and just have that shared passion, that\nshared engagement through video games."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 252796,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "A really simple concept,\nbut a really powerful one, too."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 257036,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And one student in particular didn't want\nto play a video game."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 261196,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Didn't want to play with their peers."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 263036,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Instead was watching something online,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 265036,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "that same video game that they could play."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 268196,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And when I asked why they were\nwatching a video game being played instead"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 273196,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "of playing it, they response\nto me was, well,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 276836,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Why do you watch football,\nWhen you can go and play?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 280796,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "That really resonated with me."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 282676,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "That really stuck with me."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 284956,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "And so we discovered more"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 286356,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and we discovered the British\nEsports Student Championships,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 289196,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "a way for students\nto play against other colleges,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 291956,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "other schools all across the country."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 295036,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And from there, we went on to be\nunbeaten in our first season,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 298276,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "something I'm really proud of, especially"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 300316,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "because it was our first time getting\nstudents together to play these games."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 305396,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "But it wasn't the winning\nthat was the most important part for us."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 309916,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "It was the fact that we had a huge\narray of characters within that team."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 317156,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Players of mixed ability,\nmixed ages, mixed genders,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 320516,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "all competing and all having fun together."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 325996,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "We also discovered that actually\nit would benefit students"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 328956,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "more than just allowing them a pastime,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 331596,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "allowing them to compete\nin a competitive environment."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 335596,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Students that have educational\nhealthcare plans or CPS for short,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 340636,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "could tick off a lot of their targets\njust by playing in a match."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 344876,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "A student who perhaps doesn't usually\nwork with a group would be able to work"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 351596,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "with a team each week."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 353756,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Discuss comms.\nDiscuss strategies, tactics,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 356876,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "how they were going to overthrow\nthe other team. And he did."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 361396,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "One student in particular here, Jack,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 363916,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "came to us and he was at first\nvery shy, very kept himself,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 370196,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "didn't really want to mingle with anyone."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 372236,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Didn't really want to,\nyou know, talk to anyone."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 375956,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "But eventually he plucked up the courage\nto come and join our gaming club."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 380236,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And from there, his esports journey began."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 384316,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "He started to make friends and he started\nto play in these competitions."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 389716,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And not only did he start\nopening up and talking to other people,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 393516,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "he started to open up\nand talk more in class as well."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 398476,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So from gaming to now engaging\nin the classroom activities,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 402756,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "this was a huge improvement."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 406396,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Jack also went on to put\nGosport on the map,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 410036,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "becoming part of a documentary\nseries promoting gospel"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 416996,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "at the national stages\nin London in Williamsf1 HQ."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 423396,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Even standing up on stage,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 426036,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "similar to what I'm doing and talking\nto a whole room of strangers."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 430956,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "This from a student who a year ago\ndidn't say anything to his peers,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 435716,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "didn't want to talk about anything\nin class to now talking"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 441596,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "to a room full of strangers."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 446236,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And it moved just further beyond\nfrom the actual classroom walls."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 451076,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "He represented us on stage,\nplaying in competitive games,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 455236,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "bringing home trophies for gospel."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 459996,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Making sure gospel went on the map."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 465676,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And it's not just Jack\nwho has also put us on the map,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 469356,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "but we've had lots of gamers to graduates\nin the past, including Kieran,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 474796,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "who came to us from 18\nmiles away to get his education"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 478916,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "because he loved the things\nthat we were doing here in gospel."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 482116,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "He loved what we were doing\nand he was really invested in this."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 485436,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So he turned up for his esports\neducation and is now supporting others,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 489716,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "getting them into esports,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 491796,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "trying to help them see how\nesports can be beneficial for those"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 496036,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "with limited mobility."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 497716,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "For those with autism and different\ndisabilities, some hidden."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 504396,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "And Rosie, who was our first\nfemale advocate in gospel"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 509996,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "who has gone on to now study\nin university but before coming to us,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 516876,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "suffered with depression,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 519916,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "heightened anxiety,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 522716,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "and a lot of the time just felt\nthere was no escape, no way to be herself."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 530916,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'm proud to stand here today\nand say gospel is leading the way."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 534916,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Not only are we producing so\nmany great graduates from our gamers,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 540996,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "but we're also leading the way in terms\nof the qualifications we are offering."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 546876,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "We're putting gospel on the map by\noffering these esports qualifications,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 550356,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "showing that esports has a place in the\nwider community, not just in education,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 555036,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "but also in the community outside."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 558996,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This is what e-sports offers."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 561396,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "It supports not only our youngsters,\nbut it can support an array of ages."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 569036,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "We're the first to offer the BTec\nlevel three here on the South Coast."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 578356,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "And we were the first to appear"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 580876,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "in an esports video created by\nDell Technologies"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 584996,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "to show the impact\nthat esports is having globally."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 588756,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "But starting here in Gosport."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 592156,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So I want to pose something to you now."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 596556,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "What would our communities look\nlike if we included the same rules,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 603156,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the same inclusivity\nthat esports has to offer?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 607036,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "How much better would our communities\nlook like if we used"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 611036,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "what esports is doing now?"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 612396,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "But in the wider community,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 615396,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "not just in education,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 618156,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "but everywhere."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 621516,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "I think it's time to change the game\nand not the player. Thank you."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  } ]
+}

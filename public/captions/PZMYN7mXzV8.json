@@ -1,0 +1,1815 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 0
+  }, {
+    "juJustifCode": 2
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 3,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 4,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 3,
+    "ccCols": 32
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Transcriber: Sama Sleam\nReviewer: NGUYEN TRUONG SINH� VPVX"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 3579,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Imagine you're in a room negotiating"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 5829,
+    "dDurationMs": 4084,
+    "segs": [ {
+      "utf8": "with government ministers\naround technology regulations."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 10288,
+    "dDurationMs": 5208,
+    "segs": [ {
+      "utf8": "The stakes are high. Online access\nto entire country hangs in the balance."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 16454,
+    "dDurationMs": 3209,
+    "segs": [ {
+      "utf8": "Well, I don't have to imagine,\nbecause I was there,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 20746,
+    "dDurationMs": 3208,
+    "segs": [ {
+      "utf8": "and I remember thinking,\nthis has to be our red line."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 24496,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "Throughout negotiations, I watched\nthat line move quietly, steadily,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 30163,
+    "dDurationMs": 1708,
+    "segs": [ {
+      "utf8": "until it finally disappeared."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 32579,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "What began as a negotiation\nslowly became a farce."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 37162,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "We weren't engaging in good faith anymore,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 40204,
+    "dDurationMs": 3417,
+    "segs": [ {
+      "utf8": "and that's when I began\nto wonder if we ever were."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 44621,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "One unspoken truth hung in the air."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 47829,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "We could shut down your entire country\nwith the flip of a switch."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 53079,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "We had that power, but\nthankfully we chose not to use it."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 58496,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "That was in late 2022.\nSomewhere between Europe and Asia,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 62537,
+    "dDurationMs": 3626,
+    "segs": [ {
+      "utf8": "the country had survived an attempted"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 66163,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "coup but was sliding towards repression. \nAnd there we were,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 70496,
+    "dDurationMs": 4292,
+    "segs": [ {
+      "utf8": "A technology company ready to compromise \nfreedoms that journalists and activists"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 76954,
+    "dDurationMs": 3417,
+    "segs": [ {
+      "utf8": "Just to stay online. Whenever I think \nabout the integrity"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 80371,
+    "dDurationMs": 2167,
+    "segs": [ {
+      "utf8": "Of democracies,\nI think back to that moment,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 83704,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "not to the months I spent leading\noperations on the US election in 2022"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 88288,
+    "dDurationMs": 2625,
+    "segs": [ {
+      "utf8": "or the Myanmar coup in 2021,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 91121,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "or to the red teaming"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 92121,
+    "dDurationMs": 5208,
+    "segs": [ {
+      "utf8": "and intelligence reports I created\nfor over 20 elections in 2024. No,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 97371,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "I think back to that moment,\nto that negotiation,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 101538,
+    "dDurationMs": 4125,
+    "segs": [ {
+      "utf8": "because that moment showed me something\ndeeper, something more egregious."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 106079,
+    "dDurationMs": 2042,
+    "segs": [ {
+      "utf8": "That power had shifted."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 109079,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "That technology companies, the ones\nwe rely on for communication, for truth,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 114746,
+    "dDurationMs": 5167,
+    "segs": [ {
+      "utf8": "for community, now hold the balance\nof democracy in their hands."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 121746,
+    "dDurationMs": 3708,
+    "segs": [ {
+      "utf8": "I've been in the situation rooms\nfor pivotal American elections,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 125538,
+    "dDurationMs": 5208,
+    "segs": [ {
+      "utf8": "and I've watched recently in horror as\ndisinformation took elections in Brazil,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 130746,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "India, Pakistan and Moldova,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 134288,
+    "dDurationMs": 3125,
+    "segs": [ {
+      "utf8": "and recently here\nearlier this year in Germany,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 138788,
+    "dDurationMs": 3791,
+    "segs": [ {
+      "utf8": "where misinformation spread faster\nthan truth could reach parliament."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 143538,
+    "dDurationMs": 5958,
+    "segs": [ {
+      "utf8": "I learned that democracy doesn't die\nin one dramatic moment."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 150038,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "In this new age, it erodes\nthrough a thousand digital cuts."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 154954,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "You see, it starts with small compromises."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 157746,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "A policy adjusts it there,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 161413,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "an exemption granted here, a request\nquietly honored in the name of stability."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 168954,
+    "dDurationMs": 5042,
+    "segs": [ {
+      "utf8": "Before long, principled negotiation\nbecomes complicity in repression,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 175204,
+    "dDurationMs": 3542,
+    "segs": [ {
+      "utf8": "according to The Economist\n2024 Democracy Index,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 178746,
+    "dDurationMs": 4042,
+    "segs": [ {
+      "utf8": "representative democracy is no longer\nworking for large numbers of people."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 183329,
+    "dDurationMs": 3417,
+    "segs": [ {
+      "utf8": "Governments have grown\nestranged from the people."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 187204,
+    "dDurationMs": 3459,
+    "segs": [ {
+      "utf8": "Anocracy is part democracy,\npart dictatorships."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 190663,
+    "dDurationMs": 1416,
+    "segs": [ {
+      "utf8": "They are on the rise."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 192621,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Power is being outsourced\nto unelected bodies."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 197996,
+    "dDurationMs": 2542,
+    "segs": [ {
+      "utf8": "German American\nhistorian Hannah Arendt wrote,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 200538,
+    "dDurationMs": 4416,
+    "segs": [ {
+      "utf8": "A people that can no longer believe\nanything cannot make up its own mind."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 205871,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "And when such people you can then do\nwith what you please."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 210163,
+    "dDurationMs": 4416,
+    "segs": [ {
+      "utf8": "That's when I came to the realization\nthis isn't chaos, it's coordination."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 215371,
+    "dDurationMs": 5292,
+    "segs": [ {
+      "utf8": "I call this conflict that's\nunfolding all around us the invisible war."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 221454,
+    "dDurationMs": 3917,
+    "segs": [ {
+      "utf8": "And this war isn't fought with weapons,\nbut it's fought with information,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 225371,
+    "dDurationMs": 3542,
+    "segs": [ {
+      "utf8": "with algorithms,\ntrade policy and AI development."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 229454,
+    "dDurationMs": 3209,
+    "segs": [ {
+      "utf8": "It's frontline shift\nwith every feed we scroll through,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 232663,
+    "dDurationMs": 2083,
+    "segs": [ {
+      "utf8": "every time you pick up our phones."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 235288,
+    "dDurationMs": 2958,
+    "segs": [ {
+      "utf8": "The new weapons are disinformation,\nsurveillance,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 238246,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "and the concentrated power\nof a few technology companies."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 242913,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "The battleground isn't land."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 245788,
+    "dDurationMs": 4916,
+    "segs": [ {
+      "utf8": "It's our minds. It's our attention,\nour sense of shared reality."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 252038,
+    "dDurationMs": 3541,
+    "segs": [ {
+      "utf8": "Only 7% of people today live\nin democracies."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 256788,
+    "dDurationMs": 4791,
+    "segs": [ {
+      "utf8": "70% of people live in flawed\nor authoritarian nation states."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 261871,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "It's what The Economist\ncalls a democracy recession."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 264996,
+    "dDurationMs": 2083,
+    "segs": [ {
+      "utf8": "And it's not driven by tanks."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 267079,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "It's driven by data, by manipulation,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 270704,
+    "dDurationMs": 3375,
+    "segs": [ {
+      "utf8": "by strategic use\nof information and technology."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 275329,
+    "dDurationMs": 5667,
+    "segs": [ {
+      "utf8": "I say that this is warfare without\ndeclaration, propaganda without borders,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 281621,
+    "dDurationMs": 3458,
+    "segs": [ {
+      "utf8": "a conflict waged in the invisible\nrealm of algorithms"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 285079,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "and attention led by new types\nof nation states,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 288746,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "ones that we unknowingly opted into."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 292954,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "And I've seen how this plays out\nat home in the United States."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 297413,
+    "dDurationMs": 3875,
+    "segs": [ {
+      "utf8": "Disinformation and surveillance\nhave formed a dangerous feedback loop."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 302371,
+    "dDurationMs": 4125,
+    "segs": [ {
+      "utf8": "Falsehoods justified new forms\nof monitoring and censorship."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 307329,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "Federal agencies expanded\ndomestic surveillance in the name"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 310663,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "of fighting fake news and extremism,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 314204,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "outsourcing monitoring\nto private AI companies"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 317621,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "and AI contractors\nwith very little oversight."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 321621,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "In 2020, during the George Floyd protests,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 324538,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "agents infiltrated Facebook groups"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 326288,
+    "dDurationMs": 5791,
+    "segs": [ {
+      "utf8": "and scraped public posts for indictments\nusing memes and comments on posts."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 332496,
+    "dDurationMs": 3292,
+    "segs": [ {
+      "utf8": "These are the same tactics\nthat we use to fight violent extremists"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 335788,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "and terrorists. And now I see\nthese same tactics being used"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 339413,
+    "dDurationMs": 5958,
+    "segs": [ {
+      "utf8": "at home against journalists,\nstudents, activists, everyday people."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 345788,
+    "dDurationMs": 4375,
+    "segs": [ {
+      "utf8": "It's a modern day McCarthyism\nwhere fear replaces evidence"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 350163,
+    "dDurationMs": 2708,
+    "segs": [ {
+      "utf8": "and surveillance becomes a loyalty test."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 353579,
+    "dDurationMs": 4709,
+    "segs": [ {
+      "utf8": "This isn't partisan hysteria,\nbut I am afraid of this new normal."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 360079,
+    "dDurationMs": 5375,
+    "segs": [ {
+      "utf8": "What makes me the most afraid as I\nstand out here looking at everyone"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 365454,
+    "dDurationMs": 3542,
+    "segs": [ {
+      "utf8": "in this room, is that this is a systemic\ndismantling of oversight,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 368996,
+    "dDurationMs": 5292,
+    "segs": [ {
+      "utf8": "accountability and trust in a country\nthat used to export democratic values."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 374454,
+    "dDurationMs": 3792,
+    "segs": [ {
+      "utf8": "It is now a case study\nin erosion of those values,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 378913,
+    "dDurationMs": 1708,
+    "segs": [ {
+      "utf8": "and they're using social media"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 380621,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and technology companies\nto amplify that erosion."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 384746,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "And it's not just in the United States."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 386663,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "It's happening in Venezuela\nand Romania and Pakistan and Kenya."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 392829,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "This cannot be our new normal."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 395538,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "And yet it feels like it is."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 400579,
+    "dDurationMs": 6542,
+    "segs": [ {
+      "utf8": "Technology is not our enemy,\nbut it is powerful in the right hands."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 407121,
+    "dDurationMs": 6125,
+    "segs": [ {
+      "utf8": "It cures diseases, expands possibilities\nin the wrong hands, as we've seen."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 413496,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "It becomes a weapon amplifier of fear,\noutrage and control."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 418746,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "The truth is, technology\ncompanies operate like nation states."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 422413,
+    "dDurationMs": 3791,
+    "segs": [ {
+      "utf8": "They shape speech, define\nimpact and identity for billions."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 426371,
+    "dDurationMs": 5042,
+    "segs": [ {
+      "utf8": "Except they answer to corporate boards\nand governments, but not to citizens."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 431413,
+    "dDurationMs": 2916,
+    "segs": [ {
+      "utf8": "And let's be honest,\nthey don't answer to you and me."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 435496,
+    "dDurationMs": 2542,
+    "segs": [ {
+      "utf8": "We need to answer this question."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 438038,
+    "dDurationMs": 2875,
+    "segs": [ {
+      "utf8": "This is going to be the defining\nquestion of my generation."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 440913,
+    "dDurationMs": 3291,
+    "segs": [ {
+      "utf8": "Who governs the governors\nof the digital age?"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 445246,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "We need global accountability\nframeworks not to smother innovation,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 448746,
+    "dDurationMs": 3917,
+    "segs": [ {
+      "utf8": "but to align it with human\ndignity and democratic resilience."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 453246,
+    "dDurationMs": 4583,
+    "segs": [ {
+      "utf8": "We desperately need safeguards\nfor elections, transparency and AI,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 457871,
+    "dDurationMs": 3958,
+    "segs": [ {
+      "utf8": "and actual collaboration\nbetween civil society and platforms,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 462913,
+    "dDurationMs": 3583,
+    "segs": [ {
+      "utf8": "child safety regulation and data privacy."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 467371,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "Because while the world watches this new\nCold War unfold between China"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 471454,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "and the US around who reaches AGI first,\nwe're missing the bigger picture."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 477454,
+    "dDurationMs": 4875,
+    "segs": [ {
+      "utf8": "This invisible war isn't just\ngeopolitical, it's deeply personal."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 483079,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Every time you scroll,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 484413,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "we're participating in a system\nthat monetizes our attention."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 488329,
+    "dDurationMs": 3875,
+    "segs": [ {
+      "utf8": "Outrage and fear, generate\nengagement in the algorithms,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 492246,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "learn how to feed us more of both."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 496163,
+    "dDurationMs": 2791,
+    "segs": [ {
+      "utf8": "Platforms weren't designed\nto destroy democracy,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 499663,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "but they are designed to keep us engaged."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 503579,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "And when engagement rewards outrage,\nconspiracy and division,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 507246,
+    "dDurationMs": 4958,
+    "segs": [ {
+      "utf8": "the gap between intent\nand impact becomes catastrophic."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 514496,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "Despite everything I'm saying,\nI'm a technology optimist,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 519412,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but I'm also a realist."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 521829,
+    "dDurationMs": 5458,
+    "segs": [ {
+      "utf8": "Because behind every algorithm\nis a human decision Behind"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 527287,
+    "dDurationMs": 3542,
+    "segs": [ {
+      "utf8": "every human decision is a set\nof human values,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 532037,
+    "dDurationMs": 2625,
+    "segs": [ {
+      "utf8": "and that's what scares me the most."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 534662,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "It's not the technology itself."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 536412,
+    "dDurationMs": 5917,
+    "segs": [ {
+      "utf8": "I think innovation is moving at a speed\nwhere we will see a new world unfold"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 542329,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "in the next few years,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 544079,
+    "dDurationMs": 4625,
+    "segs": [ {
+      "utf8": "but it's the people and the governments\nthat are eager and willing"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 548704,
+    "dDurationMs": 1917,
+    "segs": [ {
+      "utf8": "and excited to weaponise it,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 552496,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "the leaders willing\nto sacrifice human rights"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 555162,
+    "dDurationMs": 2834,
+    "segs": [ {
+      "utf8": "and international laws\nto hit their bottom line."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 559121,
+    "dDurationMs": 3125,
+    "segs": [ {
+      "utf8": "So how do we fight back\nagainst the war that we can't see?"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 563621,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "How do we fight back against a war\ndesigned to keep us trapped in fear?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 570746,
+    "dDurationMs": 2458,
+    "segs": [ {
+      "utf8": "I believe the answer is counter momentum."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 573746,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And counter momentum isn't about\nblaming one leader or one company."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 579621,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "It's about redirecting\nenergy through thousands of small,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 583454,
+    "dDurationMs": 4792,
+    "segs": [ {
+      "utf8": "deliberate choices that research\nhuman agency over digital systems,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 589329,
+    "dDurationMs": 2708,
+    "segs": [ {
+      "utf8": "choices that make us talk,\nthink, strategize,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 592746,
+    "dDurationMs": 1958,
+    "segs": [ {
+      "utf8": "and hopefully move forward together."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 596079,
+    "dDurationMs": 3042,
+    "segs": [ {
+      "utf8": "And this this is a playbook\nfor how we get there."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 600246,
+    "dDurationMs": 2458,
+    "segs": [ {
+      "utf8": "One, we need to reclaim attention."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 603162,
+    "dDurationMs": 3584,
+    "segs": [ {
+      "utf8": "Every pause before we click\nor share is an act of sovereignty."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 607496,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "Two reject erosion.\nWe don't all need to be fact checkers."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 612246,
+    "dDurationMs": 3458,
+    "segs": [ {
+      "utf8": "That's my job. But\nwe can be pattern recognizers"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 616204,
+    "dDurationMs": 6083,
+    "segs": [ {
+      "utf8": "when something feels designed to enrage,\nto delight or divide, pause, question,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 622662,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "verify,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 625037,
+    "dDurationMs": 4042,
+    "segs": [ {
+      "utf8": "rebuild, connection,\nreal conversation across divides is what"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 629079,
+    "dDurationMs": 2417,
+    "segs": [ {
+      "utf8": "authoritarian governments fear the most."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 632079,
+    "dDurationMs": 3875,
+    "segs": [ {
+      "utf8": "Dialogue is messy, it’s uncomfortable,\nand it’s innately human. And it’s"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 636246,
+    "dDurationMs": 2666,
+    "segs": [ {
+      "utf8": "the one thing that algorithms\nhave not figured out how"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 638912,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "to replicate yet."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 641496,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "And lastly, protect our data."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 644412,
+    "dDurationMs": 4084,
+    "segs": [ {
+      "utf8": "Our data is the raw material\nof this invisible war."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 649121,
+    "dDurationMs": 2166,
+    "segs": [ {
+      "utf8": "It's a lifeblood of every model,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 651287,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "algorithm and decision\nengine shaping our world."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 655079,
+    "dDurationMs": 2625,
+    "segs": [ {
+      "utf8": "AI governance is data governance."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 658121,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "Protecting our data is\nprotecting democracy."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 662704,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "Every digital trace we leave\nbehind is being used to predict, persuade,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 666537,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "or control."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 668579,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "That's why I strongly believe\nthat counter momentum cannot stop"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 672746,
+    "dDurationMs": 2625,
+    "segs": [ {
+      "utf8": "with individuals. It has to."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 675371,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "It must become resilient infrastructure"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 679329,
+    "dDurationMs": 4875,
+    "segs": [ {
+      "utf8": "because the answer to unregulated\nextraction is not disengagement."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 684537,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "It's design. And if we want\nto redirect momentum at scale,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 688996,
+    "dDurationMs": 3458,
+    "segs": [ {
+      "utf8": "we must build interoperable\nglobal guardrails,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 692912,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "not as limit but\nas the architecture of trust."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 697412,
+    "dDurationMs": 4125,
+    "segs": [ {
+      "utf8": "We have to move beyond being satisfied\nwith just having a human in the loop."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 702037,
+    "dDurationMs": 4375,
+    "segs": [ {
+      "utf8": "beyond trusting the companies will do\nthe right things for their customers."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 706871,
+    "dDurationMs": 2125,
+    "segs": [ {
+      "utf8": "Because without guardrails, without laws,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 708996,
+    "dDurationMs": 2416,
+    "segs": [ {
+      "utf8": "without accountability of a consequence,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 713079,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it's all talk."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 716329,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Good governance does not happen\nbecause we have good intentions."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 723329,
+    "dDurationMs": 3583,
+    "segs": [ {
+      "utf8": "It happens because we have accountability\nframeworks in place."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 726912,
+    "dDurationMs": 2334,
+    "segs": [ {
+      "utf8": "We have laws in place."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 731621,
+    "dDurationMs": 2458,
+    "segs": [ {
+      "utf8": "Guardrails are not a nice to have."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 734871,
+    "dDurationMs": 1458,
+    "segs": [ {
+      "utf8": "They're a must have."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 738204,
+    "dDurationMs": 3708,
+    "segs": [ {
+      "utf8": "Global standards with accountability\nare not optional."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 741912,
+    "dDurationMs": 5959,
+    "segs": [ {
+      "utf8": "They are the price of trust\nand responsible innovation no matter"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 747871,
+    "dDurationMs": 2041,
+    "segs": [ {
+      "utf8": "who is creating the technology."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 750621,
+    "dDurationMs": 2583,
+    "segs": [ {
+      "utf8": "It's the only way that we win."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 754037,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Because the truth is humanity's\nprogress has always outrun its ethics."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 758912,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "For centuries, we built\nfaster than we reflect it."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 762246,
+    "dDurationMs": 5416,
+    "segs": [ {
+      "utf8": "Profit over peace. Growth over governance,\ninnovation over integrity."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 768496,
+    "dDurationMs": 3666,
+    "segs": [ {
+      "utf8": "We made fortunes from the engines\nof war and called it progress."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 774079,
+    "dDurationMs": 2458,
+    "segs": [ {
+      "utf8": "This time I know we can do better."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 777537,
+    "dDurationMs": 6334,
+    "segs": [ {
+      "utf8": "We have to. We must. There is no other\nfuture unless we build it together. The"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 784329,
+    "dDurationMs": 1875,
+    "segs": [ {
+      "utf8": "micro choices of individuals sitting"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 786204,
+    "dDurationMs": 5083,
+    "segs": [ {
+      "utf8": "in this room become the building blocks\nof systems that last."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 792912,
+    "dDurationMs": 4417,
+    "segs": [ {
+      "utf8": "Because counter momentum isn't\njust resistance, it's construction."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 798621,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It's how we build the future deliberately,\nresponsibly, together."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 804579,
+    "dDurationMs": 5875,
+    "segs": [ {
+      "utf8": "Engine Z is doing just that in Nepal,\nMadagascar and in Morocco."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 810496,
+    "dDurationMs": 5458,
+    "segs": [ {
+      "utf8": "Young people turned discord and TikTok\ninto digital town squares, organizing,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 815954,
+    "dDurationMs": 1875,
+    "segs": [ {
+      "utf8": "mobilizing and demanding change."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 818496,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "They're proving\nthat the same tools once used"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 820871,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "to divide us are being used to unite us."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 824329,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "Reminding us that truth\nstill has architects."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 827996,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "They're showing us what counter\nmomentum looks like in real time."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 832537,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "I know the resilient\ninfrastructure for truth can be built,"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 838287,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and it requires investment."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 841162,
+    "dDurationMs": 5417,
+    "segs": [ {
+      "utf8": "It requires political will, it requires\naccountability, and most importantly,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 846579,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "it requires collaboration."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 849871,
+    "dDurationMs": 3458,
+    "segs": [ {
+      "utf8": "I strongly believe that momentum\ncan be redirected."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 854204,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I believe that truth can still scale."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 857037,
+    "dDurationMs": 2625,
+    "segs": [ {
+      "utf8": "I also know that truth can be profitable."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 861746,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "For me, this is bigger than politics."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 865621,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "It's bigger than one country."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 867121,
+    "dDurationMs": 2958,
+    "segs": [ {
+      "utf8": "It's bigger than one\nvoting bloc, one corporation."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 870912,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "It's about who writes\nthe story of our future."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 874454,
+    "dDurationMs": 2792,
+    "segs": [ {
+      "utf8": "It's about using the playbook\nto move us forward."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 877246,
+    "dDurationMs": 4208,
+    "segs": [ {
+      "utf8": "It's about rejecting the invisible\nwar that's unfolding all around us."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 882079,
+    "dDurationMs": 2333,
+    "segs": [ {
+      "utf8": "We have to reclaim attention."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 884412,
+    "dDurationMs": 1792,
+    "segs": [ {
+      "utf8": "We have to reject erosion."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 886412,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "We have to rebuild our communities,\nand we must protect our data."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 891579,
+    "dDurationMs": 3125,
+    "segs": [ {
+      "utf8": "If we do that, we ensure\nthat there's no inevitability"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 895162,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "and that we take control of momentum."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 898287,
+    "dDurationMs": 6625,
+    "segs": [ {
+      "utf8": "The direction of momentum is ours\nto choose towards fear or towards truth."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 906037,
+    "dDurationMs": 3209,
+    "segs": [ {
+      "utf8": "The invisible war does\nnot have to defeat us,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 910746,
+    "dDurationMs": 6375,
+    "segs": [ {
+      "utf8": "and the counter momentum movement\ncan begin right here, right now, today."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 2
+  }, {
+    "tStartMs": 917704,
+    "dDurationMs": 3083,
+    "segs": [ {
+      "utf8": "There is no time to waste. Thank you."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 2
+  } ]
+}
