@@ -1,0 +1,493 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 6931,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "You’ve been accused of a crime \nyou did not commit."
+    } ]
+  }, {
+    "tStartMs": 10531,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It’s impossible to prove your innocence."
+    } ]
+  }, {
+    "tStartMs": 13055,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "If you insist that you’re innocent anyway,"
+    } ]
+  }, {
+    "tStartMs": 15605,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "you’ll likely be found guilty \nand executed."
+    } ]
+  }, {
+    "tStartMs": 18695,
+    "dDurationMs": 5094,
+    "segs": [ {
+      "utf8": "But if you confess, apologize, \nand implicate others for good measure,"
+    } ]
+  }, {
+    "tStartMs": 23789,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "you’ll go free."
+    } ]
+  }, {
+    "tStartMs": 25249,
+    "dDurationMs": 4429,
+    "segs": [ {
+      "utf8": "Do you give a false confession— \nor risk a public hanging?"
+    } ]
+  }, {
+    "tStartMs": 29678,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "This was the choice facing \nthose accused of witchcraft"
+    } ]
+  }, {
+    "tStartMs": 33098,
+    "dDurationMs": 6817,
+    "segs": [ {
+      "utf8": "in the village of Salem, Massachusetts \nbetween February 1692 and May 1693."
+    } ]
+  }, {
+    "tStartMs": 39915,
+    "dDurationMs": 3445,
+    "segs": [ {
+      "utf8": "They were the victims of paranoia \nabout the supernatural,"
+    } ]
+  }, {
+    "tStartMs": 43360,
+    "dDurationMs": 2421,
+    "segs": [ {
+      "utf8": "misdirected religious fervor—"
+    } ]
+  }, {
+    "tStartMs": 45781,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "and a justice system that valued \nrepentance over truth."
+    } ]
+  }, {
+    "tStartMs": 50331,
+    "dDurationMs": 5919,
+    "segs": [ {
+      "utf8": "Salem was settled in 1626 by Puritans, \na group of English protestants."
+    } ]
+  }, {
+    "tStartMs": 56250,
+    "dDurationMs": 3214,
+    "segs": [ {
+      "utf8": "Life was strict and isolated \nfor the people of Salem."
+    } ]
+  }, {
+    "tStartMs": 59464,
+    "dDurationMs": 2181,
+    "segs": [ {
+      "utf8": "Battles with their \nNative American neighbors"
+    } ]
+  }, {
+    "tStartMs": 61645,
+    "dDurationMs": 3127,
+    "segs": [ {
+      "utf8": "and groups of French settlers\nwere commonplace."
+    } ]
+  }, {
+    "tStartMs": 64772,
+    "dDurationMs": 2706,
+    "segs": [ {
+      "utf8": "People feared starvation and disease,"
+    } ]
+  }, {
+    "tStartMs": 67478,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "and relations between villagers \nwere strained."
+    } ]
+  }, {
+    "tStartMs": 70108,
+    "dDurationMs": 5684,
+    "segs": [ {
+      "utf8": "To make matters worse, 1692 brought \none of the coldest winters on record."
+    } ]
+  }, {
+    "tStartMs": 75792,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "That winter, two cousins,"
+    } ]
+  }, {
+    "tStartMs": 77722,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "9 year old Betty Parris and \n11 year old Abigail Williams"
+    } ]
+  }, {
+    "tStartMs": 81492,
+    "dDurationMs": 3354,
+    "segs": [ {
+      "utf8": "started behaving very strangely."
+    } ]
+  }, {
+    "tStartMs": 84846,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "A physician found nothing \nphysically wrong —"
+    } ]
+  }, {
+    "tStartMs": 87876,
+    "dDurationMs": 4933,
+    "segs": [ {
+      "utf8": "but diagnosed the girls \nas under “an evil hand.”"
+    } ]
+  }, {
+    "tStartMs": 92809,
+    "dDurationMs": 4931,
+    "segs": [ {
+      "utf8": "Puritans believed that the Devil wreaked \nhavoc in the world through human agents,"
+    } ]
+  }, {
+    "tStartMs": 97740,
+    "dDurationMs": 4636,
+    "segs": [ {
+      "utf8": "or witches, who blighted nature, \nconjured fiendish apparitions,"
+    } ]
+  }, {
+    "tStartMs": 102376,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and tormented children."
+    } ]
+  }, {
+    "tStartMs": 104776,
+    "dDurationMs": 4786,
+    "segs": [ {
+      "utf8": "As news swept through the village, \nthe symptoms appeared to spread."
+    } ]
+  }, {
+    "tStartMs": 109562,
+    "dDurationMs": 5301,
+    "segs": [ {
+      "utf8": "Accounts describe 12 so-called \n“afflicted” girls contorting their bodies,"
+    } ]
+  }, {
+    "tStartMs": 114863,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "having fits, \nand complaining of prickling skin."
+    } ]
+  }, {
+    "tStartMs": 118616,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Four of the girls soon accused three\nlocal women of tormenting them."
+    } ]
+  }, {
+    "tStartMs": 124196,
+    "dDurationMs": 4126,
+    "segs": [ {
+      "utf8": "All three of the accused were considered \noutsiders in some way."
+    } ]
+  }, {
+    "tStartMs": 128322,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "On February 29th, \nthe authorities arrested Sarah Good,"
+    } ]
+  }, {
+    "tStartMs": 132082,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "a poor pregnant mother \nof a young daughter,"
+    } ]
+  }, {
+    "tStartMs": 134582,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Sarah Osbourne,\nwho had long been absent from church"
+    } ]
+  }, {
+    "tStartMs": 138272,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "and was suing the family \nof one of her accusers,"
+    } ]
+  }, {
+    "tStartMs": 141222,
+    "dDurationMs": 3673,
+    "segs": [ {
+      "utf8": "and Tituba, an enslaved woman \nin Betty Parris’s home"
+    } ]
+  }, {
+    "tStartMs": 144895,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "known by her first name only."
+    } ]
+  }, {
+    "tStartMs": 147625,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Tituba denied harming the girls at first."
+    } ]
+  }, {
+    "tStartMs": 151025,
+    "dDurationMs": 4549,
+    "segs": [ {
+      "utf8": "But then she confessed to practicing \nwitchcraft on the Devil’s orders,"
+    } ]
+  }, {
+    "tStartMs": 155574,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and charged Good and Osbourne \nwith having forced her."
+    } ]
+  }, {
+    "tStartMs": 159454,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Osbourne and Good both \nmaintained their innocence."
+    } ]
+  }, {
+    "tStartMs": 162994,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Osbourne died in prison, while Good’s \nhusband turned against her in court,"
+    } ]
+  }, {
+    "tStartMs": 168354,
+    "dDurationMs": 4467,
+    "segs": [ {
+      "utf8": "testifying that she \"was a witch \nor would be one very quickly.\""
+    } ]
+  }, {
+    "tStartMs": 172821,
+    "dDurationMs": 2328,
+    "segs": [ {
+      "utf8": "Good’s 4 year old daughter \nwas imprisoned"
+    } ]
+  }, {
+    "tStartMs": 175149,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and eventually gave testimony \nagainst her mother."
+    } ]
+  }, {
+    "tStartMs": 178589,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Meanwhile, Good gave birth in jail."
+    } ]
+  }, {
+    "tStartMs": 180979,
+    "dDurationMs": 4891,
+    "segs": [ {
+      "utf8": "Her baby died, and she was convicted \nand hanged shortly thereafter."
+    } ]
+  }, {
+    "tStartMs": 185870,
+    "dDurationMs": 4693,
+    "segs": [ {
+      "utf8": "Tituba was held in custody until May,\nand then released."
+    } ]
+  }, {
+    "tStartMs": 190563,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "These three victims were \njust the beginning."
+    } ]
+  }, {
+    "tStartMs": 193543,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "As accusations multiplied, \nothers, like Tituba,"
+    } ]
+  }, {
+    "tStartMs": 197053,
+    "dDurationMs": 3341,
+    "segs": [ {
+      "utf8": "made false confession to save themselves."
+    } ]
+  }, {
+    "tStartMs": 200394,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "The authorities even reportedly \ntold one accused witch"
+    } ]
+  }, {
+    "tStartMs": 203814,
+    "dDurationMs": 5061,
+    "segs": [ {
+      "utf8": "that she would be hanged if she did not \nconfess, and freed if she did."
+    } ]
+  }, {
+    "tStartMs": 208875,
+    "dDurationMs": 4524,
+    "segs": [ {
+      "utf8": "They were not particularly interested\nin thoroughly investigating the charges—"
+    } ]
+  }, {
+    "tStartMs": 213399,
+    "dDurationMs": 4575,
+    "segs": [ {
+      "utf8": "in keeping with their Church’s teachings, \nthey preferred that the accused confessed,"
+    } ]
+  }, {
+    "tStartMs": 217974,
+    "dDurationMs": 4849,
+    "segs": [ {
+      "utf8": "asked for forgiveness, and promised \nnot to engage in more witchcraft."
+    } ]
+  }, {
+    "tStartMs": 222823,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "The court accepted all kinds \nof dubious evidence,"
+    } ]
+  }, {
+    "tStartMs": 226173,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "including so-called “spectral evidence”"
+    } ]
+  }, {
+    "tStartMs": 229343,
+    "dDurationMs": 5982,
+    "segs": [ {
+      "utf8": "in which the girls began raving when \nsupposedly touched by invisible ghosts."
+    } ]
+  }, {
+    "tStartMs": 235325,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Complicating matters further, \nmany of the jurors in the trials"
+    } ]
+  }, {
+    "tStartMs": 239325,
+    "dDurationMs": 5111,
+    "segs": [ {
+      "utf8": "were relatives of the accusers,\ncompromising their objectivity."
+    } ]
+  }, {
+    "tStartMs": 244436,
+    "dDurationMs": 4781,
+    "segs": [ {
+      "utf8": "Those who dared to speak out, \nsuch as Judge Nathanial Saltonstall,"
+    } ]
+  }, {
+    "tStartMs": 249217,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "came under suspicion."
+    } ]
+  }, {
+    "tStartMs": 251017,
+    "dDurationMs": 4445,
+    "segs": [ {
+      "utf8": "By the spring of 1693, \nover a hundred people had been imprisoned,"
+    } ]
+  }, {
+    "tStartMs": 255462,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "and 14 women \nand 6 men had been executed."
+    } ]
+  }, {
+    "tStartMs": 259402,
+    "dDurationMs": 4077,
+    "segs": [ {
+      "utf8": "By this time, accusations were starting \nto spread beyond Salem"
+    } ]
+  }, {
+    "tStartMs": 263479,
+    "dDurationMs": 4969,
+    "segs": [ {
+      "utf8": "to neighboring communities, and even \nthe most powerful figures were targets."
+    } ]
+  }, {
+    "tStartMs": 268448,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "When his own wife was accused,"
+    } ]
+  }, {
+    "tStartMs": 270378,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "the governor of Massachusetts colony \nsuspended the trials."
+    } ]
+  }, {
+    "tStartMs": 274098,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Sentences were amended, \nprisoners released, and arrests stopped."
+    } ]
+  }, {
+    "tStartMs": 278688,
+    "dDurationMs": 3547,
+    "segs": [ {
+      "utf8": "Some have speculated that the girls \nwere suffering from hallucinations"
+    } ]
+  }, {
+    "tStartMs": 282235,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "caused by fungus;"
+    } ]
+  }, {
+    "tStartMs": 283745,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "or a condition that caused \nswelling of the brain."
+    } ]
+  }, {
+    "tStartMs": 286355,
+    "dDurationMs": 4459,
+    "segs": [ {
+      "utf8": "But ultimately, the reason \nfor their behavior is unknown."
+    } ]
+  }, {
+    "tStartMs": 290814,
+    "dDurationMs": 5266,
+    "segs": [ {
+      "utf8": "What we do know is that adults \naccepted wild accusations by children"
+    } ]
+  }, {
+    "tStartMs": 296080,
+    "dDurationMs": 2163,
+    "segs": [ {
+      "utf8": "as hard evidence."
+    } ]
+  }, {
+    "tStartMs": 298243,
+    "dDurationMs": 3767,
+    "segs": [ {
+      "utf8": "Today, the Salem Witch Trials remain \na cautionary tale"
+    } ]
+  }, {
+    "tStartMs": 302010,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "of the dangers of groupthink \nand scapegoating,"
+    } ]
+  }, {
+    "tStartMs": 304970,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "and the power of fear \nto manipulate human perception."
+    } ]
+  } ]
+}
