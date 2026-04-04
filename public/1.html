@@ -1,0 +1,612 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TED Interactive Transcript — Isis & the Seven Scorpions</title>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;700&display=swap');
+
+      :root {
+        --red: #e62b1e;
+        --red-light: rgba(230, 43, 30, 0.08);
+        --red-border: rgba(230, 43, 30, 0.35);
+        --bg: #f5f1eb;
+        --surface: #fff;
+        --text: #1a1a1a;
+        --muted: #888;
+        --border: #e0d9d0;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        background: var(--bg);
+        font-family: 'Lora', Georgia, serif;
+        color: var(--text);
+        min-height: 100vh;
+      }
+
+      .layout {
+        display: grid;
+        grid-template-columns: 1fr 420px;
+        gap: 0;
+        min-height: 100vh;
+        max-width: 1280px;
+        margin: 0 auto;
+      }
+
+      /* ── LEFT PANEL: Transcript ── */
+      .left-panel {
+        padding: 40px 48px 80px 48px;
+        border-right: 1px solid var(--border);
+        overflow-y: auto;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+      }
+
+      .ted-header {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        margin-bottom: 10px;
+      }
+
+      .ted-logo {
+        background: var(--red);
+        color: #fff;
+        font-family: 'DM Sans', sans-serif;
+        font-weight: 900;
+        font-size: 20px;
+        padding: 3px 10px 4px;
+        letter-spacing: -0.5px;
+        line-height: 1;
+        border-radius: 2px;
+      }
+
+      .ted-header h1 {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        color: var(--muted);
+        letter-spacing: 0.4px;
+        text-transform: uppercase;
+      }
+
+      .video-title {
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 1.4;
+        margin: 16px 0 6px;
+        color: #111;
+      }
+
+      .divider {
+        height: 2px;
+        background: var(--red);
+        width: 40px;
+        margin: 16px 0 28px;
+      }
+
+      .transcript-label {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 10px;
+        font-weight: 700;
+        letter-spacing: 2.5px;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin-bottom: 24px;
+      }
+
+      .paragraph-block {
+        margin-bottom: 28px;
+        padding: 12px 16px 12px 14px;
+        border-left: 3px solid transparent;
+        border-radius: 0 4px 4px 0;
+        cursor: pointer;
+        transition:
+          background 0.2s,
+          border-color 0.2s;
+        position: relative;
+      }
+
+      .paragraph-block:hover {
+        background: var(--red-light);
+        border-left-color: var(--red-border);
+      }
+
+      .paragraph-block.active {
+        background: rgba(230, 43, 30, 0.1);
+        border-left-color: var(--red);
+      }
+
+      .timestamp-tag {
+        font-family: 'DM Sans', sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--red);
+        margin-bottom: 7px;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        opacity: 0;
+        transition: opacity 0.15s;
+      }
+
+      .paragraph-block:hover .timestamp-tag,
+      .paragraph-block.active .timestamp-tag {
+        opacity: 1;
+      }
+
+      .play-icon {
+        width: 14px;
+        height: 14px;
+        background: var(--red);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+
+      .play-icon svg {
+        width: 7px;
+        height: 7px;
+        fill: white;
+        margin-left: 1px;
+      }
+
+      .paragraph-block p {
+        font-size: 17px;
+        line-height: 1.8;
+        color: #333;
+        transition: color 0.15s;
+      }
+
+      .paragraph-block:hover p,
+      .paragraph-block.active p {
+        color: #111;
+      }
+
+      /* ── RIGHT PANEL: Video ── */
+      .right-panel {
+        background: #111;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+      }
+
+      .video-wrapper {
+        width: 100%;
+        aspect-ratio: 16/9;
+        background: #000;
+        position: relative;
+        flex-shrink: 0;
+      }
+
+      .video-wrapper iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+        display: block;
+      }
+
+      .video-info-panel {
+        flex: 1;
+        padding: 24px;
+        color: #ccc;
+        font-family: 'DM Sans', sans-serif;
+        overflow-y: auto;
+      }
+
+      .now-playing-label {
+        font-size: 10px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: var(--red);
+        margin-bottom: 10px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .live-dot {
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+        background: var(--red);
+        animation: pulse 1.4s infinite;
+      }
+
+      @keyframes pulse {
+        0%,
+        100% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0.2;
+        }
+      }
+
+      .now-playing-text {
+        font-size: 15px;
+        line-height: 1.7;
+        color: #eee;
+        font-family: 'Lora', serif;
+        font-style: italic;
+        min-height: 60px;
+        transition: all 0.3s;
+      }
+
+      .time-display {
+        margin-top: 20px;
+        font-size: 12px;
+        color: #666;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+
+      .progress-bar {
+        height: 3px;
+        background: #333;
+        border-radius: 2px;
+        overflow: hidden;
+        margin-top: 4px;
+      }
+
+      .progress-fill {
+        height: 100%;
+        background: var(--red);
+        border-radius: 2px;
+        transition: width 0.3s;
+        width: 0%;
+      }
+
+      .para-count {
+        margin-top: 20px;
+        font-size: 12px;
+        color: #555;
+        border-top: 1px solid #222;
+        padding-top: 16px;
+      }
+
+      .para-count span {
+        color: var(--red);
+        font-weight: 700;
+      }
+
+      .hint-box {
+        margin-top: 16px;
+        background: #1a1a1a;
+        border-radius: 6px;
+        padding: 14px;
+        font-size: 12px;
+        color: #666;
+        line-height: 1.7;
+      }
+
+      .hint-box b {
+        color: #999;
+      }
+
+      /* Mobile */
+      @media (max-width: 768px) {
+        .layout {
+          grid-template-columns: 1fr;
+        }
+        .right-panel {
+          position: relative;
+          height: auto;
+        }
+        .left-panel {
+          height: auto;
+          position: relative;
+          padding: 24px 20px 60px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="layout">
+      <!-- LEFT: Transcript -->
+      <div class="left-panel">
+        <div class="ted-header">
+          <div class="ted-logo">TED</div>
+          <h1>Interactive Transcript</h1>
+        </div>
+        <div class="video-title">Isis and the Seven Scorpions</div>
+        <div class="divider"></div>
+        <div class="transcript-label">Transcript · Click đoạn để phát</div>
+        <div id="transcript-container"></div>
+      </div>
+
+      <!-- RIGHT: Video + Info -->
+      <div class="right-panel">
+        <div class="video-wrapper">
+          <iframe
+            id="yt-iframe"
+            src="https://www.youtube.com/embed/JycXLG6GeYk?enablejsapi=1&rel=0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+
+        <div class="video-info-panel">
+          <div class="now-playing-label">
+            <div class="live-dot"></div>
+            Đang phát
+          </div>
+          <div class="now-playing-text" id="now-playing-text">Nhấn play để bắt đầu...</div>
+
+          <div class="time-display">
+            <div id="time-label">0:00 / --:--</div>
+            <div class="progress-bar">
+              <div class="progress-fill" id="progress-fill"></div>
+            </div>
+          </div>
+
+          <div class="para-count">Đoạn <span id="para-current">—</span> / <span id="para-total">—</span></div>
+
+          <div class="hint-box">
+            <b>Hướng dẫn:</b><br />
+            • <b>Hover</b> vào đoạn → hiện timestamp + highlight<br />
+            • <b>Click</b> vào đoạn → seek video đến đúng vị trí<br />
+            • Khi video phát, đoạn tương ứng tự động <b>highlight</b>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      // ═══════════════════════════════════════════════════════
+      // RAW CAPTION DATA (từ file JSON YouTube)
+      // ═══════════════════════════════════════════════════════
+      const rawEvents = [
+        { tStartMs: 11018, dDurationMs: 5733, text: 'A woman in rags emerged from the swamp flanked by seven giant scorpions.' },
+        { tStartMs: 16751, dDurationMs: 5208, text: 'Carrying a baby, she headed for the nearest village to beg for food.' },
+        { tStartMs: 21959, dDurationMs: 2250, text: 'She approached a magnificent mansion,' },
+        { tStartMs: 24209, dDurationMs: 3490, text: 'but the mistress of the house took one look at her grimy clothes' },
+        { tStartMs: 27699, dDurationMs: 4524, text: 'and unusual companions and slammed the door in her face.' },
+        { tStartMs: 32223, dDurationMs: 4726, text: 'So she continued down the road until she came to a cottage.' },
+        { tStartMs: 36949, dDurationMs: 3510, text: 'The woman there took pity on the stranger and offered her what she could:' },
+        { tStartMs: 40459, dDurationMs: 3122, text: 'a simple meal and a bed of straw.' },
+        { tStartMs: 43581, dDurationMs: 2970, text: 'Her guest was no ordinary beggar.' },
+        { tStartMs: 46551, dDurationMs: 4481, text: 'She was Isis, the most powerful goddess in Egypt.' },
+        { tStartMs: 51032, dDurationMs: 2970, text: 'Isis was in hiding from her brother Set,' },
+        { tStartMs: 54002, dDurationMs: 5314, text: 'who murdered her husband and wanted to murder her infant son, Horus.' },
+        { tStartMs: 59316, dDurationMs: 4037, text: 'Set was also a powerful god, and he was looking for them.' },
+        { tStartMs: 63353, dDurationMs: 3350, text: 'So to keep her cover, Isis had to be very discreet—' },
+        { tStartMs: 66703, dDurationMs: 2290, text: "she couldn't risk using her powers." },
+        { tStartMs: 68993, dDurationMs: 2310, text: 'But she was not without aid.' },
+        { tStartMs: 71303, dDurationMs: 2790, text: 'Serket, goddess of venomous creatures,' },
+        { tStartMs: 74093, dDurationMs: 5823, text: 'had sent seven of her fiercest servants to guard Isis and her son.' },
+        { tStartMs: 79916, dDurationMs: 3700, text: 'As Isis and Horus settled into their humble accommodation,' },
+        { tStartMs: 83616, dDurationMs: 5071, text: 'the scorpions fumed at how the wealthy woman had offended their divine mistress.' },
+        { tStartMs: 88687, dDurationMs: 4938, text: 'They all combined their venom and gave it to one of the seven, Tefen.' },
+        { tStartMs: 93625, dDurationMs: 4000, text: 'In the dead of night, Tefen crept over to the mansion.' },
+        { tStartMs: 97625, dDurationMs: 1540, text: 'As he crawled under the door,' },
+        { tStartMs: 99165, dDurationMs: 3180, text: "he saw the owner's young son sleeping peacefully" },
+        { tStartMs: 102345, dDurationMs: 2800, text: 'and gave him a mighty sting.' },
+        { tStartMs: 105145, dDurationMs: 4162, text: 'Isis and her hostess were soon awakened by loud wailing.' },
+        { tStartMs: 109307, dDurationMs: 2440, text: 'As they peered out of the doorway of the cottage,' },
+        { tStartMs: 111747, dDurationMs: 2646, text: 'they saw a mother running through the street,' },
+        { tStartMs: 114393, dDurationMs: 2322, text: 'weeping as she cradled her son.' },
+        { tStartMs: 116715, dDurationMs: 3160, text: 'When Isis recognized the woman who had turned her away,' },
+        { tStartMs: 119875, dDurationMs: 3090, text: 'she understood what her scorpions had done.' },
+        { tStartMs: 122965, dDurationMs: 5693, text: 'Isis took the boy in her arms and began to recite a powerful spell:' },
+        { tStartMs: 128658, dDurationMs: 4754, text: '"O poison of Tefen, come out of him and fall upon the ground!' },
+        { tStartMs: 133412, dDurationMs: 4912, text: 'Poison of Befen, advance not, penetrate no farther, come out of him,' },
+        { tStartMs: 138324, dDurationMs: 2460, text: 'and fall upon the ground!' },
+        { tStartMs: 140784, dDurationMs: 4836, text: 'For I am Isis, the great Enchantress, the Speaker of spells.' },
+        { tStartMs: 145620, dDurationMs: 5276, text: 'Fall down, O poison of Mestet! Hasten not, poison of Mestetef!' },
+        { tStartMs: 150896, dDurationMs: 7818, text: 'Rise not, poison of Petet and Thetet! Approach not, poison of Matet!"' },
+        { tStartMs: 158714, dDurationMs: 6533, text: "With each name she invoked, that scorpion's poison was neutralized." },
+        { tStartMs: 165247, dDurationMs: 3250, text: 'The child stirred, and his mother wept with gratitude' },
+        { tStartMs: 168497, dDurationMs: 2870, text: 'and lamented her earlier callousness,' },
+        { tStartMs: 171367, dDurationMs: 4259, text: 'offering all her wealth to Isis in repentance.' },
+        { tStartMs: 175626, dDurationMs: 3516, text: 'The woman who had taken Isis in watched in awe—' },
+        { tStartMs: 179142, dDurationMs: 3310, text: "she had had no idea who she'd brought under her roof." },
+        { tStartMs: 182452, dDurationMs: 2120, text: 'And from that day on,' },
+        { tStartMs: 184572, dDurationMs: 3530, text: 'the people learned to make a poultice to treat scorpion bites,' },
+        { tStartMs: 188102, dDurationMs: 3725, text: 'speaking magical incantations just as the goddess had.' },
+      ];
+
+      // ═══════════════════════════════════════════════════════
+      // PARAGRAPH GROUPING ALGORITHM
+      // Có thể tái sử dụng với bất kỳ file caption YouTube nào
+      // ═══════════════════════════════════════════════════════
+      function groupIntoParagraphs(events, options = {}) {
+        const {
+          maxGapMs = 4000, // Gap lớn hơn này → cắt đoạn mới
+          targetDurationMs = 18000, // Độ dài lý tưởng của một đoạn
+          maxDurationMs = 28000, // Buộc cắt nếu vượt quá
+          minSegments = 2, // Tối thiểu số segment mỗi đoạn
+        } = options;
+
+        const endsWithPunctuation = text => /[.!?"»]$/.test(text.trim());
+        const startsNewSentence = text => /^[A-Z"«]/.test(text.trim());
+
+        const paragraphs = [];
+        let current = [];
+
+        for (let i = 0; i < events.length; i++) {
+          const seg = events[i];
+          const next = events[i + 1];
+          current.push(seg);
+
+          const pStart = current[0].tStartMs;
+          const pEnd = seg.tStartMs + seg.dDurationMs;
+          const pDuration = pEnd - pStart;
+          const gapToNext = next ? next.tStartMs - (seg.tStartMs + seg.dDurationMs) : Infinity;
+
+          const isLast = !next;
+          const hasMinLength = current.length >= minSegments;
+          const endsProperly = endsWithPunctuation(seg.text);
+          const nextStartsNew = next ? startsNewSentence(next.text) : true;
+
+          const shouldCut =
+            isLast ||
+            (gapToNext > maxGapMs && hasMinLength) ||
+            (pDuration >= targetDurationMs && endsProperly && nextStartsNew) ||
+            (pDuration >= maxDurationMs && hasMinLength);
+
+          if (shouldCut) {
+            const text = current.map(s => s.text.replace(/\s+/g, ' ').trim()).join(' ');
+            paragraphs.push({
+              startMs: current[0].tStartMs,
+              endMs: current[current.length - 1].tStartMs + current[current.length - 1].dDurationMs,
+              text: text.trim(),
+              segments: [...current],
+            });
+            current = [];
+          }
+        }
+
+        return paragraphs;
+      }
+
+      // ═══════════════════════════════════════════════════════
+      // UTILITIES
+      // ═══════════════════════════════════════════════════════
+      function formatTime(ms) {
+        const s = Math.floor(ms / 1000);
+        const m = Math.floor(s / 60);
+        return `${m}:${(s % 60).toString().padStart(2, '0')}`;
+      }
+
+      // ═══════════════════════════════════════════════════════
+      // BUILD UI
+      // ═══════════════════════════════════════════════════════
+      const paragraphs = groupIntoParagraphs(rawEvents);
+      const container = document.getElementById('transcript-container');
+      const nowPlayingEl = document.getElementById('now-playing-text');
+      const timeLabel = document.getElementById('time-label');
+      const progressFill = document.getElementById('progress-fill');
+      const paraCurrentEl = document.getElementById('para-current');
+      const paraTotalEl = document.getElementById('para-total');
+
+      paraTotalEl.textContent = paragraphs.length;
+
+      const totalVideoMs = rawEvents[rawEvents.length - 1].tStartMs + rawEvents[rawEvents.length - 1].dDurationMs;
+
+      paragraphs.forEach((para, idx) => {
+        const block = document.createElement('div');
+        block.className = 'paragraph-block';
+        block.dataset.idx = idx;
+
+        const ts = document.createElement('div');
+        ts.className = 'timestamp-tag';
+        ts.innerHTML = `
+    <span class="play-icon">
+      <svg viewBox="0 0 8 10"><polygon points="0,0 8,5 0,10"/></svg>
+    </span>
+    ${formatTime(para.startMs)} — ${formatTime(para.endMs)}
+  `;
+
+        const p = document.createElement('p');
+        p.textContent = para.text;
+
+        block.appendChild(ts);
+        block.appendChild(p);
+        container.appendChild(block);
+
+        block.addEventListener('click', () => {
+          seekVideo(para.startMs / 1000);
+        });
+      });
+
+      let currentActive = -1;
+
+      function setActive(idx) {
+        if (idx === currentActive) return;
+        document.querySelectorAll('.paragraph-block').forEach((el, i) => {
+          el.classList.toggle('active', i === idx);
+        });
+        currentActive = idx;
+
+        if (idx >= 0) {
+          const para = paragraphs[idx];
+          nowPlayingEl.textContent = para.text;
+          paraCurrentEl.textContent = idx + 1;
+
+          const activeEl = document.querySelector(`[data-idx="${idx}"]`);
+          if (activeEl) {
+            activeEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          }
+        }
+      }
+
+      function findActiveParagraph(currentTimeSec) {
+        const ms = currentTimeSec * 1000;
+        for (let i = 0; i < paragraphs.length; i++) {
+          if (ms >= paragraphs[i].startMs && ms < paragraphs[i].endMs) return i;
+        }
+        return -1;
+      }
+
+      // ═══════════════════════════════════════════════════════
+      // YOUTUBE IFRAME API
+      // ═══════════════════════════════════════════════════════
+      let player = null;
+      let pollInterval = null;
+
+      function seekVideo(timeSec) {
+        if (player && player.seekTo) {
+          player.seekTo(timeSec, true);
+          player.playVideo();
+        }
+      }
+
+      function startPolling() {
+        if (pollInterval) return;
+        pollInterval = setInterval(() => {
+          if (!player || !player.getCurrentTime) return;
+          try {
+            const currentSec = player.getCurrentTime();
+            const duration = player.getDuration() || 0;
+
+            // Update progress
+            if (duration > 0) {
+              const pct = (currentSec / duration) * 100;
+              progressFill.style.width = pct + '%';
+              timeLabel.textContent = `${formatTime(currentSec * 1000)} / ${formatTime(duration * 1000)}`;
+            }
+
+            // Highlight paragraph
+            const idx = findActiveParagraph(currentSec);
+            setActive(idx);
+          } catch (e) {}
+        }, 250);
+      }
+
+      window.onYouTubeIframeAPIReady = function () {
+        player = new YT.Player('yt-iframe', {
+          events: {
+            onReady: () => {
+              console.log('YouTube Player ready');
+            },
+            onStateChange: e => {
+              if (e.data === YT.PlayerState.PLAYING) {
+                startPolling();
+              }
+            },
+          },
+        });
+      };
+
+      // Load YouTube Iframe API
+      const tag = document.createElement('script');
+      tag.src = 'https://www.youtube.com/iframe_api';
+      document.head.appendChild(tag);
+    </script>
+  </body>
+</html>

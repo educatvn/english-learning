@@ -1,93 +1,95 @@
-import { useEffect, useRef, useState, useCallback } from 'react'
-import { useParams, useSearchParams } from 'react-router-dom'
-import ReactPlayer from 'react-player'
-import { Brain, StickyNote, Plus, Trash2, PanelRightClose, PanelRightOpen } from 'lucide-react'
-import { parseJSON3, findActiveCue } from '@/utils/captionParser'
-import type { CaptionCue } from '@/utils/captionParser'
-import { pickQuizWord, maskText } from '@/utils/quizWord'
-import { loadVideos } from '@/services/videos'
-import { useAuth } from '@/context/AuthContext'
-import { AppHeader } from '@/components/AppHeader'
-import { CueText } from '@/components/CueText'
-import { VocabDialog } from '@/components/VocabDialog'
-import { useQuizMode } from '@/hooks/useQuizMode'
-import { useWatchTime } from '@/hooks/useWatchTime'
-import { useVideoProgress } from '@/hooks/useVideoProgress'
-import { useVideoNotes } from '@/hooks/useVideoNotes'
-import { QuizModal } from '@/components/QuizModal'
-import type { QuizResult } from '@/components/QuizModal'
-import { VideoProgressBar } from '@/components/VideoProgressBar'
-import { saveQuizAttempt } from '@/services/quizResults'
-import { addVocabWord, getVocabWords } from '@/services/vocabulary'
-import type { VocabEntry } from '@/types'
+import { useEffect, useRef, useState, useCallback } from 'react';
+import { useParams, useSearchParams } from 'react-router-dom';
+import ReactPlayer from 'react-player';
+import { Brain, StickyNote, Plus, Trash2, PanelRightClose, PanelRightOpen } from 'lucide-react';
+import { parseJSON3, findActiveCue } from '@/utils/captionParser';
+import type { CaptionCue } from '@/utils/captionParser';
+import { pickQuizWord, maskText } from '@/utils/quizWord';
+import { loadVideos } from '@/services/videos';
+import { useAuth } from '@/context/AuthContext';
+import { AppHeader } from '@/components/AppHeader';
+import { CueText } from '@/components/CueText';
+import { VocabDialog } from '@/components/VocabDialog';
+import { useQuizMode } from '@/hooks/useQuizMode';
+import { useWatchTime } from '@/hooks/useWatchTime';
+import { useVideoProgress } from '@/hooks/useVideoProgress';
+import { useVideoNotes } from '@/hooks/useVideoNotes';
+import { QuizModal } from '@/components/QuizModal';
+import type { QuizResult } from '@/components/QuizModal';
+import { VideoProgressBar } from '@/components/VideoProgressBar';
+import { saveQuizAttempt } from '@/services/quizResults';
+import { addVocabWord, getVocabWords } from '@/services/vocabulary';
+import type { VocabEntry } from '@/types';
+
+import { segmentTranscript } from '../lib/transcriptSegmenter';
 
 export default function PlayPage() {
-  const { videoId } = useParams<{ videoId: string }>()
-  const [searchParams] = useSearchParams()
-  const { user } = useAuth()
+  const { videoId } = useParams<{ videoId: string }>();
+  const [searchParams] = useSearchParams();
+  const { user } = useAuth();
 
-  const playerRef = useRef<HTMLVideoElement>(null)
-  const activeCueRef = useRef<HTMLButtonElement>(null)
-  const didSeekRef = useRef(false)
-  const durationMsStateRef = useRef(0)
+  const playerRef = useRef<HTMLVideoElement>(null);
+  const activeCueRef = useRef<HTMLButtonElement>(null);
+  const didSeekRef = useRef(false);
+  const durationMsStateRef = useRef(0);
 
-  const [cues, setCues] = useState<CaptionCue[]>([])
-  const [currentMs, setCurrentMs] = useState(0)
-  const [durationMs, setDurationMs] = useState(0)
-  const [playing, setPlaying] = useState(false)
-  const stopAtMsRef = useRef<number | null>(null)
-  const [videoTitle, setVideoTitle] = useState<string | null>(null)
+  const [cues, setCues] = useState<CaptionCue[]>([]);
+  const [currentMs, setCurrentMs] = useState(0);
+  const [durationMs, setDurationMs] = useState(0);
+  const [playing, setPlaying] = useState(false);
+  const stopAtMsRef = useRef<number | null>(null);
+  const [videoTitle, setVideoTitle] = useState<string | null>(null);
 
-  const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null)
+  const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null);
 
-  const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes'>('captions')
-  const [isAddingNote, setIsAddingNote] = useState(false)
-  const [pendingNoteMs, setPendingNoteMs] = useState(0)
-  const [noteText, setNoteText] = useState('')
-  const noteInputRef = useRef<HTMLTextAreaElement>(null)
+  const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes'>('captions');
+  const [isAddingNote, setIsAddingNote] = useState(false);
+  const [pendingNoteMs, setPendingNoteMs] = useState(0);
+  const [noteText, setNoteText] = useState('');
+  const noteInputRef = useRef<HTMLTextAreaElement>(null);
 
-  const [sidebarOpen, setSidebarOpen] = useState(true)
-  const [vocabWords, setVocabWords] = useState<Set<string>>(new Set())
-  const [vocabDialog, setVocabDialog] = useState<{ word: string; cue: CaptionCue } | null>(null)
+  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [vocabWords, setVocabWords] = useState<Set<string>>(new Set());
+  const [vocabDialog, setVocabDialog] = useState<{ word: string; cue: CaptionCue } | null>(null);
   // Track whether video was playing before overlay hover paused it
-  const wasPlayingRef = useRef(false)
+  const wasPlayingRef = useRef(false);
 
-  const quiz = useQuizMode()
-  const watchTime = useWatchTime(user?.sub)
-  const videoProgress = useVideoProgress(user?.sub, videoId)
-  const { notes, addNote, removeNote } = useVideoNotes(user?.sub, videoId)
+  const quiz = useQuizMode();
+  const watchTime = useWatchTime(user?.sub);
+  const videoProgress = useVideoProgress(user?.sub, videoId);
+  const { notes, addNote, removeNote } = useVideoNotes(user?.sub, videoId);
 
   // Load saved vocab words for highlighting
   useEffect(() => {
-    if (!user) return
+    if (!user) return;
     getVocabWords(user.sub)
-      .then((entries) => setVocabWords(new Set(entries.map((e) => e.word))))
-      .catch(console.error)
-  }, [user?.sub]) // eslint-disable-line react-hooks/exhaustive-deps
+      .then(entries => setVocabWords(new Set(entries.map(e => e.word))))
+      .catch(console.error);
+  }, [user?.sub]); // eslint-disable-line react-hooks/exhaustive-deps
 
   function handleOverlayMouseEnter() {
     if (playing) {
-      wasPlayingRef.current = true
-      playerRef.current?.pause()
-      setPlaying(false)
+      wasPlayingRef.current = true;
+      playerRef.current?.pause();
+      setPlaying(false);
     }
   }
 
   function handleOverlayMouseLeave() {
     if (wasPlayingRef.current && !vocabDialog) {
-      wasPlayingRef.current = false
-      playerRef.current?.play().catch(console.error)
-      setPlaying(true)
+      wasPlayingRef.current = false;
+      playerRef.current?.play().catch(console.error);
+      setPlaying(true);
     }
   }
 
   function handleWordClick(word: string) {
-    if (!activeCue) return
-    setVocabDialog({ word, cue: activeCue })
+    if (!activeCue) return;
+    setVocabDialog({ word, cue: activeCue });
   }
 
   async function handleAddToVocab(word: string, definition: string) {
-    if (!user || !videoId || !vocabDialog) return
+    if (!user || !videoId || !vocabDialog) return;
     const entry: VocabEntry = {
       id: `${user.sub}_${word}_${Date.now()}`,
       word: word.toLowerCase(),
@@ -96,114 +98,132 @@ export default function PlayPage() {
       sourceVideoId: videoId,
       sourceMs: vocabDialog.cue.startMs,
       sourceCueText: vocabDialog.cue.text,
-    }
-    await addVocabWord(entry, user.sub)
-    setVocabWords((prev) => new Set([...prev, entry.word]))
+    };
+    await addVocabWord(entry, user.sub);
+    setVocabWords(prev => new Set([...prev, entry.word]));
   }
 
   function handleDialogClose() {
-    setVocabDialog(null)
+    setVocabDialog(null);
     if (wasPlayingRef.current) {
-      wasPlayingRef.current = false
-      playerRef.current?.play().catch(console.error)
-      setPlaying(true)
+      wasPlayingRef.current = false;
+      playerRef.current?.play().catch(console.error);
+      setPlaying(true);
     }
   }
 
-  const seekToMs = searchParams.get('t') ? Number(searchParams.get('t')) : null
+  const seekToMs = searchParams.get('t') ? Number(searchParams.get('t')) : null;
 
   useEffect(() => {
-    loadVideos().then((vs) => {
-      const match = vs.find((v) => v.videoId === videoId)
-      if (match) setVideoTitle(match.title)
-    }).catch(console.error)
-  }, [videoId])
+    loadVideos()
+      .then(vs => {
+        const match = vs.find(v => v.videoId === videoId);
+        if (match) setVideoTitle(match.title);
+      })
+      .catch(console.error);
+  }, [videoId]);
 
   useEffect(() => {
     async function loadCaptions() {
-      const base = import.meta.env.BASE_URL
-      const paths = [`${base}captions/${videoId}.json`]
+      const base = import.meta.env.BASE_URL;
+      const paths = [`${base}captions/${videoId}.json`];
       for (const path of paths) {
         try {
-          const r = await fetch(path)
-          if (!r.ok) continue
-          const data = await r.json()
-          const result = parseJSON3(data)
-          if (result.cues.length > 0) { setCues(result.cues); return }
-        } catch { continue }
+          const r = await fetch(path);
+          if (!r.ok) continue;
+          const data = await r.json();
+
+          const parsedData = segmentTranscript(data?.events);
+
+          console.log(parsedData);
+
+          const result = parseJSON3(data);
+          if (result.cues.length > 0) {
+            setCues(result.cues);
+            return;
+          }
+        } catch {
+          continue;
+        }
       }
     }
-    loadCaptions().catch(console.error)
-  }, [videoId])
+    loadCaptions().catch(console.error);
+  }, [videoId]);
 
   // Seek to ?t= timestamp once player is ready + cues loaded
   useEffect(() => {
-    if (!seekToMs || didSeekRef.current || !playerRef.current || cues.length === 0) return
-    const video = playerRef.current
-    video.currentTime = seekToMs / 1000
-    const cue = findActiveCue(cues, seekToMs)
-    if (cue) setPinnedCueIdx(cues.indexOf(cue))
-    didSeekRef.current = true
-  }, [seekToMs, cues])
+    if (!seekToMs || didSeekRef.current || !playerRef.current || cues.length === 0) return;
+    const video = playerRef.current;
+    video.currentTime = seekToMs / 1000;
+    const cue = findActiveCue(cues, seekToMs);
+    if (cue) setPinnedCueIdx(cues.indexOf(cue));
+    didSeekRef.current = true;
+  }, [seekToMs, cues]);
 
   useEffect(() => {
-    if (isAddingNote) noteInputRef.current?.focus()
-  }, [isAddingNote])
+    if (isAddingNote) noteInputRef.current?.focus();
+  }, [isAddingNote]);
 
   // ── Active cue ───────────────────────────────────────────────────────────
-  const liveCue = findActiveCue(cues, currentMs)
-  const liveCueIdx = liveCue ? cues.indexOf(liveCue) : -1
-  const activeCueIdx = pinnedCueIdx !== null ? pinnedCueIdx : liveCueIdx
-  const activeCue = cues[activeCueIdx] ?? null
+  const liveCue = findActiveCue(cues, currentMs);
+  const liveCueIdx = liveCue ? cues.indexOf(liveCue) : -1;
+  const activeCueIdx = pinnedCueIdx !== null ? pinnedCueIdx : liveCueIdx;
+  const activeCue = cues[activeCueIdx] ?? null;
 
   useEffect(() => {
-    activeCueRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
-  }, [activeCueIdx])
+    activeCueRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }, [activeCueIdx]);
 
   // ── Playback ─────────────────────────────────────────────────────────────
-  const handleTimeUpdate = useCallback((e: React.SyntheticEvent<HTMLVideoElement>) => {
-    const ms = e.currentTarget.currentTime * 1000
-    const dur = e.currentTarget.duration * 1000
-    // Only trigger re-render when duration first becomes known
-    if (isFinite(dur) && dur > 0 && dur !== durationMsStateRef.current) {
-      durationMsStateRef.current = dur
-      setDurationMs(dur)
-    }
-    videoProgress.onTimeUpdate(ms, dur)
-    if (stopAtMsRef.current !== null && ms >= stopAtMsRef.current) {
-      stopAtMsRef.current = null
-      e.currentTarget.pause()
-      setPlaying(false)
-      setPinnedCueIdx(null)
-      quiz.onCueEnded()
-      return
-    }
-    setCurrentMs(ms)
-  }, [quiz.onCueEnded]) // eslint-disable-line react-hooks/exhaustive-deps
+  const handleTimeUpdate = useCallback(
+    (e: React.SyntheticEvent<HTMLVideoElement>) => {
+      const ms = e.currentTarget.currentTime * 1000;
+      const dur = e.currentTarget.duration * 1000;
+      // Only trigger re-render when duration first becomes known
+      if (isFinite(dur) && dur > 0 && dur !== durationMsStateRef.current) {
+        durationMsStateRef.current = dur;
+        setDurationMs(dur);
+      }
+      videoProgress.onTimeUpdate(ms, dur);
+      if (stopAtMsRef.current !== null && ms >= stopAtMsRef.current) {
+        stopAtMsRef.current = null;
+        e.currentTarget.pause();
+        setPlaying(false);
+        setPinnedCueIdx(null);
+        quiz.onCueEnded();
+        return;
+      }
+      setCurrentMs(ms);
+    },
+    [quiz.onCueEnded],
+  ); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleSeek = useCallback((ms: number) => {
-    const video = playerRef.current
-    if (!video) return
-    stopAtMsRef.current = null
-    video.currentTime = ms / 1000
-    setCurrentMs(ms)
-    setPinnedCueIdx(null)
-  }, [])
+    const video = playerRef.current;
+    if (!video) return;
+    stopAtMsRef.current = null;
+    video.currentTime = ms / 1000;
+    setCurrentMs(ms);
+    setPinnedCueIdx(null);
+  }, []);
 
-  const handleCueClick = useCallback((cue: CaptionCue, idx: number) => {
-    const video = playerRef.current
-    if (!video) return
-    setPinnedCueIdx(idx)
-    quiz.onCueStarted(cue)
-    stopAtMsRef.current = cue.endMs
-    video.currentTime = cue.startMs / 1000
-    setPlaying(true)
-    video.play().catch(console.error)
-  }, [quiz.onCueStarted]) // eslint-disable-line react-hooks/exhaustive-deps
+  const handleCueClick = useCallback(
+    (cue: CaptionCue, idx: number) => {
+      const video = playerRef.current;
+      if (!video) return;
+      setPinnedCueIdx(idx);
+      quiz.onCueStarted(cue);
+      stopAtMsRef.current = cue.endMs;
+      video.currentTime = cue.startMs / 1000;
+      setPlaying(true);
+      video.play().catch(console.error);
+    },
+    [quiz.onCueStarted],
+  ); // eslint-disable-line react-hooks/exhaustive-deps
 
   function handleQuizClose(result: QuizResult | null) {
-    const snapshotState = quiz.quizState
-    quiz.closeQuiz()
+    const snapshotState = quiz.quizState;
+    quiz.closeQuiz();
     if (result && user && videoId) {
       void saveQuizAttempt({
         userId: user.sub,
@@ -213,36 +233,36 @@ export default function PlayPage() {
         userAnswer: result.userAnswer,
         correct: result.correct,
         answeredAt: new Date().toISOString(),
-      })
+      });
     }
   }
 
   function handleStartAddNote() {
-    setPendingNoteMs(currentMs)
-    setNoteText('')
-    setIsAddingNote(true)
-    setPlaying(false)
-    playerRef.current?.pause()
+    setPendingNoteMs(currentMs);
+    setNoteText('');
+    setIsAddingNote(true);
+    setPlaying(false);
+    playerRef.current?.pause();
   }
 
   function handleSaveNote() {
-    if (!noteText.trim()) return
-    void addNote(pendingNoteMs, noteText)
-    setIsAddingNote(false)
-    setNoteText('')
+    if (!noteText.trim()) return;
+    void addNote(pendingNoteMs, noteText);
+    setIsAddingNote(false);
+    setNoteText('');
   }
 
   function handleCancelNote() {
-    setIsAddingNote(false)
-    setNoteText('')
+    setIsAddingNote(false);
+    setNoteText('');
   }
 
   // Caption overlay — masked text in quiz mode, interactive CueText otherwise
   const overlayMasked = (() => {
-    if (!activeCue) return null
-    if (quiz.quizMode && quiz.quizWordRef.current) return maskText(activeCue.text, quiz.quizWordRef.current)
-    return null
-  })()
+    if (!activeCue) return null;
+    if (quiz.quizMode && quiz.quizWordRef.current) return maskText(activeCue.text, quiz.quizWordRef.current);
+    return null;
+  })();
 
   return (
     <div className="flex flex-col h-screen bg-background overflow-hidden">
@@ -252,13 +272,11 @@ export default function PlayPage() {
           <div className="flex items-center gap-1">
             <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
             <button
-              onClick={() => setSidebarOpen((v) => !v)}
+              onClick={() => setSidebarOpen(v => !v)}
               title={sidebarOpen ? 'Hide sidebar' : 'Show sidebar'}
               className="hidden md:flex w-8 h-8 items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
             >
-              {sidebarOpen
-                ? <PanelRightClose className="w-4 h-4" />
-                : <PanelRightOpen className="w-4 h-4" />}
+              {sidebarOpen ? <PanelRightClose className="w-4 h-4" /> : <PanelRightOpen className="w-4 h-4" />}
             </button>
           </div>
         }
@@ -276,19 +294,19 @@ export default function PlayPage() {
               playing={playing}
               onTimeUpdate={handleTimeUpdate}
               onPlay={() => {
-                if (stopAtMsRef.current === null) setPinnedCueIdx(null)
-                setPlaying(true)
-                watchTime.onPlay()
-                videoProgress.onPlay()
+                if (stopAtMsRef.current === null) setPinnedCueIdx(null);
+                setPlaying(true);
+                watchTime.onPlay();
+                videoProgress.onPlay();
               }}
               onPause={() => {
-                setPlaying(false)
-                watchTime.onPause()
-                videoProgress.onPause()
+                setPlaying(false);
+                watchTime.onPause();
+                videoProgress.onPause();
               }}
               onEnded={() => {
-                watchTime.onPause()
-                videoProgress.onEnded()
+                watchTime.onPause();
+                videoProgress.onEnded();
               }}
               style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }}
               config={{
@@ -310,14 +328,7 @@ export default function PlayPage() {
                 onMouseLeave={handleOverlayMouseLeave}
               >
                 <span className="bg-black/80 text-white text-xl font-medium px-4 py-2 rounded text-center leading-relaxed max-w-3xl">
-                  {overlayMasked ?? (
-                    <CueText
-                      text={activeCue.text}
-                      onWordClick={handleWordClick}
-                      savedWords={vocabWords}
-                      dark
-                    />
-                  )}
+                  {overlayMasked ?? <CueText text={activeCue.text} onWordClick={handleWordClick} savedWords={vocabWords} dark />}
                 </span>
               </div>
             )}
@@ -331,47 +342,41 @@ export default function PlayPage() {
                 onClose={handleDialogClose}
               />
             )}
-
           </div>
 
           {/* Caption strip — mobile only */}
           {activeCue && (
             <div className="md:hidden bg-black px-4 py-2.5 shrink-0 border-t border-white/10">
               <p className="text-white text-base font-medium text-center leading-relaxed">
-                {overlayMasked ?? (
-                  <CueText
-                    text={activeCue.text}
-                    onWordClick={handleWordClick}
-                    savedWords={vocabWords}
-                    dark
-                  />
-                )}
+                {overlayMasked ?? <CueText text={activeCue.text} onWordClick={handleWordClick} savedWords={vocabWords} dark />}
               </p>
             </div>
           )}
 
           {/* Progress bar */}
-          <VideoProgressBar
-            currentMs={currentMs}
-            durationMs={durationMs}
-            notes={notes}
-            onSeek={handleSeek}
-          />
+          <VideoProgressBar currentMs={currentMs} durationMs={durationMs} notes={notes} onSeek={handleSeek} />
         </div>
 
         {/* Sidebar — always visible below video on mobile, on right on desktop */}
-        <div className={[
-          'flex-1 md:flex-none md:w-96 flex flex-col bg-card border-t md:border-t-0 md:border-l border-border overflow-hidden min-h-0',
-          'md:transition-all md:duration-200',
-          sidebarOpen ? '' : 'md:hidden',
-        ].join(' ')}>
+        <div
+          className={[
+            'flex-1 md:flex-none md:w-96 flex flex-col bg-card border-t md:border-t-0 md:border-l border-border overflow-hidden min-h-0',
+            'md:transition-all md:duration-200',
+            sidebarOpen ? '' : 'md:hidden',
+          ].join(' ')}
+        >
           {/* Sidebar tabs */}
           <div className="flex border-b border-border shrink-0">
             <SidebarTab active={sidebarTab === 'captions'} onClick={() => setSidebarTab('captions')}>
               Captions
             </SidebarTab>
             <SidebarTab active={sidebarTab === 'notes'} onClick={() => setSidebarTab('notes')}>
-              Notes{notes.length > 0 && <span className="ml-1.5 text-[9px] bg-yellow-500/20 text-yellow-400 px-1.5 py-0.5 rounded-full font-semibold">{notes.length}</span>}
+              Notes
+              {notes.length > 0 && (
+                <span className="ml-1.5 text-[9px] bg-yellow-500/20 text-yellow-400 px-1.5 py-0.5 rounded-full font-semibold">
+                  {notes.length}
+                </span>
+              )}
             </SidebarTab>
             {quiz.quizMode && (
               <span className="ml-auto self-center mr-3 text-[10px] bg-primary/10 text-primary px-2 py-0.5 rounded-full font-medium">
@@ -383,13 +388,11 @@ export default function PlayPage() {
           {/* Captions panel */}
           {sidebarTab === 'captions' && (
             <div className="flex-1 overflow-y-auto">
-              {cues.length === 0 && (
-                <div className="p-6 text-center text-muted-foreground text-sm">Loading captions…</div>
-              )}
+              {cues.length === 0 && <div className="p-6 text-center text-muted-foreground text-sm">Loading captions…</div>}
               {cues.map((cue, idx) => {
-                const isActive = idx === activeCueIdx
-                const qw = quiz.quizMode ? pickQuizWord(cue.text) : null
-                const displayText = qw ? maskText(cue.text, qw) : cue.text
+                const isActive = idx === activeCueIdx;
+                const qw = quiz.quizMode ? pickQuizWord(cue.text) : null;
+                const displayText = qw ? maskText(cue.text, qw) : cue.text;
                 return (
                   <button
                     key={cue.startMs}
@@ -404,12 +407,10 @@ export default function PlayPage() {
                         : 'text-muted-foreground border-l-2 border-l-transparent',
                     ].join(' ')}
                   >
-                    <span className="text-[10px] text-muted-foreground/50 font-mono block mb-0.5">
-                      {formatTime(cue.startMs)}
-                    </span>
+                    <span className="text-[10px] text-muted-foreground/50 font-mono block mb-0.5">{formatTime(cue.startMs)}</span>
                     {displayText}
                   </button>
-                )
+                );
               })}
             </div>
           )}
@@ -428,10 +429,13 @@ export default function PlayPage() {
                     <textarea
                       ref={noteInputRef}
                       value={noteText}
-                      onChange={(e) => setNoteText(e.target.value)}
-                      onKeyDown={(e) => {
-                        if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); handleSaveNote() }
-                        if (e.key === 'Escape') handleCancelNote()
+                      onChange={e => setNoteText(e.target.value)}
+                      onKeyDown={e => {
+                        if (e.key === 'Enter' && !e.shiftKey) {
+                          e.preventDefault();
+                          handleSaveNote();
+                        }
+                        if (e.key === 'Escape') handleCancelNote();
                       }}
                       placeholder="Type your note… (Enter to save, Esc to cancel)"
                       rows={3}
@@ -469,10 +473,14 @@ export default function PlayPage() {
                 {notes.length === 0 && !isAddingNote && (
                   <div className="px-4 py-8 text-center">
                     <StickyNote className="w-8 h-8 text-muted-foreground/20 mx-auto mb-2" />
-                    <p className="text-xs text-muted-foreground/60">No notes yet.<br />Add a note while watching.</p>
+                    <p className="text-xs text-muted-foreground/60">
+                      No notes yet.
+                      <br />
+                      Add a note while watching.
+                    </p>
                   </div>
                 )}
-                {notes.map((note) => (
+                {notes.map(note => (
                   <div
                     key={note.createdAt}
                     className="group flex gap-3 px-4 py-3 border-b border-border/60 hover:bg-accent/50 transition-colors"
@@ -499,39 +507,25 @@ export default function PlayPage() {
         </div>
       </div>
 
-      {quiz.quizState && (
-        <QuizModal
-          cue={quiz.quizState.cue}
-          quizWord={quiz.quizState.quizWord}
-          onClose={handleQuizClose}
-        />
-      )}
+      {quiz.quizState && <QuizModal cue={quiz.quizState.cue} quizWord={quiz.quizState.quizWord} onClose={handleQuizClose} />}
     </div>
-  )
+  );
 }
-
-
 
 // ─── SidebarTab ───────────────────────────────────────────────────────────────
 
-function SidebarTab({ active, onClick, children }: {
-  active: boolean
-  onClick: () => void
-  children: React.ReactNode
-}) {
+function SidebarTab({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
   return (
     <button
       onClick={onClick}
       className={[
         'flex items-center gap-1.5 px-4 py-2.5 text-xs font-medium border-b-2 transition-colors',
-        active
-          ? 'border-primary text-foreground'
-          : 'border-transparent text-muted-foreground hover:text-foreground',
+        active ? 'border-primary text-foreground' : 'border-transparent text-muted-foreground hover:text-foreground',
       ].join(' ')}
     >
       {children}
     </button>
-  )
+  );
 }
 
 // ─── QuizToggle ───────────────────────────────────────────────────────────────
@@ -543,18 +537,20 @@ function QuizToggle({ active, onToggle }: { active: boolean; onToggle: () => voi
       title={active ? 'Quiz mode on — click to disable' : 'Enable quiz mode'}
       className={[
         'flex items-center gap-1.5 h-7 px-3 rounded-lg text-xs font-semibold transition-colors',
-        active ? 'bg-primary text-primary-foreground hover:bg-primary/90' : 'bg-muted text-muted-foreground hover:bg-accent hover:text-foreground',
+        active
+          ? 'bg-primary text-primary-foreground hover:bg-primary/90'
+          : 'bg-muted text-muted-foreground hover:bg-accent hover:text-foreground',
       ].join(' ')}
     >
       <Brain className="w-3.5 h-3.5" />
       Quiz
     </button>
-  )
+  );
 }
 
 function formatTime(ms: number): string {
-  const totalSec = Math.floor(ms / 1000)
-  const m = Math.floor(totalSec / 60)
-  const s = totalSec % 60
-  return `${m}:${String(s).padStart(2, '0')}`
+  const totalSec = Math.floor(ms / 1000);
+  const m = Math.floor(totalSec / 60);
+  const s = totalSec % 60;
+  return `${m}:${String(s).padStart(2, '0')}`;
 }
