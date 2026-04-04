@@ -184,7 +184,7 @@ export function AppHeader({ right, breadcrumb, hideAddVideo = false, onMenuClick
             </button>
           )}
           <Link to="/" className="flex items-center gap-2 shrink-0 hover:opacity-90 transition-opacity">
-            <img src="/favicon.svg" alt="E" className="w-6 h-6 rounded" />
+            <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="E" className="w-6 h-6 rounded" />
             <span className="font-semibold text-sm">English Learning</span>
           </Link>
           {breadcrumb && (

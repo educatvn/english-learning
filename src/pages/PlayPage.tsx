@@ -161,6 +161,19 @@ export default function PlayPage() {
     activeCueRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }, [activeCueIdx]);
 
+  // Disable YouTube's built-in captions via the IFrame API.
+  // youtube-video-element hardcodes cc_load_policy=1, so we must clear the
+  // active caption track programmatically after the player initializes.
+  function disableYTCaptions() {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const ytEl = playerRef.current as any
+    const api = ytEl?.api
+    if (!api) return
+    api.setOption?.('captions', 'track', {})
+    api.unloadModule?.('cc')
+    api.unloadModule?.('captions')
+  }
+
   // ── Playback ─────────────────────────────────────────────────────────────
   const handleTimeUpdate = useCallback(
     (e: React.SyntheticEvent<HTMLVideoElement>) => {
@@ -277,7 +290,9 @@ export default function PlayPage() {
               src={`https://www.youtube.com/watch?v=${videoId}`}
               playing={playing}
               onTimeUpdate={handleTimeUpdate}
+              onLoadedMetadata={() => disableYTCaptions()}
               onPlay={() => {
+                disableYTCaptions();
                 if (stopAtMsRef.current === null) setPinnedCueIdx(null);
                 setPlaying(true);
                 watchTime.onPlay();

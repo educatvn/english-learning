@@ -29,20 +29,28 @@ export function VideoProgressBar({ currentMs, durationMs, notes, onSeek }: Props
     return Math.round((x / rect.width) * durationMs)
   }
 
+  function startDrag(clientX: number) {
+    isDraggingRef.current = true
+    setIsDragging(true)
+    onSeek(msFromClientX(clientX))
+  }
+
+  function endDrag() {
+    isDraggingRef.current = false
+    setIsDragging(false)
+  }
+
   function handleMouseDown(e: React.MouseEvent) {
     if (durationMs <= 0) return
     e.preventDefault()
-    isDraggingRef.current = true
-    setIsDragging(true)
-    onSeek(msFromClientX(e.clientX))
+    startDrag(e.clientX)
 
     function onMouseMove(ev: MouseEvent) {
       if (!isDraggingRef.current) return
       onSeek(msFromClientX(ev.clientX))
     }
     function onMouseUp() {
-      isDraggingRef.current = false
-      setIsDragging(false)
+      endDrag()
       window.removeEventListener('mousemove', onMouseMove)
       window.removeEventListener('mouseup', onMouseUp)
     }
@@ -50,7 +58,25 @@ export function VideoProgressBar({ currentMs, durationMs, notes, onSeek }: Props
     window.addEventListener('mouseup', onMouseUp)
   }
 
-  // Clean up listeners on unmount
+  function handleTouchStart(e: React.TouchEvent) {
+    if (durationMs <= 0) return
+    e.preventDefault()
+    startDrag(e.touches[0].clientX)
+  }
+
+  function handleTouchMove(e: React.TouchEvent) {
+    if (!isDraggingRef.current) return
+    e.preventDefault()
+    onSeek(msFromClientX(e.touches[0].clientX))
+  }
+
+  function handleTouchEnd(e: React.TouchEvent) {
+    if (!isDraggingRef.current) return
+    onSeek(msFromClientX(e.changedTouches[0].clientX))
+    endDrag()
+  }
+
+  // Clean up on unmount
   useEffect(() => () => { isDraggingRef.current = false }, [])
 
   return (
@@ -65,11 +91,14 @@ export function VideoProgressBar({ currentMs, durationMs, notes, onSeek }: Props
       {/* Track */}
       <div
         ref={trackRef}
-        className="relative flex-1 group/track cursor-pointer select-none"
+        className="relative flex-1 group/track cursor-pointer select-none touch-none"
         style={{ height: 20 }}
         onMouseDown={handleMouseDown}
         onMouseMove={(e) => setHoverMs(msFromClientX(e.clientX))}
         onMouseLeave={() => !isDragging && setHoverMs(null)}
+        onTouchStart={handleTouchStart}
+        onTouchMove={handleTouchMove}
+        onTouchEnd={handleTouchEnd}
       >
         {/* Background rail */}
         <div className="absolute inset-x-0 top-1/2 -translate-y-1/2 rounded-full bg-gray-700 transition-all duration-100"
