@@ -1,0 +1,337 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 500,
+    "dDurationMs": 983,
+    "segs": [ {
+      "utf8": "Come here to me."
+    } ]
+  }, {
+    "tStartMs": 3700,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "No no, you come here to me."
+    } ]
+  }, {
+    "tStartMs": 6894,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Hey Ross."
+    } ]
+  }, {
+    "tStartMs": 9500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I brought reinforcements."
+    } ]
+  }, {
+    "tStartMs": 10700,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Oh great."
+    } ]
+  }, {
+    "tStartMs": 11540,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "What, you brought Joey?"
+    } ]
+  }, {
+    "tStartMs": 12590,
+    "dDurationMs": 1695,
+    "segs": [ {
+      "utf8": "Well I brought the next best thing."
+    } ]
+  }, {
+    "tStartMs": 14285,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Hey."
+    } ]
+  }, {
+    "tStartMs": 16490,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Chandler?"
+    } ]
+  }, {
+    "tStartMs": 17323,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "You brought Chandler?"
+    } ]
+  }, {
+    "tStartMs": 18156,
+    "dDurationMs": 1727,
+    "segs": [ {
+      "utf8": "The next best thing would be Monica."
+    } ]
+  }, {
+    "tStartMs": 21138,
+    "dDurationMs": 1392,
+    "segs": [ {
+      "utf8": "You know I would be offended"
+    } ]
+  }, {
+    "tStartMs": 22530,
+    "dDurationMs": 2053,
+    "segs": [ {
+      "utf8": "but Monica is freakishly strong."
+    } ]
+  }, {
+    "tStartMs": 25902,
+    "dDurationMs": 2938,
+    "segs": [ {
+      "utf8": "Look, I drew a sketch of\nhow we're gonna do it, okay."
+    } ]
+  }, {
+    "tStartMs": 28840,
+    "dDurationMs": 3363,
+    "segs": [ {
+      "utf8": "Rach, that's you, that's the couch."
+    } ]
+  }, {
+    "tStartMs": 33940,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "What's that?"
+    } ]
+  }, {
+    "tStartMs": 35040,
+    "dDurationMs": 1153,
+    "segs": [ {
+      "utf8": "Oh, that's me."
+    } ]
+  }, {
+    "tStartMs": 38060,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 41144,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "You certainly think a lot of yourself."
+    } ]
+  }, {
+    "tStartMs": 45064,
+    "dDurationMs": 2049,
+    "segs": [ {
+      "utf8": "No, that's my arm."
+    } ]
+  }, {
+    "tStartMs": 51587,
+    "dDurationMs": 1743,
+    "segs": [ {
+      "utf8": "Oh I see, I thought you just really,"
+    } ]
+  }, {
+    "tStartMs": 53330,
+    "dDurationMs": 1453,
+    "segs": [ {
+      "utf8": "really liked your new couch."
+    } ]
+  }, {
+    "tStartMs": 58415,
+    "dDurationMs": 2485,
+    "segs": [ {
+      "utf8": "You know what, just follow my lead."
+    } ]
+  }, {
+    "tStartMs": 60900,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "- Okay.\n- Okay."
+    } ]
+  }, {
+    "tStartMs": 62741,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "[Ross] Come on Chandler."
+    } ]
+  }, {
+    "tStartMs": 66480,
+    "dDurationMs": 1472,
+    "segs": [ {
+      "utf8": "- All right.\n- Okay."
+    } ]
+  }, {
+    "tStartMs": 67952,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 70185,
+    "dDurationMs": 1708,
+    "segs": [ {
+      "utf8": "All right, ready?"
+    } ]
+  }, {
+    "tStartMs": 73140,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Turn."
+    } ]
+  }, {
+    "tStartMs": 74020,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Turn."
+    } ]
+  }, {
+    "tStartMs": 75690,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Turn."
+    } ]
+  }, {
+    "tStartMs": 77803,
+    "dDurationMs": 2385,
+    "segs": [ {
+      "utf8": "I don't think we can turn anymore."
+    } ]
+  }, {
+    "tStartMs": 80188,
+    "dDurationMs": 2272,
+    "segs": [ {
+      "utf8": "Ross I just don't think it's gonna fit."
+    } ]
+  }, {
+    "tStartMs": 82460,
+    "dDurationMs": 1893,
+    "segs": [ {
+      "utf8": "Oh yeah it will, come on, up up up up!"
+    } ]
+  }, {
+    "tStartMs": 86850,
+    "dDurationMs": 1045,
+    "segs": [ {
+      "utf8": "Yes!"
+    } ]
+  }, {
+    "tStartMs": 87895,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 88728,
+    "dDurationMs": 1888,
+    "segs": [ {
+      "utf8": "Pivot."
+    } ]
+  }, {
+    "tStartMs": 90616,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Pivot."
+    } ]
+  }, {
+    "tStartMs": 93505,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Pivot!"
+    } ]
+  }, {
+    "tStartMs": 95410,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Pivot!"
+    } ]
+  }, {
+    "tStartMs": 98414,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Pivot!"
+    } ]
+  }, {
+    "tStartMs": 101007,
+    "dDurationMs": 1093,
+    "segs": [ {
+      "utf8": "Pivot!"
+    } ]
+  }, {
+    "tStartMs": 102100,
+    "dDurationMs": 2183,
+    "segs": [ {
+      "utf8": "Shut up, shut up, shut up!"
+    } ]
+  }, {
+    "tStartMs": 108791,
+    "dDurationMs": 2829,
+    "segs": [ {
+      "utf8": "Okay I don't think it's\ngonna pivot anymore."
+    } ]
+  }, {
+    "tStartMs": 111620,
+    "dDurationMs": 913,
+    "segs": [ {
+      "utf8": "[Both] You think?"
+    } ]
+  }, {
+    "tStartMs": 115091,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "All right let's bring it\nback down and try again."
+    } ]
+  }, {
+    "tStartMs": 119925,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 121968,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Whoa."
+    } ]
+  }, {
+    "tStartMs": 127410,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Okay yeah I think it's really stuck now."
+    } ]
+  }, {
+    "tStartMs": 131345,
+    "dDurationMs": 2012,
+    "segs": [ {
+      "utf8": "I can't believe that didn't work."
+    } ]
+  }, {
+    "tStartMs": 133357,
+    "dDurationMs": 1843,
+    "segs": [ {
+      "utf8": "I know, me neither."
+    } ]
+  }, {
+    "tStartMs": 135200,
+    "dDurationMs": 1513,
+    "segs": [ {
+      "utf8": "I mean you had a sketch."
+    } ]
+  }, {
+    "tStartMs": 138684,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Oh you know what, what did\nyou mean when you said pivot?"
+    } ]
+  }, {
+    "tStartMs": 142461,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  } ]
+}

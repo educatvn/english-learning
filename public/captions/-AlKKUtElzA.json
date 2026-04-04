@@ -1,0 +1,4237 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 2
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 25
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 27
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 27
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 30
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 20
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 25
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 31
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 29
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 17
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 24
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 17
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 26
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 23
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 26
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 19
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 22
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 22
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 28
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 31
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 12
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 20
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 24
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 28
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 14
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 18
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 18
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 30
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 16
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 19
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 21
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 16
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 23
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 14
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 8
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 12
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 9
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 15
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 29
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 2
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 10
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 8
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 5
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 21
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 13
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 6
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 3,
+    "ccCols": 23
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 11
+  } ],
+  "events": [ {
+    "tStartMs": 966,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "-Welcome back, everybody."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1868,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Taylor Swift is joining us."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 3236,
+    "dDurationMs": 7307,
+    "segs": [ {
+      "utf8": "Her new album, \"The Life\nof a Showgirl,\" is out now."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 10610,
+    "dDurationMs": 3137,
+    "segs": [ {
+      "utf8": "I thought it'd be fun to maybe\ngo through some of the tracks"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 13813,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "here on the album of\n\"Life of a Showgirl\""
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 15848,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "and maybe share\nthe inspiration behind each one."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 18017,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "-Yeah, I would love this.\n-Is that fun?"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 19585,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "-So this is our, like, podcast.\n-It kind of feels like -- Yeah."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 21521,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "-I love this.\n-It's kind of like a loose --"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 22956,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "-So the second podcast\ninterview I've ever done."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 24557,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "I'm very excited.\n-I'm honored."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 25825,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "-I loved your first one."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 26926,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "-Yeah. This is good.\nOkay, good."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 28161,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "I'm very excited."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 29929,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "And whoever the other person's\npodcast you did,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 31397,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "don't get mad at me, okay?"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 32965,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "Because there's room\nfor two of us."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 34533,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "Yeah, to have podcasts.\nAlright."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 36402,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "Okay, \"Opalite.\"\nLet's start with that one."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 38203,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "-Alright.\n-Okay. Let's start."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 39772,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "I'm just gonna play it first,\nand then we'll talk about it."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 42307,
+    "dDurationMs": 1269,
+    "segs": [ {
+      "utf8": "Let's give it a taste."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 43643,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "-♪ But my mama told me\nit's alright ♪"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 46645,
+    "dDurationMs": 3237,
+    "segs": [ {
+      "utf8": "♪ You were dancing\nthrough the lightning strikes ♪"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 49949,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "-You know the words already?"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 51484,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "-♪ Sleepless in the onyx night ♪"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 53787,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "-Yeah. You can sing along.\nGo ahead."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 55388,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "-♪ Now the sky is opalite ♪"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 58191,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "♪ Oh, oh, oh, oh, oh, my lord ♪"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 61561,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "-Oh, my God."
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 62829,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "-♪ Never made no one like you\nbefore ♪"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 65565,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "-The way they know every word.\n-Dude, already."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 67033,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "-♪ You had to make\nyour own sunshine ♪"
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 69402,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "-You're the best."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 70536,
+    "dDurationMs": 3237,
+    "segs": [ {
+      "utf8": "-♪ But now the sky is opalite ♪"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 73839,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "♪ Oh, oh, oh, oh, oh ♪\n-Oh, my God!"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 76909,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "-Come on! Wow!\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 79245,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "How do they know?"
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 81147,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "-You had, like -- You had\nlike, six minutes"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 83650,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "to learn all the words\nand you've done it."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 85317,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "That's unbelievable."
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 86686,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "-That's kind of amazing.\n-Oh, that felt --"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 89088,
+    "dDurationMs": 3204,
+    "segs": [ {
+      "utf8": "-Everyone in the audience\nknew every lyric to that song"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 92358,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "that's not even really\non the radio yet."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 94427,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "That's wild.\n-This is beautiful."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 95962,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "-Let's talk about \"Opalite.\""
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 97763,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "I don't even know\nif I know what \"Opalite\" is."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 99932,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "-Opalite is man-made opal.\n-Okay."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 102268,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "-So, like, just like\nthey can do man-made diamonds,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 104403,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "they can do man-made opal."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 106005,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "And I thought it was\nkind of a cool --"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 108240,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "It was, like, interesting\nimagery"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 109876,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "and a cool metaphor for life"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 112478,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "isn't always going to give\nyou what you want."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 114213,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "You're not always going to get\nyour way."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 115414,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "You're going to get\nyour heart broken."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 116715,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Things are going to happen\nto you."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 117950,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Chaos will ensue."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 119685,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "But you have to pick\nyour own happiness."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 121120,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "You choose it."
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 122688,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "Like, it doesn't\nalways choose you."
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 124190,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "It doesn't always just show\nup knocking on your door."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 126192,
+    "dDurationMs": 3637,
+    "segs": [ {
+      "utf8": "You have to sometimes make\nyour own happiness, just like..."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 129895,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "-Yes!\n-...man-made opal."
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 132364,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "-Wow.\n-But it's like --"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 133732,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "But also there's also,\nlike, you know,"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 135501,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "like gemstones in the chorus,\nlike \"onyx night.\""
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 138505,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "\"Now the sky is opalite,\" just\ntrying to kind of put gemstones"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 140773,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "in the chorus too."
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 142174,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "-How do you come up with this?"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 144109,
+    "dDurationMs": 1236,
+    "segs": [ {
+      "utf8": "Do you just wake up\nin the middle of the night"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 145411,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "and go, \"Opalite\"?\n-Yeah."
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 148248,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "That's literally how it happens."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 149949,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "-And you write it down?\n-Yeah."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 151651,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "I mean, it's like --\nit's in the night."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 154053,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "It's in the day as well as\nthe afternoon and the evening."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 157189,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "All the times...\n-All the times."
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 158958,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "-...that I am here."
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 160593,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "-Have you written something\nearlier today?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 162995,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "-No, no, I am just --\nI'm just vibing."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 167733,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "This is the release week\nof this album."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 169802,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "Like, I'm just riding this wave.\nIt's like --"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 173205,
+    "dDurationMs": 4371,
+    "segs": [ {
+      "utf8": "It's like this song is\nexactly how I feel right now."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 177643,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "And it's just kind of like"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 180079,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "amazing to hear\nyou guys sing it like that."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 181680,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "That was pretty...\n-Alright."
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 184083,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "-Pretty great.\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 185618,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "-How about this?"
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 188821,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "Alright, how about \"Wi$h Li$t\"?"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 191457,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Let's do --\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 194193,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "-♪ I just want you, huh ♪"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 198364,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "♪ Have a couple kids, got the\nwhole block looking like you ♪"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 203603,
+    "dDurationMs": 7407,
+    "segs": [ {
+      "utf8": "♪ We tell the world to leave us\nthe...alone, and they do, wow ♪"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 211077,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "♪ Got me dreaming about\na driveway ♪"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 213479,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "♪ With a basketball hoop ♪"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 216716,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "♪ Boss up, settle down,\ngot a wish list ♪"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 220119,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "♪ I just want you ♪"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 221754,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "-Alright. Come on.\n-Ah!"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 223088,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 225925,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "By the way, I love it.\nSing every song."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 227760,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "You guys sound fantastic."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 229461,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "-You really do.\nIt's not just that"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 231230,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "you know the words.\nYou actually sound gorgeous."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 232331,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 234033,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "-That -- Tell me\nwhat the song is about,"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 236602,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "and I'll tell you\nwhat sticks out in my head."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 238805,
+    "dDurationMs": 3102,
+    "segs": [ {
+      "utf8": "-Um, okay.\nSo this song, the chorus,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 241974,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "I kind of designed\nthe chorus to be..."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 244377,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "And you got to just,\nlike, go with me here."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 246612,
+    "dDurationMs": 4237,
+    "segs": [ {
+      "utf8": "You know\nin \"Happy Gilmore\" when he --"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 250916,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "When he has his happy place.\n-Yes."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 253452,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "-And that's where he goes\nwhen he's really stressed out"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 256556,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "or the world's really getting\nhim down and he's really --"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 259292,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "And he's, like,\nreally like going through it."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 261728,
+    "dDurationMs": 2268,
+    "segs": [ {
+      "utf8": "And he just goes to this place\nin his mind"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 264063,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "and he -- and he --\nand that's his happy place."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 266965,
+    "dDurationMs": 3404,
+    "segs": [ {
+      "utf8": "Like, that chorus, I just wanted\na chorus like that"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 270436,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "basically shows you what mine is"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 272771,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "and sounds exactly\nhow mine would sound."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 275141,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "Like, this is utopia for me."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 277009,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "That's where I go\nwhen I'm stressed out,"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 279812,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "is that fantasy."
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 281413,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "-And basically all\nyou want is you."
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 283482,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "That's one of your --\nThat's your wish."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 285484,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "-It's like, yeah,\nyou're saying that to the person"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 287353,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "that you're with, like --\n-Yes."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 288687,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "-And you're -- And you're\nsaying,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 290923,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "you know, that you want\nlike this --"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 292491,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "You want to build a life\nwith them,"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 294126,
+    "dDurationMs": 3437,
+    "segs": [ {
+      "utf8": "and you want it to feel\nlike home and -- and like --"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 297630,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "-That's what you do with\nyour lyrics."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 299064,
+    "dDurationMs": 2971,
+    "segs": [ {
+      "utf8": "You're such a great artist\nand a writer."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 302101,
+    "dDurationMs": 3737,
+    "segs": [ {
+      "utf8": "-Thanks. That's so sweet.\nNo, thank you."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 305904,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "-I can't believe\nI'm that person."
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 307639,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "But I don't --\n-No."
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 309008,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "-I don't mean to be that person.\n-Are you kidding me?"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 310610,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "I love hearing that.\n-But basketball hoop."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 312578,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "Basketball hoop in the dr--\n-Yeah, yeah."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 314113,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "-That's the one that gets me.\nI know exactly where we are."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 316849,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "-Yeah, like, I learned\nabout sports for this man."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 319385,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 321453,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 325691,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "-Ah! Ha!"
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 328061,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "-And I love him. I love him."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 330462,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "I don't want to do them,\nbut I love watching them."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 333566,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "I can -- I could see, you know."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 335534,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "-Yeah.\n[ Laughter ]"
+    } ],
+    "wpWinPosId": 37,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 337603,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "Someone doing them, yes.\n-Yeah, people do them."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 339906,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "And it's great and I'll watch\nthem."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 341307,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "-You'll watch them, yes,\nbut you go for it. You do it."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 343342,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "-I love it. Do them.\n-Yes. Do that."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 345677,
+    "dDurationMs": 1536,
+    "segs": [ {
+      "utf8": "-Do that."
+    } ],
+    "wpWinPosId": 38,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 347280,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "-Should we transition to \"Wood\"?"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 349315,
+    "dDurationMs": 5071,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 354453,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "This is \"Wood.\""
+    } ],
+    "wpWinPosId": 39,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 356355,
+    "dDurationMs": 4104,
+    "segs": [ {
+      "utf8": "W-O-O-D, by the way,\nif anyone's watching."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 360526,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "-Yeah\n-W-O-O-D, like, wooden. Yes."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 363795,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "Wood. Here we go.\nThis is \"Wood.\""
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 365331,
+    "dDurationMs": 3937,
+    "segs": [ {
+      "utf8": "-♪ All of that bitchin',\nwishing on a falling star ♪"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 369334,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "♪ Never did me any good ♪"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 371571,
+    "dDurationMs": 2702,
+    "segs": [ {
+      "utf8": "♪ I ain't got to knock on wood ♪"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 374339,
+    "dDurationMs": 4205,
+    "segs": [ {
+      "utf8": "♪ It's you and me forever\ndancing in the dark ♪"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 378611,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "♪ All over me, it's understood ♪"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 381180,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "♪ I ain't got to knock on wood ♪"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 383883,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "-Alright, now, this is great."
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 386418,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "All these are great tunes.\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 389021,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "-Thanks."
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 390355,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "-Do you come up with tunes\nbefore?"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 392291,
+    "dDurationMs": 3603,
+    "segs": [ {
+      "utf8": "For this exact song, did you go\n[ Vocalizing ]"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 395961,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "-No. So I brought this\ninto the studio and I was like,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 398397,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "I want to do sort of like a --\nI want to, like,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 402034,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "do a throwback kind of\ntimeless sounding song."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 404937,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "And I have this idea about,\nlike,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 407139,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "I ain't got to knock on wood\nand we would knock on wood"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 409308,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "and it would be\nall these superstitions."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 411309,
+    "dDurationMs": 3638,
+    "segs": [ {
+      "utf8": "And it really started out\nin a very innocent place."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 415014,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 417116,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 41,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 419819,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "You know, it started out like..."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 421888,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "I don't know what happened, man."
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 423589,
+    "dDurationMs": 1034,
+    "segs": [ {
+      "utf8": "I --\n[ Laughter ]"
+    } ],
+    "wpWinPosId": 37,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 424690,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "-It went off the rails.\n-I got in there."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 426392,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "We started vibing and --\nand I don't know."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 430129,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "I don't know how we got here,"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 432231,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "but I love the song so much.\n[ Laughter ]"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 434433,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 436135,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "-It's perfect."
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 439772,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "It's perfect the way it is."
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 441874,
+    "dDurationMs": 3971,
+    "segs": [ {
+      "utf8": "Let's go into\n\"The Life of a Showgirl.\""
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 445911,
+    "dDurationMs": 3904,
+    "segs": [ {
+      "utf8": "-♪ Hey, thank you\nfor the lovely bouquet ♪"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 449882,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "♪ You're sweeter than a peach ♪"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 451750,
+    "dDurationMs": 4205,
+    "segs": [ {
+      "utf8": "♪ But you don't know the life\nof a showgirl, babe ♪"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 456022,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "♪ And you're never,\never gonna wait ♪"
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 459057,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "♪ The more you play,\nthe more that you pay ♪"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 461927,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "♪ You're softer than a kitten ♪"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 463862,
+    "dDurationMs": 4238,
+    "segs": [ {
+      "utf8": "♪ So you don't know the life\nof a showgirl, girl, baby ♪"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 468167,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "♪ And you're never gonna wanna ♪"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 470736,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "-Ooh! Ooh!"
+    } ],
+    "wpWinPosId": 42,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 472337,
+    "dDurationMs": 1169,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 473572,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "You got it.\nLike, when you do that, you go,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 475574,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "\"That's the ending.\nThat's the ending.\""
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 477209,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "Like ♪ Never gonna wanna ♪"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 478611,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "-Yeah, absolutely. Absolutely."
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 480546,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "Um, because I'd been\nwriting this album to be"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 483149,
+    "dDurationMs": 3803,
+    "segs": [ {
+      "utf8": "around the themes of\nshow business and a public life."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 487018,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "And because, honestly,\nwe all have a public life now."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 489922,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "We all are mandating\nour relationship with"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 493526,
+    "dDurationMs": 2268,
+    "segs": [ {
+      "utf8": "social media\nand social circles and gossip"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 495861,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "and -- and so I was like,"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 497863,
+    "dDurationMs": 5105,
+    "segs": [ {
+      "utf8": "I want to focus on sort of\nlike the playful, fun, funny,"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 503035,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "humorous sides of that."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 505171,
+    "dDurationMs": 4237,
+    "segs": [ {
+      "utf8": "Um, and so we'd been dealing\nwith kind of themes like that"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 509475,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "and sprinkling those\nthroughout the record,"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 511343,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "but I had it in my notes"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 513078,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "just \"you don't know\nthe life of a showgirl.\""
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 516015,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "I just had that\nin my notes written down,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 518017,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "and I was just like, \"I got to\nfigure out how this fits in.\""
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 520218,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "And all of a sudden\nthis song comes together."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 523322,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "And the first thought\nI had was Sabrina Carpenter."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 529628,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "You know?"
+    } ],
+    "wpWinPosId": 38,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 530662,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 532164,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "She's like --\n-She knows how to --"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 534133,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "She knows maybe.\n-Quintessential showgirls."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 536702,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "-Yes.\n-She is such a funny person."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 538870,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "She is so tough\nin the right ways"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 541073,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "and soft and vulnerable\nin the right ways"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 543742,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "to be an artist that"
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 545844,
+    "dDurationMs": 4538,
+    "segs": [ {
+      "utf8": "is dealing with\nthe kind of just absolute mayhem"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 550449,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "that gets kind of --\nthese artists get subjected to"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 554286,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "when you're putting out art\npublicly."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 556288,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "And I was so happy that she\nwanted to sing that second verse"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 559090,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "because I kind of wrote it\nfor her,"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 560726,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "the sort of like she's just this\nlike,"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 563229,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "sort of like \"she was a menace,"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 565097,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "the baby of the family\nin Lenox,"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 566832,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "her father whored around like\nall men did,"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 568634,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "her mother took pills\nand played tennis.\""
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 570670,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "I was like, \"I just know she's\ngoing to have fun singing this.\""
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 573506,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "It's kind of her type of lyric."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 575274,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "She just loves to write\nlike a clever little,"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 577509,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "uh, little jab at..."
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 580012,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "Yeah.\n-...men."
+    } ],
+    "wpWinPosId": 43,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 581514,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 583149,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "So..."
+    } ],
+    "wpWinPosId": 44,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 584550,
+    "dDurationMs": 3637,
+    "segs": [ {
+      "utf8": "-Is there many people --\nThere's not that many people"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 588253,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "that you can actually relate\nto on this level."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 591890,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "-I mean, I -- That sounds sad."
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 596295,
+    "dDurationMs": 4371,
+    "segs": [ {
+      "utf8": "Um, but it's actually like you\njust kind of find your people."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 600732,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "And even if it's not\nabout relating to people,"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 603301,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "like, I can't really relate\nto the pressure"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 605203,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "that -- that Travis is\nunder out there on the field."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 608473,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "Like, I've never had, you know,\n300-pound men running at me,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 612244,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "trying to hurt me."
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 613812,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "You know what I mean?"
+    } ],
+    "wpWinPosId": 45,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 615314,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "And the same way that I --\nwith Sabrina, I've --"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 617183,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "I've never come up\nas a new artist in the moment"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 619852,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "that she's coming up\nwhere she's had social media."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 622054,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Like, I remember when\nsomeone told me about Instagram"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 625490,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "and it was like on my second\nor third record,"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 627793,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "like, so I'll never be able\nto relate to their experience."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 630863,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "We'll never be able to have\nidentical experiences."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 633065,
+    "dDurationMs": 4237,
+    "segs": [ {
+      "utf8": "But as sort of entertainers,\none of our main jobs,"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 637369,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "I think,\nis to be a mirror for people."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 639771,
+    "dDurationMs": 3605,
+    "segs": [ {
+      "utf8": "You look into the art\nwe make, you see yourself back."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 643442,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "The way you feel about our art\nhas a lot"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 645544,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "to do with the life experience"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 646946,
+    "dDurationMs": 1934,
+    "segs": [ {
+      "utf8": "that you're having at this point\nin time,"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 648947,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "and that's why I'm so happy\nI have so many different albums."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 652350,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "Like, people will come up to me\nand be like,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 654453,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "\"I didn't get 'reputation.'"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 656188,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "I didn't understand\nwhat that was like."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 658090,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "Now, five years later,\nit's my favorite record\" or,"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 660892,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "you know, \"evermore\"\nor something like that."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 663028,
+    "dDurationMs": 2737,
+    "segs": [ {
+      "utf8": "And it is like the fun of it"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 665831,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "for us to create a mirror\nfor people to look into."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 669034,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "I definitely think that Sabrina"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 671537,
+    "dDurationMs": 3703,
+    "segs": [ {
+      "utf8": "and every other artist out there\ndoing this can relate to that."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 675307,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "So in that way, I do feel like\nwe all can relate to each other."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 678310,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "-Yeah. Interesting.\nThat's good."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 680078,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 687152,
+    "dDurationMs": 5339,
+    "segs": [ {
+      "utf8": "\"Father Figure\" -- another\nwell-written -- You're good."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 692557,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Alright, here's a little\nof this."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 694292,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "-♪ I pay the check before it\nkisses the mahogany grain ♪"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 699698,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "♪ Said, \"They wanna see you\nrise ♪"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 702434,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "\"They don't want you to reign\" ♪"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 704836,
+    "dDurationMs": 5006,
+    "segs": [ {
+      "utf8": "♪ I showed you all the tricks\nof the trade ♪"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 709908,
+    "dDurationMs": 4037,
+    "segs": [ {
+      "utf8": "♪ All I ask for is\nyour loyalty ♪"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 714012,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "♪ My dear protégé ♪"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 717215,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "♪ I'll be your father figure ♪"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 719785,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "♪ I drink that brown liquor ♪"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 722354,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "♪ I can make deals with\nthe devil ♪"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 724956,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "♪ Because my...bigger ♪"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 727493,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "♪ This love is pure profit ♪"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 729995,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "♪ Just step into my office ♪"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 732564,
+    "dDurationMs": 3403,
+    "segs": [ {
+      "utf8": "♪ They'll know your name\nin the streets ♪"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 736034,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "♪ Leave it with me ♪"
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 738703,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "♪ I protect the family ♪"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 741240,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "-Oh, come on!"
+    } ],
+    "wpWinPosId": 46,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 742974,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 745243,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "-♪ I protect the ♪\nYes."
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 746779,
+    "dDurationMs": 3703,
+    "segs": [ {
+      "utf8": "-Man, like, that song was\nso much fun to write."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 750549,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "So it's like, uh, you know,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 752617,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "protégé, mentor, and the\nrelationship between the two."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 755854,
+    "dDurationMs": 4438,
+    "segs": [ {
+      "utf8": "Right? And the power dynamics\nand sort of the idea"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 760359,
+    "dDurationMs": 3169,
+    "segs": [ {
+      "utf8": "that the power could flip and\nsomebody could betray somebody."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 763595,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "That's so fun to write."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 765497,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "And this is written\nfrom the perspective of, like,"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 768099,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "of the mentor,\nyou know, to the protégé."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 771002,
+    "dDurationMs": 6307,
+    "segs": [ {
+      "utf8": "But because I kept thinking\nabout that scene in \"Succession\""
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 777376,
+    "dDurationMs": 5272,
+    "segs": [ {
+      "utf8": "where Logan looks at\nhis kids and says, \"I love you,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 782715,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "but you are not serious people.\""
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 784783,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 786151,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "And I think about that scene\nconstantly."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 789388,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "I just think it's one\nof the coolest scenes ever."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 791523,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "And I was like,\n\"I want to write a song"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 793892,
+    "dDurationMs": 4071,
+    "segs": [ {
+      "utf8": "that has that energy of sort of\nLogan Roy being like,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 798030,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "you bit the hand that fed you"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 799931,
+    "dDurationMs": 3604,
+    "segs": [ {
+      "utf8": "and you do not have -- you\ndo not possess the vernacular"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 803602,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "to be doing this.\""
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 805838,
+    "dDurationMs": 2835,
+    "segs": [ {
+      "utf8": "But I also really\nhave completely related"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 808740,
+    "dDurationMs": 5472,
+    "segs": [ {
+      "utf8": "to the protégé perspective\nin so many of these situations."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 814279,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "Right? Like, I relate to\nthe younger one,"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 817883,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "like when I'm listening to\nthis song."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 819652,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "Like, even though it's\nfrom the perspective"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 821453,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "of the father-figure character."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 823789,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "That's why I like this song\nso much."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 826191,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "-And you always find a way\nto go"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 828293,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "like, \"Wait,\ndid she just say that?\""
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 830229,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 831864,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "\"Did she -- Rewind that for\na second."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 833498,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "Did she just say\ndeal with the devil and...?\""
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 835700,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "-Yes.\n-Yeah."
+    } ],
+    "wpWinPosId": 47,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 836869,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "-Yes.\nYou know, it's entertainment."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 839304,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "-Yes.\n-It's my one job."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 841974,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "-It's -- Yeah.\n[ Laughter ]"
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 843342,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "-You know, the spice level\non this album is high."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 845477,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "-Yeah. It is.\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 848180,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "It is.\nI think it's the spiciest yet."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 851016,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "-Yeah.\nIt is what it is, you know?"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 853185,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "-It is what it is."
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 854986,
+    "dDurationMs": 2637,
+    "segs": [ {
+      "utf8": "This one is \"Elizabeth Taylor,\"\nwho --"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 857689,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "-Ah.\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 860459,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "-I love \"Elizabeth Taylor.\""
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 861960,
+    "dDurationMs": 3137,
+    "segs": [ {
+      "utf8": "But let's just play a little bit\nof \"Elizabeth Taylor.\""
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 865164,
+    "dDurationMs": 2835,
+    "segs": [ {
+      "utf8": "-♪ I'd cry my eyes violet ♪"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 868066,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "♪ Elizabeth Taylor ♪"
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 869301,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "♪ Tell me for real ♪"
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 870469,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "♪ Do you think it's forever? ♪"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 872304,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "♪ Been number one\nbut I never had two ♪"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 874906,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "♪ And I can't have fun\nif I can't have ♪"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 877576,
+    "dDurationMs": 3404,
+    "segs": [ {
+      "utf8": "♪ Be my N.Y. when Hollywood\nhates me ♪"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 881046,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "♪ Only as hot as your last hit,\nbaby ♪"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 883882,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "♪ Been number one\nbut I never had two ♪"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 886518,
+    "dDurationMs": 4538,
+    "segs": [ {
+      "utf8": "♪ And I can't have fun\nif I can't have you ♪"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 891122,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "-Alright."
+    } ],
+    "wpWinPosId": 38,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 892290,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 893425,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "Another one. Another banger!"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 895894,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "-Thanks.\n-\"Elizabeth Taylor.\""
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 897529,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "Why Elizabeth Taylor?\nWhat is the connection?"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 899764,
+    "dDurationMs": 1202,
+    "segs": [ {
+      "utf8": "-I love Elizabeth Taylor."
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 901033,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "I love her so much.\nShe is like, I think,"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 904570,
+    "dDurationMs": 3536,
+    "segs": [ {
+      "utf8": "the ultimate sort of\nicon role model"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 908173,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "that I look to\nwhen I look at somebody who had,"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 911243,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "like, immense pressure on them,"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 913345,
+    "dDurationMs": 2635,
+    "segs": [ {
+      "utf8": "was, like, extremely, like,"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 916047,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "scrutinized, everything\nshe ever did."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 918249,
+    "dDurationMs": 4672,
+    "segs": [ {
+      "utf8": "She kept making more\nand more daring art."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 922988,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Like, it's almost like\nthe more polarizing people were"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 926424,
+    "dDurationMs": 3637,
+    "segs": [ {
+      "utf8": "about her,\nthe more she just kept, like,"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 930128,
+    "dDurationMs": 3404,
+    "segs": [ {
+      "utf8": "doing even more challenging\nroles, taking bigger risks."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 933599,
+    "dDurationMs": 3536,
+    "segs": [ {
+      "utf8": "And she's like out here\nlike at the height of whatever,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 937202,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "you know,\nscrutiny she may have been under"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 939471,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "and the height of her fame,\nshe's, like, winning Oscars"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 942207,
+    "dDurationMs": 4237,
+    "segs": [ {
+      "utf8": "and not letting\nanything kind of"
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 946511,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "stop her from doing it\nfor the reasons"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 948446,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "she'd always done it.\nShe was so funny."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 950916,
+    "dDurationMs": 3737,
+    "segs": [ {
+      "utf8": "She used humor as\nlike a device against --"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 954719,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "against sort of anybody who\nhad -- like,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 957589,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "any of her detractors\nor whatever."
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 959457,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "Like, I've done that\nwith songs like \"Blank Space\""
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 962026,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "when people are like,"
+    } ],
+    "wpWinPosId": 45,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 963495,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "[whiny voice] \"Oh, you're\na man-eating serial dater.\""
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 966031,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "-Yeah, yeah.\n-[ Normal voice ] And I just"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 967566,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "would be like, \"Oh, let me write\na song from that perspective."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 970068,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "That's hilarious.\""
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 971970,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "So you -- I think\nyou have to be able to combat"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 974772,
+    "dDurationMs": 1703,
+    "segs": [ {
+      "utf8": "negativity with humor."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 976541,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "That's my favorite thing\nabout her."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 978043,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "I just wanted to make a song"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 980079,
+    "dDurationMs": 3302,
+    "segs": [ {
+      "utf8": "that felt like as luxurious\nand glamorous"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 983448,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "as she was in sort of\nthe verses and the bridge."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 987585,
+    "dDurationMs": 1803,
+    "segs": [ {
+      "utf8": "We had a harp.\nWe have, you know --"
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 989455,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "We pulled out\nall the stops for her."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 991389,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "-Harp. I love getting a harp\non a track."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 993425,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Come on. Bring it back.\n-Yeah."
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 995827,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "-No, she's just glamour and fun\nand --"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 998029,
+    "dDurationMs": 1736,
+    "segs": [ {
+      "utf8": "-Yeah.\n-I just love everything\nabout Elizabeth."
+    } ],
+    "wpWinPosId": 48,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 999831,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "-Everybody should be obsessed\nwith Elizabeth Taylor."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1001466,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "-Yes.\n[ Laughter ]"
+    } ],
+    "wpWinPosId": 37,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1003501,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "How about we do one more?"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1004903,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "Can we do \"Fate of Ophelia\"?"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1006504,
+    "dDurationMs": 3571,
+    "segs": [ {
+      "utf8": "-Yes! Yes. Yes, yes.\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1010141,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "-Alright."
+    } ],
+    "wpWinPosId": 38,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1012077,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "-♪ All that time, I sat alone\nin my tower ♪"
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1015280,
+    "dDurationMs": 1634,
+    "segs": [ {
+      "utf8": "♪ You were just honing\nyour powers ♪"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1016981,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "♪ Now I can see it all ♪"
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1019517,
+    "dDurationMs": 2003,
+    "segs": [ {
+      "utf8": "♪ See it all ♪"
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1021586,
+    "dDurationMs": 3204,
+    "segs": [ {
+      "utf8": "♪ Late one night, you dug\nme out of my grave and ♪"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1024856,
+    "dDurationMs": 5539,
+    "segs": [ {
+      "utf8": "♪ Saved my heart\nfrom the fate of Ophelia ♪"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1030461,
+    "dDurationMs": 4138,
+    "segs": [ {
+      "utf8": "♪ Keep it 100 on the land,\nthe sea, the sky ♪"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1034666,
+    "dDurationMs": 3938,
+    "segs": [ {
+      "utf8": "♪ Pledge allegiance to your\nhands, your team, your vibes ♪"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1038670,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "♪ Don't care where the hell\nyou've been ♪"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1040572,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "♪ 'Cause now you're mine ♪"
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1042207,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "♪ It's 'bout to be\nthe sleepless night ♪"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1044276,
+    "dDurationMs": 3102,
+    "segs": [ {
+      "utf8": "♪ You've been dreaming of ♪"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1047445,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "♪ The fate of Ophelia ♪"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1050849,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "-Ooh!"
+    } ],
+    "wpWinPosId": 44,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1052050,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1054085,
+    "dDurationMs": 1536,
+    "segs": [ {
+      "utf8": "-You guys are the best."
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1055687,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Oh, my God.\n-Alright. \"Fate of Ophelia.\""
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1057756,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "Do you go --\nHow did you come with"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1059525,
+    "dDurationMs": 1734,
+    "segs": [ {
+      "utf8": "♪ You're dreaming of ♪"
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1061326,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "-That was --\n-♪ Ophelia ♪"
+    } ],
+    "wpWinPosId": 37,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1063562,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "-Let me tell you the rush --\n-Let me tell you..."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1066098,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "-It's great!\n-...the rush I felt when"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1067365,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "I thought of that.\n-It's great!"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1069067,
+    "dDurationMs": 4438,
+    "segs": [ {
+      "utf8": "-It was the same feeling\nthat I felt"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1073572,
+    "dDurationMs": 3937,
+    "segs": [ {
+      "utf8": "when I thought of\n♪ Can't you see ♪"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1077575,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "♪ You belong with me? ♪\n-Really?"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1080479,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "-Yes.\nSometimes when you like --"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1082080,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "-♪ You're dreaming of ♪"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1084516,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "It's so good!"
+    } ],
+    "wpWinPosId": 46,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1085717,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "-It is so fun.\nIt's just like --"
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1087752,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "Oh!\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1089588,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "-I love it."
+    } ],
+    "wpWinPosId": 49,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1091689,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "-Thank you for acknowledging\nthat melody."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1095526,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "Yeah, that was a --\nthat was a big one for me."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1097128,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "-That's a good belter\nand it's like --"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1098563,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "Yeah, it's just fun\nto sing along with."
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1100265,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "-It was so fun."
+    } ],
+    "wpWinPosId": 39,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1101766,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "And it was also just\nsort of like we wanted to take"
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1103802,
+    "dDurationMs": 4571,
+    "segs": [ {
+      "utf8": "just like different --\njust different tones"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1108440,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "of speaking\nlike almost different"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1110842,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "time periods of the way\nthat people used to speak."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1114413,
+    "dDurationMs": 3904,
+    "segs": [ {
+      "utf8": "Like, there's certain like\nShakespearean kind of"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1118383,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "ways of phrasing things\nin terminology and like,"
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1121253,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "\"tis locked inside my memory\nand only you possess the key,\""
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1124089,
+    "dDurationMs": 2702,
+    "segs": [ {
+      "utf8": "but there's also, like, \"pledge\nallegiance to your hands,"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1126858,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "your team, your vibes.\""
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1128460,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Like, we wanted to\nkind of blend,"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1129861,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "like, now and then"
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1131596,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "and try to juxtapose\nthose together in a way"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1133698,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "that hopefully works."
+    } ],
+    "wpWinPosId": 45,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1135400,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "But I'm --\nI love this song so much."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1137568,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "I'm so proud of it.\nI'm so proud of the video."
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1140271,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "We had such a blast."
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1142407,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "Just this whole process of this\nsong coming out into the world"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1145977,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "and people -- I see people,\nlike, dancing to it online"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1149814,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "and they're absolutely\ncrushing it."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1152484,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "-Yes.\n-It is unbelievable."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1154520,
+    "dDurationMs": 2902,
+    "segs": [ {
+      "utf8": "-I watched like 100 of them\nthis morning trying to learn."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1157489,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "Yeah.\n-It's amazing."
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1159358,
+    "dDurationMs": 3937,
+    "segs": [ {
+      "utf8": "And, like, it just --\nit's so fun to have fun."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1163362,
+    "dDurationMs": 2968,
+    "segs": [ {
+      "utf8": "And I really appreciate\nyou guys having fun with me."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1166397,
+    "dDurationMs": 4304,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1170768,
+    "dDurationMs": 1002,
+    "segs": [ {
+      "utf8": "-We are."
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1171836,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "We're totally having fun\nwith you."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1174238,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "We're having so much fun\nwith you."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1176474,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "I can't thank you enough\nfor always remembering me"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1180412,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "and coming back to the show\nand for keeping it 100..."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1184048,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "[ Laughter ]\n...which I appreciate that."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1186384,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "Is that an Easter egg,\nby the way?"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1187920,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "-That's a lyric in the song."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1189654,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "-Okay.\n[ Laughter ]"
+    } ],
+    "wpWinPosId": 37,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1190822,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "-So -- So yes, so yes."
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1192657,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "Yes. So it's a lyric."
+    } ],
+    "wpWinPosId": 45,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1193991,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "-If it's a lyric,\nanything could be an Easter egg?"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1196261,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "-Well, it's both. It's both."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1197695,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "Everything's correct."
+    } ],
+    "wpWinPosId": 45,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1199598,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1201366,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "-I'll tell you what it is."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1202934,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "And like you said it,\nyou nailed it already."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1204535,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "It's fun and it's fun to be with\nyou and it's fun."
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1207438,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "We are lucky to be living in\na time"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1209374,
+    "dDurationMs": 2702,
+    "segs": [ {
+      "utf8": "with Taylor Swift, you know?\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1212143,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "Thank you. Love you, bud.\n-You're amazing."
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1214178,
+    "dDurationMs": 2537,
+    "segs": [ {
+      "utf8": "-You're the best. Congrats.\nNumber-one album!"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1216782,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "Congrats on your engagement."
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1218617,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "Thank you for coming to see us.\nTaylor Swift!"
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1220752,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "\"The Life of a Showgirl\" is\nout now."
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1222720,
+    "dDurationMs": 3271,
+    "segs": [ {
+      "utf8": "We'll be right back\nwith more \"Tonight Show\"!"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  } ]
+}

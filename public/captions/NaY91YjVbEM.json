@@ -1,0 +1,1357 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "juJustifCode": 2
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 28
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 26
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 30
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 27
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 26
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 12
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 21
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 29
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 6
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 20
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 22
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 15
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 12
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 22
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 20
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 2
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 23
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 23
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 19
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 27
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 30
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 28
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 23
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 11
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 28
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 32
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 31
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 12
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 27
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 7
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 31
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 21
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 24
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 13
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 16
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 10
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 17
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 19
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 17
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 26
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 30
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 25
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 17
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 22
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 20
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 32
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 24
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 22
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 14
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 2,
+    "ccCols": 16
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 18
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 14
+  }, {
+    "apPoint": 1,
+    "ahHorPos": 50,
+    "avVerPos": 0,
+    "rcRows": 1,
+    "ccCols": 26
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 9
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 14
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 23
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 4
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 13
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 19
+  }, {
+    "apPoint": 7,
+    "ahHorPos": 50,
+    "avVerPos": 100,
+    "rcRows": 1,
+    "ccCols": 8
+  } ],
+  "events": [ {
+    "tStartMs": 1034,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "♪ -Musical genre challenge ♪"
+    } ],
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 4871,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "-All right, now here's how\nit works, okay?"
+    } ],
+    "wpWinPosId": 2,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 7440,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "We're gonna take turns hitting\nthis button here,"
+    } ],
+    "wpWinPosId": 3,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 10309,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "which activates\nthe Random Genre Generator."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 12945,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "Or Random Jenre Jenerator."
+    } ],
+    "wpWinPosId": 5,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 14247,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 6,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 15348,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "It will land on\none random song title"
+    } ],
+    "wpWinPosId": 7,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 17650,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "and one random musical genre."
+    } ],
+    "wpWinPosId": 8,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 19118,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Whoever's turn it is has to sing\nthat song in that style."
+    } ],
+    "wpWinPosId": 9,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 21988,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "-Okay."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 22989,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "-All right?\nI will start us off."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 24223,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "Here we go. You ready?\nOne, two, three."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 29728,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "\"Shape of You.\""
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 31798,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Ska.\n[ Laughter ]"
+    } ],
+    "wpWinPosId": 14,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 33199,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "I kind of know --\nI know \"Shape of You.\""
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 35835,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "I know a little ska.\nHow fast is ska?"
+    } ],
+    "wpWinPosId": 16,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 38304,
+    "dDurationMs": 8275,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 46579,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 48548,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 51284,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "♪ I'm in love\nwith the shape of you ♪"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 53886,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "♪ Push and pull\nlike a magnet too ♪"
+    } ],
+    "wpWinPosId": 20,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 56289,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "♪ My heart is falling too ♪"
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 58724,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "♪ I'm in love with your body ♪"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 60393,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "♪ Oh, I, oh, I, oh, I, oh, I ♪"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 63663,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "♪ I'm in love with your body ♪"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 65331,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "♪ Oh, I, oh, I, oh, I, oh, I ♪"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 68567,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "♪ I'm in love with your body ♪"
+    } ],
+    "wpWinPosId": 22,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 70870,
+    "dDurationMs": 5105,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 75975,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "That was a little -- I don't\nknow what I was doing there."
+    } ],
+    "wpWinPosId": 23,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 78177,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "All right.\nI'll let you go ahead."
+    } ],
+    "wpWinPosId": 12,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 79578,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "Ariana, it's your turn.\nGo ahead."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80980,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "-Okay."
+    } ],
+    "wpWinPosId": 10,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 88254,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "-All right."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 90656,
+    "dDurationMs": 568,
+    "segs": [ {
+      "utf8": "It is \"Humble.\""
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 91224,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "-Goth rock."
+    } ],
+    "wpWinPosId": 25,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 92525,
+    "dDurationMs": 3403,
+    "segs": [ {
+      "utf8": "Like, goth rock -- like 2003\nEvanescence goth rock?"
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 95928,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "-Yeah.\nWhat does that sound like, yeah?"
+    } ],
+    "wpWinPosId": 27,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 98631,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "-Like, hot topic shopping goth?"
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 100667,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 101700,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "-Wait, how does that sound?\nYeah."
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 104003,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "♪ -Oh ♪"
+    } ],
+    "wpWinPosId": 31,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 106739,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "♪ Right stroke put Lil baby\nin a spiral ♪"
+    } ],
+    "wpWinPosId": 30,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 110042,
+    "dDurationMs": 3304,
+    "segs": [ {
+      "utf8": "♪ Soprano C, we like to keep it\non a high note ♪"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 113346,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "♪ It's levels to it ♪"
+    } ],
+    "wpWinPosId": 33,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 114447,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "♪ You and I know, bitch,\nsit down ♪"
+    } ],
+    "wpWinPosId": 34,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 117316,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "♪ Be humble ♪"
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 119018,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "♪ Sit down ♪"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 120519,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "♪ Be humble ♪"
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 121621,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "♪ Oh, sit down ♪"
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 123456,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "♪ Be humble ♪"
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 125058,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "♪ Sit down ♪"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 126459,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "♪ Be humble ♪"
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 127427,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "♪ Oh, sit down ♪"
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 129529,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 130530,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "-What?! Stop it."
+    } ],
+    "wpWinPosId": 36,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 132698,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "♪ -Sit down ♪"
+    } ],
+    "wpWinPosId": 35,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 135968,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "-Wow. Wow!"
+    } ],
+    "wpWinPosId": 37,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 138638,
+    "dDurationMs": 2435,
+    "segs": [ {
+      "utf8": "That's exactly what it was.\nAll right."
+    } ],
+    "wpWinPosId": 4,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 141073,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "I don't know why,\nbut I'm going again."
+    } ],
+    "wpWinPosId": 11,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 143509,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "Okay. Here we go."
+    } ],
+    "wpWinPosId": 38,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 146312,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "That was fantastic."
+    } ],
+    "wpWinPosId": 39,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 150350,
+    "dDurationMs": 1467,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 151817,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "\"Yeah,\" the Usher song. \"Yeah.\""
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 154887,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "Yeah. Boop boop.\nIn a country jam?"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 158591,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "[ Laughter ]"
+    } ],
+    "wpWinPosId": 29,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 160893,
+    "dDurationMs": 7107,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 168000,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "♪ I was up in the club\nwith my homies trying to ♪"
+    } ],
+    "wpWinPosId": 41,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 170569,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "No. Stop, stop."
+    } ],
+    "wpWinPosId": 13,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 171938,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "Can we do like --\n[ Laughter ]"
+    } ],
+    "wpWinPosId": 40,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 175141,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "You know what? Maybe like a --\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 42,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 179111,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "Can we do like a Johnny Cash --"
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 180546,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "I feel like a Johnny Cash, like\na slower, like a recent,"
+    } ],
+    "wpWinPosId": 32,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 183115,
+    "dDurationMs": 1169,
+    "segs": [ {
+      "utf8": "like a later Johnny Cash."
+    } ],
+    "wpWinPosId": 43,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 184284,
+    "dDurationMs": 2068,
+    "segs": [ {
+      "utf8": "Like a Rick Rubin/Johnny Cash,\nlike \"Hurt.\""
+    } ],
+    "wpWinPosId": 42,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 186352,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "Like really slow."
+    } ],
+    "wpWinPosId": 44,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 188788,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 190623,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Yeah, yeah, okay. Yeah."
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 192958,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "All right, yeah. Yeah, okay.\nHere we go."
+    } ],
+    "wpWinPosId": 26,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 195795,
+    "dDurationMs": 4571,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 200366,
+    "dDurationMs": 5105,
+    "segs": [ {
+      "utf8": "♪ I was up in the club\nwith my homies ♪"
+    } ],
+    "wpWinPosId": 15,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 205471,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 206772,
+    "dDurationMs": 5906,
+    "segs": [ {
+      "utf8": "♪ Trying to get a little V.I. ♪"
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 212678,
+    "dDurationMs": 4405,
+    "segs": [ {
+      "utf8": "♪ Keep it down on the low key ♪"
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 217083,
+    "dDurationMs": 2735,
+    "segs": [ {
+      "utf8": "♪ And I'm like, yeah ♪"
+    } ],
+    "wpWinPosId": 45,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 219818,
+    "dDurationMs": 3538,
+    "segs": [ {
+      "utf8": "♪ Yeah, yeah, yeah ♪"
+    } ],
+    "wpWinPosId": 46,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 223356,
+    "dDurationMs": 4137,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 227493,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "That's the best I could do."
+    } ],
+    "wpWinPosId": 21,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 230063,
+    "dDurationMs": 1367,
+    "segs": [ {
+      "utf8": "That's the best I can do. Sorry."
+    } ],
+    "wpWinPosId": 47,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 231430,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "All right.\n-That was so good. Okay."
+    } ],
+    "wpWinPosId": 48,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 232531,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "-Ariana, take us home."
+    } ],
+    "wpWinPosId": 49,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 239538,
+    "dDurationMs": 2737,
+    "segs": [ {
+      "utf8": "-\"God's Plan.\"\n[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 19,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 242275,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "-\"God's plan.\"\n-'90s diva."
+    } ],
+    "wpWinPosId": 50,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 244276,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "-'90s diva.\nSo, like, poppy."
+    } ],
+    "wpWinPosId": 51,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 246379,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "-Yeah, yeah, yeah."
+    } ],
+    "wpWinPosId": 52,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 247447,
+    "dDurationMs": 3369,
+    "segs": [ {
+      "utf8": "-\"God's plan,\" Drake. '90s diva."
+    } ],
+    "wpWinPosId": 47,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 250816,
+    "dDurationMs": 4738,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ],
+    "wpWinPosId": 17,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 255554,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "-[ Vocalizes ]"
+    } ],
+    "wpWinPosId": 53,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 257623,
+    "dDurationMs": 3304,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 260927,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "♪ I hold back sometimes ♪"
+    } ],
+    "wpWinPosId": 43,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 263329,
+    "dDurationMs": 2036,
+    "segs": [ {
+      "utf8": "♪ I don't, yeah, yeah ♪"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 265365,
+    "dDurationMs": 2902,
+    "segs": [ {
+      "utf8": "♪ I feel good sometimes ♪"
+    } ],
+    "wpWinPosId": 43,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 268267,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "♪ I don't, yeah, yeah ♪"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 270736,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "♪ I finessed down Weston Road ♪"
+    } ],
+    "wpWinPosId": 28,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 273706,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "♪ Yeah, yeah, oh, oh ♪"
+    } ],
+    "wpWinPosId": 45,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 275741,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "♪ Might go down a G.O.D. ♪"
+    } ],
+    "wpWinPosId": 54,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 278611,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "♪ Yeah, yeah ♪"
+    } ],
+    "wpWinPosId": 53,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 281113,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "♪ God's plan, yeah ♪"
+    } ],
+    "wpWinPosId": 46,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 283849,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "♪ God's plan ♪"
+    } ],
+    "wpWinPosId": 53,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 285884,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "♪ God's plan, yay ♪"
+    } ],
+    "wpWinPosId": 39,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 288687,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "♪ God's plan ♪"
+    } ],
+    "wpWinPosId": 53,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 290222,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 18,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 294861,
+    "dDurationMs": 1033,
+    "segs": [ {
+      "utf8": "-Come on!"
+    } ],
+    "wpWinPosId": 55,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 295894,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "That is it for\nMusical Genre Challenge."
+    } ],
+    "wpWinPosId": 48,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 298230,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "Ariana Grande!\n-Jimmy Fallon!"
+    } ],
+    "wpWinPosId": 56,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 300299,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "-Come on!"
+    } ],
+    "wpWinPosId": 55,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 302401,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 57,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 303669,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "Yes!"
+    } ],
+    "wpWinPosId": 58,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 304737,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "We're talking to Ariana\nafter the break."
+    } ],
+    "wpWinPosId": 24,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 306705,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Stick around."
+    } ],
+    "wpWinPosId": 59,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 307873,
+    "dDurationMs": 4939,
+    "segs": [ {
+      "utf8": "[ Both vocalizing ]"
+    } ],
+    "wpWinPosId": 60,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 312812,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ],
+    "wpWinPosId": 57,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 317082,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "♪ -Ooh ♪"
+    } ],
+    "wpWinPosId": 61,
+    "wsWinStyleId": 1
+  } ]
+}

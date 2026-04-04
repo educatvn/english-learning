@@ -1,0 +1,547 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 100,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "- Oh, okay, it's P as in\nPhoebe, H as is hoebe,"
+    } ]
+  }, {
+    "tStartMs": 3900,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "O as in oebe, E as in ebe, B as in bebe,"
+    } ]
+  }, {
+    "tStartMs": 7360,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "and E as in ello, there, mate."
+    } ]
+  }, {
+    "tStartMs": 9530,
+    "dDurationMs": 2282,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 11812,
+    "dDurationMs": 1458,
+    "segs": [ {
+      "utf8": "- Althea!\n- Althea?"
+    } ]
+  }, {
+    "tStartMs": 13270,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "What are you doing?\n- I took a shot."
+    } ]
+  }, {
+    "tStartMs": 14650,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "- You're shooting with Althea?"
+    } ]
+  }, {
+    "tStartMs": 15710,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "- Althea is correct.\n- Nice shooting!"
+    } ]
+  }, {
+    "tStartMs": 17700,
+    "dDurationMs": 1594,
+    "segs": [ {
+      "utf8": "- Let's play Bamboozled."
+    } ]
+  }, {
+    "tStartMs": 19294,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "- Bamboozled?\n- You've been bamboozled!"
+    } ]
+  }, {
+    "tStartMs": 21244,
+    "dDurationMs": 1619,
+    "segs": [ {
+      "utf8": "- No!\n- Central Perk-"
+    } ]
+  }, {
+    "tStartMs": 22863,
+    "dDurationMs": 1347,
+    "segs": [ {
+      "utf8": "- Central Perk?"
+    } ]
+  }, {
+    "tStartMs": 24210,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "- Having a picnic in Central Park"
+    } ]
+  }, {
+    "tStartMs": 25880,
+    "dDurationMs": 2663,
+    "segs": [ {
+      "utf8": "and, you know coffee at Central Perk."
+    } ]
+  }, {
+    "tStartMs": 28543,
+    "dDurationMs": 2341,
+    "segs": [ {
+      "utf8": "Oh, I just got that!\n(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 30884,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "- How you doin'?\n- How you doin'?"
+    } ]
+  }, {
+    "tStartMs": 32844,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "How you doin'?"
+    } ]
+  }, {
+    "tStartMs": 37644,
+    "dDurationMs": 3306,
+    "segs": [ {
+      "utf8": "(audience laughs)\n- You had rambled on"
+    } ]
+  }, {
+    "tStartMs": 40950,
+    "dDurationMs": 2214,
+    "segs": [ {
+      "utf8": "for 18 pages,"
+    } ]
+  }, {
+    "tStartMs": 43164,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 44704,
+    "dDurationMs": 1826,
+    "segs": [ {
+      "utf8": "front and back!"
+    } ]
+  }, {
+    "tStartMs": 46530,
+    "dDurationMs": 1974,
+    "segs": [ {
+      "utf8": "- You know, on second thought,\ngum would be perfection."
+    } ]
+  }, {
+    "tStartMs": 48504,
+    "dDurationMs": 3106,
+    "segs": [ {
+      "utf8": "(audience laughs)\nGum would be perfection?"
+    } ]
+  }, {
+    "tStartMs": 51610,
+    "dDurationMs": 2214,
+    "segs": [ {
+      "utf8": "- I'm the holiday armadillo!"
+    } ]
+  }, {
+    "tStartMs": 53824,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "(audience laughs)\n- I got off the plane."
+    } ]
+  }, {
+    "tStartMs": 55844,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "(crowd cheers)"
+    } ]
+  }, {
+    "tStartMs": 59080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "- Joey doesn't share food!\n(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 61640,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "- He told me that his name was Ken Adams."
+    } ]
+  }, {
+    "tStartMs": 63768,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 65228,
+    "dDurationMs": 3094,
+    "segs": [ {
+      "utf8": "(audience applauds)\n- Ken Adams!"
+    } ]
+  }, {
+    "tStartMs": 68322,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "- Because she's your lobster."
+    } ]
+  }, {
+    "tStartMs": 69603,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 71722,
+    "dDurationMs": 1348,
+    "segs": [ {
+      "utf8": "(Phoebe and Rachel exclaim)\n- What is that?"
+    } ]
+  }, {
+    "tStartMs": 73070,
+    "dDurationMs": 1953,
+    "segs": [ {
+      "utf8": "- That would be Marcel."
+    } ]
+  }, {
+    "tStartMs": 75940,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "- That was the best nap I ever had."
+    } ]
+  }, {
+    "tStartMs": 77820,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "- I've had better."
+    } ]
+  }, {
+    "tStartMs": 78860,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "- Okay, when?\n- All right!"
+    } ]
+  }, {
+    "tStartMs": 80810,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "All right, it was the best nap ever!"
+    } ]
+  }, {
+    "tStartMs": 83980,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "- Oh, my God!"
+    } ]
+  }, {
+    "tStartMs": 84930,
+    "dDurationMs": 2997,
+    "segs": [ {
+      "utf8": "- Oh, my God!"
+    } ]
+  }, {
+    "tStartMs": 87927,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "(audience laughs)\n- Oh, my God."
+    } ]
+  }, {
+    "tStartMs": 92992,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "- Pivot."
+    } ]
+  }, {
+    "tStartMs": 95192,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "Pivot."
+    } ]
+  }, {
+    "tStartMs": 97252,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Pivot!\n(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 99853,
+    "dDurationMs": 1124,
+    "segs": [ {
+      "utf8": "Pivot!"
+    } ]
+  }, {
+    "tStartMs": 100977,
+    "dDurationMs": 2015,
+    "segs": [ {
+      "utf8": "- What is the deal with this?"
+    } ]
+  }, {
+    "tStartMs": 102992,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "The quiet down thing?"
+    } ]
+  }, {
+    "tStartMs": 104682,
+    "dDurationMs": 3025,
+    "segs": [ {
+      "utf8": "- (gasps) You mean this."
+    } ]
+  }, {
+    "tStartMs": 107707,
+    "dDurationMs": 3013,
+    "segs": [ {
+      "utf8": "- Fellas?"
+    } ]
+  }, {
+    "tStartMs": 110720,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "- Hello, my name is Regina Phalange."
+    } ]
+  }, {
+    "tStartMs": 113420,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Regina Phalange.\nRegina Phalange."
+    } ]
+  }, {
+    "tStartMs": 115670,
+    "dDurationMs": 2563,
+    "segs": [ {
+      "utf8": "- Seven, seven,\n(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 118233,
+    "dDurationMs": 1664,
+    "segs": [ {
+      "utf8": "seven, seven, seven,\nseven, seven, seven, seven!"
+    } ]
+  }, {
+    "tStartMs": 125212,
+    "dDurationMs": 1648,
+    "segs": [ {
+      "utf8": "- What is it?\n- It's a trifle."
+    } ]
+  }, {
+    "tStartMs": 126860,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "It's got all of these layers."
+    } ]
+  }, {
+    "tStartMs": 128460,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "First, there's a layer of lady fingers,"
+    } ]
+  }, {
+    "tStartMs": 130480,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "then a layer of jam, then custard,"
+    } ]
+  }, {
+    "tStartMs": 133070,
+    "dDurationMs": 1572,
+    "segs": [ {
+      "utf8": "then beef, sauteed with peas and onions,"
+    } ]
+  }, {
+    "tStartMs": 134642,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 135592,
+    "dDurationMs": 2331,
+    "segs": [ {
+      "utf8": "and then a little bit more custard."
+    } ]
+  }, {
+    "tStartMs": 137923,
+    "dDurationMs": 3047,
+    "segs": [ {
+      "utf8": "- There's a concept you should\nreally be familiar with."
+    } ]
+  }, {
+    "tStartMs": 140970,
+    "dDurationMs": 1953,
+    "segs": [ {
+      "utf8": "It's what the Japanese call unagi."
+    } ]
+  }, {
+    "tStartMs": 144291,
+    "dDurationMs": 2859,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 147150,
+    "dDurationMs": 1285,
+    "segs": [ {
+      "utf8": "- Isn't that a kind of sushi?"
+    } ]
+  }, {
+    "tStartMs": 148435,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 150135,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "- No, it's a concept.\n- Yeah, it is, it is."
+    } ]
+  }, {
+    "tStartMs": 151835,
+    "dDurationMs": 1845,
+    "segs": [ {
+      "utf8": "It's freshwater eel.\n- Well, you know what?"
+    } ]
+  }, {
+    "tStartMs": 153680,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "If we made reservations,\nwe could have unagi"
+    } ]
+  }, {
+    "tStartMs": 155480,
+    "dDurationMs": 1106,
+    "segs": [ {
+      "utf8": "in about a half hour.\n(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 156586,
+    "dDurationMs": 1851,
+    "segs": [ {
+      "utf8": "- Va' fa Napoli\n(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 158437,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "- Va' fa Napoli"
+    } ]
+  }, {
+    "tStartMs": 159876,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "- We were on a break!"
+    } ]
+  }, {
+    "tStartMs": 161616,
+    "dDurationMs": 1541,
+    "segs": [ {
+      "utf8": "We were on a break!"
+    } ]
+  }, {
+    "tStartMs": 163157,
+    "dDurationMs": 1999,
+    "segs": [ {
+      "utf8": "We were on a break!"
+    } ]
+  }, {
+    "tStartMs": 165156,
+    "dDurationMs": 1254,
+    "segs": [ {
+      "utf8": "(audience laughs)\n- The girl"
+    } ]
+  }, {
+    "tStartMs": 166410,
+    "dDurationMs": 2063,
+    "segs": [ {
+      "utf8": "from the Xerox place, buck naked,"
+    } ]
+  }, {
+    "tStartMs": 170010,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "or a big tub of jam?"
+    } ]
+  }, {
+    "tStartMs": 171731,
+    "dDurationMs": 2138,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 173869,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "- Put your hands together."
+    } ]
+  }, {
+    "tStartMs": 175259,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "(audience laughs)\n- Yemen."
+    } ]
+  }, {
+    "tStartMs": 176499,
+    "dDurationMs": 2111,
+    "segs": [ {
+      "utf8": "I'm being transferred to Yemen."
+    } ]
+  }, {
+    "tStartMs": 178610,
+    "dDurationMs": 1778,
+    "segs": [ {
+      "utf8": "I need a fake ticket to Yemen."
+    } ]
+  }, {
+    "tStartMs": 180388,
+    "dDurationMs": 2212,
+    "segs": [ {
+      "utf8": "- You waited too long to make your move,"
+    } ]
+  }, {
+    "tStartMs": 182600,
+    "dDurationMs": 2329,
+    "segs": [ {
+      "utf8": "and now you're in the friend zone."
+    } ]
+  }, {
+    "tStartMs": 184929,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 187010,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "- No, no, no, I'm not in the zone."
+    } ]
+  }, {
+    "tStartMs": 188900,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "- Oh, Ross you're mayor of the zone."
+    } ]
+  }, {
+    "tStartMs": 190219,
+    "dDurationMs": 2024,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 192243,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "(fun rock music)"
+    } ]
+  } ]
+}

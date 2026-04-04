@@ -1,0 +1,331 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2836,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "Are you eating the cheesecake without me?"
+    } ]
+  }, {
+    "tStartMs": 5088,
+    "dDurationMs": 709,
+    "segs": [ {
+      "utf8": "Uh-uh"
+    } ]
+  }, {
+    "tStartMs": 8049,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "I will give you $100 to whistle right now."
+    } ]
+  }, {
+    "tStartMs": 13638,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "(tries to whistle)"
+    } ]
+  }, {
+    "tStartMs": 16599,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "How can you eat the cheesecake without me?"
+    } ]
+  }, {
+    "tStartMs": 17809,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "Oh, what are you going to do?"
+    } ]
+  }, {
+    "tStartMs": 18727,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "You going to go run and tell Monica?"
+    } ]
+  }, {
+    "tStartMs": 19936,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Are you going to tell Joey?"
+    } ]
+  }, {
+    "tStartMs": 20979,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "No, because then you’re going to \nhave to tell them what we did."
+    } ]
+  }, {
+    "tStartMs": 23023,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "We are dessert stealers."
+    } ]
+  }, {
+    "tStartMs": 24357,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "We are living outside of the law."
+    } ]
+  }, {
+    "tStartMs": 27485,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "You know what? I don't trust you \nwith this cake anymore."
+    } ]
+  }, {
+    "tStartMs": 29487,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "And I got it first."
+    } ]
+  }, {
+    "tStartMs": 30864,
+    "dDurationMs": 1042,
+    "segs": [ {
+      "utf8": "And I’m taking it back!"
+    } ]
+  }, {
+    "tStartMs": 31906,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "What? What?"
+    } ]
+  }, {
+    "tStartMs": 33408,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "No, no, no, no, no.\n- Oh, yes! "
+    } ]
+  }, {
+    "tStartMs": 34284,
+    "dDurationMs": 542,
+    "segs": [ {
+      "utf8": "No you don’t!"
+    } ]
+  }, {
+    "tStartMs": 34826,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "No, no, no, no!"
+    } ]
+  }, {
+    "tStartMs": 35744,
+    "dDurationMs": 875,
+    "segs": [ {
+      "utf8": "- Oh, yes!"
+    } ]
+  }, {
+    "tStartMs": 36619,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "You think I trust you with it?"
+    } ]
+  }, {
+    "tStartMs": 38079,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "No. We're going to split it.\nYou take half and I take half."
+    } ]
+  }, {
+    "tStartMs": 40206,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Well, that's not fair.\nYou've already had some."
+    } ]
+  }, {
+    "tStartMs": 42167,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Oh, then- you know what?"
+    } ]
+  }, {
+    "tStartMs": 43001,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "I think Monica would be very \ninterested to know"
+    } ]
+  }, {
+    "tStartMs": 45003,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "that you called her\ncheesecake “dry and mealy.”"
+    } ]
+  }, {
+    "tStartMs": 48131,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "What do we use to split it?"
+    } ]
+  }, {
+    "tStartMs": 49674,
+    "dDurationMs": 584,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 53261,
+    "dDurationMs": 542,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 53803,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "Pick a half."
+    } ]
+  }, {
+    "tStartMs": 54679,
+    "dDurationMs": 751,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 56139,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "Well, this side looks bigger."
+    } ]
+  }, {
+    "tStartMs": 59434,
+    "dDurationMs": 709,
+    "segs": [ {
+      "utf8": "Uh..."
+    } ]
+  }, {
+    "tStartMs": 60977,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "There's more crust on this side."
+    } ]
+  }, {
+    "tStartMs": 64272,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "So. Maybe if I measure-"
+    } ]
+  }, {
+    "tStartMs": 65899,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "Oh for god’s sake! Just pick a piece."
+    } ]
+  }, {
+    "tStartMs": 67108,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "All right, I pick that one."
+    } ]
+  }, {
+    "tStartMs": 68735,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "So the smaller piece."
+    } ]
+  }, {
+    "tStartMs": 71821,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 72989,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "There you go."
+    } ]
+  }, {
+    "tStartMs": 74157,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "Enjoy your half my friend, but that is it."
+    } ]
+  }, {
+    "tStartMs": 77202,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "No sharing, no switching."
+    } ]
+  }, {
+    "tStartMs": 79120,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "And don't come crying to me"
+    } ]
+  }, {
+    "tStartMs": 80914,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "if you eat your piece too fast."
+    } ]
+  }, {
+    "tStartMs": 83541,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "Ah!"
+    } ]
+  }, {
+    "tStartMs": 90632,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Oh!"
+    } ]
+  }, {
+    "tStartMs": 94302,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "All right, you gonna give me some \nof your piece?"
+    } ]
+  }, {
+    "tStartMs": 95512,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Oh, no!"
+    } ]
+  }, {
+    "tStartMs": 96846,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 98014,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "No switching, no sharing."
+    } ]
+  }, {
+    "tStartMs": 99432,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "And don't come crying to me."
+    } ]
+  }, {
+    "tStartMs": 101059,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "(laughs)"
+    } ]
+  }, {
+    "tStartMs": 102143,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "I may just sit here and have \nmy cake all day."
+    } ]
+  }, {
+    "tStartMs": 105105,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Just sit here in the hallway and eat my -"
+    } ]
+  } ]
+}

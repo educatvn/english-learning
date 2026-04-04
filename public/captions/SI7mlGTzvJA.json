@@ -1,0 +1,373 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 333,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "I just can't believe that you think"
+    } ]
+  }, {
+    "tStartMs": 1918,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "you and Chandler know me\nand Rachel better than we know you."
+    } ]
+  }, {
+    "tStartMs": 5213,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Well, we do."
+    } ]
+  }, {
+    "tStartMs": 8049,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "You can only eat TicTacs\nin even numbers."
+    } ]
+  }, {
+    "tStartMs": 11261,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Yeah, what's that about?"
+    } ]
+  }, {
+    "tStartMs": 13763,
+    "dDurationMs": 668,
+    "segs": [ {
+      "utf8": "And you."
+    } ]
+  }, {
+    "tStartMs": 14597,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "Ross, I believe if you check\nRachel's bag,"
+    } ]
+  }, {
+    "tStartMs": 16891,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "you will find a half eaten box\nof cookies in there"
+    } ]
+  }, {
+    "tStartMs": 23857,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "You're good."
+    } ]
+  }, {
+    "tStartMs": 26943,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "These are not."
+    } ]
+  }, {
+    "tStartMs": 29446,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "So not impressed."
+    } ]
+  }, {
+    "tStartMs": 30613,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Everybody snacks when they shop."
+    } ]
+  }, {
+    "tStartMs": 32574,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "-Yeah.\n-Oh, yeah?"
+    } ]
+  }, {
+    "tStartMs": 33575,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "Ross, how many items left\nin that bag?"
+    } ]
+  }, {
+    "tStartMs": 36369,
+    "dDurationMs": 751,
+    "segs": [ {
+      "utf8": "Five."
+    } ]
+  }, {
+    "tStartMs": 37120,
+    "dDurationMs": 626,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 37746,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "Ten bucks says that we can name\nevery item in that bag."
+    } ]
+  }, {
+    "tStartMs": 43043,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "How many guesses do you get?"
+    } ]
+  }, {
+    "tStartMs": 44461,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Six."
+    } ]
+  }, {
+    "tStartMs": 45462,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "Challenge extended."
+    } ]
+  }, {
+    "tStartMs": 49090,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Deal."
+    } ]
+  }, {
+    "tStartMs": 50050,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Challenge accepted."
+    } ]
+  }, {
+    "tStartMs": 53470,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "All right."
+    } ]
+  }, {
+    "tStartMs": 54471,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "We'll start with..."
+    } ]
+  }, {
+    "tStartMs": 56598,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "apples."
+    } ]
+  }, {
+    "tStartMs": 57432,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "We'll be starting with apples."
+    } ]
+  }, {
+    "tStartMs": 62562,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Stop that now."
+    } ]
+  }, {
+    "tStartMs": 66608,
+    "dDurationMs": 792,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 67859,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "Okay. Tortilla chips."
+    } ]
+  }, {
+    "tStartMs": 70361,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "-Yogurt.\n-Diet soda."
+    } ]
+  }, {
+    "tStartMs": 72489,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 76576,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "Orange juice."
+    } ]
+  }, {
+    "tStartMs": 77243,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "No! There's no orange juice\nin there. We win!"
+    } ]
+  }, {
+    "tStartMs": 80538,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "They have another guess."
+    } ]
+  }, {
+    "tStartMs": 83291,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "Okay, well, we won that one."
+    } ]
+  }, {
+    "tStartMs": 86169,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "Okay, the last thing..."
+    } ]
+  }, {
+    "tStartMs": 88296,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "Oh, oh, oh, oh! Oh, oh!"
+    } ]
+  }, {
+    "tStartMs": 92342,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "No, no, not for, like,\nanother two weeks."
+    } ]
+  }, {
+    "tStartMs": 98389,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "I got it."
+    } ]
+  }, {
+    "tStartMs": 99557,
+    "dDurationMs": 2545,
+    "segs": [ {
+      "utf8": "Scotch... tape."
+    } ]
+  }, {
+    "tStartMs": 107565,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "How did you know she would\nbuy Scotch tape?"
+    } ]
+  }, {
+    "tStartMs": 110151,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "Well, we used up theirs last night,\nmaking scary faces."
+    } ]
+  }, {
+    "tStartMs": 114781,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Oh, man."
+    } ]
+  }, {
+    "tStartMs": 116199,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "All right, ten bucks. Fork it over."
+    } ]
+  }, {
+    "tStartMs": 119202,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Cough it up."
+    } ]
+  }, {
+    "tStartMs": 120370,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Pay the piper."
+    } ]
+  }, {
+    "tStartMs": 122872,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "Gimme it."
+    } ]
+  }, {
+    "tStartMs": 125291,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "It does not mean you\nknow us better."
+    } ]
+  }, {
+    "tStartMs": 127001,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "I want a rematch."
+    } ]
+  }, {
+    "tStartMs": 128211,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "Yeah, and none of these stupid\ngrocery questions, Real personal questions."
+    } ]
+  }, {
+    "tStartMs": 131756,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "Yeah. And the winner gets 100 bucks."
+    } ]
+  }, {
+    "tStartMs": 134759,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "Serious?"
+    } ]
+  }, {
+    "tStartMs": 136469,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Are you scared?"
+    } ]
+  }, {
+    "tStartMs": 139681,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 142475,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "Okay, well, who makes up the questions?"
+    } ]
+  }, {
+    "tStartMs": 144686,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Ross will do it."
+    } ]
+  }, {
+    "tStartMs": 146271,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Oh, sure. Ross will do it."
+    } ]
+  }, {
+    "tStartMs": 148940,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "It's not like he has a job or\na child or a life of his own."
+    } ]
+  }, {
+    "tStartMs": 153194,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Fine, we’ll ask Phoebe."
+    } ]
+  }, {
+    "tStartMs": 154863,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "No, no, no. I want to play."
+    } ]
+  } ]
+}

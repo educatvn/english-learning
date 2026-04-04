@@ -1,0 +1,391 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "(phone rings)"
+    } ]
+  }, {
+    "tStartMs": 2190,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- Hello."
+    } ]
+  }, {
+    "tStartMs": 3023,
+    "dDurationMs": 1712,
+    "segs": [ {
+      "utf8": "- Joey, it's Ross. I need some help."
+    } ]
+  }, {
+    "tStartMs": 4735,
+    "dDurationMs": 1955,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 6690,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "- Chandler's not here."
+    } ]
+  }, {
+    "tStartMs": 7800,
+    "dDurationMs": 1403,
+    "segs": [ {
+      "utf8": "- Well, you can help me."
+    } ]
+  }, {
+    "tStartMs": 11060,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "- Okay."
+    } ]
+  }, {
+    "tStartMs": 12030,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "- Listen, I'm in Elizabeth's bathroom."
+    } ]
+  }, {
+    "tStartMs": 14760,
+    "dDurationMs": 1116,
+    "segs": [ {
+      "utf8": "- Nice."
+    } ]
+  }, {
+    "tStartMs": 15876,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 17310,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "- No, I got really hot\nin my leather pants,"
+    } ]
+  }, {
+    "tStartMs": 20030,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "so I took them off, but\nthey must have shrunk"
+    } ]
+  }, {
+    "tStartMs": 22340,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "from the sweat or something,"
+    } ]
+  }, {
+    "tStartMs": 23900,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "or my legs expanded from the heat."
+    } ]
+  }, {
+    "tStartMs": 27900,
+    "dDurationMs": 3464,
+    "segs": [ {
+      "utf8": "Look, I can't get them\nback on, Joey. I can't!"
+    } ]
+  }, {
+    "tStartMs": 31364,
+    "dDurationMs": 1539,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 32903,
+    "dDurationMs": 2518,
+    "segs": [ {
+      "utf8": "- Hm, that is quite a situation."
+    } ]
+  }, {
+    "tStartMs": 35421,
+    "dDurationMs": 3359,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 38780,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "Do you see any like powder?"
+    } ]
+  }, {
+    "tStartMs": 41139,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "- Powder! Yeah."
+    } ]
+  }, {
+    "tStartMs": 42390,
+    "dDurationMs": 1223,
+    "segs": [ {
+      "utf8": "I have powder."
+    } ]
+  }, {
+    "tStartMs": 43613,
+    "dDurationMs": 1447,
+    "segs": [ {
+      "utf8": "- Good. Okay."
+    } ]
+  }, {
+    "tStartMs": 45060,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Sprinkle some of that on your legs."
+    } ]
+  }, {
+    "tStartMs": 46350,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "It'll absorb some of the moisture"
+    } ]
+  }, {
+    "tStartMs": 47810,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "and then you can get your pants back up."
+    } ]
+  }, {
+    "tStartMs": 49680,
+    "dDurationMs": 883,
+    "segs": [ {
+      "utf8": "- Hold, hold on."
+    } ]
+  }, {
+    "tStartMs": 55532,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 66361,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 73814,
+    "dDurationMs": 1718,
+    "segs": [ {
+      "utf8": "They are not coming on, man."
+    } ]
+  }, {
+    "tStartMs": 75532,
+    "dDurationMs": 2914,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 78446,
+    "dDurationMs": 1831,
+    "segs": [ {
+      "utf8": "- You see any... Oh, Vaseline!"
+    } ]
+  }, {
+    "tStartMs": 82800,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "- I see lotion."
+    } ]
+  }, {
+    "tStartMs": 83710,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "I have lotion. Will that work?"
+    } ]
+  }, {
+    "tStartMs": 85670,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "- Yeah, sure. Throw some of that on there."
+    } ]
+  }, {
+    "tStartMs": 87620,
+    "dDurationMs": 958,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 88578,
+    "dDurationMs": 1417,
+    "segs": [ {
+      "utf8": "- [Ross] Hold on."
+    } ]
+  }, {
+    "tStartMs": 92690,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 96840,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 101197,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "(hand snaps)"
+    } ]
+  }, {
+    "tStartMs": 102030,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 103751,
+    "dDurationMs": 2117,
+    "segs": [ {
+      "utf8": "- Ross, you okay?"
+    } ]
+  }, {
+    "tStartMs": 105868,
+    "dDurationMs": 2115,
+    "segs": [ {
+      "utf8": "- They're still not coming on, man."
+    } ]
+  }, {
+    "tStartMs": 107983,
+    "dDurationMs": 1687,
+    "segs": [ {
+      "utf8": "And the lotion and the powder"
+    } ]
+  }, {
+    "tStartMs": 109670,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "have made a paste."
+    } ]
+  }, {
+    "tStartMs": 111239,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 113000,
+    "dDurationMs": 866,
+    "segs": [ {
+      "utf8": "- Really?"
+    } ]
+  }, {
+    "tStartMs": 113866,
+    "dDurationMs": 2354,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 116220,
+    "dDurationMs": 1104,
+    "segs": [ {
+      "utf8": "What color is it?"
+    } ]
+  }, {
+    "tStartMs": 117324,
+    "dDurationMs": 1138,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 118462,
+    "dDurationMs": 2828,
+    "segs": [ {
+      "utf8": "- What difference does that make?"
+    } ]
+  }, {
+    "tStartMs": 121290,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "- Well, if the paste matches the pants,"
+    } ]
+  }, {
+    "tStartMs": 123710,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "you can make yourself\na pair of paste pants"
+    } ]
+  }, {
+    "tStartMs": 125420,
+    "dDurationMs": 1345,
+    "segs": [ {
+      "utf8": "and she won't know the difference."
+    } ]
+  }, {
+    "tStartMs": 126765,
+    "dDurationMs": 1482,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 128247,
+    "dDurationMs": 1863,
+    "segs": [ {
+      "utf8": "- Joey, do you have a minute?"
+    } ]
+  }, {
+    "tStartMs": 130110,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "- Dude, what am I-"
+    } ]
+  }, {
+    "tStartMs": 131090,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "- Um, Rachel's here. So good luck, man."
+    } ]
+  }, {
+    "tStartMs": 133200,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "Let me know how it works out."
+    } ]
+  }, {
+    "tStartMs": 134285,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  }, {
+    "tStartMs": 136538,
+    "dDurationMs": 3822,
+    "segs": [ {
+      "utf8": "- Oh, Joey, I have such a problem."
+    } ]
+  }, {
+    "tStartMs": 140360,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "- Well, your timing couldn't be better."
+    } ]
+  }, {
+    "tStartMs": 141880,
+    "dDurationMs": 1774,
+    "segs": [ {
+      "utf8": "I am putting out fires all over the place."
+    } ]
+  }, {
+    "tStartMs": 143654,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "(audience laughs)"
+    } ]
+  } ]
+}

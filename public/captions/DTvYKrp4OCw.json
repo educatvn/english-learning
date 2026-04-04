@@ -1,0 +1,547 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 4921,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "All right, where's that Turkey?"
+    } ]
+  }, {
+    "tStartMs": 6131,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 12512,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Joey, those are my maternity pants."
+    } ]
+  }, {
+    "tStartMs": 14389,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "No, no, these are my Thanksgiving pants."
+    } ]
+  }, {
+    "tStartMs": 16474,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 18518,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "What is it with you and this holiday?"
+    } ]
+  }, {
+    "tStartMs": 24482,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Ooh hoo, you got the bigger half."
+    } ]
+  }, {
+    "tStartMs": 26359,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "What'd you wish for?"
+    } ]
+  }, {
+    "tStartMs": 28069,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "The bigger half."
+    } ]
+  }, {
+    "tStartMs": 29195,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 31614,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "You know what,"
+    } ]
+  }, {
+    "tStartMs": 32949,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "I think you'll play."
+    } ]
+  }, {
+    "tStartMs": 34576,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Oh, really, why is that?"
+    } ]
+  }, {
+    "tStartMs": 36453,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Because the winner gets this."
+    } ]
+  }, {
+    "tStartMs": 38913,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "The Geller Cup."
+    } ]
+  }, {
+    "tStartMs": 40081,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 43543,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "Is everybody else seeing a troll doll"
+    } ]
+  }, {
+    "tStartMs": 45211,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "nailed to a two by four?"
+    } ]
+  }, {
+    "tStartMs": 46588,
+    "dDurationMs": 375,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 47213,
+    "dDurationMs": 501,
+    "segs": [ {
+      "utf8": "Hike."
+    } ]
+  }, {
+    "tStartMs": 47714,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "1 Mississippi, 2\nMississippi, 3 Mississippi."
+    } ]
+  }, {
+    "tStartMs": 49215,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Here, over here, over here."
+    } ]
+  }, {
+    "tStartMs": 52177,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "I almost caught that one."
+    } ]
+  }, {
+    "tStartMs": 53011,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 54846,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "Great, now the score's\nseven to almost seven."
+    } ]
+  }, {
+    "tStartMs": 56890,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 58725,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "Chandler."
+    } ]
+  }, {
+    "tStartMs": 59934,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Oh, he can't talk right now."
+    } ]
+  }, {
+    "tStartMs": 61603,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 63480,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "Why not, what's going on?"
+    } ]
+  }, {
+    "tStartMs": 65106,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "Well he's trying to show\nJoey how much he means to him."
+    } ]
+  }, {
+    "tStartMs": 69027,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "By being in a box?"
+    } ]
+  }, {
+    "tStartMs": 70945,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Joey had reasons."
+    } ]
+  }, {
+    "tStartMs": 72405,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 73323,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "You know that mailman that you got fired"
+    } ]
+  }, {
+    "tStartMs": 75366,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "didn't steal your Playboys."
+    } ]
+  }, {
+    "tStartMs": 77285,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "Ross did."
+    } ]
+  }, {
+    "tStartMs": 78161,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 83875,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Yeah well, Hurricane Gloria\ndidn't break the porch swing,"
+    } ]
+  }, {
+    "tStartMs": 86795,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Monica did."
+    } ]
+  }, {
+    "tStartMs": 87629,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 90548,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "Ross hasn't worked at\nthe museum for a year!"
+    } ]
+  }, {
+    "tStartMs": 93051,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 94260,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "Monica and Chandler are living together!"
+    } ]
+  }, {
+    "tStartMs": 96679,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "(audience cheering)"
+    } ]
+  }, {
+    "tStartMs": 100350,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "Ross married Rachel in\nVegas and got divorced again!"
+    } ]
+  }, {
+    "tStartMs": 104187,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 106231,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "I love Jacques Cousteau."
+    } ]
+  }, {
+    "tStartMs": 107857,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 111027,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "I wasn't supposed to\nput beef in the trifle."
+    } ]
+  }, {
+    "tStartMs": 113780,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 115532,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "I wanna go!"
+    } ]
+  }, {
+    "tStartMs": 117075,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 120578,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "That's a lot of information\nto get in 30 seconds."
+    } ]
+  }, {
+    "tStartMs": 123790,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 132465,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "You look so great, I love you."
+    } ]
+  }, {
+    "tStartMs": 135426,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 139305,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "I'm serious, let me do something."
+    } ]
+  }, {
+    "tStartMs": 141099,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Just not the turkey or the stuffing."
+    } ]
+  }, {
+    "tStartMs": 142934,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Nothing high profile."
+    } ]
+  }, {
+    "tStartMs": 144394,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 145228,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "Okay, let's see."
+    } ]
+  }, {
+    "tStartMs": 146437,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "Oh, the cranberry sauce."
+    } ]
+  }, {
+    "tStartMs": 147689,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "It's easy to make and no\none really cares about it."
+    } ]
+  }, {
+    "tStartMs": 150024,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 151609,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "Tell me more."
+    } ]
+  }, {
+    "tStartMs": 152527,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 154154,
+    "dDurationMs": 1292,
+    "segs": [ {
+      "utf8": "Oh, here come the meat sweats."
+    } ]
+  }, {
+    "tStartMs": 155446,
+    "dDurationMs": 793,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 156489,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 160368,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "Hey, listen guys, we feel really terrible."
+    } ]
+  }, {
+    "tStartMs": 162787,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 164247,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "He's doing that weird eye contact thing."
+    } ]
+  }, {
+    "tStartMs": 167041,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "Don't look at him, don't look at him."
+    } ]
+  }, {
+    "tStartMs": 169419,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Come on you guys,"
+    } ]
+  }, {
+    "tStartMs": 170336,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "we want you to know\nwe're very, very sorry."
+    } ]
+  }, {
+    "tStartMs": 173840,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 175383,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "Right guys?"
+    } ]
+  }, {
+    "tStartMs": 177802,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "I feel terrible.\n- Oh so sorry."
+    } ]
+  }, {
+    "tStartMs": 179596,
+    "dDurationMs": 1042,
+    "segs": [ {
+      "utf8": "Sorry."
+    } ]
+  }, {
+    "tStartMs": 180638,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 182682,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "But let's not ruin this\nday, you worked so hard."
+    } ]
+  }, {
+    "tStartMs": 185435,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Let's move past this"
+    } ]
+  }, {
+    "tStartMs": 186352,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "and try to have a nice meal all together, huh?"
+    } ]
+  }, {
+    "tStartMs": 188605,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "The floating heads do make a good point."
+    } ]
+  }, {
+    "tStartMs": 190899,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 192817,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "It's a Thanksgiving miracle!"
+    } ]
+  }, {
+    "tStartMs": 194861,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "(audience laughing)"
+    } ]
+  }, {
+    "tStartMs": 195862,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "(glasses clinking)"
+    } ]
+  } ]
+}

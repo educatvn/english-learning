@@ -1,0 +1,343 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 41,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Okay. Pheebs, you look in the kitchen."
+    } ]
+  }, {
+    "tStartMs": 1292,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "I will look in the back closet."
+    } ]
+  }, {
+    "tStartMs": 2544,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "- Okay.\n- I can save you time, ladies."
+    } ]
+  }, {
+    "tStartMs": 4129,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "I'm right here."
+    } ]
+  }, {
+    "tStartMs": 6756,
+    "dDurationMs": 709,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 7465,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Chandler, why don't you take a walk?"
+    } ]
+  }, {
+    "tStartMs": 9134,
+    "dDurationMs": 1042,
+    "segs": [ {
+      "utf8": "This doesn't concern you."
+    } ]
+  }, {
+    "tStartMs": 11928,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "We are looking for our Christmas presents\nfrom Monica."
+    } ]
+  }, {
+    "tStartMs": 14597,
+    "dDurationMs": 1377,
+    "segs": [ {
+      "utf8": "What? That's terrible."
+    } ]
+  }, {
+    "tStartMs": 15974,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "No, no, we do it every year."
+    } ]
+  }, {
+    "tStartMs": 17934,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "Oh, well, that- that makes it not terrible."
+    } ]
+  }, {
+    "tStartMs": 21980,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "No, yeah. We never find them."
+    } ]
+  }, {
+    "tStartMs": 23815,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "She's always bested us,"
+    } ]
+  }, {
+    "tStartMs": 24983,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "that wily... minx."
+    } ]
+  }, {
+    "tStartMs": 28403,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "Yeah, don’t worry, we're just going\nto search here for an hour"
+    } ]
+  }, {
+    "tStartMs": 30739,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "and then we're gonna go over to\nJoey's and search, okay?"
+    } ]
+  }, {
+    "tStartMs": 33033,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "No, not okay."
+    } ]
+  }, {
+    "tStartMs": 34034,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "You can't look for Monica's presents."
+    } ]
+  }, {
+    "tStartMs": 36244,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Oh, no, we have to."
+    } ]
+  }, {
+    "tStartMs": 37078,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "No, you don't have to."
+    } ]
+  }, {
+    "tStartMs": 38288,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "And you can't, because I- I live here, too."
+    } ]
+  }, {
+    "tStartMs": 42375,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "Well, then, you should look with us."
+    } ]
+  }, {
+    "tStartMs": 45920,
+    "dDurationMs": 709,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 47047,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "Chandler, aren't you worried"
+    } ]
+  }, {
+    "tStartMs": 48173,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "about what to get Monica for Christmas?"
+    } ]
+  }, {
+    "tStartMs": 49841,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "No, I have a great idea \nfor a present for her."
+    } ]
+  }, {
+    "tStartMs": 52218,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "Oh, that's it, a great idea...\nI guess."
+    } ]
+  }, {
+    "tStartMs": 56556,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Chandler, that's not enough."
+    } ]
+  }, {
+    "tStartMs": 57599,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "I mean, what if she gets you"
+    } ]
+  }, {
+    "tStartMs": 58516,
+    "dDurationMs": 3087,
+    "segs": [ {
+      "utf8": "a great present, two medium presents,\nand a bunch of little presents,"
+    } ]
+  }, {
+    "tStartMs": 61728,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "and you've just gotten her one\ngreat present?"
+    } ]
+  }, {
+    "tStartMs": 63438,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "I mean, that's just going to \nmake her feel bad."
+    } ]
+  }, {
+    "tStartMs": 65148,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "Why would you do that\nto her, Chandler?"
+    } ]
+  }, {
+    "tStartMs": 66524,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Why? Why?"
+    } ]
+  }, {
+    "tStartMs": 69736,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "If I helped, we could find them faster."
+    } ]
+  }, {
+    "tStartMs": 71404,
+    "dDurationMs": 709,
+    "segs": [ {
+      "utf8": "That’s right."
+    } ]
+  }, {
+    "tStartMs": 73865,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Oh, ooh, we have a live one."
+    } ]
+  }, {
+    "tStartMs": 75617,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Ooh, ah!\nIt’s a Macy’s bag."
+    } ]
+  }, {
+    "tStartMs": 77035,
+    "dDurationMs": 751,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 79037,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "- Oh.\n- Ooh, who’s it for?"
+    } ]
+  }, {
+    "tStartMs": 83750,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "“Dear losers,"
+    } ]
+  }, {
+    "tStartMs": 84834,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "do you really think I'd hide presents\nunder the couch?”"
+    } ]
+  }, {
+    "tStartMs": 89631,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "“P.S., Chandler"
+    } ]
+  }, {
+    "tStartMs": 90799,
+    "dDurationMs": 1584,
+    "segs": [ {
+      "utf8": "I knew they'd break you.”"
+    } ]
+  }, {
+    "tStartMs": 95220,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Uh-oh. She may be on to us."
+    } ]
+  }, {
+    "tStartMs": 98640,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "We are so gonna find them this year."
+    } ]
+  }, {
+    "tStartMs": 101935,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "You know, you guys said you were going to\ngo across the hall and look. "
+    } ]
+  }, {
+    "tStartMs": 103978,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "You don't, you don't do \nthat every year, do you?"
+    } ]
+  }, {
+    "tStartMs": 106481,
+    "dDurationMs": 417,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 107315,
+    "dDurationMs": 584,
+    "segs": [ {
+      "utf8": "You don't, like,"
+    } ]
+  }, {
+    "tStartMs": 107899,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "go into the back of my closet\nand look under my gym bag or anything."
+    } ]
+  }, {
+    "tStartMs": 114155,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- No, we never do that.\n- No."
+    } ]
+  }, {
+    "tStartMs": 118827,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "Because that's where Joey gave \nme some stuff to store"
+    } ]
+  }, {
+    "tStartMs": 120620,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "that I've never seen before in my life."
+    } ]
+  }, {
+    "tStartMs": 124749,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Okay, that did not just happen."
+    } ]
+  } ]
+}

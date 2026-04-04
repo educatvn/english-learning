@@ -1,0 +1,397 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1126,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Hey!\nHey!"
+    } ]
+  }, {
+    "tStartMs": 2544,
+    "dDurationMs": 459,
+    "segs": [ {
+      "utf8": "Hi! "
+    } ]
+  }, {
+    "tStartMs": 6297,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "Coffee!"
+    } ]
+  }, {
+    "tStartMs": 16266,
+    "dDurationMs": 625,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 16891,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Are we going \nto talk about"
+    } ]
+  }, {
+    "tStartMs": 18101,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "what you guys \ndid last night, or—"
+    } ]
+  }, {
+    "tStartMs": 22313,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "What do you\nmean last night,"
+    } ]
+  }, {
+    "tStartMs": 23148,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "nothing, nothing—"
+    } ]
+  }, {
+    "tStartMs": 24315,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Nothing happened\nlast night."
+    } ]
+  }, {
+    "tStartMs": 25316,
+    "dDurationMs": 501,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 25817,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Uh huh, Ross\nInvited us"
+    } ]
+  }, {
+    "tStartMs": 27360,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "all to watch."
+    } ]
+  }, {
+    "tStartMs": 31823,
+    "dDurationMs": 792,
+    "segs": [ {
+      "utf8": "Rach,"
+    } ]
+  }, {
+    "tStartMs": 32615,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "we weren’t going\nto miss our friends"
+    } ]
+  }, {
+    "tStartMs": 33783,
+    "dDurationMs": 751,
+    "segs": [ {
+      "utf8": "getting married."
+    } ]
+  }, {
+    "tStartMs": 34951,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Who got married?"
+    } ]
+  }, {
+    "tStartMs": 38872,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "You did."
+    } ]
+  }, {
+    "tStartMs": 40999,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 43168,
+    "dDurationMs": 709,
+    "segs": [ {
+      "utf8": "Wait, hello?"
+    } ]
+  }, {
+    "tStartMs": 43877,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "We didn’t  get married."
+    } ]
+  }, {
+    "tStartMs": 45670,
+    "dDurationMs": 626,
+    "segs": [ {
+      "utf8": "That’s ridiculous."
+    } ]
+  }, {
+    "tStartMs": 52177,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "Wait, wait, wait,"
+    } ]
+  }, {
+    "tStartMs": 52844,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "I remember being\nin a chapel."
+    } ]
+  }, {
+    "tStartMs": 54971,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "They would not\nlet us get married"
+    } ]
+  }, {
+    "tStartMs": 57140,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "when we were\nthat drunk."
+    } ]
+  }, {
+    "tStartMs": 58224,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "No—\n-They let you get"
+    } ]
+  }, {
+    "tStartMs": 59392,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "when you’re drunk."
+    } ]
+  }, {
+    "tStartMs": 60894,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Most people \ngetting married"
+    } ]
+  }, {
+    "tStartMs": 61811,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "in Vegas\nare drunk!"
+    } ]
+  }, {
+    "tStartMs": 64355,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Hell, I’m drunk\nright now."
+    } ]
+  }, {
+    "tStartMs": 68193,
+    "dDurationMs": 625,
+    "segs": [ {
+      "utf8": "I can't have a"
+    } ]
+  }, {
+    "tStartMs": 68818,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "mimosa with\nbreakfast?"
+    } ]
+  }, {
+    "tStartMs": 70070,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "I’m on vacation."
+    } ]
+  }, {
+    "tStartMs": 72906,
+    "dDurationMs": 1042,
+    "segs": [ {
+      "utf8": "What are you\nguys going to do?"
+    } ]
+  }, {
+    "tStartMs": 73948,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "Oh, I guess we just"
+    } ]
+  }, {
+    "tStartMs": 74783,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "find a divorce lawyer."
+    } ]
+  }, {
+    "tStartMs": 76576,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "Well, I think, \nI think,"
+    } ]
+  }, {
+    "tStartMs": 78620,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "Ross already has one."
+    } ]
+  }, {
+    "tStartMs": 82457,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "Now, this one’s free, right?"
+    } ]
+  }, {
+    "tStartMs": 83583,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "Because you paid\nfor the first two"
+    } ]
+  }, {
+    "tStartMs": 84876,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "so you get the\nthird one for free."
+    } ]
+  }, {
+    "tStartMs": 87420,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Laugh it up but\nthe jokes on you "
+    } ]
+  }, {
+    "tStartMs": 89881,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "because we don’t\nneed to get divorced."
+    } ]
+  }, {
+    "tStartMs": 92342,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "Okay? We’re just\ngoing to get"
+    } ]
+  }, {
+    "tStartMs": 93635,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "an annulment."
+    } ]
+  }, {
+    "tStartMs": 94552,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "-An annulment?"
+    } ]
+  }, {
+    "tStartMs": 95386,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Ross,"
+    } ]
+  }, {
+    "tStartMs": 96429,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "I think surgery's\nthe answer here."
+    } ]
+  }, {
+    "tStartMs": 100517,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Oh, that's your thing."
+    } ]
+  }, {
+    "tStartMs": 104145,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 105688,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "Your thing, your thing,"
+    } ]
+  }, {
+    "tStartMs": 106773,
+    "dDurationMs": 542,
+    "segs": [ {
+      "utf8": "you know,"
+    } ]
+  }, {
+    "tStartMs": 107315,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "that you’re the guy\nwho gets divorced."
+    } ]
+  }, {
+    "tStartMs": 109442,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Oh, yeah!"
+    } ]
+  }, {
+    "tStartMs": 111402,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "It’s not my thing!"
+    } ]
+  }, {
+    "tStartMs": 114405,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "I do not love\ngetting divorced."
+    } ]
+  }, {
+    "tStartMs": 116950,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Yes you do!"
+    } ]
+  }, {
+    "tStartMs": 117784,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "This is your\nthird divorce."
+    } ]
+  }, {
+    "tStartMs": 120328,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "You love divorce \nso much you’re "
+    } ]
+  }, {
+    "tStartMs": 121746,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "probably going\nto marry it."
+    } ]
+  }, {
+    "tStartMs": 125792,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "And then it won’t\nwork out so"
+    } ]
+  }, {
+    "tStartMs": 127001,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "you’re going to\nhave to divorce it."
+    } ]
+  }, {
+    "tStartMs": 128044,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Divorcing guy!"
+    } ]
+  }, {
+    "tStartMs": 131464,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "I’m so drunk."
+    } ]
+  } ]
+}
