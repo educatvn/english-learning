@@ -183,8 +183,9 @@ export function AppHeader({ right, breadcrumb, hideAddVideo = false, onMenuClick
               <Menu className="w-4 h-4" />
             </button>
           )}
-          <Link to="/" className="font-semibold text-sm shrink-0 hover:text-foreground transition-colors">
-            English Learning
+          <Link to="/" className="flex items-center gap-2 shrink-0 hover:opacity-90 transition-opacity">
+            <img src="/favicon.svg" alt="E" className="w-6 h-6 rounded" />
+            <span className="font-semibold text-sm">English Learning</span>
           </Link>
           {breadcrumb && (
             <div className="hidden sm:flex items-center gap-1.5 min-w-0">

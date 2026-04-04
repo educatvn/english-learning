@@ -1,15 +1,15 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import ReactPlayer from 'react-player';
-import { Brain, StickyNote, Plus, Trash2, PanelRightClose, PanelRightOpen } from 'lucide-react';
-import { parseJSON3, findActiveCue } from '@/utils/captionParser';
+import { Brain, StickyNote, Plus, Trash2, ChevronRight, Subtitles } from 'lucide-react';
+import { parseJSON3, findActiveCue, groupCuesIntoParagraphs } from '@/utils/captionParser';
 import type { CaptionCue } from '@/utils/captionParser';
-import { pickQuizWord, maskText } from '@/utils/quizWord';
-import { loadVideos } from '@/services/videos';
+import { maskText } from '@/utils/quizWord';
 import { useAuth } from '@/context/AuthContext';
 import { AppHeader } from '@/components/AppHeader';
 import { CueText } from '@/components/CueText';
 import { VocabDialog } from '@/components/VocabDialog';
+import { TranscriptPanel } from '@/components/TranscriptPanel';
 import { useQuizMode } from '@/hooks/useQuizMode';
 import { useWatchTime } from '@/hooks/useWatchTime';
 import { useVideoProgress } from '@/hooks/useVideoProgress';
@@ -20,8 +20,6 @@ import { VideoProgressBar } from '@/components/VideoProgressBar';
 import { saveQuizAttempt } from '@/services/quizResults';
 import { addVocabWord, getVocabWords } from '@/services/vocabulary';
 import type { VocabEntry } from '@/types';
-
-import { segmentTranscript } from '../lib/transcriptSegmenter';
 
 export default function PlayPage() {
   const { videoId } = useParams<{ videoId: string }>();
@@ -34,11 +32,11 @@ export default function PlayPage() {
   const durationMsStateRef = useRef(0);
 
   const [cues, setCues] = useState<CaptionCue[]>([]);
+  const paragraphs = groupCuesIntoParagraphs(cues);
   const [currentMs, setCurrentMs] = useState(0);
   const [durationMs, setDurationMs] = useState(0);
   const [playing, setPlaying] = useState(false);
   const stopAtMsRef = useRef<number | null>(null);
-  const [videoTitle, setVideoTitle] = useState<string | null>(null);
 
   const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null);
 
@@ -49,6 +47,7 @@ export default function PlayPage() {
   const noteInputRef = useRef<HTMLTextAreaElement>(null);
 
   const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [captionsVisible, setCaptionsVisible] = useState(false);
   const [vocabWords, setVocabWords] = useState<Set<string>>(new Set());
   const [vocabDialog, setVocabDialog] = useState<{ word: string; cue: CaptionCue } | null>(null);
   // Track whether video was playing before overlay hover paused it
@@ -114,14 +113,6 @@ export default function PlayPage() {
 
   const seekToMs = searchParams.get('t') ? Number(searchParams.get('t')) : null;
 
-  useEffect(() => {
-    loadVideos()
-      .then(vs => {
-        const match = vs.find(v => v.videoId === videoId);
-        if (match) setVideoTitle(match.title);
-      })
-      .catch(console.error);
-  }, [videoId]);
 
   useEffect(() => {
     async function loadCaptions() {
@@ -132,10 +123,6 @@ export default function PlayPage() {
           const r = await fetch(path);
           if (!r.ok) continue;
           const data = await r.json();
-
-          const parsedData = segmentTranscript(data?.events);
-
-          console.log(parsedData);
 
           const result = parseJSON3(data);
           if (result.cues.length > 0) {
@@ -207,6 +194,18 @@ export default function PlayPage() {
     setPinnedCueIdx(null);
   }, []);
 
+  // Paragraph timestamp click: seek + always start playing
+  const handleParagraphSeek = useCallback((ms: number) => {
+    const video = playerRef.current;
+    if (!video) return;
+    stopAtMsRef.current = null;
+    video.currentTime = ms / 1000;
+    setCurrentMs(ms);
+    setPinnedCueIdx(null);
+    setPlaying(true);
+    video.play().catch(console.error);
+  }, []);
+
   const handleCueClick = useCallback(
     (cue: CaptionCue, idx: number) => {
       const video = playerRef.current;
@@ -266,27 +265,12 @@ export default function PlayPage() {
 
   return (
     <div className="flex flex-col h-screen bg-background overflow-hidden">
-      <AppHeader
-        breadcrumb={videoTitle ?? undefined}
-        right={
-          <div className="flex items-center gap-1">
-            <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
-            <button
-              onClick={() => setSidebarOpen(v => !v)}
-              title={sidebarOpen ? 'Hide sidebar' : 'Show sidebar'}
-              className="hidden md:flex w-8 h-8 items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
-            >
-              {sidebarOpen ? <PanelRightClose className="w-4 h-4" /> : <PanelRightOpen className="w-4 h-4" />}
-            </button>
-          </div>
-        }
-        hideAddVideo
-      />
+      <AppHeader />
 
       {/* Main — vertical stack on mobile, side-by-side on desktop */}
       <div className="flex flex-col md:flex-row flex-1 overflow-hidden">
         {/* Video column — fixed aspect-ratio on mobile, fills space on desktop */}
-        <div className="shrink-0 md:flex-1 flex flex-col bg-black md:min-w-0">
+        <div className="shrink-0 md:flex-1 flex flex-col bg-black md:min-w-0 relative">
           <div className="relative w-full aspect-video md:aspect-auto md:flex-1 md:min-h-0">
             <ReactPlayer
               ref={playerRef}
@@ -320,18 +304,34 @@ export default function PlayPage() {
             />
 
             {/* Caption overlay — desktop only */}
-            {activeCue && (
+            {activeCue && captionsVisible && (
               <div
                 className="absolute bottom-10 left-0 right-0 hidden md:flex justify-center px-4"
                 style={{ zIndex: 10 }}
                 onMouseEnter={handleOverlayMouseEnter}
                 onMouseLeave={handleOverlayMouseLeave}
               >
-                <span className="bg-black/80 text-white text-xl font-medium px-4 py-2 rounded text-center leading-relaxed max-w-3xl">
+                <span className="bg-black/80 text-white text-5xl font-semibold px-6 py-3 rounded text-center leading-snug max-w-4xl">
                   {overlayMasked ?? <CueText text={activeCue.text} onWordClick={handleWordClick} savedWords={vocabWords} dark />}
                 </span>
               </div>
             )}
+
+            {/* CC toggle bubble — bottom-right of video, desktop only */}
+            <button
+              onClick={() => setCaptionsVisible(v => !v)}
+              title={captionsVisible ? 'Hide captions' : 'Show captions'}
+              className={[
+                'absolute bottom-5 right-5 hidden md:flex items-center gap-2 px-5 py-2.5 rounded-full text-base font-bold transition-all duration-200 shadow-lg',
+                captionsVisible
+                  ? 'bg-white text-black hover:bg-white/90 scale-105 ring-2 ring-white/40'
+                  : 'bg-black/75 text-white border-2 border-white/40 hover:bg-black/90 hover:border-white/70',
+              ].join(' ')}
+              style={{ zIndex: 15 }}
+            >
+              <Subtitles className="w-5 h-5" />
+              CC
+            </button>
 
             {vocabDialog && (
               <VocabDialog
@@ -355,16 +355,30 @@ export default function PlayPage() {
 
           {/* Progress bar */}
           <VideoProgressBar currentMs={currentMs} durationMs={durationMs} notes={notes} onSeek={handleSeek} />
+
+          {/* Expand/collapse sidebar — right edge of video column, desktop only */}
+          <button
+            onClick={() => setSidebarOpen(v => !v)}
+            title={sidebarOpen ? 'Expand video' : 'Show sidebar'}
+            className={[
+              'hidden md:flex absolute right-0 top-1/2 -translate-y-1/2 z-30 w-7 h-14 items-center justify-center rounded-full bg-card border border-border text-muted-foreground hover:text-foreground hover:bg-accent hover:scale-110 active:scale-95 transition-all duration-300 shadow-lg',
+              sidebarOpen ? 'translate-x-1/2' : '-translate-x-2',
+            ].join(' ')}
+          >
+            <ChevronRight className={['w-4 h-4 transition-transform duration-300', sidebarOpen ? 'rotate-0' : 'rotate-180'].join(' ')} />
+          </button>
         </div>
 
         {/* Sidebar — always visible below video on mobile, on right on desktop */}
         <div
           className={[
-            'flex-1 md:flex-none md:w-96 flex flex-col bg-card border-t md:border-t-0 md:border-l border-border overflow-hidden min-h-0',
-            'md:transition-all md:duration-200',
-            sidebarOpen ? '' : 'md:hidden',
+            'flex-1 md:flex-none md:shrink-0 flex flex-col bg-card border-t md:border-t-0 md:border-l border-border overflow-hidden min-h-0',
+            'md:transition-[width] md:duration-300 md:ease-in-out',
+            sidebarOpen ? 'md:w-96' : 'md:w-0 md:border-l-0',
           ].join(' ')}
         >
+          {/* Inner wrapper keeps content at fixed width so it clips cleanly during animation */}
+          <div className="flex flex-col flex-1 min-h-0 md:w-96 md:min-w-[384px]">
           {/* Sidebar tabs */}
           <div className="flex border-b border-border shrink-0">
             <SidebarTab active={sidebarTab === 'captions'} onClick={() => setSidebarTab('captions')}>
@@ -378,41 +392,20 @@ export default function PlayPage() {
                 </span>
               )}
             </SidebarTab>
-            {quiz.quizMode && (
-              <span className="ml-auto self-center mr-3 text-[10px] bg-primary/10 text-primary px-2 py-0.5 rounded-full font-medium">
-                Quiz mode
-              </span>
-            )}
+            <div className="ml-auto flex items-center pr-2">
+              <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
+            </div>
           </div>
 
           {/* Captions panel */}
           {sidebarTab === 'captions' && (
-            <div className="flex-1 overflow-y-auto">
-              {cues.length === 0 && <div className="p-6 text-center text-muted-foreground text-sm">Loading captions…</div>}
-              {cues.map((cue, idx) => {
-                const isActive = idx === activeCueIdx;
-                const qw = quiz.quizMode ? pickQuizWord(cue.text) : null;
-                const displayText = qw ? maskText(cue.text, qw) : cue.text;
-                return (
-                  <button
-                    key={cue.startMs}
-                    ref={isActive ? activeCueRef : null}
-                    onClick={() => handleCueClick(cue, idx)}
-                    className={[
-                      'w-full text-left px-4 py-3 border-b border-border/60',
-                      'text-sm leading-relaxed transition-colors duration-100',
-                      'hover:bg-accent focus:outline-none focus:bg-accent',
-                      isActive
-                        ? 'bg-primary/10 border-l-2 border-l-primary text-foreground'
-                        : 'text-muted-foreground border-l-2 border-l-transparent',
-                    ].join(' ')}
-                  >
-                    <span className="text-[10px] text-muted-foreground/50 font-mono block mb-0.5">{formatTime(cue.startMs)}</span>
-                    {displayText}
-                  </button>
-                );
-              })}
-            </div>
+            <TranscriptPanel
+              paragraphs={paragraphs}
+              currentMs={currentMs}
+              quizMode={quiz.quizMode}
+              onCueClick={(cue) => handleCueClick(cue, cues.indexOf(cue))}
+              onParagraphSeek={handleParagraphSeek}
+            />
           )}
 
           {/* Notes panel */}
@@ -504,6 +497,7 @@ export default function PlayPage() {
               </div>
             </div>
           )}
+          </div>{/* end inner wrapper */}
         </div>
       </div>
 
