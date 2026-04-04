@@ -1,0 +1,1507 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1268,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "-Welcome back to\n\"The Tonight Show.\""
+    } ]
+  }, {
+    "tStartMs": 3971,
+    "dDurationMs": 4204,
+    "segs": [ {
+      "utf8": "It is time to play\n\"Darts of Insanity.\""
+    } ]
+  }, {
+    "tStartMs": 8175,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "-♪ \"Darts of Insanity\" ♪"
+    } ]
+  }, {
+    "tStartMs": 10978,
+    "dDurationMs": 4704,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ]
+  }, {
+    "tStartMs": 15682,
+    "dDurationMs": 4104,
+    "segs": [ {
+      "utf8": "This is \"Darts of Insanity,\"\na game of skill, strategy,"
+    } ]
+  }, {
+    "tStartMs": 19786,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "and what some would call\nmoral depravity."
+    } ]
+  }, {
+    "tStartMs": 22623,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "Now let's meet our\nthree contestants."
+    } ]
+  }, {
+    "tStartMs": 24725,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]\n♪♪"
+    } ]
+  }, {
+    "tStartMs": 25959,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "How you doing?\nNice to see you."
+    } ]
+  }, {
+    "tStartMs": 27594,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "How are you?\nNice to see you. Pleasure."
+    } ]
+  }, {
+    "tStartMs": 30430,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "Thanks for being here."
+    } ]
+  }, {
+    "tStartMs": 31832,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "Contestant number one,\nwhat is your name,"
+    } ]
+  }, {
+    "tStartMs": 32900,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "and where are you from?"
+    } ]
+  }, {
+    "tStartMs": 34201,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "-My name is Joey B., and I'm\nfrom Hazlet, new Jersey."
+    } ]
+  }, {
+    "tStartMs": 36537,
+    "dDurationMs": 3269,
+    "segs": [ {
+      "utf8": "-Hey, Joey B.!\nThank you, buddy."
+    } ]
+  }, {
+    "tStartMs": 39806,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "Jersey in the house."
+    } ]
+  }, {
+    "tStartMs": 41208,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "Contestant number two, what's\nyour name, where you from?"
+    } ]
+  }, {
+    "tStartMs": 42709,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "-I'm Drew from Maryland.\n-Hey, Drew from Maryland."
+    } ]
+  }, {
+    "tStartMs": 45112,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "There you go."
+    } ]
+  }, {
+    "tStartMs": 46914,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "Contestant number three."
+    } ]
+  }, {
+    "tStartMs": 48248,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "-Hey, I'm Ethan,\nand I'm from Florida."
+    } ]
+  }, {
+    "tStartMs": 51051,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "-Okay. Come on, bud."
+    } ]
+  }, {
+    "tStartMs": 53620,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "Alright,\nhere's how the game works."
+    } ]
+  }, {
+    "tStartMs": 55355,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Over here is the\nDartboard of Insanity."
+    } ]
+  }, {
+    "tStartMs": 58125,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "When it's your turn,\nyou're going to grab"
+    } ]
+  }, {
+    "tStartMs": 59693,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "this official \"Tonight Show\"\nin Insano-Blaster 3000."
+    } ]
+  }, {
+    "tStartMs": 62863,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Okay? It's going to launch\na rubber dart at the board."
+    } ]
+  }, {
+    "tStartMs": 65532,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "The board will quickly flash\nbetween various stunts"
+    } ]
+  }, {
+    "tStartMs": 67868,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "that you may be subjected to,"
+    } ]
+  }, {
+    "tStartMs": 69636,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "each of which\ncarries a specific point value."
+    } ]
+  }, {
+    "tStartMs": 72039,
+    "dDurationMs": 4805,
+    "segs": [ {
+      "utf8": "For instance, we have\n\"Pickle Tickle\" for 3 points,"
+    } ]
+  }, {
+    "tStartMs": 76844,
+    "dDurationMs": 2635,
+    "segs": [ {
+      "utf8": "\"Fire Ants in Your Pants\"\nfor 6 points,"
+    } ]
+  }, {
+    "tStartMs": 79479,
+    "dDurationMs": 3204,
+    "segs": [ {
+      "utf8": "or the dreaded \"Chili Out\"\nfor 12 points."
+    } ]
+  }, {
+    "tStartMs": 82683,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "That's where you have to strip\ndown to your underwear,"
+    } ]
+  }, {
+    "tStartMs": 84685,
+    "dDurationMs": 3904,
+    "segs": [ {
+      "utf8": "and sit in a bathtub filled with\nice-cold chili for 30 minutes."
+    } ]
+  }, {
+    "tStartMs": 88589,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Whatever your dart lands on,\nthat's what you'll have to do."
+    } ]
+  }, {
+    "tStartMs": 91592,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "And whoever has the most points\nat the end of the game"
+    } ]
+  }, {
+    "tStartMs": 93627,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "will win a check for $100."
+    } ]
+  }, {
+    "tStartMs": 96096,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "You guys ready?\n-Alright."
+    } ]
+  }, {
+    "tStartMs": 98532,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "-Contestant number one,\nyou're up first."
+    } ]
+  }, {
+    "tStartMs": 100801,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "Stand behind the line."
+    } ]
+  }, {
+    "tStartMs": 102436,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "I'm going to give you\nthe \"Tonight Show\""
+    } ]
+  }, {
+    "tStartMs": 103837,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Insano-Blaster 3000."
+    } ]
+  }, {
+    "tStartMs": 105839,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "Okay?\nWhen you're ready."
+    } ]
+  }, {
+    "tStartMs": 107641,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "[ Beeping ]\n♪♪"
+    } ]
+  }, {
+    "tStartMs": 109943,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "Fire when ready.\n-Alright."
+    } ]
+  }, {
+    "tStartMs": 113247,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "-Ooh!\n-[ Ding ]"
+    } ]
+  }, {
+    "tStartMs": 114982,
+    "dDurationMs": 2869,
+    "segs": [ {
+      "utf8": "\"Spin the Tail Off the Donkey.\""
+    } ]
+  }, {
+    "tStartMs": 117851,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "Higgins, tell them\nwhat they just got."
+    } ]
+  }, {
+    "tStartMs": 120354,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "-Well, Jimmy,\ntonight's contestants"
+    } ]
+  }, {
+    "tStartMs": 121788,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "get to put on this adult-sized\ndonkey costume"
+    } ]
+  }, {
+    "tStartMs": 123724,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "and dance, dance, dance\nuntil the tails fall off."
+    } ]
+  }, {
+    "tStartMs": 126326,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "If they can spin the tail off\nthe donkey, they get 10 points."
+    } ]
+  }, {
+    "tStartMs": 129696,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "Jimmy.\n-Thank you, Higgins."
+    } ]
+  }, {
+    "tStartMs": 131265,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Let's get you\nin this donkey costume first."
+    } ]
+  }, {
+    "tStartMs": 133066,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "-Alright.\n-Okay?"
+    } ]
+  }, {
+    "tStartMs": 134635,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "I can help you out\nif you want to there."
+    } ]
+  }, {
+    "tStartMs": 136970,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "Here we go."
+    } ]
+  }, {
+    "tStartMs": 138272,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "And now..."
+    } ]
+  }, {
+    "tStartMs": 139640,
+    "dDurationMs": 2802,
+    "segs": [ {
+      "utf8": "Yeah. When we start this --\nYep. Perfect."
+    } ]
+  }, {
+    "tStartMs": 142442,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Just going to have a couple..."
+    } ]
+  }, {
+    "tStartMs": 144912,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "Yeah, it's crazy. I think\nyou're in the same leg, dude."
+    } ]
+  }, {
+    "tStartMs": 147447,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "-Oh, yep.\n-Geez. Watch that --"
+    } ]
+  }, {
+    "tStartMs": 150217,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "Watch that wooden thing.\nYep."
+    } ]
+  }, {
+    "tStartMs": 152186,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Yep, it's close enough.\n-Yep."
+    } ]
+  }, {
+    "tStartMs": 153587,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "-This isn't even part\nof the contest yet."
+    } ]
+  }, {
+    "tStartMs": 155355,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "This is the --\nThis is the easy part."
+    } ]
+  }, {
+    "tStartMs": 158025,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "-Alright.\n-Yep."
+    } ]
+  }, {
+    "tStartMs": 159359,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "Alright, you're standing\non it still."
+    } ]
+  }, {
+    "tStartMs": 161562,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Jump up. Yep. Jump up."
+    } ]
+  }, {
+    "tStartMs": 163163,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "Maybe lay --\nCan you lay down?"
+    } ]
+  }, {
+    "tStartMs": 164698,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Just lay down for a second."
+    } ]
+  }, {
+    "tStartMs": 165999,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "Lay down.\n-There we go."
+    } ]
+  }, {
+    "tStartMs": 168068,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "-That's right."
+    } ]
+  }, {
+    "tStartMs": 169169,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]\n♪♪"
+    } ]
+  }, {
+    "tStartMs": 170270,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "-Yeah, we got it."
+    } ]
+  }, {
+    "tStartMs": 173574,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "-That's alright.\nDon't worry about it."
+    } ]
+  }, {
+    "tStartMs": 175108,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "We got this.\n-We got it."
+    } ]
+  }, {
+    "tStartMs": 176710,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Alright, there we go.\nAlright, thank you."
+    } ]
+  }, {
+    "tStartMs": 179713,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "Very good. Now...\n-There we go."
+    } ]
+  }, {
+    "tStartMs": 182416,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "-I just heard from the judges."
+    } ]
+  }, {
+    "tStartMs": 183984,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "We're going to give you\n2 bonus points."
+    } ]
+  }, {
+    "tStartMs": 186019,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "-Alright.\n-Alright, now, here you go."
+    } ]
+  }, {
+    "tStartMs": 188288,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "All you have to do is get\nthat donkey tail to fall off,"
+    } ]
+  }, {
+    "tStartMs": 191225,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "okay, by dancing,"
+    } ]
+  }, {
+    "tStartMs": 192559,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "okay, but you cannot\nuse your hands,"
+    } ]
+  }, {
+    "tStartMs": 194828,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "only butt shakes\nand body gyrations."
+    } ]
+  }, {
+    "tStartMs": 196997,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "-Alright, I got that."
+    } ]
+  }, {
+    "tStartMs": 198298,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "-You want to turn around\nand show everyone what you got?"
+    } ]
+  }, {
+    "tStartMs": 200367,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "Let's get in position.\nLet's see that tail."
+    } ]
+  }, {
+    "tStartMs": 202636,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "15 seconds on the clock.\nReady, set, spin that tail!"
+    } ]
+  }, {
+    "tStartMs": 206507,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]\n♪♪"
+    } ]
+  }, {
+    "tStartMs": 210944,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Not bad, not bad.\nClose. Shake it."
+    } ]
+  }, {
+    "tStartMs": 212946,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "Shake your booty.\nShake it."
+    } ]
+  }, {
+    "tStartMs": 216583,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "Shake. You got 5 seconds.\nShake. Come on."
+    } ]
+  }, {
+    "tStartMs": 218318,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "Almost, almost.\nShake it, shake it, shake it."
+    } ]
+  }, {
+    "tStartMs": 221355,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "Okay, come on. Go -- Aah!"
+    } ]
+  }, {
+    "tStartMs": 222990,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "[ Dinging ]"
+    } ]
+  }, {
+    "tStartMs": 225559,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Ah, time's up."
+    } ]
+  }, {
+    "tStartMs": 226960,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "Unfortunately,\nit didn't come off."
+    } ]
+  }, {
+    "tStartMs": 228362,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "Can we see that in slow motion?\nYou'll like this."
+    } ]
+  }, {
+    "tStartMs": 231331,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "Yeah, there you go.\nLook at us."
+    } ]
+  }, {
+    "tStartMs": 233000,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "We both were doing good."
+    } ]
+  }, {
+    "tStartMs": 234735,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "Yeah, we're both dancing to it."
+    } ]
+  }, {
+    "tStartMs": 236236,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Aah!\nYou came close, buddy."
+    } ]
+  }, {
+    "tStartMs": 238071,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "Sorry the tail did not fall off.\nGood try."
+    } ]
+  }, {
+    "tStartMs": 240207,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "You can stand over there."
+    } ]
+  }, {
+    "tStartMs": 241475,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "-Alright.\n-Ah, that was close."
+    } ]
+  }, {
+    "tStartMs": 243377,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "Alright,\nlet's meet contestant number two"
+    } ]
+  }, {
+    "tStartMs": 245345,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "and get ready to go here."
+    } ]
+  }, {
+    "tStartMs": 246480,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "Contestant number two,\nyou are up."
+    } ]
+  }, {
+    "tStartMs": 247915,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "Now, if you want to\nhit the board,"
+    } ]
+  }, {
+    "tStartMs": 249349,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "you want to land on something\nworth a lot of points."
+    } ]
+  }, {
+    "tStartMs": 250851,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "You got your mind on anything\nin general?"
+    } ]
+  }, {
+    "tStartMs": 253287,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "-Whenever I can hit.\n-Whatever you can --"
+    } ]
+  }, {
+    "tStartMs": 255222,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Yeah, yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 257891,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "How about, like,\n\"Pickle Tickle\"?"
+    } ]
+  }, {
+    "tStartMs": 260861,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "-Uh...I'm a little\nconcerned about that one."
+    } ]
+  }, {
+    "tStartMs": 262796,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "But we'll see."
+    } ]
+  }, {
+    "tStartMs": 264231,
+    "dDurationMs": 1435,
+    "segs": [ {
+      "utf8": "-Did you see any other\nthings come up on the board,"
+    } ]
+  }, {
+    "tStartMs": 265666,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "like \"Spooning with Sebastian\"?"
+    } ]
+  }, {
+    "tStartMs": 266934,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "Did you see that one?\n-No."
+    } ]
+  }, {
+    "tStartMs": 269036,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "-Yeah, that might\npop up there."
+    } ]
+  }, {
+    "tStartMs": 270704,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "You never know.\nHey, hey, why not, man?"
+    } ]
+  }, {
+    "tStartMs": 272706,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "Good luck. Good luck to you.\nHere you go."
+    } ]
+  }, {
+    "tStartMs": 274441,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "I'm going to give you\nthe \"Tonight Show\""
+    } ]
+  }, {
+    "tStartMs": 276076,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Insano-Blaster 3000."
+    } ]
+  }, {
+    "tStartMs": 278078,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "Be careful with this, because it\nsticks to any Darts of Insanity"
+    } ]
+  }, {
+    "tStartMs": 281548,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "television or whatever that is."
+    } ]
+  }, {
+    "tStartMs": 283250,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "Now, let's start the\nBoard of Insanity."
+    } ]
+  }, {
+    "tStartMs": 286787,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "And you may fire when ready."
+    } ]
+  }, {
+    "tStartMs": 290424,
+    "dDurationMs": 4438,
+    "segs": [ {
+      "utf8": "Ooh! \"Fish Kiss.\"\nNot bad. 12 points."
+    } ]
+  }, {
+    "tStartMs": 294862,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "Higgins,\ntell him what has to happen."
+    } ]
+  }, {
+    "tStartMs": 296363,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "-Well, Jimmy, tonight's lucky\ncontestant gets to pick a fish"
+    } ]
+  }, {
+    "tStartMs": 298632,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "from our wall of fish\nand give it a kiss."
+    } ]
+  }, {
+    "tStartMs": 300400,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "But be careful.\nSome of the fish like to bite."
+    } ]
+  }, {
+    "tStartMs": 303003,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "If they can kiss a fish\nwithout getting bit,"
+    } ]
+  }, {
+    "tStartMs": 305305,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "they'll get 12 points."
+    } ]
+  }, {
+    "tStartMs": 306607,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "Jimmy.\n-Come on over, bud."
+    } ]
+  }, {
+    "tStartMs": 308742,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "Alright, I think you'll\nbe good at this."
+    } ]
+  }, {
+    "tStartMs": 310444,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "Now, as you can see, there are\nsix fish here on the wall."
+    } ]
+  }, {
+    "tStartMs": 313947,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Okay? Okay?"
+    } ]
+  }, {
+    "tStartMs": 315048,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "Now, three of them\nare kissing fish,"
+    } ]
+  }, {
+    "tStartMs": 317451,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "three of them bite."
+    } ]
+  }, {
+    "tStartMs": 319052,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "Your job is to pick a fish,\nlook it in the eyes,"
+    } ]
+  }, {
+    "tStartMs": 321788,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "and say,\n\"You're my Fish Charming,\""
+    } ]
+  }, {
+    "tStartMs": 324491,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "then lean in there\nand give it a kiss"
+    } ]
+  }, {
+    "tStartMs": 328195,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "and hope you don't get bit."
+    } ]
+  }, {
+    "tStartMs": 330464,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "Bruce, can we help\nus set the mood here?"
+    } ]
+  }, {
+    "tStartMs": 332866,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "[ Romantic music plays ]"
+    } ]
+  }, {
+    "tStartMs": 333934,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "Pick any one."
+    } ]
+  }, {
+    "tStartMs": 338105,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "Make sure you don't get bit."
+    } ]
+  }, {
+    "tStartMs": 342609,
+    "dDurationMs": 1936,
+    "segs": [ {
+      "utf8": "Could be any one.\nCould be any one."
+    } ]
+  }, {
+    "tStartMs": 344545,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "There you go. Three.\nHere we go."
+    } ]
+  }, {
+    "tStartMs": 347047,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "-You're my Fish Charming."
+    } ]
+  }, {
+    "tStartMs": 348916,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "-There you go, bud.\nGive it a kiss."
+    } ]
+  }, {
+    "tStartMs": 350484,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Oh! He got bit.\nGet over here. Sorry, pal."
+    } ]
+  }, {
+    "tStartMs": 352653,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "So sorry about that.\nYou got bit. You got bit."
+    } ]
+  }, {
+    "tStartMs": 355622,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "I'm sorry."
+    } ]
+  }, {
+    "tStartMs": 356890,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "But you are in luck,\nbecause we're going to"
+    } ]
+  }, {
+    "tStartMs": 358425,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "give you one more chance to find\nthat kissing fish."
+    } ]
+  }, {
+    "tStartMs": 361094,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "If you do, we're\ngoing to double your points."
+    } ]
+  }, {
+    "tStartMs": 362863,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "That's 24 points."
+    } ]
+  }, {
+    "tStartMs": 364364,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "So whenever you're ready..."
+    } ]
+  }, {
+    "tStartMs": 366533,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "You know it's not that one.\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 368135,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "-So just say,\n\"You're my Fish Charming,\""
+    } ]
+  }, {
+    "tStartMs": 369603,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "then go ahead and kiss that fish\nand good luck."
+    } ]
+  }, {
+    "tStartMs": 372206,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "[ Audience shouting ]"
+    } ]
+  }, {
+    "tStartMs": 374208,
+    "dDurationMs": 8208,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ]
+  }, {
+    "tStartMs": 382416,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "-You're my Fish Charming."
+    } ]
+  }, {
+    "tStartMs": 384585,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "-Alright, yeah."
+    } ]
+  }, {
+    "tStartMs": 385853,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "That one started biting\nbefore he even kissed it there."
+    } ]
+  }, {
+    "tStartMs": 388021,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "I'm so sorry. Thanks for\nplaying. Wait a second."
+    } ]
+  }, {
+    "tStartMs": 390490,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "My producers are telling me\nthey're going to give"
+    } ]
+  }, {
+    "tStartMs": 392659,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "you one last opportunity..."
+    } ]
+  }, {
+    "tStartMs": 396530,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "to kiss another fish."
+    } ]
+  }, {
+    "tStartMs": 398232,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "Congratulations.\nThis never happens. I can..."
+    } ]
+  }, {
+    "tStartMs": 401735,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "You should see the look\non your face."
+    } ]
+  }, {
+    "tStartMs": 403103,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "You're so excited.\nBut there are four fish left."
+    } ]
+  }, {
+    "tStartMs": 405906,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "Three will kiss you, of course,\nand only one will bite."
+    } ]
+  }, {
+    "tStartMs": 408609,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "Those are pretty good odds.\nYou feeling lucky?"
+    } ]
+  }, {
+    "tStartMs": 411211,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "-Uh...\n-Yeah, alright, here we go."
+    } ]
+  }, {
+    "tStartMs": 413213,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "Whenever you're ready,"
+    } ]
+  }, {
+    "tStartMs": 415015,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "lean in and kiss the fish\nyou think."
+    } ]
+  }, {
+    "tStartMs": 417518,
+    "dDurationMs": 3603,
+    "segs": [ {
+      "utf8": "Ooh! 4.\n[ Audience shouting ]"
+    } ]
+  }, {
+    "tStartMs": 421121,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "-Any guesses?"
+    } ]
+  }, {
+    "tStartMs": 422856,
+    "dDurationMs": 4238,
+    "segs": [ {
+      "utf8": "♪♪"
+    } ]
+  }, {
+    "tStartMs": 427094,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "-6. Alright, here we go."
+    } ]
+  }, {
+    "tStartMs": 428929,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "-You're my Fish Charming."
+    } ]
+  }, {
+    "tStartMs": 431098,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "-Oh!"
+    } ]
+  }, {
+    "tStartMs": 434168,
+    "dDurationMs": 1534,
+    "segs": [ {
+      "utf8": "Sorry, buddy."
+    } ]
+  }, {
+    "tStartMs": 435702,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "You got bit again.\nSorry about that."
+    } ]
+  }, {
+    "tStartMs": 438372,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "You got zero points.\nThank you for playing."
+    } ]
+  }, {
+    "tStartMs": 440374,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "You can stand over there.\nSorry about that."
+    } ]
+  }, {
+    "tStartMs": 442409,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "You guys are the worst.\nBad, bad, bad job."
+    } ]
+  }, {
+    "tStartMs": 445579,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "Alright, we're down\nto our last contestant."
+    } ]
+  }, {
+    "tStartMs": 447881,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "Nice to see you.\nIt's all down to you."
+    } ]
+  }, {
+    "tStartMs": 449816,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "You need to land on something\nworth more than zero points."
+    } ]
+  }, {
+    "tStartMs": 452286,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "Are you excited?\n-Sure."
+    } ]
+  }, {
+    "tStartMs": 453921,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "-Alright. Good luck."
+    } ]
+  }, {
+    "tStartMs": 455322,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "Initiate the\nDartboard of Insanity."
+    } ]
+  }, {
+    "tStartMs": 458525,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Here's the \"Tonight Show\"\nInsano-Blaster 3000."
+    } ]
+  }, {
+    "tStartMs": 462095,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "Go for it, bud.\nOoh, you've done this before."
+    } ]
+  }, {
+    "tStartMs": 464464,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Oh! Ooh!\nYou got \"Lip Sync Leaf Blower.\""
+    } ]
+  }, {
+    "tStartMs": 467334,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "Fantastic. Alright, Higgins,\ntell him what he has to do."
+    } ]
+  }, {
+    "tStartMs": 471338,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "-Well, Jimmy,\ntonight's contestant"
+    } ]
+  }, {
+    "tStartMs": 472706,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "has to put on this\n'80s hair-band wig"
+    } ]
+  }, {
+    "tStartMs": 474608,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "and lip-sync to the classic\nStarship song"
+    } ]
+  }, {
+    "tStartMs": 476376,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "\"Nothing's\nGonna Stop Us Now,\""
+    } ]
+  }, {
+    "tStartMs": 478045,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "while a Yeti aims\na leaf blower in their face."
+    } ]
+  }, {
+    "tStartMs": 480581,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "If they can sustain their lip\nsyncing until the song ends,"
+    } ]
+  }, {
+    "tStartMs": 482749,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "it's worth 15 points."
+    } ]
+  }, {
+    "tStartMs": 484251,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "Jimmy.\n-15 points. Here you go, bud."
+    } ]
+  }, {
+    "tStartMs": 486186,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "Put on this wig from the '80s."
+    } ]
+  }, {
+    "tStartMs": 488589,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "Oh, that's a little --\nYeah, you can put that on."
+    } ]
+  }, {
+    "tStartMs": 490824,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "Perfect.\nThese are for safety."
+    } ]
+  }, {
+    "tStartMs": 492459,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "Hi, Yeti.\nNice to see you."
+    } ]
+  }, {
+    "tStartMs": 493861,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "-Hey, Yeti.\n-Now, here you go."
+    } ]
+  }, {
+    "tStartMs": 496363,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "Now, you're going to\nbe singing the lyrics to"
+    } ]
+  }, {
+    "tStartMs": 499499,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "\"Nothing's Gonna Stop\nUs Now\" by Starship."
+    } ]
+  }, {
+    "tStartMs": 502102,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "Is that correct?\nAnd, so, no matter what,"
+    } ]
+  }, {
+    "tStartMs": 504505,
+    "dDurationMs": 2802,
+    "segs": [ {
+      "utf8": "if you can do this\nall the way through the chorus,"
+    } ]
+  }, {
+    "tStartMs": 507307,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "you win the 15 points\nand the game."
+    } ]
+  }, {
+    "tStartMs": 509710,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]"
+    } ]
+  }, {
+    "tStartMs": 511578,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Alright, Yeti,\nturn on the leaf blower."
+    } ]
+  }, {
+    "tStartMs": 514648,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Are you ready to rock?\n-Yeah."
+    } ]
+  }, {
+    "tStartMs": 516049,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "-Okay, go for it.\nPlay it."
+    } ]
+  }, {
+    "tStartMs": 517684,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "-♪ And we can\nbuild this dream together ♪"
+    } ]
+  }, {
+    "tStartMs": 521555,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "♪ Standing strong forever ♪"
+    } ]
+  }, {
+    "tStartMs": 524291,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "♪ Nothing's gonna stop us ♪"
+    } ]
+  }, {
+    "tStartMs": 527561,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "♪ Nothing's gonna stop us now ♪"
+    } ]
+  }, {
+    "tStartMs": 529296,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "-You're almost there.\nYou're almost there."
+    } ]
+  }, {
+    "tStartMs": 532866,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Yes, you're almost there."
+    } ]
+  }, {
+    "tStartMs": 533867,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "[ Dinging ]\nYes! You did it!"
+    } ]
+  }, {
+    "tStartMs": 535702,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "You won!\nOh, my gosh!"
+    } ]
+  }, {
+    "tStartMs": 537004,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "Fantastic!\n-Oh!"
+    } ]
+  }, {
+    "tStartMs": 539273,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "-Wow. Can you breathe?\n-No."
+    } ]
+  }, {
+    "tStartMs": 540941,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "-You did it. Oh, my gosh.\nYou won 15 points."
+    } ]
+  }, {
+    "tStartMs": 543243,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "This means you are the winner."
+    } ]
+  }, {
+    "tStartMs": 544845,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]\n♪♪"
+    } ]
+  }, {
+    "tStartMs": 547047,
+    "dDurationMs": 4204,
+    "segs": [ {
+      "utf8": "As our winner, you'll be going\nhome with a check for $100!"
+    } ]
+  }, {
+    "tStartMs": 551251,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "Congratulations."
+    } ]
+  }, {
+    "tStartMs": 552786,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]\n♪♪"
+    } ]
+  }, {
+    "tStartMs": 554855,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "Now, you guys didn't win,\nbut you were a good sport,"
+    } ]
+  }, {
+    "tStartMs": 557324,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "so you'll also be going home\nwith $100."
+    } ]
+  }, {
+    "tStartMs": 559893,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "There you go, everybody."
+    } ]
+  }, {
+    "tStartMs": 561361,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "[ Cheers and applause ]\n♪♪"
+    } ]
+  }, {
+    "tStartMs": 562863,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "That is all the time we have for\n\"Darts of Insanity.\""
+    } ]
+  }, {
+    "tStartMs": 565599,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "We'll be right back with Zendaya\nand Robert Pattinson."
+    } ]
+  } ]
+}
