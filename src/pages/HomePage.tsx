@@ -51,8 +51,12 @@ export default function HomePage() {
   const [creatingPlaylist, setCreatingPlaylist] = useState(false)
   const [newPlaylistName, setNewPlaylistName] = useState('')
   const newPlaylistInputRef = useRef<HTMLInputElement>(null)
+  const [creatingSystemPlaylist, setCreatingSystemPlaylist] = useState(false)
+  const [newSystemPlaylistName, setNewSystemPlaylistName] = useState('')
+  const newSystemPlaylistInputRef = useRef<HTMLInputElement>(null)
   const [editingPlaylist, setEditingPlaylist] = useState<Playlist | null>(null)
   const [playlistPage, setPlaylistPage] = useState(1)
+  const [confirmRemove, setConfirmRemove] = useState<{ videoId: string; playlistId: string } | null>(null)
 
   // ── Initial load: playlists + continue learning ──────────────────────────
   useEffect(() => {
@@ -98,6 +102,25 @@ export default function HomePage() {
   useEffect(() => {
     if (creatingPlaylist) newPlaylistInputRef.current?.focus()
   }, [creatingPlaylist])
+
+  useEffect(() => {
+    if (creatingSystemPlaylist) newSystemPlaylistInputRef.current?.focus()
+  }, [creatingSystemPlaylist])
+
+  function handleCreateSystemPlaylist() {
+    if (!user) return
+    const name = newSystemPlaylistName.trim()
+    if (!name) return
+    const pl: Playlist = {
+      id: Date.now().toString(), name, videoIds: [],
+      createdAt: new Date().toISOString(), ownerId: user.sub,
+      isSystem: true, isPublic: false,
+    }
+    setPlaylists((prev) => [pl, ...prev])
+    setNewSystemPlaylistName('')
+    setCreatingSystemPlaylist(false)
+    void savePlaylist(pl)
+  }
 
   useEffect(() => { setPlaylistPage(1) }, [selectedPlaylistId])
 
@@ -150,8 +173,12 @@ export default function HomePage() {
 
   // ── Derived ───────────────────────────────────────────────────────────────
   const selectedPlaylist = playlists.find((p) => p.id === selectedPlaylistId) ?? null
-  const systemPlaylists = playlists.filter((p) => p.isSystem)
-  const userPlaylists = playlists.filter((p) => !p.isSystem && p.ownerId === user?.sub)
+  const systemPlaylists = playlists
+    .filter((p) => p.isSystem)
+    .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
+  const userPlaylists = playlists
+    .filter((p) => !p.isSystem && p.ownerId === user?.sub)
+    .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
 
   // When a playlist is selected, resolve its videos from the full map (not just current page)
   const allPlaylistVideos = selectedPlaylist
@@ -212,9 +239,48 @@ export default function HomePage() {
             <SidebarSkeleton />
           ) : (
             <>
-              {systemPlaylists.length > 0 && (
+              {(systemPlaylists.length > 0 || isAdmin) && (
                 <>
-                  <SidebarSection label="Playlists" />
+                  <div className="px-3 mt-2 mb-1 flex items-center justify-between">
+                    <span className="text-xs font-bold text-foreground">Playlists</span>
+                    {isAdmin && (
+                      <button
+                        onClick={() => setCreatingSystemPlaylist(true)}
+                        className="w-5 h-5 rounded flex items-center justify-center hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
+                        title="New system playlist"
+                      >
+                        <Plus className="w-3.5 h-3.5" />
+                      </button>
+                    )}
+                  </div>
+                  {creatingSystemPlaylist && (
+                    <div className="mx-2 mb-1 flex items-center gap-1">
+                      <input
+                        ref={newSystemPlaylistInputRef}
+                        value={newSystemPlaylistName}
+                        onChange={(e) => setNewSystemPlaylistName(e.target.value)}
+                        onKeyDown={(e) => {
+                          if (e.key === 'Enter') handleCreateSystemPlaylist()
+                          if (e.key === 'Escape') { setCreatingSystemPlaylist(false); setNewSystemPlaylistName('') }
+                        }}
+                        placeholder="Playlist name…"
+                        className="flex-1 h-7 rounded-md border border-input bg-background px-2 text-xs focus:outline-none focus:ring-1 focus:ring-ring"
+                      />
+                      <button
+                        onClick={handleCreateSystemPlaylist}
+                        disabled={!newSystemPlaylistName.trim()}
+                        className="w-6 h-6 rounded flex items-center justify-center bg-primary text-primary-foreground disabled:opacity-50 hover:bg-primary/90 transition-colors"
+                      >
+                        <Check className="w-3.5 h-3.5" />
+                      </button>
+                      <button
+                        onClick={() => { setCreatingSystemPlaylist(false); setNewSystemPlaylistName('') }}
+                        className="w-6 h-6 rounded flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground"
+                      >
+                        <X className="w-3.5 h-3.5" />
+                      </button>
+                    </div>
+                  )}
                   {systemPlaylists.map((playlist) => (
                     <SidebarItem
                       key={playlist.id}
@@ -229,20 +295,10 @@ export default function HomePage() {
                 </>
               )}
 
-              {/* ── Admin: create system playlist ── */}
-              {isAdmin && (
-                <div className="px-3 mt-1">
-                  <CreateSystemPlaylistButton user={user} onCreated={(pl) => {
-                    setPlaylists((prev) => [...prev, pl])
-                    void savePlaylist(pl)
-                  }} />
-                </div>
-              )}
-
               {/* ── User Playlists ── */}
               <div className="mt-2">
                 <div className="px-3 mb-1 flex items-center justify-between">
-                  <SidebarSection label="Your Playlists" inline />
+                  <span className="text-xs font-bold text-foreground">Your Playlists</span>
                   <button
                     onClick={() => setCreatingPlaylist(true)}
                     className="w-5 h-5 rounded flex items-center justify-center hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
@@ -385,7 +441,7 @@ export default function HomePage() {
                       playlists={editablePlaylists}
                       activePlaylistId={selectedPlaylistId}
                       onAddToPlaylist={handleAddToPlaylist}
-                      onRemoveFromPlaylist={handleRemoveFromPlaylist}
+                      onRemoveFromPlaylist={(videoId, playlistId) => setConfirmRemove({ videoId, playlistId })}
                     />
                   )
                 })}
@@ -418,6 +474,17 @@ export default function HomePage() {
           isAdmin={isAdmin}
           onSave={handleSaveEditedPlaylist}
           onClose={() => setEditingPlaylist(null)}
+        />
+      )}
+
+      {confirmRemove && (
+        <ConfirmModal
+          message="Remove this video from the playlist?"
+          onConfirm={() => {
+            handleRemoveFromPlaylist(confirmRemove.videoId, confirmRemove.playlistId)
+            setConfirmRemove(null)
+          }}
+          onCancel={() => setConfirmRemove(null)}
         />
       )}
     </div>
@@ -577,91 +644,6 @@ function formatProgressTime(ms: number): string {
   return `${m}:${String(sec).padStart(2, '0')}`
 }
 
-// ─── CreateSystemPlaylistButton ───────────────────────────────────────────────
-
-function CreateSystemPlaylistButton({
-  user,
-  onCreated,
-}: {
-  user: { sub: string } | null
-  onCreated: (pl: Playlist) => void
-}) {
-  const [creating, setCreating] = useState(false)
-  const [name, setName] = useState('')
-  const inputRef = useRef<HTMLInputElement>(null)
-
-  useEffect(() => { if (creating) inputRef.current?.focus() }, [creating])
-
-  function submit() {
-    const trimmed = name.trim()
-    if (!trimmed || !user) return
-    const pl: Playlist = {
-      id: Date.now().toString(),
-      name: trimmed,
-      videoIds: [],
-      createdAt: new Date().toISOString(),
-      ownerId: user.sub,
-      isSystem: true,
-      isPublic: false,
-    }
-    onCreated(pl)
-    setName('')
-    setCreating(false)
-  }
-
-  if (!creating) {
-    return (
-      <button
-        onClick={() => setCreating(true)}
-        className="w-full text-left text-xs text-muted-foreground hover:text-foreground py-1 flex items-center gap-1 transition-colors"
-      >
-        <Plus className="w-3 h-3" /> New system playlist
-      </button>
-    )
-  }
-
-  return (
-    <div className="flex items-center gap-1 mb-1">
-      <input
-        ref={inputRef}
-        value={name}
-        onChange={(e) => setName(e.target.value)}
-        onKeyDown={(e) => {
-          if (e.key === 'Enter') submit()
-          if (e.key === 'Escape') { setCreating(false); setName('') }
-        }}
-        placeholder="System playlist name…"
-        className="flex-1 h-7 rounded-md border border-input bg-background px-2 text-xs focus:outline-none focus:ring-1 focus:ring-ring"
-      />
-      <button
-        onClick={submit}
-        disabled={!name.trim()}
-        className="w-6 h-6 rounded flex items-center justify-center bg-primary text-primary-foreground disabled:opacity-50 hover:bg-primary/90 transition-colors"
-      >
-        <Check className="w-3.5 h-3.5" />
-      </button>
-      <button
-        onClick={() => { setCreating(false); setName('') }}
-        className="w-6 h-6 rounded flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground"
-      >
-        <X className="w-3.5 h-3.5" />
-      </button>
-    </div>
-  )
-}
-
-// ─── SidebarSection ───────────────────────────────────────────────────────────
-
-function SidebarSection({ label, inline }: { label: string; inline?: boolean }) {
-  const cls = 'text-[10px] font-semibold uppercase tracking-wider text-muted-foreground'
-  if (inline) return <span className={cls}>{label}</span>
-  return (
-    <div className="px-3 mt-2 mb-1">
-      <span className={cls}>{label}</span>
-    </div>
-  )
-}
-
 // ─── SidebarSkeleton ─────────────────────────────────────────────────────────
 
 function SidebarSkeleton() {
@@ -705,9 +687,9 @@ function SidebarItem({
   return (
     <div
       className={[
-        'group mx-2 px-2 py-1.5 rounded-md flex items-center gap-2 cursor-pointer transition-colors',
+        'group relative mx-2 px-2 py-1.5 rounded-md flex items-center gap-2 cursor-pointer transition-colors',
         active
-          ? 'bg-accent text-foreground'
+          ? 'bg-primary/15 text-primary font-medium'
           : 'text-muted-foreground hover:bg-accent/50 hover:text-foreground',
       ].join(' ')}
       onClick={onClick}
@@ -718,22 +700,33 @@ function SidebarItem({
           : <Lock className="w-3 h-3 shrink-0 text-muted-foreground/30" />
       )}
       <span className="flex-1 text-xs truncate">{label}</span>
-      {count !== null && <span className="text-[10px] text-muted-foreground shrink-0">{count}</span>}
-      {onEdit && (
-        <button
-          onClick={(e) => { e.stopPropagation(); onEdit() }}
-          className="opacity-0 group-hover:opacity-100 w-4 h-4 flex items-center justify-center rounded hover:text-foreground transition-all shrink-0"
-        >
-          <Pencil className="w-3 h-3" />
-        </button>
+      {/* Count — hidden on hover when actions exist */}
+      {count !== null && (
+        <span className={[
+          'text-[10px] text-muted-foreground shrink-0 transition-opacity',
+          (onEdit || onDelete) ? 'group-hover:opacity-0' : '',
+        ].join(' ')}>{count}</span>
       )}
-      {onDelete && (
-        <button
-          onClick={(e) => { e.stopPropagation(); onDelete() }}
-          className="opacity-0 group-hover:opacity-100 w-4 h-4 flex items-center justify-center rounded hover:text-destructive transition-all shrink-0"
-        >
-          <Trash2 className="w-3 h-3" />
-        </button>
+      {/* Action buttons — overlap the count position on hover */}
+      {(onEdit || onDelete) && (
+        <div className="absolute right-2 flex items-center gap-0.5 opacity-0 group-hover:opacity-100 transition-opacity">
+          {onEdit && (
+            <button
+              onClick={(e) => { e.stopPropagation(); onEdit() }}
+              className="w-5 h-5 flex items-center justify-center rounded hover:bg-accent hover:text-foreground text-muted-foreground transition-colors"
+            >
+              <Pencil className="w-3 h-3" />
+            </button>
+          )}
+          {onDelete && (
+            <button
+              onClick={(e) => { e.stopPropagation(); onDelete() }}
+              className="w-5 h-5 flex items-center justify-center rounded hover:bg-accent hover:text-destructive text-muted-foreground transition-colors"
+            >
+              <Trash2 className="w-3 h-3" />
+            </button>
+          )}
+        </div>
       )}
     </div>
   )
@@ -978,6 +971,29 @@ function PlaylistEditModal({
         <div className="flex items-center justify-end gap-2 px-5 py-4 border-t border-border shrink-0">
           <button onClick={onClose} className="h-8 px-4 rounded-lg border border-border text-xs font-medium hover:bg-accent transition-colors">Cancel</button>
           <button onClick={handleSave} disabled={!name.trim()} className="h-8 px-4 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 disabled:opacity-50 transition-colors">Save</button>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+// ─── ConfirmModal ─────────────────────────────────────────────────────────────
+
+function ConfirmModal({ message, onConfirm, onCancel }: {
+  message: string
+  onConfirm: () => void
+  onCancel: () => void
+}) {
+  return (
+    <div
+      className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm"
+      onClick={(e) => { if (e.target === e.currentTarget) onCancel() }}
+    >
+      <div className="w-full max-w-xs bg-card border border-border rounded-xl shadow-2xl p-5 flex flex-col gap-4">
+        <p className="text-sm text-foreground text-center">{message}</p>
+        <div className="flex items-center gap-2">
+          <button onClick={onCancel} className="flex-1 h-9 rounded-lg border border-border text-xs font-medium hover:bg-accent transition-colors">Cancel</button>
+          <button onClick={onConfirm} className="flex-1 h-9 rounded-lg bg-destructive text-destructive-foreground text-xs font-medium hover:bg-destructive/90 transition-colors">Remove</button>
         </div>
       </div>
     </div>

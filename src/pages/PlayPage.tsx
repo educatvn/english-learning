@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import ReactPlayer from 'react-player';
-import { Brain, StickyNote, Plus, Trash2, ChevronRight, Subtitles } from 'lucide-react';
+import { Brain, StickyNote, Plus, Trash2, ChevronRight, Subtitles, SkipBack, SkipForward, Repeat } from 'lucide-react';
 import { parseJSON3, findActiveCue, groupCuesIntoParagraphs } from '@/utils/captionParser';
 import type { CaptionCue } from '@/utils/captionParser';
 import { maskText } from '@/utils/quizWord';
@@ -32,6 +32,8 @@ export default function PlayPage() {
   const durationMsStateRef = useRef(0);
 
   const [cues, setCues] = useState<CaptionCue[]>([]);
+  const cuesRef = useRef<CaptionCue[]>([]);
+  useEffect(() => { cuesRef.current = cues; }, [cues]);
   const paragraphs = groupCuesIntoParagraphs(cues);
   const [currentMs, setCurrentMs] = useState(0);
   const [durationMs, setDurationMs] = useState(0);
@@ -39,6 +41,8 @@ export default function PlayPage() {
   const stopAtMsRef = useRef<number | null>(null);
 
   const [pinnedCueIdx, setPinnedCueIdx] = useState<number | null>(null);
+  const pinnedCueIdxRef = useRef<number | null>(null);
+  useEffect(() => { pinnedCueIdxRef.current = pinnedCueIdx; }, [pinnedCueIdx]);
 
   const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes'>('captions');
   const [isAddingNote, setIsAddingNote] = useState(false);
@@ -161,6 +165,23 @@ export default function PlayPage() {
     activeCueRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }, [activeCueIdx]);
 
+  // ── Cue navigation ───────────────────────────────────────────────────────
+  function playCueAt(idx: number) {
+    const cue = cues[idx];
+    if (!cue) return;
+    const video = playerRef.current;
+    if (!video) return;
+    setPinnedCueIdx(idx);
+    stopAtMsRef.current = cue.endMs;
+    video.currentTime = cue.startMs / 1000;
+    setPlaying(true);
+    video.play().catch(console.error);
+  }
+
+  const [repeatMode, setRepeatMode] = useState(false);
+  const repeatModeRef = useRef(false);
+  useEffect(() => { repeatModeRef.current = repeatMode; }, [repeatMode]);
+
   // Disable YouTube's built-in captions via the IFrame API.
   // youtube-video-element hardcodes cc_load_policy=1, so we must clear the
   // active caption track programmatically after the player initializes.
@@ -187,9 +208,16 @@ export default function PlayPage() {
       videoProgress.onTimeUpdate(ms, dur);
       if (stopAtMsRef.current !== null && ms >= stopAtMsRef.current) {
         stopAtMsRef.current = null;
+        const idx = pinnedCueIdxRef.current;
+        const cue = idx !== null ? cuesRef.current[idx] : null;
+        if (repeatModeRef.current && cue) {
+          // Repeat: loop back to start of same cue
+          stopAtMsRef.current = cue.endMs;
+          e.currentTarget.currentTime = cue.startMs / 1000;
+          return;
+        }
         e.currentTarget.pause();
         setPlaying(false);
-        setPinnedCueIdx(null);
         quiz.onCueEnded();
         return;
       }
@@ -293,7 +321,6 @@ export default function PlayPage() {
               onLoadedMetadata={() => disableYTCaptions()}
               onPlay={() => {
                 disableYTCaptions();
-                if (stopAtMsRef.current === null) setPinnedCueIdx(null);
                 setPlaying(true);
                 watchTime.onPlay();
                 videoProgress.onPlay();
@@ -371,6 +398,45 @@ export default function PlayPage() {
           {/* Progress bar */}
           <VideoProgressBar currentMs={currentMs} durationMs={durationMs} notes={notes} onSeek={handleSeek} />
 
+          {/* Cue navigation bar */}
+          <div className="shrink-0 flex items-center justify-center gap-3 bg-gray-900 border-t border-gray-800 py-2">
+            <button
+              onClick={() => playCueAt(activeCueIdx - 1)}
+              disabled={activeCueIdx <= 0}
+              title="Previous cue"
+              className="w-9 h-9 flex items-center justify-center rounded-full text-gray-300 hover:bg-gray-700 hover:text-white disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+            >
+              <SkipBack className="w-4 h-4" />
+            </button>
+            <div className="flex flex-col items-center gap-0.5">
+              <button
+                onClick={() => { if (activeCueIdx >= 0) playCueAt(activeCueIdx); }}
+                disabled={activeCueIdx < 0}
+                title="Replay current cue"
+                className="w-9 h-9 flex items-center justify-center rounded-full text-gray-300 hover:bg-gray-700 hover:text-white disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+              >
+                <Repeat className="w-4 h-4" />
+              </button>
+              {/* Repeat toggle dot */}
+              <button
+                onClick={() => setRepeatMode(v => !v)}
+                title={repeatMode ? 'Repeat on — click to turn off' : 'Turn on repeat'}
+                className={[
+                  'w-1.5 h-1.5 rounded-full transition-colors',
+                  repeatMode ? 'bg-blue-400' : 'bg-gray-600 hover:bg-gray-400',
+                ].join(' ')}
+              />
+            </div>
+            <button
+              onClick={() => playCueAt(activeCueIdx + 1)}
+              disabled={activeCueIdx >= cues.length - 1}
+              title="Next cue"
+              className="w-9 h-9 flex items-center justify-center rounded-full text-gray-300 hover:bg-gray-700 hover:text-white disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+            >
+              <SkipForward className="w-4 h-4" />
+            </button>
+          </div>
+
           {/* Expand/collapse sidebar — right edge of video column, desktop only */}
           <button
             onClick={() => setSidebarOpen(v => !v)}
@@ -416,7 +482,7 @@ export default function PlayPage() {
           {sidebarTab === 'captions' && (
             <TranscriptPanel
               paragraphs={paragraphs}
-              currentMs={currentMs}
+              currentMs={activeCue ? activeCue.startMs : currentMs}
               quizMode={quiz.quizMode}
               onCueClick={(cue) => handleCueClick(cue, cues.indexOf(cue))}
               onParagraphSeek={handleParagraphSeek}
