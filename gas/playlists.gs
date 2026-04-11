@@ -584,10 +584,24 @@ function activatePlanRow(data) {
   if (idx <= 0) return;
   var row = sheet.getRange(idx, 1, 1, 9).getValues()[0];
   var durationMonths = Number(row[4]) || 1;
-  var now = new Date();
-  var startDate = Utilities.formatDate(now, 'UTC', 'yyyy-MM-dd');
-  var endDateObj = new Date(now);
+  // Determine startDate, in priority order:
+  //   1. Explicit user-provided startDate (from the confirm dialog)
+  //   2. Existing startDate on the row (re-activating from pause)
+  //   3. Today (first-time activation)
+  var startDate = '';
+  if (data && data.startDate) {
+    startDate = String(data.startDate);
+  } else if (row[5]) {
+    startDate = toDateStr(row[5]);
+  }
+  if (!startDate) {
+    startDate = Utilities.formatDate(new Date(), 'UTC', 'yyyy-MM-dd');
+  }
+  // Always recompute endDate from startDate + durationMonths so duration edits take effect.
+  var parts = startDate.split('-');
+  var endDateObj = new Date(Number(parts[0]), Number(parts[1]) - 1, Number(parts[2]));
   endDateObj.setMonth(endDateObj.getMonth() + durationMonths);
+  endDateObj.setDate(endDateObj.getDate() - 1);
   var endDate = Utilities.formatDate(endDateObj, 'UTC', 'yyyy-MM-dd');
   sheet.getRange(idx, 6).setValue(startDate);
   sheet.getRange(idx, 7).setValue(endDate);

@@ -7,6 +7,7 @@ import { Link } from 'react-router-dom'
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
 import { getPlans, upsertPlan, deletePlan, activatePlan, pausePlan } from '@/services/plans'
+import { PlanStatusDialog } from '@/components/PlanStatusDialog'
 import type { StudyPlan, PlanItem } from '@/types'
 
 function genId() {
@@ -21,7 +22,7 @@ type View = 'list' | 'form'
 
 type PendingOp =
   | { type: 'delete'; planId: string }
-  | { type: 'activate'; planId: string }
+  | { type: 'activate'; planId: string; startDate?: string }
   | { type: 'pause'; planId: string }
 
 export default function PlansPage() {
@@ -31,6 +32,7 @@ export default function PlansPage() {
   const [view, setView] = useState<View>('list')
   const [editingPlan, setEditingPlan] = useState<StudyPlan | null>(null)
   const [saveStatus, setSaveStatus] = useState<'idle' | 'saving' | 'saved' | 'error'>('idle')
+  const [statusDialog, setStatusDialog] = useState<{ plan: StudyPlan; action: 'activate' | 'pause' } | null>(null)
 
   // Pending operation queue for debounced API calls
   const pendingOps = useRef<PendingOp[]>([])
@@ -65,7 +67,7 @@ export default function PlansPage() {
     try {
       for (const op of ops) {
         if (op.type === 'delete') await deletePlan(op.planId, user.sub)
-        else if (op.type === 'activate') await activatePlan(op.planId, user.sub)
+        else if (op.type === 'activate') await activatePlan(op.planId, user.sub, op.startDate)
         else if (op.type === 'pause') await pausePlan(op.planId, user.sub)
       }
       // Refetch to sync with server-computed fields (startDate/endDate on activate)
@@ -123,26 +125,40 @@ export default function PlansPage() {
     scheduleFlush()
   }
 
-  function handleActivate(plan: StudyPlan) {
-    if (!user) return
-    const now = new Date()
-    const startDate = localDateStr(now)
-    const endObj = new Date(now)
-    endObj.setMonth(endObj.getMonth() + plan.durationMonths)
-    const endDate = localDateStr(endObj)
-    setPlans((prev) =>
-      prev.map((p) =>
-        p.id === plan.id ? { ...p, status: 'active', startDate, endDate } : p,
-      ),
-    )
-    pendingOps.current.push({ type: 'activate', planId: plan.id })
-    scheduleFlush()
+  function handleActivateClick(plan: StudyPlan) {
+    setStatusDialog({ plan, action: 'activate' })
   }
 
-  function handlePause(plan: StudyPlan) {
-    if (!user) return
-    setPlans((prev) => prev.map((p) => (p.id === plan.id ? { ...p, status: 'paused' } : p)))
-    pendingOps.current.push({ type: 'pause', planId: plan.id })
+  function handlePauseClick(plan: StudyPlan) {
+    setStatusDialog({ plan, action: 'pause' })
+  }
+
+  function confirmStatusChange(opts: { startDate?: string }) {
+    if (!statusDialog || !user) return
+    const { plan, action } = statusDialog
+    setStatusDialog(null)
+
+    if (action === 'activate') {
+      const startDate = opts.startDate || plan.startDate || localDateStr(new Date())
+      const startD = new Date(
+        Number(startDate.slice(0, 4)),
+        Number(startDate.slice(5, 7)) - 1,
+        Number(startDate.slice(8, 10)),
+      )
+      const endObj = new Date(startD)
+      endObj.setMonth(endObj.getMonth() + plan.durationMonths)
+      endObj.setDate(endObj.getDate() - 1)
+      const endDate = localDateStr(endObj)
+      setPlans((prev) =>
+        prev.map((p) =>
+          p.id === plan.id ? { ...p, status: 'active', startDate, endDate } : p,
+        ),
+      )
+      pendingOps.current.push({ type: 'activate', planId: plan.id, startDate: opts.startDate })
+    } else {
+      setPlans((prev) => prev.map((p) => (p.id === plan.id ? { ...p, status: 'paused' } : p)))
+      pendingOps.current.push({ type: 'pause', planId: plan.id })
+    }
     scheduleFlush()
   }
 
@@ -221,13 +237,22 @@ export default function PlansPage() {
                   plan={plan}
                   onEdit={() => handleEdit(plan)}
                   onDelete={() => handleDelete(plan)}
-                  onActivate={() => handleActivate(plan)}
-                  onPause={() => handlePause(plan)}
+                  onActivate={() => handleActivateClick(plan)}
+                  onPause={() => handlePauseClick(plan)}
                 />
               ))}
             </div>
           )}
         </main>
+      )}
+
+      {statusDialog && (
+        <PlanStatusDialog
+          plan={statusDialog.plan}
+          action={statusDialog.action}
+          onClose={() => setStatusDialog(null)}
+          onConfirm={confirmStatusChange}
+        />
       )}
     </div>
   )

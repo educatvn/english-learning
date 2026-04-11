@@ -7,6 +7,7 @@ import {
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
 import { getPlans, getDailyProgress, togglePlanItem, activatePlan, pausePlan } from '@/services/plans'
+import { PlanStatusDialog } from '@/components/PlanStatusDialog'
 import type { StudyPlan, DailyProgress } from '@/types'
 
 // ─── Date helpers (always local timezone) ────────────────────────────────────
@@ -150,6 +151,7 @@ export default function PlanDashboardPage() {
   const [progress, setProgress] = useState<DailyProgress[]>([])
   const [loading, setLoading] = useState(true)
   const [saveStatus, setSaveStatus] = useState<'idle' | 'saving' | 'saved' | 'error'>('idle')
+  const [statusDialog, setStatusDialog] = useState<'activate' | 'pause' | null>(null)
 
   const today = todayStr()
 
@@ -159,9 +161,6 @@ export default function PlanDashboardPage() {
   const savedTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
   // Snapshot of server-confirmed progress, used to revert on failure
   const lastConfirmed = useRef<DailyProgress[]>([])
-  // Pending plan status change (debounced)
-  const pendingStatus = useRef<'active' | 'paused' | null>(null)
-  const statusFlushTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
   const lastConfirmedPlan = useRef<StudyPlan | null>(null)
 
   useEffect(() => {
@@ -228,70 +227,64 @@ export default function PlanDashboardPage() {
     }
   }, [user, planId, today])
 
-  // Flush pending plan status change to the API
-  const flushStatus = useCallback(async () => {
-    if (!user || !planId) return
-    const target = pendingStatus.current
-    pendingStatus.current = null
-    if (!target) return
-    // No-op if server already matches
-    if (lastConfirmedPlan.current?.status === target) return
+  // Apply a confirmed status change (from the dialog) to the API
+  const applyStatus = useCallback(
+    async (target: 'active' | 'paused', opts: { startDate?: string }) => {
+      if (!user || !planId) return
 
-    setSaveStatus('saving')
-    if (savedTimer.current) {
-      clearTimeout(savedTimer.current)
-      savedTimer.current = null
-    }
+      // Optimistic update
+      const prevPlan = lastConfirmedPlan.current
+      setPlan((prev) => {
+        if (!prev) return prev
+        if (target === 'active') {
+          const startDate = opts.startDate || prev.startDate || localDateStr(new Date())
+          const startD = parseLocalDate(startDate)
+          const endObj = new Date(startD)
+          endObj.setMonth(endObj.getMonth() + prev.durationMonths)
+          endObj.setDate(endObj.getDate() - 1)
+          return { ...prev, status: 'active', startDate, endDate: localDateStr(endObj) }
+        }
+        return { ...prev, status: 'paused' }
+      })
 
-    try {
-      if (target === 'active') await activatePlan(planId, user.sub)
-      else await pausePlan(planId, user.sub)
-      // Refetch to pick up server-computed startDate/endDate on activate
-      const plans = await getPlans(user.sub)
-      const fresh = plans.find((p) => p.id === planId) ?? null
-      lastConfirmedPlan.current = fresh
-      if (fresh) setPlan(fresh)
-      setSaveStatus('saved')
-      savedTimer.current = setTimeout(() => setSaveStatus('idle'), 1500)
-    } catch (e) {
-      console.error(e)
-      if (lastConfirmedPlan.current) setPlan(lastConfirmedPlan.current)
-      setSaveStatus('error')
-      savedTimer.current = setTimeout(() => setSaveStatus('idle'), 3000)
-    }
-  }, [user, planId])
+      setSaveStatus('saving')
+      if (savedTimer.current) {
+        clearTimeout(savedTimer.current)
+        savedTimer.current = null
+      }
+
+      try {
+        if (target === 'active') await activatePlan(planId, user.sub, opts.startDate)
+        else await pausePlan(planId, user.sub)
+        // Refetch to pick up server-computed startDate/endDate
+        const plans = await getPlans(user.sub)
+        const fresh = plans.find((p) => p.id === planId) ?? null
+        lastConfirmedPlan.current = fresh
+        if (fresh) setPlan(fresh)
+        setSaveStatus('saved')
+        savedTimer.current = setTimeout(() => setSaveStatus('idle'), 1500)
+      } catch (e) {
+        console.error(e)
+        if (prevPlan) setPlan(prevPlan)
+        setSaveStatus('error')
+        savedTimer.current = setTimeout(() => setSaveStatus('idle'), 3000)
+      }
+    },
+    [user, planId],
+  )
 
   // Cleanup: flush on unmount
   useEffect(() => {
     return () => {
       if (flushTimer.current) clearTimeout(flushTimer.current)
-      if (statusFlushTimer.current) clearTimeout(statusFlushTimer.current)
       if (savedTimer.current) clearTimeout(savedTimer.current)
       if (pendingToggles.current.length > 0) flushToggles()
-      if (pendingStatus.current) flushStatus()
     }
-  }, [flushToggles, flushStatus])
+  }, [flushToggles])
 
   function handleToggleStatus() {
     if (!plan) return
-    const next: 'active' | 'paused' = plan.status === 'active' ? 'paused' : 'active'
-    // Optimistic update
-    setPlan((prev) => {
-      if (!prev) return prev
-      if (next === 'active') {
-        // Compute start/end locally so title and heatmap update immediately
-        const now = new Date()
-        const startDate = localDateStr(now)
-        const endObj = new Date(now)
-        endObj.setMonth(endObj.getMonth() + prev.durationMonths)
-        const endDate = localDateStr(endObj)
-        return { ...prev, status: next, startDate, endDate }
-      }
-      return { ...prev, status: next }
-    })
-    pendingStatus.current = next
-    if (statusFlushTimer.current) clearTimeout(statusFlushTimer.current)
-    statusFlushTimer.current = setTimeout(flushStatus, 500)
+    setStatusDialog(plan.status === 'active' ? 'pause' : 'activate')
   }
 
   // Progress for this plan
@@ -502,6 +495,18 @@ export default function PlanDashboardPage() {
           today={today}
         />
       </main>
+
+      {statusDialog && (
+        <PlanStatusDialog
+          plan={plan}
+          action={statusDialog}
+          onClose={() => setStatusDialog(null)}
+          onConfirm={(opts) => {
+            setStatusDialog(null)
+            applyStatus(statusDialog === 'activate' ? 'active' : 'paused', opts)
+          }}
+        />
+      )}
     </div>
   )
 }

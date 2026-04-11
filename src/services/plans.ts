@@ -15,8 +15,8 @@ export async function deletePlan(id: string, userId: string): Promise<void> {
   await gas('deletePlan', { id, userId })
 }
 
-export async function activatePlan(id: string, userId: string): Promise<void> {
-  await gas('activatePlan', { id, userId })
+export async function activatePlan(id: string, userId: string, startDate?: string): Promise<void> {
+  await gas('activatePlan', { id, userId, startDate })
 }
 
 export async function pausePlan(id: string, userId: string): Promise<void> {
