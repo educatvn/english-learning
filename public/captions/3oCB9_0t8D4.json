@@ -1,0 +1,1261 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 360,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "You literally get alerts\nor messages to tell you that, hey,"
+    } ]
+  }, {
+    "tStartMs": 3880,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "on this day, or tomorrow,\nyou're not going to have water."
+    } ]
+  }, {
+    "tStartMs": 7080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "It means that you wake up in\nthe morning, you can't take a shower."
+    } ]
+  }, {
+    "tStartMs": 9960,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "It means you can't wash your clothes."
+    } ]
+  }, {
+    "tStartMs": 11600,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "It means that you need to spend money\nbuying water just to brush your teeth,"
+    } ]
+  }, {
+    "tStartMs": 15640,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "just to wash your hands,\njust to drink."
+    } ]
+  }, {
+    "tStartMs": 17840,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Hey, it's Iqra, and this is What in\nthe World from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 21720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Today we're going to talk\nabout a battle for water."
+    } ]
+  }, {
+    "tStartMs": 24320,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "It's easy to take for granted."
+    } ]
+  }, {
+    "tStartMs": 25600,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "We rely on it for so many things\nlike drinking, cleaning, washing."
+    } ]
+  }, {
+    "tStartMs": 30480,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Not everyone has equal access\nto water, though."
+    } ]
+  }, {
+    "tStartMs": 33240,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "There are issues of shortages\nin lots of parts of the world,"
+    } ]
+  }, {
+    "tStartMs": 36560,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "including in South Africa,"
+    } ]
+  }, {
+    "tStartMs": 38720,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "where water demand is expected\nto surpass supply by 17% by 2030."
+    } ]
+  }, {
+    "tStartMs": 44480,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "That's according\nto the latest research. And now"
+    } ]
+  }, {
+    "tStartMs": 47000,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "the issue of water mafias are making\nthe situation even more complicated."
+    } ]
+  }, {
+    "tStartMs": 51440,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So what are they\nand what's being done to stop them?"
+    } ]
+  }, {
+    "tStartMs": 54120,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "That's what we're going\nto be chatting about today."
+    } ]
+  }, {
+    "tStartMs": 60520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Mayeni Jones is\nthe BBC's Africa correspondent,"
+    } ]
+  }, {
+    "tStartMs": 63960,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and she's on the line from\nJohannesburg right now. Hey, Mayeni."
+    } ]
+  }, {
+    "tStartMs": 67400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Hi. Hi. Nice to see you.\nYes, nice to see you, too."
+    } ]
+  }, {
+    "tStartMs": 71000,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Um, so we're going to talk\nabout the water gangs in a minute."
+    } ]
+  }, {
+    "tStartMs": 74160,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "But first, I wondered\nif you could tell us quickly"
+    } ]
+  }, {
+    "tStartMs": 77080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "where people\nin South Africa get their water from."
+    } ]
+  }, {
+    "tStartMs": 79600,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So the interesting thing about South\nAfrica is a lot of the major cities"
+    } ]
+  }, {
+    "tStartMs": 84040,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and a lot of the places\nwhere the country makes its money,"
+    } ]
+  }, {
+    "tStartMs": 86880,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "like a lot of the mining centres, aren't\nactually based near sources of water."
+    } ]
+  }, {
+    "tStartMs": 91920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So Johannesburg,\nfor example, where I live,"
+    } ]
+  }, {
+    "tStartMs": 93960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "is widely considered to be\nthe largest city in the world."
+    } ]
+  }, {
+    "tStartMs": 97360,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "That is near a major source of water.\nSo there's no river here."
+    } ]
+  }, {
+    "tStartMs": 100600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "There's no,\nuh, you know, ocean nearby."
+    } ]
+  }, {
+    "tStartMs": 104040,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "So that means a lot of the water has\nto be funnelled from rivers and dams"
+    } ]
+  }, {
+    "tStartMs": 110680,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "into Johannesburg and other\nmajor cities via pipes and pumps."
+    } ]
+  }, {
+    "tStartMs": 116240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And that costs a lot\nof money to install"
+    } ]
+  }, {
+    "tStartMs": 118720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and it costs a lot of money\nto maintain. To a smaller extent,"
+    } ]
+  }, {
+    "tStartMs": 122800,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "you have areas\nwhere they get water from rainfall"
+    } ]
+  }, {
+    "tStartMs": 126200,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "or they get water from boreholes."
+    } ]
+  }, {
+    "tStartMs": 128520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But the majority of the water\nin South Africa comes from dams"
+    } ]
+  }, {
+    "tStartMs": 133400,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and rivers that then are piped\nto other parts of the country."
+    } ]
+  }, {
+    "tStartMs": 136680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Parts of the country\nare experiencing water shortages."
+    } ]
+  }, {
+    "tStartMs": 140200,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Why is that happening?"
+    } ]
+  }, {
+    "tStartMs": 142560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Well, because the country is\nso reliant on built infrastructure"
+    } ]
+  }, {
+    "tStartMs": 146440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "to get its water, on these pipes\nand these pumps and these dams,"
+    } ]
+  }, {
+    "tStartMs": 150280,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "it means it needs\nto be maintained regularly."
+    } ]
+  }, {
+    "tStartMs": 152560,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And a lot of this infrastructure\nwas built a very long time ago and"
+    } ]
+  }, {
+    "tStartMs": 155680,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "hasn't been maintained adequately,\nparticularly as the country has grown"
+    } ]
+  }, {
+    "tStartMs": 159520,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "in terms of its population\nand the number of cities."
+    } ]
+  }, {
+    "tStartMs": 162440,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And of course, climate change\nis also playing a role here."
+    } ]
+  }, {
+    "tStartMs": 165840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "The UN says that higher temperatures and\nless rainfall because of climate change"
+    } ]
+  }, {
+    "tStartMs": 170400,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "will reduce already depleted\nwater resources in South Africa,"
+    } ]
+  }, {
+    "tStartMs": 174600,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "and that's contributing to an increasing\nnumber of droughts in the country."
+    } ]
+  }, {
+    "tStartMs": 178800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And I was reading that\nthe country relies on water tankers."
+    } ]
+  }, {
+    "tStartMs": 182320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What do they do?\nBasically,"
+    } ]
+  }, {
+    "tStartMs": 184320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "when one of these old pipes\nbreaks down and there's no water"
+    } ]
+  }, {
+    "tStartMs": 188240,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "in a part of the country, the\nlocal authority that runs that area,"
+    } ]
+  }, {
+    "tStartMs": 192760,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the municipality, will pay\nwater tanker companies"
+    } ]
+  }, {
+    "tStartMs": 197240,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "to get water\nfrom the nearest available source"
+    } ]
+  }, {
+    "tStartMs": 200080,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and then drive it\nto these areas that don't have water."
+    } ]
+  }, {
+    "tStartMs": 203280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So that's why\nwater tankers are often used here."
+    } ]
+  }, {
+    "tStartMs": 206040,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "They're meant to be used in times\nof emergency when there's a drought,"
+    } ]
+  }, {
+    "tStartMs": 209600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "if there's flood that's washed away\nthe pipes, um, you know,"
+    } ]
+  }, {
+    "tStartMs": 213200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "if there's an emergency,\na reason why people can't get water,"
+    } ]
+  }, {
+    "tStartMs": 215600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that's when the tankers are meant to\nbe used. But a lot of activists here"
+    } ]
+  }, {
+    "tStartMs": 218960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "are saying that water tankers are now\nbecoming the default in lots of areas."
+    } ]
+  }, {
+    "tStartMs": 222960,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Um, and it's becoming a very\nexpensive and a very big problem."
+    } ]
+  }, {
+    "tStartMs": 226160,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Yeah. So we're getting an idea of\nthe shortages in South Africa there."
+    } ]
+  }, {
+    "tStartMs": 230360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And we've been reaching out\nto some people about this,"
+    } ]
+  }, {
+    "tStartMs": 232840,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "how the shortages are impacting\ntheir everyday life. So let's hear."
+    } ]
+  }, {
+    "tStartMs": 236960,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "It's gotten to a point\nwhere I'm just really asking myself"
+    } ]
+  }, {
+    "tStartMs": 239920,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "as a young person that like,\nwhere is this country going?"
+    } ]
+  }, {
+    "tStartMs": 242440,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Like, what's happening\nwith this country?"
+    } ]
+  }, {
+    "tStartMs": 244320,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Because you literally get alerts\nor messages to tell you that, hey,"
+    } ]
+  }, {
+    "tStartMs": 248560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "on this day or tomorrow,\nyou're not going to have water."
+    } ]
+  }, {
+    "tStartMs": 251800,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Most of us\nliterally just finished university"
+    } ]
+  }, {
+    "tStartMs": 254040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and, uh, just started working."
+    } ]
+  }, {
+    "tStartMs": 256600,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Got a new place\nand you don't have water."
+    } ]
+  }, {
+    "tStartMs": 259720,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Everything is just really disappointing.\nLike it's really disappointing."
+    } ]
+  }, {
+    "tStartMs": 264200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "First it was electricity,\nnow it's water. It's just"
+    } ]
+  }, {
+    "tStartMs": 267600,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "it's just really the worst thing\nor worst time to be in South Africa."
+    } ]
+  }, {
+    "tStartMs": 271800,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "We have gone days and even weeks\nwithout water."
+    } ]
+  }, {
+    "tStartMs": 275040,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "It is literally affecting everything.\nPeople cannot work properly."
+    } ]
+  }, {
+    "tStartMs": 278520,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Children cannot go to school clean,\nand we're constantly living in anxiety"
+    } ]
+  }, {
+    "tStartMs": 283080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "of not knowing when the taps\nwill run again and when they do run."
+    } ]
+  }, {
+    "tStartMs": 286680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "We are also living in anxiety\nof when the water will run out."
+    } ]
+  }, {
+    "tStartMs": 290760,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "I'm a freelancer by trade, which means\nI only get paid whenever I do work"
+    } ]
+  }, {
+    "tStartMs": 296720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and whenever there's no water,"
+    } ]
+  }, {
+    "tStartMs": 299320,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "my business literally goes\nto a standstill"
+    } ]
+  }, {
+    "tStartMs": 302480,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "because one I have to spend X amount\nof money ensuring"
+    } ]
+  }, {
+    "tStartMs": 306520,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "that there's enough bottles\nof water to be able to cook"
+    } ]
+  }, {
+    "tStartMs": 309360,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and to clean and to drink\nand just to live my life,"
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but even more so\nwhenever the water does reconnect."
+    } ]
+  }, {
+    "tStartMs": 318000,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "I've always like, had a bad case\nof diarrhoea and I'd get sick."
+    } ]
+  }, {
+    "tStartMs": 322720,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "And I think that's just because of\nthe water for that brief moment"
+    } ]
+  }, {
+    "tStartMs": 326320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "being unsafe before it's purified\nand being safe."
+    } ]
+  }, {
+    "tStartMs": 329640,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "It just feels as though,\nlike unintentionally speaking,"
+    } ]
+  }, {
+    "tStartMs": 333040,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "the state is putting barriers to us"
+    } ]
+  }, {
+    "tStartMs": 335960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "young people who are trying\nto make a living for ourselves."
+    } ]
+  }, {
+    "tStartMs": 338960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Mayeni, back to you.\nIf you don't have any water,"
+    } ]
+  }, {
+    "tStartMs": 341960,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "if you're living\nthrough these shortages,"
+    } ]
+  }, {
+    "tStartMs": 344320,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "just paint the picture for us.\nHow does it affect you?"
+    } ]
+  }, {
+    "tStartMs": 347360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "It affects you\nin almost every aspect of your life."
+    } ]
+  }, {
+    "tStartMs": 350480,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "It means that you wake up\nin the morning."
+    } ]
+  }, {
+    "tStartMs": 352120,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "You can't take a shower.\nIt means you can't wash your clothes."
+    } ]
+  }, {
+    "tStartMs": 354960,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "It means that you need to spend money\nbuying water just to brush your teeth,"
+    } ]
+  }, {
+    "tStartMs": 359000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "just to wash your hands,\njust to drink."
+    } ]
+  }, {
+    "tStartMs": 361400,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "And at a time when the economy\nis stretched, inflation is climbing,"
+    } ]
+  }, {
+    "tStartMs": 365440,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "lots of people, you know,\nwater then becomes"
+    } ]
+  }, {
+    "tStartMs": 367800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "an extra thing that they need to buy\nthat they weren't able to buy."
+    } ]
+  }, {
+    "tStartMs": 371000,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Does this impact all South Africans\nequally, this issue of the shortages?"
+    } ]
+  }, {
+    "tStartMs": 375960,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Is unfortunately not.\nJust as much as South Africa is one"
+    } ]
+  }, {
+    "tStartMs": 379200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "of the most economically\nunequal countries in the world,"
+    } ]
+  }, {
+    "tStartMs": 382320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "that's also reflected\nin access to water."
+    } ]
+  }, {
+    "tStartMs": 385040,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So by and large, the areas that don't\ntend to have regular access to water"
+    } ]
+  }, {
+    "tStartMs": 389000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "tend to be poorer areas\nand also rural areas."
+    } ]
+  }, {
+    "tStartMs": 392120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "They tend to suffer the bulk\nof the shortage of water."
+    } ]
+  }, {
+    "tStartMs": 395240,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But now middle-class households\nare also having to buy water,"
+    } ]
+  }, {
+    "tStartMs": 398560,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "also having to install tanks,\nback-up tanks in their houses."
+    } ]
+  }, {
+    "tStartMs": 401880,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "So it's affecting everybody."
+    } ]
+  }, {
+    "tStartMs": 403280,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So we've painted up a picture\nof the shortages in South Africa,"
+    } ]
+  }, {
+    "tStartMs": 407160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "how this is affecting people\nin South Africa."
+    } ]
+  }, {
+    "tStartMs": 410040,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Now I wanted to talk\nabout the water mafias, right?"
+    } ]
+  }, {
+    "tStartMs": 413120,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "This is adding another level\nof complication to things."
+    } ]
+  }, {
+    "tStartMs": 416200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Can you just tell us a little bit\nabout them?"
+    } ]
+  }, {
+    "tStartMs": 420040,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So the term water mafia\nis a term"
+    } ]
+  }, {
+    "tStartMs": 423280,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "that's used here by the authorities,\nby water activists, by the media,"
+    } ]
+  }, {
+    "tStartMs": 427880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the local media here in South Africa\nto describe"
+    } ]
+  }, {
+    "tStartMs": 431240,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "criminal gangs or criminal syndicates\nthat pose as legitimate companies."
+    } ]
+  }, {
+    "tStartMs": 435760,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Um, they, when a municipality has run\nout of water in an area,"
+    } ]
+  }, {
+    "tStartMs": 439520,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they will apply\nfor tenders to do bids"
+    } ]
+  }, {
+    "tStartMs": 441520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "to provide water using tankers\nfor that area."
+    } ]
+  }, {
+    "tStartMs": 444640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Um, and then once they have access\nto it, different things can happen."
+    } ]
+  }, {
+    "tStartMs": 448880,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Either water that's been paid\nfor by the municipality"
+    } ]
+  }, {
+    "tStartMs": 451920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and is meant to be free, when they get\nto the areas,"
+    } ]
+  }, {
+    "tStartMs": 455120,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "they charge people to get access\nto that water."
+    } ]
+  }, {
+    "tStartMs": 458880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Another thing sometimes they'll do is,\nbecause these tenders,"
+    } ]
+  }, {
+    "tStartMs": 461320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "these contracts that they have\nwith the local authorities"
+    } ]
+  }, {
+    "tStartMs": 463320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "are meant to be short term,\nin order to extend them,"
+    } ]
+  }, {
+    "tStartMs": 465880,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "they will damage\nexisting infrastructure"
+    } ]
+  }, {
+    "tStartMs": 467960,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "or infrastructure that's been fixed\nin order to keep working."
+    } ]
+  }, {
+    "tStartMs": 471880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And part of this story is also"
+    } ]
+  }, {
+    "tStartMs": 473880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "there have been allegations\nagainst the government,"
+    } ]
+  }, {
+    "tStartMs": 476520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "apparently playing a role awarding\ncontracts to these gangs, right?"
+    } ]
+  }, {
+    "tStartMs": 480560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Yeah. So that's an allegation\nthat's been made by, you know,"
+    } ]
+  }, {
+    "tStartMs": 483520,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "various activists,\nbut also one of the areas we went"
+    } ]
+  }, {
+    "tStartMs": 486160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "to when reporting this story\nis a township called Hammanskraal."
+    } ]
+  }, {
+    "tStartMs": 489680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It's north of Pretoria,\nand it's one"
+    } ]
+  }, {
+    "tStartMs": 491840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "of the areas\nof the country that has had"
+    } ]
+  }, {
+    "tStartMs": 494320,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "water shortages for the longest time.\nOver the last decade, on and off,"
+    } ]
+  }, {
+    "tStartMs": 497960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "they haven't had,\nkind of, equal access to water."
+    } ]
+  }, {
+    "tStartMs": 501360,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And there the local opposition is a\nparty called the Democratic Alliance."
+    } ]
+  }, {
+    "tStartMs": 505720,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Um, they're trying to get back\ninto power. They used to be in power."
+    } ]
+  }, {
+    "tStartMs": 508560,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "They're no longer at the moment\nthey're trying to get back in power."
+    } ]
+  }, {
+    "tStartMs": 511240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "They claim\nthat the local authority is"
+    } ]
+  }, {
+    "tStartMs": 514040,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "in cahoots with these criminal gangs,\nso that they know"
+    } ]
+  }, {
+    "tStartMs": 517480,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "that the companies that are applying\nfor the tenders are legitimate,"
+    } ]
+  }, {
+    "tStartMs": 520280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "but they still give them the contract\nand they get a cut."
+    } ]
+  }, {
+    "tStartMs": 523040,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "We have reached out to the local\nauthority that runs Hammanskraal."
+    } ]
+  }, {
+    "tStartMs": 526960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "We asked them for an interview,\nbut they never got back to us."
+    } ]
+  }, {
+    "tStartMs": 529760,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And so what are the government saying\nabout this"
+    } ]
+  }, {
+    "tStartMs": 532000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "on, I guess,\nthe action that they're taking?"
+    } ]
+  }, {
+    "tStartMs": 534200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So the government, at\na central level,"
+    } ]
+  }, {
+    "tStartMs": 536600,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "the president, he has recognised\nthat this is a big issue."
+    } ]
+  }, {
+    "tStartMs": 539440,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "As a matter of fact, in this year's\nState of the Nation address,"
+    } ]
+  }, {
+    "tStartMs": 542280,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "President Cyril Ramaphosa said\nthat water shortage was"
+    } ]
+  }, {
+    "tStartMs": 545120,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "a national emergency\nthat needed to be tackled."
+    } ]
+  }, {
+    "tStartMs": 548480,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "He's promised to invest\nmore than $9 billion"
+    } ]
+  }, {
+    "tStartMs": 552040,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "in fixing the country's\nwater infrastructure."
+    } ]
+  }, {
+    "tStartMs": 554480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And last year,\nhe'd actually specifically talked"
+    } ]
+  }, {
+    "tStartMs": 556480,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "about these water mafias\nand he'd urged"
+    } ]
+  }, {
+    "tStartMs": 559400,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the police, as well as local authorities,\nto crack down on these syndicates."
+    } ]
+  }, {
+    "tStartMs": 564200,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "At the moment, activists we've spoken to\nsay not enough has been done to do this."
+    } ]
+  }, {
+    "tStartMs": 568600,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Um, but at least it's a recognition\non the part of"
+    } ]
+  }, {
+    "tStartMs": 570680,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "the government that this is a problem\nthat they want to tackle."
+    } ]
+  }, {
+    "tStartMs": 573120,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And I guess people might be wondering,\nyou know, water shortages affect a lot"
+    } ]
+  }, {
+    "tStartMs": 576880,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "of the world,\naffect different parts of Africa."
+    } ]
+  }, {
+    "tStartMs": 580360,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So how is this water crisis different"
+    } ]
+  }, {
+    "tStartMs": 583400,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "from what we might see across\nthe region more generally as well?"
+    } ]
+  }, {
+    "tStartMs": 586880,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I think it's different\nin a couple of ways."
+    } ]
+  }, {
+    "tStartMs": 588920,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "South Africa is one\nof the few African countries where"
+    } ]
+  }, {
+    "tStartMs": 591200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "for a long time,\naccess to water was pretty reliable."
+    } ]
+  }, {
+    "tStartMs": 595200,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Um, and you could even drink\nthe tap water here,\nwhich is quite unusual for Africa."
+    } ]
+  }, {
+    "tStartMs": 599560,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "So I think the fact\nthat this water infrastructure"
+    } ]
+  }, {
+    "tStartMs": 604880,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "now hasn't been renewed and is\nkind of in disrepair,"
+    } ]
+  }, {
+    "tStartMs": 609760,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "for a lot of South Africans is a kind\nof reflection of what they see"
+    } ]
+  }, {
+    "tStartMs": 612920,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "as a wider crumbling of infrastructure\nin South Africa. Just a few years ago,"
+    } ]
+  }, {
+    "tStartMs": 617520,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "the country was in the headlines\nbecause power cuts were happening"
+    } ]
+  }, {
+    "tStartMs": 621160,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "so regularly that businesses\nand ordinary people were not able"
+    } ]
+  }, {
+    "tStartMs": 625040,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to kind of operate at full capacity."
+    } ]
+  }, {
+    "tStartMs": 627320,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "South Africa is the continent's\nmost industrialised nation, so a lot"
+    } ]
+  }, {
+    "tStartMs": 631640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "of businesses are based out here and\nthey were feeling the brunt of that."
+    } ]
+  }, {
+    "tStartMs": 634880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "That's been handled by\nthe government, more or less."
+    } ]
+  }, {
+    "tStartMs": 637320,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "They've kind of collaborated with the\nprivate sector and managed to handle it."
+    } ]
+  }, {
+    "tStartMs": 640400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "But the water issue is still\na big problem."
+    } ]
+  }, {
+    "tStartMs": 642960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And for lots of people,\nthey say it's a worse problem"
+    } ]
+  }, {
+    "tStartMs": 645400,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "because you need water to be healthy.\nYou need water in hospitals."
+    } ]
+  }, {
+    "tStartMs": 649600,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "You know you need water\nto keep things clean."
+    } ]
+  }, {
+    "tStartMs": 651840,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "You need water to stop the spread\nof disease."
+    } ]
+  }, {
+    "tStartMs": 653920,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And so for them, the fact that\nAfrica's most industrialised nation"
+    } ]
+  }, {
+    "tStartMs": 657080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "hasn't been able to make sure\nthat the majority"
+    } ]
+  }, {
+    "tStartMs": 659160,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "of its territory has reliable water\nall of the time is a big problem"
+    } ]
+  }, {
+    "tStartMs": 663200,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "that could impact the economy, not\njust here, but in the wider region."
+    } ]
+  }, {
+    "tStartMs": 666800,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Mayeni, thank you so much\nfor explaining all of that for us."
+    } ]
+  }, {
+    "tStartMs": 669760,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Thanks for having me on."
+    } ]
+  }, {
+    "tStartMs": 671240,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": " \nOK, that's almost it from us."
+    } ]
+  }, {
+    "tStartMs": 672960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "But remember, you guys can comment\nbelow, like and subscribe at any time."
+    } ]
+  }, {
+    "tStartMs": 677120,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "We're also on Instagram,\n@bbcwhatintheworld over there."
+    } ]
+  }, {
+    "tStartMs": 680200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Make sure you DM us.\nBut for now, I'm Iqra,"
+    } ]
+  }, {
+    "tStartMs": 683200,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "this is What in the World\nfrom the BBC World Service,\nand I'll see you guys soon. Bye."
+    } ]
+  } ]
+}

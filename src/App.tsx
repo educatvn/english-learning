@@ -7,6 +7,8 @@ import PlaylistPage from './pages/PlaylistPage'
 import ProgressPage from './pages/ProgressPage'
 import NotesPage from './pages/NotesPage'
 import VocabularyPage from './pages/VocabularyPage'
+import PlansPage from './pages/PlansPage'
+import PlanDashboardPage from './pages/PlanDashboardPage'
 import AddVideoPage from './pages/admin/AddVideoPage'
 import NewVideoPage from './pages/admin/NewVideoPage'
 
@@ -24,6 +26,8 @@ function App() {
       <Route path="/progress" element={<ProgressPage />} />
       <Route path="/notes" element={<NotesPage />} />
       <Route path="/vocabulary" element={<VocabularyPage />} />
+      <Route path="/plans" element={<PlansPage />} />
+      <Route path="/plans/:planId/dashboard" element={<PlanDashboardPage />} />
       <Route path="/admin/add-video" element={<AddVideoPage />} />
       <Route path="/admin/new-video" element={<NewVideoPage />} />
     </Routes>

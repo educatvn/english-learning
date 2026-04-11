@@ -510,6 +510,163 @@ function deleteVocabWord(data) {
   }
 }
 
+// ── Study Plans helpers ──────────────────────────────────────────────────────
+// Sheet: plans — id | userId | name | items (JSON) | durationMonths | startDate | endDate | status | createdAt
+
+function planSheet() {
+  return getOrCreateSheet('plans', ['id', 'userId', 'name', 'items', 'durationMonths', 'startDate', 'endDate', 'status', 'createdAt']);
+}
+
+function planDailySheet() {
+  return getOrCreateSheet('plan_daily', ['planId', 'userId', 'date', 'completedItemIds']);
+}
+
+function getPlans(data) {
+  var userId = String(data.userId);
+  var rows = planSheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1)
+    .filter(function(r) { return String(r[1]) === userId; })
+    .map(function(r) {
+      return {
+        id:             String(r[0]),
+        userId:         String(r[1]),
+        name:           String(r[2]),
+        items:          JSON.parse(r[3] || '[]'),
+        durationMonths: Number(r[4]) || 1,
+        startDate:      r[5] ? toDateStr(r[5]) : '',
+        endDate:        r[6] ? toDateStr(r[6]) : '',
+        status:         String(r[7] || 'draft'),
+        createdAt:      String(r[8]),
+      };
+    })
+    .sort(function(a, b) { return b.createdAt.localeCompare(a.createdAt); });
+}
+
+function upsertPlanRow(plan) {
+  var sheet = planSheet();
+  var row = [
+    plan.id,
+    plan.userId,
+    plan.name,
+    JSON.stringify(plan.items || []),
+    plan.durationMonths || 1,
+    plan.startDate || '',
+    plan.endDate || '',
+    plan.status || 'draft',
+    plan.createdAt || '',
+  ];
+  var idx = findRowIndex(sheet, 0, plan.id);
+  if (idx > 0) {
+    sheet.getRange(idx, 1, 1, 9).setValues([row]);
+  } else {
+    sheet.appendRow(row);
+  }
+}
+
+function deletePlanRow(data) {
+  var sheet = planSheet();
+  var idx = findRowIndex(sheet, 0, String(data.id));
+  if (idx > 0) sheet.deleteRow(idx);
+  // Also delete daily progress for this plan
+  var dailySheet = planDailySheet();
+  var dailyRows = dailySheet.getDataRange().getValues();
+  for (var i = dailyRows.length - 1; i >= 1; i--) {
+    if (String(dailyRows[i][0]) === String(data.id)) {
+      dailySheet.deleteRow(i + 1);
+    }
+  }
+}
+
+function activatePlanRow(data) {
+  var sheet = planSheet();
+  var idx = findRowIndex(sheet, 0, String(data.id));
+  if (idx <= 0) return;
+  var row = sheet.getRange(idx, 1, 1, 9).getValues()[0];
+  var durationMonths = Number(row[4]) || 1;
+  var now = new Date();
+  var startDate = Utilities.formatDate(now, 'UTC', 'yyyy-MM-dd');
+  var endDateObj = new Date(now);
+  endDateObj.setMonth(endDateObj.getMonth() + durationMonths);
+  var endDate = Utilities.formatDate(endDateObj, 'UTC', 'yyyy-MM-dd');
+  sheet.getRange(idx, 6).setValue(startDate);
+  sheet.getRange(idx, 7).setValue(endDate);
+  sheet.getRange(idx, 8).setValue('active');
+}
+
+function pausePlanRow(data) {
+  var sheet = planSheet();
+  var idx = findRowIndex(sheet, 0, String(data.id));
+  if (idx > 0) {
+    sheet.getRange(idx, 8).setValue('paused');
+  }
+}
+
+function getPlanDailyProgress(data) {
+  var userId = String(data.userId);
+  var planId = String(data.planId);
+  var rows = planDailySheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1)
+    .filter(function(r) {
+      return String(r[0]) === planId && String(r[1]) === userId;
+    })
+    .map(function(r) {
+      return {
+        planId:           String(r[0]),
+        userId:           String(r[1]),
+        date:             toDateStr(r[2]),
+        completedItemIds: JSON.parse(r[3] || '[]'),
+      };
+    });
+}
+
+function getAllPlanDailyProgress(data) {
+  var userId = String(data.userId);
+  var rows = planDailySheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1)
+    .filter(function(r) { return String(r[1]) === userId; })
+    .map(function(r) {
+      return {
+        planId:           String(r[0]),
+        userId:           String(r[1]),
+        date:             toDateStr(r[2]),
+        completedItemIds: JSON.parse(r[3] || '[]'),
+      };
+    });
+}
+
+function togglePlanItemRow(data) {
+  var sheet  = planDailySheet();
+  var planId = String(data.planId);
+  var userId = String(data.userId);
+  var date   = String(data.date);   // YYYY-MM-DD from client
+  var itemId = String(data.itemId);
+
+  var rows = sheet.getDataRange().getValues();
+  for (var i = 1; i < rows.length; i++) {
+    // Use toDateStr() to handle GSheets auto-converting "YYYY-MM-DD" strings to Date objects
+    var rowDate = toDateStr(rows[i][2]);
+    if (String(rows[i][0]) === planId && String(rows[i][1]) === userId && rowDate === date) {
+      var ids = [];
+      try { ids = JSON.parse(rows[i][3] || '[]'); } catch (e) {}
+      var idx = ids.indexOf(itemId);
+      if (idx >= 0) {
+        ids.splice(idx, 1);
+      } else {
+        ids.push(itemId);
+      }
+      sheet.getRange(i + 1, 4).setValue(JSON.stringify(ids));
+      return { planId: planId, userId: userId, date: date, completedItemIds: ids };
+    }
+  }
+  // No row for this day yet — create one
+  var newIds = [itemId];
+  sheet.appendRow([planId, userId, date, JSON.stringify(newIds)]);
+  return { planId: planId, userId: userId, date: date, completedItemIds: newIds };
+}
+
 // ── Response helper ──────────────────────────────────────────────────────────
 
 function ok(data) {
@@ -565,6 +722,14 @@ function doPost(e) {
     if (action === 'addVocabWord')      return ok(addVocabWord(data));
     if (action === 'getVocabWords')     return ok(getVocabWords(data));
     if (action === 'deleteVocabWord')   { deleteVocabWord(data); return ok(null); }
+    if (action === 'getPlans')           return ok(getPlans(data));
+    if (action === 'upsertPlan')         { upsertPlanRow(data); return ok(null); }
+    if (action === 'deletePlan')         { deletePlanRow(data); return ok(null); }
+    if (action === 'activatePlan')       { activatePlanRow(data); return ok(null); }
+    if (action === 'pausePlan')          { pausePlanRow(data); return ok(null); }
+    if (action === 'getPlanDailyProgress') return ok(getPlanDailyProgress(data));
+    if (action === 'getAllPlanDailyProgress') return ok(getAllPlanDailyProgress(data));
+    if (action === 'togglePlanItem')     return ok(togglePlanItemRow(data));
 
     return err('Unknown action: ' + action);
   } catch (ex) {

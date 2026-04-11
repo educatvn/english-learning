@@ -1,0 +1,1555 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 280,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Four astronauts have travelled further\nfrom Earth than anyone ever before."
+    } ]
+  }, {
+    "tStartMs": 5280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "It's part of the Artemis II mission,\nwhich has taken humans back to the Moon"
+    } ]
+  }, {
+    "tStartMs": 9200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "for the first time in over 50 years."
+    } ]
+  }, {
+    "tStartMs": 13640,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "The pictures have been amazing. They've\nbeen all over social. I have to say,"
+    } ]
+  }, {
+    "tStartMs": 17360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "I've definitely shed a tear once\nor twice looking at them."
+    } ]
+  }, {
+    "tStartMs": 25720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I'm Iqra. This is What in\nthe World from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 29080,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You've been sending us a bunch\nof questions on this,"
+    } ]
+  }, {
+    "tStartMs": 32080,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "and we're going to get you\nsome answers from people who\nknow space better than anyone else."
+    } ]
+  }, {
+    "tStartMs": 36520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Hello, I'm Steve Swanson,\nformer NASA astronaut,"
+    } ]
+  }, {
+    "tStartMs": 39080,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and coming to you from Boise,\nIdaho in the United States."
+    } ]
+  }, {
+    "tStartMs": 42560,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And hi, I'm astronaut Nicole Stott,"
+    } ]
+  }, {
+    "tStartMs": 44880,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "and I am here today at the amazing\nOrlando Science Center in Florida."
+    } ]
+  }, {
+    "tStartMs": 49240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "A lot going on where you are, Nicole!"
+    } ]
+  }, {
+    "tStartMs": 51400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Thank you so much,\nboth of you guys for joining us."
+    } ]
+  }, {
+    "tStartMs": 54040,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "I want to get straight\ninto the questions."
+    } ]
+  }, {
+    "tStartMs": 56400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "So our first question is\nfor Steve."
+    } ]
+  }, {
+    "tStartMs": 60040,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Steve. You co-founded the ISS\nand currently help students design"
+    } ]
+  }, {
+    "tStartMs": 63280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "the next generation\nof spacesuits interfaces."
+    } ]
+  }, {
+    "tStartMs": 66520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Perhaps most importantly, you have\nclaimed the title of the first person"
+    } ]
+  }, {
+    "tStartMs": 70440,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "to post an Instagram photo from space.\nWith Artemis II"
+    } ]
+  }, {
+    "tStartMs": 73840,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "pushing the boundaries\nof deep space communication,"
+    } ]
+  }, {
+    "tStartMs": 76480,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "I have to ask a veteran\nof the selfie from orbit,"
+    } ]
+  }, {
+    "tStartMs": 80520,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "what's the one piece of composition\nadvice you give the Artemis crew"
+    } ]
+  }, {
+    "tStartMs": 84320,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "to ensure that lunar photos\ndon't look like blurry holiday snaps?"
+    } ]
+  }, {
+    "tStartMs": 89040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "These guys are really good,\nI should say, at doing photos."
+    } ]
+  }, {
+    "tStartMs": 92040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "They've been trained tremendously\nfor these photos"
+    } ]
+  }, {
+    "tStartMs": 94840,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and they have the best background or\nforeground how you want to look at it."
+    } ]
+  }, {
+    "tStartMs": 98880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "If you're ever going to have. I know\nthey don't need any help from me,"
+    } ]
+  }, {
+    "tStartMs": 102320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "but if you want to do a quick\nlittle one, take as many as you can"
+    } ]
+  }, {
+    "tStartMs": 104840,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "because you're going to regret\nnot taking every possible shot"
+    } ]
+  }, {
+    "tStartMs": 108280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "that you could have done\non that mission they have."
+    } ]
+  }, {
+    "tStartMs": 111480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "I hear that. How stable is\nthe spacecraft when you're travelling?"
+    } ]
+  }, {
+    "tStartMs": 116440,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Like, what are you working with here?\nOh, it's very stable."
+    } ]
+  }, {
+    "tStartMs": 119680,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "You know, things are floating, but\nyou really don't have much else going\non, so you get really good pictures."
+    } ]
+  }, {
+    "tStartMs": 124960,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "You can actually do\nlonger exposures, etc."
+    } ]
+  }, {
+    "tStartMs": 127040,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "because of that situation. I guess\nthe issue with longer exposures though,"
+    } ]
+  }, {
+    "tStartMs": 130360,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "is that this craft is very stable,\nbut it's moving at a high rate."
+    } ]
+  }, {
+    "tStartMs": 133840,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And so sometimes you'll get\na little blurriness"
+    } ]
+  }, {
+    "tStartMs": 136280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "if you're if you're taking a picture\nof something that's far away."
+    } ]
+  }, {
+    "tStartMs": 139480,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Nicole, let's get\ninto some other challenges."
+    } ]
+  }, {
+    "tStartMs": 142200,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I'd imagine there's a few other ones\nthan just taking the selfies."
+    } ]
+  }, {
+    "tStartMs": 145480,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "So this one is for you."
+    } ]
+  }, {
+    "tStartMs": 146920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I really love to hear that\nbased on your own missions,"
+    } ]
+  }, {
+    "tStartMs": 150840,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "which were just so incredible\nand so inspiring to me, that"
+    } ]
+  }, {
+    "tStartMs": 155200,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "what do you think will be\nthe most challenging part of Artemis II"
+    } ]
+  }, {
+    "tStartMs": 160120,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "for the crew?\nI'd love to hear your perspective,"
+    } ]
+  }, {
+    "tStartMs": 164360,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "especially as people who have\nactually lived and worked in space,"
+    } ]
+  }, {
+    "tStartMs": 169320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "because it will really help\nme understand that"
+    } ]
+  }, {
+    "tStartMs": 172640,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "what other challenges\nArtemis astronauts might face"
+    } ]
+  }, {
+    "tStartMs": 177160,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "during this mission?"
+    } ]
+  }, {
+    "tStartMs": 178640,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "You know, everything floats."
+    } ]
+  }, {
+    "tStartMs": 180600,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So whether you're on a spaceship,\ngoing to the moon,"
+    } ]
+  }, {
+    "tStartMs": 184160,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "or you're on\nthe International Space Station,"
+    } ]
+  }, {
+    "tStartMs": 186440,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "travelling around the planet,\neverything floats."
+    } ]
+  }, {
+    "tStartMs": 188880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And so if you weren't a very\norganised person down here on Earth"
+    } ]
+  }, {
+    "tStartMs": 192800,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "where gravity helps you keep track\nof your stuff in space,"
+    } ]
+  }, {
+    "tStartMs": 196040,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "where everything floats, it can\nbecome a challenge, because you float,"
+    } ]
+  }, {
+    "tStartMs": 199200,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "your stuff floats,\nand you just have to be really good"
+    } ]
+  }, {
+    "tStartMs": 202520,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "at using the Velcro\nand keeping track of your stuff."
+    } ]
+  }, {
+    "tStartMs": 206160,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "But it's an amazing part\nof the adventure too."
+    } ]
+  }, {
+    "tStartMs": 209800,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So I always tried to look at it like"
+    } ]
+  }, {
+    "tStartMs": 212440,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "while everything might be\na little different"
+    } ]
+  }, {
+    "tStartMs": 214600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "in the environment where things float,\nit's not necessarily more difficult."
+    } ]
+  }, {
+    "tStartMs": 218840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "You just have to think about it\na little bit differently as well."
+    } ]
+  }, {
+    "tStartMs": 221880,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Yeah. And Nicole, just on that,\nI wondered if you could talk us"
+    } ]
+  }, {
+    "tStartMs": 225080,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "through a little bit of the training,\nsome of the processes"
+    } ]
+  }, {
+    "tStartMs": 228000,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "that you go through to get\nto that level and to adjust?"
+    } ]
+  }, {
+    "tStartMs": 231880,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Well, you know, um,\nunfortunately, we don't get to float"
+    } ]
+  }, {
+    "tStartMs": 235920,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "much down here on Earth.\nThere is not,"
+    } ]
+  }, {
+    "tStartMs": 238120,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "there isn't one of those microgravity\nrooms or something like that."
+    } ]
+  }, {
+    "tStartMs": 241640,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "We have some airplanes that allow\nus to do kind of this,"
+    } ]
+  }, {
+    "tStartMs": 244760,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "almost like you're going over the top\nof a roller coaster to, you know,"
+    } ]
+  }, {
+    "tStartMs": 248440,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "feel that sensation of floating."
+    } ]
+  }, {
+    "tStartMs": 251640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But but as astronauts, we don't spend\na whole lot of time doing that."
+    } ]
+  }, {
+    "tStartMs": 254920,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Our training is really focused\non the systems of the spacecraft,"
+    } ]
+  }, {
+    "tStartMs": 258640,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "on learning how to do spacewalks,\nwhich Steve did,"
+    } ]
+  }, {
+    "tStartMs": 261720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "he's like an expert\nat spacewalking and,"
+    } ]
+  }, {
+    "tStartMs": 264840,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "you know, how to fly that robotic arm\nand all the kind of interface things"
+    } ]
+  }, {
+    "tStartMs": 269280,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "that we need to be able\nto do while we're in space."
+    } ]
+  }, {
+    "tStartMs": 273800,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "And I think the biggest thing that\nprepares us overall is the fact that"
+    } ]
+  }, {
+    "tStartMs": 279160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "no matter what kind of training we're\ndoing, we're doing it as a team."
+    } ]
+  }, {
+    "tStartMs": 282880,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "You know, our crew is a team and\nyou have to learn how to work well"
+    } ]
+  }, {
+    "tStartMs": 285960,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "with other people,\nhow to identify your strengths"
+    } ]
+  }, {
+    "tStartMs": 288680,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and your weaknesses, acknowledge\nthat you might have weaknesses,"
+    } ]
+  }, {
+    "tStartMs": 291600,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "which is a challenge for some of us,"
+    } ]
+  }, {
+    "tStartMs": 293840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and be able to pull all that\ntogether for a successful mission."
+    } ]
+  }, {
+    "tStartMs": 297840,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "And then when you get to space and\nyou finally feel that floating sensation"
+    } ]
+  }, {
+    "tStartMs": 303160,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "all of that other stuff seems\nto come a little bit easier,"
+    } ]
+  }, {
+    "tStartMs": 306720,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and then you can concentrate on\nmoving gracefully in three dimensions"
+    } ]
+  }, {
+    "tStartMs": 310120,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "in a place where everything floats."
+    } ]
+  }, {
+    "tStartMs": 311600,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "I can only imagine! Steve."
+    } ]
+  }, {
+    "tStartMs": 313040,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Nicole says,\nyou're an expert in space walking."
+    } ]
+  }, {
+    "tStartMs": 315360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "What do you have to say about that?"
+    } ]
+  }, {
+    "tStartMs": 318240,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Oh, well I'm not an expert!"
+    } ]
+  }, {
+    "tStartMs": 321760,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "I did it a few times, so it was,\nit definitely helps to do that."
+    } ]
+  }, {
+    "tStartMs": 324600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "A lot of training at it. It\nwas though, a fantastic thing to do."
+    } ]
+  }, {
+    "tStartMs": 327560,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Spacewalking is wonderful.\nNicole's done them too."
+    } ]
+  }, {
+    "tStartMs": 330640,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It's great.\nAnd so it's just another aspect"
+    } ]
+  }, {
+    "tStartMs": 333840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "of all the training we do and all\nthe things that we have to be able"
+    } ]
+  }, {
+    "tStartMs": 336840,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "to do to live and work\non the International Space Station."
+    } ]
+  }, {
+    "tStartMs": 339600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And so this next question is\nfor you, Steve."
+    } ]
+  }, {
+    "tStartMs": 342520,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "How does this Artemis II mission fit\ninto the long-term vision"
+    } ]
+  }, {
+    "tStartMs": 347760,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "of sustained human presence\nbeyond Earth,"
+    } ]
+  }, {
+    "tStartMs": 351520,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "rather than\njust the short-term missions?"
+    } ]
+  }, {
+    "tStartMs": 354920,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Yeah, it's one of the first steps,\nand I think it's a fantastic step."
+    } ]
+  }, {
+    "tStartMs": 357480,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "I love what they're doing right now,\nbut to our long-term vision,"
+    } ]
+  }, {
+    "tStartMs": 361200,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I believe is\ngoing to Mars."
+    } ]
+  }, {
+    "tStartMs": 364800,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And to do that, though,\nwe have to go back to the Moon first."
+    } ]
+  }, {
+    "tStartMs": 367560,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Mars is a very,\nvery difficult mission."
+    } ]
+  }, {
+    "tStartMs": 369680,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "It's going to be something\nthat's going to take years to do."
+    } ]
+  }, {
+    "tStartMs": 373320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "As in that trip is going to take years.\nUh, almost three years."
+    } ]
+  }, {
+    "tStartMs": 377400,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And so you have to have every piece\nof equipment worked out really,\nreally well."
+    } ]
+  }, {
+    "tStartMs": 381280,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "You have to have your procedures,\nyour operations, everything dialled in."
+    } ]
+  }, {
+    "tStartMs": 384920,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And so to do that,\nwe have to practice that."
+    } ]
+  }, {
+    "tStartMs": 387080,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And the Moon is going to be\na great place to do that."
+    } ]
+  }, {
+    "tStartMs": 389360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So the idea here is, this is the first\nstep of getting back to the Moon,"
+    } ]
+  }, {
+    "tStartMs": 392480,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "getting our systems down\nso we can live"
+    } ]
+  }, {
+    "tStartMs": 394880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and work on the Moon\nand getting that all started."
+    } ]
+  }, {
+    "tStartMs": 397440,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And then, from then, we got that figured\nout, we can go on and do Mars."
+    } ]
+  }, {
+    "tStartMs": 400920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And something I've seen a lot\nof people talking about"
+    } ]
+  }, {
+    "tStartMs": 403000,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "is why do they plan to land\non the Moon in 2028?"
+    } ]
+  }, {
+    "tStartMs": 406480,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "The Apollo astronauts did it decades\nago, so why can't we do it now?"
+    } ]
+  }, {
+    "tStartMs": 411040,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "You know, sadly,\nthat's as far as I understand."
+    } ]
+  }, {
+    "tStartMs": 413640,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "That's a that's a political\nand a money decision, right?"
+    } ]
+  }, {
+    "tStartMs": 416360,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "You know, we as human beings, I mean,\nwe're demonstrating it right now"
+    } ]
+  }, {
+    "tStartMs": 419520,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "with Artemis II. When we decide\nto do difficult things, we can\npull it together and make it happen."
+    } ]
+  }, {
+    "tStartMs": 425200,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I mean, it's what I believe\nthe space programme is all"
+    } ]
+  }, {
+    "tStartMs": 427280,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "about. Kind of turning what\nwe think is impossible into possible."
+    } ]
+  }, {
+    "tStartMs": 431240,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "You know, working with an approach\nof here's how we can, not"
+    } ]
+  }, {
+    "tStartMs": 433920,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "why we can't, believing there's solutions\nto really challenging problems."
+    } ]
+  }, {
+    "tStartMs": 438200,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And I think we're in a place now\nwhere the direction is\nwe are going to do this."
+    } ]
+  }, {
+    "tStartMs": 443360,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Artemis II is putting us\nin a place to make that happen."
+    } ]
+  }, {
+    "tStartMs": 446840,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Next year, we'll have a really\ncool mission with Artemis III,"
+    } ]
+  }, {
+    "tStartMs": 450800,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "where we're looking at how we,\nyou know, rendezvous and dock"
+    } ]
+  }, {
+    "tStartMs": 453960,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "with other spacecraft, getting\nour landers prepared for Artemis IV"
+    } ]
+  }, {
+    "tStartMs": 458800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "in 2028 when we go back to the Moon,"
+    } ]
+  }, {
+    "tStartMs": 461600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "have boots on the Moon, land on\nthe Moon, and then really get going"
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "with the infrastructure we need\nto support what we'll do there."
+    } ]
+  }, {
+    "tStartMs": 470120,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And while we're on the topic\nof the Moon landings,"
+    } ]
+  }, {
+    "tStartMs": 472360,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "that leads us to our next question."
+    } ]
+  }, {
+    "tStartMs": 474400,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Hi, I'm Benny. I'm from Italy."
+    } ]
+  }, {
+    "tStartMs": 476080,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "My question is, now that\nthe Artemis missions are under way,"
+    } ]
+  }, {
+    "tStartMs": 479760,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "do you think\nthey will help us silence the claims"
+    } ]
+  }, {
+    "tStartMs": 482120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "that the Apollo landings were fake?\nThank you."
+    } ]
+  }, {
+    "tStartMs": 484920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I'm going to give this to both\nof you guys."
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So, Steve, do you want to pick up first?\nI sure hope so."
+    } ]
+  }, {
+    "tStartMs": 489920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I'll answer that way.\nSometimes it's very difficult"
+    } ]
+  }, {
+    "tStartMs": 492560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "to convince people\nthat we've been to the moon already,"
+    } ]
+  }, {
+    "tStartMs": 496400,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "even though to me there's lots of data\nand information out there to support it."
+    } ]
+  }, {
+    "tStartMs": 501480,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "You can argue all you want,\nbut if they don't believe it,"
+    } ]
+  }, {
+    "tStartMs": 503600,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "they don't believe it.\nAnd so it's very difficult sometimes."
+    } ]
+  }, {
+    "tStartMs": 505920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "But hopefully this will\ndefinitely show them that it is true."
+    } ]
+  }, {
+    "tStartMs": 509280,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "We can go to the Moon, we can do this\nand it's been done before."
+    } ]
+  }, {
+    "tStartMs": 514120,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Um, they'll probably take pictures\nof the current equipment that are"
+    } ]
+  }, {
+    "tStartMs": 517760,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "on the Moon\nthat we left there back in, you know,"
+    } ]
+  }, {
+    "tStartMs": 520800,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "from 1969 to 1972. Hopefully\nthey'll do that to prove it that way."
+    } ]
+  }, {
+    "tStartMs": 524440,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "And Nicole, what about you?"
+    } ]
+  }, {
+    "tStartMs": 525840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "We had six missions that landed\non the Moon."
+    } ]
+  }, {
+    "tStartMs": 528000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "We had additional missions\nthat orbited the Moon."
+    } ]
+  }, {
+    "tStartMs": 530760,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "You know, similar to\nwhat we're doing on Artemis II."
+    } ]
+  }, {
+    "tStartMs": 534400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "We had missions that prepped us\nby staying in low Earth orbit."
+    } ]
+  }, {
+    "tStartMs": 537800,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "You know, this was not something\nthat we were just going off and,"
+    } ]
+  }, {
+    "tStartMs": 540560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "you know, trying to fake once and,\nyou know, get everybody to believe it."
+    } ]
+  }, {
+    "tStartMs": 543200,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "This was a repetitive activity\nwith people"
+    } ]
+  }, {
+    "tStartMs": 546720,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "we know that had had their feet\non the Moon. It's incredible."
+    } ]
+  }, {
+    "tStartMs": 550920,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "And our final question comes\nall the way from Kenya."
+    } ]
+  }, {
+    "tStartMs": 554960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Hi everyone.\nMy name is Anya from Nairobi."
+    } ]
+  }, {
+    "tStartMs": 557520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And my question for you today: is\nthe biggest constraint for missions"
+    } ]
+  }, {
+    "tStartMs": 561760,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "like Artemis II still engineering,\nor is it humans."
+    } ]
+  }, {
+    "tStartMs": 566120,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "To both of you guys.\nStart with you, Steve."
+    } ]
+  }, {
+    "tStartMs": 568680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Hmm. Well, uh, we have to be able\nto have humans live in this difficult"
+    } ]
+  }, {
+    "tStartMs": 573800,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "environment for long periods of time,\nwhich is a little bit of a factor,"
+    } ]
+  }, {
+    "tStartMs": 576520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "but we're learning that\nand doing well with that right now."
+    } ]
+  }, {
+    "tStartMs": 579280,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "But it's so engineering to me is the\nbiggest issues we have left to do."
+    } ]
+  }, {
+    "tStartMs": 583880,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "I say to have equipment that work very,\nvery well in these harsh environments"
+    } ]
+  }, {
+    "tStartMs": 588480,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and are reliable,\nthat's all difficult stuff to do."
+    } ]
+  }, {
+    "tStartMs": 591160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "There's so many things to go on\nwith that."
+    } ]
+  }, {
+    "tStartMs": 593480,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And I would say not even engineering,\nbut logistics too,"
+    } ]
+  }, {
+    "tStartMs": 595960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "because it's a amazing amount\nof pieces,"
+    } ]
+  }, {
+    "tStartMs": 598400,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "all have to fit together to make\na mission like this work out."
+    } ]
+  }, {
+    "tStartMs": 601880,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "And Nicole?"
+    } ]
+  }, {
+    "tStartMs": 602720,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "You know, if you think about it,\nneither the Moon"
+    } ]
+  }, {
+    "tStartMs": 605280,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "or Mars is this garden spot that's,\nyou know, welcoming us, right?"
+    } ]
+  }, {
+    "tStartMs": 609160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "We're essentially having to turn both\nof those places, you know,"
+    } ]
+  }, {
+    "tStartMs": 612920,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and we're starting with the Moon,\ninto a spaceship."
+    } ]
+  }, {
+    "tStartMs": 615520,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Just like we have done with the space\nstation, where we've had to build it"
+    } ]
+  }, {
+    "tStartMs": 619160,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "in a way that mimics as best we can\nwhat Earth does for us naturally."
+    } ]
+  }, {
+    "tStartMs": 622800,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And that's a pretty complex,\nyou know, challenge to overcome."
+    } ]
+  }, {
+    "tStartMs": 626360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "We've done such a wonderful job\nwith the International Space Station"
+    } ]
+  }, {
+    "tStartMs": 630360,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "in demonstrating, you know,\nthe engineering behind that."
+    } ]
+  }, {
+    "tStartMs": 633760,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "But there's so much more to learn\nif we're going to be establishing\na permanent presence on this,"
+    } ]
+  }, {
+    "tStartMs": 639400,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "you know, body, this planetary body,\nlike the Moon. The human side of it,"
+    } ]
+  }, {
+    "tStartMs": 643520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "to me, goes back to the earlier question,\nwhich just says having the will."
+    } ]
+  }, {
+    "tStartMs": 647840,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "I mean, we have to be willing\nto politically\nand financially support doing it."
+    } ]
+  }, {
+    "tStartMs": 653000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And then if we do that, I mean,\nI honestly believe the engineering comes"
+    } ]
+  }, {
+    "tStartMs": 657240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "because, you know, we want\nto bring those solutions to life."
+    } ]
+  }, {
+    "tStartMs": 660600,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And Nicole, if\nthere's anyone listening, thinking,"
+    } ]
+  }, {
+    "tStartMs": 663120,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I really want to do what you've done,\nwhat advice would you give them?"
+    } ]
+  }, {
+    "tStartMs": 666920,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I think people need to pay attention\nto what they're curious about,"
+    } ]
+  }, {
+    "tStartMs": 670720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "what excites them,\nwhat they want to learn more about."
+    } ]
+  }, {
+    "tStartMs": 674160,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "I mean, that's what I did."
+    } ]
+  }, {
+    "tStartMs": 674960,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I paid attention to flying\nand wanting to know how things fly."
+    } ]
+  }, {
+    "tStartMs": 677360,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "And it led me to people like Steve\nand others who were able"
+    } ]
+  }, {
+    "tStartMs": 682000,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "to encourage me to think about\nhow that curiosity could lead me"
+    } ]
+  }, {
+    "tStartMs": 686120,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "to even more exciting things\nlike flying in space one day."
+    } ]
+  }, {
+    "tStartMs": 689920,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "We need to follow that curiosity."
+    } ]
+  }, {
+    "tStartMs": 691280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "We need to do it\nwithout doubting ourselves."
+    } ]
+  }, {
+    "tStartMs": 693440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "We need to be really excited\nand passionate about it,"
+    } ]
+  }, {
+    "tStartMs": 696960,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "and look for the people and places\nin our lives that will lift us up\nto learn more."
+    } ]
+  }, {
+    "tStartMs": 701640,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "And Steve, Nicole says\nwe need to follow that curiosity."
+    } ]
+  }, {
+    "tStartMs": 704480,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And there's been a lot of curiosity\naround Artemis II."
+    } ]
+  }, {
+    "tStartMs": 707760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "It feels like a lot of excitement."
+    } ]
+  }, {
+    "tStartMs": 709840,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "What has been, I guess, your favourite\nmoment from the mission so far?"
+    } ]
+  }, {
+    "tStartMs": 713800,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "I was at the launch, got to see that\nand that was fantastic. It was..."
+    } ]
+  }, {
+    "tStartMs": 717120,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "I mean, very, very beautiful launch and\nthe power in that vehicle was amazing."
+    } ]
+  }, {
+    "tStartMs": 722040,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I mean you could just feel it.\nAnd so that was fantastic."
+    } ]
+  }, {
+    "tStartMs": 724520,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "But now I can't wait to see\nthe pictures coming back."
+    } ]
+  }, {
+    "tStartMs": 727200,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "I think those pictures are going\nto be fantastic."
+    } ]
+  }, {
+    "tStartMs": 729040,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "They're going to show so much\nof what the Moon is really like."
+    } ]
+  }, {
+    "tStartMs": 732080,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "They're going to learn so much more\nabout the Moon."
+    } ]
+  }, {
+    "tStartMs": 734240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I just I think that that curiosity\nto me, I mean, I have it,"
+    } ]
+  }, {
+    "tStartMs": 737240,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I can't wait to see those pictures.\nSo I'm looking forward to it."
+    } ]
+  }, {
+    "tStartMs": 740520,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Yeah, definitely. Before we go,\nI just wanted to ask you both, um,"
+    } ]
+  }, {
+    "tStartMs": 744960,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "what were your\nfavourite memories in space?"
+    } ]
+  }, {
+    "tStartMs": 747920,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Like a memory\nthat will always stay with you?"
+    } ]
+  }, {
+    "tStartMs": 750160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Nothing beats the view\nout the window."
+    } ]
+  }, {
+    "tStartMs": 752960,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Sharing that with other people.\nYou know, being able to talk"
+    } ]
+  }, {
+    "tStartMs": 755320,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "to your family and\nbe looking out the window that way."
+    } ]
+  }, {
+    "tStartMs": 757920,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And thinking about them\nfrom that very special vantage point."
+    } ]
+  }, {
+    "tStartMs": 761720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "I mean, it was this reality check of who\nand where we all are in space together."
+    } ]
+  }, {
+    "tStartMs": 766600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Like, oh my gosh, we live\non a planet, you know, in space."
+    } ]
+  }, {
+    "tStartMs": 769600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And that's a pretty compelling thing\nto think about."
+    } ]
+  }, {
+    "tStartMs": 772920,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And, and as a memory, that's what\nI've carried forward, you know,"
+    } ]
+  }, {
+    "tStartMs": 776640,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "through all of it is\nhow we can be in a place like that"
+    } ]
+  }, {
+    "tStartMs": 779280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and appreciate our\nplanetary home from a place like that"
+    } ]
+  }, {
+    "tStartMs": 782960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and want to come back and behave\nlike crewmates and not passengers,"
+    } ]
+  }, {
+    "tStartMs": 786320,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "you know, down right down here\non Earth as well."
+    } ]
+  }, {
+    "tStartMs": 788640,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Looking back on Earth,\nit is just a, almost"
+    } ]
+  }, {
+    "tStartMs": 791960,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "like a game changer\nfor how you feel about things."
+    } ]
+  }, {
+    "tStartMs": 794880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "And I wish so many other people\ncould get that same viewpoint"
+    } ]
+  }, {
+    "tStartMs": 799680,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "so they could see our planet\nin that way."
+    } ]
+  }, {
+    "tStartMs": 802400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And maybe they'd have\na different aspect on how much\nwe need to take care of the planet,"
+    } ]
+  }, {
+    "tStartMs": 806560,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "how much that we are just one,\nyou know, humanity on this planet."
+    } ]
+  }, {
+    "tStartMs": 810800,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And, uh, we have so many divisions\nin our world."
+    } ]
+  }, {
+    "tStartMs": 813720,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "It'd be nice to have those go away."
+    } ]
+  }, {
+    "tStartMs": 815640,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And so seeing it from that viewpoint\nreally kind of brings it home."
+    } ]
+  }, {
+    "tStartMs": 818960,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And I wish I would.\nI wish so many people could see that."
+    } ]
+  }, {
+    "tStartMs": 821600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I could chat to you both all day,\nbut I know you're busy people."
+    } ]
+  }, {
+    "tStartMs": 824600,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Thank you so much for\nfor coming on and chatting to us."
+    } ]
+  }, {
+    "tStartMs": 827680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Thank you all. Have a great day.\nThank you."
+    } ]
+  }, {
+    "tStartMs": 830800,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Thank you so much\nfor joining us for this episode."
+    } ]
+  }, {
+    "tStartMs": 833240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Have you guys\nbeen following Artemis II?"
+    } ]
+  }, {
+    "tStartMs": 835560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "What do you think\nabout the future of space travel?"
+    } ]
+  }, {
+    "tStartMs": 837840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "I have so many questions and you\ncan leave your comments down below."
+    } ]
+  }, {
+    "tStartMs": 841320,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Remember to like and subscribe too.\nBut for now, I'm Iqra,"
+    } ]
+  }, {
+    "tStartMs": 844680,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "this is What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 847280,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I'll see you guys soon. Bye."
+    } ]
+  } ]
+}

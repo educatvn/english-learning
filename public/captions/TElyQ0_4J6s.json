@@ -1,0 +1,1309 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "AI has basically shown us\nthat sperm whale clicks look"
+    } ]
+  }, {
+    "tStartMs": 3800,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "much more similar to human language\nthan we thought,"
+    } ]
+  }, {
+    "tStartMs": 6520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "before we had this incredible tool\nto study it in more detail."
+    } ]
+  }, {
+    "tStartMs": 10040,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Using AI to translate animal voices\nis the singular,"
+    } ]
+  }, {
+    "tStartMs": 14120,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "most important use of artificial\nintelligence in our lifetime."
+    } ]
+  }, {
+    "tStartMs": 18160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Hey, I'm Iqra and this is What in\nthe World from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 22160,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Today we're going to chat\nabout something that I just know"
+    } ]
+  }, {
+    "tStartMs": 24800,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "some of you guys have thought about\nbefore too."
+    } ]
+  }, {
+    "tStartMs": 26880,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "It's been on our team's mind as well."
+    } ]
+  }, {
+    "tStartMs": 29800,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Can we talk to animals?"
+    } ]
+  }, {
+    "tStartMs": 31960,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And also,\nwhy are some people saying"
+    } ]
+  }, {
+    "tStartMs": 34560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "AI can help us out in this area\nwith the comms too?"
+    } ]
+  }, {
+    "tStartMs": 42040,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "And before we get into it,\nlet's hear from someone who works"
+    } ]
+  }, {
+    "tStartMs": 44880,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "with animals every day.\nHi, I'm Haehyun Shin,"
+    } ]
+  }, {
+    "tStartMs": 47720,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I am a veterinarian based in Boston,\nMassachusetts."
+    } ]
+  }, {
+    "tStartMs": 50920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I think if\nour patients could speak to us,"
+    } ]
+  }, {
+    "tStartMs": 54120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "it would actually make\nour jobs a lot easier."
+    } ]
+  }, {
+    "tStartMs": 56920,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "There are plenty of times where\nwe as veterinarians"
+    } ]
+  }, {
+    "tStartMs": 60480,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and our patient owners\nhave been like, I wish"
+    } ]
+  }, {
+    "tStartMs": 62680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "our animals could just speak to us\nand tell us what was wrong."
+    } ]
+  }, {
+    "tStartMs": 66040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "OK, so let's get into it now\nwith the BBC's Caroline Steel."
+    } ]
+  }, {
+    "tStartMs": 69320,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "She's right here, right now.\nHey, Caroline."
+    } ]
+  }, {
+    "tStartMs": 71240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Hello.\nYeah. So good to have you back."
+    } ]
+  }, {
+    "tStartMs": 73720,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Um, so we're going\nto find out about how"
+    } ]
+  }, {
+    "tStartMs": 76160,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "AI is being used\nfor animal communication in a bit."
+    } ]
+  }, {
+    "tStartMs": 78800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "But before that, I wanted to talk\nabout how animals are communicating"
+    } ]
+  }, {
+    "tStartMs": 82720,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "in the first place.\nHow are they chatting?"
+    } ]
+  }, {
+    "tStartMs": 84800,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So many different animals do\ndifferent things."
+    } ]
+  }, {
+    "tStartMs": 86480,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "This just makes me think of\nmy cat Ollie, who I'm obsessed with."
+    } ]
+  }, {
+    "tStartMs": 90520,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "He's a gorgeous tabby cat. And I can't\ntalk to him, but I really do feel"
+    } ]
+  }, {
+    "tStartMs": 95320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "like I can understand\nwhat his meows are asking for."
+    } ]
+  }, {
+    "tStartMs": 99280,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So, like he has a particular meow\nfor 'feed me'."
+    } ]
+  }, {
+    "tStartMs": 101720,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "He has a particular meow\nfor 'let me out', a meow"
+    } ]
+  }, {
+    "tStartMs": 105520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "for, like, 'I'm unhappy', when I put him\nin a crate to take him to a vet."
+    } ]
+  }, {
+    "tStartMs": 108000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "But none of that's science! Scientists\nhave actually studied"
+    } ]
+  }, {
+    "tStartMs": 111920,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "what animals are communicating\nto each other when they make noises."
+    } ]
+  }, {
+    "tStartMs": 114800,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "So kind of\nthe most obvious one is mating calls."
+    } ]
+  }, {
+    "tStartMs": 118120,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So animals\nlike birds will make beautiful songs"
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and try and attract a mate,\nand birds will pick mates based"
+    } ]
+  }, {
+    "tStartMs": 124760,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "on how much they like\neach other's songs."
+    } ]
+  }, {
+    "tStartMs": 127600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "There're also alarm calls,\nwhich birds do a lot,"
+    } ]
+  }, {
+    "tStartMs": 130360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "which are basically warnings to other\nbirds about what's going on around them."
+    } ]
+  }, {
+    "tStartMs": 133320,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "There's a nice example of\nthe blackcapped chickadee, which has"
+    } ]
+  }, {
+    "tStartMs": 137160,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "an alarm call that kind of gives you\ninformation about what the predator is."
+    } ]
+  }, {
+    "tStartMs": 141520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So if the predator is more threatening,\nit basically adds chirps into the call."
+    } ]
+  }, {
+    "tStartMs": 145600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "So it might,\nfor a hawk be like, okay,"
+    } ]
+  }, {
+    "tStartMs": 147720,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I'm going to do\na bird impersonation now."
+    } ]
+  }, {
+    "tStartMs": 150280,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Can you please do it?\nIt might be like cheep cheep."
+    } ]
+  }, {
+    "tStartMs": 152840,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Cheep cheep cheep cheep cheep cheep.\nFor a hawk."
+    } ]
+  }, {
+    "tStartMs": 155480,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "But then if it's something not\nas threatening from a predator point"
+    } ]
+  }, {
+    "tStartMs": 157920,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "of view, it might just go like,\ncheep cheep cheep cheep."
+    } ]
+  }, {
+    "tStartMs": 160120,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Rather than\nall these extra cheeps. And animals"
+    } ]
+  }, {
+    "tStartMs": 162480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "don't gossip\nin the way that humans do."
+    } ]
+  }, {
+    "tStartMs": 165480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But there is an interesting example\nof vervet monkeys"
+    } ]
+  }, {
+    "tStartMs": 169240,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "basically spreading information\nthrough a group really quickly."
+    } ]
+  }, {
+    "tStartMs": 173040,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So if there's conflict\nbetween two monkeys."
+    } ]
+  }, {
+    "tStartMs": 176200,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "A monkey will kind of like call out\nand basically scientists call it"
+    } ]
+  }, {
+    "tStartMs": 179480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "a recruitment call saying, hey,\nquick, come help me."
+    } ]
+  }, {
+    "tStartMs": 181760,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "There's a fight, I need backup.\nCome join my team."
+    } ]
+  }, {
+    "tStartMs": 185320,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And by listening to that call,\nother monkeys understand"
+    } ]
+  }, {
+    "tStartMs": 188880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "what conflict has happened and\nbetween who."
+    } ]
+  }, {
+    "tStartMs": 191680,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So this kind\nof information about who's upset"
+    } ]
+  }, {
+    "tStartMs": 194600,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "who, who's done what spreads\nthroughout the group really quickly."
+    } ]
+  }, {
+    "tStartMs": 197040,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "So in a way that is a kind of gossiping\nbut with a very specific purpose."
+    } ]
+  }, {
+    "tStartMs": 202120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So yeah, animals communicate\nin like much more complex ways"
+    } ]
+  }, {
+    "tStartMs": 205400,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "than I think we kind of assume."
+    } ]
+  }, {
+    "tStartMs": 207480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yeah, I love that. I want to know\nwhat the monkeys are gossiping about."
+    } ]
+  }, {
+    "tStartMs": 210480,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Yeah.\nHow is our understanding"
+    } ]
+  }, {
+    "tStartMs": 213320,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "of animal communication changed\nthroughout the years?"
+    } ]
+  }, {
+    "tStartMs": 216360,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "So when we\nfirst sort of analysed animal noises,"
+    } ]
+  }, {
+    "tStartMs": 220880,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "we thought that they were just kind\nof emotions spilling out,"
+    } ]
+  }, {
+    "tStartMs": 224160,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "but everything sort of changed\nin the 50s through to the 80s,"
+    } ]
+  }, {
+    "tStartMs": 228840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "where basically after World War Two,\nmicrophone technology massively improved"
+    } ]
+  }, {
+    "tStartMs": 233400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "and suddenly we could record animals"
+    } ]
+  }, {
+    "tStartMs": 237120,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "and essentially\nwe could play back these recordings"
+    } ]
+  }, {
+    "tStartMs": 241320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "to other members of the species\nand see how they respond."
+    } ]
+  }, {
+    "tStartMs": 245600,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And then more recently,\neverything has changed again with AI,"
+    } ]
+  }, {
+    "tStartMs": 249080,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "because suddenly we can analyse huge,\nhuge data sets of audio"
+    } ]
+  }, {
+    "tStartMs": 254400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "so much faster\nthan just humans could."
+    } ]
+  }, {
+    "tStartMs": 257840,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And we can spot complex patterns using\nAI that we humans would probably miss."
+    } ]
+  }, {
+    "tStartMs": 263000,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Yeah. So let's talk a little bit more\nabout AI's use in all this."
+    } ]
+  }, {
+    "tStartMs": 266680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "People are trying to use AI to talk\nto animals, right?"
+    } ]
+  }, {
+    "tStartMs": 270040,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Yeah. My favorite example is\nthe CETI project,"
+    } ]
+  }, {
+    "tStartMs": 274080,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "which stands for\nthe Cetacean Translation Initiative,"
+    } ]
+  }, {
+    "tStartMs": 277760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "where scientists are studying a big\ngroup of sperm whales in the Caribbean."
+    } ]
+  }, {
+    "tStartMs": 282640,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "OK, so, Caroline,\nlet's pause right there for a second"
+    } ]
+  }, {
+    "tStartMs": 285720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "because we have a clip\nfrom someone from the CETI project."
+    } ]
+  }, {
+    "tStartMs": 288840,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "So let's have a listen."
+    } ]
+  }, {
+    "tStartMs": 290120,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "We are a large scale interspecies\ncommunication initiative working"
+    } ]
+  }, {
+    "tStartMs": 295040,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "to use advanced robotics\nand artificial intelligence"
+    } ]
+  }, {
+    "tStartMs": 299320,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "to translate the communication system\nof sperm whales."
+    } ]
+  }, {
+    "tStartMs": 303440,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "We think that using AI to translate\nanimal voices is the singular,"
+    } ]
+  }, {
+    "tStartMs": 309160,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "most important use of artificial\nintelligence in our lifetime."
+    } ]
+  }, {
+    "tStartMs": 313440,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I love sperm whales, and we've\nbeen studying them for a long time"
+    } ]
+  }, {
+    "tStartMs": 316680,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and studying the sounds\nthat they make."
+    } ]
+  }, {
+    "tStartMs": 318800,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So they produce clicks to communicate\nwith each other and to hunt."
+    } ]
+  }, {
+    "tStartMs": 323360,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And we had been studying these clicks"
+    } ]
+  }, {
+    "tStartMs": 326600,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and basically breaking them down\nas humans into what we call codas,"
+    } ]
+  }, {
+    "tStartMs": 330080,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "which are basically kind of groups\nof patterns of clicks."
+    } ]
+  }, {
+    "tStartMs": 332800,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So a coda might just be like,\nclick, click, click, click."
+    } ]
+  }, {
+    "tStartMs": 335840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "That could be a coda.\nAnd then we've got AI involved now"
+    } ]
+  }, {
+    "tStartMs": 339440,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "where basically we now have thousands\nof hours of audio"
+    } ]
+  }, {
+    "tStartMs": 342200,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "from these sperm whales\nand sort of have said to AI, right,"
+    } ]
+  }, {
+    "tStartMs": 346880,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "OK, look for patterns. And AI has found\ncodas like we did. We found 21 codas;"
+    } ]
+  }, {
+    "tStartMs": 353720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "AI has now found 156 codas."
+    } ]
+  }, {
+    "tStartMs": 356120,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "So it's basically spotted\nfar more kind of repeating patterns"
+    } ]
+  }, {
+    "tStartMs": 361040,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "than humans were able to,\nwhich is pretty exciting."
+    } ]
+  }, {
+    "tStartMs": 363720,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "AI has also identified things like the\nspeed and tempo of codas can change."
+    } ]
+  }, {
+    "tStartMs": 369360,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So some whales go like click,\nclick, click, click."
+    } ]
+  }, {
+    "tStartMs": 372400,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "But then later they might go click,\nclick, click, click, um, which is"
+    } ]
+  }, {
+    "tStartMs": 375360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "something we hadn't picked up on. And\nwe don't know that this is the case,"
+    } ]
+  }, {
+    "tStartMs": 378800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "but maybe that's a different way\nof saying the same thing."
+    } ]
+  }, {
+    "tStartMs": 382240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So maybe it's like the difference\nbetween me going to you, what!"
+    } ]
+  }, {
+    "tStartMs": 385600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "or like, what?\nSo it could be something like that."
+    } ]
+  }, {
+    "tStartMs": 389040,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 389480,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And then AI has also split up codas\ninto smaller groups,"
+    } ]
+  }, {
+    "tStartMs": 393840,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "which scientists are kind of comparing\nto the phonetic alphabet in humans."
+    } ]
+  }, {
+    "tStartMs": 397920,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So these kind of smaller groups\nthat don't mean anything on their own"
+    } ]
+  }, {
+    "tStartMs": 400800,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "but add together potentially\nto create meaning."
+    } ]
+  }, {
+    "tStartMs": 402880,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So it's kind of AI has basically\nshown us that sperm whale clicks look"
+    } ]
+  }, {
+    "tStartMs": 407000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "much more similar to human language\nthan we thought, before"
+    } ]
+  }, {
+    "tStartMs": 410200,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "we had this incredible tool\nto study it in more detail."
+    } ]
+  }, {
+    "tStartMs": 413280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And so is this a new thing\nor when did it start?"
+    } ]
+  }, {
+    "tStartMs": 416480,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Well, we've been\nkind of using computers"
+    } ]
+  }, {
+    "tStartMs": 420040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "to understand animal calls\nfor a long time."
+    } ]
+  }, {
+    "tStartMs": 422280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "A lot changed in the 2000s, when basically\nwe could record things digitally,"
+    } ]
+  }, {
+    "tStartMs": 426720,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "so suddenly\nwe could record thousands of hours"
+    } ]
+  }, {
+    "tStartMs": 429440,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "of animal calls,\nwhich we couldn't do before."
+    } ]
+  }, {
+    "tStartMs": 431720,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And we've been using computers\nto analyse them."
+    } ]
+  }, {
+    "tStartMs": 434400,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And by that,\nI just basically mean take the sounds"
+    } ]
+  }, {
+    "tStartMs": 437320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "out of potentially thousands\nof hours of silence,"
+    } ]
+  }, {
+    "tStartMs": 440280,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "which would take scientists\na really long time."
+    } ]
+  }, {
+    "tStartMs": 442920,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "But a big shift happened in\nabout 2015 when we started using AI."
+    } ]
+  }, {
+    "tStartMs": 447640,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So not that long ago, you know,\nwe're looking at about ten years ago."
+    } ]
+  }, {
+    "tStartMs": 450680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So not only can AI find the noises"
+    } ]
+  }, {
+    "tStartMs": 454120,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "in thousands of hours of silence,\nbut they can also take,"
+    } ]
+  }, {
+    "tStartMs": 458280,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "it can also take calls out of noise."
+    } ]
+  }, {
+    "tStartMs": 460840,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So where maybe we wouldn't have heard a\nwhale call over the sound of an engine."
+    } ]
+  }, {
+    "tStartMs": 465040,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "An AI can find that call,\nwhich is quite exciting."
+    } ]
+  }, {
+    "tStartMs": 468720,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Also, what I think is really exciting\nis AI can analyse animal calls"
+    } ]
+  }, {
+    "tStartMs": 473040,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "or animal sounds that we can't hear."
+    } ]
+  }, {
+    "tStartMs": 475760,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So sounds that say come out of bats\nor elephants."
+    } ]
+  }, {
+    "tStartMs": 479960,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "You know, we can't sit there in a lab"
+    } ]
+  }, {
+    "tStartMs": 482000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and listen and break down these\nsounds and work out what they are."
+    } ]
+  }, {
+    "tStartMs": 484600,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "But AI can. It unlocks a whole section\nof animals"
+    } ]
+  }, {
+    "tStartMs": 489320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "that we as humans\non our own can't understand."
+    } ]
+  }, {
+    "tStartMs": 492280,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I'm wondering,\nis this more about listening?"
+    } ]
+  }, {
+    "tStartMs": 494760,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "The tech that we've got at the moment\nwith AI is helping us listen rather"
+    } ]
+  }, {
+    "tStartMs": 498320,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "than talk to animals?\nAre we there yet?"
+    } ]
+  }, {
+    "tStartMs": 500520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Yeah. So at the moment, I would say\nAI is sort of doing more listening."
+    } ]
+  }, {
+    "tStartMs": 503760,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "It's analysing calls\nand trying to find patterns"
+    } ]
+  }, {
+    "tStartMs": 507160,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "that can help us understand behaviour."
+    } ]
+  }, {
+    "tStartMs": 509640,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So say, for example,\nwith whales, you notice, OK,"
+    } ]
+  }, {
+    "tStartMs": 512480,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I hear this series of clicks\nquite often."
+    } ]
+  }, {
+    "tStartMs": 515560,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "It's then also giving AI videos\nof whale behaviour"
+    } ]
+  }, {
+    "tStartMs": 520160,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "so it can map different clicks\nto different whale behaviours."
+    } ]
+  }, {
+    "tStartMs": 524280,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "Then once we've got that,\nwhat we could do is\nstart playing clicks back to whales"
+    } ]
+  }, {
+    "tStartMs": 530000,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and seeing if they behave differently\naccording to what the click is."
+    } ]
+  }, {
+    "tStartMs": 534040,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So say, for example,\nmaybe we work out that this pattern"
+    } ]
+  }, {
+    "tStartMs": 537600,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "of clicks means, danger, there's\na boat approaching or something."
+    } ]
+  }, {
+    "tStartMs": 540840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "If we play those clicks\nto a pod of whales,"
+    } ]
+  }, {
+    "tStartMs": 544320,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "do they then behave\nas we expect them to?"
+    } ]
+  }, {
+    "tStartMs": 546520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And that, I would say then kind of\nbecomes more like talking, right?"
+    } ]
+  }, {
+    "tStartMs": 550080,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Rather than just listening.\nSo that's kind of the hope."
+    } ]
+  }, {
+    "tStartMs": 552240,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Those are the next steps.\nYeah, that's really interesting."
+    } ]
+  }, {
+    "tStartMs": 554600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What would you say if you could talk\nto a whale?"
+    } ]
+  }, {
+    "tStartMs": 557600,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I don't know. So many things!\nI think I'd say,"
+    } ]
+  }, {
+    "tStartMs": 560080,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "sorry, we've done such a bad job\nof looking after you in the past."
+    } ]
+  }, {
+    "tStartMs": 564240,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And I think I'd also say, you know,\nwatch out."
+    } ]
+  }, {
+    "tStartMs": 566480,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "You know, not all the waters are\nsafe. Um, don't eat plastic."
+    } ]
+  }, {
+    "tStartMs": 570880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "It'd be quite\na depressing conversation, really."
+    } ]
+  }, {
+    "tStartMs": 573680,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I feel like that would be\nthe best thing to say."
+    } ]
+  }, {
+    "tStartMs": 575600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And that kind of,\nit's made me think a little bit"
+    } ]
+  }, {
+    "tStartMs": 578000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "about this power to talk to animals\nand whether it's always a good thing."
+    } ]
+  }, {
+    "tStartMs": 582320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Obviously, we've heard about the\ndifferent communication styles, um,"
+    } ]
+  }, {
+    "tStartMs": 586400,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "the way AI is being used sometimes,"
+    } ]
+  }, {
+    "tStartMs": 588840,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "but I guess there's must be some\ndownsides to this as well, right?"
+    } ]
+  }, {
+    "tStartMs": 593040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Yeah, I guess it depends\nhow we use it, right?"
+    } ]
+  }, {
+    "tStartMs": 596160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And I guess this is where we need\nto sort of think about regulation and"
+    } ]
+  }, {
+    "tStartMs": 599600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "what we do with assuming we develop\nskills to better understand animals"
+    } ]
+  }, {
+    "tStartMs": 603920,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "in the future,\nwhat we do with that information."
+    } ]
+  }, {
+    "tStartMs": 606800,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Because I think that is a that is\na difficult one because"
+    } ]
+  }, {
+    "tStartMs": 608920,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "it could lead\nin completely opposite directions."
+    } ]
+  }, {
+    "tStartMs": 611240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It might lead to better whale\nconservation throughout the whole world."
+    } ]
+  }, {
+    "tStartMs": 614760,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And suddenly they're back to how\nthey were when they were thriving."
+    } ]
+  }, {
+    "tStartMs": 618080,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Or it could lead to some countries,\nyou know, luring whales into a corner"
+    } ]
+  }, {
+    "tStartMs": 622920,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and hunting them.\nI guess I'm optimistic."
+    } ]
+  }, {
+    "tStartMs": 625280,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And I hope as humans, we would be\nresponsible with this communication"
+    } ]
+  }, {
+    "tStartMs": 628720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "or this listening power\nand do it for good."
+    } ]
+  }, {
+    "tStartMs": 631840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "We're definitely getting an idea of\nall the different nuances and sides"
+    } ]
+  }, {
+    "tStartMs": 635520,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "to to all of this.\nBut looking ahead to the future,"
+    } ]
+  }, {
+    "tStartMs": 637960,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "what do you think will be next for\nthis animal communication technology?"
+    } ]
+  }, {
+    "tStartMs": 642920,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "What could we see happen?"
+    } ]
+  }, {
+    "tStartMs": 644360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "I'm not sure we will ever get to a kind\nof instant translation type thing,"
+    } ]
+  }, {
+    "tStartMs": 649240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "where you have an app on your phone\nand you stick it in the water"
+    } ]
+  }, {
+    "tStartMs": 651360,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and you're like, OK,\nthis whale says, what's for dinner?"
+    } ]
+  }, {
+    "tStartMs": 653760,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "I don't think that's going to happen,\nBut I think we will end up with"
+    } ]
+  }, {
+    "tStartMs": 657880,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "a much better understanding of the kinds\nof things animals communicate about,"
+    } ]
+  }, {
+    "tStartMs": 662880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "because AI is just,\nit's basically helping us do"
+    } ]
+  }, {
+    "tStartMs": 666120,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "what we were doing before\nin terms of looking for patterns,"
+    } ]
+  }, {
+    "tStartMs": 668480,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "but so much faster.\nCaroline, thank you so much."
+    } ]
+  }, {
+    "tStartMs": 671800,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Thank you.\nThat's almost it from us."
+    } ]
+  }, {
+    "tStartMs": 673880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But I'm wondering if you guys\ncould talk to an animal, any animal,"
+    } ]
+  }, {
+    "tStartMs": 677600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "maybe your own pet.\nWhat would you ask it?"
+    } ]
+  }, {
+    "tStartMs": 680000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Make sure you comment below.\nLike and subscribe."
+    } ]
+  }, {
+    "tStartMs": 683200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And before we go, I wanted to shout out\nsome of the messages you've been leaving"
+    } ]
+  }, {
+    "tStartMs": 686600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "on our YouTube video all about\nTimothee Chalamet throwing shade"
+    } ]
+  }, {
+    "tStartMs": 690600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "towards the ballet\nand opera communities."
+    } ]
+  }, {
+    "tStartMs": 693360,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Uh, it's had a bunch of comments."
+    } ]
+  }, {
+    "tStartMs": 695280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Julia says\nshe's a ballet dancer in Milan"
+    } ]
+  }, {
+    "tStartMs": 698280,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and says ballet has been growing\nfor years."
+    } ]
+  }, {
+    "tStartMs": 700680,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "She says it's because of social media"
+    } ]
+  }, {
+    "tStartMs": 702680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and she wants\nballet to be even more accessible."
+    } ]
+  }, {
+    "tStartMs": 705560,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Thank you so much for that one,\nJulia. But for now, I'm Iqra,"
+    } ]
+  }, {
+    "tStartMs": 709000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "this is What in the World\nfrom the BBC World Service,"
+    } ]
+  }, {
+    "tStartMs": 711600,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and I'll see you guys soon."
+    } ]
+  } ]
+}

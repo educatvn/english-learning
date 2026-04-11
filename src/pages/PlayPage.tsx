@@ -27,7 +27,6 @@ export default function PlayPage() {
   const { user } = useAuth();
 
   const playerRef = useRef<HTMLVideoElement>(null);
-  const activeCueRef = useRef<HTMLButtonElement>(null);
   const didSeekRef = useRef(false);
   const durationMsStateRef = useRef(0);
 
@@ -160,10 +159,6 @@ export default function PlayPage() {
   const liveCueIdx = liveCue ? cues.indexOf(liveCue) : -1;
   const activeCueIdx = pinnedCueIdx !== null ? pinnedCueIdx : liveCueIdx;
   const activeCue = cues[activeCueIdx] ?? null;
-
-  useEffect(() => {
-    activeCueRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-  }, [activeCueIdx]);
 
   // ── Cue navigation ───────────────────────────────────────────────────────
   function playCueAt(idx: number) {
@@ -322,6 +317,13 @@ export default function PlayPage() {
               onPlay={() => {
                 disableYTCaptions();
                 setPlaying(true);
+                // If playback resumed without an active cue stop window, the
+                // pin is stale (e.g. previous-cue finished, then user clicked
+                // video to resume). Clear it so live cue tracking resumes.
+                if (stopAtMsRef.current === null && pinnedCueIdxRef.current !== null) {
+                  setPinnedCueIdx(null);
+                  pinnedCueIdxRef.current = null;
+                }
                 watchTime.onPlay();
                 videoProgress.onPlay();
               }}
@@ -348,12 +350,14 @@ export default function PlayPage() {
             {/* Caption overlay — desktop only */}
             {activeCue && captionsVisible && (
               <div
-                className="absolute bottom-10 left-0 right-0 hidden md:flex justify-center px-4"
+                className="absolute bottom-10 left-0 right-0 hidden md:flex justify-center px-4 pointer-events-none"
                 style={{ zIndex: 10 }}
-                onMouseEnter={handleOverlayMouseEnter}
-                onMouseLeave={handleOverlayMouseLeave}
               >
-                <span className="bg-black/80 text-white text-5xl font-semibold px-6 py-3 rounded text-center leading-snug max-w-4xl">
+                <span
+                  className="bg-black/80 text-white text-5xl font-semibold px-6 py-3 rounded text-center leading-snug max-w-4xl pointer-events-auto"
+                  onMouseEnter={handleOverlayMouseEnter}
+                  onMouseLeave={handleOverlayMouseLeave}
+                >
                   {overlayMasked ?? <CueText text={activeCue.text} onWordClick={handleWordClick} savedWords={vocabWords} dark />}
                 </span>
               </div>

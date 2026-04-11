@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { LogOut, BarChart2, Shield, StickyNote, BookOpen } from 'lucide-react';
+import { LogOut, BarChart2, Shield, StickyNote, BookOpen, ClipboardCheck } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { useAuth } from '@/context/AuthContext';
 
@@ -68,6 +68,14 @@ export function UserButton() {
           >
             <BookOpen className="w-3.5 h-3.5" />
             My Vocabulary
+          </Link>
+          <Link
+            to="/plans"
+            onClick={() => setOpen(false)}
+            className="w-full flex items-center gap-2 px-3 py-2 text-xs hover:bg-accent transition-colors text-muted-foreground hover:text-foreground"
+          >
+            <ClipboardCheck className="w-3.5 h-3.5" />
+            My Plans
           </Link>
 
           <div className="border-t border-border my-1" />

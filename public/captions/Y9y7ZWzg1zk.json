@@ -1,0 +1,1735 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 40,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "When I first heard that comment,\nI honestly just wanted to be like,"
+    } ]
+  }, {
+    "tStartMs": 3000,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "'Hey, come to the ballet."
+    } ]
+  }, {
+    "tStartMs": 5120,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Like come backstage,\ncome see our rehearsal process."
+    } ]
+  }, {
+    "tStartMs": 8800,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Come see the magic\nbehind the scenes of it all,'"
+    } ]
+  }, {
+    "tStartMs": 10960,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "because it really is just one\nof the greatest art forms out there."
+    } ]
+  }, {
+    "tStartMs": 15000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "It's important to note that this isn't\njust exclusive to ballet and opera."
+    } ]
+  }, {
+    "tStartMs": 18800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "We're also seeing a downturn\nacross entertainment more generally."
+    } ]
+  }, {
+    "tStartMs": 22400,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Could this be the most unexpected\ncelebrity beef of 2026?"
+    } ]
+  }, {
+    "tStartMs": 27000,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "It's not Brooklyn\nversus the Beckhams."
+    } ]
+  }, {
+    "tStartMs": 29080,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "It's not Ashley Tisdale\nversus the mum group."
+    } ]
+  }, {
+    "tStartMs": 32000,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "It's Timothée Chalamet versus\nthe ballet and opera communities."
+    } ]
+  }, {
+    "tStartMs": 36360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "He was doing a bunch of interviews\nin the run up to the Oscars,"
+    } ]
+  }, {
+    "tStartMs": 39240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and in one of them, he says, I quote,\n\"I don't want to be working in ballet"
+    } ]
+  }, {
+    "tStartMs": 43560,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "or opera or things where it's like,\nhey, keep this thing alive."
+    } ]
+  }, {
+    "tStartMs": 46760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Even though it's like,\nno one cares about this anymore.\""
+    } ]
+  }, {
+    "tStartMs": 49440,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And he was talking about it in the\ncontext of why he loves film so much,"
+    } ]
+  }, {
+    "tStartMs": 53080,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but it got quite a reaction.\nIt went viral."
+    } ]
+  }, {
+    "tStartMs": 56000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And it did also get us thinking,\ndoes he have a point here?"
+    } ]
+  }, {
+    "tStartMs": 59040,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Do people care about ballet\nand opera?"
+    } ]
+  }, {
+    "tStartMs": 61400,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "That's what we're going\nto be chatting about today. I'm Iqra,"
+    } ]
+  }, {
+    "tStartMs": 64160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "this is What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 69520,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Okay, so let's get into it."
+    } ]
+  }, {
+    "tStartMs": 71320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I've got Chelsea from the What\nin the World team right here with me."
+    } ]
+  }, {
+    "tStartMs": 74320,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Hey, Chelsea. Hey, Iqra. Okay,\nso let's just get straight into it."
+    } ]
+  }, {
+    "tStartMs": 78680,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Timothée taking shots\nat ballet and opera."
+    } ]
+  }, {
+    "tStartMs": 81760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Let's start with opera first.\nIs the opera industry struggling?"
+    } ]
+  }, {
+    "tStartMs": 86480,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So it seems like it might be at least\nin the US where Timothy is based."
+    } ]
+  }, {
+    "tStartMs": 90600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So Opera America,\nthey're a non-profit organisation"
+    } ]
+  }, {
+    "tStartMs": 93960,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and they gather data about opera both\nin the US and in Canada."
+    } ]
+  }, {
+    "tStartMs": 97600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And their latest data shows\nthat audience numbers"
+    } ]
+  }, {
+    "tStartMs": 100400,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "for most US performances still hasn't\ngone back to pre-pandemic levels."
+    } ]
+  }, {
+    "tStartMs": 104200,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So they're still struggling\nto get back to getting people"
+    } ]
+  }, {
+    "tStartMs": 106880,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "in seats as much as they were\nbefore Covid."
+    } ]
+  }, {
+    "tStartMs": 109720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "We're also seeing\nthat lots of major opera houses"
+    } ]
+  }, {
+    "tStartMs": 112120,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "in the US are struggling\nto get bums on seats."
+    } ]
+  }, {
+    "tStartMs": 114800,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So the New York Metropolitan Opera,"
+    } ]
+  }, {
+    "tStartMs": 117160,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "that's one of the biggest\nopera houses in the world,"
+    } ]
+  }, {
+    "tStartMs": 120320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "they have announced a round\nof layoffs and pay cuts,"
+    } ]
+  }, {
+    "tStartMs": 124360,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and also they've reduced\ntheir programmes, so they've reduced"
+    } ]
+  }, {
+    "tStartMs": 126640,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "the number of performances\nthat they have in a year."
+    } ]
+  }, {
+    "tStartMs": 128960,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "They've actually got the smallest\nnumber of performances in a year"
+    } ]
+  }, {
+    "tStartMs": 131040,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "that they've had in 60 years, and\nthat's because they're struggling."
+    } ]
+  }, {
+    "tStartMs": 133880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So their funding has actually reduced\nby around a third since 2022."
+    } ]
+  }, {
+    "tStartMs": 138120,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So you could say that\nat least in the US, opera does seem\nto be struggling right now."
+    } ]
+  }, {
+    "tStartMs": 142520,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Okay, so that's opera.\nThe other side of this is ballet."
+    } ]
+  }, {
+    "tStartMs": 146400,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "That world didn't go unscathed\nin his comments either."
+    } ]
+  }, {
+    "tStartMs": 149680,
+    "dDurationMs": 360,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 150040,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "What about ballet?\nWhat are things like there?"
+    } ]
+  }, {
+    "tStartMs": 152560,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So the data for ballet\nis also showing a similar picture\nto what I talked about for opera."
+    } ]
+  }, {
+    "tStartMs": 157520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So there's an organisation in the US\ncalled the National Endowment for Arts."
+    } ]
+  }, {
+    "tStartMs": 161680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And they've shown every five years they\ndo a survey of people that are going"
+    } ]
+  }, {
+    "tStartMs": 165960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "to the arts to kind of see what their\nopinion on the arts and culture is."
+    } ]
+  }, {
+    "tStartMs": 169960,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And they found\nthat there's been a reduction"
+    } ]
+  }, {
+    "tStartMs": 172560,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "in people going to live\nballet performances since 1982."
+    } ]
+  }, {
+    "tStartMs": 177880,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "There's been a reduction of\nabout 52%."
+    } ]
+  }, {
+    "tStartMs": 180360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And it's not just in the US. We're\nalso seeing that in Australia, too."
+    } ]
+  }, {
+    "tStartMs": 183480,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "So in 2007, over a million people went\nto see ballet and dance performances -"
+    } ]
+  }, {
+    "tStartMs": 189400,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "that over the course of ten years\nhas gone down to around 800000."
+    } ]
+  }, {
+    "tStartMs": 194320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And it still hasn't returned to\nthat million mark since the pandemic."
+    } ]
+  }, {
+    "tStartMs": 197440,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So ballet is also seeing a downturn\nin audiences."
+    } ]
+  }, {
+    "tStartMs": 201320,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Okay, so not good news for ballet and\nopera at the moment, it's looking like."
+    } ]
+  }, {
+    "tStartMs": 206480,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "It sounds like they are struggling\nfinancially. Why is that?"
+    } ]
+  }, {
+    "tStartMs": 209760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So there's lots\nof reasons in the mix there."
+    } ]
+  }, {
+    "tStartMs": 211920,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "One of the main ones, though,\nwhich anyone who has gone to a ballet"
+    } ]
+  }, {
+    "tStartMs": 215320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "or opera performance might know is the\nfact that it is pretty expensive to go."
+    } ]
+  }, {
+    "tStartMs": 219720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So I mentioned Opera America earlier."
+    } ]
+  }, {
+    "tStartMs": 222320,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "They said one of the top factors\nthat they got from audiences"
+    } ]
+  }, {
+    "tStartMs": 224920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "when they did a survey saying,\n'Why don't you come back more often?'"
+    } ]
+  }, {
+    "tStartMs": 228440,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Especially when they ask people\nwho are new to opera"
+    } ]
+  }, {
+    "tStartMs": 230920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "was that the ticket price\nwas too high?"
+    } ]
+  }, {
+    "tStartMs": 233720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So depending on where you sit\nin the auditorium, it can differ."
+    } ]
+  }, {
+    "tStartMs": 237800,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "But sometimes even for seats that\nare really high up, you can be paying\nreally expensive prices."
+    } ]
+  }, {
+    "tStartMs": 241920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So that can feed into making opera"
+    } ]
+  }, {
+    "tStartMs": 244000,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and ballet feel inaccessible\nfor a lot of people."
+    } ]
+  }, {
+    "tStartMs": 247280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "It's often been seen as kind\nof the reserve of the wealthy."
+    } ]
+  }, {
+    "tStartMs": 250760,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "It has a reputation\nof being quite exclusive."
+    } ]
+  }, {
+    "tStartMs": 252880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Some people refer to it as highbrow\nor highbrow culture, high art."
+    } ]
+  }, {
+    "tStartMs": 257680,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And that kind\nof gives this impression"
+    } ]
+  }, {
+    "tStartMs": 259720,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "that it's not for everyone or\nsome people feel that way at least."
+    } ]
+  }, {
+    "tStartMs": 263880,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "So all of that feeds into kind of\nmaking opera feel exclusive"
+    } ]
+  }, {
+    "tStartMs": 269040,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and maybe not making it feel\naccessible for a wide audience,"
+    } ]
+  }, {
+    "tStartMs": 271720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "which doesn't really bring in\nhuge numbers and kind of feeds"
+    } ]
+  }, {
+    "tStartMs": 274840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "into its financial struggles\nsometimes."
+    } ]
+  }, {
+    "tStartMs": 277560,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But another factor is\nthe financial model,"
+    } ]
+  }, {
+    "tStartMs": 280680,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "or rather the funding model for opera\nand ballet."
+    } ]
+  }, {
+    "tStartMs": 283440,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So this goes back to\nwhen ballet started."
+    } ]
+  }, {
+    "tStartMs": 286000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "If we take that as the main example,\nike in the 1400s in Europe,"
+    } ]
+  }, {
+    "tStartMs": 289840,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "in the Renaissance period, ballet\nwas mainly funded by the Royal Court,"
+    } ]
+  }, {
+    "tStartMs": 295320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and that was\na system called patronage."
+    } ]
+  }, {
+    "tStartMs": 297600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So nobles and the upper classes\nof the time would fund ballet"
+    } ]
+  }, {
+    "tStartMs": 302560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "because it was a relatively new art\nform then, and get ballerinas to come"
+    } ]
+  }, {
+    "tStartMs": 306560,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and perform into their courtiers\nfor these big fancy parties."
+    } ]
+  }, {
+    "tStartMs": 310200,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So it was like a kind\nof show off thing, you know, like,"
+    } ]
+  }, {
+    "tStartMs": 313040,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "'Come in to the court to my huge,\nglamorous party"
+    } ]
+  }, {
+    "tStartMs": 315240,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and I'm going to show you this new art\nform that you've never heard of before.'"
+    } ]
+  }, {
+    "tStartMs": 317760,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "It was a way to impress people. But\nyou still hear about patrons today."
+    } ]
+  }, {
+    "tStartMs": 321640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "If you go to the opera\nor to see a ballet performance,"
+    } ]
+  }, {
+    "tStartMs": 324520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "often you'll see kind of the names\nof patrons etched into the wall."
+    } ]
+  }, {
+    "tStartMs": 327960,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "And they're the huge donors that keep\nopera houses and ballet,"
+    } ]
+  }, {
+    "tStartMs": 332600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "ballet performances going.\nSo in the US,"
+    } ]
+  }, {
+    "tStartMs": 335560,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "for example,\nif you look at the portion of income,"
+    } ]
+  }, {
+    "tStartMs": 338960,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "so how opera is funded, box office\nrevenue, so that's the amount of money"
+    } ]
+  }, {
+    "tStartMs": 342720,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "that they're making from the sale\nof tickets was around 22% for 2024."
+    } ]
+  }, {
+    "tStartMs": 347640,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "The amount that they were getting\nfrom private donors"
+    } ]
+  }, {
+    "tStartMs": 349720,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "was around over half their income\nfor that year."
+    } ]
+  }, {
+    "tStartMs": 353240,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So that really shows\nthe big role that donors play."
+    } ]
+  }, {
+    "tStartMs": 355840,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "And also you're getting funding\nfrom the government."
+    } ]
+  }, {
+    "tStartMs": 357680,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So when there's economic downturns,"
+    } ]
+  }, {
+    "tStartMs": 360040,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "when that funding is cut off,\nit means that it's hard for opera"
+    } ]
+  }, {
+    "tStartMs": 364160,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and ballet to adapt because they can't\nreally rely as much on audience income."
+    } ]
+  }, {
+    "tStartMs": 369360,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "But it's important to note\nthat this isn't just exclusive\nto ballet and opera."
+    } ]
+  }, {
+    "tStartMs": 373560,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "We're also seeing a downturn\nacross entertainment more generally."
+    } ]
+  }, {
+    "tStartMs": 377200,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So if we talk about cinema, seeing\nas that's what Timothée is working"
+    } ]
+  }, {
+    "tStartMs": 381880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "in, back in 2024,"
+    } ]
+  }, {
+    "tStartMs": 385600,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "we saw a downturn in people buying\ntickets for the cinema of about 8.8%,"
+    } ]
+  }, {
+    "tStartMs": 389880,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "according to\nthe European Audiovisual Observatory."
+    } ]
+  }, {
+    "tStartMs": 393920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And we're also seeing a downturn\nin huge markets across the world."
+    } ]
+  }, {
+    "tStartMs": 396720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So in China,\nfor example, there was a downturn of"
+    } ]
+  }, {
+    "tStartMs": 399960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "22% in audiences going to the cinema."
+    } ]
+  }, {
+    "tStartMs": 402960,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So this is not just exclusive\nto opera and ballet."
+    } ]
+  }, {
+    "tStartMs": 406200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's happening\nacross the entertainment industry."
+    } ]
+  }, {
+    "tStartMs": 409200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "But there's the other side\nto this where,"
+    } ]
+  }, {
+    "tStartMs": 411440,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "you know, people are reacting,\ncommenting on social,"
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "it's gone mega-viral and saying,\n'Ballet and opera are alive and kicking."
+    } ]
+  }, {
+    "tStartMs": 418240,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "They're very well,\nthank you, Timothée Chalamet."
+    } ]
+  }, {
+    "tStartMs": 421200,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "What have you seen about that?"
+    } ]
+  }, {
+    "tStartMs": 422960,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Yeah, I've definitely seen a lot\nof that too."
+    } ]
+  }, {
+    "tStartMs": 424600,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "I even saw one opera house\nwas giving its audiences a discount"
+    } ]
+  }, {
+    "tStartMs": 429520,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "just in the name of of\nTimothée's comments over the weekend."
+    } ]
+  }, {
+    "tStartMs": 432720,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Making the most of it.\nMaking the most of it."
+    } ]
+  }, {
+    "tStartMs": 434160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Exactly. A lot of people are using it\nas a way of getting more promo"
+    } ]
+  }, {
+    "tStartMs": 436960,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "for their current programmes or\nperformances that are on at the moment."
+    } ]
+  }, {
+    "tStartMs": 440280,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But even before Timothée said this\nabout ballet and opera,"
+    } ]
+  }, {
+    "tStartMs": 443560,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I was seeing a lot\nof discussion on social media"
+    } ]
+  }, {
+    "tStartMs": 445600,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "about classical music and opera,"
+    } ]
+  }, {
+    "tStartMs": 447920,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "especially because of\nRosalia's new album, Lux."
+    } ]
+  }, {
+    "tStartMs": 450880,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "So her album before this one was\nvery kind of reggaeton inspired."
+    } ]
+  }, {
+    "tStartMs": 454680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "It has a lot of elements, but people\nwere really surprised by this new album"
+    } ]
+  }, {
+    "tStartMs": 458280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "because it's a complete left turn\nfrom that."
+    } ]
+  }, {
+    "tStartMs": 461280,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So she worked\nwith the London Symphony Orchestra,"
+    } ]
+  }, {
+    "tStartMs": 464560,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and she sings\nin a very kind of operatic style"
+    } ]
+  }, {
+    "tStartMs": 467400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "in more than\naround 13 languages, I think."
+    } ]
+  }, {
+    "tStartMs": 471040,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "So it's not exactly screaming\naccessible pop hits kind of top 40."
+    } ]
+  }, {
+    "tStartMs": 475640,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "However, it got to number seven\non the global Spotify chart,"
+    } ]
+  }, {
+    "tStartMs": 479160,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and the BBC spoke to TikTok\nabout the amount of kind of views"
+    } ]
+  }, {
+    "tStartMs": 482760,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "that those videos,\nusing big songs from the album,"
+    } ]
+  }, {
+    "tStartMs": 485280,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "like La Perla\nand Berghain were getting."
+    } ]
+  }, {
+    "tStartMs": 488200,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And they got\naround three billion views."
+    } ]
+  }, {
+    "tStartMs": 490800,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "That was back in November last year\nwhen it was released."
+    } ]
+  }, {
+    "tStartMs": 493560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So classical music is getting\ninterest from a range of audiences,"
+    } ]
+  }, {
+    "tStartMs": 497960,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "especially young ones, people that\nare listening to Rosalia, at least."
+    } ]
+  }, {
+    "tStartMs": 502080,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So ballet is also seeing a bit\nof a resurgence,"
+    } ]
+  }, {
+    "tStartMs": 504920,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "especially in countries\nlike South Korea."
+    } ]
+  }, {
+    "tStartMs": 507160,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So data from the Korea Performing\nArts Box Office Information System"
+    } ]
+  }, {
+    "tStartMs": 511440,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "saw a 49.6% increase in people going\nto ballet performances."
+    } ]
+  }, {
+    "tStartMs": 516200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And they were also seeing an uptick\nin people going"
+    } ]
+  }, {
+    "tStartMs": 518400,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "to other events related to ballet."
+    } ]
+  }, {
+    "tStartMs": 520840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So one's kind of amateur performers,"
+    } ]
+  }, {
+    "tStartMs": 523560,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "and they think that this is linked\nto the ballet core trend in fashion."
+    } ]
+  }, {
+    "tStartMs": 528800,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So we've seen recently,\nthere's a lot of"
+    } ]
+  }, {
+    "tStartMs": 531360,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "different fashion houses releasing\ncollections inspired by ballet."
+    } ]
+  }, {
+    "tStartMs": 535040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So I don't know if you've seen\nKim Kardashian's Skims collection."
+    } ]
+  }, {
+    "tStartMs": 538400,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "It has Lisa from Blackpink in it,\nvery inspired by ballet."
+    } ]
+  }, {
+    "tStartMs": 541680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "We've also seen,\nI think Adidas and Puma,"
+    } ]
+  }, {
+    "tStartMs": 544640,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "they've released kind\nof ballet style flats,"
+    } ]
+  }, {
+    "tStartMs": 547160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "so ballet is having a big moment,\nat least in the fashion world, and"
+    } ]
+  }, {
+    "tStartMs": 550680,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "that's bleeding into making people more\ncurious about going to performances."
+    } ]
+  }, {
+    "tStartMs": 554000,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And so I think we're seeing kind of"
+    } ]
+  }, {
+    "tStartMs": 556040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "because ballet is getting more\npopular in pop culture and opera too,"
+    } ]
+  }, {
+    "tStartMs": 560920,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "for example, Rosalia,\nmore people are taking an interest"
+    } ]
+  }, {
+    "tStartMs": 564160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "in it and they want to go\nand experience it for themselves."
+    } ]
+  }, {
+    "tStartMs": 566480,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "I'm loving that idea of people going\nto the ballet for a night out."
+    } ]
+  }, {
+    "tStartMs": 571200,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Okay and we've been reaching out\nto people who love opera and ballet,"
+    } ]
+  }, {
+    "tStartMs": 574520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "so let's have a listen.\nWhen I first heard that comment,"
+    } ]
+  }, {
+    "tStartMs": 577080,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "I honestly just wanted to be like,\n'Hey, come to the ballet."
+    } ]
+  }, {
+    "tStartMs": 580800,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Like come backstage,\ncome see our rehearsal process,"
+    } ]
+  }, {
+    "tStartMs": 584480,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "come see the magic\nbehind the scenes of it all,'"
+    } ]
+  }, {
+    "tStartMs": 586680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "because it really is just one\nof the greatest art forms out there."
+    } ]
+  }, {
+    "tStartMs": 590760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Being in the art form, I know exactly\nhow much we put into our work every day."
+    } ]
+  }, {
+    "tStartMs": 595480,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "I do think it is still relevant\ntoday, especially in our times."
+    } ]
+  }, {
+    "tStartMs": 599720,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Times are difficult right now and\nthere's a lot happening in this world."
+    } ]
+  }, {
+    "tStartMs": 603240,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And sometimes just, you know,\ngo to a ballet, go to an opera."
+    } ]
+  }, {
+    "tStartMs": 607360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "As somebody who studies and works\nin the classical music industry."
+    } ]
+  }, {
+    "tStartMs": 610560,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "I find his comments ridiculous."
+    } ]
+  }, {
+    "tStartMs": 612920,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Opera and ballet have set up the\nfoundation for modern musical arts."
+    } ]
+  }, {
+    "tStartMs": 617360,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "They're timeless. Productions\nare put on every single year."
+    } ]
+  }, {
+    "tStartMs": 620400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I made a video about this topic\nbecause I was so affected by it,"
+    } ]
+  }, {
+    "tStartMs": 623200,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and I got hundreds of comments from\nclassical musicians who were outraged."
+    } ]
+  }, {
+    "tStartMs": 626520,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It's comments such as this\nthat remind me why the arts need\nso much more backing than they get."
+    } ]
+  }, {
+    "tStartMs": 631520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I don't believe they're dying art forms.\nI think they're evolving art forms."
+    } ]
+  }, {
+    "tStartMs": 635040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I think in order\nfor art to stay relevant,"
+    } ]
+  }, {
+    "tStartMs": 637160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "we have to constantly evolve,\nthe same as film does."
+    } ]
+  }, {
+    "tStartMs": 639480,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "I believe that ballet and opera are\ntwo phenomenal art forms,"
+    } ]
+  }, {
+    "tStartMs": 643720,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "and I'm not just saying that because\nI work in ballet and closely to opera,"
+    } ]
+  }, {
+    "tStartMs": 647920,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "but because they're live art forms,\nthey're active, they're breathing,"
+    } ]
+  }, {
+    "tStartMs": 651320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "they're living, and they require\nhumans who feel passionately enough"
+    } ]
+  }, {
+    "tStartMs": 655000,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "about them to tell those stories."
+    } ]
+  }, {
+    "tStartMs": 657720,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And we want audiences to come\nand to see those stories."
+    } ]
+  }, {
+    "tStartMs": 660200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And audiences are hungry to come\ninto the stories."
+    } ]
+  }, {
+    "tStartMs": 662400,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Okay, let's pause there because,\nChelsea, I know"
+    } ]
+  }, {
+    "tStartMs": 665120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "that you have done ballet\nfor a long time."
+    } ]
+  }, {
+    "tStartMs": 667880,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I have.\nIt requires a lot of work, right?"
+    } ]
+  }, {
+    "tStartMs": 670960,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yeah. So I started ballet\nwhen I was four,"
+    } ]
+  }, {
+    "tStartMs": 673680,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and I've done it pretty\nmuch continuously throughout my life,"
+    } ]
+  }, {
+    "tStartMs": 676920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "even though I kind of took\na short break around in my early 20s."
+    } ]
+  }, {
+    "tStartMs": 681000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But even though I've been doing it\nfrom that young age,"
+    } ]
+  }, {
+    "tStartMs": 683400,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "it takes so much work\nto get to professional level."
+    } ]
+  }, {
+    "tStartMs": 686760,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "It takes a huge toll on your body. A\nlot of - most professional ballerinas"
+    } ]
+  }, {
+    "tStartMs": 690600,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "tend to retire around in their 30s,\nmaybe early 40s,"
+    } ]
+  }, {
+    "tStartMs": 693440,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "if they really have a lot of stamina."
+    } ]
+  }, {
+    "tStartMs": 695600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "It depends on your ability because\nof course you can get injuries."
+    } ]
+  }, {
+    "tStartMs": 698560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But it's a highly skilled profession\nand you're doing it day in, day out."
+    } ]
+  }, {
+    "tStartMs": 702960,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It takes a huge toll.\nAnd opera as well."
+    } ]
+  }, {
+    "tStartMs": 705560,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "I mean, if you've been to an opera\nor heard opera,"
+    } ]
+  }, {
+    "tStartMs": 708400,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "I can't believe that the human body\ncan make that sound or project that far."
+    } ]
+  }, {
+    "tStartMs": 712440,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So this is\na highly skilled profession,"
+    } ]
+  }, {
+    "tStartMs": 715120,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and that's not to mention\nthe people backstage as well,"
+    } ]
+  }, {
+    "tStartMs": 717720,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "the stagehands,\npeople that go work on the costumes,"
+    } ]
+  }, {
+    "tStartMs": 720520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "the orchestra\nthat perform every evening."
+    } ]
+  }, {
+    "tStartMs": 723080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So some people argue that because of\nall the talent that's on the stage,"
+    } ]
+  }, {
+    "tStartMs": 727400,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "all the long years of hard work\nthat goes into reaching that level,"
+    } ]
+  }, {
+    "tStartMs": 732680,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "that kind of justifies\nthe high price of opera and ballet"
+    } ]
+  }, {
+    "tStartMs": 735600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "because they are\nso difficult to execute."
+    } ]
+  }, {
+    "tStartMs": 738000,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "So if you compare it to theatre,\nfor example,"
+    } ]
+  }, {
+    "tStartMs": 740120,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "if you've got a short running\nperformance with really big stars,"
+    } ]
+  }, {
+    "tStartMs": 742960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "for example, it can reach\nin the hundreds of dollars."
+    } ]
+  }, {
+    "tStartMs": 746960,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "So we're seeing across the industry,\nnot just in ballet and opera,"
+    } ]
+  }, {
+    "tStartMs": 751800,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "really expensive prices\nthat often price people out"
+    } ]
+  }, {
+    "tStartMs": 755440,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and efforts also being made\nwithin the industry to combat that"
+    } ]
+  }, {
+    "tStartMs": 759000,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and make it accessible\nfor a wider audience."
+    } ]
+  }, {
+    "tStartMs": 761080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Okay, so opera\nand ballet still have fans."
+    } ]
+  }, {
+    "tStartMs": 763960,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "They're still drawing in audiences,\nbut as you said,"
+    } ]
+  }, {
+    "tStartMs": 766920,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "they're getting a bit of a reputation\nsometimes for being a bit inaccessible."
+    } ]
+  }, {
+    "tStartMs": 770720,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "What's being done\nto change that, though?"
+    } ]
+  }, {
+    "tStartMs": 772600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "There were people saying, actually,\nTimothée has a point."
+    } ]
+  }, {
+    "tStartMs": 775320,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "We do need to be doing more\nto make opera accessible for people"
+    } ]
+  }, {
+    "tStartMs": 779200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "because kind of the survival\nof this art form depends on that."
+    } ]
+  }, {
+    "tStartMs": 783280,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So there are quite a few schemes trying\nto make opera more affordable for fans."
+    } ]
+  }, {
+    "tStartMs": 787680,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The Opéra-Comique in Paris,"
+    } ]
+  }, {
+    "tStartMs": 789680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "for example,\nhas a 35% discount for under 35s."
+    } ]
+  }, {
+    "tStartMs": 793360,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So they're trying\nto get more young people in."
+    } ]
+  }, {
+    "tStartMs": 796080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "There's also a lot of effort to\nkind of change perceptions of ballet."
+    } ]
+  }, {
+    "tStartMs": 798720,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I mentioned earlier people\nkind of seeing it as the reserve"
+    } ]
+  }, {
+    "tStartMs": 801480,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "of the wealthy because the tickets\nare so expensive in many cases."
+    } ]
+  }, {
+    "tStartMs": 807680,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Misty Copeland,\nshe was the former principal dancer"
+    } ]
+  }, {
+    "tStartMs": 810920,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "for the American Ballet Theatre."
+    } ]
+  }, {
+    "tStartMs": 813680,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "She's actually founded a organisation\nthat tries to get people"
+    } ]
+  }, {
+    "tStartMs": 817520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "from disadvantaged backgrounds, young\npeople from disadvantaged backgrounds,"
+    } ]
+  }, {
+    "tStartMs": 821080,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and also people from minority\nethnic backgrounds into ballet"
+    } ]
+  }, {
+    "tStartMs": 824000,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "because introducing people\nto it younger,"
+    } ]
+  }, {
+    "tStartMs": 826120,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "kind of fights that perception\nthat it's not for everyone."
+    } ]
+  }, {
+    "tStartMs": 829800,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And there's also other kind\nof schemes"
+    } ]
+  }, {
+    "tStartMs": 832960,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "like the Opera Vision Platform\nthat's across Europe."
+    } ]
+  }, {
+    "tStartMs": 835880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "They broadcast opera performances\nfor free online."
+    } ]
+  }, {
+    "tStartMs": 839120,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So if you can't afford to go\nto a performance or"
+    } ]
+  }, {
+    "tStartMs": 841200,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "you don't really want to commit to it\nyet, you want to see what it's like,"
+    } ]
+  }, {
+    "tStartMs": 844080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "you can watch opera\non their platforms,"
+    } ]
+  }, {
+    "tStartMs": 846760,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and they've been doing that\nsince 2015."
+    } ]
+  }, {
+    "tStartMs": 849080,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So there are schemes out there and"
+    } ]
+  }, {
+    "tStartMs": 851160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "programmes that are trying to make\nit more accessible for people."
+    } ]
+  }, {
+    "tStartMs": 854040,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So do you think ballet and opera could\nhave a bit of resurgence in future?"
+    } ]
+  }, {
+    "tStartMs": 859040,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Could it have like\na whole new lease of life?"
+    } ]
+  }, {
+    "tStartMs": 862120,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "People often say that ballet is\nthe foundational kind of art form"
+    } ]
+  }, {
+    "tStartMs": 865760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "for a lot of\nmodern dance forms that we see now."
+    } ]
+  }, {
+    "tStartMs": 868520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Opera we're seeing is\ninspiring artists today like Rosalia."
+    } ]
+  }, {
+    "tStartMs": 872440,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "So it seems like ballet and opera\nare going to continue to inspire"
+    } ]
+  }, {
+    "tStartMs": 877200,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and influence a lot\nof the modern art forms"
+    } ]
+  }, {
+    "tStartMs": 881000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and music and culture\nthat we see today,"
+    } ]
+  }, {
+    "tStartMs": 883440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "even if they aren't popular\nlike they were in Renaissance times,"
+    } ]
+  }, {
+    "tStartMs": 887280,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "they're still having a huge influence\non culture that we enjoy nowadays."
+    } ]
+  }, {
+    "tStartMs": 891560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And I don't know about you, Chelsea,\nbut I'm interested to see if this comes"
+    } ]
+  }, {
+    "tStartMs": 894800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "full circle with Timothée Chalamet.\nOh."
+    } ]
+  }, {
+    "tStartMs": 897120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Maybe he's going to be\na ballet dancer in his next film."
+    } ]
+  }, {
+    "tStartMs": 900400,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I wouldn't be surprised.\nMaybe this is a setup."
+    } ]
+  }, {
+    "tStartMs": 902520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Maybe he's actually planning ahead.\nMaybe it's got him thinking."
+    } ]
+  }, {
+    "tStartMs": 905960,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "All you needs to do\nis watch this episode."
+    } ]
+  }, {
+    "tStartMs": 908000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Anyway, thank you so much, Chelsea.\nThank you Iqra."
+    } ]
+  }, {
+    "tStartMs": 910760,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Thank you for listening. Remember,\nyou guys can DM us on Instagram"
+    } ]
+  }, {
+    "tStartMs": 913920,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "at anytime @bbcwhatintheworld\nover there."
+    } ]
+  }, {
+    "tStartMs": 916640,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "But for now I'm Iqra,\nthis is What in the World"
+    } ]
+  }, {
+    "tStartMs": 919240,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "from the BBC World Service\nand I'll see you guys next time. Bye."
+    } ]
+  }, {
+    "tStartMs": 924600,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Okay, Chelsea, I'm gonna come watch\nyou in the ballet one day, though."
+    } ]
+  }, {
+    "tStartMs": 928880,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "No, I've been doing it all my life Iqra\nbut I'm not Royal Opera House level yet."
+    } ]
+  }, {
+    "tStartMs": 932840,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I don't know if I'm getting there.\nI think you're just being shy."
+    } ]
+  }, {
+    "tStartMs": 935600,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "No, I'm not being humble."
+    } ]
+  }, {
+    "tStartMs": 936720,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "If I was a ballet dancer,\nI would not be humble about that."
+    } ]
+  }, {
+    "tStartMs": 939160,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I would be bragging.\nI'm not at that level, sadly."
+    } ]
+  } ]
+}

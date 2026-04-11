@@ -57,6 +57,32 @@ export interface VocabEntry {
   sourceCueText: string  // full sentence for context
 }
 
+// ── Study Plans (Todo) ──────────────────────────────────────────────────────
+
+export interface PlanItem {
+  id: string
+  text: string
+}
+
+export interface StudyPlan {
+  id: string
+  userId: string
+  name: string
+  items: PlanItem[]
+  durationMonths: number       // how long the plan runs
+  startDate: string            // ISO date when activated
+  endDate: string              // ISO date when plan ends
+  status: 'draft' | 'active' | 'completed' | 'paused'
+  createdAt: string
+}
+
+export interface DailyProgress {
+  planId: string
+  userId: string
+  date: string                 // YYYY-MM-DD
+  completedItemIds: string[]   // IDs of completed items
+}
+
 /** True when a video has a saved position worth resuming */
 export function isResumable(p: VideoProgress): boolean {
   if (p.positionMs <= 30_000) return false  // < 30 seconds — treat as not started
