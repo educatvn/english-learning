@@ -1,0 +1,1814 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 200,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "CBD products are everywhere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2440,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "You can get the cannabis extract\nin vapes, it's in oils,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 5960,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "in lotions, skincare, even\ngummy bears, coffee and fizzy drinks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 10120,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Videos recommending CBD\nare all over TikTok,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 13280,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "and it's so popular that Kim Kardashian\neven had a CBD themed baby shower."
+        }
+      ]
+    },
+    {
+      "tStartMs": 18080,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Fans and influencers say\nthat it can help improve your mood."
+        }
+      ]
+    },
+    {
+      "tStartMs": 21560,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "It can help you sleep, it can get rid\nof anxiety and improve chronic pain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25640,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "But all of this\nmight be too good to be true."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28400,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So today we are going to explain\neverything you need to know about CBD."
+        }
+      ]
+    },
+    {
+      "tStartMs": 32200,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "We're going to check out some\nof those health claims,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 34280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and we're going to find out\nif CBD can get you high."
+        }
+      ]
+    },
+    {
+      "tStartMs": 37400,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 46040,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "To talk this through I have got\nBBC reporter Annabel Rackham here"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49400,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "in the studio with me.\nHi, Hannah. Hi, Annabel."
+        }
+      ]
+    },
+    {
+      "tStartMs": 51640,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Great to have you here. First of all,\nwhat is CBD and how is it made?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55880,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "It stands for Can - oh my god,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57920,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": " \nI actually can't do it. Cannabidiol."
+        }
+      ]
+    },
+    {
+      "tStartMs": 59640,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "There we go. Because\nI keep pronouncing it 'cannabidial'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62560,
+      "dDurationMs": 1080,
+      "segs": [
+        {
+          "utf8": "Everyone does this, don't they?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63640,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I thought it was Cannabidiol\nuntil I looked into it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 66640,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "But you would never, you know -\nI think that's why it hasn't made it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 69400,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "as the street name.\nBecause it's very hard to pronounce."
+        }
+      ]
+    },
+    {
+      "tStartMs": 72280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "But, yeah,\nit stands for CBD and what it is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74840,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "is it's the hemp extract of\nthe cannabis plant mixed with an oil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78920,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So that can be loads\nof different oils."
+        }
+      ]
+    },
+    {
+      "tStartMs": 82360,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "It is something that,\nyou know, is very easy to dispense."
+        }
+      ]
+    },
+    {
+      "tStartMs": 86320,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "That is why it's made into an oil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88320,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "How is it different to THC?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 89760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "That's the psychoactive.\nThe thing that gets you high, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 92640,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Yes   . So THC is the illegal part\nof cannabis essentially,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96360,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "because as you said,\nthat is the psychoactive element."
+        }
+      ]
+    },
+    {
+      "tStartMs": 98560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "That is the part when\npeople who smoke cannabis, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 102000,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "the most recognizable symptoms\n- you do not get that with CBD"
+        }
+      ]
+    },
+    {
+      "tStartMs": 105280,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "and that is why it is legal\nin many places."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109280,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So as long as\nyour CBD product doesn't contain THC,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113040,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "that is what makes it readily\navailable in places in the UK"
+        }
+      ]
+    },
+    {
+      "tStartMs": 117240,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "and around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118520,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "So it is legal here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Where else is it legal\nand where is it illegal?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 122600,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So it's still\nquite a difficult subject."
+        }
+      ]
+    },
+    {
+      "tStartMs": 125960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "There are some places\nwhere it is illegal"
+        }
+      ]
+    },
+    {
+      "tStartMs": 128360,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "when people think\nthat they can take their little oil"
+        }
+      ]
+    },
+    {
+      "tStartMs": 131280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "that might help them with a flight\nor something on a plane."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133640,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And there has been instances of people\ngetting arrested for carrying it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 136960,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So it is kind of\nthat murky territory."
+        }
+      ]
+    },
+    {
+      "tStartMs": 139560,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "A lot of North America,\nit is legal, a lot of Europe,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 142400,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "but still in some African and Asian\ncountries, you can't get hold of it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146440,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "And again, there's quite\na specific"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148160,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "sort of product model\nthat you have to follow."
+        }
+      ]
+    },
+    {
+      "tStartMs": 150680,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "So it's about it containing\none or 2mg of this CBD"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156880,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "which makes it available to be sold\nin lots of different places."
+        }
+      ]
+    },
+    {
+      "tStartMs": 160400,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Where is it most popular? Apart from\nhere and in the US, like you say."
+        }
+      ]
+    },
+    {
+      "tStartMs": 164080,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "So it's quite hard to tell really\nwhere it's popular because it isn't"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169800,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "a regulated industry and that's why\nit's causing some problems in the US"
+        }
+      ]
+    },
+    {
+      "tStartMs": 173960,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "because it is a food supplement over\nthere rather than a medical supplement."
+        }
+      ]
+    },
+    {
+      "tStartMs": 178160,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So we just don't know how much\nof the product is actually out there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182560,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "We just know that it is\na hugely growing industry"
+        }
+      ]
+    },
+    {
+      "tStartMs": 186280,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and loads of people are jumping on it\nas a way to make money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 189040,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Now I'm just going to play you\na clip from"
+        }
+      ]
+    },
+    {
+      "tStartMs": 191320,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Jodie Giesz-Ramsey. She's from Canada\nand she's a cannabis rights activist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195280,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "I've been an advocate for"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "cannabis for 20\nyears and have witnessed firsthand"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199960,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "how it has been beneficial\nas medicine for so many people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 203560,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "CBD, in particular, is one of the\nbest cannabinoids for medical purposes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "I've used it myself\nto help with sleeping"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210760,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and to reduce inflammation from\nworking out and being stressed out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 214600,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "I also have friends and\nfamily members who use it themselves"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218480,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "for medical purposes, and just to help\nthem get through a night of sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 223000,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "And now you're going to hear\nfrom Abigail Marie."
+        }
+      ]
+    },
+    {
+      "tStartMs": 224920,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "She's a wellness influencer\nin the US,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 227160,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and she says that CBD has helped her\nwith her anxiety."
+        }
+      ]
+    },
+    {
+      "tStartMs": 230440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "I was having panic attacks that were\nquite frequent"
+        }
+      ]
+    },
+    {
+      "tStartMs": 233240,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "and I couldn't\nquite get them under control."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235400,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "I remember thinking like,\nwell, this is so random"
+        }
+      ]
+    },
+    {
+      "tStartMs": 237880,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that I just kind of got\nthis like random outspurt of anxiety"
+        }
+      ]
+    },
+    {
+      "tStartMs": 243160,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "and there was a point\nin time where I didn't have anxiety,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245320,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "so there's definitely a way\nthat I can get back to it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 247440,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And so CBD was actually one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249840,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "of the things that really helped\nme overcome my anxiety."
+        }
+      ]
+    },
+    {
+      "tStartMs": 252840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "I can now say that I am anxiety free."
+        }
+      ]
+    },
+    {
+      "tStartMs": 256080,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "I don't experience it like literally\nat all anymore."
+        }
+      ]
+    },
+    {
+      "tStartMs": 258880,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "CBD was really helpful for me\nin that aspect."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261720,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "When I was having those panic attacks\nand just couldn't calm myself down,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265200,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "I got more of a high concentrated\nCBD oil and I would put that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268840,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "under my tongue and let it sit there\nfor a couple of minutes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 271560,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and that would just help\nto calm things down,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 274880,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "really helped me\nto kind of get out of that panic mode"
+        }
+      ]
+    },
+    {
+      "tStartMs": 277760,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and is something that I swore by.\nI would always have it in my purse."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I would literally bring it everywhere\nwith me, because you never know"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283640,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "when an anxiety attack is going\nto come on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 285920,
+      "dDurationMs": 6280,
+      "segs": [
+        {
+          "utf8": "Annabelle. The CBD market is expected\nto be worth 60 billion USD by 2030,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 292200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and loads of the products that\nI've seen - we've been talking about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 295080,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "are the edible ones.\nHow else can people take it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 297960,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "There are many ways.\nSo you will see CBD vapes being sold,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 302720,
+      "dDurationMs": 7000,
+      "segs": [
+        {
+          "utf8": "cakes, other edible products, gels,\ncreams - because it's an oil, as I said,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 309720,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "it's very versatile. It can be used\nin so many different products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 312920,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I've actually tried it myself.\nI've tried some of the drops"
+        }
+      ]
+    },
+    {
+      "tStartMs": 316040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and they've got this kind of, like,\nslightly bitter, earthy taste."
+        }
+      ]
+    },
+    {
+      "tStartMs": 318680,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "I didn't really mind it and\nthere are all these health claims,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 322000,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "you know reasons that people take it,\nthings like anxiety,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 324560,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "improving sleep, reducing pain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 327160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Does it actually help with those health\nconditions, what is the evidence here?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331400,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So again we're very light on research"
+        }
+      ]
+    },
+    {
+      "tStartMs": 334360,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "and how much it's actually helping\npeople. But in other circles"
+        }
+      ]
+    },
+    {
+      "tStartMs": 339080,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "where people are just purchasing it\nonline or in health stores,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 342560,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "the message is normally\nthat it's quite good with anxiety."
+        }
+      ]
+    },
+    {
+      "tStartMs": 345480,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "It's quite good at helping with sleep\nand with pain management."
+        }
+      ]
+    },
+    {
+      "tStartMs": 349040,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "But again, a lot of that evidence\nis anecdotal rather than medical."
+        }
+      ]
+    },
+    {
+      "tStartMs": 353360,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Do National\nHealth Services recommend CBD?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356040,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "No, there isn't currently\na recommendation for CBD."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359720,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "I think with a lot of things again,\nwhere we talk about supplementing,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364960,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "it's on a kind of basis of,\nif you find it helps you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 367800,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and it really improves your symptoms,\nthen go for it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370040,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "But there's never going to be -\nat the moment - a recommendation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 373880,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "of taking CBD,\nin place of traditional medicine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 377360,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So you're not exactly going to go\nand get a prescription from your GP."
+        }
+      ]
+    },
+    {
+      "tStartMs": 380560,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "No. Here is someone from the UK\nwho has been looking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 383640,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "into the evidence behind some\nof the health claims for CBD."
+        }
+      ]
+    },
+    {
+      "tStartMs": 387440,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "It's important to differentiate\nbetween CBD as medicine,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 391520,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "which has been investigated\ninternationally in clinical trials,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 395840,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "looking at\nits use to treat rare forms"
+        }
+      ]
+    },
+    {
+      "tStartMs": 398240,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "of epilepsy\nand some rare forms of cancer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 401160,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "And there's some good\nand growing evidence around that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 404280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "It's important to contrast that\nwith some of the products\n "
+        }
+      ]
+    },
+    {
+      "tStartMs": 406640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "that we find on the high street and\neven though these products are regulated"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410160,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "around safety,\nthere's perhaps some concerns"
+        }
+      ]
+    },
+    {
+      "tStartMs": 412560,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "that some products don't actually\ncontain what they say on the label."
+        }
+      ]
+    },
+    {
+      "tStartMs": 416440,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "But it's also a bigger question about\ndo these products actually work?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 420760,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "Why are people buying them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 422200,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "People report buying them to help\nwith anxiety or depression and sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 426800,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "But most of the scientific evidence\nsays that these don't work"
+        }
+      ]
+    },
+    {
+      "tStartMs": 431560,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and we need to ask ourselves, well,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 433560,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "why are these products still be marketed\nin the absence of this evidence?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437640,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "And Harry also says that many of the CBD\nproducts available on the high street"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441960,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "contain so little CBD that you\nwould need to consume vast quantities"
+        }
+      ]
+    },
+    {
+      "tStartMs": 446280,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "to even approach some of the doses that\nare administered in clinical trials."
+        }
+      ]
+    },
+    {
+      "tStartMs": 450800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "But we are not recommending\nthat you do that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 453600,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Annabelle,\ndoes CBD have any side effects?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 456960,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Yes it does, and some of the ones that\npeople most commonly report are fatigue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 461680,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "It can actually increase your anxiety\nand like with cannabis,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 465440,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "it can increase\nor decrease your appetite depending"
+        }
+      ]
+    },
+    {
+      "tStartMs": 468000,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "- it is different for other people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 471200,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "But again, because it's not\na massively regulated industry,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 475160,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "we don't know the full extent\nof the side effects"
+        }
+      ]
+    },
+    {
+      "tStartMs": 477920,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and as you just said there, people\nare taking in all different doses."
+        }
+      ]
+    },
+    {
+      "tStartMs": 481440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "You know, if you do go\ninto a health food shop"
+        }
+      ]
+    },
+    {
+      "tStartMs": 484560,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "or a holistic shop where you can go\nand buy these products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 489480,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "there's a vast difference\nin the the milligrams of CBD"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493000,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "that is featured\nin each of these products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 495120,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So you can have a hugely different\nexperience depending on what you use."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And some studies have said that it\ncould actually be potentially harmful"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502000,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "if people consume a lot of CBD\nover a long period,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 505080,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "it could lead to things\nlike liver damage or thyroid issues."
+        }
+      ]
+    },
+    {
+      "tStartMs": 509920,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Annabelle, is it addictive?\nIt shouldn't be addictive, no."
+        }
+      ]
+    },
+    {
+      "tStartMs": 513360,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "If you're buying\na licensed CBD product,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 516240,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "it shouldn't contain any THC or any\nother additives that could be addictive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 521240,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "But there is obviously the problem\nwith people becoming reliant on it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 526160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and you can become reliant\non many different things if you think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 529320,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "that they're helping you and\nimproving the quality of your life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 532600,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "So we know the World Health Organisation\ndoesn't recommend CBD for medicinal use."
+        }
+      ]
+    },
+    {
+      "tStartMs": 537800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "What else does it say about it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 540600,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "They say it's generally safe, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 542600,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "they do also say that it shouldn't\ncause any addiction problems."
+        }
+      ]
+    },
+    {
+      "tStartMs": 546960,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "But their guidance is something\nthat was written in 2017"
+        }
+      ]
+    },
+    {
+      "tStartMs": 549960,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "and it hasn't been updated yet and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 552040,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "if you think about how many more CBD\nproducts have come onto the market"
+        }
+      ]
+    },
+    {
+      "tStartMs": 555400,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and how many more people are using them\nnow, it would be interesting to know"
+        }
+      ]
+    },
+    {
+      "tStartMs": 559440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "whether any additions are going\nto be made to that in the future"
+        }
+      ]
+    },
+    {
+      "tStartMs": 562560,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "to determine whether there are\nany other side effects of CBD"
+        }
+      ]
+    },
+    {
+      "tStartMs": 566040,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "or potential problems\nthat we don't currently know about."
+        }
+      ]
+    },
+    {
+      "tStartMs": 569040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So what I'm hearing from you\nis there is very little evidence"
+        }
+      ]
+    },
+    {
+      "tStartMs": 572000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "and yet it is so popular,\nit's everywhere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 574040,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Yeah, because when I thought\nabout doing this chat with you,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 576480,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "I was like, let's see\nwhat the medical research is saying."
+        }
+      ]
+    },
+    {
+      "tStartMs": 578520,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And there just really wasn't that much\nout there for me to have a look at."
+        }
+      ]
+    },
+    {
+      "tStartMs": 582480,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "But there is currently a study\ngoing on at the University of Oxford."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585480,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "They've got a thousand people around\nthe world, so they've got people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 588000,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "in Europe and North America,\nand they're looking at"
+        }
+      ]
+    },
+    {
+      "tStartMs": 591240,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "if CBD could be used to treat psychosis\nor psychotic episodes with CBD."
+        }
+      ]
+    },
+    {
+      "tStartMs": 596360,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So that's really interesting and it\nwill probably take quite a few years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So it's one to watch\nin the next few years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 603240,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "but for now there isn't a huge amount\nof knowledge out there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607480,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "So the big question, can CBD - like oils\nor gummies - could that get you high?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 611960,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "No, it should actually have\nthe adverse effect"
+        }
+      ]
+    },
+    {
+      "tStartMs": 614200,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "where it makes you feel\nquite mellow rather than high."
+        }
+      ]
+    },
+    {
+      "tStartMs": 616400,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "But as I said, if you're buying\na product that is purely CBD -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 621440,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "from a from a trusted seller,\nthen there won't be anything"
+        }
+      ]
+    },
+    {
+      "tStartMs": 624280,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "that will make you high\nin that product."
+        }
+      ]
+    },
+    {
+      "tStartMs": 626560,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "Annabel, thanks so much\nfor joining us on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 628360,
+      "dDurationMs": 920,
+      "segs": [
+        {
+          "utf8": "It's been great having you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 629280,
+      "dDurationMs": 840,
+      "segs": [
+        {
+          "utf8": "Thank you very much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 630120,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And before I go,\nI just want to tell you about some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 632360,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "of the other stories that\nwe have covered on What in the World."
+        }
+      ]
+    },
+    {
+      "tStartMs": 634920,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "We recently did an episode on Moo\nDeng. You might have heard of her."
+        }
+      ]
+    },
+    {
+      "tStartMs": 638120,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "She is a baby pygmy hippo in Thailand\nand she has become a viral sensation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 643360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "We also did an episode called 'How Do\nYou Get a Star on the Hollywood Walk"
+        }
+      ]
+    },
+    {
+      "tStartMs": 647440,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "of Fame?' And you can search\nfor them right here on YouTube."
+        }
+      ]
+    },
+    {
+      "tStartMs": 650800,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "That is it for today's episode.\nThank you so much for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 654480,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "For What in the World\nfrom the BBC World Service,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 656680,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and we'll be back\nwith another one soon. See you then."
+        }
+      ]
+    }
+  ]
+}

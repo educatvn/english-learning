@@ -1,0 +1,1339 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 40,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "People say that men are stronger\nand faster than women,"
+    } ]
+  }, {
+    "tStartMs": 2800,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and that's why women shouldn't be\nin the army."
+    } ]
+  }, {
+    "tStartMs": 5480,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So, for example, the US Army,\nthey used to have"
+    } ]
+  }, {
+    "tStartMs": 8920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "different fitness standards for women\nand men in different tests,"
+    } ]
+  }, {
+    "tStartMs": 12440,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "but they are now going to switch\nto a gender neutral one, which means"
+    } ]
+  }, {
+    "tStartMs": 15400,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "that men and women are going\nto be held to the same standard."
+    } ]
+  }, {
+    "tStartMs": 18360,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Hey everyone, I'm Iqra."
+    } ]
+  }, {
+    "tStartMs": 20200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "This is What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 23160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Question for the gals out there,\nwould you sign up to the military?"
+    } ]
+  }, {
+    "tStartMs": 26880,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "What if you had no choice because the\nlaws in your country made it compulsory?"
+    } ]
+  }, {
+    "tStartMs": 31080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "That wasn't a big announcement by the\nway. But some countries like China,"
+    } ]
+  }, {
+    "tStartMs": 35160,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Denmark and Chad have laws\nto enlist young women as well as men."
+    } ]
+  }, {
+    "tStartMs": 40560,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And it got us thinking about the\ndifferent laws around the world on this."
+    } ]
+  }, {
+    "tStartMs": 43960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "There's such a mix of rules\nand actual enforcement of them to."
+    } ]
+  }, {
+    "tStartMs": 48200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Most countries still focus on the men\nwhen it comes to conscription."
+    } ]
+  }, {
+    "tStartMs": 51760,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But should we also be talking\nabout the women here?"
+    } ]
+  }, {
+    "tStartMs": 53960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "That's what we're chatting\nabout today. Let's get into it."
+    } ]
+  }, {
+    "tStartMs": 60400,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "I've got Emilia from the What\nin the World team right here with me"
+    } ]
+  }, {
+    "tStartMs": 64080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "to chat about it. Hey, Emilia.\nHello. How are you?"
+    } ]
+  }, {
+    "tStartMs": 66720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I'm not bad. Emilia."
+    } ]
+  }, {
+    "tStartMs": 68880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This is particularly relevant for you\nbecause you're from Finland, right?"
+    } ]
+  }, {
+    "tStartMs": 72240,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 73360,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And Finland has\ncompulsory service conscription."
+    } ]
+  }, {
+    "tStartMs": 77840,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But what do we mean\nwhen we say conscription?"
+    } ]
+  }, {
+    "tStartMs": 79840,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Conscription is when, by law,\nyou're forced to serve your country."
+    } ]
+  }, {
+    "tStartMs": 84200,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Usually this means in the army,\nbut you can also do national service."
+    } ]
+  }, {
+    "tStartMs": 88000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And so you'll join the army\nfor a few months to a year."
+    } ]
+  }, {
+    "tStartMs": 91720,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And spend time there\nserving your country."
+    } ]
+  }, {
+    "tStartMs": 94400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "In Finland we do have conscription,\nbut for all men."
+    } ]
+  }, {
+    "tStartMs": 97600,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So not for women. So both\nof my brothers have been to the army."
+    } ]
+  }, {
+    "tStartMs": 100760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "My dad's been to the army.\nMy granddad."
+    } ]
+  }, {
+    "tStartMs": 103520,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I've been to visit them on the bases."
+    } ]
+  }, {
+    "tStartMs": 105640,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And basically every male friend\nthat I have has also served\nin the Finnish Army."
+    } ]
+  }, {
+    "tStartMs": 109960,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And it's kind of a national tradition\nin a way. People are very proud to go."
+    } ]
+  }, {
+    "tStartMs": 113800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "They see it as a mark of, 'Okay,\nI'm becoming a man now.'"
+    } ]
+  }, {
+    "tStartMs": 116680,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "They make friends for life there.\nThey learn lots of skills."
+    } ]
+  }, {
+    "tStartMs": 119680,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "And so in general, it's seen as a pride\nthing to go and to serve your country."
+    } ]
+  }, {
+    "tStartMs": 125560,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And so that's Finland\nand your experiences there as well."
+    } ]
+  }, {
+    "tStartMs": 128960,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "But aside from Finland, what\nother countries have conscription?"
+    } ]
+  }, {
+    "tStartMs": 133000,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "So around the world around 60 countries\nhave conscription and 20 more have laws"
+    } ]
+  }, {
+    "tStartMs": 138920,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "that would allow them to implement\nconscription in their country."
+    } ]
+  }, {
+    "tStartMs": 144280,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "During the 90s,\nwe actually saw lots of countries\ndismantle their conscription service."
+    } ]
+  }, {
+    "tStartMs": 149040,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "But that's now changing.\nAnd actually we're seeing"
+    } ]
+  }, {
+    "tStartMs": 151400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "more and more countries reintroducing\nconscription in some way."
+    } ]
+  }, {
+    "tStartMs": 155400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So the core element of conscription\nis that you have to go."
+    } ]
+  }, {
+    "tStartMs": 158840,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "You can't avoid it.\nSo when I was growing up in Finland,"
+    } ]
+  }, {
+    "tStartMs": 161760,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "it was very much like, oh, if\nyou don't go, you're going to jail."
+    } ]
+  }, {
+    "tStartMs": 164800,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "But I looked this up and since 2013,"
+    } ]
+  }, {
+    "tStartMs": 166960,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "apparently you can also do\nhome detention if you refuse."
+    } ]
+  }, {
+    "tStartMs": 170520,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And that's for 173 days.\nBut that's very, very rare."
+    } ]
+  }, {
+    "tStartMs": 173840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But yeah, you have to go\nif you're called."
+    } ]
+  }, {
+    "tStartMs": 176840,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Usually you'll get a bit of money.\nNot a salary, but a bit of a stipend."
+    } ]
+  }, {
+    "tStartMs": 180600,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And then obviously you get, you know,"
+    } ]
+  }, {
+    "tStartMs": 182680,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "your housing\nand your food situation sorted."
+    } ]
+  }, {
+    "tStartMs": 186240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I've got the images in my head here\nand, you know,"
+    } ]
+  }, {
+    "tStartMs": 189240,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "especially from history class,\nwe know historically"
+    } ]
+  }, {
+    "tStartMs": 192800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "when we're talking about conscription,\nit's always really applied to the men."
+    } ]
+  }, {
+    "tStartMs": 196320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "We pictured the men\nin their uniforms."
+    } ]
+  }, {
+    "tStartMs": 199120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "We are seeing\nsome countries bringing back women"
+    } ]
+  }, {
+    "tStartMs": 203200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "as part of conscription, right?\nTell us a little bit more about that."
+    } ]
+  }, {
+    "tStartMs": 206560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Yes. So as of 1st of January, 2026,\nDenmark is conscripting women."
+    } ]
+  }, {
+    "tStartMs": 212320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And around the world there's about 15\ncountries that conscript women"
+    } ]
+  }, {
+    "tStartMs": 216240,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "in some sort of way.\nSo for example, we have Denmark,"
+    } ]
+  }, {
+    "tStartMs": 219560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "but we also have Sweden and Norway\nin the Nordics, we have Myanmar,"
+    } ]
+  }, {
+    "tStartMs": 223840,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "who started conscripting women last\nyear, North Korea conscripts women."
+    } ]
+  }, {
+    "tStartMs": 228280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "But the way they conscript women\nvaries depending on country."
+    } ]
+  }, {
+    "tStartMs": 232200,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So some countries\nthey conscript all women."
+    } ]
+  }, {
+    "tStartMs": 234920,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "For some it's more\nof a lottery system."
+    } ]
+  }, {
+    "tStartMs": 238080,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So for example with Denmark,\nthey're going to try and fill\nall the positions with volunteers,"
+    } ]
+  }, {
+    "tStartMs": 241960,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "but if they don't, they\nwill literally use a lottery system"
+    } ]
+  }, {
+    "tStartMs": 244720,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "to conscript women.\nAnd then it can also be symbolic."
+    } ]
+  }, {
+    "tStartMs": 247760,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So China and the Netherlands could\nlegally conscript women, but they won't."
+    } ]
+  }, {
+    "tStartMs": 252440,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "But the law is in place\nin case they need to use it."
+    } ]
+  }, {
+    "tStartMs": 256000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Okay, so tell me a little bit\nabout Denmark then."
+    } ]
+  }, {
+    "tStartMs": 258760,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "They've recently changed\ntheir rules, right?"
+    } ]
+  }, {
+    "tStartMs": 261080,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Yes. So from the 1st of January,\nall girls and boys who are turning 18"
+    } ]
+  }, {
+    "tStartMs": 266440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "have to register\nfor a military assessment day."
+    } ]
+  }, {
+    "tStartMs": 270760,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "The army is trying to fill\nall their positions with volunteers."
+    } ]
+  }, {
+    "tStartMs": 274880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "However, if that doesn't happen,\nbasically what happens is\nit's a lottery system."
+    } ]
+  }, {
+    "tStartMs": 279320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So you will literally go and\nand get a piece of paper."
+    } ]
+  }, {
+    "tStartMs": 283080,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And then depending\non what that number is,"
+    } ]
+  }, {
+    "tStartMs": 285280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "you might be forced to go to the army\nfor 11 months."
+    } ]
+  }, {
+    "tStartMs": 288520,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Just give us a sense of why is this\nhappening then in some countries?"
+    } ]
+  }, {
+    "tStartMs": 291720,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So there's three broad themes\nfor why a country chooses\nto conscript women as well."
+    } ]
+  }, {
+    "tStartMs": 295880,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So the first one is\ngeopolitical changes."
+    } ]
+  }, {
+    "tStartMs": 299080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And obviously that's what\nwe're seeing in Europe."
+    } ]
+  }, {
+    "tStartMs": 302320,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Countries are thinking more\nabout their security"
+    } ]
+  }, {
+    "tStartMs": 304440,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and safety\nsince the war in Ukraine started."
+    } ]
+  }, {
+    "tStartMs": 307360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So that's part of the reason why\nDenmark has chosen to conscript women,"
+    } ]
+  }, {
+    "tStartMs": 311360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "because they're not sure if they can\ndefend their country just with the men."
+    } ]
+  }, {
+    "tStartMs": 315360,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Another argument is equality.\nSo that's why Norway,"
+    } ]
+  }, {
+    "tStartMs": 318280,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "for example, decided to conscript\nwomen about ten years ago,"
+    } ]
+  }, {
+    "tStartMs": 322160,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "because they felt like\nin a true equal society,"
+    } ]
+  }, {
+    "tStartMs": 325000,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "both men and women take part\nin the army."
+    } ]
+  }, {
+    "tStartMs": 328880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And then another interesting\nkind of reason"
+    } ]
+  }, {
+    "tStartMs": 332000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "to at least debate conscription\nis birth rates."
+    } ]
+  }, {
+    "tStartMs": 335360,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So as we know, birth rates\nare falling all around the world."
+    } ]
+  }, {
+    "tStartMs": 338600,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And this actually leads\nto a problem for some countries"
+    } ]
+  }, {
+    "tStartMs": 341120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "because it means they don't have\nenough manpower. So for example,"
+    } ]
+  }, {
+    "tStartMs": 344320,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "with South Korea,  they currently have\nabout 450000 men serving in the army,"
+    } ]
+  }, {
+    "tStartMs": 349880,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and that's a drop of 113000\nfrom 2019."
+    } ]
+  }, {
+    "tStartMs": 354640,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "But actually,\nexperts in the country have said that\nthey need at least half a million"
+    } ]
+  }, {
+    "tStartMs": 359280,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "if they want to have a strong\nand secure army against North Korea."
+    } ]
+  }, {
+    "tStartMs": 363080,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And in Europe,\nthe same thing is happening."
+    } ]
+  }, {
+    "tStartMs": 365280,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The Latvian defence minister\nis really pushing"
+    } ]
+  }, {
+    "tStartMs": 367280,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "for female conscription because he\nsays not enough boys are being born."
+    } ]
+  }, {
+    "tStartMs": 370840,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And so we need\nto conscript more women."
+    } ]
+  }, {
+    "tStartMs": 374080,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And that's a problem facing all\nof the Baltic countries, actually."
+    } ]
+  }, {
+    "tStartMs": 377280,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And I'm just wondering,\nin those countries"
+    } ]
+  }, {
+    "tStartMs": 379360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "where we've more recently seen\nconscription introduced,"
+    } ]
+  }, {
+    "tStartMs": 382480,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "how are people reacting?\nHow is this going down with people?"
+    } ]
+  }, {
+    "tStartMs": 385760,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "So when you look at the Nordics,\nit seems that the populations"
+    } ]
+  }, {
+    "tStartMs": 388840,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "as a whole seem\nto be relatively accepting of it."
+    } ]
+  }, {
+    "tStartMs": 392000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I mean, it's happening now,\nso but that's also"
+    } ]
+  }, {
+    "tStartMs": 394280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "partly because\nnot all women are conscripted."
+    } ]
+  }, {
+    "tStartMs": 396440,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "So it's just a small number\nof women who do go"
+    } ]
+  }, {
+    "tStartMs": 398560,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "to the army\nand usually they volunteer."
+    } ]
+  }, {
+    "tStartMs": 401560,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But actually when I looked at Sweden,\nreally interestingly, it seemed"
+    } ]
+  }, {
+    "tStartMs": 405280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "that women themselves were quite\nagainst female conscription."
+    } ]
+  }, {
+    "tStartMs": 409200,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "So in 2025,\n71% of 18 year old women"
+    } ]
+  }, {
+    "tStartMs": 413720,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "reported that they had\na negative view towards conscription,"
+    } ]
+  }, {
+    "tStartMs": 417040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and the equivalent for men was 42%."
+    } ]
+  }, {
+    "tStartMs": 419200,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "As you were saying, the debate has\nbeen going on for a really long time."
+    } ]
+  }, {
+    "tStartMs": 421800,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "It feels like we're going\nto be talking about this\nfor a long time to come as well."
+    } ]
+  }, {
+    "tStartMs": 425200,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Just give us a sense of the countries\nwhere people are still discussing this."
+    } ]
+  }, {
+    "tStartMs": 429480,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "So most of Europe, to be honest,\nis having to face this now."
+    } ]
+  }, {
+    "tStartMs": 433840,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And that's partly\nbecause of NATO pressures."
+    } ]
+  }, {
+    "tStartMs": 436760,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So NATO is increasing their defence."
+    } ]
+  }, {
+    "tStartMs": 439680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "But countries are thinking can\nwe actually provide enough manpower."
+    } ]
+  }, {
+    "tStartMs": 443960,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "And so I think all European countries\nare on some level having"
+    } ]
+  }, {
+    "tStartMs": 446920,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "to discuss this. But yeah,\nthen countries like South Korea,"
+    } ]
+  }, {
+    "tStartMs": 450400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "for example, are facing\na real decline in number of troops."
+    } ]
+  }, {
+    "tStartMs": 453280,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So they're also going to have to think,\nwhat are we going to do now instead?"
+    } ]
+  }, {
+    "tStartMs": 457120,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And we wanted to bring in some\nof that discussion of course,"
+    } ]
+  }, {
+    "tStartMs": 459720,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "we've been speaking\nto some people across the world"
+    } ]
+  }, {
+    "tStartMs": 461840,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "for their views on this.\nSo let's have a listen."
+    } ]
+  }, {
+    "tStartMs": 464080,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "For me, it was never that much\nof a thought of whether"
+    } ]
+  }, {
+    "tStartMs": 467480,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "or not I would apply\nfor the military service or not."
+    } ]
+  }, {
+    "tStartMs": 471960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "It was quite obvious that I would do\nthat, partly for a feeling of duty,"
+    } ]
+  }, {
+    "tStartMs": 476360,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and also just because I've always been\ninterested in security policy questions"
+    } ]
+  }, {
+    "tStartMs": 481560,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "and like being outdoors.\nSo for me it felt quite natural."
+    } ]
+  }, {
+    "tStartMs": 485920,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Military and civilian service\nonly applies for men in Finland,"
+    } ]
+  }, {
+    "tStartMs": 488800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and I have always found it quite\nproblematic that it only affects"
+    } ]
+  }, {
+    "tStartMs": 492600,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "half the population, since\nif there would be a need for defence,"
+    } ]
+  }, {
+    "tStartMs": 496120,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "everyone would still need\nto be defending the country."
+    } ]
+  }, {
+    "tStartMs": 500960,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Despite of that, I've always had the\nthought that the choice of conscripts"
+    } ]
+  }, {
+    "tStartMs": 506520,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "should be done by motivation\nand competence rather than on gender."
+    } ]
+  }, {
+    "tStartMs": 512080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So I hope the system would change\nto that soon."
+    } ]
+  }, {
+    "tStartMs": 514760,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I feel that you should be a part\nto security for your country,"
+    } ]
+  }, {
+    "tStartMs": 519520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and mainly on tough times."
+    } ]
+  }, {
+    "tStartMs": 522280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "But also women have their space\nin the military."
+    } ]
+  }, {
+    "tStartMs": 525960,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "If they feel they can follow that\npath, they can also do that role."
+    } ]
+  }, {
+    "tStartMs": 531360,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Because if we see in the history,\nwomen has been very important also"
+    } ]
+  }, {
+    "tStartMs": 536120,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "inside the military conscription."
+    } ]
+  }, {
+    "tStartMs": 539080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So as we heard there,\na lot of different views."
+    } ]
+  }, {
+    "tStartMs": 541720,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "I'm keen to know what are the arguments\nfor and against conscription, though."
+    } ]
+  }, {
+    "tStartMs": 546880,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So if we start with the arguments for\nconscription, experts say, you know,"
+    } ]
+  }, {
+    "tStartMs": 551280,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "if you want true equality, then women\nand men should both be conscripted."
+    } ]
+  }, {
+    "tStartMs": 555720,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Otherwise it's not fair. It's also\nabout selecting the best of the best."
+    } ]
+  }, {
+    "tStartMs": 560880,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So you want the top cohort.\nYou want the best soldiers available."
+    } ]
+  }, {
+    "tStartMs": 564400,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "But if you're excluding\n50% of the population,\nyou just don't have that reach."
+    } ]
+  }, {
+    "tStartMs": 568720,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So it's also about talent and\nattracting the best talent out there."
+    } ]
+  }, {
+    "tStartMs": 572840,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And then there's also an argument"
+    } ]
+  }, {
+    "tStartMs": 575040,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "about kind of diversifying skills\nand leadership."
+    } ]
+  }, {
+    "tStartMs": 578440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So people in Switzerland voted in\nNovember about female conscription."
+    } ]
+  }, {
+    "tStartMs": 582600,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "I mean, they rejected it with\nnearly 85%.\nSo it was clear they didn't want it,"
+    } ]
+  }, {
+    "tStartMs": 586440,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "but it was pushed\nfor by a woman called Noémie Roten."
+    } ]
+  }, {
+    "tStartMs": 590320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And her argument is that 'women must\nserve in the military to be granted"
+    } ]
+  }, {
+    "tStartMs": 594600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the qualifications to exercise\ntheir true rights as true citizens.'"
+    } ]
+  }, {
+    "tStartMs": 599240,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "She also said that 'it's unfair\nthat men get to go to the army."
+    } ]
+  }, {
+    "tStartMs": 602920,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "They get to form these connections\nthat are really valuable to them."
+    } ]
+  }, {
+    "tStartMs": 606760,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "They get all\nthese leadership skills and women"
+    } ]
+  }, {
+    "tStartMs": 609280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "should have the same right\nto also have that.'"
+    } ]
+  }, {
+    "tStartMs": 612040,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So that's the for.\nWhat about the against?"
+    } ]
+  }, {
+    "tStartMs": 615480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Again, there are many arguments\nagainst female conscription."
+    } ]
+  }, {
+    "tStartMs": 619000,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So a big one is that we need women to\ngive birth and actually staying home"
+    } ]
+  }, {
+    "tStartMs": 624280,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and being pregnant for nine months\nand then popping out"
+    } ]
+  }, {
+    "tStartMs": 627120,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "a baby is serving your country. It's\nobviously quite a tough thing to do."
+    } ]
+  }, {
+    "tStartMs": 632240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And people say women are still\nat a disadvantage in society."
+    } ]
+  }, {
+    "tStartMs": 636560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "We get paid less, we are more likely to\ntake care of our elderly family members."
+    } ]
+  }, {
+    "tStartMs": 640960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "But then there's also\nthe physicality aspect."
+    } ]
+  }, {
+    "tStartMs": 643760,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So people say that men are stronger\nand faster than women,"
+    } ]
+  }, {
+    "tStartMs": 647280,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and that's why women shouldn't be\nin the army."
+    } ]
+  }, {
+    "tStartMs": 649960,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So, for example, the US Army,\nthey used to have"
+    } ]
+  }, {
+    "tStartMs": 653400,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "different fitness standards for women\nand men in different tests,"
+    } ]
+  }, {
+    "tStartMs": 656960,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but they are now going to switch\nto a gender neutral one, which means"
+    } ]
+  }, {
+    "tStartMs": 659880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "that men and women are going\nto be held to the same standard."
+    } ]
+  }, {
+    "tStartMs": 662680,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And of course, there's that idea\nthat only men can fight,"
+    } ]
+  }, {
+    "tStartMs": 665320,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "which some probably see as outdated."
+    } ]
+  }, {
+    "tStartMs": 668080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Definitely.\nI mean, the world has changed a lot."
+    } ]
+  }, {
+    "tStartMs": 671600,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Women are well educated. They don't\ngive birth as much as they used to."
+    } ]
+  }, {
+    "tStartMs": 676760,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And as we've seen from history,\nwomen were in combat roles."
+    } ]
+  }, {
+    "tStartMs": 680120,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "So there are lots of reasons for women\nto take part in in the army more now."
+    } ]
+  }, {
+    "tStartMs": 686240,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "However, there are still lots\nof barriers."
+    } ]
+  }, {
+    "tStartMs": 688600,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "So for example, army culture is still\nvery male, very male dominated."
+    } ]
+  }, {
+    "tStartMs": 695520,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And when you look around the world,\nthere are several studies that show"
+    } ]
+  }, {
+    "tStartMs": 697720,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "women have a harder time\nin the army than men."
+    } ]
+  }, {
+    "tStartMs": 699840,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "So for example, in Korea,\nthere was a 2022 report which found"
+    } ]
+  }, {
+    "tStartMs": 703640,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "that women were four times\nmore likely to be sexually harassed,"
+    } ]
+  }, {
+    "tStartMs": 708480,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "nearly twice as likely to be bullied."
+    } ]
+  }, {
+    "tStartMs": 711560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And just recently in the UK,\nthere was a survey by the Ministry"
+    } ]
+  }, {
+    "tStartMs": 715440,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "of Defence which showed that\ntwo thirds of women serving full time"
+    } ]
+  }, {
+    "tStartMs": 719320,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "have reported experiencing\nsexualised behaviour."
+    } ]
+  }, {
+    "tStartMs": 722000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So there's a huge culture change\nthat needs to happen"
+    } ]
+  }, {
+    "tStartMs": 724440,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "if we are going to start\nconscripting women and also outfits."
+    } ]
+  }, {
+    "tStartMs": 728120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Military outfits are designed\nfor the standard male body"
+    } ]
+  }, {
+    "tStartMs": 730760,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "so they don't protect the female body\nas much, which you know,"
+    } ]
+  }, {
+    "tStartMs": 734120,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "holds us back in the battlefield,\nleads to more injuries"
+    } ]
+  }, {
+    "tStartMs": 737760,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and can lead to, you know,\ndeath in the worst cases."
+    } ]
+  }, {
+    "tStartMs": 741360,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "So a lot to think about there."
+    } ]
+  }, {
+    "tStartMs": 742600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Emilia, thank you so much for\ncoming by and explaining all of that."
+    } ]
+  }, {
+    "tStartMs": 745600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "The pros and cons,\neverything in between."
+    } ]
+  }, {
+    "tStartMs": 748320,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "And you also made a film\nabout this, right?"
+    } ]
+  }, {
+    "tStartMs": 750120,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Yes. It's called 'Why Europe is asking\nwomen to get ready to Fight Russia',"
+    } ]
+  }, {
+    "tStartMs": 753880,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and it's also\non the World Service YouTube."
+    } ]
+  }, {
+    "tStartMs": 756120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So that's on the World\nService YouTube alongside a bunch"
+    } ]
+  }, {
+    "tStartMs": 758840,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "of our videos\non the World Service YouTube as well."
+    } ]
+  }, {
+    "tStartMs": 761640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Remember to like, comment\nand subscribe to this one as well."
+    } ]
+  }, {
+    "tStartMs": 765400,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Thank you so much\nfor joining us on this episode"
+    } ]
+  }, {
+    "tStartMs": 767560,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "of What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 770000,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I'm Iqra and\nwe'll see you next time. Bye."
+    } ]
+  } ]
+}

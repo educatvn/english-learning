@@ -1,0 +1,2570 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Have you heard of snus or snus?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 3400,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Or you might have seen someone\nwith a little plastic circular box."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6680,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "They open it, take out a sachet\nand tuck it up under their lip."
+        }
+      ]
+    },
+    {
+      "tStartMs": 10280,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "They are white nicotine pouches, and\na survey from last year found that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 14320,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "almost one in five pro footballers here\nin England says they're using it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19160,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "It's also really popular\namong teenagers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21480,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "especially in Sweden, and one\nof the biggest brands is called Zyn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25040,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "You might have seen some\nof the so-called influencers online,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28360,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and today you're going to hear\nhow snus works,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 31320,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "what the health risks are and why more\nand more of us are getting hooked on it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 35440,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gilbert and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 43200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Here in the studio with me is\nElena Bailey, a BBC health reporter."
+        }
+      ]
+    },
+    {
+      "tStartMs": 46120,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Hello. Welcome.\nHiya. Thanks so much for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 48720,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So can you break things down for us,\nincluding how we say it? Right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 51720,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Is it 'snoos'? Is it snus?\nWhat is it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 53840,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "How popular is it?\nSo confusing, isn't it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55880,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I feel like there's so many\ndifferent names, but, um."
+        }
+      ]
+    },
+    {
+      "tStartMs": 58720,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "So snus. Snus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 61160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "I think it's meant\nto be pronounced 'snoos', but that is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 64320,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "a smokeless tobacco product which is\nmainly found in Scandinavian countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 70240,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Now, these are little rectangular\npre-portioned pouches"
+        }
+      ]
+    },
+    {
+      "tStartMs": 73400,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "that contain ground tobacco, salt,\nand some other ingredients."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77440,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "And how they work is you pop them into\nyour upper lip, pop them on your gum,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82640,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "and the blood vessels\nin your gum absorb the nicotine"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86200,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "and it gets\ninto your bloodstream that way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88600,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "But there's also white snus\nor nicotine pouches,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 92960,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "what they're referred to.\nAnd these are little pouches."
+        }
+      ]
+    },
+    {
+      "tStartMs": 95760,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "They look very similar in the sense\nthat they're used orally."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99000,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Still, they contain nicotine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101200,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "But white snus and nicotine pouches\ndo not contain tobacco,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106600,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "which is obviously the ingredient\nwhich is originally found in snus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111680,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "So who is making these?\nWho are the manufacturers?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 114120,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "There's loads of\ndifferent manufacturers making these"
+        }
+      ]
+    },
+    {
+      "tStartMs": 116760,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "at the moment,\nbut to name some of the big ones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 119200,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "You've got the British American\nTobacco, you've got Swedish Match."
+        }
+      ]
+    },
+    {
+      "tStartMs": 123880,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Honestly, I feel like\neveryone is jumping on the bandwagon"
+        }
+      ]
+    },
+    {
+      "tStartMs": 126600,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "of these products because they seem\nto be becoming increasingly popular."
+        }
+      ]
+    },
+    {
+      "tStartMs": 131280,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So there's loads\nof different manufacturers out there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133560,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "We know how bad\nsmoking cigarettes is for us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 136120,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "There are all kinds of restrictions on\nsale and on advertising vaping as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 140480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Right. There's a little bit more data\ncoming in on that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "What about this?\nAre there restrictions on it too?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 145160,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "So if you're talking about snus,\nwhich contains tobacco"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148720,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "that's actually illegal to buy\nand sell in the UK,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 152360,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "however, it's not illegal to use."
+        }
+      ]
+    },
+    {
+      "tStartMs": 155080,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "But if you're talking\nabout nicotine pouches there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 158320,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "anyone can technically buy those."
+        }
+      ]
+    },
+    {
+      "tStartMs": 160520,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "It's recommended that it's over\n- you should be age 18 or over."
+        }
+      ]
+    },
+    {
+      "tStartMs": 164200,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "However, there's no strict laws on that.\nSo you can buy it here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 167840,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "But there are other countries\nin the EU where it's been banned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 170760,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Yes, there are other countries in the\nEU where it has already been banned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 174040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So France, Belgium, the Netherlands."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177000,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "They've all seen\nput restrictions in place"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179360,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "around these white nicotine pouches."
+        }
+      ]
+    },
+    {
+      "tStartMs": 181760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Let's zoom out for a second look\nat the kind of world picture,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 184640,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "because there are varying restrictions\non nicotine pouches around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 187760,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Some countries, like Australia,\nThailand and Singapore,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 191320,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "they've got strict bans on nicotine\nproducts, on import sales, marketing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 196440,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "But here in the UK, there's quite\nhigh use of snus among footballers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 200160,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And do you know why they started\nusing it in the first place?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 203000,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "So yeah, that's right. Footballers\nhave admitted to using snus,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 207920,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "these white nicotine pouches\nin recent years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 211280,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And that's probably\nbecause they're known"
+        }
+      ]
+    },
+    {
+      "tStartMs": 213880,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "for being able to help you calm down,\nhelp with concentration,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217640,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "both of which are things that are\nessential if you are a sports person,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222120,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I suppose.\nAnd yeah, I've seen that study."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "I think you're talking about the one\nfrom Loughborough University"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228560,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "where I think,\nwasn't it almost one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 230640,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "in five, um,\nfootballers across various divisions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 236080,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "admitted to using snus and that\nnumbers also potentially a lot higher"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242080,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "because not all footballers want to\ncome out and say that they do use snus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 246880,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "So we could anticipate\nthat the number"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249040,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "of players actually using it\ncould be, in fact, higher."
+        }
+      ]
+    },
+    {
+      "tStartMs": 252200,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Some of the people in the report, they\ngave quotes anonymously because they\ndidn't want to be associated with it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 256280,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "But there were people\nwho said they were addicted to it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 259120,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Does it break doping rules\nif footballers use it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 261760,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "No. So there's nothing actually legally\nstopping footballers from using it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 266120,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Um, it's not on the prohibited list.\nAnd out there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 269200,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "at the moment, there's not any kind\nof solid evidence and enough studies"
+        }
+      ]
+    },
+    {
+      "tStartMs": 273080,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "into the impact that nicotine\ncan actually have on the body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 276840,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And that's what\nfootballers are using."
+        }
+      ]
+    },
+    {
+      "tStartMs": 279080,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Mainly it's the white snus,\nthe nicotine pouches,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "but they do sometimes refer\nto it as snus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 286560,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "What are the health risks?\nDo we know if it causes cancer?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289720,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So if you're talking\nabout brown snus that has links"
+        }
+      ]
+    },
+    {
+      "tStartMs": 293120,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "to oral throat and pancreatic cancer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 296520,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And there's evidence out there\nto suggest that - where in contrast"
+        }
+      ]
+    },
+    {
+      "tStartMs": 300360,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "to white snus, which has\nit's a slightly newer product."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304960,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So there's not\nas much evidence out there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 307480,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "but there are links\nto oral health problems."
+        }
+      ]
+    },
+    {
+      "tStartMs": 310240,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "So things like receding gums, sores,\ntooth decay,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 315680,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "things like that are all problematic\nwhen it comes to white snus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319560,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "And it's also worth noting\nthat these nicotine pouches come\nin various different strengths."
+        }
+      ]
+    },
+    {
+      "tStartMs": 324920,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So some of the strengths are lower\nthan what you'd find in a cigarette."
+        }
+      ]
+    },
+    {
+      "tStartMs": 327960,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Some are equal to. But there's also\nlike nicotine pouches out there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331520,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that are 20 times the nicotine\nstrength found in cigarettes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335600,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "which can have adverse reactions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 338120,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And there's been reports of young\npeople who have never smoked or vaped"
+        }
+      ]
+    },
+    {
+      "tStartMs": 342160,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "before trying these products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 344480,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And there's been reports of them\nkind of feeling really dizzy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 348360,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "feeling nauseous and even passing out\nbecause they're so strong."
+        }
+      ]
+    },
+    {
+      "tStartMs": 352560,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So white snus is massive\nin Scandinavia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 355480,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "especially in Sweden,\nand particularly among young people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359120,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So now let's hear\nfrom someone who's used it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 361760,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "My name is Fanna Ndow Norrby."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363760,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "I'm a journalist and a podcaster\nfrom Stockholm, Sweden."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367280,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "I use the white snus\nfor like two and a half years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370640,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "I had never smoked,\nbut I noticed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 373880,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "that more and more people\naround me started using it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 376680,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "And it was all over social media\nand in podcasts like ads and such."
+        }
+      ]
+    },
+    {
+      "tStartMs": 382400,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And actually, it was even handed out\nfor free around the city,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 386680,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "like outside the subway,\non town squares and such things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391800,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "And it was marketed as tobacco-free.\nAlthough I was a bit skeptical"
+        }
+      ]
+    },
+    {
+      "tStartMs": 397040,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "about all this, I was also so bored\nduring the pandemic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 400320,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "So one day I just decided to try some\nfrom a friend."
+        }
+      ]
+    },
+    {
+      "tStartMs": 405080,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And at first I didn't like it at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 407120,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Like it burnt my gum\nand I got so nauseous"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410720,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "I even had to, like,\nhold on to my friend."
+        }
+      ]
+    },
+    {
+      "tStartMs": 413400,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Um, but I tried it again\nand again and again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417840,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And eventually I bought my own."
+        }
+      ]
+    },
+    {
+      "tStartMs": 420440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "What I liked was how subtle it was."
+        }
+      ]
+    },
+    {
+      "tStartMs": 423720,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Not too strong of a smell.\nIt had fun flavors."
+        }
+      ]
+    },
+    {
+      "tStartMs": 427280,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And it gave me, like a little kick,\nwhich I kind of liked."
+        }
+      ]
+    },
+    {
+      "tStartMs": 431080,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "But, like, it's not\nthat snus or white snus is that good."
+        }
+      ]
+    },
+    {
+      "tStartMs": 435960,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "It's just super, super addictive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 438720,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And yeah, I got hooked."
+        }
+      ]
+    },
+    {
+      "tStartMs": 441080,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "I got quite a lot\nof anxiety, actually,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 443320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "which I've never had that much\nof before,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445840,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and I had a hard time\nfalling asleep as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448680,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And I also kind of felt stressed\nin my body,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 451200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "like even when\nI was supposed to feel relaxed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 454080,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "I was kind of like a bit stressed,\nlike I can feel it in my muscles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 459120,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And that was weird for sure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 461680,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "I was also kind of spooked over\nthe fact that white snus is quite new"
+        }
+      ]
+    },
+    {
+      "tStartMs": 464880,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "on the market, and because of that,\nthere are very few scientific studies"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469480,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "on its real impact on your health\nover time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 472320,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So it just felt like\nincredibly unnecessary"
+        }
+      ]
+    },
+    {
+      "tStartMs": 474600,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "for me to use it and also buy it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477240,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Like, I'm actually spending money"
+        }
+      ]
+    },
+    {
+      "tStartMs": 479440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "on this thing that I don't even know\nhow it will hurt me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 481960,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "It felt like stupid after a while."
+        }
+      ]
+    },
+    {
+      "tStartMs": 486200,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "The process of quitting for me\nwas intense."
+        }
+      ]
+    },
+    {
+      "tStartMs": 490200,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "At first, I managed\nto stay snus free for about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 492920,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "like a month and a half six weeks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 495440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "But I craved it every day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498080,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "Like, everybody around me used it and\nI was just, like, drooling over it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 502560,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And I didn't start buying it\nagain myself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 504880,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "But I definitely were,\nlike, super cheap about it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 508520,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and took it\nwhenever my friends offered it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 511480,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "And, um, one time eventually,\nafter taking too many strong ones,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 517280,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "I had this really, really bad physical\nreaction and it was like I had the flu."
+        }
+      ]
+    },
+    {
+      "tStartMs": 522880,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "Like I was feeling so ill,\ncold sweats and I even threw up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 527680,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And after that night,\nI stopped completely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 530840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And now I'm speaking to Matilda\nSkarehag, a Swedish radio journalist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 534280,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Hi. Hi. So can you tell me\nabout snus use in Sweden?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 539400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "The brown snus has\na super long history,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 542040,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and that's why people are using\nthat kind of product."
+        }
+      ]
+    },
+    {
+      "tStartMs": 545320,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "But the white product, I think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 548520,
+      "dDurationMs": 6120,
+      "segs": [
+        {
+          "utf8": "it's more that people, people\nare not smoking much in Sweden."
+        }
+      ]
+    },
+    {
+      "tStartMs": 554640,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "We have very low smoking numbers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 556920,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I think it's only 5%."
+        }
+      ]
+    },
+    {
+      "tStartMs": 559800,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "And we have\nsuper strict tobacco laws."
+        }
+      ]
+    },
+    {
+      "tStartMs": 564000,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So you can't smoke\nat outdoor seating at restaurants."
+        }
+      ]
+    },
+    {
+      "tStartMs": 568040,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "And I think people\nlike this new product"
+        }
+      ]
+    },
+    {
+      "tStartMs": 574520,
+      "dDurationMs": 7240,
+      "segs": [
+        {
+          "utf8": "and you could see it like everywhere\nwhen it was first launched."
+        }
+      ]
+    },
+    {
+      "tStartMs": 581760,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And I think\nthat's one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 584120,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "of the reasons that they were\ntargeting this young group of people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 588960,
+      "dDurationMs": 5960,
+      "segs": [
+        {
+          "utf8": "and that they used these big influencers\nthat young people looked up to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 594920,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "And I think it was\na very successful marketing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600120,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And what do we know\nabout who's using it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 602920,
+      "dDurationMs": 6800,
+      "segs": [
+        {
+          "utf8": "Yeah. Surveys shows that, uh, snus\nuse among especially young women has,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 609720,
+      "dDurationMs": 6920,
+      "segs": [
+        {
+          "utf8": "uh, increased so much in the past decade\nand is now at record high levels."
+        }
+      ]
+    },
+    {
+      "tStartMs": 616640,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "And, for example, almost a third\nof girls in high school,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 621200,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "uh, say that they use snus,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 623400,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and they are mostly talking about,\nuh, white snus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 626840,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Sweden's got different laws\nwhen it comes to snooze"
+        }
+      ]
+    },
+    {
+      "tStartMs": 628840,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "compared to the rest of the EU.\nCan you talk me"
+        }
+      ]
+    },
+    {
+      "tStartMs": 631640,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "through what the different laws are\nand why are they different?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 635600,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "Sure. The traditional brown snus has\nbeen forbidden in the rest of Europe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 640560,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "for years,\nand Sweden, when joining the union,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 644840,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "was allowed an exemption\nfrom the European tobacco laws."
+        }
+      ]
+    },
+    {
+      "tStartMs": 648120,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So that's why we can use\nthe brown snus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 652120,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "But the white pouches have spread all\nacross large parts"
+        }
+      ]
+    },
+    {
+      "tStartMs": 656760,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "of Europe and even into the US,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 659800,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "mainly because it doesn't fall\nunder the same tobacco laws,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 662920,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "since once again,\nit doesn't contain any raw tobacco."
+        }
+      ]
+    },
+    {
+      "tStartMs": 666920,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And because of this,\nit has been much easier"
+        }
+      ]
+    },
+    {
+      "tStartMs": 670360,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "for the tobacco companies to reach\nthe international market."
+        }
+      ]
+    },
+    {
+      "tStartMs": 674920,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "But some European countries\nhave decided to forbid"
+        }
+      ]
+    },
+    {
+      "tStartMs": 678240,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "these nicotine pouches on their own."
+        }
+      ]
+    },
+    {
+      "tStartMs": 680800,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And for example,\nit's not allowed in Germany,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 683720,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and France\nhas recently voted to ban it as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 687440,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "Are authorities in Sweden doing\nanything to try to reduce its use\namong young people and teenagers?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 693920,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Yeah, they have tried\nto regulate the nicotine pouches"
+        }
+      ]
+    },
+    {
+      "tStartMs": 697840,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "by banning marketing\nthat targets young people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 701560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and by setting an age limit\nfor the product."
+        }
+      ]
+    },
+    {
+      "tStartMs": 703840,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "It's 18 years old, but honestly,\nit hasn't been very successful"
+        }
+      ]
+    },
+    {
+      "tStartMs": 709920,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "because white snus use is still rising\nyear after year among young people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 715840,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "Matilda, it's been a pleasure.\nThank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717760,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "Thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 718960,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And if you're wondering why it's\nbanned in the EU, that's because back"
+        }
+      ]
+    },
+    {
+      "tStartMs": 722200,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "in 1992, all oral tobacco products\nwere outlawed because there were worries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 726800,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that tobacco companies were developing\nnew products to target teenagers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 730880,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "But snus, that's the brown\ntobacco pouches are so ingrained"
+        }
+      ]
+    },
+    {
+      "tStartMs": 734840,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "in Swedish culture\nthat it asked for a special exemption"
+        }
+      ]
+    },
+    {
+      "tStartMs": 737520,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "when it joined the EU in 1995.\nBack to you, Eleanor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 741280,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So we know that lots of people are\nusing snus as a nicotine replacement,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 744880,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "but there are loads of people who\nnever actually smoked who are using it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 748360,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "People like Fanna, who we heard from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 750680,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "So is snus an alternative\nto cigarettes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 753440,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "or is it just an alternative product\nfor big tobacco to sell?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 757600,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So snus is meant\nto be an alternative."
+        }
+      ]
+    },
+    {
+      "tStartMs": 760800,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "To help people stop smoking. However,\nbecause of the marketing of it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 764840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and the fact that it comes in lovely,\nbright, colorful packaging,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 768280,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "there's a whole host\nof different flavors."
+        }
+      ]
+    },
+    {
+      "tStartMs": 770480,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I think it is appealing\nto those that have never smoked"
+        }
+      ]
+    },
+    {
+      "tStartMs": 773880,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "before who want to give it a go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 776280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And I think that's one\nof the potential risks as well,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 778640,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "that young people don't know\njust how addictive\nthis substance really could be."
+        }
+      ]
+    },
+    {
+      "tStartMs": 784400,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "And they're giving it a try without\nknowing the ingredients and the fact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 788560,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "that they could be hooked on this\nfor a long period of time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 791200,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "This whole thing reminds me\nof vaping, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 793440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "The bright colors,\nthe flavors, the marketing of it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 796320,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "More and more young people trying it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 799080,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "In the US,\npeople are allowed to advertise snus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 803240,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Is there talk of bringing in some\nof the restrictions that we're seeing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 806240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "around vapes?\nWell, in the UK,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 808880,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "the Tobacco and Vapes Bill actually\nis going to be putting a stop"
+        }
+      ]
+    },
+    {
+      "tStartMs": 813480,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "to the way that these products\nare marketed at the moment and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 816880,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "is also going to be putting a stop\nto them being sold to young people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 820640,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "It is a bit of a grey area, isn't it,\nbecause they don't actually have tobacco"
+        }
+      ]
+    },
+    {
+      "tStartMs": 824480,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "in them, the white nicotine pouches."
+        }
+      ]
+    },
+    {
+      "tStartMs": 826920,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Do you think snus is going\nto be the new vape then?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 829600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "I think with what we're I think\nit's hard to tell."
+        }
+      ]
+    },
+    {
+      "tStartMs": 832400,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I think they share a lot\nof similarities"
+        }
+      ]
+    },
+    {
+      "tStartMs": 835440,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "in the fact that they come in so many\nflavours, they look more appealing,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 839720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and also the fact\nthat they're more discreet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 842320,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "They're even smokeless, aren't they?\nThey're more discreet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 844440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "They don't smell.\nExactly. You can pop it in your top,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 847560,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "under your top lip,\nand no one's going to know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 849960,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And I think that's something\nthat we might see more of as well,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 853160,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "especially use in schools and\nthings like that is also a worry"
+        }
+      ]
+    },
+    {
+      "tStartMs": 857160,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "because, as we said,\nthey're so discreet,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 859840,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "they're perhaps easier to use\nand get away with."
+        }
+      ]
+    },
+    {
+      "tStartMs": 862680,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And there's this growing trend\nof 'zynfluencers' online, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 865640,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Especially on TikTok. What are the\nissues with influencers promoting it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 870080,
+      "dDurationMs": 480,
+      "segs": [
+        {
+          "utf8": "Absolutely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 870560,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "I think it doesn't take actually\nthat long to scroll on social media"
+        }
+      ]
+    },
+    {
+      "tStartMs": 873720,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and find someone who's using\nthese little nicotine pouches"
+        }
+      ]
+    },
+    {
+      "tStartMs": 877240,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "as part of their morning routine, or\ntheir 'get ready with me' or whatever"
+        }
+      ]
+    },
+    {
+      "tStartMs": 881240,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "for an event or something like that.\nAnd I think that's part of the problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 884720,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "I think they're being marketed\nin a way that's kind of like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 887640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "they're a bit more\nof a trendy lifestyle product,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 890280,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "not as something that you would use\nto help you stop smoking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 893760,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And I think that's problematic\nbecause young people are going"
+        }
+      ]
+    },
+    {
+      "tStartMs": 896480,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "to be encouraged to give them a go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 898640,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "If they're seeing\nthese zynfluencers use them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 901040,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "then surely you'd probably think\nto yourself,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 903280,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "what's the harm? And also,\nI don't know whether you've seen,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 905680,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "but they're being kind of given out,\num, kind of free at music festivals"
+        }
+      ]
+    },
+    {
+      "tStartMs": 910960,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "and events in order\nfor people to give them a go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 914440,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And if you give them a go,\nyou might end up hooked on them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 917160,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Exactly. It's got nicotine in it.\nSo there's that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 919920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Definitely run that risk.\nBritish American Tobacco, who make Velo,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 923760,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "says that nicotine pouches offer a\ndevice free and reduced risk alternative"
+        }
+      ]
+    },
+    {
+      "tStartMs": 928240,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "to continued cigarette smoking\nfor adult smokers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 931280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "They say they would welcome\nsome regulation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 933520,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "but they don't think they should be\nbanned as this would drive consumers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 936600,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "towards illegal and unregulated\nproducts supplied by criminals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 940240,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "And Philip Morris international,\nthat's the tobacco company that owns\nthe company that makes, Zyn says,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 945760,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "that they market and sell their\nproducts only to people of legal age,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 949480,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "which is 21 in the US and only to\nexisting smokers or nicotine consumers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 954720,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And they say that data shows\nthat levels of use"
+        }
+      ]
+    },
+    {
+      "tStartMs": 957400,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "amongst underage people is actually\nextremely low."
+        }
+      ]
+    },
+    {
+      "tStartMs": 960960,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Nordic Spirit says\nit only sells to people over 18."
+        }
+      ]
+    },
+    {
+      "tStartMs": 964320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Eleanor, thank you so much.\nThank you so much for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 966920,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "And thank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 968520,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And if there's something that you've\nseen that you want us to explain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 971040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "you can always get in touch\nwith us right here on YouTube."
+        }
+      ]
+    },
+    {
+      "tStartMs": 973600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "We're also on Instagram\n@bbcwhatintheworld and on WhatsApp."
+        }
+      ]
+    },
+    {
+      "tStartMs": 977560,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "All of our details are\nin the description, the show notes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 980560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "This is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 983040,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and I can't wait to\nhave you back for another episode soon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 986840,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "See you then."
+        }
+      ]
+    }
+  ]
+}

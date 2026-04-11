@@ -1,0 +1,1537 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "75% of our crops grow\nbecause they're pollinated by bees."
+    } ]
+  }, {
+    "tStartMs": 4320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The plants provide food, shelter\nand oxygen, so without the plants,"
+    } ]
+  }, {
+    "tStartMs": 8400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "we'd be in trouble and without the\nbees, the plants would be in trouble."
+    } ]
+  }, {
+    "tStartMs": 11280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So in recent years, a lot of people\nmight have heard other bees in danger."
+    } ]
+  }, {
+    "tStartMs": 16080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The extinction of the bee is coming.\nAll the bees are threatened."
+    } ]
+  }, {
+    "tStartMs": 19320,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's actually, as often happens with\nthese stories, a bit more complicated."
+    } ]
+  }, {
+    "tStartMs": 23320,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Hey, I'm Iqra, and this is What in\nthe World from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 28840,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "What is your reaction\nwhen you see a bee?"
+    } ]
+  }, {
+    "tStartMs": 31120,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Do you run away? Do you stay calm?\nTry and swat it away."
+    } ]
+  }, {
+    "tStartMs": 35680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Well, it turns out that bees are\nin trouble."
+    } ]
+  }, {
+    "tStartMs": 37840,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "In Europe, over the last decade,\nthe number of wild bee species"
+    } ]
+  }, {
+    "tStartMs": 41480,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "at risk of extinction\nhas more than doubled."
+    } ]
+  }, {
+    "tStartMs": 44760,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "And you might be thinking,\nwhy should I care?"
+    } ]
+  }, {
+    "tStartMs": 46880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "And the answer is because\nbees are important to all of us."
+    } ]
+  }, {
+    "tStartMs": 50480,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Without them, our food systems\nwould be seriously affected."
+    } ]
+  }, {
+    "tStartMs": 53760,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "And that's what we're going\nto be chatting about today."
+    } ]
+  }, {
+    "tStartMs": 55640,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "We're going to find out\nwhy bees are so important to us."
+    } ]
+  }, {
+    "tStartMs": 63960,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Okay, so there's no better expert\nfor this than Georgina Rannard,"
+    } ]
+  }, {
+    "tStartMs": 67880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "who's the BBC's climate and science\nreporter. She's on the line right now."
+    } ]
+  }, {
+    "tStartMs": 71320,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Hey Georgina.\nHey Iqra."
+    } ]
+  }, {
+    "tStartMs": 73680,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And I hear we've got a little bit\nof a bee quiz to be doing,"
+    } ]
+  }, {
+    "tStartMs": 76920,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "so I'm gonna pick up the cards."
+    } ]
+  }, {
+    "tStartMs": 79120,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I've got true and false right here."
+    } ]
+  }, {
+    "tStartMs": 82360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Ready to go?\nOkay. First one."
+    } ]
+  }, {
+    "tStartMs": 85560,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Only female bees sting,\ntrue or false?"
+    } ]
+  }, {
+    "tStartMs": 88000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Oh, my gosh,\nI've never thought of this before."
+    } ]
+  }, {
+    "tStartMs": 90760,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Only female bees sting."
+    } ]
+  }, {
+    "tStartMs": 93240,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I'm gonna say that's false."
+    } ]
+  }, {
+    "tStartMs": 96280,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "No. It's true.\nOf course we sting."
+    } ]
+  }, {
+    "tStartMs": 99440,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I didn't know that before.\nThat's such a great fact."
+    } ]
+  }, {
+    "tStartMs": 101720,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "Okay, half\nof the most eaten crops globally\ndepend on pollinators like bees."
+    } ]
+  }, {
+    "tStartMs": 108080,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "I'm gonna say true."
+    } ]
+  }, {
+    "tStartMs": 112360,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "No, it's false.\nIt's actually way more than that."
+    } ]
+  }, {
+    "tStartMs": 116800,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "So it's 75% of the crops\nthat we all eat need pollinators."
+    } ]
+  }, {
+    "tStartMs": 122040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So third one.\nBees have three eyes."
+    } ]
+  }, {
+    "tStartMs": 126280,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "I'm gonna say that's false.\nYes."
+    } ]
+  }, {
+    "tStartMs": 128800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "You got one.\nThey actually have five."
+    } ]
+  }, {
+    "tStartMs": 131120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And then the - so\nobviously there's lots of different -"
+    } ]
+  }, {
+    "tStartMs": 134400,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "in a hive,\nall the bees have different roles."
+    } ]
+  }, {
+    "tStartMs": 136440,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And one of those is the worker bee,\nthe kind of hard working\n- they do the grunt work."
+    } ]
+  }, {
+    "tStartMs": 140640,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "So the average top speed of a worker\nbee is around 20 miles an hour,"
+    } ]
+  }, {
+    "tStartMs": 145000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "or 28km an hour.\nTrue or false?"
+    } ]
+  }, {
+    "tStartMs": 147640,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "That was quite\na detailed question there."
+    } ]
+  }, {
+    "tStartMs": 150280,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "So I'm gonna say true.\nIt is true, which is crazy."
+    } ]
+  }, {
+    "tStartMs": 155720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "These tiny little insects flying\nat 20 miles an hour."
+    } ]
+  }, {
+    "tStartMs": 159560,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Okay, and then the another one of - this\nis the most important bee in the hive."
+    } ]
+  }, {
+    "tStartMs": 163080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "The queen. In her busiest season,\nwhich is summer,"
+    } ]
+  }, {
+    "tStartMs": 166840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "the queen bee lays\nup to 1000 eggs a day."
+    } ]
+  }, {
+    "tStartMs": 170840,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "True or false?\nShe is the queen."
+    } ]
+  }, {
+    "tStartMs": 172840,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So I'm gonna say that's true.\nIt is false."
+    } ]
+  }, {
+    "tStartMs": 176120,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "It's actually 2500 eggs a day."
+    } ]
+  }, {
+    "tStartMs": 179360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Okay, so she's more\nof a queen than I thought.\nYeah, absolutely. The queen's amazing."
+    } ]
+  }, {
+    "tStartMs": 183360,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "You know, the queen bee is actually -\nshe's in charge of the hive."
+    } ]
+  }, {
+    "tStartMs": 187080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And obviously in the hive,\nthey all have different roles."
+    } ]
+  }, {
+    "tStartMs": 189760,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "The worker bees,\nwhich is the male bees,"
+    } ]
+  }, {
+    "tStartMs": 192200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "their job is to clean the hive and if\nthey're not doing a good enough job,"
+    } ]
+  }, {
+    "tStartMs": 195600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "if they're a bit lazy, the queen bee\nand her entourage get him kicked out."
+    } ]
+  }, {
+    "tStartMs": 199600,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "So he's out of the hive and he has\nto survive on his own outside."
+    } ]
+  }, {
+    "tStartMs": 202680,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Hmm. I'm taking that from the queen\nbee. I respect her even more now."
+    } ]
+  }, {
+    "tStartMs": 208120,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Georgina, thank you so much\nfor that quiz to kick things off."
+    } ]
+  }, {
+    "tStartMs": 212400,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "I think I did okay there, but I've got\nsome burning questions for you now."
+    } ]
+  }, {
+    "tStartMs": 217320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Why are bees so important to us?\nAs we talked about in the quiz,"
+    } ]
+  }, {
+    "tStartMs": 221880,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "75% of our crops grow\nbecause they're pollinated by bees,"
+    } ]
+  }, {
+    "tStartMs": 226080,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and also 80% of wildflowers are\npollinated by bees and other insects."
+    } ]
+  }, {
+    "tStartMs": 230640,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "The plants provide food,\nshelter and oxygen."
+    } ]
+  }, {
+    "tStartMs": 233840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So without the plants, we'd be\nin trouble, and without the bees,\nthe plant would be in trouble."
+    } ]
+  }, {
+    "tStartMs": 237840,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So mostly talking\nabout wild bees here."
+    } ]
+  }, {
+    "tStartMs": 239840,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And bumblebees.\nHoney bees are a bit different."
+    } ]
+  }, {
+    "tStartMs": 242160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Obviously we use them\nin hives to produce honey."
+    } ]
+  }, {
+    "tStartMs": 245200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "But where I live,\nfor example, in the UK,"
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "carrots, apples, raspberries,\ntomatoes, they're just some"
+    } ]
+  }, {
+    "tStartMs": 251520,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "of the crops that need pollinating by\nbees and they don't do it on their own."
+    } ]
+  }, {
+    "tStartMs": 255720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "There are thousands\nof other insects that help out, but"
+    } ]
+  }, {
+    "tStartMs": 257880,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "they really are\nthese amazing tiny little creatures"
+    } ]
+  }, {
+    "tStartMs": 260840,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and fascinating and super clever\nin how they organise their hives."
+    } ]
+  }, {
+    "tStartMs": 264160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So I really I love the bee.\nI really respect it."
+    } ]
+  }, {
+    "tStartMs": 266880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Yeah. Okay,\nwell let's talk numbers then,"
+    } ]
+  }, {
+    "tStartMs": 269760,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "because we've mentioned a little bit\nthat populations are declining"
+    } ]
+  }, {
+    "tStartMs": 273400,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "across the world - by how much?"
+    } ]
+  }, {
+    "tStartMs": 275880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So in recent years a lot of people\nmight have heard other bees in danger."
+    } ]
+  }, {
+    "tStartMs": 280680,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "The extinction of the bee is coming.\nAll the bees are threatened."
+    } ]
+  }, {
+    "tStartMs": 283880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "It's actually, as often happens with\nthese stories, a bit more complicated."
+    } ]
+  }, {
+    "tStartMs": 288320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So firstly, there's lots\nof different types of bees."
+    } ]
+  }, {
+    "tStartMs": 291440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "There's bumblebees,\nthose big kind of furry ones."
+    } ]
+  }, {
+    "tStartMs": 294320,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "There's solitary bees which are just\nout there. They don't form hives."
+    } ]
+  }, {
+    "tStartMs": 298440,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And then honey bees, which produce\nhoney. Some of them are doing well."
+    } ]
+  }, {
+    "tStartMs": 302400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So in parts of Asia, bee populations\nare actually quite stable."
+    } ]
+  }, {
+    "tStartMs": 305840,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "In China, honeybees\nare really thriving"
+    } ]
+  }, {
+    "tStartMs": 309160,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "because there's a lot more demand\nfor honey."
+    } ]
+  }, {
+    "tStartMs": 312400,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And then some of those bee groups\nare crowding out the others."
+    } ]
+  }, {
+    "tStartMs": 315320,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "So there are signs\nthat honeybees are threatening\nthe populations of the wild bees."
+    } ]
+  }, {
+    "tStartMs": 321480,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And that is actually\nwhere the biggest problem are."
+    } ]
+  }, {
+    "tStartMs": 323680,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And the biggest decline is.\nSo one study found that,"
+    } ]
+  }, {
+    "tStartMs": 328080,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "between 2006 and 2015, there were\n25% fewer species of wild bees"
+    } ]
+  }, {
+    "tStartMs": 335880,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "than there had been\nfor most of the last century."
+    } ]
+  }, {
+    "tStartMs": 338800,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Yeah. So I guess we're getting\na sense of the different parts"
+    } ]
+  }, {
+    "tStartMs": 341960,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "of our life that bees are useful for."
+    } ]
+  }, {
+    "tStartMs": 345680,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "But when we're talking about their\ndecline, what does that mean for us"
+    } ]
+  }, {
+    "tStartMs": 350440,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "in terms of, like, the food system,\nthe ecosystems that we rely on?"
+    } ]
+  }, {
+    "tStartMs": 355400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "I mean, basically, if the global bee\npopulation and particularly wild bees"
+    } ]
+  }, {
+    "tStartMs": 359120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "were to collapse, we would be\nin really serious trouble."
+    } ]
+  }, {
+    "tStartMs": 362240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "We wouldn't be able to pollinate\nour crops."
+    } ]
+  }, {
+    "tStartMs": 364880,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "It would have to be done manually."
+    } ]
+  }, {
+    "tStartMs": 366400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So farmers\nor maybe even robots in the future"
+    } ]
+  }, {
+    "tStartMs": 370320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "would have to be going around\ndoing that pollination themselves,"
+    } ]
+  }, {
+    "tStartMs": 372880,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "which would be really difficult,\nreally expensive."
+    } ]
+  }, {
+    "tStartMs": 375920,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So yeah, I keep saying this word\nlike pollination."
+    } ]
+  }, {
+    "tStartMs": 379960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "It's a bit like going back\nto learning biology at school,"
+    } ]
+  }, {
+    "tStartMs": 383240,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "but basically to make more flowers\nand seeds,"
+    } ]
+  }, {
+    "tStartMs": 386280,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "the female part of the flower has\nto be fertilised by the male part"
+    } ]
+  }, {
+    "tStartMs": 391200,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "of the flower, of the plant."
+    } ]
+  }, {
+    "tStartMs": 393320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "But obviously\nplants can't move, really."
+    } ]
+  }, {
+    "tStartMs": 395880,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So the pollen grains have\nto be transferred either by the wind"
+    } ]
+  }, {
+    "tStartMs": 399280,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "sometimes or by insects,\nbirds and bats."
+    } ]
+  }, {
+    "tStartMs": 403640,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "They carry the pollen when they fly\nbetween different plants."
+    } ]
+  }, {
+    "tStartMs": 406240,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And this is really where the bee\ncomes in because - so they fly"
+    } ]
+  }, {
+    "tStartMs": 410120,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "between the different plants\nto eat nectar and pollen,"
+    } ]
+  }, {
+    "tStartMs": 412560,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "they're sort of enjoying themselves,\nhaving a feed inside the flower,"
+    } ]
+  }, {
+    "tStartMs": 416720,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "but then they've got sticky legs and\nso the pollen sticks on their legs,"
+    } ]
+  }, {
+    "tStartMs": 420360,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "and then they transplant it between\nall the different plants and flowers."
+    } ]
+  }, {
+    "tStartMs": 424320,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Different species of bees are matched\nreally well to different plants."
+    } ]
+  }, {
+    "tStartMs": 427680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So they've evolved together\nbasically."
+    } ]
+  }, {
+    "tStartMs": 429840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So even the shape of the plant is"
+    } ]
+  }, {
+    "tStartMs": 432360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "sort of - has developed\naround the shape of the bee."
+    } ]
+  }, {
+    "tStartMs": 435000,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And they have you know, they've got -\nthey're basically really fussy eaters"
+    } ]
+  }, {
+    "tStartMs": 437680,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and they, they only really want\ntheir plant or their flower."
+    } ]
+  }, {
+    "tStartMs": 440720,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "And that's why\nit's really complicated."
+    } ]
+  }, {
+    "tStartMs": 442080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And pollination is actually\nreally sensitive and difficult."
+    } ]
+  }, {
+    "tStartMs": 445840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And it's quite\na tricky problem to solve."
+    } ]
+  }, {
+    "tStartMs": 448000,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Okay. So Georgina,\nlet's pause for a second right there."
+    } ]
+  }, {
+    "tStartMs": 450720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "We want to bring in Aruna Bangura."
+    } ]
+  }, {
+    "tStartMs": 453360,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "He's an environmentalist\nand a beekeeper in Sierra Leone."
+    } ]
+  }, {
+    "tStartMs": 456760,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And he's done a lot of work\nto save populations of bees."
+    } ]
+  }, {
+    "tStartMs": 460440,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "For me, typically beekeeping begins\nvery early in the morning."
+    } ]
+  }, {
+    "tStartMs": 464560,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "I'm working on to see the hives,\nobserve them,"
+    } ]
+  }, {
+    "tStartMs": 468120,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "just listen to the sound of the bees,"
+    } ]
+  }, {
+    "tStartMs": 470160,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "the work they're doing and where\nthey are collecting their nectar."
+    } ]
+  }, {
+    "tStartMs": 473960,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "I mostly harvest honey. And then\nalways take good care of the bees."
+    } ]
+  }, {
+    "tStartMs": 479480,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Beekeeping is actually a rhythm\nof patience and care"
+    } ]
+  }, {
+    "tStartMs": 482640,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and also respect for not only\nthe ecosystem, but for the bees."
+    } ]
+  }, {
+    "tStartMs": 486160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So everyday remind me\nthat protecting the bees means"
+    } ]
+  }, {
+    "tStartMs": 489200,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "that we are not only protecting\nthe environment,"
+    } ]
+  }, {
+    "tStartMs": 491560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "but we are protecting the environment\nfor our future."
+    } ]
+  }, {
+    "tStartMs": 493960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Over the past few years, I've engaged\nin training community members"
+    } ]
+  }, {
+    "tStartMs": 498120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "in enhancing\nsustainable beekeeping practice,"
+    } ]
+  }, {
+    "tStartMs": 500760,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "but also revitalising\nlocal bee populations."
+    } ]
+  }, {
+    "tStartMs": 504280,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Bees are not just there\nin terms of like producing honey."
+    } ]
+  }, {
+    "tStartMs": 507920,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "They are also\nkey pollinators that ensures"
+    } ]
+  }, {
+    "tStartMs": 510680,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that crops and wild plants thrive."
+    } ]
+  }, {
+    "tStartMs": 513680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So without them,\nthe food chain is at."
+    } ]
+  }, {
+    "tStartMs": 517760,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "a big problem in enhancing food security\nand also the ecosystem of itself."
+    } ]
+  }, {
+    "tStartMs": 523960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So that is why teaching community\nsustainable beekeeping practice is"
+    } ]
+  }, {
+    "tStartMs": 527320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "so important, because it doesn't\nonly provide sustainable livelihood"
+    } ]
+  }, {
+    "tStartMs": 530920,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "for rural communities\nand their families, but also"
+    } ]
+  }, {
+    "tStartMs": 533760,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "reduce the dependency on activities\nlike logging, hunting and poaching,"
+    } ]
+  }, {
+    "tStartMs": 540120,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "and also it encourage also community\nto protect local forests"
+    } ]
+  }, {
+    "tStartMs": 544480,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and also rather\nthan focusing on exploiting it."
+    } ]
+  }, {
+    "tStartMs": 547960,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And Georgina, back to you, when\nwe're looking at populations of bees"
+    } ]
+  }, {
+    "tStartMs": 551840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "in Europe,\nwhy are they at such high risk now?"
+    } ]
+  }, {
+    "tStartMs": 556800,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "So last year, nearly 100 wild\nbee species in Europe were classified"
+    } ]
+  }, {
+    "tStartMs": 562480,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "as threatened by the International\nUnion for Conservation of Nature."
+    } ]
+  }, {
+    "tStartMs": 566360,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So they said more than 20% of species\nin groups like bumblebees"
+    } ]
+  }, {
+    "tStartMs": 570240,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "and cellophane bees\nare facing a risk of extinction."
+    } ]
+  }, {
+    "tStartMs": 574200,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And those bees are important."
+    } ]
+  }, {
+    "tStartMs": 576240,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "They threaten peas, beans, peanuts,\nclover and trees, plants like daisies."
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This lovely plant that we really like\nin Europe."
+    } ]
+  }, {
+    "tStartMs": 585840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "And it boils down - it's really\nthree long term trends\nthat are threatening bees."
+    } ]
+  }, {
+    "tStartMs": 590640,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "And we see these trends\nthreatening us as humans,"
+    } ]
+  }, {
+    "tStartMs": 594720,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "but also many other animals\nand plants."
+    } ]
+  }, {
+    "tStartMs": 596840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And it's basically\nintensive agriculture, pollution"
+    } ]
+  }, {
+    "tStartMs": 600680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and rising temperatures\nlinked to climate change."
+    } ]
+  }, {
+    "tStartMs": 603800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So intensive agriculture\nis creating habitat loss."
+    } ]
+  }, {
+    "tStartMs": 607560,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So basically land that used to be\na bit-it used to be quite diverse."
+    } ]
+  }, {
+    "tStartMs": 611600,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "It had lots of different trees,\nplants, some very old species."
+    } ]
+  }, {
+    "tStartMs": 615720,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "That land is being turned over\nto make big farms, obviously\nto grow food for us, which is good."
+    } ]
+  }, {
+    "tStartMs": 621040,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "But has consequences,\nor it's developed for housing"
+    } ]
+  }, {
+    "tStartMs": 623400,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and that destroys\nthese very diverse old landscapes,"
+    } ]
+  }, {
+    "tStartMs": 626120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "getting rid of the wide range\nof flowers. There's pollution."
+    } ]
+  }, {
+    "tStartMs": 628920,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "So that's partly just the pollution\nthat humans create generally,"
+    } ]
+  }, {
+    "tStartMs": 633280,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "but also fertilizers\nand nitrogen that's used in farmers."
+    } ]
+  }, {
+    "tStartMs": 636600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Obviously,\nthat's to encourage extra growth but"
+    } ]
+  }, {
+    "tStartMs": 639000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "it disturbs the environment and disturbs\nthe plants that are growing there,"
+    } ]
+  }, {
+    "tStartMs": 642720,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "meaning there's less food available\nfor the bees."
+    } ]
+  }, {
+    "tStartMs": 645160,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And then climate change is obviously\na big one."
+    } ]
+  }, {
+    "tStartMs": 647720,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "So it's changing the seasons\nand where plants and trees can grow."
+    } ]
+  }, {
+    "tStartMs": 652960,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "You're basically just disrupting\nthe natural world."
+    } ]
+  }, {
+    "tStartMs": 656520,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So the way they've lived\nfor thousands"
+    } ]
+  }, {
+    "tStartMs": 659360,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "of years is changing very quickly,\nand they can't adapt to that."
+    } ]
+  }, {
+    "tStartMs": 662600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And all of that is putting\nthese pressures on the bees."
+    } ]
+  }, {
+    "tStartMs": 664760,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "So they're struggling."
+    } ]
+  }, {
+    "tStartMs": 666000,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "These particularly wild bees\nare struggling to survive."
+    } ]
+  }, {
+    "tStartMs": 668480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Okay. I'm learning how important,"
+    } ]
+  }, {
+    "tStartMs": 671040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "how powerful the bee is all\nthroughout this chat, Georgina."
+    } ]
+  }, {
+    "tStartMs": 674240,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "But it's left me wondering,\nwhat are governments?"
+    } ]
+  }, {
+    "tStartMs": 677160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "What are people doing\nto protect the bees?"
+    } ]
+  }, {
+    "tStartMs": 680120,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So I think\nwhat bees have got on their side is"
+    } ]
+  }, {
+    "tStartMs": 682680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "that they're very charismatic\nand I think, you know,"
+    } ]
+  }, {
+    "tStartMs": 686840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "in the last like 20, 30 years,"
+    } ]
+  }, {
+    "tStartMs": 689320,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "like the bee, the PR for the bee\nhas really been quite successful."
+    } ]
+  }, {
+    "tStartMs": 693560,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So in the UK, where I am,"
+    } ]
+  }, {
+    "tStartMs": 696840,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "the government has passed some\nlegislation to ban harmful pesticides,"
+    } ]
+  }, {
+    "tStartMs": 701840,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "which can threaten the bee and kill\noff the plants that they feed on."
+    } ]
+  }, {
+    "tStartMs": 706680,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And then globally,\nlots of countries have signed up"
+    } ]
+  }, {
+    "tStartMs": 709040,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to a pledge called 30 by 30."
+    } ]
+  }, {
+    "tStartMs": 711320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So that's where they've pledged\nto protect 30% of land in the world"
+    } ]
+  }, {
+    "tStartMs": 715600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "for nature by 2030,\nwhich is only a few years away."
+    } ]
+  }, {
+    "tStartMs": 719600,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "And I'm not sure\nwe'll make those targets,"
+    } ]
+  }, {
+    "tStartMs": 721160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "but that includes\nprotecting habitat for bees."
+    } ]
+  }, {
+    "tStartMs": 724920,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Farmers can be can be paid."
+    } ]
+  }, {
+    "tStartMs": 727240,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "This is quite - in parts of Europe\nand the US"
+    } ]
+  }, {
+    "tStartMs": 730400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "- so they can be paid to create\nwildlife friendly areas."
+    } ]
+  }, {
+    "tStartMs": 733560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So even stuff like - if you think\nof a field where crops are grown,"
+    } ]
+  }, {
+    "tStartMs": 737640,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "sometimes they're encouraged\nto create hedges around the edges"
+    } ]
+  }, {
+    "tStartMs": 740560,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "or retain or leave some fields wild\nso that instead of planting there,"
+    } ]
+  }, {
+    "tStartMs": 745960,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and that creates\nnice environments for bees."
+    } ]
+  }, {
+    "tStartMs": 748360,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "But it's also a big focus\nfor scientists."
+    } ]
+  }, {
+    "tStartMs": 750600,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "So last year I met some scientists\nat Oxford University"
+    } ]
+  }, {
+    "tStartMs": 754240,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "in the UK who developed\na synthetic superfood for bees,"
+    } ]
+  }, {
+    "tStartMs": 758840,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and that would help\ngive those honeybees extra food"
+    } ]
+  }, {
+    "tStartMs": 761200,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "over winter\nif their food had run out."
+    } ]
+  }, {
+    "tStartMs": 763800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And I guess if someone's listening\nand thinking, I really want to see"
+    } ]
+  }, {
+    "tStartMs": 766600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "if I can do something if I can.\nWhat would you say to them?"
+    } ]
+  }, {
+    "tStartMs": 771800,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Is there anything we can do on, like,\na personal level to help the bees?"
+    } ]
+  }, {
+    "tStartMs": 775200,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I mean, I would say definitely\nno one should be scared of them."
+    } ]
+  }, {
+    "tStartMs": 777840,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Unless, you know,\nsome people do have an allergy,"
+    } ]
+  }, {
+    "tStartMs": 779920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and obviously,\nthat's that's totally fine."
+    } ]
+  }, {
+    "tStartMs": 783120,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "So try not to be scared of them."
+    } ]
+  }, {
+    "tStartMs": 784440,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "But if you have any land or garden or\nany sort of green space where you live,"
+    } ]
+  }, {
+    "tStartMs": 789920,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "you could make it a place where wild\nbees or bumblebees can thrive in."
+    } ]
+  }, {
+    "tStartMs": 794360,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "So the key is to try and find out\nwhat native plants are in your area."
+    } ]
+  }, {
+    "tStartMs": 799840,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Lots of places now have these sort\nof invasive plants or non-native."
+    } ]
+  }, {
+    "tStartMs": 803480,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "They're not great because the bees\nwho live where you live are native,"
+    } ]
+  }, {
+    "tStartMs": 807640,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and they want to eat native plants that\nthey've been - they've evolved to eat."
+    } ]
+  }, {
+    "tStartMs": 811120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So if you're in parts of the\nMediterranean, it might be lavender."
+    } ]
+  }, {
+    "tStartMs": 814240,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "In West Africa it could be eucalyptus\nor mango. In India, it could be coconut."
+    } ]
+  }, {
+    "tStartMs": 819360,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "So obviously not everyone has green\nspace or money to plant trees or plants."
+    } ]
+  }, {
+    "tStartMs": 826160,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but if you did,\nthat would really help"
+    } ]
+  }, {
+    "tStartMs": 829160,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "because then it just gives the bees\nbasically a local food supply of food,"
+    } ]
+  }, {
+    "tStartMs": 834200,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and that will help them stay healthy\nand have enough food to eat"
+    } ]
+  }, {
+    "tStartMs": 837520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "over the winter\nand hopefully grow those populations."
+    } ]
+  }, {
+    "tStartMs": 840520,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Georgina, I think we need\na whole new episode"
+    } ]
+  }, {
+    "tStartMs": 842600,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "about all the different\ntypes of bees,"
+    } ]
+  }, {
+    "tStartMs": 845280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but for now, thank you so much.\nThank you."
+    } ]
+  }, {
+    "tStartMs": 848280,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And so that's almost it from us\nfor today."
+    } ]
+  }, {
+    "tStartMs": 850640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "But before we leave, I wanted\nto shout out some of your comments"
+    } ]
+  }, {
+    "tStartMs": 853600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "you guys have been leaving.\nThis one comes from our episode"
+    } ]
+  }, {
+    "tStartMs": 856520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "about how birth order\ncould affect personality."
+    } ]
+  }, {
+    "tStartMs": 860520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "It's from Merlion Down\nUnder who says, 'I do believe"
+    } ]
+  }, {
+    "tStartMs": 864080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "that birth order makes\na big difference."
+    } ]
+  }, {
+    "tStartMs": 866600,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I can usually tell if a person is the\neldest or the youngest in the family"
+    } ]
+  }, {
+    "tStartMs": 870560,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "based on how they behave.'\nSo thank you for that one."
+    } ]
+  }, {
+    "tStartMs": 874000,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Remember, you guys can reach out\nto us at any time."
+    } ]
+  }, {
+    "tStartMs": 876680,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Comment below. But for now I'm Iqra,\nthis is What in the World"
+    } ]
+  }, {
+    "tStartMs": 880480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "from the BBC World Service\nand I'll see you soon. Bye."
+    } ]
+  } ]
+}

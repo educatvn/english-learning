@@ -1,0 +1,2111 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "It was amazing. It took him 3.5 hours\nto get down there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 3120,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "I think he spent about two hours\non the bottom and another four hours\nto get back up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 7080,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And that's because of\nthis pressure that we mentioned,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9480,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "that you have to really slowly come\nback up to the surface,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12120,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "because otherwise\nyou would probably die."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14480,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "The blobfish has been called\nthe world's ugliest animal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 18040,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "It's got a sad, droopy old man's\nface, and it looks half melted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23200,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "But deep underwater\nin its natural habitat,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26040,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "it looks much more\nlike a regular fish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28520,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "That's because the immense water\npressure down there keeps it in shape."
+        }
+      ]
+    },
+    {
+      "tStartMs": 32800,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "It's only at the surface where\nthere's a change in water pressure"
+        }
+      ]
+    },
+    {
+      "tStartMs": 36240,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "that its tissue is damaged,\nexplaining all that ugly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 40440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Pressure also explains\nwhy we know so little"
+        }
+      ]
+    },
+    {
+      "tStartMs": 43240,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "about the deepest,\ndarkest depths of the ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 46760,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "In fact, oceans account for more than\n99% of the world's habitats by volume,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52520,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "yet we've only explored around 20%.\nSome people say it's easier"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57200,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "for astronauts to explore space than\nit is for us to reach the ocean floor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62160,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So what's going on down there and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 64160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "what new tech is helping us unlock\nthe secrets of the ocean?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68400,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "We're going to find out today\non What in the World"
+        }
+      ]
+    },
+    {
+      "tStartMs": 70600,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "from the BBC World Service, with me,\nWilliam Lee Adams."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78040,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Georgina Rannard is our Science\nand Climate Correspondent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81680,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Georgina, hi.\nHello."
+        }
+      ]
+    },
+    {
+      "tStartMs": 83680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So you spend a lot of time\nreporting on the ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 87080,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "Do you have a favourite fact?\nSo my favourite fact is, actually,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 91200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "it's not about an amazing animal\nor a strange habitat,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 94400,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "but it's that 50% of the oxygen we\nget on Earth comes from the oceans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99280,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And when I first heard that, it did\nblow my mind because I thought, okay,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 102560,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "so this thing that we're all dependent\non humans, animals, trees, comes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 107200,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "from the ocean, which you don't put\ntogether water and oxygen necessarily."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111200,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "We can't breathe in the water, right?\nBut it produces the oxygen we need."
+        }
+      ]
+    },
+    {
+      "tStartMs": 114960,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "So I have a real fear of vast\nopen water, particularly deep water."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "There's actually a phrase for that.\nThalassophobia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 122840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Are you comfortable in the ocean,\nin deep bodies?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 126160,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So I love the water.\nI want to live by the ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129560,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "I love going swimming, but I think\nI'm kind of happy at the surface."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133560,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "You know, as long as I've got\nthat connection between the water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 136280,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and the air above,\nI don't think I could go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138880,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "- you know, we've heard about these\npeople who travel to the very depths,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 141760,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "the very bottom of the ocean,\nin submersibles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144600,
+      "dDurationMs": 1320,
+      "segs": [
+        {
+          "utf8": "And I definitely couldn't do that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 145920,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So earlier we mentioned\nhow we've only explored"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148520,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "around 20% of the ocean.\nWhy so little?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 152640,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So the oceans are obviously\nreally inhospitable to humans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 155960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So it's really difficult\nfor us to go there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 158360,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "We've - it's you know, one of those\nideas is that we've been to the moon,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 161640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "we know much more about the moon\nthan we than we know about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163760,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "the the deepest parts of the oceans.\nOne of the reasons is that pressure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 168640,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "So as you go further\nand further down into the oceans,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 172920,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "all the way to that water\nabove you is pushing down on you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 176120,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So that creates this amazing pressure.\nSo at the bottom of the ocean,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179160,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "it's a thousand times more pressure\nthan at the top."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182760,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So it's very difficult to cope\nin that environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 185280,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Another problem, or for us anyway,\nis the lack of light."
+        }
+      ]
+    },
+    {
+      "tStartMs": 188520,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "As you get further down,\nthere's less sunlight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "The sun can't penetrate through the\nwater, so it's very dark down there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 193960,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "And also it can be really cold."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195640,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "So it gets to around three or four\ndegrees the further down you go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199800,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So the oceans are also vast. You know,\nthey're covering 70% of our planet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 203840,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "So, you know, you might get\nto a point where you've explored\nreally well, one column of the ocean,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 209160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "but there's still all this other\nvast amount of ocean to get to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 211720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And it's really expensive,\nreally hard."
+        }
+      ]
+    },
+    {
+      "tStartMs": 214120,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And humans don't do very well\nin those depths."
+        }
+      ]
+    },
+    {
+      "tStartMs": 218400,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And the deepest\nof depths in the ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 220760,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "That's in the Mariana Trench."
+        }
+      ]
+    },
+    {
+      "tStartMs": 223600,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "And just so our viewers have a sense\nof that, you could take Mount Everest,\nflip it over, stick it in the ocean,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228720,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "and it still wouldn't reach\nthe deepest point of that trench."
+        }
+      ]
+    },
+    {
+      "tStartMs": 232360,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "When was it first explored?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 234320,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So this is a really sort of famous part\nof of the oceans, people - it has a lot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238720,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "of folklore around it - people\nreally want to explore more of it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 241680,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So the deepest part of the Mariana\nTrench is called Challenger Deep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 244800,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And that part was first explored\nin the 1960s,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 247760,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and that was by two men who went down\nin a US Navy submersible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 251800,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "They were Jacques Piccard and Don\nWalsh, and they managed to get down,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 255960,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "but they kicked up so much dust\nand material"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "as the submersible travelled down,\nthey couldn't really see anything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 262200,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "They didn't get any pictures,\nand they were only there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 264680,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "for about 20 minutes\nbefore they had to come back up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 267680,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "James Cameron,\nfamous filmmaker who made Titanic,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 271120,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "he went down more recently and he was\nable, you know, he's a he's a filmmaker,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275720,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "so he was able to take cameras and\ntook some amazing footage, which is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 279240,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "kind of - was our first view into\nthis very deep part of the ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 283960,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "And then there was another voyage,\nI think, in 2019,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 287960,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and that's when\nanother man went down."
+        }
+      ]
+    },
+    {
+      "tStartMs": 290600,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "It was amazing. It took him 3.5 hours\nto get down there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 293520,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "I think he spent about two hours\non the bottom and another four hours\nto get back up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297520,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And that's because of this pressure\nthat we mentioned that you have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 300320,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "to really slowly come back up\nto the surface,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 302560,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "because otherwise\nyou would probably die."
+        }
+      ]
+    },
+    {
+      "tStartMs": 305160,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "The footage that they took, did\nit look like the rest of the ocean"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308000,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "or were there undiscovered species?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 310840,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "So if you look at the footage, it's kind\nof - they've essentially gone down"
+        }
+      ]
+    },
+    {
+      "tStartMs": 314720,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "into a very deep cavern\nand it's covered in strange sediment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 318560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "There's these sort of plumes\nof dust of different colours."
+        }
+      ]
+    },
+    {
+      "tStartMs": 321600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "They did find\nand document a lot of new species."
+        }
+      ]
+    },
+    {
+      "tStartMs": 325000,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Sort of countless species\nthat we hadn't heard about before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328160,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "But a lot of this is also\nabout looking at the habitats,\nlooking at the territory"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331920,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "and trying to understand what type\nof life form can live there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335680,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "because scientists are\nsort of - they're very curious, and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 340000,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "it's sort of very uncertain about what\ntype of life could live at such depth"
+        }
+      ]
+    },
+    {
+      "tStartMs": 343880,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "without very much light in this kind\nof inhospitable environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 348160,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "You mentioned some of\nthe practicalities there. Pressure,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 350680,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "for instance,\npeople have to go down in submarines."
+        }
+      ]
+    },
+    {
+      "tStartMs": 353720,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "How much can you actually explore\ninside a submarine?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 357480,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "So the technology that we have now\nto explore the oceans is amazing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 361120,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "It sort of advances every year. I was\non a research ship a few months ago"
+        }
+      ]
+    },
+    {
+      "tStartMs": 366520,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "in Greece,\none of the British research ships."
+        }
+      ]
+    },
+    {
+      "tStartMs": 368680,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "It's not exploring the deep ocean,\nbut it was exploring the sea there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 373560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "and they are able to send down"
+        }
+      ]
+    },
+    {
+      "tStartMs": 375680,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "- they have submarines that\n- they don't have people in them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 378760,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "but they're kind of they can move\nthrough the oceans"
+        }
+      ]
+    },
+    {
+      "tStartMs": 381680,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "for months and weeks at a time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383720,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "They have big robotic sort\nof big cubes with arms"
+        }
+      ]
+    },
+    {
+      "tStartMs": 387520,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "that they can they were controlling\ninside the ship from a control room."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391360,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And on those submarines or on those\nrobots, there's a whole load of things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 395000,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "There's cameras. they'll put a light\non the submarine or the the robot,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 398480,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and they light up the area around\nthem. So the cameras are filming."
+        }
+      ]
+    },
+    {
+      "tStartMs": 401200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "They film these amazing plumes of gas\nor dust coming"
+        }
+      ]
+    },
+    {
+      "tStartMs": 404600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "from the sea floor, but\nalso they collect loads of samples."
+        }
+      ]
+    },
+    {
+      "tStartMs": 407400,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "So they have kind of funnels and boxes\nand robotic arms that can pick up rocks,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 412520,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "they can collect gases,\nthey pick up sediment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 415520,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "In the sediment, there'll be\ndifferent life forms, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 418280,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "from the very tiniest bacteria\nor phytoplankton,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 421800,
+      "dDurationMs": 6440,
+      "segs": [
+        {
+          "utf8": "to fish or examples of corals.\nSo they can - it sounds surprising,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 428240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "but they can really,\nyou know, it's not only cameras, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 431120,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "it's also - they can collect bacterial\nevidence or gases or chemicals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 435880,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So there's a whole range of things\nthey're able to sample down there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 439800,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I was searching for new discoveries\nbefore we met."
+        }
+      ]
+    },
+    {
+      "tStartMs": 442640,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And I came across this term\ndark oxygen. What is that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 446520,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So this was\na really amazing discovery last year,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 449960,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and it really challenged some\nof the scientific consensus,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 453320,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "which is that\nyou would not be able to have oxygen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 456040,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "at the bottom of the ocean\nbecause there's no light."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "And you need  - to make oxygen,\nyou need photosynthesis"
+        }
+      ]
+    },
+    {
+      "tStartMs": 461080,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and you need light for that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463960,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So everyone always said, no way,\nthere's oxygen down there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 467320,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And then they found evidence\nof oxygen,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 470520,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "this dark oxygen in these zones\nwhere there's no light."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473240,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "So they think that this dark oxygen\nwas made by metallic nodules"
+        }
+      ]
+    },
+    {
+      "tStartMs": 477960,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "on the seafloor, and that\nwas splitting hydrogen and oxygen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 482000,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And I mean,\nit still is a little bit unsettled."
+        }
+      ]
+    },
+    {
+      "tStartMs": 484200,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "Some of the evidence\nwas challenged later."
+        }
+      ]
+    },
+    {
+      "tStartMs": 486040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "But if it's true and it does look\nlike it's true,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488600,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "it would create this whole other idea\nthat you have this different form"
+        }
+      ]
+    },
+    {
+      "tStartMs": 492680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "of oxygen on the sea floor, which\ncould be sustaining life down there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 496080,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "in a way that scientists\ndidn't think was possible before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 499640,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And the ocean,\nof course, has lots of terrain"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502160,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "under the water that we can't see.\nHave we discovered any new mountains?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506040,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "New trenches?\nYeah. So I think most people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 508280,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "you think about the sea floor\nand floor implies flat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 511960,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "You don't always think of it as being\nthis incredibly varied terrain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 516080,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "but it's as varied\nor even more so than land."
+        }
+      ]
+    },
+    {
+      "tStartMs": 519920,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So there's huge mountains down there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 522200,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "There's ones that are bigger\nthan Mount Olympus in Greece,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524400,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "for example.\nThere's long mountain ranges."
+        }
+      ]
+    },
+    {
+      "tStartMs": 527440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And this again, they're called\nseamounts, by the way, sea mountains,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 530720,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "but we're always discovering new ones.\nSo it's not like they'll, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 535200,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "there'll be one main discovery\nin a year, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 537400,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "every few weeks or months as they're\ncontinually mapping the sea floor,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 540880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "there'll be new discoveries of\nthese sort of strange sea mountains."
+        }
+      ]
+    },
+    {
+      "tStartMs": 544160,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "And then in those they do discover\nnew species and new habitats."
+        }
+      ]
+    },
+    {
+      "tStartMs": 548160,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And Georgina, is there a recently\ndiscovered animal that you'd cite?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551920,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So scientists are always finding\nnew animals in the ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 555120,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Last year, just in one study,\n800 new species were found."
+        }
+      ]
+    },
+    {
+      "tStartMs": 559160,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Often they're not that spectacular."
+        }
+      ]
+    },
+    {
+      "tStartMs": 561280,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "It's a new bacteria or an algae."
+        }
+      ]
+    },
+    {
+      "tStartMs": 563480,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "But they did discover\nwhat's called a guitar shark, which,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 566880,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "as it sounds, literally looks like a\nguitar with fins coming off the back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 570520,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And it's quite flat\nwith two flat eyes on its back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 573800,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "And so many of these newly discovered\nspecies look quite strange to us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 578640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Sometimes they're glowing.\nThey may have odd shapes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 581520,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "They look like aliens.\nWhy are they so strange looking?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585240,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So many of them are really\nweird looking, let's be honest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 587960,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "But it's because they have adapted\nperfectly to their environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 592320,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So there's things,\nthere are transparent fish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 595200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "There's bright red fish.\nThere's things with bulging eyes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598600,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And so one\nof the reasons they're transparent is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 601360,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "because obviously they're\nalways trying to - one of your"
+        }
+      ]
+    },
+    {
+      "tStartMs": 608160,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "main goals is to escape\nbeing eaten by something else."
+        }
+      ]
+    },
+    {
+      "tStartMs": 611640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So if you're transparent,\nthat is easier to do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 615320,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Some of those creatures with the huge\neyes, so there's  something called"
+        }
+      ]
+    },
+    {
+      "tStartMs": 619360,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "an owl fish that has a small body\nand these huge eyes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 621720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And that's because there's not\nvery much light in the deep ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 625040,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So you need bigger eyes to basically\ncapture more light to see around you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 629480,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Food is scarce.\nSo it's quite a hostile environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 633880,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "So you're sort of desperate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 635360,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Fish and other species are\ndesperately looking for more food."
+        }
+      ]
+    },
+    {
+      "tStartMs": 638880,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "So some of them have larger stomachs\nin order to store food for longer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 644320,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Some of them have very unusual\nfeatures to try and capture prey,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 648200,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "because, again, they can be\nquite desperate to find food."
+        }
+      ]
+    },
+    {
+      "tStartMs": 651920,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And then this one is really interesting.\nColour is really important."
+        }
+      ]
+    },
+    {
+      "tStartMs": 654840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So again, you're trying to avoid\nbeing eaten by something else."
+        }
+      ]
+    },
+    {
+      "tStartMs": 658440,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "In the deep ocean, the colour red is\nvery difficult to see"
+        }
+      ]
+    },
+    {
+      "tStartMs": 662440,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "because there's no light\nor very little light."
+        }
+      ]
+    },
+    {
+      "tStartMs": 665160,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So lots of species are dark red"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668760,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "because then they can't be seen by\ntheir predators."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670760,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "So to their predator they look invisible\nor like they're not there at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 674920,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Some people might say,\nall right, this sounds cute."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677240,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "What's the point?\nWhy do we need to be down there?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680400,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Increasingly there are\n- scientists want to understand it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 683720,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "because of the role it plays\nin creating our habitat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 686760,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "You know, it creates\n50% of the world's oxygen,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 689360,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "but also its role in climate change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691120,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So the oceans have absorbed\n90% of the heat,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 694600,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "the excess heat that we've created\non Earth by burning fossil fuels."
+        }
+      ]
+    },
+    {
+      "tStartMs": 698880,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "But as climate change increases"
+        }
+      ]
+    },
+    {
+      "tStartMs": 701480,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and the oceans become more fragile,\nthat balance is shifting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 705520,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So scientists want to understand\nwhat exactly is happening there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 708200,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "So there's something called\nthe biological carbon\nor the biochemical carbon cycle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 712560,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And that's when small,\ntiny, tiny creatures"
+        }
+      ]
+    },
+    {
+      "tStartMs": 716840,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "in the oceans are absorbing carbon\nand taking it down to the deep ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 720640,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And that is part of this huge carbon\ncycle that is protecting the planet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 724720,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "But it's really poorly understood.\nSo that would be - that's one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 728200,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "very important reason for scientists\nto understand how exactly that works."
+        }
+      ]
+    },
+    {
+      "tStartMs": 731480,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "And what does that do\nin terms of protecting us humans and\nother species from climate change?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 737800,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "But another reason is\nthat there's lots of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 743200,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "natural resources and potentially\nvery valuable minerals in the oceans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 747360,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And you may have heard of deep sea\nmining, which is quite a controversial"
+        }
+      ]
+    },
+    {
+      "tStartMs": 752760,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "area."
+        }
+      ]
+    },
+    {
+      "tStartMs": 754880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "As technology advances and\nas we need more renewable technology"
+        }
+      ]
+    },
+    {
+      "tStartMs": 758040,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "or different types of minerals to\nsupport our phones and our computers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 762400,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "there's greater demand\nfor these minerals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 764400,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And one of those places where\nthey exist is in the deep ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 768200,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "But there are big questions\nabout should companies,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 772000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "should should\nwe as humans be going down there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 774440,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "and mining these minerals\nand what damage could that create?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 777520,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "Georgina, thanks so much\nfor explaining that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 779440,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Thank you William.\nThanks for watching another episode"
+        }
+      ]
+    },
+    {
+      "tStartMs": 782480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "of What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 785440,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Do scribble your comments down below"
+        }
+      ]
+    },
+    {
+      "tStartMs": 787480,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "and if you enjoyed, why not join\nthe more than 1.4 million people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 791960,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "who already subscribe to the BBC\nWorld Service YouTube channel?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 796000,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "I'm William Lee Adams\nand we'll see you again soon. Bye."
+        }
+      ]
+    }
+  ]
+}

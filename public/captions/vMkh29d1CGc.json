@@ -1,0 +1,1967 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 200,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Some cities across the world\nare sinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2960,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "These pictures give you an idea\nof what's happening."
+        }
+      ]
+    },
+    {
+      "tStartMs": 5880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "There are both natural\nand human reasons for this;"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9040,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "climate change,\ntoo much groundwater being pumped out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12160,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "and the land cities are built on\ncan all affect things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16040,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Research shows 90% of megacities,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 18760,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "places like Karachi\nand New York are all vulnerable."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "This episode isn't about the doom\nand gloom, though."
+        }
+      ]
+    },
+    {
+      "tStartMs": 26240,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "We wanted to get an idea of\nthe solutions people and governments"
+        }
+      ]
+    },
+    {
+      "tStartMs": 30160,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "are coming up\nwith to protect their cities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 32840,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Iqra Farooq and this is What in\nThe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 42040,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "And I'm here with Aghnia Adzkia who is a\nBBC journalist in Jakarta, Indonesia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 48040,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Hey, Aghnia.\nHi. How are you?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 50640,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "I'm not too bad. How are you doing?\nI'm good, thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 54080,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "Okay, so you're in Jakarta, one of\nthe fastest sinking cities in the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 59680,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "Why is that the case?\nSo there are factors, natural factors"
+        }
+      ]
+    },
+    {
+      "tStartMs": 65360,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "and also man made factor that makes\na city sinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 68920,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "So when we talk about natural factor,\nJakarta is a coastal city that lies"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74640,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "on low lying delta which rivers\ndivide before flowing into the sea,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 80240,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "meaning that Jakarta's soil is\nmore compressible than others"
+        }
+      ]
+    },
+    {
+      "tStartMs": 84840,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and so prone to compaction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88240,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "And the second factor is manmade, which\nis extraction of groundwater pumping."
+        }
+      ]
+    },
+    {
+      "tStartMs": 94160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So it's not about a small amount,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96880,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "but excessive extraction of\ngroundwater that makes the city sink."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101680,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And I'm just pulling up\na definition here, Aghnia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 103720,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Because when we talk\nabout groundwater, we mean the water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 107600,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "that is found\nin rocks under the ground."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109960,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So on top of the groundwater\nthere is soil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 112640,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And on top\nof the soil we have buildings."
+        }
+      ]
+    },
+    {
+      "tStartMs": 115560,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So when the water is pumped out,\nthe soil surface sinks"
+        }
+      ]
+    },
+    {
+      "tStartMs": 118960,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and the ground we walk on also sinks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 121800,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "So it sounds a bit scary.\nHow fast is that sinking happening?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 126600,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "Yes that's correct. So in Jakarta\nitself, the highest sinking rate,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 132080,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "they found it, the researchers found\nit, in northern part of Jakarta."
+        }
+      ]
+    },
+    {
+      "tStartMs": 136080,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "So it has sunk by 11cm per year\nfrom 2014 to 2020."
+        }
+      ]
+    },
+    {
+      "tStartMs": 141600,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And that's, um, they said it's high."
+        }
+      ]
+    },
+    {
+      "tStartMs": 145040,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "But if we compare to other parts\nof Jakarta, it seems slower than, uh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149800,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "the northern part,\nrange from like 1cm to 11cm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 154120,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "So depending on each of the location\nof the area."
+        }
+      ]
+    },
+    {
+      "tStartMs": 158280,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "And so is climate change\nalso playing a role here?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 162840,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "Yes. Of course. When we talk about\nsinking cities it has two component."
+        }
+      ]
+    },
+    {
+      "tStartMs": 167440,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "The first one is land sinking\nand the second one is sea is rising."
+        }
+      ]
+    },
+    {
+      "tStartMs": 171760,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And that's in this sea is rising."
+        }
+      ]
+    },
+    {
+      "tStartMs": 173920,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Part is mainly driven by\nclimate change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177600,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So let's hear a bit more\nabout the link between climate change"
+        }
+      ]
+    },
+    {
+      "tStartMs": 180800,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "and sea level rise, here is our BBC\nclimate reporter Georgina Rannard."
+        }
+      ]
+    },
+    {
+      "tStartMs": 186280,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Our planet's changing climate is leading\nto sea level rise in two main ways."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190520,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "The first one\nyou've probably heard of,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 192320,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and that is melting glaciers\nand melting ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195200,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Warmer temperatures around the globe\nare causing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197800,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Antarctica's vast icebergs to melt."
+        }
+      ]
+    },
+    {
+      "tStartMs": 200760,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "All of that water that used to be locked\nup, frozen is entering our oceans,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205320,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and that is pushing up sea levels."
+        }
+      ]
+    },
+    {
+      "tStartMs": 207560,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "The other main reason is\nsomething called thermal expansion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 211080,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "The oceans are absorbing a lot\nof that heat,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 213560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and as it does that,\nthe water expands."
+        }
+      ]
+    },
+    {
+      "tStartMs": 216240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "That means it's taking up more space\nin the oceans,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218880,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and that is also driving up\nsea levels."
+        }
+      ]
+    },
+    {
+      "tStartMs": 221600,
+      "dDurationMs": 8680,
+      "segs": [
+        {
+          "utf8": "And scientists say that the global\naverage sea level has risen eight\nto 9 inches, or 21 to 24cm since 1880."
+        }
+      ]
+    },
+    {
+      "tStartMs": 230280,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And by the end of this century,\nthey're expected to rise a foot."
+        }
+      ]
+    },
+    {
+      "tStartMs": 234080,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "That's 0.3m.\nAnd it could even be more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 238120,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "So more than ten million people live\nin Jakarta. Huge population."
+        }
+      ]
+    },
+    {
+      "tStartMs": 243320,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "How are they being affected by\nthis sinking then?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 247160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So I went to northern part\nof Jakarta area"
+        }
+      ]
+    },
+    {
+      "tStartMs": 250160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and spoke to a couple\nof people living there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 253160,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "So their houses are sinking\nfrom time to time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 258240,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "And I remember like\nlast year when I visited there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 262240,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "so they needed\nto build their house floor to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265960,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "up to like 30cm to avoid floods\nin the coming years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 270880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And they needed to do that gradually."
+        }
+      ]
+    },
+    {
+      "tStartMs": 274040,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "I'm talking about not like\nin one year, but in ten years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 277880,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So in one house that I went there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 280280,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "they needed to elevate the floor\nup to one meters."
+        }
+      ]
+    },
+    {
+      "tStartMs": 284880,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "It's not only one house, but more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 287680,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Lots of like houses in one area\nin northern part of Jakarta."
+        }
+      ]
+    },
+    {
+      "tStartMs": 291880,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "So that is real. And we can see from\nour eyes that the houses is sinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297440,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And also in some parts\nof the area as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 300040,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "I found a couple\nof buildings leaning toward one side."
+        }
+      ]
+    },
+    {
+      "tStartMs": 303680,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "Because of the uneven surface that\ncaused by the sinking of the land."
+        }
+      ]
+    },
+    {
+      "tStartMs": 308600,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "You really get an idea\nhow this is changing people's lives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 312480,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "And we know it's not just Jakarta\ndealing with this, with the sinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 317040,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "I know you've been speaking\nto some researchers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 319480,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "behind a 2020 study looking at\nother cities that are sinking, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 324080,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "Yes, correct."
+        }
+      ]
+    },
+    {
+      "tStartMs": 325600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Just tell us a little bit more about\nwhat's in that study."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328840,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So the scientists looked\nat 48 cities across the globe,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 333080,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "and they found these coastal cities\nare sinking at varying speed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 337960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So, um, there are variation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 340360,
+      "dDurationMs": 7080,
+      "segs": [
+        {
+          "utf8": "like from 1cm to 11cm in Jakarta\nor to 18cm in Tianjin in China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 347440,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "And that is very worrying because the\neffect of the sinking and also combined"
+        }
+      ]
+    },
+    {
+      "tStartMs": 353280,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "with climate change, it can bring\nmore severe and also prolonged floods"
+        }
+      ]
+    },
+    {
+      "tStartMs": 358120,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "if the government or communities\ndon't act or mitigate the sinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363680,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "We know groundwater\nbeing pumped out is one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 366360,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "of the key reasons\nfor Jakarta's sinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 369480,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "But what about other cities?\nWhen it comes to them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 372320,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "what are the other reasons some\ncities are sinking around the world?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 376640,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "There are varied,\nbut I spoke to lots of scientists"
+        }
+      ]
+    },
+    {
+      "tStartMs": 380240,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and they said\nmainly it's driven by groundwater."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383000,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "So the sinking is not happening in just\nlike last two years or last year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 388280,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "It happened as a result of\nthe activities done like decades ago,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 393480,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "30 years ago or 40 years ago."
+        }
+      ]
+    },
+    {
+      "tStartMs": 395880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And people didn't acknowledge\nthat groundwater pumping"
+        }
+      ]
+    },
+    {
+      "tStartMs": 399160,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "as the cause of the sinking and they didn't know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 402200,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "But as the time passed,\nthey started to learn about it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406160,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And they started to look at how other\ncities are solve those problems as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 410920,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So groundwater,\nyes, is the primary cause"
+        }
+      ]
+    },
+    {
+      "tStartMs": 413400,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "and also natural factors like\nJakarta soil, as I mentioned earlier."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417520,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "Also other cities like in Manila\nand Hong Kong, they've got as well"
+        }
+      ]
+    },
+    {
+      "tStartMs": 423120,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "like this, um, more compressible soil\nthat can cause,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 427840,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "that can cause the sinking happening\nfaster than other areas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 431360,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "and also land reclamation when the\ngovernment or industries put more land"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437520,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "on the edge of the oceans\nto build infrastructures,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441760,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "that also can cause\nthe cities to sink."
+        }
+      ]
+    },
+    {
+      "tStartMs": 445320,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "And it seems like a lot of the\nworst affected cities are in Asia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 449800,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Why is that? Is there a reason for that?\nYes, urbanization,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 453520,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "because people move to those big\ncities for work for better life,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457920,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "and then they need more water, for\ndrinking, for cleaning the houses,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 463200,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "for any other daily activities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 465520,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "But in those cities,\ngovernment doesn't provide, uh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469560,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "pipe water enough to those people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 472280,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So when they didn't find it,\nthey tend to like drill wells"
+        }
+      ]
+    },
+    {
+      "tStartMs": 475720,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and taking out of the groundwater\nby themselves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 478760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "We can see in those Asian cities\npeople have wells"
+        }
+      ]
+    },
+    {
+      "tStartMs": 481640,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "on the front of their houses,\nback of the houses,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 483960,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "or even inside the house,\nbut underneath."
+        }
+      ]
+    },
+    {
+      "tStartMs": 486760,
+      "dDurationMs": 8000,
+      "segs": [
+        {
+          "utf8": "So they kind of like put floors, um,\njust beneath the pumping or the well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 494760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "All right. Well,\nI said at the start of the episode"
+        }
+      ]
+    },
+    {
+      "tStartMs": 497240,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "that it can't all be doom and gloom\nand we don't want to focus on that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 500600,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So what are the Indonesian government\nsaying about all this?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 504040,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Are they introducing\nany measures to help?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 508400,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "So the good thing is Indonesian\ngovernment started to recognize\ngroundwater as the cause of the sinking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514600,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "because, um, spoken I've spoken\nto scientists and some of the cities,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 518680,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "some of the government\nin those African cities,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 520880,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "for example, they don't recognize\ngroundwater as the cause of the sinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 524720,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So it's good that the government\nhas recognized it first."
+        }
+      ]
+    },
+    {
+      "tStartMs": 527640,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "And then they started to bend, uh,\ngroundwater pumping in some areas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 532200,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And one of the, um,\nalternatives they provided"
+        }
+      ]
+    },
+    {
+      "tStartMs": 535520,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "is moving the capital\nto another island."
+        }
+      ]
+    },
+    {
+      "tStartMs": 539000,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "But then another question would be\nhow will they would provide the water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 543280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "to those people\nin the new capital city?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 546360,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "And also, another controversy came up\nthat experts thought"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551720,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "that environmental impact\nof those capital moving is also big,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 556120,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "especially on those, um,\narea where biodiversity is very rich"
+        }
+      ]
+    },
+    {
+      "tStartMs": 560280,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and we can see lots of like plants"
+        }
+      ]
+    },
+    {
+      "tStartMs": 563280,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "and also animals living in\nthose areas and also nearby cities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 569520,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Okay. Well,\nthat's good to hear from Indonesia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 571960,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "What about other cities? I've\nheard good things from Tokyo, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 576280,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "Yeah. Tokyo has been like ahead of\neveryone else in the globe, actually."
+        }
+      ]
+    },
+    {
+      "tStartMs": 581720,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So they started to acknowledge, uh,\nthe groundwater as the cause"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585000,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "of the sinking since I think 1960s"
+        }
+      ]
+    },
+    {
+      "tStartMs": 588520,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "and in 1970s, they imposed a strict\nregulations on groundwater pumping."
+        }
+      ]
+    },
+    {
+      "tStartMs": 594120,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "And now, um,\nit has been slowed down for ages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 599120,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And then again, the next question\nwould be how would they, um, provide"
+        }
+      ]
+    },
+    {
+      "tStartMs": 603560,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "or supply the water\nfor the people who need that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 606720,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "So they built dams and also reservoir in\nthe nearby of the capital city, Tokyo,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 612480,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and also they purify those water,\nthose surface water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 616520,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "and distribute it to homes and\nalso industries so they can provide"
+        }
+      ]
+    },
+    {
+      "tStartMs": 620920,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "or they can supply those clean water\nto, to the people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 624480,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "But also we can learn\nfrom other cities like Shanghai."
+        }
+      ]
+    },
+    {
+      "tStartMs": 627920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Shanghai has injected surface water,\nthe clean surface water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 631760,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "that there have been purified to the\nground, uh, to the groundwater wells."
+        }
+      ]
+    },
+    {
+      "tStartMs": 637040,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "So they basically replace groundwater\nthat has been taken out, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 641720,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "years ago to the new one,\nthe new clean from the surface water."
+        }
+      ]
+    },
+    {
+      "tStartMs": 647240,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "And Shanghai\nhas been successful on that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 649520,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "And also Los Angeles I think has also\ndone similar and some other cities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 654560,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "That's good to hear. But, um, you know,\nthat's the government side of things,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 659160,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "initiatives that are being introduced.\nWhat about the people we know?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 662360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "There's a lot of people out there who\nare passionate to save their cities"
+        }
+      ]
+    },
+    {
+      "tStartMs": 666440,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and do things for themselves,\nfor their own cities as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670520,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "So another alternative\nthat has been proposed by scientists\nis building sponge cities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 676120,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And this idea can be implemented"
+        }
+      ]
+    },
+    {
+      "tStartMs": 678600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "not only by the government\nbut also by the communities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 681560,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "So imagine like sponge\nfor the dishwashing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 686160,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So you know, like when you pour water\nin it, it will absorb. Right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 690160,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "And it will just go through\nthe sponge to the base of the sponge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 694160,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So that's the logic\nof using sponge city concept"
+        }
+      ]
+    },
+    {
+      "tStartMs": 698560,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "in building like green\nand more sustainable city."
+        }
+      ]
+    },
+    {
+      "tStartMs": 701960,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So people have more like green areas\nin their houses, for example,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 706400,
+      "dDurationMs": 7080,
+      "segs": [
+        {
+          "utf8": "or in public spaces in cities to absorb\nwater from rain or from any surface"
+        }
+      ]
+    },
+    {
+      "tStartMs": 713480,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "so that it can naturally flow to\nthe beneath the soil, to the ground."
+        }
+      ]
+    },
+    {
+      "tStartMs": 719240,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "Then it will recharge the compacted\nland that has been dried for ages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 724400,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Because we take out all of the\ngroundwater, uh, from decades ago."
+        }
+      ]
+    },
+    {
+      "tStartMs": 728760,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Sponge city, I love that. Wow. I love\nthe mention of the sponge city there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 733160,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "What other solutions are people\nfinding in other cities affected by"
+        }
+      ]
+    },
+    {
+      "tStartMs": 737680,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "rising sea levels?\nWe have a clip for you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 740080,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Let's hear it from Kunle Adeyemi,\nan architect and founder of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 744240,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "the African Water Cities Project, who's\ndesigned a floating school in Lagos."
+        }
+      ]
+    },
+    {
+      "tStartMs": 749120,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "Makoko floating system, is really\na prefabricated, easy to assemble"
+        }
+      ]
+    },
+    {
+      "tStartMs": 754560,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "and to disassemble floating\nstructure built out of timber"
+        }
+      ]
+    },
+    {
+      "tStartMs": 760360,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "and sometimes bamboo, depending\non the materials available locally."
+        }
+      ]
+    },
+    {
+      "tStartMs": 765040,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "We've been able to build this\nin seven countries,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 770280,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "across three continents improving on the\ntechnology and the systems every time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 776760,
+      "dDurationMs": 6600,
+      "segs": [
+        {
+          "utf8": "Learning where it works, learning how it\nfails and also improving in those areas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 783360,
+      "dDurationMs": 9240,
+      "segs": [
+        {
+          "utf8": "As sea levels rise and the climate\ncontinues to change rapidly,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 792600,
+      "dDurationMs": 7560,
+      "segs": [
+        {
+          "utf8": "especially around coastal cities like\nLagos, and many parts, of Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 800160,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "we will continue\nto face the challenge of flooding"
+        }
+      ]
+    },
+    {
+      "tStartMs": 803520,
+      "dDurationMs": 8360,
+      "segs": [
+        {
+          "utf8": "and the challenges of organizing\nthese waterfront developments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 811880,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And I think,\nbuilding this way,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 815080,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "looking at solutions that adapt\nto the conditions of water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 821240,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "as part of the urban fabric,\nwill become increasingly important"
+        }
+      ]
+    },
+    {
+      "tStartMs": 826760,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "and we believe these would be\nnature based solutions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 831520,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "that would allow us to thrive in\nconditions that would be otherwise,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 836840,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "very challenging."
+        }
+      ]
+    },
+    {
+      "tStartMs": 839200,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So in a way,\nthese are sort"
+        }
+      ]
+    },
+    {
+      "tStartMs": 841200,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "of buildings that are not just\nfor emergencies,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 843520,
+      "dDurationMs": 7320,
+      "segs": [
+        {
+          "utf8": "but they can be part of smarter,\nmore resilient futures for, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 850840,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "many parts of, the African continent\nand, and other parts of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 857560,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "It's been so good to hear\nabout the solutions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 859960,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "have a bit\nof a positive twist on something"
+        }
+      ]
+    },
+    {
+      "tStartMs": 862200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "that can be quite scary as well\nwith these sinking cities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 865120,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Aghnia, thank you so much\nfor coming on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 867680,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Thank you for the invite.\nWhat are your thoughts on all of this?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 871200,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Maybe you have some ideas\non how to save sinking cities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 874560,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Comment below.\nWe read all of them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 876920,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "And don't forget to give this video\na thumbs up to like and subscribe!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 881440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "You've been watching What in\nThe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 884600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I'm Iqraa Farooq\nand we'll see you next time. Bye."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2327 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 360,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Hello, it's Hannah Gelbart here.\nAnd welcome back"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2800,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "to another episode of what in\nthe world from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6520,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Now seeing the Northern Lights used\nto be a once in a lifetime thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 10200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "The night sky lights up\nin pink and green and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 13120,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "of course, everyone rushes\nto capture it on their phones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And did you know\nthere are also Southern Lights too?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 18880,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So today we want to find out\nwhat causes these beautiful colours,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 22360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "why people are seeing them more\noften, and you're going to get tips"
+        }
+      ]
+    },
+    {
+      "tStartMs": 25160,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "from a photographer\non how best to capture them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 30760,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Here with me in the studio to\ntalk this through is Caroline Steel,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "a BBC science presenter.\nHello. Thank you for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 36280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So have you ever seen\nthe Northern Lights yourself?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 38920,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "I wish I could say yes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 40120,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and I feel like I should be able\nto say yes because I'm such a fan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 42640,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "But no, I haven't.\nI've tried so many times."
+        }
+      ]
+    },
+    {
+      "tStartMs": 45120,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So a few times this year I've driven\nto a field outside London"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49200,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and stood in the dark,\nlooking up at the sky,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52360,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "really excited because I've got friends\nmessaging saying they can see them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55480,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "as far south as Brighton,\nbut I've still not managed it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 58200,
+      "dDurationMs": 840,
+      "segs": [
+        {
+          "utf8": "Have you seen them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I've also stood like on my balcony\non tiptoes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62080,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Actually, I shouldn't say that\nbecause the balcony is quite dangerous."
+        }
+      ]
+    },
+    {
+      "tStartMs": 66000,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "But I have stood on the balcony\non my tiptoes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 69320,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "looking out to see\nif I can catch a glimpse of them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 72080,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and it's always just been\nkind of rainy and cloudy where I am,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 75080,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "but I have seen loads\nof photos of them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77480,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "For people who don't know\nwhat they look like, can you describe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 80480,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "what you might be seeing\nif you see them with your naked eye?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82880,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Well, they can look\nabsolutely incredible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 84880,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "So if you imagine a photo,\nI imagine most people have seen\na photo of the Northern Lights."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "You know, you sort of get ribbons\nof light through the sky."
+        }
+      ]
+    },
+    {
+      "tStartMs": 91560,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "It can be green,\nit can be purple, it can be blue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 94720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And that's taken using a camera."
+        }
+      ]
+    },
+    {
+      "tStartMs": 97320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "It can look slightly different\nwith the naked eye."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99840,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Not that I know first hand, but\napparently they're slightly less bright"
+        }
+      ]
+    },
+    {
+      "tStartMs": 103920,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "because when you take a photo,\nyou basically leave the lens"
+        }
+      ]
+    },
+    {
+      "tStartMs": 107120,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "of the camera open for a little bit\nlonger to capture a bit more light."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109880,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "But they do also move and flicker,\nwhich is something"
+        }
+      ]
+    },
+    {
+      "tStartMs": 112600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "you can only really see in person and\ndoesn't capture very well on camera."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116000,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So yeah, they sound amazing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118000,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "I could tell you the science\nabout where they come from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120120,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "I'd like to hear that too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 121720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Okay, so they start\n- they actually start with the sun,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 124960,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "so the sun is constantly emitting\ncharged particles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 128080,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "It's sort of sending something\nwe call solar wind towards Earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 131200,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "So the Earth\nis constantly getting bombarded,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 133280,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "kind of rained on,\nby these charged particles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 135800,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Luckily, the Earth has a magnetic\nfield, and it kind of looks like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 139200,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "if you imagine the Earth,\nit's like the Earth has got two ears."
+        }
+      ]
+    },
+    {
+      "tStartMs": 141800,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "That's the magnetic field."
+        }
+      ]
+    },
+    {
+      "tStartMs": 143520,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And the magnetic field protects Earth\nfrom these charged particles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146680,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So normally, we basically don't -\nwe don't notice that\nwe're being rained on by the sun."
+        }
+      ]
+    },
+    {
+      "tStartMs": 150800,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "But sometimes these things happen called\ncoronal mass ejections, which is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154560,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "where there's essentially a sort\nof explosion on the sun's surface"
+        }
+      ]
+    },
+    {
+      "tStartMs": 157640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "and it sends out a ton\nof charged particles towards Earth"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160720,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and the magnetic field\ngets a little bit overwhelmed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163560,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "and some charged particles can get in\nat the north and south pole."
+        }
+      ]
+    },
+    {
+      "tStartMs": 167720,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And when these charged particles\ncollide with atoms in our atmosphere,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 171800,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "that gives off light and that's why\nwe see these ribbons of light"
+        }
+      ]
+    },
+    {
+      "tStartMs": 175040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "in the sky.\nWhat causes the different colours?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 178080,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "So it depends on what kind of atom\nthe charged particle is colliding with."
+        }
+      ]
+    },
+    {
+      "tStartMs": 183440,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So if it collides with\nan oxygen atom, you see green light."
+        }
+      ]
+    },
+    {
+      "tStartMs": 187560,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And if it collides\nwith a nitrogen atom, you see"
+        }
+      ]
+    },
+    {
+      "tStartMs": 189640,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "kind of bluey, purpley, pink light."
+        }
+      ]
+    },
+    {
+      "tStartMs": 192080,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And normally we see green light\nin the Northern Lights."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195040,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And that's because it's actually kind\nof easier to excite an oxygen atom\nto make it give off light."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199440,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "It's a bit harder to do that\nwith a nitrogen atom,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 201600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "so it only looks sort of blue\nand purple"
+        }
+      ]
+    },
+    {
+      "tStartMs": 203840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "if there's a huge amount of charged\nparticles kind of raining down on Earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 207160,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And I sort of noticed that we are\ndressed like the Northern Lights."
+        }
+      ]
+    },
+    {
+      "tStartMs": 210760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "So I'm like an oxygen atom."
+        }
+      ]
+    },
+    {
+      "tStartMs": 212840,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "In your lovely green jumpsuit.\nIn my green jumpsuit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 215040,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And you're like a nitrogen atom\nin your purple top."
+        }
+      ]
+    },
+    {
+      "tStartMs": 217560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So this was not planned.\nIt was not planned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 220240,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "But is it a case that you see more\nkind of green in the Northern Lights"
+        }
+      ]
+    },
+    {
+      "tStartMs": 223760,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and purple in the southern lights? Am\nI more of a southern light kind of girl?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 227040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Well, it basically depends\non the amount"
+        }
+      ]
+    },
+    {
+      "tStartMs": 230000,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "of charged particles that are coming\ntowards us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 232160,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So you're basically like\na huge coronal mass ejection display."
+        }
+      ]
+    },
+    {
+      "tStartMs": 236360,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I've never been called\na coronal mass ejection before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 239240,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "I'm a smaller\ncoronal mass ejection display."
+        }
+      ]
+    },
+    {
+      "tStartMs": 243080,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So a great compliment I know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 245080,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "I will take that one.\nI'll hold on to it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 247160,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So Caroline, sadly, neither\nof us have ever managed to see them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 250760,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "but I'm going to ask our producers if\nwe can recreate the Northern Lights\nhere in the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 255320,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Oh, fun. So using the lights wrapped\naround the edge of the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257400,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Let's see. Let's see what we can do.\nCue purple."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261080,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "Oh, so you, you're purple."
+        }
+      ]
+    },
+    {
+      "tStartMs": 263000,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So you're actually matching the nitrogen\natoms in the Northern Lights display."
+        }
+      ]
+    },
+    {
+      "tStartMs": 267240,
+      "dDurationMs": 840,
+      "segs": [
+        {
+          "utf8": "So, well done."
+        }
+      ]
+    },
+    {
+      "tStartMs": 268080,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Thank you very much.\nI feel like a northern light."
+        }
+      ]
+    },
+    {
+      "tStartMs": 271320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And let's see if we've got green."
+        }
+      ]
+    },
+    {
+      "tStartMs": 273640,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Nearly! Nearly!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 278160,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Oh! Ooh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280840,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Does the Northern Lights have\nany - does the Northern Lights have\nany yellow in it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283360,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "It could be slightly yellow."
+        }
+      ]
+    },
+    {
+      "tStartMs": 284960,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Yeah, I mean this\nalso - this yellow looks quite green."
+        }
+      ]
+    },
+    {
+      "tStartMs": 287120,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "It could be a yellowy green.\nIt could be a yellowy green."
+        }
+      ]
+    },
+    {
+      "tStartMs": 289560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "This is the closest I've ever been to\nNorthern Lights, so I'm not complaining."
+        }
+      ]
+    },
+    {
+      "tStartMs": 293000,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "It's quite sad isn't it, really?\nWe're trying. We're really trying."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297080,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Well, after that little adventure\nto see our very own northern lights,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 300400,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "let's go back to the studio blue.\nMagic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 305280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "You say that there's loads\nof talk of the Northern Lights and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308400,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "the Southern Lights in folklore, that\nthey've been around for a long time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 311440,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Is it, you know, as old as life itself?\nYes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 315720,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "I mean, we would have had the Northern\nLights before we had life itself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319200,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So as long as the sun has been\nactive, which it has always been,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 322560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and as long as the Earth has had\na magnetic field,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 325040,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "we will have had interactions\nbetween the two,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 327160,
+      "dDurationMs": 1120,
+      "segs": [
+        {
+          "utf8": "and we would have had\nthe Northern Lights."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328280,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So, yeah, humans have coexisted\nalongside them for such a long time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331480,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "but it's only been in the last couple\nof hundred years that we've\nsort of understood what's going on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 335120,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And before we understood that,\ndo you know what some\nof the stories were around them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 338840,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "Yeah. Well, I mean,\nit's different in different cultures."
+        }
+      ]
+    },
+    {
+      "tStartMs": 340680,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "Some people thought it was interactions\nbetween gods, arguments between gods."
+        }
+      ]
+    },
+    {
+      "tStartMs": 346320,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "In some cultures\nit was used to predict the weather"
+        }
+      ]
+    },
+    {
+      "tStartMs": 348480,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and actually\nthere might be some correlation there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 350760,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "because, you know, actually,\nwhether or not you get"
+        }
+      ]
+    },
+    {
+      "tStartMs": 353000,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "a big display can be related\nto what's going on in the atmosphere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 355560,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "I would really love to see them,\nespecially after hearing this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 357960,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "from you and it just seems that more\nand more people are being able\nto see them and take photos of them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 362760,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Are they becoming more common\nand what's causing that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 365880,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So there's kind of two parts to that.\nSo right now we're in what's called"
+        }
+      ]
+    },
+    {
+      "tStartMs": 369880,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "a solar maximum, which basically\nmeans the sun is at its most active"
+        }
+      ]
+    },
+    {
+      "tStartMs": 375120,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and the sun has an 11 year cycle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 377360,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "So it's sort of right now,\nit's more active then it's going"
+        }
+      ]
+    },
+    {
+      "tStartMs": 380120,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "to become less active and in another\n11 years it will be more active again"
+        }
+      ]
+    },
+    {
+      "tStartMs": 383600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and that basically means there are\nmore of these coronal mass ejections."
+        }
+      ]
+    },
+    {
+      "tStartMs": 386840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "There are more kind of big explosive\nevents that emit charged particles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "So that means\nthat there are more displays"
+        }
+      ]
+    },
+    {
+      "tStartMs": 392640,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and you can see displays further away\nfrom the polls."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396720,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "But there's also something else\nwhich I think is kind of contributing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 399800,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "to more people seeing them, which is,\nif you compare now to 11 years ago,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 404040,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "more people have smartphones,\nwe're more interconnected - you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 407520,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "I'm on my local Facebook group and\nif anyone sees the Northern Lights,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 411560,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "everyone will be posting\nand I will get up off the sofa and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 413720,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "leave my living room and go and have\na look and maybe be able to see them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 416720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "which might not have happened 11 years\nago or the 11 years before that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 419960,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So I think our interconnectedness\nsort of makes them easier to see"
+        }
+      ]
+    },
+    {
+      "tStartMs": 422600,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "in that sense and we right now are\nat the best time to be seeing them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 426160,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So, you know,\nif you can act on it now"
+        }
+      ]
+    },
+    {
+      "tStartMs": 428760,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "because you have to wait another 11\nyears to have a good chance again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 432480,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "You said that people are being able\nto see them from further away."
+        }
+      ]
+    },
+    {
+      "tStartMs": 434800,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "I read that people were seeing\nthe Northern Lights from afar,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437200,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "as far south as the Caribbean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 439080,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Where are the best places\nin the world to see them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441720,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So ideally you want to kind of be as\nnear to the Arctic Circle as possible"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "for the Northern Lights, obviously\nnot for the southern Lights."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448120,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "So places like Iceland are\nreally good."
+        }
+      ]
+    },
+    {
+      "tStartMs": 450320,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "Norway, Scotland can be good, and if\nyou want to see the southern lights,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 455400,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "then ideally you want to be\nin Antarctica."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457560,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Obviously that's quite hard, but big\ndisplays can be seen in South Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 461800,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "New Zealand, Tasmania."
+        }
+      ]
+    },
+    {
+      "tStartMs": 465000,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "What do the southern lights look\nlike? Are they as impressive?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 467520,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "Yes, they can be just as impressive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 469000,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I think the reason why\nwe sort of hear about them a bit less"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471880,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "is fewer people live\non land around the South Pole."
+        }
+      ]
+    },
+    {
+      "tStartMs": 476800,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "So if you live in Antarctica, you\nhave a great chance of seeing them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 479000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "But not many people live\nin Antarctica, and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 481040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "then you actually have to go\nquite far to get to South Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 483680,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "to New Zealand, to Tasmania.\nWhereas in the Northern hemisphere,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 487040,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "you know, places like Iceland are\nreally near the Arctic Circle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 489640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So there's just more people that are\nkind of in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 491760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "the place where you could see them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 493840,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "It sounds like winter - well,\nwinter for the Northern hemisphere"
+        }
+      ]
+    },
+    {
+      "tStartMs": 496320,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "might be a better time to see them\nwhen it's a bit darker."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498600,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Plus, there's also something quite\nlike Christmassy about the idea"
+        }
+      ]
+    },
+    {
+      "tStartMs": 501360,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "of the North Pole\nand the Northern lights."
+        }
+      ]
+    },
+    {
+      "tStartMs": 503400,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Is that the best time of year to go?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 505680,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Yes, so in the Northern hemisphere,\nit's November through to March where,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 510080,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "you know, it's winter, the nights are\nlonger, the nights are darker."
+        }
+      ]
+    },
+    {
+      "tStartMs": 513840,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "If you can go somewhere so far north\nthat they have polar winter,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 517400,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "like in Svalbard,\nwhere it's dark 24"
+        }
+      ]
+    },
+    {
+      "tStartMs": 519680,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "over seven, you know,\nthat makes it so much easier."
+        }
+      ]
+    },
+    {
+      "tStartMs": 522320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And then for the southern hemisphere,\nit's the opposite of that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 524840,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So I think it's something like March\nthrough September,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "which is their winter, that's when you\nstand the best chance of seeing them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 531320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And maybe you are\nin a place that you want to go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 533640,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and see the Northern Lights,\nand you want to take a photo of them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 536760,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "If you do, here are some tips\non how best to capture them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 539920,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "from a photographer, Hugo Korhonen,\nwho is 21 and from Finland."
+        }
+      ]
+    },
+    {
+      "tStartMs": 543840,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So my advice for those who are looking\nto capture the Northern Lights,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 547560,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "either on their phones\nor the cameras, like bigger cameras,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 550560,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "that would be the following.\nSo first off, phone users."
+        }
+      ]
+    },
+    {
+      "tStartMs": 553680,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So if you do have a night mode on\nyour phone, please consider using that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 558080,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "because that's going to help you get\njust higher quality photographs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 562720,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "And then what goes to both users,\nis that they have a tripod."
+        }
+      ]
+    },
+    {
+      "tStartMs": 568560,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "This is going to allow\nyou to have longer exposure times,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 571760,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "which is going to lead\nto also better quality photographs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 575160,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "because the more light there is in your\n- that gets into your camera sensor,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 579520,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "then the higher quality\nthe photograph will be."
+        }
+      ]
+    },
+    {
+      "tStartMs": 582840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So use a tripod when possible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585480,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Then if you can adjust the settings,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 587760,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "then please do adjust the ISO and the\nshutter speed and then the aperture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 593960,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "The shutter speed often does depend then\non the speed of the Northern Lights."
+        }
+      ]
+    },
+    {
+      "tStartMs": 599160,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "So there's not a like a setting\nthat always is going to apply,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 604000,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "but between eight seconds and one fourth\nof a second seems to do pretty well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 608920,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "Then ISO, make sure to, especially\nif you have a more modern camera,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 614640,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "don't be afraid to push the ISO\nup because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 617600,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "nowadays the cameras can handle ISO\npretty well,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 621440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and you can also remove it\nin post-production, such as"
+        }
+      ]
+    },
+    {
+      "tStartMs": 624560,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "in Adobe Lightroom and later on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 627320,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Then if there's some extra grain\nas a result in your photos,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 632160,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "and then have as low as possible\nof an f-stop number"
+        }
+      ]
+    },
+    {
+      "tStartMs": 636040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "in order to get as much light\ninto the camera sensor,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 639120,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "again, in order to have\na better quality photograph."
+        }
+      ]
+    },
+    {
+      "tStartMs": 642760,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "It is an experience that\nI believe everyone should experience"
+        }
+      ]
+    },
+    {
+      "tStartMs": 647680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "at least once in their lives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 650520,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "You won't forget that experience."
+        }
+      ]
+    },
+    {
+      "tStartMs": 654120,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "It is Amazing and you lose the track\nof time and stuff. It is wonderful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 660000,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Are there any negative side effects\nof the Northern Lights,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 663440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "all of this magnetic\nfield pollution or,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 666880,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "you know, charged particles\nbeing bopped around our atmosphere?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 670440,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Well, we're really lucky\nthat the Earth has a magnetic field,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 673640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "because if it didn't,\nyou know, life wouldn't be possible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 676280,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "This would be a real problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677760,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "But even when you see\nthe Northern Lights,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680000,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "the charged particles from the sun\nare interfering with our atmosphere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 683720,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "They're kind of - it was\nstill being protected, even in a way,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 686560,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "by that display.\nThey can be a bit of a pain"
+        }
+      ]
+    },
+    {
+      "tStartMs": 689280,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "in that they can interfere with radio\ncommunication between GPS satellites"
+        }
+      ]
+    },
+    {
+      "tStartMs": 694400,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and with, say, the International\nSpace Station and Earth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 697280,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "but nothing too major."
+        }
+      ]
+    },
+    {
+      "tStartMs": 700080,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "They can cause, in absolutely extreme\ncases, they can cause power surges."
+        }
+      ]
+    },
+    {
+      "tStartMs": 705520,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So there was this huge event\nin the mid 1800s"
+        }
+      ]
+    },
+    {
+      "tStartMs": 709120,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "where the sky is absolutely lit up,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 712240,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "there are reports of people\ngetting up and getting ready for work"
+        }
+      ]
+    },
+    {
+      "tStartMs": 715360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "because they thought\nthe sun had risen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717520,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "It was seen as far south\nas the Caribbean. It was huge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 720520,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Back then, we\ndidn't sort of - we weren't dependent"
+        }
+      ]
+    },
+    {
+      "tStartMs": 722920,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "on electricity\nin the same way as we are now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 724920,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "But we did have telegraph machines\nand some of those broke."
+        }
+      ]
+    },
+    {
+      "tStartMs": 727960,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Some people who were using them\ngot electrocuted"
+        }
+      ]
+    },
+    {
+      "tStartMs": 730000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and they did sort of fire sparks.\nSo there was a bit of a problem,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 732440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "but not kind of like it,\nlike it is now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 735320,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "So if we had a - if we had a coronal\nmass ejection of that size now,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 740760,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "it could feasibly interfere\nwith the power grid,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 744840,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "it could maybe interfere\nwith our devices."
+        }
+      ]
+    },
+    {
+      "tStartMs": 747120,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "We have a bit of a clue\nbecause in 1989,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 750560,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "in Quebec,\nin Canada, there was a huge display"
+        }
+      ]
+    },
+    {
+      "tStartMs": 754480,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and that did interfere\nwith the power grid a bit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 756960,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "But it's basically never happened\non a huge scale,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 759000,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "so we don't really know\nwhat would happen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 761160,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "When we talk about space, it gives me\nthis sense of perspective on the world,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 765440,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "like every single bit of stress."
+        }
+      ]
+    },
+    {
+      "tStartMs": 767880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "It makes everything seem insignificant,\nright? It's like I'm a tiny speck,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 771240,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "on a tiny planet, that's being\nbombarded by particles from the sun."
+        }
+      ]
+    },
+    {
+      "tStartMs": 774840,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "It just makes everything\nseem unimportant in comparison."
+        }
+      ]
+    },
+    {
+      "tStartMs": 777240,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "And I'm just a little particle.\nExactly. A little purple particle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 781560,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Caroline, thank you so much\nfor coming on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 783600,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Thank you for having me.\nThank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 785800,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "This is what in the world from the\nBBC World Service I'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 789120,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "You can get in touch with us any time.\nYou can also send us your photos"
+        }
+      ]
+    },
+    {
+      "tStartMs": 792240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "if you have seen the Northern\nor Southern Lights yourself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 794880,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "We're on WhatsApp,\nwe're on Instagram. We are,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 796920,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "of course here on YouTube and you can\ndrop us a line in the comments below."
+        }
+      ]
+    },
+    {
+      "tStartMs": 800480,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "We'll see you next time. Thanks. Bye."
+        }
+      ]
+    }
+  ]
+}

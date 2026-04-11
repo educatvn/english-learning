@@ -1,0 +1,2354 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 40,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Do you know\nwhat the early signs of botulism are?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2200,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "You just have an extreme reaction.\nThat is it, really."
+        }
+      ]
+    },
+    {
+      "tStartMs": 4800,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Some people feel\nlike their mouth is closing up,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 6840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "that their eyes are shutting.\nThey can't breathe properly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 9480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So, yeah, it is\nlike having an allergic reaction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 12440,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And the onset is very, very fast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15200,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "The pressure to have a face that looks\nlike an Instagram filter is real."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19160,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "No pores. A defined jawline,\nbig juicy lips."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23520,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Those perfectly round cheekbones.\nAnd more people are using"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26560,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "non-invasive treatments like filler\nand Botox to get there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 30080,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "But are these treatments\na good choice and are they safe?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Well, I'm here with\nBBC Health reporter Annabel Rackham."
+        }
+      ]
+    },
+    {
+      "tStartMs": 36040,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "Hiya. Thanks for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 37280,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And we are going\nto break this down today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 40240,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Annabel, you probably saw that story\nback in June."
+        }
+      ]
+    },
+    {
+      "tStartMs": 42240,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "There were\nabout 30 people here in the UK"
+        }
+      ]
+    },
+    {
+      "tStartMs": 44400,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "and they were hospitalised\nafter they had fake Botox done."
+        }
+      ]
+    },
+    {
+      "tStartMs": 47480,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Yeah. And it is more common\nthan you might think."
+        }
+      ]
+    },
+    {
+      "tStartMs": 51800,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "It's happening all around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 53600,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So authorities are really worried\nabout counterfeit Botox."
+        }
+      ]
+    },
+    {
+      "tStartMs": 57520,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And we've seen warnings\nin place like the US,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 60040,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "in Colombia and Brazil,\njust to name a few."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62840,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "But before we get into those risks,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 65960,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "we're also going to talk about\nhow Botox works, the side effects."
+        }
+      ]
+    },
+    {
+      "tStartMs": 68680,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Is it a magical cure for wrinkles or\nwill it just give you a frozen face?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 72680,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "That's coming up today on What in\nthe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 75800,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 80240,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "So Annabel, let's start with the basics.\nWhat is Botox? Why do people get it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85840,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "So Botox is actually a brand name,\num, for something that is a toxin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 90680,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Now that actually, you know, we we\nassociate that with being a bad thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 94320,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Um, but in this case,\nuh, you know, it is good from a kind"
+        }
+      ]
+    },
+    {
+      "tStartMs": 98320,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "of medical perspective because it\nreduces the appearance of wrinkles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 102120,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "How does that work?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 103160,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "It's a temporary treatment.\nSo it lasts for a few months,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106560,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "and it temporarily relaxes the muscles\nthat cause your skin to wrinkle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111840,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Um, and the way that it does that,\nnot to get too technical, is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 115760,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "that it blocks nerve signals that would\nnormally cause your muscles to contract."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120400,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "People do mostly get it\nfor cosmetic reasons,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123520,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "but there are actually other benefits\nto having it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 126480,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So in the medical world\nit can be used to treat muscle spasms"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130880,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "and also sweat problems too.\nSo say you've got excessive sweating"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135400,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "in your underarms, it's actually quite\na common treatment for that as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 138120,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "And the other thing I see everywhere\non my socials are these big lips."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142240,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "Right. So that's filler."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144120,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "How is filler different to\nthe anti-wrinkle injections."
+        }
+      ]
+    },
+    {
+      "tStartMs": 147640,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "So they're two\nreally different things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 149600,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "I think the reason they get\nkind of conflated is that they sit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154640,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "under this, you know,\nquick treatment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 156680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So people think that they can pop out\nin their lunch break and,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "you know, go and get their lips done\nor go and get their Botox done."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162680,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "But the way they work is\ncompletely different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 164600,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So I've just explained Botox to you,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 167480,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "but with filler\nit is quite different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 171400,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "That is there to add volume\nto the skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 174320,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "So it's used in kind of\ntwo main ways. Firstly for ageing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 179080,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So we lose collagen\nin our skin as we age."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182400,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So people,\nwhen they get slightly older"
+        }
+      ]
+    },
+    {
+      "tStartMs": 185320,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and don't look the way\nthat they used to, they might get it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187760,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "in parts of the face that used\nto normally have a lot of volume."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190920,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Or, you know, in younger people\nit's often the case that you get it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 194680,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "in places where you didn't have a lot\nof volume to start,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197680,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "but you want to get that look."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199200,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So that is where the lips come\nin the cheeks, the jaw."
+        }
+      ]
+    },
+    {
+      "tStartMs": 202280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "I've been seeing loads of these\nparties where people get together,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 204520,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "they get treatments done,\nor you can just pop out and get it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 206640,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "on your lunch break as well, so it\ndoesn't have to be done by a surgeon?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 209840,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Well, there are different rules\naround the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 212280,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "Every country is different. Here in\nthe UK the rules are quite relaxed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 217280,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "So you there is a register that you\ncan check to see if you know a doctor"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222280,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "or a nurse actually has the sort\nof legal practitioning certificate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228160,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "to mean that they can operate,\nbut like beauticians can do it here,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232480,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "you know, they will go to a prescriber\nwho will give them the medication."
+        }
+      ]
+    },
+    {
+      "tStartMs": 236120,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "You can just go on a training course\nfor one or two days,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238880,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "and you can then the next day inject\nsomeone with Botox,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "whereas a doctor, a dentist, a nurse,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "they've gone through years and years\nof medical training"
+        }
+      ]
+    },
+    {
+      "tStartMs": 248120,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "and specialist courses to know\nexactly where and how to inject it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 252720,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "but it is quite unregulated here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 254920,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "There are meant to be rules that stop\nunder-18s from getting it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 258440,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "but apart from that,\nyou can just walk into a shop"
+        }
+      ]
+    },
+    {
+      "tStartMs": 261400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "on the high street or a dentist,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 264040,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "or, you know, a doctor oftentimes,\nand just go and get it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 267560,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So it is a little bit of a Wild West."
+        }
+      ]
+    },
+    {
+      "tStartMs": 269800,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And that is, I think,\nwhat happened with this story\nwe were talking about in June."
+        }
+      ]
+    },
+    {
+      "tStartMs": 273240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Um, so there were about 30 people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 276560,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "They had all got their Botox done\nwith what was an unlicensed product,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 282080,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "and it ended up being fake Botox.\nHow common is that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 286520,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "If you go into that,\nyou know that clinician's room"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289840,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "and you just see a syringe\non the table with fluid in it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 293400,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "it's really difficult to know\nwhat it is that you're getting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Um, you know, it is,\nas I said, it can be a bit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 300320,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "of a gamble, especially\nif you're going somewhere new."
+        }
+      ]
+    },
+    {
+      "tStartMs": 303200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "You might have seen an advert\non Instagram that's, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 306600,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "it looks slightly cheaper\nthan other places that you've seen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 308920,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "But if you don't have referrals from\nfrom friends or people that you trust,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 313920,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "you haven't found them on a register,\nlike a clinicians register,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317520,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "it is quite difficult to know\nwhat product you're getting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 321360,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And these people who\nwere hospitalised, they had botulism,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 324600,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "which is potentially fatal, although\nvery rare. How do you treat it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 329240,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "As we said before, Botox is a toxin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 332360,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So what you need to treat it\nis an antitoxin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 335200,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And these these are sort of things\nthat aren't really kept in a lot\nof hospitals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And we actually heard that\nwhere it happened in the north east"
+        }
+      ]
+    },
+    {
+      "tStartMs": 341760,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "of England,\nthey had no stocks of this because,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 345240,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "you know, it doesn't really happen\nvery often."
+        }
+      ]
+    },
+    {
+      "tStartMs": 347640,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "So what that does,\nthe first line of defence is that it\nneutralises the toxins in the body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 352720,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So it stops it spreading through\nand infecting the body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 355760,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Do you know\nwhat the early signs of botulism are?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 357880,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "You just have an extreme reaction\nthat that is it really."
+        }
+      ]
+    },
+    {
+      "tStartMs": 360600,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Some people feel\nlike their mouth is closing up,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 362640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "that their eyes are shutting.\nThey can't breathe properly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 365280,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So yeah, it is\nlike having an allergic reaction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367960,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Um, and the onset is very, very fast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370880,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "But overall there are millions\nof people who have it every year and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 375040,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "it is generally quite safe. Right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 377240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Yeah. And I think that's reflected\nin the amount of people\naround the world that get it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 380560,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So there's a cosmetic watchdog\ncalled ISAPS."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383520,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "They did a survey in 2024."
+        }
+      ]
+    },
+    {
+      "tStartMs": 386120,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "And this was looking at the amount\nof people getting it done in,\nas you say, a licensed premises."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390960,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So with a plastic surgeon with a with\na doctor, dentist, that sort of thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 394960,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "They said eight million people around\nthe world have Botox last year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 399760,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So that figure is probably\na lot larger when we do factor"
+        }
+      ]
+    },
+    {
+      "tStartMs": 402920,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "in the people\nthat don't have the licensing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 405720,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "Um, and, you know, it's massive in the\nUS, Japan, Italy, Germany, Brazil that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410600,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "you know, they're some of the biggest\ncountries in the world that get it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 413120,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "In general, Botox is safe.\nBut, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 415680,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "as always,\nthere are risks with everything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So, Annabel, we've talked\nabout these treatments and some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 420320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "of the fake products, like those ones\nthat were used here in the UK."
+        }
+      ]
+    },
+    {
+      "tStartMs": 423400,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "But what about elsewhere\nin the world?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 425160,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Well, I'm going to bring in Dorcas\nWangira, our BBC Africa Health reporter."
+        }
+      ]
+    },
+    {
+      "tStartMs": 428880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Well, it's not that easy\nto pinpoint an exact figure"
+        }
+      ]
+    },
+    {
+      "tStartMs": 432040,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "of how common these procedures are,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 434560,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "but what we are seeing across Africa\nis an increased demand for procedures"
+        }
+      ]
+    },
+    {
+      "tStartMs": 438600,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "like Botox, for dermal fillers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441360,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "for microneedling, laser treatments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 444600,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And we're also seeing this being\nvery common among people who work"
+        }
+      ]
+    },
+    {
+      "tStartMs": 447760,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "in the media industry;\nactors, newsreaders,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 451040,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "social media influencers who can\nafford and access these treatments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 455320,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "People want these procedures,\nwhich are quick."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457720,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "You want to look good faster\nwith less recovery times."
+        }
+      ]
+    },
+    {
+      "tStartMs": 461400,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "For instance, most Botox needles are\nmarketed as having results being seen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 466320,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "within five to ten days or two weeks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 469360,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And people,\nthe modern patient wants that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 471680,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "In Kenya, we've had\nmany stories of procedures gone wrong"
+        }
+      ]
+    },
+    {
+      "tStartMs": 476400,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "or products used that have had\nvery disastrous consequences."
+        }
+      ]
+    },
+    {
+      "tStartMs": 480840,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "There is a popular street\nin downtown Nairobi, the capital,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 484680,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "where you would walk,\nand you'd have sellers enticing you,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488440,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "telling you to to have their beauty\ntreatments, whether for your skin"
+        }
+      ]
+    },
+    {
+      "tStartMs": 492280,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "or other parts of your body.\nAnd they're very, very aggressive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496520,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "We've had stories\nwhere people have had injections"
+        }
+      ]
+    },
+    {
+      "tStartMs": 500040,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and they've had severe reactions,\nparticularly"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502240,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "to substances\nthat they were allergic to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 505280,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Last year, there was a major story\nwhere a patient died while going"
+        }
+      ]
+    },
+    {
+      "tStartMs": 508800,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "through a surgical\naesthetic procedure,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 511520,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and there was so much uproar over it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 513760,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "The clinic was closed, and\nit prompted the government this year"
+        }
+      ]
+    },
+    {
+      "tStartMs": 517280,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "to have a crackdown on clinics,\nwhich were carrying out both surgical"
+        }
+      ]
+    },
+    {
+      "tStartMs": 521400,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and non-surgical beauty procedures."
+        }
+      ]
+    },
+    {
+      "tStartMs": 523680,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "So this year, Kenya's health ministry\nin February did look"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "at 26 aesthetic clinics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 529680,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "It found that 20 were licensed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 532160,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "three were operating while waiting\nfor the licence,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 534800,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and three didn't have any licence,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 537040,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and they had no registration."
+        }
+      ]
+    },
+    {
+      "tStartMs": 539040,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "They also looked\nat more than 102 spas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 541920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "but what they found was\nreally alarming."
+        }
+      ]
+    },
+    {
+      "tStartMs": 544320,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Procedures like microneedling\nwere being carried out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 547480,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "by people who had no expertise.\nThey were not registered,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551000,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "and they didn't even have what was\nneeded for emergency procedures or"
+        }
+      ]
+    },
+    {
+      "tStartMs": 555240,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "in case of an emergency.\nSo it's not just the clinics,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 558440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "it's also the practitioners -\nwho's doing this procedure,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 561880,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "which has become a major concern here\nin Kenya and across Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 566920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Dorcas mentioned microneedling there,\nand that's a cosmetic procedure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 570880,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "It involves these tiny, tiny, sterile\nneedles and they puncture your skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 575240,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And the idea is that that process can\nhelp stimulate collagen and elastin,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 578920,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and that can help to reduce wrinkles,\nsun damage and scarring."
+        }
+      ]
+    },
+    {
+      "tStartMs": 582280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "But let's get back to Botox\nand back to you, Annabel."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585200,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "That survey that you quoted,\nit's from the International Society"
+        }
+      ]
+    },
+    {
+      "tStartMs": 588160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "of Aesthetic Plastic Surgery ISAPS,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 590600,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "and it showed that 24% of people getting\nBotox globally were between 18 and 34."
+        }
+      ]
+    },
+    {
+      "tStartMs": 597080,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "I wanted to ask you,\ncan Botox be used preventatively."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600840,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "Does it actually work?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 601880,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "That is what is said about Botox\nthat it is preventative."
+        }
+      ]
+    },
+    {
+      "tStartMs": 605760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Most people probably do get it\nin their 30s and their 40s,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 608960,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "once the wrinkles become visible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 611760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "But it's a thing of every person\nis different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 614840,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So you need to seek out\nmedical advice as an individual."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618520,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And we've spoken a lot\nabout good practitioners."
+        }
+      ]
+    },
+    {
+      "tStartMs": 621200,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "They will turn away\npeople that are too young"
+        }
+      ]
+    },
+    {
+      "tStartMs": 623920,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "because there is no point\nreally, I think,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 626920,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "on doing it on someone so young,\nyou know they are a baby."
+        }
+      ]
+    },
+    {
+      "tStartMs": 629920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Why do they need,\nwhy do they need baby Botox?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 632320,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "But I think it just comes back\nto that pressure from society"
+        }
+      ]
+    },
+    {
+      "tStartMs": 636720,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "of just seeing perfection\nall the time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 639680,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And when you look at these 18,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 642360,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "you know, 18, 19-year-olds\nthat are getting it done,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 645240,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "it's because they've been brought up\nin a world of perfection."
+        }
+      ]
+    },
+    {
+      "tStartMs": 648960,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "They have seen perfection around them\non their screens."
+        }
+      ]
+    },
+    {
+      "tStartMs": 651960,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "Um, you know, from adverts to television\nprogrammes to films to social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 657800,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Every bit of media\nthat they have consumed growing up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 660360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "has shown people that look perfect."
+        }
+      ]
+    },
+    {
+      "tStartMs": 662520,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "So it's understandable why 18-\nyear-olds are thinking about having"
+        }
+      ]
+    },
+    {
+      "tStartMs": 667520,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "work done, you know, as soon\nas they become an adult, essentially."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670640,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "I've got friends\nwho've started on Botox,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 672920,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and then you get it done it lasts,\nwhat, between three to six months?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 675480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And then it kind of wears out.\nSo you get it, get it done again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677840,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Do we know what\nthe long-term effects of this are?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 681200,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Again we think that this is safe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 683720,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So the idea about Botox is\nthat it is a safe procedure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 687760,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "But people have only really been getting\nit done for around 20 to 30 years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 692240,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So again, it's really hard to know\nwhat the long-term effects are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 696040,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Some say that because\nyou're consistently relaxing muscles,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 700080,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "it does become less effective\nover time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 702800,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So that is\nwhy some of the thinking around it is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 704920,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "that the later you start,\nthe longer you can get it done."
+        }
+      ]
+    },
+    {
+      "tStartMs": 708960,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "If you start\nand you like the way you look,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 711040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "you maybe can't go back\nto how you looked before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 713600,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "The fact that we're all\non social media all the time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 715920,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and constantly in the spotlight,\nthere is like an element"
+        }
+      ]
+    },
+    {
+      "tStartMs": 719040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "of these treatments\nbecoming much more normalised."
+        }
+      ]
+    },
+    {
+      "tStartMs": 721680,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "Yeah and I think it's that,\nthat sort of acceptable thing\nfor celebrities to talk about."
+        }
+      ]
+    },
+    {
+      "tStartMs": 727280,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "I think there's a lot\nthat they say they won't have,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 729400,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "but the people\nthat we really like on screen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 731960,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and online, you know,\nthey're happy to talk about Botox"
+        }
+      ]
+    },
+    {
+      "tStartMs": 734720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "because it's quite noticeable\nwhen they move their faces."
+        }
+      ]
+    },
+    {
+      "tStartMs": 737360,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "But also, as we say,\nit is becoming so much more common."
+        }
+      ]
+    },
+    {
+      "tStartMs": 740720,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "And it is a treatment that,\nyou know, Nicole Kidman might have,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 744280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "but your mum might have as well,\nbecause, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 746840,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "the price point isn't ridiculous\nwhen you compare it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 749280,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "to more invasive treatments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 751440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Final question for you, Annabel,\nif someone does want to go ahead"
+        }
+      ]
+    },
+    {
+      "tStartMs": 754240,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "and get these treatments,\nwhat should they be thinking about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 756360,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "when it comes to choosing\nwho they want to perform them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 759240,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So there are a few things to look out\nfor. The advice here in the UK,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 763040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and with a lot of governments around\nthe world and health authorities,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 766000,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "is that you should only go\nto a licensed practitioner."
+        }
+      ]
+    },
+    {
+      "tStartMs": 769080,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So it's quite easy to look up online.\nMany different countries will have lists"
+        }
+      ]
+    },
+    {
+      "tStartMs": 773160,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "of people that have the legal\nrequirements to do that procedure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 777600,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So that is one\nof the first things to look out for."
+        }
+      ]
+    },
+    {
+      "tStartMs": 779920,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "Secondly, the advice is don't go\non social media looking for deals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 784560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "You know, don't go\nand look for \"buy one, get one free\"."
+        }
+      ]
+    },
+    {
+      "tStartMs": 787240,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Or as you mentioned before,\nBotox parties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 789720,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "You know, these are the sort of things\nwhere you can come into problems"
+        }
+      ]
+    },
+    {
+      "tStartMs": 793440,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "because, you know, a doctor or\na dentist is most probably not going"
+        }
+      ]
+    },
+    {
+      "tStartMs": 797520,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "to be advertising their services\nin that way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 800920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And also just ask a lot of questions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 803320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "You can ask for testimonials\nfrom the person that you're going to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 806400,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Check for reviews online to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 808960,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "see what, you know, other\npeople have to say about the service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 812680,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Basically, don't just, you know,\nwalk down your local high street"
+        }
+      ]
+    },
+    {
+      "tStartMs": 816840,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "and see an advert in a shop\nand think,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 818920,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "oh, I'm going to go in there\nand get a treatment done."
+        }
+      ]
+    },
+    {
+      "tStartMs": 821120,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Make sure that you really, you know,\nyou really know what you're having done,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 824720,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "you get\nall your questions answered."
+        }
+      ]
+    },
+    {
+      "tStartMs": 826800,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Annabel, thank you so much\nfor coming in the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 828920,
+      "dDurationMs": 1080,
+      "segs": [
+        {
+          "utf8": "Thank you for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 830000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "That's it for today.\nThank you so much for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 832040,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart. This is What in\nthe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 835280,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "We'll see you next time."
+        }
+      ]
+    }
+  ]
+}

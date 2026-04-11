@@ -1,0 +1,2183 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 40,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Hello, I'm Hannah Gelbart,\nand this is What"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2280,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 4720,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "We know that our oceans\nand the creatures living in them are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 7600,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "under threat from things\nlike warming waters and pollution."
+        }
+      ]
+    },
+    {
+      "tStartMs": 11200,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Now a huge cruise ship is about\nto be sunk on purpose to become"
+        }
+      ]
+    },
+    {
+      "tStartMs": 15360,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "the world's largest artificial reef."
+        }
+      ]
+    },
+    {
+      "tStartMs": 17720,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "The people behind it say\nthat it'll improve biodiversity,\nlocal tourism and fishing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 22600,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "But are artificial reefs actually good\nfor the environment or even necessary?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 29520,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Here with me in the studio to\nbreak this down is Georgina Rannard,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 32240,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "our climate and science reporter.\nHello. Welcome back to the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 35400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Thank you. Hannah. Good to be here.\nSo let's start off with this ship."
+        }
+      ]
+    },
+    {
+      "tStartMs": 38600,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "It's called the SS United States and\nit's absolutely massive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 43280,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "It's longer than the Titanic. It could\ncarry over 3000 passengers and crew,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 47800,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and it is now about to go down\nto the bottom of the ocean"
+        }
+      ]
+    },
+    {
+      "tStartMs": 50960,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "off the coast of Florida.\nSo why is it being sunk?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 53840,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "The main reason they're doing that\nwell, there's two reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 56320,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "One is because they want to create\nthis artificial reef."
+        }
+      ]
+    },
+    {
+      "tStartMs": 59440,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "And what that means is it's\nabout putting a man-made structure\non the bottom of the sea."
+        }
+      ]
+    },
+    {
+      "tStartMs": 65600,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "Where the idea is that when they sink\nit, it creates this structure"
+        }
+      ]
+    },
+    {
+      "tStartMs": 69720,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "that fish, octopus,\nvertebrate plants can all colonise"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74720,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "because they, like everyone else,\nlike to have a home."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77400,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "And it will create a sort of natural\nenvironment for those things to live in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 82040,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So one is to improve that marine\nenvironment for those species,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85520,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "but the other is really also\nabout tourism."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88080,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "So the ship will be sunk in Florida\nwhere it will join tens\nof other artificial reefs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 93280,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And you can really imagine if you\ngo there on holiday and you find out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96440,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "there's this historic,\nbeautiful ocean liner"
+        }
+      ]
+    },
+    {
+      "tStartMs": 99120,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "on the bottom\nof the sea there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101440,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And people may go out\non glass-bottomed boats,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 104280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "they may go diving\nor even snorkeling,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106520,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and they would be able to see all\nof these species"
+        }
+      ]
+    },
+    {
+      "tStartMs": 108800,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "that have colonised this ship."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111120,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And the idea is\nit would obviously attract"
+        }
+      ]
+    },
+    {
+      "tStartMs": 115200,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "those tourists, bring economic\nbenefit to the area and also perhaps,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119560,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "encourage divers not to visit\nsome of the other more natural reefs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 123360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "So kind of moving that tourism away"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125520,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "from more precious environments\nlike real coral reefs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129360,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "What is the process going to involve\nin order to prepare this ship,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 133880,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "this ocean liner, so that it becomes\nan artificial reef?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So it's quite a long process\nfrom beginning to end."
+        }
+      ]
+    },
+    {
+      "tStartMs": 141160,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "This one will take one\nand a half years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 143360,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "That's because, as you can imagine,\nit's full of contaminated materials."
+        }
+      ]
+    },
+    {
+      "tStartMs": 147720,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "It's got metal, plastics, oils,\nchemicals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 151400,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "And they want to clean those out, remove\nall that material, take away the paint."
+        }
+      ]
+    },
+    {
+      "tStartMs": 155920,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "They then also have to begin\nthe process of sinking the ship."
+        }
+      ]
+    },
+    {
+      "tStartMs": 159280,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "And it is as simple, in the past anyway,\nas basically exploding the ship."
+        }
+      ]
+    },
+    {
+      "tStartMs": 164680,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "So I looked into some\nof the previous ships."
+        }
+      ]
+    },
+    {
+      "tStartMs": 167440,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "So aircraft carriers\nhave been sunk there as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 169800,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And they basically load the bottom of\nthe boat, which is underneath the water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 173280,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "with explosives, blow them up,\nand then all the water,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 176080,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "of course, comes into the bottom\nand it sinks. For this ship,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179880,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "for the SS United States, it will cost\nabout $10 million."
+        }
+      ]
+    },
+    {
+      "tStartMs": 183280,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Is there anything that people do\nto encourage wildlife, marine life"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187160,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "to come and colonise it\nand make a home out of it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 189760,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Or do they just let\nnature get on with it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 192440,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So by and large,\nit's a natural process."
+        }
+      ]
+    },
+    {
+      "tStartMs": 194760,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So it can, it varies on"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197280,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "on the location where you sink the\nship or create the artificial reef."
+        }
+      ]
+    },
+    {
+      "tStartMs": 201160,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "But it is as simple as\nyou let the ship sink or whatever it is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205600,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "and then naturally,\nthose species will begin to colonise."
+        }
+      ]
+    },
+    {
+      "tStartMs": 209960,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Some studies say that\nwithin five years you can have\nan increased number of fish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 213560,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "You can have coral and algae growing\nover all of those surfaces."
+        }
+      ]
+    },
+    {
+      "tStartMs": 217240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So you can imagine\nthose species moving inside"
+        }
+      ]
+    },
+    {
+      "tStartMs": 220680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "and living inside the dining rooms\nor the cabins,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222760,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "or growing\nalong the railings of the ship."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225360,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "In some cases,\nthey do try to encourage it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 227800,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So there's a case in Mexico\nwhere they transplanted some coral"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231200,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "onto the artificial reef with the\nidea that that would sort of kick off"
+        }
+      ]
+    },
+    {
+      "tStartMs": 234720,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "the process of species living there\nand taking root."
+        }
+      ]
+    },
+    {
+      "tStartMs": 238960,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "But it is as simple as you're\nbasically creating a new home for them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 242560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And over time,\nthey'll sort of discover"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "the area, and a biological cycle\nwill establish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 248080,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So if you have plants growing there,\nthey will create nutrients."
+        }
+      ]
+    },
+    {
+      "tStartMs": 251080,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "The fish may move there\nbecause there are more nutrients"
+        }
+      ]
+    },
+    {
+      "tStartMs": 254040,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and that creates a feedback cycle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257400,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "You mentioned that this particular\nship is going to go through"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259720,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "a very meticulous preparation process\nto remove some of the contaminants."
+        }
+      ]
+    },
+    {
+      "tStartMs": 264520,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Is there a risk that it still could be\ntoxic or polluting to the environment?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268440,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And what about, you know,\nwhat if a ship sinks naturally?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 272080,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Could oil not leak out of it and\ndamage the environment around it then?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275880,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": " \nYeah. I mean,\nI think it's a really good question."
+        }
+      ]
+    },
+    {
+      "tStartMs": 277960,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "In the US, it appears to be\nquite a well regulated industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 281760,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "There are whole companies\nthat are set up just for this process"
+        }
+      ]
+    },
+    {
+      "tStartMs": 285560,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "to take a ship\nfrom essentially being written off."
+        }
+      ]
+    },
+    {
+      "tStartMs": 288320,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "It no longer has a commercial use,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 291160,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and they take it from there\nto the point where it can be sunk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 294200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And that process appears\nto involve quite a lot of care."
+        }
+      ]
+    },
+    {
+      "tStartMs": 298040,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "You know, they do decontaminate it.\nThey take away those chemicals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 301400,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "But of course, there's always a risk\nthat the job hasn't been done properly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304960,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "There are some people\nwho are really unhappy about the fact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 307080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "that this ship is being sunk\nbecause as you set it out,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 310160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "it's this incredible old piece\nof history, essentially."
+        }
+      ]
+    },
+    {
+      "tStartMs": 314400,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And some historians,\nnot necessarily environmentalists,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317560,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "they would rather that it becomes\na museum. Is making artificial reefs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323400,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "do you think, just a way for humans\nto get rid of waste items, things"
+        }
+      ]
+    },
+    {
+      "tStartMs": 327520,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "like big old ships that are otherwise\nreally difficult to get rid of?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 332240,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "See, I actually think that it's\nprobably quite an inconvenient way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335640,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "of disposing of a ship\nbecause it's very involved process."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339280,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "I said earlier that this one,\nthe SS United States,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 342040,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "will cost around $10 million to\nto turn into an artificial reef."
+        }
+      ]
+    },
+    {
+      "tStartMs": 346560,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And you've got all\nof the cost of the decontamination."
+        }
+      ]
+    },
+    {
+      "tStartMs": 349480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "But also a lot of those materials\ncould have been sold off."
+        }
+      ]
+    },
+    {
+      "tStartMs": 352520,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "You know, metal\nscrap metal is very valuable now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 355040,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "But I think you're right that\nit's quite controversial in terms of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 358520,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "if you look at the pictures of it,\nit is kind of a stunning ship."
+        }
+      ]
+    },
+    {
+      "tStartMs": 361480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "You know, it's a bit aged now\nand a bit decrepit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 364520,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "The company behind it would say, well,\nthis is a way of preserving its legacy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367880,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And at least, they say, it will have\nsome value on the sea floor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 371360,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "Do you think that we still need\nto be putting more stuff\non the bottom of the ocean?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 376360,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Do we not have enough stuff\ndown there already?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 378560,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So I think there is a lot of like you\nsaid, there's a lot of stuff down there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 381840,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "There's around three million shipwrecks\nand similar wrecks on the sea floor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 387520,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "But the ocean is a vast part\nof our planet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390600,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "You know, it covers a huge\narea of the surface of the Earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 395280,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So I don't think it's a question of us\nrunning out of space for these wrecks,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 398280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "or even there being too many\non the seafloor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 400840,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "I think the main question is,\nis this really the best way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 404040,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "of trying to protect marine species\nwho who are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 406560,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "at threat from global warming\nand pollution in the oceans?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 409720,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And so perhaps sinking these vast\nmetal structures down to the seafloor"
+        }
+      ]
+    },
+    {
+      "tStartMs": 413400,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "isn't really the best way\nof trying to create environments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 415960,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And I think lots of environmentalists\nwould say we should be focusing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 419120,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "on the environments we already have\nand protecting those,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 422880,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "rather than trying to create this\nmixture of a bit of tourism, diving,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 427160,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "plus a place for these species to live.\nAnd it's not just ships."
+        }
+      ]
+    },
+    {
+      "tStartMs": 431680,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "I was reading about aeroplanes,\neven New York subway cars."
+        }
+      ]
+    },
+    {
+      "tStartMs": 435440,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Lots of different things that have\nbeen sunk to create artificial reefs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 439840,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "One study found\nthat artificial reefs cover 19km²,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444400,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "that seven square miles\nof the US sea floor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 447800,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "I mean, that's tiny compared\nto the size of the sea and the oceans"
+        }
+      ]
+    },
+    {
+      "tStartMs": 452520,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "What works best when it comes to\nsinking things to make artificial reefs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457840,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So I was quite surprised\nwhen I was looking into this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 460440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "at just how many there are.\nIn some countries,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 463720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "I think in Japan, they've\nbeen doing it for 400 years because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 466960,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "by creating a new environment\nfor species,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 470320,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "they can attract fish and\nobviously then they can fish there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473240,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And in the US it's been going on\nsince the 70s."
+        }
+      ]
+    },
+    {
+      "tStartMs": 475720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "What some of the research\nsays that you need is that you need"
+        }
+      ]
+    },
+    {
+      "tStartMs": 478120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "to use materials that are good\nfor the environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 481080,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "They're safe, they're pH neutral."
+        }
+      ]
+    },
+    {
+      "tStartMs": 482480,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So you're not changing the chemistry\nof the ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485160,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "You're not using\ncontaminated materials."
+        }
+      ]
+    },
+    {
+      "tStartMs": 487960,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "There was a case where they sunk\nthree million tires in the 1970s"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493120,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "with the idea again, you would create\nthis space for fish and octopus"
+        }
+      ]
+    },
+    {
+      "tStartMs": 496360,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and everything else to live in.\nAnd that didn't work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498880,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And it released a lot of toxins\ninto the environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 501520,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And they weren't anchored properly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 503840,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "So they moved and it damaged some\nof the coral in that area."
+        }
+      ]
+    },
+    {
+      "tStartMs": 508880,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So clearly it has to be done\nin the right way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 511680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So what I'm hearing is that it's not\njust a case of people using the ocean"
+        }
+      ]
+    },
+    {
+      "tStartMs": 515080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "as a way to get rid of things\nthat they otherwise can't,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 517520,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "big or clunky things\nlike forms of transport."
+        }
+      ]
+    },
+    {
+      "tStartMs": 520200,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "But that isn't the only type\nof artificial reef."
+        }
+      ]
+    },
+    {
+      "tStartMs": 523840,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Most artificial reefs are actually\ncustom made, aren't they?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527000,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Yeah. So, there are lots\nof different types, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 529080,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "one of the ones that\nI particularly like is one in Mexico,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 531640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "in the Cancun Marine Park,\nwhich is called Musa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 534680,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and that one was established\nbecause the founder said"
+        }
+      ]
+    },
+    {
+      "tStartMs": 537920,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "that he was concerned about the level\nof degradation and pollution"
+        }
+      ]
+    },
+    {
+      "tStartMs": 541040,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "on some of the natural coral reefs\nin that area,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 544200,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and he wanted to try\nand pull some of the visitors"
+        }
+      ]
+    },
+    {
+      "tStartMs": 547240,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "to those coral reefs\nto a different place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 549680,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "So he created now there's 500 sculptures\nand they include sculptures of people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 555280,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "but also there's a Volkswagen car\nthat's been sunk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 558800,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and that is clearly, you know, it's\na very deliberate project."
+        }
+      ]
+    },
+    {
+      "tStartMs": 562160,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "They've made these structures and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 564280,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "they're made\nof particular types of material"
+        }
+      ]
+    },
+    {
+      "tStartMs": 566280,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "that are considered beneficial\nor neutral to the environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 569840,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "That one is one project, but it's\nalso a practice that's used"
+        }
+      ]
+    },
+    {
+      "tStartMs": 575160,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "to protect seagrass meadows or\ncoral reefs where they build they're kind of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 580040,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "they look like these sort of cones\nand they've got holes in them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 583280,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So you can sort of imagine\nthe species moving through them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585960,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and they're put\nin various places around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 588920,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And again, just to build these environments,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 591160,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "for these creatures to live in.\nSome of them are done"
+        }
+      ]
+    },
+    {
+      "tStartMs": 594360,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "in order to protect coastlines\nfrom erosion,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 598360,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "or from huge amounts\nof sand that move in storms."
+        }
+      ]
+    },
+    {
+      "tStartMs": 601040,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "And then a secondary effect is\nthat it creates this reef"
+        }
+      ]
+    },
+    {
+      "tStartMs": 605280,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "for species to live in.\nSo there are lots of different types."
+        }
+      ]
+    },
+    {
+      "tStartMs": 608160,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So is there any evidence\nthat these artificial reefs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 610760,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "whether they're these amazing statues\nthat you've described or sunken ships."
+        }
+      ]
+    },
+    {
+      "tStartMs": 615880,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Is there any evidence that they actually\nhelp the ocean and ocean creatures?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 619560,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So we don't really know\nwhat the long-term impacts are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 622120,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "They're really difficult to study\nbecause we can't necessarily separate\nthe different variables."
+        }
+      ]
+    },
+    {
+      "tStartMs": 627440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "We don't know if there are more fish\nbecause we sank the ship,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 629960,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "or if something else changed\nthe environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 631680,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "That meant there was a growth\nin seagrass"
+        }
+      ]
+    },
+    {
+      "tStartMs": 634400,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "or in the coral or in the molluscs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 637440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "There are quite a lot\nof studies that show that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 640080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "in the short term,\nyou do have a bloom of life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 643160,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So fish do move there.\nThey colonise."
+        }
+      ]
+    },
+    {
+      "tStartMs": 645640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "That creates this nutrient cycle,\nfor example,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 648520,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "that generates plant growth and coral growth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 653280,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "But there are also examples where\nnon-native species can colonise"
+        }
+      ]
+    },
+    {
+      "tStartMs": 657760,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "that area because it's obviously not\na natural environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 660440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So it might attract invasive species,\ninvasive fish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 663880,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And that obviously has a knock-on effect\non the environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 667920,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I did read about one example which is\nseagrass meadows,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 670800,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "which are a type of flowering plant.\nThey're really important."
+        }
+      ]
+    },
+    {
+      "tStartMs": 674200,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "They soak up carbon and\nthey're very helpful"
+        }
+      ]
+    },
+    {
+      "tStartMs": 677200,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and sort of cleaning the ocean\nenvironment, but they're threatened."
+        }
+      ]
+    },
+    {
+      "tStartMs": 680440,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "There's a 7% decline every year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 683160,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And one study showed that\nafter building an artificial reef,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 687000,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "the seagrass, a lot of it colonised\nthat area. And then fish came."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "But they weren't also sure about how\nlong those effects would last for."
+        }
+      ]
+    },
+    {
+      "tStartMs": 695440,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "There was another case\nin Puerto Rico"
+        }
+      ]
+    },
+    {
+      "tStartMs": 697520,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "where a concrete reef was created\nto protect the coastline."
+        }
+      ]
+    },
+    {
+      "tStartMs": 701440,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And in the short term, there was\na growth in fish and in coral,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 704960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "but there was also a bloom\nin seaweed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 707360,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Because of this imbalance in\nnutrients, there was too much oxygen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 711160,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "and therefore there was\nexcessive nutrients."
+        }
+      ]
+    },
+    {
+      "tStartMs": 713200,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And that led to some\nof the coral to die."
+        }
+      ]
+    },
+    {
+      "tStartMs": 715680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So it's still a bit\nof an open question."
+        }
+      ]
+    },
+    {
+      "tStartMs": 718280,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Naturally, if you if you put\na giant home for species to live in,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 722240,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "they're probably going to move there.\nBut we don't know in the long term"
+        }
+      ]
+    },
+    {
+      "tStartMs": 726480,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "what that means if they're going\nto live for a long time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 729120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And there's also concerns that that\nmoves them away from more natural"
+        }
+      ]
+    },
+    {
+      "tStartMs": 732080,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "environments where you have a sort of,\nproper functioning ecology"
+        }
+      ]
+    },
+    {
+      "tStartMs": 738280,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and you may be disrupting that by placing\nthese artificial structures there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 741720,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Although, as you say,\nit also moves the tourists away."
+        }
+      ]
+    },
+    {
+      "tStartMs": 743760,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And that could\nin the longer term help some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 745920,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "of these corals that might be\na little bit over visited."
+        }
+      ]
+    },
+    {
+      "tStartMs": 748560,
+      "dDurationMs": 600,
+      "segs": [
+        {
+          "utf8": "Absolutely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 749160,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "I think that's one of the main\nreasons that people want to do it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 751840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It's the idea that if you've got\nthis one beautiful coral reef"
+        }
+      ]
+    },
+    {
+      "tStartMs": 754480,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and everyone's going there,\nwhy not try and divert them almost"
+        }
+      ]
+    },
+    {
+      "tStartMs": 757680,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "by creating a different environment?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 760200,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "But I think in the long term"
+        }
+      ]
+    },
+    {
+      "tStartMs": 762440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "You can't replace coral reefs\nwith artificial reefs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 765080,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "That's not how the environment works."
+        }
+      ]
+    },
+    {
+      "tStartMs": 768360,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And so you need to maintain both."
+        }
+      ]
+    },
+    {
+      "tStartMs": 770880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "You may want to focus\non those as a diversion for tourists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 774040,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "But I think\na lot of environmentalists would say"
+        }
+      ]
+    },
+    {
+      "tStartMs": 776520,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "we still need to protect\nour coral reefs and make sure"
+        }
+      ]
+    },
+    {
+      "tStartMs": 778800,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "that they're not going to die out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 781480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "with increased pollution\nand ocean warming."
+        }
+      ]
+    },
+    {
+      "tStartMs": 783840,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Georgina, thank you so much\nfor coming into the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 786120,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Thanks, Hannah.\nAnd thank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 788880,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "This is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 791520,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart, and we'll be back\nwith another episode soon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 794280,
+      "dDurationMs": 1160,
+      "segs": [
+        {
+          "utf8": "See you then."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2417 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 760,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "I think that\nsome therapists could see, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 6280,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "that AI could be a helpful sort\nof assistant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 10960,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "But I think there's a lot\nof therapists that are afraid."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Do you use an AI chatbot\nto talk about personal stuff?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 18320,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I know that I have been relying\non mine quite a lot recently."
+        }
+      ]
+    },
+    {
+      "tStartMs": 21160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Like, I can ask it,\nwhat can I do to reduce my stress?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 23720,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And it says, here are some quick\nstress relief techniques: Deep breathing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 27600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Muscle relaxation.\nMindfulness. Take a walk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 30600,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And millions\nof people on TikTok are talking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 32800,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "about using things like ChatGPT\nor DeepSeek as therapists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 36440,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "There are, of course,\nspecific therapy chatbots too,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 39760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "but there are some concerns\nabout what happens to your data."
+        }
+      ]
+    },
+    {
+      "tStartMs": 42960,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Is AI therapy safe and does it work?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 45920,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And today we're going to go through\nthe different therapy chatbots\nthat are around."
+        }
+      ]
+    },
+    {
+      "tStartMs": 49680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And we're going to talk about\nwhether they could be a replacement\nfor traditional therapists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 53760,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 61000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And here with me\nin the studio to talk about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63040,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "this is Jordan Dunbar.\nHi Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 65120,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Hi. So you have made loads\nof documentaries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 67200,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "for the BBC about mental health."
+        }
+      ]
+    },
+    {
+      "tStartMs": 69680,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "What kind of AI therapy apps\nare out there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 72000,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and have you used any yourself?\nSo most of my documentaries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74840,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "have been looking at how you can get\nsafe human mental health help looking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 79040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "at the therapy industry\nboth in the UK and around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81800,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "But where it's sort of started to cross\nover is the fact that there's a"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "major problem in many, many countries\nabout accessing mental health care."
+        }
+      ]
+    },
+    {
+      "tStartMs": 89920,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "So psychiatrists and therapists\nare both really expensive to train."
+        }
+      ]
+    },
+    {
+      "tStartMs": 94400,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "There's not enough of them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 95760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "And it takes years when you get\npeople who do want to sign up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 98640,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "So it means there's a real shortfall."
+        }
+      ]
+    },
+    {
+      "tStartMs": 100320,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Plus, we're all talking\nabout our mental health a lot more,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 102720,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and that's been really good because\nit's meant that people have come forward"
+        }
+      ]
+    },
+    {
+      "tStartMs": 105400,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and it's sort of getting rid\nof the stigma in a lot of countries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 108240,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "about talking about it.\nHowever, the trade off is that means"
+        }
+      ]
+    },
+    {
+      "tStartMs": 111440,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "more people need psychiatrists\nand therapists and they're not there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 115280,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And if they are there privately,\nthey can be really expensive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118440,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "So people in my documentaries have then\nbeen looking at online therapy, like AI"
+        }
+      ]
+    },
+    {
+      "tStartMs": 124120,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "that we've been talking about.\nNow, generic AI,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 126680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "so the one that you might go, like\na search chat bot,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 129480,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "that you would get help\nfor booking tickets as well as"
+        }
+      ]
+    },
+    {
+      "tStartMs": 131680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "using as a therapist,\nor dedicated therapy apps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 135360,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So those are the ones built\nfrom the ground up\nto help with your mental health."
+        }
+      ]
+    },
+    {
+      "tStartMs": 138680,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So the one that I tried and this a\nfew years ago was quite a basic one."
+        }
+      ]
+    },
+    {
+      "tStartMs": 141640,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "It was more like journaling.\nSo it would ask about your thoughts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144880,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "How's your day been?\nHow are you feeling about that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 147040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And the idea was, a bit like\nhow you would never,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149800,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "I think, speak to a friend,\nis getting you to think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 153600,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "about what's happened in the same way\nthat you might keep a diary."
+        }
+      ]
+    },
+    {
+      "tStartMs": 157120,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And that's quite helpful because\nyou can scroll back and remember, oh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160880,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "I felt like this the other day,\nor that really annoyed me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 164120,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And it helps\nyou sort of process your thoughts,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 166480,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "but I never used it\nfor anything really serious."
+        }
+      ]
+    },
+    {
+      "tStartMs": 169720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It was more just like, yeah,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 172360,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "like more of an online diary,\nlooking at low mood."
+        }
+      ]
+    },
+    {
+      "tStartMs": 175520,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "As you say, lots of people are using\nthem because there's no waiting lists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 178800,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "They're cheap or free."
+        }
+      ]
+    },
+    {
+      "tStartMs": 179840,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And of course they're like\nin your pocket if you need them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182600,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And we have been hearing\nfrom people who have used them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 185360,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "This is Michael from Austria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 187560,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "I've been having some anxiety,\nlike money anxiety,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 191360,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "and it's been ruminating\nin my head like all the time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 196080,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "I wanted a solution\nand I went"
+        }
+      ]
+    },
+    {
+      "tStartMs": 198240,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "to ChatGPT because I was using that\nfor work anyway."
+        }
+      ]
+    },
+    {
+      "tStartMs": 201800,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And I was like,\njust asking, hey, is this normal?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205560,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "What's wrong? Why\ndo I have keep having those thoughts?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 209080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And he gave me like a real good plan,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "like a seven-day plan, um,\nthat I followed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 214520,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "like things, exercises, uh,\nthings that I need to think about."
+        }
+      ]
+    },
+    {
+      "tStartMs": 219920,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And it actually worked.\nWhen I go to a therapist,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 224000,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "it costs me 100 euros per hour.\nMaybe it helps. Maybe it does not."
+        }
+      ]
+    },
+    {
+      "tStartMs": 229120,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "It's quite some investment here,\nbut that's not the problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 233200,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "I need to wait four to six weeks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235320,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "Because in Austria, it's really hard\nto find a therapy place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240120,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "With AI, I'll just go in there and discuss it.\nI might get a solution,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 244760,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "I might not, but usually\nafter that, I'm feeling better"
+        }
+      ]
+    },
+    {
+      "tStartMs": 248200,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "than I did before. Because this,\nuh, those things really show empathy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 252840,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Like, it's, uh, really getting close,\nlike conversing with a human."
+        }
+      ]
+    },
+    {
+      "tStartMs": 256920,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And I hate to say it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259000,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "but maybe sometimes it's more\nempathetic than a therapist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 265320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So, Jordan, I've used, like,\na generic chatbot as a therapist,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268400,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "and it's quite good\nfor the basic stuff, although"
+        }
+      ]
+    },
+    {
+      "tStartMs": 270560,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "a little bit cheerleadery\nand very positive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 272720,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Too positive for you. You want a more\nmiserable chatbot! Be more realistic!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 276560,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "I want realistic, I want realism."
+        }
+      ]
+    },
+    {
+      "tStartMs": 278160,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Yeah, I want someone who listens\nand reflects and not just says,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 281520,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "like, you're doing fine,\nyou're doing great."
+        }
+      ]
+    },
+    {
+      "tStartMs": 284080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Um, and I'm wondering if there\nmight be a difference here between"
+        }
+      ]
+    },
+    {
+      "tStartMs": 287280,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "the generic chatbots, which are like\npersonal cheerleaders in your pockets"
+        }
+      ]
+    },
+    {
+      "tStartMs": 290680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and the more dedicated therapy apps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 293520,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "How are they built\nand how do they differ?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 295680,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Well, a lot of the big ones certainly\nclaim that they've been built"
+        }
+      ]
+    },
+    {
+      "tStartMs": 298360,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "with mental health professionals,\nand a lot of them use a type"
+        }
+      ]
+    },
+    {
+      "tStartMs": 301840,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "of therapy called CBT\nthat's cognitive behavioural therapy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 305560,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "So whereas CBT is slightly different\nfrom what you might have seen on TV"
+        }
+      ]
+    },
+    {
+      "tStartMs": 309120,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "or talking therapies,\nit is a lot more structured."
+        }
+      ]
+    },
+    {
+      "tStartMs": 313800,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So when I've done it, it helps\nyou try and reframe your thoughts,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "particularly if you're dealing\nwith anxiety or low mood."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319920,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So it's trying to get you to think\ndifferently so you don't get caught up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323240,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "in those spirals.\nSo it's very structured,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 325520,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "which means that works quite well\nwith an online app."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328360,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "It can ask you certain questions,\nit can prompt you,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331200,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "but it's not really\nabout giving advice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 333920,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "It's more about getting you to think\nabout your own thought process."
+        }
+      ]
+    },
+    {
+      "tStartMs": 338080,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Some are based\non large language models,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 340440,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "so that's where it's taking loads\nof different data"
+        }
+      ]
+    },
+    {
+      "tStartMs": 342680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "from the past and from the internet.\nTried to learn from that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 345520,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And then whatever you write in\nbased on the previous data,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 348760,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "it tries to give you answers\nor further prompts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 351400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "The only problem\nwith that is, most therapy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 354080,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "that we've had for hundreds of years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "that's all been written down\nby psychiatrists and therapists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359240,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "They're not sharing that, right.\nThat's not online"
+        }
+      ]
+    },
+    {
+      "tStartMs": 361680,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "on the internet.\n- That's personal data isn't it? - Exactly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363720,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "For models to learn from.\nSo we don't actually know"
+        }
+      ]
+    },
+    {
+      "tStartMs": 366760,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "exactly where these large\nlanguage models are learning."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370320,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And obviously every app is different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 372440,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And there have been some studies\ninto how effective\nthese therapy chatbots are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 376160,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Yeah. Well it is very, very early\ndays and there are many, many,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 379080,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "many different apps, which means it's\ndifficult to get reliable evidence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 382920,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "There is one from\nthe New England Journal of Medicine,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 385920,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "and it said the first clinical trial\nof a therapy bot that uses generative AI"
+        }
+      ]
+    },
+    {
+      "tStartMs": 390640,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "suggests it was as effective\nas human therapy for participants"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394560,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "with depression, anxiety or risk\nfor developing eating disorders."
+        }
+      ]
+    },
+    {
+      "tStartMs": 398760,
+      "dDurationMs": 6280,
+      "segs": [
+        {
+          "utf8": "But the model was trained on the\nscientists' own custom data sets that\nwas based on evidence based practice"
+        }
+      ]
+    },
+    {
+      "tStartMs": 405040,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and not just\ngeneral mental health conversations,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 407480,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "and had a team of trained researchers\nto monitor interactions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 411440,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "But as it said,\nit's on their custom data sets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 414120,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Essentially, what we really need is\nto be able to have a long enough time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 418840,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "with people from all over the world\nand all walks of life,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 421960,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "really diverse sets of people\nto understand what this works for."
+        }
+      ]
+    },
+    {
+      "tStartMs": 425480,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "When we say mental health, we mean from\nlow mood, which is completely normal,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429880,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "right through to really\nserious illnesses like schizophrenia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 433200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So we talk about mental health,\nbut it's a huge spectrum."
+        }
+      ]
+    },
+    {
+      "tStartMs": 436120,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "And going to different apps\nmight be beneficial for some things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 441160,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Low mood, anxiety,\nbeing able to talk to someone,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 443400,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "particularly if you're in a culture\nwhere you couldn't open up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445880,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "to a friend\nor you can't afford therapy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 448600,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "but that's very different from something\nlike psychosis or trauma or abuse."
+        }
+      ]
+    },
+    {
+      "tStartMs": 454840,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So this evidence says that it's for\nthings like depression and anxiety,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 458920,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "but lots of it will be things\nthat are more treatable"
+        }
+      ]
+    },
+    {
+      "tStartMs": 462520,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "through speaking rather than\nthings that you need medicine"
+        }
+      ]
+    },
+    {
+      "tStartMs": 464680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "for and really,\nreally trained professionals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 467280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "The cultural experience\nof therapy is so important in this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469920,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "because different cultures have\ndifferent ways of accessing therapy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473720,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "There's different stigma\nabout speaking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 475760,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "about your problems\nand your personal issues."
+        }
+      ]
+    },
+    {
+      "tStartMs": 478280,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And I was really interested in the\nrise of the Chinese AI app DeepSeek,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 481800,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "because more young people in China have\nbeen using it for emotional support."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485520,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And we heard from\nour reporter Kelly Ng, about this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 488960,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "There's this lady in her 20s who told\nme that she would use DeepSeek"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493280,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "for nightly therapy sessions\nbefore she goes to sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 497480,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Um, and she talked about how\nit had comforted and encouraged her"
+        }
+      ]
+    },
+    {
+      "tStartMs": 501560,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "in a way, the kind\nof encouragement that it gives her"
+        }
+      ]
+    },
+    {
+      "tStartMs": 503960,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "is very different from her friends\nand family."
+        }
+      ]
+    },
+    {
+      "tStartMs": 507480,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "And before the app sends its reply\nand its suggestions and advice,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 513080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "it will first show you\nits thought processes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 515600,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So this can go from\nlike it analysing your query and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 519360,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and you know, talking about what you\nare actually really trying to ask."
+        }
+      ]
+    },
+    {
+      "tStartMs": 522560,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And then it also gives itself\nreminders like to be empathetic,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 526640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "to reply in a certain tone,\nuse certain words, and so on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 530320,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "Um, and I think that has struck a\nchord with some of the users who feel"
+        }
+      ]
+    },
+    {
+      "tStartMs": 535320,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "like they are talking\nto a fellow human, like a,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 538000,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "like a friend, a friend who, um,\nremembers everything that they say"
+        }
+      ]
+    },
+    {
+      "tStartMs": 542360,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "because it's\na robot after all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 544720,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "I found statistics from 2022 where\nout of a million Chinese people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 549720,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "only 20 have access\nto mental health services."
+        }
+      ]
+    },
+    {
+      "tStartMs": 553720,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So you can imagine\nwhat a small proportion that is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 557400,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "And then, apart from physical"
+        }
+      ]
+    },
+    {
+      "tStartMs": 559400,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "and financial access,\nthere are also cultural barriers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 563400,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "So, for instance, conversations\nabout mental health remain a taboo"
+        }
+      ]
+    },
+    {
+      "tStartMs": 568520,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "in many Chinese families\nor indeed many Asian families."
+        }
+      ]
+    },
+    {
+      "tStartMs": 572240,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And that's why they\nmay prefer using apps like DeepSeek"
+        }
+      ]
+    },
+    {
+      "tStartMs": 575760,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "because of that sense of privacy\nand anonymity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 580680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So what do you professional therapists\nand psychologists make of these?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 584360,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "So I think lots of them admit\nthat there's a problem\nin terms of supply and cost."
+        }
+      ]
+    },
+    {
+      "tStartMs": 588880,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "In places across the world.\nFor human therapy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 591000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "For human therapy, and therefore\nhaving something that's really easy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 594360,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "to access, that particularly\nyoung people who are digital natives"
+        }
+      ]
+    },
+    {
+      "tStartMs": 597360,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "and are happy to go online\nand also maybe feel more comfortable"
+        }
+      ]
+    },
+    {
+      "tStartMs": 600280,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "sharing their feelings\nwith rather than a stranger."
+        }
+      ]
+    },
+    {
+      "tStartMs": 603720,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "It's so uncomfortable, isn't it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 604920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Having therapy sitting in that room\nor on zoom?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 607320,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "Yeah, well,\nit's like dating, isn't it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 608840,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "You've got to find the right person\nyou have to go through."
+        }
+      ]
+    },
+    {
+      "tStartMs": 611320,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "It's also quite complicated."
+        }
+      ]
+    },
+    {
+      "tStartMs": 612520,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So to have something on your phone\nthat's cheaper and easier."
+        }
+      ]
+    },
+    {
+      "tStartMs": 615600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Lots of them think that's a good thing\nif it helps break down the stigma."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618840,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "I think where they think\nit's a bad thing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 620880,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "is if you're trying\nto directly replace human therapy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 625000,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And we reached out to a psychologist\nin the US. This is Maytal Eyal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 629280,
+      "dDurationMs": 6600,
+      "segs": [
+        {
+          "utf8": "I think that\nsome therapists could see, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 635880,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "that AI could be a helpful sort\nof assistant that can be there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 642080,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "for clients outside\nof therapy sessions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 645680,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "But I think there's a lot\nof therapists that are afraid."
+        }
+      ]
+    },
+    {
+      "tStartMs": 649840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "I think as people become\nincreasingly more reliant"
+        }
+      ]
+    },
+    {
+      "tStartMs": 653440,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "on a chatbot for emotional support,\nit's going to create"
+        }
+      ]
+    },
+    {
+      "tStartMs": 659120,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "a different expectation for intimacy\nand for connection and for support."
+        }
+      ]
+    },
+    {
+      "tStartMs": 664960,
+      "dDurationMs": 7840,
+      "segs": [
+        {
+          "utf8": "That becomes an impossible standard\nfor other humans to live up to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 672800,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "Endless patience and constant\navailability and total selflessness"
+        }
+      ]
+    },
+    {
+      "tStartMs": 678360,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "of a bot is unachievable\nin our other human relationships."
+        }
+      ]
+    },
+    {
+      "tStartMs": 682600,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "If we get used to being\nin relationship with an AI bot,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 686080,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "whether it's like our therapist that\nwe talk to 24/7, or a friend,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 692640,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "we kind of will forget that natural\nfriction that's inherent to intimacy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 699120,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "We'll forget how to do that.\nOur capacity to tolerate discomfort"
+        }
+      ]
+    },
+    {
+      "tStartMs": 705160,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "might atrophy away,\nand that's really scary."
+        }
+      ]
+    },
+    {
+      "tStartMs": 709040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "But Jordan,\nsurely any of these AI bots,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 711680,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "whether they are the dedicated ones\nor the more kind of generic ones,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 715280,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "could get it wrong\nand give harmful advice?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 717720,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Yeah, and I think\nyou have to remember that therapy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 720720,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and psychiatry has developed\nover such a long time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 724760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And humans are incredibly,\nincredibly complicated, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 727840,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "We work on so many different signs\nand nuances."
+        }
+      ]
+    },
+    {
+      "tStartMs": 730840,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Those aren't going\nto get picked up by an app."
+        }
+      ]
+    },
+    {
+      "tStartMs": 733360,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "It'll take a very long time to be able\nto train them to get to that point."
+        }
+      ]
+    },
+    {
+      "tStartMs": 737000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So if you're dealing\nwith something like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 739720,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "self-harm, suicidal thoughts,\ndrug abuse or particularly trauma,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 744640,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "those are things that really have\nto be dealt with by a professional."
+        }
+      ]
+    },
+    {
+      "tStartMs": 748440,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "Have you come\nacross any horror stories?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 750280,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Well, in 2023, the National\nEating Disorders Association US,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 754000,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "it replaced its live helpline\nwith humans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 756520,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "It replaced it with a chatbot. And\nthen it had to suspend the chatbot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 761200,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "because people using it were claiming\nthat the bot was recommending"
+        }
+      ]
+    },
+    {
+      "tStartMs": 765360,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "calorie restriction, which is not\ncorrect for eating disorders at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 769800,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "So as you can imagine,\nif these are going to replace humans"
+        }
+      ]
+    },
+    {
+      "tStartMs": 772160,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "in lots of different times,\nthey are going to get things wrong."
+        }
+      ]
+    },
+    {
+      "tStartMs": 775720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "I think the most important thing\nabout this is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 778360,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "what happens when that goes wrong?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 781000,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So if you were with a therapist\nor a psychiatrist"
+        }
+      ]
+    },
+    {
+      "tStartMs": 783320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and something goes wrong, you want to\nmake a complaint. In most countries,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 785920,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "the regulations where there's a body,\nthere's a place you can go to complain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 789480,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "But on an app, what happens?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 791720,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "That's another thing\nyou should really be looking out for"
+        }
+      ]
+    },
+    {
+      "tStartMs": 794040,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "is what does it say if you need\nmore help or things go wrong?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 797440,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So Jordan, if people are using gen AI\nto talk about their feelings"
+        }
+      ]
+    },
+    {
+      "tStartMs": 801880,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "and this deeply personal stuff,\nmental health, emotional issues,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 806400,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "is there a risk that that data, that\ninformation about them, could be leaked?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 810360,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "I mean, it could be really valuable\nfor marketers who want to,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 813680,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "you know, sell you stuff to make you\nfeel better if you've got low mood."
+        }
+      ]
+    },
+    {
+      "tStartMs": 816800,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Yeah, it's quite scary thinking if\nyou're sharing your innermost thoughts,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 819840,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "particularly if you're dealing\nwith things around anxiety"
+        }
+      ]
+    },
+    {
+      "tStartMs": 822120,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "and fears that you're putting that\nout there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 824520,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "you really want to know\nhow that data is being used."
+        }
+      ]
+    },
+    {
+      "tStartMs": 827480,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "If you're using a generic AI,\nlike one of the search chatbots,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 831480,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "that's much more difficult\nbecause lots of the data that's put"
+        }
+      ]
+    },
+    {
+      "tStartMs": 834640,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "in the questions that people ask\nthat's used to train the models."
+        }
+      ]
+    },
+    {
+      "tStartMs": 838680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "If you're using\na mental health app"
+        }
+      ]
+    },
+    {
+      "tStartMs": 841480,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "that has been designed specifically\nfor mental health."
+        }
+      ]
+    },
+    {
+      "tStartMs": 843920,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "It should say on it in the terms\nand conditions what the privacy is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 847920,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Is it going to be sold\nto third parties, who can access it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 850560,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "are their mental\nhealth professionals involved?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 852640,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "And actually,\nthe Mozilla Foundation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 854280,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "So they're a global nonprofit,\nand they attempt"
+        }
+      ]
+    },
+    {
+      "tStartMs": 856320,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "to police the internet looking\nfor bad actors, as they call them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 859320,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "So they surveyed 32 leading mental\nhealth apps for a report last year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 864080,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "They found 19 of them were failing\nto protect user privacy and security."
+        }
+      ]
+    },
+    {
+      "tStartMs": 869400,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So it is really worthwhile.\nI know it's boring,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 871960,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "but reading the small print\nto work out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 874000,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "how your data is going to be used\nand what your privacy is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 876760,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "So just to summarise, the experts\nthat we have been speaking to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 879520,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "for this have said that I shouldn't\nbe used as a replacement for therapy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 883440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Some of the AI companies\nhave said that users should also seek"
+        }
+      ]
+    },
+    {
+      "tStartMs": 885960,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "professional help,\nbecause these bots are, of course,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 888240,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "not licensed therapists. Jordan,\nthank you so much for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 891280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Thank you.\nAnd that is it for today's episode."
+        }
+      ]
+    },
+    {
+      "tStartMs": 893840,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Thank you for joining us.\nI'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 895920,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "This is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 898280,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "We'll see you next time."
+        }
+      ]
+    }
+  ]
+}

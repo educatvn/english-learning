@@ -1,0 +1,709 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Look closely\nat this satellite image of the moon."
+    } ]
+  }, {
+    "tStartMs": 4760,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "You can still see tracks in the dust"
+    } ]
+  }, {
+    "tStartMs": 7240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "and part of the capsule\nfrom the last time humans were there."
+    } ]
+  }, {
+    "tStartMs": 12040,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "By golly, this time goes fast."
+    } ]
+  }, {
+    "tStartMs": 14320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "That was Apollo 17,\nmore than 50 years ago."
+    } ]
+  }, {
+    "tStartMs": 18480,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "The final mission in the space race\nthat put man on the moon."
+    } ]
+  }, {
+    "tStartMs": 25200,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "But now there's a new race\nto go back."
+    } ]
+  }, {
+    "tStartMs": 28840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So why now?\nAnd why has it taken so long?"
+    } ]
+  }, {
+    "tStartMs": 33640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "All systems are good at this time."
+    } ]
+  }, {
+    "tStartMs": 36640,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "To understand this new space race,\nwe need to understand the first one."
+    } ]
+  }, {
+    "tStartMs": 42040,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "The first space race back\nin the 1960s"
+    } ]
+  }, {
+    "tStartMs": 45200,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "was all about the United States\nof America and the Soviet Union,"
+    } ]
+  }, {
+    "tStartMs": 49360,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "trying to demonstrate\ntheir technological superiority"
+    } ]
+  }, {
+    "tStartMs": 53320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "as part of a much wider\ngeopolitical battle to prove"
+    } ]
+  }, {
+    "tStartMs": 57480,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "themselves the superpower\nof the world."
+    } ]
+  }, {
+    "tStartMs": 59840,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Russia was the first to put an object,\nan animal and a person into orbit."
+    } ]
+  }, {
+    "tStartMs": 65760,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "But in 1969, America won\nthe race to put man on the moon."
+    } ]
+  }, {
+    "tStartMs": 72600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "That's one small step for man."
+    } ]
+  }, {
+    "tStartMs": 75360,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "By 1972, 12 US astronauts had been\nto the moon."
+    } ]
+  }, {
+    "tStartMs": 79600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Three. Two. One.\nBut then the missions stopped."
+    } ]
+  }, {
+    "tStartMs": 83840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "On our way, Houston.\nBack for good."
+    } ]
+  }, {
+    "tStartMs": 86360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The reason the US didn't continue\nafter 1972"
+    } ]
+  }, {
+    "tStartMs": 90360,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "is that the lunar exploration program\nwas very expensive."
+    } ]
+  }, {
+    "tStartMs": 93640,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "It was billions of dollars.\nAnd President Nixon"
+    } ]
+  }, {
+    "tStartMs": 95960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "at the time pointed out that,\nwell, we've already been there."
+    } ]
+  }, {
+    "tStartMs": 98760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "And more importantly, we have defeated\nthe Soviet Union in this race."
+    } ]
+  }, {
+    "tStartMs": 104440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "America still talked\nabout going back."
+    } ]
+  }, {
+    "tStartMs": 107560,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Back to the moon, back to the future."
+    } ]
+  }, {
+    "tStartMs": 110680,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Returning to the moon is an\nimportant step for our space program."
+    } ]
+  }, {
+    "tStartMs": 115280,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But focus shifted\nto other priorities,"
+    } ]
+  }, {
+    "tStartMs": 117480,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "like satellites\nand the International Space Station."
+    } ]
+  }, {
+    "tStartMs": 121880,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Meanwhile, China was building\nits own moon program."
+    } ]
+  }, {
+    "tStartMs": 126600,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "In 2006 its chief scientist said\nlunar exploration was a reflection\nof a country's power."
+    } ]
+  }, {
+    "tStartMs": 134320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And in 2013, China landed\nan unmanned craft on the moon."
+    } ]
+  }, {
+    "tStartMs": 140920,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Which nobody had done\nsince the 1970s."
+    } ]
+  }, {
+    "tStartMs": 143880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Soon, the US was paying attention."
+    } ]
+  }, {
+    "tStartMs": 146520,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "The directive I'm signing today\nwill refocus America's space program"
+    } ]
+  }, {
+    "tStartMs": 151040,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "on human exploration and discovery."
+    } ]
+  }, {
+    "tStartMs": 155120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "China have made it clear that they\nwant to emulate the US success of"
+    } ]
+  }, {
+    "tStartMs": 159200,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "the 60s and land humans on the moon."
+    } ]
+  }, {
+    "tStartMs": 162040,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "The US don't want to see\nChina do that alone."
+    } ]
+  }, {
+    "tStartMs": 165120,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And so the two are competing,\nand both have said"
+    } ]
+  }, {
+    "tStartMs": 168280,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "that they want to return humans\nto the moon in the coming years."
+    } ]
+  }, {
+    "tStartMs": 173760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "America has a multi-stage project\nto do that called Artemis."
+    } ]
+  }, {
+    "tStartMs": 178720,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Hydrogen burn off Igniters initiate."
+    } ]
+  }, {
+    "tStartMs": 180840,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "The first step was an unmanned orbit\nof the moon in 2022."
+    } ]
+  }, {
+    "tStartMs": 184400,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Four stage engine start.\nIn step two,"
+    } ]
+  }, {
+    "tStartMs": 188080,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "astronauts will orbit the moon for\nthe first time in more than 50 years."
+    } ]
+  }, {
+    "tStartMs": 195080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But there aren't plans to land people\non the surface until step three"
+    } ]
+  }, {
+    "tStartMs": 199080,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "in 2027 at the earliest."
+    } ]
+  }, {
+    "tStartMs": 203040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Progress now is slower\nthan in the first space race."
+    } ]
+  }, {
+    "tStartMs": 206920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "One reason for that is concerns\nabout safety."
+    } ]
+  }, {
+    "tStartMs": 209960,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "The appetite for risk back then\nwas much greater than it is now."
+    } ]
+  }, {
+    "tStartMs": 215760,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "In many ways, the Apollo astronauts\nwere very lucky."
+    } ]
+  }, {
+    "tStartMs": 219560,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Space is a risky business. The rocket\nis hundreds of tons of exploding fuel."
+    } ]
+  }, {
+    "tStartMs": 226440,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Nasa has built a new rocket called\nthe Space Launch System to get"
+    } ]
+  }, {
+    "tStartMs": 229840,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "its astronauts to the moon\nand private companies like SpaceX"
+    } ]
+  }, {
+    "tStartMs": 235360,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "and Blue Origin are building\nthe technology needed to land."
+    } ]
+  }, {
+    "tStartMs": 240440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "This is to try and keep costs down."
+    } ]
+  }, {
+    "tStartMs": 246200,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "But some have said"
+    } ]
+  }, {
+    "tStartMs": 247120,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "it's one of the reasons\nthe Artemis program has had delays."
+    } ]
+  }, {
+    "tStartMs": 251040,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Look at the architecture that we have\ndeveloped to land human astronauts,"
+    } ]
+  }, {
+    "tStartMs": 255280,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "American astronauts on the moon.\nIt is extraordinarily complex."
+    } ]
+  }, {
+    "tStartMs": 261960,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It is highly unlikely that we\nwill land on the moon before China."
+    } ]
+  }, {
+    "tStartMs": 266960,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "China's goal is to send humans\nto the moon by 2030."
+    } ]
+  }, {
+    "tStartMs": 272320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And it says it isn't"
+    } ]
+  }, {
+    "tStartMs": 273320,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "in a race with the"
+    } ]
+  }, {
+    "tStartMs": 276200,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "US."
+    } ]
+  }, {
+    "tStartMs": 280600,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "But China's President XI Jinping, says\nits ambition is to be a space power."
+    } ]
+  }, {
+    "tStartMs": 288680,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "American officials are clear\nhow they feel about that."
+    } ]
+  }, {
+    "tStartMs": 291960,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "We cannot lose the moon and\nlose the race to the moon, to China."
+    } ]
+  }, {
+    "tStartMs": 296640,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If we fall behind. If we make\na mistake, we may never catch up."
+    } ]
+  }, {
+    "tStartMs": 300640,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And the consequences could shift\nthe balance of power here on Earth."
+    } ]
+  }, {
+    "tStartMs": 304120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "As the US and China's programs\nhave developed,"
+    } ]
+  }, {
+    "tStartMs": 306760,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "so have two sets\nof plans for the moon."
+    } ]
+  }, {
+    "tStartMs": 311280,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "On one hand,\nwe have the US led Artemis Accords\nthat about 60 nations have signed,"
+    } ]
+  }, {
+    "tStartMs": 316440,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "including India,\nwhich is a major spacefaring nation."
+    } ]
+  }, {
+    "tStartMs": 319200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "On the other hand,\nyou have China that is leading"
+    } ]
+  }, {
+    "tStartMs": 321440,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "the International\nLunar Research Station."
+    } ]
+  }, {
+    "tStartMs": 323760,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Russia is a main collaborator and about\nten nations that have joined that side."
+    } ]
+  }, {
+    "tStartMs": 329360,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Both the American and Chinese programs\naim to have permanent bases on the moon,"
+    } ]
+  }, {
+    "tStartMs": 334000,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and getting there 1st May be the key.\nThe moon is the size of Africa,"
+    } ]
+  }, {
+    "tStartMs": 338720,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and there are only some regions\non the moon that has resources."
+    } ]
+  }, {
+    "tStartMs": 342560,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "You basically are there first and\nyou have permanent infrastructure."
+    } ]
+  }, {
+    "tStartMs": 346920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Then if another nation has\nto land there,\nthey have to take your permission."
+    } ]
+  }, {
+    "tStartMs": 351080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Focus is on the moon's south pole"
+    } ]
+  }, {
+    "tStartMs": 353640,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "because frozen in its deep craters,\nthere's water."
+    } ]
+  }, {
+    "tStartMs": 357440,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "This is essential\nto support human life"
+    } ]
+  }, {
+    "tStartMs": 359560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "on the moon,\nnot only for astronauts to drink,"
+    } ]
+  }, {
+    "tStartMs": 362520,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "but because water is made\nfrom hydrogen and oxygen"
+    } ]
+  }, {
+    "tStartMs": 365240,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "that oxygen could be extracted\nto give them air to breathe."
+    } ]
+  }, {
+    "tStartMs": 368920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And if separated, hydrogen\nand oxygen can become rocket fuel,"
+    } ]
+  }, {
+    "tStartMs": 373080,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "which could be used\nfor our future plans in space."
+    } ]
+  }, {
+    "tStartMs": 376280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "This time, we will not only plant\nour flag and leave our footprint,"
+    } ]
+  }, {
+    "tStartMs": 381160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "we will establish a foundation\nfor an eventual mission to Mars,"
+    } ]
+  }, {
+    "tStartMs": 385800,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "and perhaps someday,\nto many worlds beyond."
+    } ]
+  }, {
+    "tStartMs": 390880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So their argument is\nthat the moon is going to serve"
+    } ]
+  }, {
+    "tStartMs": 394240,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "as that base of infrastructure,\nhuman ingenuity,"
+    } ]
+  }, {
+    "tStartMs": 397840,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "where you actually utilise lunar\nresources to build your capacity."
+    } ]
+  }, {
+    "tStartMs": 401560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Some of those resources\nare hidden in moon dust,"
+    } ]
+  }, {
+    "tStartMs": 404600,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "including helium three, which could\none day power nuclear fusion reactors"
+    } ]
+  }, {
+    "tStartMs": 409960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and is very rare\nand expensive on Earth,"
+    } ]
+  }, {
+    "tStartMs": 412520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "but extracting it\nfrom the moon has never been tried."
+    } ]
+  }, {
+    "tStartMs": 415760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "You have to send all the equipment\nto the moon."
+    } ]
+  }, {
+    "tStartMs": 418520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "You then have to do\nall that processing."
+    } ]
+  }, {
+    "tStartMs": 421000,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Contain your helium three, return it\nsafely to Earth and then use it."
+    } ]
+  }, {
+    "tStartMs": 426520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And the cost\nof that will be substantial."
+    } ]
+  }, {
+    "tStartMs": 430080,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Will the benefit be worth it?"
+    } ]
+  }, {
+    "tStartMs": 432880,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And liftoff of Artemis one.\nWe rise together."
+    } ]
+  }, {
+    "tStartMs": 436640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "That's one of many unknowns\nin this new race to the moon."
+    } ]
+  }, {
+    "tStartMs": 439920,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "But the ambitions are clear."
+    } ]
+  }, {
+    "tStartMs": 442240,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "The first space race was a lot\nabout missions."
+    } ]
+  }, {
+    "tStartMs": 446840,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "The space race we are seeing today\nis about activity."
+    } ]
+  }, {
+    "tStartMs": 450800,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "It's not just one mission."
+    } ]
+  }, {
+    "tStartMs": 453440,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "It's this connection of activities\nthat build capacity to utilize space"
+    } ]
+  }, {
+    "tStartMs": 458040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "for a much more sustainable period\nand longer term."
+    } ]
+  } ]
+}

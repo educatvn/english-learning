@@ -1,0 +1,1387 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 320,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Now, Miss Mexico was in tears,"
+    } ]
+  }, {
+    "tStartMs": 1800,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "and she later claimed\nthat she had been told to shut up."
+    } ]
+  }, {
+    "tStartMs": 5520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Several of the other contestants, they\nstood up in solidarity with Miss Mexico."
+    } ]
+  }, {
+    "tStartMs": 9600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "They stormed\nout of the room in a beauty exodus."
+    } ]
+  }, {
+    "tStartMs": 12880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Some commentators are saying that\nthis is actually the most controversial"
+    } ]
+  }, {
+    "tStartMs": 16480,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Miss Universe pageant ever."
+    } ]
+  }, {
+    "tStartMs": 19000,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Would you agree with that?\nYou've been covering it for years."
+    } ]
+  }, {
+    "tStartMs": 21240,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Hey, it's Hannah here,\nand this is What in the World,"
+    } ]
+  }, {
+    "tStartMs": 23320,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "your podcast for the stories that get\npeople talking"
+    } ]
+  }, {
+    "tStartMs": 25440,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "from the BBC World Service. Today\nwe're talking about Miss Universe."
+    } ]
+  }, {
+    "tStartMs": 29160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Because for a pageant\nthat's meant to celebrate beauty"
+    } ]
+  }, {
+    "tStartMs": 31400,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and glamour, things are getting ugly."
+    } ]
+  }, {
+    "tStartMs": 34320,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "The final is about to take place\nin Thailand,"
+    } ]
+  }, {
+    "tStartMs": 36640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and it's already hitting the\nheadlines for all the wrong reasons."
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "From contestants walking\nout of events to bickering"
+    } ]
+  }, {
+    "tStartMs": 42960,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "about the future of the competition\nand its finances are in trouble."
+    } ]
+  }, {
+    "tStartMs": 47080,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "So what's going on\nwith Miss Universe, and is there\nstill a place for beauty pageants?"
+    } ]
+  }, {
+    "tStartMs": 54280,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "I'm speaking to BBC journalist\nWilliam Lee Adams about this."
+    } ]
+  }, {
+    "tStartMs": 57440,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Hey, William, it's so great\nto have you back. Hello, universe."
+    } ]
+  }, {
+    "tStartMs": 60720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Hola, Universo.\nAnd hello, Hannah. Hello."
+    } ]
+  }, {
+    "tStartMs": 63320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So we're going to get into some\nof the incidents that I mentioned."
+    } ]
+  }, {
+    "tStartMs": 67280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But first just give us an idea\nof how big Miss Universe is"
+    } ]
+  }, {
+    "tStartMs": 71280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and how many viewers it draws in.\nIn recent years,"
+    } ]
+  }, {
+    "tStartMs": 74520,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "the TV viewing audience, so\nthe traditional linear TV audience,"
+    } ]
+  }, {
+    "tStartMs": 79000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "it's been going down\nin Western countries."
+    } ]
+  }, {
+    "tStartMs": 81800,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "In 2014, in the United States,\nthere were 7.7 million TV viewers."
+    } ]
+  }, {
+    "tStartMs": 87120,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "But then last year, the US broadcast\nonly had around 2.1 million viewers."
+    } ]
+  }, {
+    "tStartMs": 92760,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So you could look at that\nand say the popularity is decreasing,"
+    } ]
+  }, {
+    "tStartMs": 95920,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "but I think we need to remember that\npeople engage with live event contests"
+    } ]
+  }, {
+    "tStartMs": 100800,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "differently today than they did even\nten years ago because of social media."
+    } ]
+  }, {
+    "tStartMs": 105720,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And to that point, Miss Universe,\nthey actually say"
+    } ]
+  }, {
+    "tStartMs": 108640,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "that they had a record number of\nsocial media engagements last year,"
+    } ]
+  }, {
+    "tStartMs": 112920,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "1.1 billion social media views\nduring the pageant."
+    } ]
+  }, {
+    "tStartMs": 116080,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "It's incredibly popular\nin Latin America,"
+    } ]
+  }, {
+    "tStartMs": 118400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "particularly Mexico\nand also in Southeast Asia."
+    } ]
+  }, {
+    "tStartMs": 121560,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "I'd shout out\nto Thailand and the Philippines."
+    } ]
+  }, {
+    "tStartMs": 123920,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Sounds like there's a bit\nof a mixed picture when it comes"
+    } ]
+  }, {
+    "tStartMs": 126280,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "to ratings\nand especially social media,"
+    } ]
+  }, {
+    "tStartMs": 130160,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "what kind of tensions is\nthat creating for the organisation?"
+    } ]
+  }, {
+    "tStartMs": 134040,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Oh, Hanna,\ntension is the perfect word."
+    } ]
+  }, {
+    "tStartMs": 136920,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And I'm not referring\nto tensions between the contestants."
+    } ]
+  }, {
+    "tStartMs": 140080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I'm talking about two businessmen\nwho are really central"
+    } ]
+  }, {
+    "tStartMs": 143440,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "to this year's pageant\nand the broader organization."
+    } ]
+  }, {
+    "tStartMs": 146400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "You know, on the one hand,\nyou have Raúl Rocha Cantú."
+    } ]
+  }, {
+    "tStartMs": 150120,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "He's a Mexican businessman, and"
+    } ]
+  }, {
+    "tStartMs": 152160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "he's the president\nof the Miss Universe Organisation."
+    } ]
+  }, {
+    "tStartMs": 154960,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "They are the body\nthat owns the pageant globally,"
+    } ]
+  }, {
+    "tStartMs": 158280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and they also sell franchises\nof the pageant."
+    } ]
+  }, {
+    "tStartMs": 161280,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "In 2024, early last year,\nhe bought a 50% stake."
+    } ]
+  }, {
+    "tStartMs": 165920,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "So half of the Miss Universe\nOrganisation, he paid $16 million."
+    } ]
+  }, {
+    "tStartMs": 171520,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Now, on the other side of this,\nyou have a Thai man,"
+    } ]
+  }, {
+    "tStartMs": 174480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "a Thai entrepreneur named\nNawat Itsaragrisil,"
+    } ]
+  }, {
+    "tStartMs": 177840,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and this year he spent\nat least $2 million to buy"
+    } ]
+  }, {
+    "tStartMs": 181400,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "the Miss Universe Thailand franchise."
+    } ]
+  }, {
+    "tStartMs": 183920,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So that's the body that runs\nthe local pageant in Thailand."
+    } ]
+  }, {
+    "tStartMs": 187960,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And he'll be doing that\nfor more than two decades to come."
+    } ]
+  }, {
+    "tStartMs": 191000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So he's really in this\nfor the long haul."
+    } ]
+  }, {
+    "tStartMs": 193400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What's important to note about these\ntwo men is they have different visions"
+    } ]
+  }, {
+    "tStartMs": 196400,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "of the pageant.\nWhat it is, what it should be,"
+    } ]
+  }, {
+    "tStartMs": 199440,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and how it can stay culturally\nand financially relevant."
+    } ]
+  }, {
+    "tStartMs": 202520,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "And there has been\nsome quite high profile infighting"
+    } ]
+  }, {
+    "tStartMs": 205360,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "between these two as well.\nGive me some more background on Raul."
+    } ]
+  }, {
+    "tStartMs": 210280,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Raúl is very much\na traditional businessman."
+    } ]
+  }, {
+    "tStartMs": 213680,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "He's a fan of the traditional\npageant model, which does very well\nacross Latin America."
+    } ]
+  }, {
+    "tStartMs": 218840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And how that works is you sell the\nTV rights, then you get sponsorships"
+    } ]
+  }, {
+    "tStartMs": 222840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "for the broadcast and\nfor various events leading up to it,"
+    } ]
+  }, {
+    "tStartMs": 226360,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and you also franchise the pageant\nto partners in individual countries."
+    } ]
+  }, {
+    "tStartMs": 230240,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So Miss Brazil, Miss Colombia,\nMiss Thailand, etc."
+    } ]
+  }, {
+    "tStartMs": 234200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Now as part of that model,\nmoney can also be made"
+    } ]
+  }, {
+    "tStartMs": 237120,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "through licensing and merchandising."
+    } ]
+  }, {
+    "tStartMs": 239400,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "So you slap the Miss Universe logo"
+    } ]
+  }, {
+    "tStartMs": 241520,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "in the name on products,\nbeauty products, clothing, etc."
+    } ]
+  }, {
+    "tStartMs": 245960,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "For Raúl the beauty queen,\nshe's really an ambassador."
+    } ]
+  }, {
+    "tStartMs": 249400,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "She's there to sort of represent\nthe the pageant, yes,"
+    } ]
+  }, {
+    "tStartMs": 252480,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "but also to advocate\nfor humanitarian causes."
+    } ]
+  }, {
+    "tStartMs": 255640,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "And then the pageant as an organisation\ndeals with the money around that."
+    } ]
+  }, {
+    "tStartMs": 261200,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Nawat though,\nthat's a totally different picture."
+    } ]
+  }, {
+    "tStartMs": 263560,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Yeah. He's less of a traditional,\nmore of a social media oriented guy,"
+    } ]
+  }, {
+    "tStartMs": 268000,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "right? Yeah, absolutely."
+    } ]
+  }, {
+    "tStartMs": 270240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I'd say he moves from tradition\nto TikTok,"
+    } ]
+  }, {
+    "tStartMs": 272880,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and he has very big ambitions\nfor himself."
+    } ]
+  }, {
+    "tStartMs": 276040,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Now, this year, he's the host of Miss\nUniverse, not the host on the TV show,"
+    } ]
+  }, {
+    "tStartMs": 280520,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "but the host on the ground. He\nwelcomed the contestants to Thailand."
+    } ]
+  }, {
+    "tStartMs": 283720,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "He staged various events, meals."
+    } ]
+  }, {
+    "tStartMs": 286640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "He even staged a contest where\nyou could win a dinner with him."
+    } ]
+  }, {
+    "tStartMs": 290000,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "He thought that was a very nice prize.\nHe's got a very big personality."
+    } ]
+  }, {
+    "tStartMs": 295640,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And you see this on his TikTok, where\nhe has over one million followers."
+    } ]
+  }, {
+    "tStartMs": 300040,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Now, in terms of business, he leans\ninto this idea of live shopping."
+    } ]
+  }, {
+    "tStartMs": 304680,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "So if you go on his TikTok, you'll see\nhim selling products in real time."
+    } ]
+  }, {
+    "tStartMs": 309600,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "This live shopping\nis already huge in China"
+    } ]
+  }, {
+    "tStartMs": 311920,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "on platforms like Douyin and TikTok."
+    } ]
+  }, {
+    "tStartMs": 314320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And in Southeast Asia,\nit's increasingly relevant."
+    } ]
+  }, {
+    "tStartMs": 317640,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "You know, even in the US, the\nTikTok shop recently eclipsed eBay"
+    } ]
+  }, {
+    "tStartMs": 321520,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "in terms of sales, to give you a\nsense of how popular live selling is."
+    } ]
+  }, {
+    "tStartMs": 325480,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "In his vision, the queens,\nthey're not just ambassadors,"
+    } ]
+  }, {
+    "tStartMs": 329280,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "they're also salespeople. And\nhe also has been putting quite a lot"
+    } ]
+  }, {
+    "tStartMs": 332440,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "of pressure on these contestants\nto do just that."
+    } ]
+  }, {
+    "tStartMs": 336200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And we saw how that blew up, right?\nThat video of the beauty queen"
+    } ]
+  }, {
+    "tStartMs": 339560,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "standing up and walking\nout of one of these events."
+    } ]
+  }, {
+    "tStartMs": 342320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "What happened there? Oh, yeah."
+    } ]
+  }, {
+    "tStartMs": 344480,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "You know, magma under the surface\nheats up and the lava explodes."
+    } ]
+  }, {
+    "tStartMs": 348680,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And I think that's what we've seen\nthis year. We all saw that video."
+    } ]
+  }, {
+    "tStartMs": 353360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Oh, yes. Turning heads,\ngetting headlines."
+    } ]
+  }, {
+    "tStartMs": 356320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And this all stems from one of the\nmost beautiful events at Miss Universe."
+    } ]
+  }, {
+    "tStartMs": 359640,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And that's the sashing ceremony."
+    } ]
+  }, {
+    "tStartMs": 361920,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "This is where the contestants,\nshortly after arrival,"
+    } ]
+  }, {
+    "tStartMs": 364600,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "gather in a beautiful room and\nthey officially receive their sash."
+    } ]
+  }, {
+    "tStartMs": 368000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "You are Miss Lesotho.\nYou are Miss Egypt."
+    } ]
+  }, {
+    "tStartMs": 371600,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It means a lot. to these women.\nIt's going through my head William."
+    } ]
+  }, {
+    "tStartMs": 375120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "It's beautifu! But this year,\nas you teased, it turned ugly."
+    } ]
+  }, {
+    "tStartMs": 379200,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Nawat was hosting the ceremony and"
+    } ]
+  }, {
+    "tStartMs": 381520,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "naturally, he was live streaming it\nbecause he's very digital."
+    } ]
+  }, {
+    "tStartMs": 385320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "And he questioned out loud\nwhether Miss Mexico, Fatima Bosch,"
+    } ]
+  }, {
+    "tStartMs": 389880,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "was doing enough to promote\nthe pageant and its sponsors,"
+    } ]
+  }, {
+    "tStartMs": 393280,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and he called her out\nfor what he saw as a lack of posting."
+    } ]
+  }, {
+    "tStartMs": 397080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "He said that was disrespectful to\nThailand, which is hosting the pageant."
+    } ]
+  }, {
+    "tStartMs": 401080,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Now, at a certain point, he asked\nMiss Mexico to explain herself,"
+    } ]
+  }, {
+    "tStartMs": 405600,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and Miss Mexico made it clear she\ndid not want to be spoken down to."
+    } ]
+  }, {
+    "tStartMs": 409160,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "He then shouted over her on the mic,\ntold her to stop talking."
+    } ]
+  }, {
+    "tStartMs": 434840,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And there's a bit of disagreement here."
+    } ]
+  }, {
+    "tStartMs": 436920,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "She claimed later\nthat she was called a dummy."
+    } ]
+  }, {
+    "tStartMs": 440760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "He later said no.\nI said, you were damaged."
+    } ]
+  }, {
+    "tStartMs": 443400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "It's all very unclear.\nThe video has bad audio,"
+    } ]
+  }, {
+    "tStartMs": 447120,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "but what we do know is Miss Mexico stood\nup and she said, I have a voice."
+    } ]
+  }, {
+    "tStartMs": 451640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And she accused him\nof not respecting her as a woman."
+    } ]
+  }, {
+    "tStartMs": 454520,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Now, as you can see, things\nare escalating. And then he says"
+    } ]
+  }, {
+    "tStartMs": 457440,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "this quote, \"My question is, can\nyou work to promote Thailand or not?"
+    } ]
+  }, {
+    "tStartMs": 462560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Yes or no\". And then he cuts her off\nand asks security to escort her"
+    } ]
+  }, {
+    "tStartMs": 466840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "out of the hotel.\nNow Miss Mexico was in tears,"
+    } ]
+  }, {
+    "tStartMs": 469880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "and she later claimed\nthat she had been told to shut up."
+    } ]
+  }, {
+    "tStartMs": 473600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Several of the other contestants, they\nstood up in solidarity with Miss Mexico."
+    } ]
+  }, {
+    "tStartMs": 477680,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "They stormed\nout of the room in a beauty exodus."
+    } ]
+  }, {
+    "tStartMs": 481400,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And this exodus included\nthe reigning Miss Universe,\nlast year's winner from Denmark."
+    } ]
+  }, {
+    "tStartMs": 485800,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And on her way out,\nshe told reporters, you know,"
+    } ]
+  }, {
+    "tStartMs": 488280,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "this is about women's rights,\nto quote, \"Trash another girl."
+    } ]
+  }, {
+    "tStartMs": 492120,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "It's beyond disrespectful\nand it's nothing I've ever done."
+    } ]
+  }, {
+    "tStartMs": 495080,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "That's why I'm taking my coat\nand I'm going.\" And"
+    } ]
+  }, {
+    "tStartMs": 498000,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "what did Raúl and the Miss Universe\nOrganisation have to say about that?"
+    } ]
+  }, {
+    "tStartMs": 501560,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Raúl released\nan official video statement on"
+    } ]
+  }, {
+    "tStartMs": 503880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "the Miss Universe Organisation's\nInstagram,"
+    } ]
+  }, {
+    "tStartMs": 506320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and he emphasised\nthat the organisation is committed"
+    } ]
+  }, {
+    "tStartMs": 508360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "to respecting women\nand upholding their dignity."
+    } ]
+  }, {
+    "tStartMs": 511800,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "He said, quote,\n\"I will not allow the values"
+    } ]
+  }, {
+    "tStartMs": 514040,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "of respect and dignity\nof women to be violated.\""
+    } ]
+  }, {
+    "tStartMs": 517600,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "He also promised to limit\nNawat's participation in the pageant,"
+    } ]
+  }, {
+    "tStartMs": 522120,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "stressing that the organisation won't\ntolerate any disrespect or humiliation."
+    } ]
+  }, {
+    "tStartMs": 526160,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "What about Nawat?\nDid he apologise? Well,"
+    } ]
+  }, {
+    "tStartMs": 528520,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "by the evening, Nawat was back\non social media posting teary videos."
+    } ]
+  }, {
+    "tStartMs": 533600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "There are several of them, but I sort of\nwant to flag two of them in one video,"
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "he said, \"I'm a human, I didn't want\nto do anything like that.\""
+    } ]
+  }, {
+    "tStartMs": 541720,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And then in another, he stood\nin front of some pageant contestants."
+    } ]
+  }, {
+    "tStartMs": 545600,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Notably, Miss Mexico was not\namong them. And he said, quote,"
+    } ]
+  }, {
+    "tStartMs": 549080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "\"I had not intended to harm anyone\nbecause I respect all of you."
+    } ]
+  }, {
+    "tStartMs": 552840,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "I am so sorry it happened. First,\nI have to apologise to the delegates."
+    } ]
+  }, {
+    "tStartMs": 557120,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "If anyone was affected and\nnot comfortable with what happened."
+    } ]
+  }, {
+    "tStartMs": 559640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I am so sorry.\"\nThere is so much drama here"
+    } ]
+  }, {
+    "tStartMs": 562640,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "and it sounds like friction between\nRaúl and Nawat. Nawat and the Queens."
+    } ]
+  }, {
+    "tStartMs": 568600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Not the kind of tension\nthat you want ahead of the final."
+    } ]
+  }, {
+    "tStartMs": 571920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And some commentators are saying\nthat this is actually"
+    } ]
+  }, {
+    "tStartMs": 573960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "the most controversial\nMiss Universe pageant ever."
+    } ]
+  }, {
+    "tStartMs": 578240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Would you agree with that?\nYou've been covering it for years."
+    } ]
+  }, {
+    "tStartMs": 580640,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "I think what we can say\nfor certain is that the presence"
+    } ]
+  }, {
+    "tStartMs": 583800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "of social media lets us see more\nof the drama that is there."
+    } ]
+  }, {
+    "tStartMs": 588040,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Ten, 15 years ago, you didn't have\nTikTokers running around."
+    } ]
+  }, {
+    "tStartMs": 591560,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "You didn't have the quote\nunquote pageant press on the ground,"
+    } ]
+  }, {
+    "tStartMs": 595040,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "but now you do."
+    } ]
+  }, {
+    "tStartMs": 596360,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "These are enthusiastic fans\nat the grassroots level."
+    } ]
+  }, {
+    "tStartMs": 599840,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "They cover\nthe glamour and drama year round."
+    } ]
+  }, {
+    "tStartMs": 602640,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And so they're pumping out\nthese videos."
+    } ]
+  }, {
+    "tStartMs": 605200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And when you've got\nall this content floating around,"
+    } ]
+  }, {
+    "tStartMs": 608320,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "it just means there's more\nthat can be misunderstood."
+    } ]
+  }, {
+    "tStartMs": 610400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "William, historically,\nthis pageant has always been"
+    } ]
+  }, {
+    "tStartMs": 612720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "about so much more than beauty."
+    } ]
+  }, {
+    "tStartMs": 615120,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It's this geopolitical powerhouse."
+    } ]
+  }, {
+    "tStartMs": 617280,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "It was owned by Donald Trump\nfor decades."
+    } ]
+  }, {
+    "tStartMs": 620120,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Why is it so influential?\nWell, Hannah,"
+    } ]
+  }, {
+    "tStartMs": 622800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "at the end of the day, there are very\nfew programmes that are broadcast"
+    } ]
+  }, {
+    "tStartMs": 626400,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "across the world\nat the exact same time,"
+    } ]
+  }, {
+    "tStartMs": 628520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "where people across borders\ncan tune in to the same thing,"
+    } ]
+  }, {
+    "tStartMs": 631760,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "have the same conversation,\nand that always will appeal"
+    } ]
+  }, {
+    "tStartMs": 635200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "to people who want to be part of this\nglobal body, but then also to sponsors."
+    } ]
+  }, {
+    "tStartMs": 640000,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "You know, they want to be connected\nto so many people at once."
+    } ]
+  }, {
+    "tStartMs": 642680,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "You have nations, big and small,\ngetting to see themselves represented."
+    } ]
+  }, {
+    "tStartMs": 647680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "You know, viewers\nin those countries may not agree"
+    } ]
+  }, {
+    "tStartMs": 650240,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "with how their country is represented\nor who's representing them,"
+    } ]
+  }, {
+    "tStartMs": 653640,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "but there's this desire to see\nyour country represented,"
+    } ]
+  }, {
+    "tStartMs": 657600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "you know, a tiny island like Malta."
+    } ]
+  }, {
+    "tStartMs": 659720,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "They're never going to be\nthat competitive at the Olympics"
+    } ]
+  }, {
+    "tStartMs": 662000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "against the United States.\nJust statistically, it's too hard."
+    } ]
+  }, {
+    "tStartMs": 665040,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "But at Miss Universe,\nsure, they can make the top 30."
+    } ]
+  }, {
+    "tStartMs": 667520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "They can compete with these larger,\nwealthier nations."
+    } ]
+  }, {
+    "tStartMs": 670760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So what do we think\nis going to happen this year?"
+    } ]
+  }, {
+    "tStartMs": 673400,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "And do you think that\nMiss Universe can survive the climate"
+    } ]
+  }, {
+    "tStartMs": 678600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "that it finds itself in,\nwith all of these obstacles"
+    } ]
+  }, {
+    "tStartMs": 681520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and the prevalence of all of this\nchat on social media? Absolutely."
+    } ]
+  }, {
+    "tStartMs": 685080,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "You know, I think if anything,\nthese controversies show"
+    } ]
+  }, {
+    "tStartMs": 688560,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "how much global media interest there\nis in the Miss Universe pageant."
+    } ]
+  }, {
+    "tStartMs": 693720,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "These scandals highlight\nthat people want to talk"
+    } ]
+  }, {
+    "tStartMs": 696200,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "about it because it's part\nof the cultural fabric."
+    } ]
+  }, {
+    "tStartMs": 698640,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "It's a tradition for so many people\naround the world."
+    } ]
+  }, {
+    "tStartMs": 701720,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Yes, it's shorthand for many things, and\nnot all of those things are flattering."
+    } ]
+  }, {
+    "tStartMs": 706160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "But to so many people,\nthis pageant speaks to their culture."
+    } ]
+  }, {
+    "tStartMs": 709040,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "It speaks to the history."
+    } ]
+  }, {
+    "tStartMs": 710280,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So I think countries all over the world\nwill continue to cherish their pageants."
+    } ]
+  }, {
+    "tStartMs": 713680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Sure, maybe big countries in the West\nwill lose interest, but that's okay."
+    } ]
+  }, {
+    "tStartMs": 717680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It means that the Philippines has one\nless country to compete against, right?"
+    } ]
+  }, {
+    "tStartMs": 721200,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So vantage point really matters.\nInteresting."
+    } ]
+  }, {
+    "tStartMs": 724240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So it's still got huge global support\nand millions and millions of viewers"
+    } ]
+  }, {
+    "tStartMs": 728480,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "will be watching the final.\nWilliam, thank you so much."
+    } ]
+  }, {
+    "tStartMs": 732360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Thank you so much. Khàawp khun khâ.\nThat's it from us."
+    } ]
+  }, {
+    "tStartMs": 735000,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "But if you like this episode we\nhave got plenty more wherever you get"
+    } ]
+  }, {
+    "tStartMs": 738480,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "your BBC podcasts or right here on\nthe BBC World Service YouTube channel."
+    } ]
+  }, {
+    "tStartMs": 742600,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "And while you're here,\nplease do like, subscribe."
+    } ]
+  }, {
+    "tStartMs": 745440,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Leave us a comment down below.\nWe would love to hear from you."
+    } ]
+  }, {
+    "tStartMs": 748040,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I'm Hannah, this is What in the World\nfrom the BBC World Service"
+    } ]
+  }, {
+    "tStartMs": 750720,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "and we'll see you next time.\nSorry Hannah, it’s not goodbye yet!"
+    } ]
+  }, {
+    "tStartMs": 756880,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Since we recorded this, there’s been\nsome breaking news out of Thailand."
+    } ]
+  }, {
+    "tStartMs": 762000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Two of the eight Miss Universe judges\nhave resigned."
+    } ]
+  }, {
+    "tStartMs": 766000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "And one of them has accused organisers\nof rigging the selection process."
+    } ]
+  }, {
+    "tStartMs": 770560,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Now, Lebanese-French musician\nOmar Harfouch,"
+    } ]
+  }, {
+    "tStartMs": 774280,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "he claimed that an \"impromptu jury\"\nhad pre-selected finalists ahead"
+    } ]
+  }, {
+    "tStartMs": 779680,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "of the competition without any input\nfrom what he called the ‘real’ jury."
+    } ]
+  }, {
+    "tStartMs": 785280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "He said it was a potential conflict\nof interest"
+    } ]
+  }, {
+    "tStartMs": 787440,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "due to relationships\nwith contestants."
+    } ]
+  }, {
+    "tStartMs": 789520,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "As for The Miss\nUniverse Organisation,"
+    } ]
+  }, {
+    "tStartMs": 791960,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "they have responded\nand they have denied the claims"
+    } ]
+  }, {
+    "tStartMs": 795440,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and said that \"No external group has\nbeen authorised to evaluate delegates"
+    } ]
+  }, {
+    "tStartMs": 800320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "or select finalists\"."
+    } ]
+  }, {
+    "tStartMs": 802800,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "The drama does not stop in Thailand."
+    } ]
+  } ]
+}

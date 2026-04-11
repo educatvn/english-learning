@@ -1,0 +1,1675 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 40,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "There's sort of advice\nor comments about women."
+    } ]
+  }, {
+    "tStartMs": 3640,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So that's things like women need\nto get in the kitchen."
+    } ]
+  }, {
+    "tStartMs": 7160,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Women need to follow\nthe man's directions."
+    } ]
+  }, {
+    "tStartMs": 10400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "The man is allowed to put a woman\nin her place."
+    } ]
+  }, {
+    "tStartMs": 13280,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "In news to absolutely no one."
+    } ]
+  }, {
+    "tStartMs": 15600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Some men, when having\nprivate conversations with other men,"
+    } ]
+  }, {
+    "tStartMs": 18920,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "make demeaning and degrading comments\nabout women."
+    } ]
+  }, {
+    "tStartMs": 22520,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "But what's changed in recent years is\nthat these conversations are becoming\nmore public."
+    } ]
+  }, {
+    "tStartMs": 27280,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "In online chat forums,\nin videos and across social media."
+    } ]
+  }, {
+    "tStartMs": 31320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Even if you don't want to take part\nin these conversations,"
+    } ]
+  }, {
+    "tStartMs": 34120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the algorithm will sometimes serve\nyou videos with controversial views"
+    } ]
+  }, {
+    "tStartMs": 38200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "about how women should act\nand how men should treat them."
+    } ]
+  }, {
+    "tStartMs": 41200,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "This content drives the online space\nknown as the manosphere."
+    } ]
+  }, {
+    "tStartMs": 45480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "On today's episode of What in\nthe World from the BBC World Service,"
+    } ]
+  }, {
+    "tStartMs": 48840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "we're going to find out what\nthe manosphere is, why it matters,"
+    } ]
+  }, {
+    "tStartMs": 52520,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and ask whether it may be impacting"
+    } ]
+  }, {
+    "tStartMs": 54560,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "young men's attitude of themselves\nand women."
+    } ]
+  }, {
+    "tStartMs": 60560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Hello, I'm William and\ntoday I'm joined by Jacqui Wakefield,"
+    } ]
+  }, {
+    "tStartMs": 64440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the BBC's disinformation reporter."
+    } ]
+  }, {
+    "tStartMs": 66840,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Jacqui, hi.\nHi."
+    } ]
+  }, {
+    "tStartMs": 68400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So you've been covering\nthe manosphere for a bit of time now,"
+    } ]
+  }, {
+    "tStartMs": 71560,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and in fact, you have a documentary\nthat you're working on."
+    } ]
+  }, {
+    "tStartMs": 74040,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "We'll come to that later."
+    } ]
+  }, {
+    "tStartMs": 75520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But for now, can you just define\nwhat the manosphere is?"
+    } ]
+  }, {
+    "tStartMs": 78520,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "So the manosphere is defined\nas a collection of online spaces"
+    } ]
+  }, {
+    "tStartMs": 83280,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "where extreme misogyny is discussed\nand talked about."
+    } ]
+  }, {
+    "tStartMs": 86960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Back when the internet started,\nthere were specific forums"
+    } ]
+  }, {
+    "tStartMs": 90320,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "where the manosphere sort of started."
+    } ]
+  }, {
+    "tStartMs": 93000,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So that was forums like - you\nmight be familiar with for channel"
+    } ]
+  }, {
+    "tStartMs": 96880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "or Reddit,\nkind of internet forums like this,"
+    } ]
+  }, {
+    "tStartMs": 100960,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "where men could kind of congregate\nand chat to each other."
+    } ]
+  }, {
+    "tStartMs": 104760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "But now and with the introduction,"
+    } ]
+  }, {
+    "tStartMs": 106840,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "with more algorithmic social media,\nso things like TikTok, Instagram Reels,"
+    } ]
+  }, {
+    "tStartMs": 112080,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "it really is everywhere.\nIt's on every app."
+    } ]
+  }, {
+    "tStartMs": 115240,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "It's in kind of\nalmost every community in a way."
+    } ]
+  }, {
+    "tStartMs": 118800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And what about podcasts?\nYes, podcasts is also a big place"
+    } ]
+  }, {
+    "tStartMs": 122560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "where the manosphere kind of spreads\ntheir ideas to wider audiences."
+    } ]
+  }, {
+    "tStartMs": 126640,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I'm sure you've seen clips\nof Andrew Tate's podcast."
+    } ]
+  }, {
+    "tStartMs": 129720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "That's one that obviously went\nvery viral a couple of years ago"
+    } ]
+  }, {
+    "tStartMs": 133080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and really brought those manosphere\nideas into the mainstream."
+    } ]
+  }, {
+    "tStartMs": 137080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "The manosphere is\nquite loosely defined."
+    } ]
+  }, {
+    "tStartMs": 139640,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "There could be people\nthat it's almost"
+    } ]
+  }, {
+    "tStartMs": 142120,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "like a spectrum is\nhow I kind of like to think of it."
+    } ]
+  }, {
+    "tStartMs": 144200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "There's a very extreme side where you\nhear what some of these guys are saying"
+    } ]
+  }, {
+    "tStartMs": 148400,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and you're like, that is stuff\nthat people - we would never say."
+    } ]
+  }, {
+    "tStartMs": 152800,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "But then you've got people\non the other end of the spectrum"
+    } ]
+  }, {
+    "tStartMs": 154920,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "that might have much larger audiences\nwho sort of dabble"
+    } ]
+  }, {
+    "tStartMs": 158200,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "with manosphere or masculinity ideas."
+    } ]
+  }, {
+    "tStartMs": 161280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And let's actually pause\nand just clarify who Andrew Tate is."
+    } ]
+  }, {
+    "tStartMs": 164520,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "People might have heard of him."
+    } ]
+  }, {
+    "tStartMs": 165520,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "He's an influencer and\ndescribes himself as a misogynist."
+    } ]
+  }, {
+    "tStartMs": 168800,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And in the past he said things like,\nquote, 'there's no such thing"
+    } ]
+  }, {
+    "tStartMs": 171840,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "as an independent female'\nand said that 'women should, quote,"
+    } ]
+  }, {
+    "tStartMs": 175400,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "bare responsibility\nfor being sexually assaulted.'"
+    } ]
+  }, {
+    "tStartMs": 178640,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "He's accused\nof several crimes in Romania,"
+    } ]
+  }, {
+    "tStartMs": 180680,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "including human trafficking and rape,\nwhich he has strongly denied."
+    } ]
+  }, {
+    "tStartMs": 184560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So, Jackie, can we be a bit concrete?\nWhat are these people saying?"
+    } ]
+  }, {
+    "tStartMs": 188440,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "They are saying a mixture of things."
+    } ]
+  }, {
+    "tStartMs": 191480,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So there's kind of three categories,"
+    } ]
+  }, {
+    "tStartMs": 194200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "right? There's advice for young men."
+    } ]
+  }, {
+    "tStartMs": 196600,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "That advice includes things like\nyou need to be a traditional man."
+    } ]
+  }, {
+    "tStartMs": 200360,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "You need to be the breadwinner."
+    } ]
+  }, {
+    "tStartMs": 201760,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "You need to work out.\nYou need to get your body in shape."
+    } ]
+  }, {
+    "tStartMs": 205520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Then there's sort of advice\nor comments about women."
+    } ]
+  }, {
+    "tStartMs": 209520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So that's things like women need\nto get in the kitchen."
+    } ]
+  }, {
+    "tStartMs": 213080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Women need to follow\nthe man's directions."
+    } ]
+  }, {
+    "tStartMs": 216320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "The man is allowed to put a woman\nin her place"
+    } ]
+  }, {
+    "tStartMs": 220000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and then you've kind of got\nthe more general,"
+    } ]
+  }, {
+    "tStartMs": 222200,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "I guess, finance advice is the\nother aspect of these communities."
+    } ]
+  }, {
+    "tStartMs": 226760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So a lot of the young men\nthat I've spoken to often stumble"
+    } ]
+  }, {
+    "tStartMs": 229640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "upon these communities\nby looking for financial advice,"
+    } ]
+  }, {
+    "tStartMs": 233280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and these are the first videos\nthat they often come across."
+    } ]
+  }, {
+    "tStartMs": 236760,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So that's also a big selling point\nof these manosphere figures,"
+    } ]
+  }, {
+    "tStartMs": 240160,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "is they give you business advice\nand they tell you this is"
+    } ]
+  }, {
+    "tStartMs": 242320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "how you can be successful."
+    } ]
+  }, {
+    "tStartMs": 245120,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "And then they bring in all\nthese other harmful ideas about women"
+    } ]
+  }, {
+    "tStartMs": 248200,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and harmful ideas\nabout men and masculinity."
+    } ]
+  }, {
+    "tStartMs": 251800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "And you've teased there are a number\nof ways that men find themselves\nin the manosphere."
+    } ]
+  }, {
+    "tStartMs": 256440,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "We've actually been speaking to one man\nwho said that he was quite vulnerable"
+    } ]
+  }, {
+    "tStartMs": 260400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "at a particular time in his life.\nThis is Will Adolphy."
+    } ]
+  }, {
+    "tStartMs": 264000,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Well, when I was about 18/19\nat university,"
+    } ]
+  }, {
+    "tStartMs": 269120,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "I was struggling\nwith my mental health at the time,"
+    } ]
+  }, {
+    "tStartMs": 273560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and I began watching content online."
+    } ]
+  }, {
+    "tStartMs": 277880,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Firstly, it started\nwith pickup artists content."
+    } ]
+  }, {
+    "tStartMs": 281400,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "So looking at ways to get with women\non nights out."
+    } ]
+  }, {
+    "tStartMs": 286760,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Strategies\nI can try to appear attractive."
+    } ]
+  }, {
+    "tStartMs": 290880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And it was this sort of content,"
+    } ]
+  }, {
+    "tStartMs": 294240,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "which I think looking back,\nI was looking at ways"
+    } ]
+  }, {
+    "tStartMs": 297840,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "in which I can make myself valued and\nattractive to the world and to women."
+    } ]
+  }, {
+    "tStartMs": 305080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I felt a lot of deep insecurity\nwithin me at that time."
+    } ]
+  }, {
+    "tStartMs": 308320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I felt ugly as a kid, felt ugly."
+    } ]
+  }, {
+    "tStartMs": 310600,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "I felt small, and growing up in\na culture where there was this kind"
+    } ]
+  }, {
+    "tStartMs": 316280,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "of man box,\nrigid sense of masculinity,"
+    } ]
+  }, {
+    "tStartMs": 320480,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "and that insecurity around\nwhat I wasn't matching up to led me"
+    } ]
+  }, {
+    "tStartMs": 326560,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "to seeking answers online."
+    } ]
+  }, {
+    "tStartMs": 329160,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So one point that's really crucial is\nthat the manosphere amplifies"
+    } ]
+  }, {
+    "tStartMs": 334200,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "existing cultural ideas\naround masculinity."
+    } ]
+  }, {
+    "tStartMs": 338320,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So what is happening offline\nwithin the culture and"
+    } ]
+  }, {
+    "tStartMs": 341720,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "the collective socialisation of men\nis informing the messaging online."
+    } ]
+  }, {
+    "tStartMs": 347160,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And that's really important\nto understand because it's not"
+    } ]
+  }, {
+    "tStartMs": 349600,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "just about the manosphere itself."
+    } ]
+  }, {
+    "tStartMs": 352240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "My collective socialisation as a boy,\nas a man, started when I was born."
+    } ]
+  }, {
+    "tStartMs": 356160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Boys are actually treated\ndifferently."
+    } ]
+  }, {
+    "tStartMs": 358960,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "But then when I was in my early 20s,\nwas when I discovered"
+    } ]
+  }, {
+    "tStartMs": 362120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "the masculinity influencer who became\na father figure."
+    } ]
+  }, {
+    "tStartMs": 364880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "And that went on for about\nuntil I was probably about 25."
+    } ]
+  }, {
+    "tStartMs": 369680,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And it took me ages,\nand I'm still processing the kind"
+    } ]
+  }, {
+    "tStartMs": 373920,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "of views that I inherited then."
+    } ]
+  }, {
+    "tStartMs": 376440,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Jacqui will now works\nas a psychotherapist"
+    } ]
+  }, {
+    "tStartMs": 379080,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and he delivers workshops\nabout healthy masculinity."
+    } ]
+  }, {
+    "tStartMs": 382760,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I want to pick up\non something he said."
+    } ]
+  }, {
+    "tStartMs": 384360,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "He mentioned that the manosphere\namplifies existing cultural ideas"
+    } ]
+  }, {
+    "tStartMs": 389200,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "about masculinity.\nCan you unpack that?"
+    } ]
+  }, {
+    "tStartMs": 391840,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Yeah, I mean, sexism isn't new.\nIt's been around for forever."
+    } ]
+  }, {
+    "tStartMs": 396680,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And what these manosphere guys\nare doing is"
+    } ]
+  }, {
+    "tStartMs": 398960,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "they're sort of just applying\na new language and a new extreme idea"
+    } ]
+  }, {
+    "tStartMs": 402280,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "to sexist ideas that are already\nout there."
+    } ]
+  }, {
+    "tStartMs": 406880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I mean, as Will kind of touched on,"
+    } ]
+  }, {
+    "tStartMs": 409280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "these ideas can be harmful for men\nand women."
+    } ]
+  }, {
+    "tStartMs": 412760,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I mean, it's been a really long time\nthat young men have felt a lot"
+    } ]
+  }, {
+    "tStartMs": 415840,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "of pressure to,\nyou know, be breadwinners"
+    } ]
+  }, {
+    "tStartMs": 418440,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and be - earn a lot of money\nand be a certain height."
+    } ]
+  }, {
+    "tStartMs": 421520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And this is\nwhat the manosphere influencers"
+    } ]
+  }, {
+    "tStartMs": 424280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and manosphere communities really peg\na lot of their language to,"
+    } ]
+  }, {
+    "tStartMs": 428840,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "is those sort of insecurities\nthat men have always had."
+    } ]
+  }, {
+    "tStartMs": 432880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And then in the meantime,\nthey also amplify those ideas"
+    } ]
+  }, {
+    "tStartMs": 435520,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "that society have always had\nabout women."
+    } ]
+  }, {
+    "tStartMs": 437760,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "The idea that\nthe men can boss women around,"
+    } ]
+  }, {
+    "tStartMs": 440480,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "that women need to, you know,\nembrace traditional motherhood."
+    } ]
+  }, {
+    "tStartMs": 444680,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "This is stuff\nthat has always been there,"
+    } ]
+  }, {
+    "tStartMs": 447080,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and it's just these communities\nhave allowed it to foster"
+    } ]
+  }, {
+    "tStartMs": 450480,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and become something even more extreme.\nAnd I want to zoom out for a second."
+    } ]
+  }, {
+    "tStartMs": 454960,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "We've talked a lot about, you know,\nthe manosphere influencers."
+    } ]
+  }, {
+    "tStartMs": 458200,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But let's look at society at large.\nCertainly here in the UK"
+    } ]
+  }, {
+    "tStartMs": 461920,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "in recent years, recent decades,\nthere's been a movement when it comes"
+    } ]
+  }, {
+    "tStartMs": 464760,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "to women about 'all women are\nbeautiful.' You know we shouldn't,"
+    } ]
+  }, {
+    "tStartMs": 467680,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "women, 'shouldn't live up\nto these unrealistic expectations,"
+    } ]
+  }, {
+    "tStartMs": 471440,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "these glossy photo shoots\nand fashion magazines.'"
+    } ]
+  }, {
+    "tStartMs": 474360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Yet for men, we don't always have\nthat same notion."
+    } ]
+  }, {
+    "tStartMs": 477240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And indeed, for young boys, that\nyou're already enough the way you are."
+    } ]
+  }, {
+    "tStartMs": 480680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There are these existing ideals, like\n'you have to be hulking like the Hulk."
+    } ]
+  }, {
+    "tStartMs": 484680,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "You have to be the breadwinner.'\nThese are things that comes\nfrom a sexist society, right?"
+    } ]
+  }, {
+    "tStartMs": 490000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So we also need to -\njust as much as we're telling women"
+    } ]
+  }, {
+    "tStartMs": 492920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "they don't have to fit into\nthese traditional female stereotypes."
+    } ]
+  }, {
+    "tStartMs": 496600,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Men don't have to either.\nSo I think it is really"
+    } ]
+  }, {
+    "tStartMs": 499680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "about making sure that men don't feel\nthis pressure to be this, you know,"
+    } ]
+  }, {
+    "tStartMs": 504400,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "quite harmful idea of masculinity\nor just one idea"
+    } ]
+  }, {
+    "tStartMs": 507240,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "of masculinity that you know, exists."
+    } ]
+  }, {
+    "tStartMs": 509760,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And that's fine,\nbut not every man has to fit that."
+    } ]
+  }, {
+    "tStartMs": 512560,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And, Jackie, one of the ways\nthat misogynistic language is spread"
+    } ]
+  }, {
+    "tStartMs": 516280,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and normalised\nis through online memes."
+    } ]
+  }, {
+    "tStartMs": 519240,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And I actually want to bring in\na woman who studies this."
+    } ]
+  }, {
+    "tStartMs": 521960,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "This is Anita Fuentes from\nthe Complutense University in Madrid."
+    } ]
+  }, {
+    "tStartMs": 525880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Memes are not\njust communication tools."
+    } ]
+  }, {
+    "tStartMs": 529960,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I think they're emotional weapons."
+    } ]
+  }, {
+    "tStartMs": 532360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "In a Tedx talk that I gave\na couple years ago,"
+    } ]
+  }, {
+    "tStartMs": 535480,
+    "dDurationMs": 8560,
+    "segs": [ {
+      "utf8": "I argued that memes pack both emotion\nand ideology into short viral formats."
+    } ]
+  }, {
+    "tStartMs": 544040,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "And in doing so, they make you feel\nlike you understand the world."
+    } ]
+  }, {
+    "tStartMs": 548640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And that's exactly\nwhat gives them political power."
+    } ]
+  }, {
+    "tStartMs": 552320,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Now, the manosphere uses memes\nto circulate ideas about women,"
+    } ]
+  }, {
+    "tStartMs": 557680,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "about sexuality or masculinity\nthat would sound absurd"
+    } ]
+  }, {
+    "tStartMs": 562680,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "or grotesque\nif you said them out right."
+    } ]
+  }, {
+    "tStartMs": 565160,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "But meme culture allows\nthese ideas to spread"
+    } ]
+  }, {
+    "tStartMs": 569920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "by cloaking them in irony and humour,"
+    } ]
+  }, {
+    "tStartMs": 573280,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "so that if you disagree, you're\naccused of being too sensitive,"
+    } ]
+  }, {
+    "tStartMs": 577320,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "of not getting the joke.\nJacqui, back to you now."
+    } ]
+  }, {
+    "tStartMs": 580960,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "One word that comes up\nin these discussions"
+    } ]
+  }, {
+    "tStartMs": 583840,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "is 'incel',\nthat's 'involuntarily celibate'."
+    } ]
+  }, {
+    "tStartMs": 587760,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "How does that relate to this?"
+    } ]
+  }, {
+    "tStartMs": 589160,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Involuntary celibate is one of the\nfirst communities of the manosphere."
+    } ]
+  }, {
+    "tStartMs": 595040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And interestingly enough,\nthe community was started"
+    } ]
+  }, {
+    "tStartMs": 598400,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "in the early 2000 by a woman who, sadly,\nshe couldn't find any connections."
+    } ]
+  }, {
+    "tStartMs": 604800,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "She'd just come out as a lesbian, and\nshe was searching for connection online,"
+    } ]
+  }, {
+    "tStartMs": 609640,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "among other people\nwho were also involuntarily celibate"
+    } ]
+  }, {
+    "tStartMs": 612280,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and couldn't find, you know,\nthat sexual connection."
+    } ]
+  }, {
+    "tStartMs": 616280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And then unfortunately,\nit did get hijacked very early on"
+    } ]
+  }, {
+    "tStartMs": 619520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "by mostly young men who,\nI guess, co-opted"
+    } ]
+  }, {
+    "tStartMs": 623520,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "the term incel to once again mean\nthat they couldn't get sex."
+    } ]
+  }, {
+    "tStartMs": 628360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "But that was women's fault\nand women withholding sex from them."
+    } ]
+  }, {
+    "tStartMs": 632680,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And they kind of believed\nthat they were owed sex by women."
+    } ]
+  }, {
+    "tStartMs": 635720,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And it's sort of an interesting\ncombination of feelings"
+    } ]
+  }, {
+    "tStartMs": 637800,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "where the young men well,\nI'm saying young men,"
+    } ]
+  }, {
+    "tStartMs": 640280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "but it's all ages, mostly young men,\nin these groups,"
+    } ]
+  }, {
+    "tStartMs": 645480,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "you know, very self-hating. They believe\nthat they're not attractive enough,"
+    } ]
+  }, {
+    "tStartMs": 648160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they're not successful enough,\nbut they also,"
+    } ]
+  }, {
+    "tStartMs": 650160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "at the same time blame women for their\ninability to form those relationships."
+    } ]
+  }, {
+    "tStartMs": 656160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "A lot of, you know,\nviolent attacks have occurred"
+    } ]
+  }, {
+    "tStartMs": 660320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and they've been\nin connection with incel groups."
+    } ]
+  }, {
+    "tStartMs": 662600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So one famous one was in California\nabout ten years ago now,"
+    } ]
+  }, {
+    "tStartMs": 666760,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "where one guy,\nkilled women at his university."
+    } ]
+  }, {
+    "tStartMs": 671240,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And he was very, very active\nin these incel communities."
+    } ]
+  }, {
+    "tStartMs": 674720,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "And incidents like that\nhave continued to happen since."
+    } ]
+  }, {
+    "tStartMs": 677800,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Violence is an extreme example,\nbut people are worried that"
+    } ]
+  }, {
+    "tStartMs": 680880,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "these online conversations are having\nother offline real world consequences."
+    } ]
+  }, {
+    "tStartMs": 686440,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Could you tell us about those?"
+    } ]
+  }, {
+    "tStartMs": 688160,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Particularly young men who are engaging\nin these conversations online"
+    } ]
+  }, {
+    "tStartMs": 691400,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "or in these communities, that does\nfilter out into their everyday lives."
+    } ]
+  }, {
+    "tStartMs": 696320,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "There's been reports here in the UK\nthat have profiled this,"
+    } ]
+  }, {
+    "tStartMs": 700840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "like schoolyard misogyny\nwhere young men have, you know,"
+    } ]
+  }, {
+    "tStartMs": 705240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "sworn at female teachers\nrefuse to listen to them,"
+    } ]
+  }, {
+    "tStartMs": 709160,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "have also been misogynistic\ntowards girls in their class."
+    } ]
+  }, {
+    "tStartMs": 713520,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And it has kind of filtered in\ninto that everyday misogyny"
+    } ]
+  }, {
+    "tStartMs": 717800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and making it more extreme\nand excusing it."
+    } ]
+  }, {
+    "tStartMs": 721400,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "When I've spoken to teachers\nacross the UK, in Kenya and Mexico,"
+    } ]
+  }, {
+    "tStartMs": 727480,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "all of them remark on this thing\nthat, you know what, it is difficult"
+    } ]
+  }, {
+    "tStartMs": 731680,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "because these online communities\nare excusing these attitudes"
+    } ]
+  }, {
+    "tStartMs": 735480,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "that young men may have,\nyou know, had before,"
+    } ]
+  }, {
+    "tStartMs": 739360,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "but been held accountable for\nin their community."
+    } ]
+  }, {
+    "tStartMs": 742160,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "However, now they're actually\nbeing rewarded for having these ideas"
+    } ]
+  }, {
+    "tStartMs": 748240,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "in their online communities,\nin their online spaces, and"
+    } ]
+  }, {
+    "tStartMs": 751360,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "then that's making them bring it again\nand again into their everyday lives."
+    } ]
+  }, {
+    "tStartMs": 755040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So Jacqui, building on that,\nhow do we solve this?"
+    } ]
+  }, {
+    "tStartMs": 757840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "This is Will the psychotherapist."
+    } ]
+  }, {
+    "tStartMs": 760360,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "There's lots of solutions here. I've\nbeen focusing on three pillars here."
+    } ]
+  }, {
+    "tStartMs": 764800,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So education firstly"
+    } ]
+  }, {
+    "tStartMs": 766840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "and what I mean by that is what does\ncritical thinking actually look like."
+    } ]
+  }, {
+    "tStartMs": 771640,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And also redefining success."
+    } ]
+  }, {
+    "tStartMs": 774840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "What does success mean for a man,\nfor a person in a capitalist society?"
+    } ]
+  }, {
+    "tStartMs": 778840,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Well, we've been conditioned to believe\nthat it's about earning money,"
+    } ]
+  }, {
+    "tStartMs": 782040,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and it's about gaining followers\nand having high impact and influence."
+    } ]
+  }, {
+    "tStartMs": 786600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That doesn't necessarily bring\nhappiness."
+    } ]
+  }, {
+    "tStartMs": 789600,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "And so at the heart of this, for me,\nis how do we evolve masculinity"
+    } ]
+  }, {
+    "tStartMs": 795360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "towards a more open,\nmore mature expression and idea."
+    } ]
+  }, {
+    "tStartMs": 799680,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And we need to see that.\nWe need to see that in films."
+    } ]
+  }, {
+    "tStartMs": 801920,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "We need to see it in books,\nwe need to see it in music."
+    } ]
+  }, {
+    "tStartMs": 805240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And we need more and more men\nto stand up, speak up,"
+    } ]
+  }, {
+    "tStartMs": 808240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and actually get involved\nin this conversation"
+    } ]
+  }, {
+    "tStartMs": 810640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "around what works about masculinity,\nwhat doesn't."
+    } ]
+  }, {
+    "tStartMs": 813880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Will also told us\nthat joining a support group"
+    } ]
+  }, {
+    "tStartMs": 816680,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "and being more open with his emotions\nreally helped him."
+    } ]
+  }, {
+    "tStartMs": 820400,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So Jacqui, what can someone do\nif they have a friend"
+    } ]
+  }, {
+    "tStartMs": 823440,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "or a colleague who they think is being\nsucked in to this online community?"
+    } ]
+  }, {
+    "tStartMs": 828000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Or what can they do if they themselves\nwant to get out of this community?"
+    } ]
+  }, {
+    "tStartMs": 831200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I think the first thing that needs\nto be acknowledged here is"
+    } ]
+  }, {
+    "tStartMs": 834560,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "just how easy it is to be sucked into\nthe manosphere, so lead with empathy."
+    } ]
+  }, {
+    "tStartMs": 841120,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Every young guy that I've spoke\nto has talked about"
+    } ]
+  }, {
+    "tStartMs": 844600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "how it's really unavoidable."
+    } ]
+  }, {
+    "tStartMs": 846720,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "You look up any content that's\nsort of primarily male audiences."
+    } ]
+  }, {
+    "tStartMs": 852200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "This manosphere, it's there.\nIf you look up gaming content."
+    } ]
+  }, {
+    "tStartMs": 855880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Most of the influencers are\nmanosphere or manosphere adjacent."
+    } ]
+  }, {
+    "tStartMs": 859480,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Gym content, financial content,\nbodybuilding."
+    } ]
+  }, {
+    "tStartMs": 864680,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "It's really difficult\nto find community online as a man and"
+    } ]
+  }, {
+    "tStartMs": 870480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "find spaces that are productive and\naren't associated with manosphere."
+    } ]
+  }, {
+    "tStartMs": 874240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So first of all, I think that's the\nmost important thing to understand."
+    } ]
+  }, {
+    "tStartMs": 878160,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "The next bit is try - I guess\nnot to give up on your loved one."
+    } ]
+  }, {
+    "tStartMs": 884560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Every single guy I've spoken to has\nsaid is what kind of made them leave,"
+    } ]
+  }, {
+    "tStartMs": 890160,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "or prompted them\nto start thinking about it"
+    } ]
+  }, {
+    "tStartMs": 892440,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "was role models in their own life,\nparticularly male role models."
+    } ]
+  }, {
+    "tStartMs": 896440,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "So one guy mentioned while he was\nat uni, he came home after semester"
+    } ]
+  }, {
+    "tStartMs": 901880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and spoke to his dad and\nrealised the issues he was facing."
+    } ]
+  }, {
+    "tStartMs": 905000,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "You know, heartbreak, loneliness,\nit wasn't just him"
+    } ]
+  }, {
+    "tStartMs": 908440,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and it wasn't anyone's fault. This\nis something that we all go through,"
+    } ]
+  }, {
+    "tStartMs": 911480,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and I think having\nthose conversations with everyone"
+    } ]
+  }, {
+    "tStartMs": 915360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "in our lives is really important."
+    } ]
+  }, {
+    "tStartMs": 918000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "The other thing I think\nthat's really important"
+    } ]
+  }, {
+    "tStartMs": 921040,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "is exposing young men\nto content by women as well"
+    } ]
+  }, {
+    "tStartMs": 927200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and making sure that there is a mix\nof stuff that goes on here,"
+    } ]
+  }, {
+    "tStartMs": 930320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "that there's female\nand male role models."
+    } ]
+  }, {
+    "tStartMs": 932600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "I think we talk a lot\nabout young men having very, you"
+    } ]
+  }, {
+    "tStartMs": 938360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "know, role models in their own life.\nAnd we often talk about them being men."
+    } ]
+  }, {
+    "tStartMs": 941560,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But it's important to,\nyou know, have young men view women"
+    } ]
+  }, {
+    "tStartMs": 944880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "as successful and women as people\nthat they can also look up to."
+    } ]
+  }, {
+    "tStartMs": 949520,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "But I think it just always comes back\nto community"
+    } ]
+  }, {
+    "tStartMs": 952920,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and speaking about these things\nthat we're struggling with,"
+    } ]
+  }, {
+    "tStartMs": 955760,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "because at the end of the day,\nwhat the manosphere wants is it wants"
+    } ]
+  }, {
+    "tStartMs": 959440,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "young men to be isolated. It wants\nthem to come into these communities."
+    } ]
+  }, {
+    "tStartMs": 962680,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "It wants to make money off them often\nand keep them there"
+    } ]
+  }, {
+    "tStartMs": 966440,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and keep them isolated\nfrom the people in their real life."
+    } ]
+  }, {
+    "tStartMs": 968960,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So just forming community is\nvery important."
+    } ]
+  }, {
+    "tStartMs": 971640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Jacqui, thanks for explaining that.\nThanks."
+    } ]
+  }, {
+    "tStartMs": 974040,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "That's all for today.\nThanks for watching another episode"
+    } ]
+  }, {
+    "tStartMs": 976800,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "of What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 979160,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I'm William Lee Adams.\nIf you enjoyed this video,"
+    } ]
+  }, {
+    "tStartMs": 981840,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "please do give us a like and\nscribble your comments down below."
+    } ]
+  }, {
+    "tStartMs": 985040,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And why not join the around two\nmillion people who already subscribe"
+    } ]
+  }, {
+    "tStartMs": 989320,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "to the BBC\nWorld Service YouTube channel?"
+    } ]
+  }, {
+    "tStartMs": 991760,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "We'll see you again soon. Bye."
+    } ]
+  } ]
+}

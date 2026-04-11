@@ -1,0 +1,2273 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "If you've ever turned off the lights,\nlocked the doors, got under a blanket,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 4400,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and spent hours watching\na documentary about a serial killer,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 7920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "then this episode is for you.\nToday is all about true crime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 11760,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "The non-fiction genre\nthat explores victims of crimes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 15120,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and looks at the motives\nof the people who committed them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 18160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Now, there is no shortage of examples\nof these types of programmes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 22400,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "Here are just a few."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23800,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "Conversations with a Killer: The Ted\nBundy Tapes, The Family Next Door,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28560,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "The Menendez Brothers, Gone Girls:"
+        }
+      ]
+    },
+    {
+      "tStartMs": 31160,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "The Long Island Serial killer,\nWorst Roommate Ever,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35080,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "The Ripper, Meet, Marry Murder,\nAmerican Manhunt:"
+        }
+      ]
+    },
+    {
+      "tStartMs": 38360,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "OJ Simpson, Extremely Wicked,\nShockingly Evil and Vile."
+        }
+      ]
+    },
+    {
+      "tStartMs": 43240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So why are these shows so popular,\nand what effects can they have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46560,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "on our brain and our behaviour?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 48720,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "We're going to find out.\nNow, please note"
+        }
+      ]
+    },
+    {
+      "tStartMs": 51160,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "this episode will include discussions\nof murder and violence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 54080,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "So if you're sensitive to these topics,\nyou may want to stop watching now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 57960,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "I'm William Lee Adams, and this is what\nin the world from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 64920,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Here to tell us more about the topic\nis Jacqui Wakefield from"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "the BBC's Global Disinformation Unit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 71240,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Jacqui, Hi. So,\nJacqui, let's zoom out for a minute."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "What do we mean\nwhen we say true crime?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 77320,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So true crime is\nany content that follows"
+        }
+      ]
+    },
+    {
+      "tStartMs": 80600,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "the real aspects of any crime case,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 84080,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "whether that be a murder,\na kidnapping, a serial killer,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 88760,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "even something\nlike shoplifting would be true crime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 91720,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So it's something that looks\nat the legal aspects,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 95200,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "the - putting together\nthe journalistic aspects of the case"
+        }
+      ]
+    },
+    {
+      "tStartMs": 99480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and looking at who did it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101840,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And why do you think they're so popular?\nI think there's so many reasons, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106240,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "I think one is that\nthere's this discussion aspect to it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109880,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "We can chat about it.\nYou can hypothesise."
+        }
+      ]
+    },
+    {
+      "tStartMs": 112600,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "It means that you kind of build a bit\nof involvement with the story,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 117000,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "with mates or with people online."
+        }
+      ]
+    },
+    {
+      "tStartMs": 119240,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "And then I think there's also this\nidea of getting justice that I think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123800,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "people are really fascinated by,  this\nidea of why did someone do something,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 128720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and can we hold\nthem to account for that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 131280,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And I've always been obsessed with this\nidea that I'm going to be kidnapped."
+        }
+      ]
+    },
+    {
+      "tStartMs": 135120,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "I think it goes back\nto when I was a kid"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137120,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and the teachers were like,\nif you leave the playground,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 139440,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "a spooky man in a slow moving car\nwill open the door and snatch you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 143120,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So I sort of watched these shows\nto find out tips about what I can do"
+        }
+      ]
+    },
+    {
+      "tStartMs": 146800,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "if I'm in one of these situations,\nand I want to give you an example."
+        }
+      ]
+    },
+    {
+      "tStartMs": 150040,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "There's a show called Surviving Evil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 152440,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And in one episode,\na woman is kidnapped and she's beaten"
+        }
+      ]
+    },
+    {
+      "tStartMs": 155640,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and she's put in a trash bin\nupside down."
+        }
+      ]
+    },
+    {
+      "tStartMs": 158360,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Now, at the end of the episode,\nshe survives evil,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160800,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and she says\nthat her great lesson was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 162800,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "that she needed to flip herself over,\naka knock the trash bin over"
+        }
+      ]
+    },
+    {
+      "tStartMs": 166520,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "so that she wouldn't die\nso that she would remain conscious."
+        }
+      ]
+    },
+    {
+      "tStartMs": 169440,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And she did.\nAnd she survived evil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 172680,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Now, do you ever draw lessons, life\nlessons like that, from these shows?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 176320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "I think that's one thing that\nme, myself,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 178840,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and - I think audiences really get\nfrom true crime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182920,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I don't know about you, but I know\nwhen I'm scrolling on my own TikTok,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 185800,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I always watch those videos\nwhere it's like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 188840,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "this is how to escape\nfrom a car boot."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190920,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "If you're stuck in there,\nlike you punch through the\nthe light glass and then you wave."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195880,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Why do I watch these things?\nI think it's similar to you, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 198360,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "We're kind of told\nabout this risk of kidnapping"
+        }
+      ]
+    },
+    {
+      "tStartMs": 201080,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and I mean,\ntrue crime is part of that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 203280,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "We're so exposed to these risks\nthat are so unlikely to happen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208240,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So I do think there is\nlike an aspect of what not to do"
+        }
+      ]
+    },
+    {
+      "tStartMs": 212280,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "and I think that explains why\ntrue crime is so popular with women,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 216400,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "because women are kind of told\nabout these, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219320,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "'you're not going to be safe at night,\nnot going to be safe on the streets.'"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222640,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And I think a lot of women like,\njustify loving true crime so much,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 226360,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "because it kind of gives you step\nto step of what not to do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 230920,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Do you ever find these shows calming?\nFor instance, life is really messy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235000,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "and when I watch these shows, I somehow\nfeel better about my own station."
+        }
+      ]
+    },
+    {
+      "tStartMs": 238600,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "The problems that I have don't seem\nso bad because it could always be worse."
+        }
+      ]
+    },
+    {
+      "tStartMs": 242320,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Definitely. I mean, I used to\nfall asleep to true crime podcasts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 246240,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "I think part of it is\nthe people that tend to present them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249480,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "have extremely calming,\nbeautiful voices."
+        }
+      ]
+    },
+    {
+      "tStartMs": 251960,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So that's one aspect.\nSeparately to that, I think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 254280,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "there's something very formulaic to\nthese programmes that we really enjoy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 259480,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Like, I mean, I really enjoy\nin particular the idea of, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 263440,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "slowly picking through every detail,\nfinding out every aspect about a case"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268920,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and then sometimes wrapping it up\nin the end"
+        }
+      ]
+    },
+    {
+      "tStartMs": 272120,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "with an answer\nthat we so rarely get in real life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 275000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Absolutely.\nThere's some gratification there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 277040,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Now, I want to pause for a moment\nand bring in Dr Julia Shaw."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280480,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "She is a psychologist here in London,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283200,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and she hosts the BBC true crime\npodcast Bad People."
+        }
+      ]
+    },
+    {
+      "tStartMs": 287120,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "We had a conversation earlier\nabout some of the reasons people\nlike the true crime genre."
+        }
+      ]
+    },
+    {
+      "tStartMs": 291680,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "I think that true crime fans get\na bit of a bad reputation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 295120,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "as in, I think that\npeople stereotype themselves a bit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 298640,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "where there's this idea\nthat true crime is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 300720,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "this dark, almost dirty little secret\nthat people have and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 304120,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "that they shouldn't enjoy watching\nshows about things like murder."
+        }
+      ]
+    },
+    {
+      "tStartMs": 308960,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "But I think\nwhat's actually going on is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311520,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "a profound psychological interest\nin why people do bad things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 314920,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "And so it's one thing to engage\nwith dramas or with fiction"
+        }
+      ]
+    },
+    {
+      "tStartMs": 319040,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and to enjoy interesting stories\nand interesting crimes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 322160,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "but it's something completely different\nto try and really understand the minds"
+        }
+      ]
+    },
+    {
+      "tStartMs": 325600,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and motives of people who kill,\nfor example."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328640,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And so I think it's not this shallow,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "vapid pastime that\ntrue crime is often presented as."
+        }
+      ]
+    },
+    {
+      "tStartMs": 334520,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "I think instead, it's actually\npeople who want to really deal"
+        }
+      ]
+    },
+    {
+      "tStartMs": 337960,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "with the things\nthat are most important in society."
+        }
+      ]
+    },
+    {
+      "tStartMs": 340560,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And so, you know, it's the\nwider questions that we can draw"
+        }
+      ]
+    },
+    {
+      "tStartMs": 344640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "from individual issues,\nindividual cases,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347280,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and what they mean for society\nand how we talk about one another."
+        }
+      ]
+    },
+    {
+      "tStartMs": 351000,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "I also think that,\nat least based on our listeners,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 354840,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "that people really want to understand\ntheir own dark thoughts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359360,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And so we all sometimes,\nfor example, have murder fantasies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So occasionally,\nor at least according to research,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 366120,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "there's been studies which have shown\nthat people have in their lives"
+        }
+      ]
+    },
+    {
+      "tStartMs": 368920,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "at some point fantasised\nabout killing somebody."
+        }
+      ]
+    },
+    {
+      "tStartMs": 372800,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And I don't mean that\nin a sort of really detailed way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 375560,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I mean, more\nthat someone is really bugging you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 378680,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "and you have this fleeting thought,\nperhaps, of 'What would happen if'?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 383600,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And of course,\nthe benefit of that is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 385920,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "that you're sort of going\nthrough this thought experiment and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 388160,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "hopefully it should help you\nto make a decision not to do that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 391760,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "because you're thinking about the\nnegative consequences that also follow."
+        }
+      ]
+    },
+    {
+      "tStartMs": 395120,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "But those dark impulses\nthat we all have,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 397160,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "those thoughts, I think people\nreally want to understand them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 400480,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And when you see the manifestation\nof those thoughts"
+        }
+      ]
+    },
+    {
+      "tStartMs": 402800,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "in the most extreme form in crime,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 405680,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "you can deal with them but in a more,\nI don't know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 409120,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "in a more - in an easier way\nthan just trying to introspect."
+        }
+      ]
+    },
+    {
+      "tStartMs": 412200,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So Jacqui, we talked about the why,\nwhy people like these programmes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 416160,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "but when did they become so popular?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 418400,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "True crime has always been popular."
+        }
+      ]
+    },
+    {
+      "tStartMs": 420560,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "There were, you know,\narticles in the 18th Century that was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424120,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "about true crime. And in the 1980s and 90s,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "there were lots of serial killer\ntrue crime documentaries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 430080,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "But it really exploded on the scene\nwith Serial, which is a podcast"
+        }
+      ]
+    },
+    {
+      "tStartMs": 434600,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "from The New York Times which\nfollowed the case of Adnan Syed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 440400,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "This was where the idea of true crime\nreally entered the mainstream."
+        }
+      ]
+    },
+    {
+      "tStartMs": 445840,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "This podcast, when I'm not sure\nif you've heard of it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 447880,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "but it went crazy and it really had\nreal-world implications as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452120,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "Adnan Syed, who was accused\nof the murder of Hae Min Lee,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457040,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "was actually just released\nafter the podcast came out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 460320,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "due to evidence that came out\nwithin the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463040,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And I think it really captured people\nbecause there was this weekly format,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 466720,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "people were discussing it in forums,\nand it just took on a life of its own."
+        }
+      ]
+    },
+    {
+      "tStartMs": 470680,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Serial came out in 2014,\nand in the decade since,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 474160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "we've seen an explosion\nof true crime podcasts,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 477320,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "but also more and more documentaries\nand online content as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 481320,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Yeah and the internet, of course,\nsustains interest in these programmes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485680,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Could you tell us\nabout the role the internet plays"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488240,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "in sort of hyping these shows\nand creating communities around them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 491960,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Yeah. So the internet's always kind\nof... ever since the internet started,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 496120,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "it's played a bit\nof a role in these cases."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498360,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So in 1999,\nthere was a website called Websleuths"
+        }
+      ]
+    },
+    {
+      "tStartMs": 501880,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "where people would log on\nand discuss different cases."
+        }
+      ]
+    },
+    {
+      "tStartMs": 504600,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Of course, this was pretty small-\nscale. It was before social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 507760,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "It was just a few people who were\nvery, very into this world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 511640,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Then you have Reddit where\npeople were discussing it on forums."
+        }
+      ]
+    },
+    {
+      "tStartMs": 514600,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "It got a little bit bigger,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 515960,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "and it wasn't until the advent\nof algorithmic social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 519440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So, you know, TikTok,\nInstagram and others,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 522320,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "where it was really hard to avoid\nand you started getting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 526120,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "people really like building\nupon each other to create a frenzy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 530920,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "And we've really seen it affect real-\nlife cases, sometimes in positive ways,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 536760,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "but more often in negative ways."
+        }
+      ]
+    },
+    {
+      "tStartMs": 540080,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So one example is\nthe Gabby Petito case."
+        }
+      ]
+    },
+    {
+      "tStartMs": 544080,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So Gabby Petito was a young woman.\nShe was 22."
+        }
+      ]
+    },
+    {
+      "tStartMs": 547040,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "She was on a van trip\nwith her boyfriend Brian Laundrie,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and she went missing on the van trip,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 554440,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and it came out\nabout a couple weeks after her murder"
+        }
+      ]
+    },
+    {
+      "tStartMs": 557840,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "that her boyfriend, Brian Laundrie,\nhad committed the murder."
+        }
+      ]
+    },
+    {
+      "tStartMs": 561360,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "He then took his own life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 563480,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "There was so much - so many\nTikTok creators jumping on that trend"
+        }
+      ]
+    },
+    {
+      "tStartMs": 568600,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and making videos after videos."
+        }
+      ]
+    },
+    {
+      "tStartMs": 570600,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And one of the creators\nthemselves said,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 573120,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "one of the benefits to me creating and\nnot being a journalistic organisation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 577160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "is I am allowed to say\nwhatever I want."
+        }
+      ]
+    },
+    {
+      "tStartMs": 579440,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "It doesn't have to be fact.\nIt can be conjecture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 582440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Which is entertaining to be discussing\nthings with your followers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585600,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "But then you kind of go into the space\nof some wrong people were accused."
+        }
+      ]
+    },
+    {
+      "tStartMs": 591320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "You also had the aspect\nof these social media sleuths"
+        }
+      ]
+    },
+    {
+      "tStartMs": 594400,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "were throwing out locations\nthat Gabby had never been to,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 598240,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "but then you have\nsome actually helping."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600480,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So through social media,\nthere was a couple that was also"
+        }
+      ]
+    },
+    {
+      "tStartMs": 604160,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "on a van trip similar to Gabby Petito,\nand they actually had camera footage"
+        }
+      ]
+    },
+    {
+      "tStartMs": 608360,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "of the van\na few days before she went missing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 610480,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So it really is a double\n- it's a double-edged sword."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613560,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "It can sometimes be positive,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 615880,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "but more often\nthan not it can be negative."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618800,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "I think it's very easy to forget\nwhen you're watching a TV show that -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 623880,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "or listening to a podcast,\nthat these are real people that are,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 627960,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "let's say that in these particular\ncases, the victim did pass away,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 633080,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and you forget\nthat their family's still around."
+        }
+      ]
+    },
+    {
+      "tStartMs": 635080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "They are often hearing\nwhat people are saying about them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 638280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "They're hearing these theories and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 640640,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "that's where treating it as\nentertainment can get really tough."
+        }
+      ]
+    },
+    {
+      "tStartMs": 645560,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "And a lot of true crime content\ncan kind of teeter into that space"
+        }
+      ]
+    },
+    {
+      "tStartMs": 650600,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "where it can be disrespectful and\nnot really taking the case seriously."
+        }
+      ]
+    },
+    {
+      "tStartMs": 655560,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "And Jacqui, the negative consequences\ncan extend to the viewers as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 659880,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "For instance,\nif I'm watching a show and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 662040,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "the serial killer drives a white van\nand is very handsome,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 664880,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "I then become suspicious in the\nreal world when I see a white van."
+        }
+      ]
+    },
+    {
+      "tStartMs": 668200,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And I actually spoke\nto Dr Julia Shaw about this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 671160,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Here's more of our conversation\nabout the negative impact on viewers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 675440,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "This is a question I get asked\nfor myself as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677640,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "How are you not constantly suffering\nfrom what's called 'vicarious trauma',"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680840,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "which is when you experience somebody else's trauma and basically through empathy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 686040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "carry it yourself as well\nand have your own flashbacks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 689080,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "And the answer is,\nsometimes I do have flashbacks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691080,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And I think with true crime shows,\nthat is a possibility,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 695040,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "especially with the\nfrontline cameras that we now have."
+        }
+      ]
+    },
+    {
+      "tStartMs": 698960,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "We're now getting footage like body worn\ncamera footage and HD camera footage"
+        }
+      ]
+    },
+    {
+      "tStartMs": 704280,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "from from Nest Cams, doorbell cams."
+        }
+      ]
+    },
+    {
+      "tStartMs": 707600,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "And so that is completely changing\nwhere you are in relation to the crime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 713240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "And that, certainly I've felt,\nand there's been some research"
+        }
+      ]
+    },
+    {
+      "tStartMs": 716120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "on this as well\nwith other emergency responders,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 719400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "that that has a much more\nsevere impact on us psychologically."
+        }
+      ]
+    },
+    {
+      "tStartMs": 722400,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Because you are right\nin somebody's face,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 724600,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "you are in the middle of this crime"
+        }
+      ]
+    },
+    {
+      "tStartMs": 727280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "in a way that used to be quite grainy\nand removed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 729920,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "But if you are effectively breathing\nwith the person as they're being killed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 734000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "that is a completely\ndifferent experience."
+        }
+      ]
+    },
+    {
+      "tStartMs": 736440,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And so that is where I think\nwe do need to be careful,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 739680,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "both in how things are cut\nand as consumers of true crime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 743040,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Yeah, take breaks,\nespecially if things are intense."
+        }
+      ]
+    },
+    {
+      "tStartMs": 745360,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "But we need\nto not overblow this idea"
+        }
+      ]
+    },
+    {
+      "tStartMs": 748240,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "that this is something\nthat's going to happen to everyone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 750680,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And actually the crime that I'm most\nworried about, the fear mongering of,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 755120,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "that I also see\nwell-meaning people do,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 758040,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "is the fear\nof sexual assault of women."
+        }
+      ]
+    },
+    {
+      "tStartMs": 760120,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "And I think if you constantly hear\nnarratives and true cases of people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 765360,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "of women getting sexually assaulted,\nI think the problem is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 768360,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "that it can make women like myself\nfeel like I shouldn't go outside."
+        }
+      ]
+    },
+    {
+      "tStartMs": 773320,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And it really limits our\npsychological freedom of movement,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 776800,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "and that is a catastrophic outcome\nand it's often wrong,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 780760,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "even though it is\na prevalent thing that happens,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 782960,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "it is not something that happens\nvery often to most people, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 786200,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Or luckily to some people,\nnever at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 788560,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Jacqui, let's pivot back\nto the positives of true crime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 791680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Are there any examples\nwhere these shows have led"
+        }
+      ]
+    },
+    {
+      "tStartMs": 794280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "to solutions or helped investigators?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 797200,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Yeah, so there's a lot of cases where\nthese podcasts really reinvigorate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 802040,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "interest in cold cases and\nin a conclusion and in a sentencing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 806760,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "So for example,\nthere's this podcast in Australia"
+        }
+      ]
+    },
+    {
+      "tStartMs": 808960,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "that looked at a cold case\nof a woman who had been killed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 813680,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And this podcast was able to piece\ntogether evidence around the case"
+        }
+      ]
+    },
+    {
+      "tStartMs": 817520,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "and it completely went viral,\nat least in Australia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 821760,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "I think it was pretty global as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 823600,
+      "dDurationMs": 6440,
+      "segs": [
+        {
+          "utf8": "And it turned out that the husband\nat the time had murdered the wife."
+        }
+      ]
+    },
+    {
+      "tStartMs": 830040,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And the podcast was what helped\npiece together the evidence,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 833480,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "reinvigorate interest, which resulted\nin a court case and then a sentencing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 837560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Jacqui, thanks so much for coming in.\nThank you so much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 840600,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "That's all for today. Thanks\nfor watching another episode of What"
+        }
+      ]
+    },
+    {
+      "tStartMs": 843720,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 846040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "If you enjoyed this video,\nplease do give us a like."
+        }
+      ]
+    },
+    {
+      "tStartMs": 849000,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And why not join the over one million\npeople who already subscribe to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 852640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "the BBC World\nService YouTube account?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 855280,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "I'm William Lee Adams, this is What in\nthe World and we'll see you again soon."
+        }
+      ]
+    }
+  ]
+}

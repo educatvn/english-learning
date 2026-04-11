@@ -1,0 +1,463 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 360,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Our brain and our skin develop\nfrom the same group of cells"
+    } ]
+  }, {
+    "tStartMs": 3360,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "in the early embryo,\nand they're intimately linked."
+    } ]
+  }, {
+    "tStartMs": 8480,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "When the brain is under stress,\nyour skin can feel it, too."
+    } ]
+  }, {
+    "tStartMs": 12560,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Here's how humans evolved to feel stress\nas a natural response to threats."
+    } ]
+  }, {
+    "tStartMs": 18800,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "In small doses, it can help us be\nmore alert and react appropriately."
+    } ]
+  }, {
+    "tStartMs": 24640,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Stress can become harmful when we start\nto feel like you cannot control it,"
+    } ]
+  }, {
+    "tStartMs": 30720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "or that it is unpredictable."
+    } ]
+  }, {
+    "tStartMs": 35280,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Stress activates the amygdala,"
+    } ]
+  }, {
+    "tStartMs": 37360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "a part of the brain involved\nin primitive emotions."
+    } ]
+  }, {
+    "tStartMs": 40560,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "This signals to a command center\ncalled the hypothalamus,"
+    } ]
+  }, {
+    "tStartMs": 43560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "which triggers glands to make various\nhormones like cortisol and adrenaline."
+    } ]
+  }, {
+    "tStartMs": 47960,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "These travel in the bloodstream all\nover the body, including to your skin."
+    } ]
+  }, {
+    "tStartMs": 52800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "We are wired from head\nto toe to feel stress."
+    } ]
+  }, {
+    "tStartMs": 57840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "As well as receiving hormones\nfrom the brain's stress response."
+    } ]
+  }, {
+    "tStartMs": 60560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "The skin releases\nits own stress chemicals too."
+    } ]
+  }, {
+    "tStartMs": 64440,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "The skin will talk to your brain and\nyour brain will talk to your skin."
+    } ]
+  }, {
+    "tStartMs": 67520,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And then the effects\nof those combined is what causes\nthe skin changes that we can see."
+    } ]
+  }, {
+    "tStartMs": 77080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "The stress chemicals\ncan boost inflammation"
+    } ]
+  }, {
+    "tStartMs": 79640,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and reduce the fatty lipids\nthat make up the outer skin barrier."
+    } ]
+  }, {
+    "tStartMs": 83760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "This can make the skin more porous,\nleaving it"
+    } ]
+  }, {
+    "tStartMs": 86440,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "feeling drier or more sensitive."
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "What we tend to lose from the skin\nbarrier is important things like water."
+    } ]
+  }, {
+    "tStartMs": 94120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "We also can become more sensitive\nto things in the outside environment."
+    } ]
+  }, {
+    "tStartMs": 99160,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "So for example,\nallergens like pollen"
+    } ]
+  }, {
+    "tStartMs": 101280,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "or someone else's fragrance get\ninto the skin and cause irritation."
+    } ]
+  }, {
+    "tStartMs": 108360,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "A number of small studies looked at\nstress and measured the skin barrier"
+    } ]
+  }, {
+    "tStartMs": 112520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "by pulling a piece of sticky tape\noff the skin,"
+    } ]
+  }, {
+    "tStartMs": 115640,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "then seeing how quickly it recovers\nand stops water escaping in one study,"
+    } ]
+  }, {
+    "tStartMs": 121720,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "volunteers\nwere told to deliver a speech,"
+    } ]
+  }, {
+    "tStartMs": 123960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "then solve a maths problem\nin front of a hostile audience."
+    } ]
+  }, {
+    "tStartMs": 128240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Their skin barrier recovered\nmore slowly compared to"
+    } ]
+  }, {
+    "tStartMs": 130720,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "a non-stressed group who were asked\nto simply read an article on their own."
+    } ]
+  }, {
+    "tStartMs": 135160,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Stress also activates cells\nwithin the skin"
+    } ]
+  }, {
+    "tStartMs": 137680,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "to release chemicals like histamine\nthat make you feel itchy."
+    } ]
+  }, {
+    "tStartMs": 141320,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Supercharging what's called\nthe itch scratch cycle."
+    } ]
+  }, {
+    "tStartMs": 145320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "You feel itchy, you scratch,\nyou cause further skin damage,"
+    } ]
+  }, {
+    "tStartMs": 149080,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and that triggers you to feel\neven more itchy."
+    } ]
+  }, {
+    "tStartMs": 151400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So you scratch again.\n "
+    } ]
+  }, {
+    "tStartMs": 154000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "At the same time,\nstress reduces antimicrobial peptides\nin the skin."
+    } ]
+  }, {
+    "tStartMs": 158560,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Small molecules\nthat normally kill off germs,"
+    } ]
+  }, {
+    "tStartMs": 161000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "making infections like cold sores\nor shingles more likely."
+    } ]
+  }, {
+    "tStartMs": 164840,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "What's more, the stress chemicals are\nthought to stimulate glands in the skin"
+    } ]
+  }, {
+    "tStartMs": 168240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "to make more of an oily substance called\nsebum, which can contribute to spots."
+    } ]
+  }, {
+    "tStartMs": 173200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This might be one\nof the reasons why"
+    } ]
+  }, {
+    "tStartMs": 175200,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "people with more stress also tend to\nhave worse acne in various studies."
+    } ]
+  }, {
+    "tStartMs": 179920,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "For example, one small study looked\nat medical students early"
+    } ]
+  }, {
+    "tStartMs": 184040,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "in the academic quarter\nand again just before an exam."
+    } ]
+  }, {
+    "tStartMs": 187520,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "The more their stress increased,\nthe worse their acne got."
+    } ]
+  }, {
+    "tStartMs": 191720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Stress can trigger flare ups\nin other skin conditions"
+    } ]
+  }, {
+    "tStartMs": 194120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "like eczema, psoriasis,\nand hives, too."
+    } ]
+  }, {
+    "tStartMs": 197520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And while it's less researched, there is\nsome evidence that stress might change"
+    } ]
+  }, {
+    "tStartMs": 201840,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "and reduce the amount of collagen and\nother building blocks of the skin."
+    } ]
+  }, {
+    "tStartMs": 206760,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Then technically,\nyou can experience issues like loss"
+    } ]
+  }, {
+    "tStartMs": 209600,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "of firmness, loss of suppleness,\nincreasing lines and wrinkles."
+    } ]
+  }, {
+    "tStartMs": 214040,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "So what can you do about it?"
+    } ]
+  }, {
+    "tStartMs": 219320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Noticing the stressor\nis the first thing."
+    } ]
+  }, {
+    "tStartMs": 221480,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And and we can notice the stress\non our skin."
+    } ]
+  }, {
+    "tStartMs": 224680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "You might feel some neck pain\nor your stomach in a nod."
+    } ]
+  }, {
+    "tStartMs": 228760,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Difficulty sleeping.\nForgetting things. Irritability."
+    } ]
+  }, {
+    "tStartMs": 233360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Experts say exercise, seeing friends,"
+    } ]
+  }, {
+    "tStartMs": 236800,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "and even meditation can help relieve\nthe stress your brain's feeling."
+    } ]
+  }, {
+    "tStartMs": 242040,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "But what about the skin?"
+    } ]
+  }, {
+    "tStartMs": 245800,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Simple things\nthat you can do yourself"
+    } ]
+  }, {
+    "tStartMs": 248320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "are to think about your skin barrier\nin your normal skincare."
+    } ]
+  }, {
+    "tStartMs": 251920,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Looking for more hydrating products?\nFor example,"
+    } ]
+  }, {
+    "tStartMs": 254040,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "if your skin is feeling dry,\nI normally recommend diets that are good"
+    } ]
+  }, {
+    "tStartMs": 258760,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "in healthy fats,\nlean proteins, fresh fruit,"
+    } ]
+  }, {
+    "tStartMs": 262280,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and vegetables,\nmaking sure you're well hydrated."
+    } ]
+  }, {
+    "tStartMs": 266320,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Some experts say it can take three\nmonths to know if any treatments"
+    } ]
+  }, {
+    "tStartMs": 270200,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "or lifestyle changes\nare really improving the skin,"
+    } ]
+  }, {
+    "tStartMs": 273720,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "so consistency is important."
+    } ]
+  }, {
+    "tStartMs": 277200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "If you have a skin condition\nthat is aggravated by stress,"
+    } ]
+  }, {
+    "tStartMs": 280120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "it's of course important\nto address the stress element"
+    } ]
+  }, {
+    "tStartMs": 283320,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and address\nthe actual skin condition."
+    } ]
+  }, {
+    "tStartMs": 285760,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Skin is a manifestation\nof the health of your body."
+    } ]
+  } ]
+}

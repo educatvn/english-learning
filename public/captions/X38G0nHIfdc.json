@@ -1,0 +1,1321 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I would wake up at 7:30 a.m."
+    } ]
+  }, {
+    "tStartMs": 2320,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and I'd get ready for weigh in\nat 8:00 a.m."
+    } ]
+  }, {
+    "tStartMs": 5720,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and this usually takes around ten\nminutes. And then we all eat breakfast."
+    } ]
+  }, {
+    "tStartMs": 10440,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And our first class is from 9:20 a.m.\ntill 10:30 a.m."
+    } ]
+  }, {
+    "tStartMs": 15160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Some camps reportedly aim\nfor one kilo of weight loss per day."
+    } ]
+  }, {
+    "tStartMs": 18200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "This far exceeds\nwhat's considered safe even"
+    } ]
+  }, {
+    "tStartMs": 20400,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "for adults under medical supervision."
+    } ]
+  }, {
+    "tStartMs": 22520,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "600 US dollars could give you\na month long stay"
+    } ]
+  }, {
+    "tStartMs": 25560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "at a camp with accommodation,\nmeals and daily exercise classes."
+    } ]
+  }, {
+    "tStartMs": 29840,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It's not a spa retreat we're talking\nabout here."
+    } ]
+  }, {
+    "tStartMs": 32120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It's a military style\nweight loss camp in China."
+    } ]
+  }, {
+    "tStartMs": 35320,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "It's got intense exercises, rules on\nsnacking, mandatory trips to the scale."
+    } ]
+  }, {
+    "tStartMs": 40840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "They're sometimes called 'fat\nprisons'. These camps are popular."
+    } ]
+  }, {
+    "tStartMs": 44320,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "We're going to speak\nto an influencer who's been to one,"
+    } ]
+  }, {
+    "tStartMs": 46920,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "find out why they're\non the rise in China,"
+    } ]
+  }, {
+    "tStartMs": 49240,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but also find out if they're a\nsensible way to lose weight."
+    } ]
+  }, {
+    "tStartMs": 52160,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I'm Iqra and this is What in\nthe World from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 60400,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So before we get into why these camps\nare spreading across China,"
+    } ]
+  }, {
+    "tStartMs": 64600,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "let's hear from someone\nwho's actually been to one."
+    } ]
+  }, {
+    "tStartMs": 67480,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "TL Huang is a content creator based\nin Australia,"
+    } ]
+  }, {
+    "tStartMs": 70760,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and she's on the line\nright now. Hey TL."
+    } ]
+  }, {
+    "tStartMs": 73920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Hi. How are you?\nI'm good."
+    } ]
+  }, {
+    "tStartMs": 76000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I'm interested to learn\nabout these camps."
+    } ]
+  }, {
+    "tStartMs": 78640,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "How did you first come across them?"
+    } ]
+  }, {
+    "tStartMs": 80960,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "I heard about these camps\nfrom my mum, who is Chinese,"
+    } ]
+  }, {
+    "tStartMs": 84800,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and she had actually told me\nabout the concept"
+    } ]
+  }, {
+    "tStartMs": 87880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "of paying a couple hundred\nAustralian dollars"
+    } ]
+  }, {
+    "tStartMs": 90520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "for an all inclusive\nweight loss camp in China."
+    } ]
+  }, {
+    "tStartMs": 93960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "You're based in Australia, normally,\nand these camps are in China."
+    } ]
+  }, {
+    "tStartMs": 98280,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So why did you decide\nto make the trip for them?"
+    } ]
+  }, {
+    "tStartMs": 102040,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Yes, so at the time, I was solo\ntraveling in China for three months,"
+    } ]
+  }, {
+    "tStartMs": 106880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and I was actually eating a lot\nof food deliveries"
+    } ]
+  }, {
+    "tStartMs": 109760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and I had felt really unhealthy."
+    } ]
+  }, {
+    "tStartMs": 112520,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And I felt\nlike I had lost discipline."
+    } ]
+  }, {
+    "tStartMs": 114520,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So my routine felt out of whack."
+    } ]
+  }, {
+    "tStartMs": 117720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I'd also put on about 20 kilos\nthe past three years."
+    } ]
+  }, {
+    "tStartMs": 121680,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "And so I went - when I came back\nto China to meet my relatives."
+    } ]
+  }, {
+    "tStartMs": 126200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "They had also made lots\nof comments about how I gained weight"
+    } ]
+  }, {
+    "tStartMs": 129600,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and would judge and compare me."
+    } ]
+  }, {
+    "tStartMs": 131960,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So at the time I felt\nlike it was time to make a change."
+    } ]
+  }, {
+    "tStartMs": 136080,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "You mentioned that what led you\nto these camps is some"
+    } ]
+  }, {
+    "tStartMs": 139400,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "of your family kind of commenting on\nyour weight, how did that make you feel?"
+    } ]
+  }, {
+    "tStartMs": 144280,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "For me, I felt really insecure\nand I felt like,"
+    } ]
+  }, {
+    "tStartMs": 149120,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "you know, I was getting fat shamed by\nmy relatives."
+    } ]
+  }, {
+    "tStartMs": 151960,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "But at the same time, I guess they\nwere kind of giving me tough love."
+    } ]
+  }, {
+    "tStartMs": 157760,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I've seen some of your videos."
+    } ]
+  }, {
+    "tStartMs": 159120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "I know you've been documenting what\nit was like for you. Just tell us."
+    } ]
+  }, {
+    "tStartMs": 163200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Give us the lowdown. What was it\nlike when you went to the camps?"
+    } ]
+  }, {
+    "tStartMs": 166600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Yeah. So there was\na huge culture shock"
+    } ]
+  }, {
+    "tStartMs": 169360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "that I didn't expect\nfrom attending the camps."
+    } ]
+  }, {
+    "tStartMs": 173120,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Everyone was in it together\nto lose weight."
+    } ]
+  }, {
+    "tStartMs": 176120,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And so I didn't feel out of place and\nI didn't feel insecure about my body"
+    } ]
+  }, {
+    "tStartMs": 181120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "or feel judged about my peers.\nSo that was really good."
+    } ]
+  }, {
+    "tStartMs": 185120,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "I had actually made friends\nwith all of my dorm mates,"
+    } ]
+  }, {
+    "tStartMs": 189640,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "where we kind of just bonded over,\nyou know, losing weight together,"
+    } ]
+  }, {
+    "tStartMs": 194880,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "but it was kind of like a support system\nand everyone was really friendly."
+    } ]
+  }, {
+    "tStartMs": 202560,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So I felt like it was\nquite easy to make friends"
+    } ]
+  }, {
+    "tStartMs": 206160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and kind of just feel like I was\nin a community."
+    } ]
+  }, {
+    "tStartMs": 209360,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So what was your average day\nin the camp like?"
+    } ]
+  }, {
+    "tStartMs": 212640,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "I would wake up at 7:30 and I'd get\nready for weigh in at eight a.m."
+    } ]
+  }, {
+    "tStartMs": 218200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and this usually takes around\nten minutes."
+    } ]
+  }, {
+    "tStartMs": 221120,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "And then we all eat breakfast. And\nour first class is from 9:20 to 10:30."
+    } ]
+  }, {
+    "tStartMs": 227880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "And then we would have lunch\nat 1115 to 1145,"
+    } ]
+  }, {
+    "tStartMs": 232320,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and then we'd have a two hour break\nin between."
+    } ]
+  }, {
+    "tStartMs": 235000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "From 2:50 to four,\nwe would have a second class,"
+    } ]
+  }, {
+    "tStartMs": 238600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and then from 4:30 to 4:50\nwe would have dinner."
+    } ]
+  }, {
+    "tStartMs": 243640,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "And then we would have spare time\nto work out again at 5:40 to 6:30."
+    } ]
+  }, {
+    "tStartMs": 248680,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "And then everyone joins together\nto do a nice spin class at 6:30 p.m."
+    } ]
+  }, {
+    "tStartMs": 254080,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "until 7:30 p.m.\n- so it was quite intense."
+    } ]
+  }, {
+    "tStartMs": 257640,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "And then we would finish off the day\nby weighing ourselves at 7:30 p.m."
+    } ]
+  }, {
+    "tStartMs": 262880,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and then I would go back\nto my dorm to shower and rest."
+    } ]
+  }, {
+    "tStartMs": 267040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So it was very novel\nfor a week or so."
+    } ]
+  }, {
+    "tStartMs": 269600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "But then it also dawned on me"
+    } ]
+  }, {
+    "tStartMs": 271720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "that I needed to keep this up\nfor another three weeks."
+    } ]
+  }, {
+    "tStartMs": 275160,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So you mentioned the first week\nyou're kind of settling"
+    } ]
+  }, {
+    "tStartMs": 277720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "into the routine, and\nthen you have three more weeks to go."
+    } ]
+  }, {
+    "tStartMs": 280840,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So how did you kind of get\nthrough that?"
+    } ]
+  }, {
+    "tStartMs": 284120,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "For me, honestly,\nit was just messaging my boyfriend"
+    } ]
+  }, {
+    "tStartMs": 290200,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and also messaging my friends."
+    } ]
+  }, {
+    "tStartMs": 292280,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "They were supporting me online."
+    } ]
+  }, {
+    "tStartMs": 294320,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So whenever I was just going through\nlike mental struggles,"
+    } ]
+  }, {
+    "tStartMs": 298040,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I would tell my boyfriend,\nlike, this is really hard."
+    } ]
+  }, {
+    "tStartMs": 301120,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And you know, it was good feeling\nthat support system."
+    } ]
+  }, {
+    "tStartMs": 305840,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Yeah. I mean, intense is one word\nthat you use there."
+    } ]
+  }, {
+    "tStartMs": 309000,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "But I've also seen that you used\n'fat prison' to describe it."
+    } ]
+  }, {
+    "tStartMs": 314320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Tell me a little bit about\nyour thinking behind using that."
+    } ]
+  }, {
+    "tStartMs": 317280,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Was that what it really was\nlike for you?"
+    } ]
+  }, {
+    "tStartMs": 319400,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Do you feel\nlike everyone felt the same way?"
+    } ]
+  }, {
+    "tStartMs": 322080,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "For me personally, it definitely felt\nlike it was a prison"
+    } ]
+  }, {
+    "tStartMs": 325960,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "because I didn't leave the compound\nfor 28 days straight"
+    } ]
+  }, {
+    "tStartMs": 330400,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and I had to track my weight\nevery single day for progress."
+    } ]
+  }, {
+    "tStartMs": 335000,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And the facilities weren't\nthe best there either."
+    } ]
+  }, {
+    "tStartMs": 337560,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And our trainers were there\nto supervise us,"
+    } ]
+  }, {
+    "tStartMs": 341120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "make sure we weren't sneaking\nin junk food,"
+    } ]
+  }, {
+    "tStartMs": 343880,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and that we were attending all\nof our classes and"
+    } ]
+  }, {
+    "tStartMs": 347360,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "we weren't allowed to skip classes or\nleave the camp without valid reasons."
+    } ]
+  }, {
+    "tStartMs": 351720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So yeah, to me, it definitely felt\nlike a bit of a prison."
+    } ]
+  }, {
+    "tStartMs": 355680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I think this camp gave me\na hard reset"
+    } ]
+  }, {
+    "tStartMs": 358240,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and forced me to follow a routine and\ngave me the structure that I needed."
+    } ]
+  }, {
+    "tStartMs": 363600,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "TL, it's been so good to to hear\nabout your experiences."
+    } ]
+  }, {
+    "tStartMs": 366640,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Thank you so much for joining us.\nThank you so much for having me."
+    } ]
+  }, {
+    "tStartMs": 370040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Okay, so we've heard about why some\npeople are turning to these camps,"
+    } ]
+  }, {
+    "tStartMs": 374040,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "but are there any downsides?"
+    } ]
+  }, {
+    "tStartMs": 375880,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "We've spoken to a health expert.\nLet's have a listen."
+    } ]
+  }, {
+    "tStartMs": 378360,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "My name's Luke Hanna. I'm\na personal trainer and nutritionist."
+    } ]
+  }, {
+    "tStartMs": 380960,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "When we talk about these camps, it's\nimportant to separate the concerns"
+    } ]
+  }, {
+    "tStartMs": 384120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "about the rising rates of obesity,\nespecially in children,"
+    } ]
+  }, {
+    "tStartMs": 387320,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "from the methods used to address it."
+    } ]
+  }, {
+    "tStartMs": 389680,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Extreme methods might look effective\nin the short term, but they carry"
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "serious physical and psychological\nrisks, especially for adolescents."
+    } ]
+  }, {
+    "tStartMs": 396320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And the first issue is\nthe extreme targets and timelines."
+    } ]
+  }, {
+    "tStartMs": 399320,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Some camps reportedly aim\nfor one kilo of weight loss per day."
+    } ]
+  }, {
+    "tStartMs": 402360,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "This far exceeds\nwhat's considered safe even\nfor adults under medical supervision."
+    } ]
+  }, {
+    "tStartMs": 406520,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "This is especially concerning\nbecause when you lose weight,"
+    } ]
+  }, {
+    "tStartMs": 408640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "you are not just losing fat, you are\nalso losing things like muscle tissue."
+    } ]
+  }, {
+    "tStartMs": 412280,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "And if you are doing this\nwith extreme methods,"
+    } ]
+  }, {
+    "tStartMs": 415240,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "under restricting, overexercising,\nyou are increasing your chances"
+    } ]
+  }, {
+    "tStartMs": 418840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "of losing even more muscle tissue."
+    } ]
+  }, {
+    "tStartMs": 421240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "You are also potentially impairing\nnormal development."
+    } ]
+  }, {
+    "tStartMs": 424040,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So you can be impacting how tall you\nmay eventually be and your bone health."
+    } ]
+  }, {
+    "tStartMs": 428040,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And there aren't just physical concerns.\nThere are also psychological issues."
+    } ]
+  }, {
+    "tStartMs": 431800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Using these extreme methods,\nespecially at a younger age,"
+    } ]
+  }, {
+    "tStartMs": 434120,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "can significantly increase your risk\nof developing an eating disorder."
+    } ]
+  }, {
+    "tStartMs": 437040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And this matters\nbecause things like anorexia have"
+    } ]
+  }, {
+    "tStartMs": 439200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "the highest mortality rate\nof any psychiatric disorder."
+    } ]
+  }, {
+    "tStartMs": 442160,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Another issue is\nexercise being framed as punishment."
+    } ]
+  }, {
+    "tStartMs": 444720,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Some of these camps are getting\npeople to do up to six hours"
+    } ]
+  }, {
+    "tStartMs": 447240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "of exercise per day,\nand if they do something wrong,"
+    } ]
+  }, {
+    "tStartMs": 450040,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "they may have to do even more on top\nof their already excessive schedule."
+    } ]
+  }, {
+    "tStartMs": 453680,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "This teaches kids that exercise is\nsomething that you pay for mistakes"
+    } ]
+  }, {
+    "tStartMs": 456880,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "with, rather than something\nthat supports health and enjoyment."
+    } ]
+  }, {
+    "tStartMs": 460280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Now, some people do lose\nlarge amounts of weight,\nwhich makes it sound appealing,"
+    } ]
+  }, {
+    "tStartMs": 463800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "but a lot of them will\nquickly regain it once they return"
+    } ]
+  }, {
+    "tStartMs": 466200,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "to their normal lives because it hasn't\naddressed the root causes or issues."
+    } ]
+  }, {
+    "tStartMs": 470160,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Instead, you should focus\non gradual habit changes"
+    } ]
+  }, {
+    "tStartMs": 472520,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "within your normal environment,\nsupporting regular nutritious meals,"
+    } ]
+  }, {
+    "tStartMs": 476200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "getting adequate protein\nand fruits and vegetables,"
+    } ]
+  }, {
+    "tStartMs": 479200,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and encouraging movement for skill,\nplay and enjoyment, not punishment."
+    } ]
+  }, {
+    "tStartMs": 484080,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And these types of camps have been\non the rise in China."
+    } ]
+  }, {
+    "tStartMs": 487120,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "As we've said a few times\nthroughout this episode."
+    } ]
+  }, {
+    "tStartMs": 489360,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So let's find out a little bit more\nabout that."
+    } ]
+  }, {
+    "tStartMs": 491560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I'm joined by Wanqing Zhang\nfrom the BBC's Global China unit."
+    } ]
+  }, {
+    "tStartMs": 495440,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Hey Wanqing. Hello."
+    } ]
+  }, {
+    "tStartMs": 497360,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So Wanquing, we've said a few times\nthat these camps are popular in China."
+    } ]
+  }, {
+    "tStartMs": 501640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "How popular though?\nIt's getting very trendy now."
+    } ]
+  }, {
+    "tStartMs": 505000,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "So according to Chinese media, there are\nabout 1000 camps across the country."
+    } ]
+  }, {
+    "tStartMs": 511920,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And they're very different\nlike styles."
+    } ]
+  }, {
+    "tStartMs": 514600,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So I think those kind of typical\n- stereotypical weight loss camps,"
+    } ]
+  }, {
+    "tStartMs": 519040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "when we talk about it,\nwe are thinking"
+    } ]
+  }, {
+    "tStartMs": 521600,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "about those military style camps\nwhere you have your own dormitories,"
+    } ]
+  }, {
+    "tStartMs": 527360,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and then you have\nthese very tight schedules"
+    } ]
+  }, {
+    "tStartMs": 531160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "of what exactly you need to do\nin your day."
+    } ]
+  }, {
+    "tStartMs": 533400,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "And then there will be these kind\nof canteens preparing food for you."
+    } ]
+  }, {
+    "tStartMs": 538040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And sometimes they actually go\nto very extreme forms"
+    } ]
+  }, {
+    "tStartMs": 541400,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "that they might put up CCTV cameras\noutside of your dormitory"
+    } ]
+  }, {
+    "tStartMs": 546480,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "in case that you are hungry and"
+    } ]
+  }, {
+    "tStartMs": 548920,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "you might want to get delivery food\nfor some snacks."
+    } ]
+  }, {
+    "tStartMs": 551600,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Or it can be like\na very fancy high end retreat style"
+    } ]
+  }, {
+    "tStartMs": 555480,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "where you might be running on a\ntreadmill overlooking a beautiful lake."
+    } ]
+  }, {
+    "tStartMs": 560320,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Okay. It's interesting to hear\nabout the variety there."
+    } ]
+  }, {
+    "tStartMs": 563080,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "When did they start\npopping up though?"
+    } ]
+  }, {
+    "tStartMs": 564880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I think it dated back to\naround early 2000s."
+    } ]
+  }, {
+    "tStartMs": 568240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Back then, there was\nthis TV programme documenting inside"
+    } ]
+  }, {
+    "tStartMs": 572720,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "of this kind\nof weight loss organisations."
+    } ]
+  }, {
+    "tStartMs": 576760,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And then it went very popular."
+    } ]
+  }, {
+    "tStartMs": 579200,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And many of the coaches from the show\ndecided that they wanted to open"
+    } ]
+  }, {
+    "tStartMs": 583680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "their own weight loss camp."
+    } ]
+  }, {
+    "tStartMs": 585840,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "But I would say the real boom\nof this kind of camp started"
+    } ]
+  }, {
+    "tStartMs": 590760,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "in the past ten years\nafter the rise of social media."
+    } ]
+  }, {
+    "tStartMs": 594720,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So if you go on the Chinese\nsocial media, Xiaohongshu or Douyin"
+    } ]
+  }, {
+    "tStartMs": 599120,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and then search for weight loss camp,\nyou will see"
+    } ]
+  }, {
+    "tStartMs": 602080,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "so many different contents either posted\nby the weight loss camps organisers"
+    } ]
+  }, {
+    "tStartMs": 609320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "or the clients participating\nin these camps as well."
+    } ]
+  }, {
+    "tStartMs": 613880,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Yeah, a nd\nwe spoke to someone a bit earlier"
+    } ]
+  }, {
+    "tStartMs": 616240,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "that who was documenting\ntheir journey."
+    } ]
+  }, {
+    "tStartMs": 619120,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "I guess people might be wondering why\n- why have these camps really taken off?"
+    } ]
+  }, {
+    "tStartMs": 623400,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Why are people joining?\nSo China is among the global trend"
+    } ]
+  }, {
+    "tStartMs": 627280,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "that is facing the rising issue\nof obesity and overweight."
+    } ]
+  }, {
+    "tStartMs": 631960,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "So globally speaking, in\naround two thirds of the countries,"
+    } ]
+  }, {
+    "tStartMs": 638040,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "that more than 50% of the adults are\nclassified as overweight or obese."
+    } ]
+  }, {
+    "tStartMs": 644040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And China is not an exception."
+    } ]
+  }, {
+    "tStartMs": 647240,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "According to\nthe Chinese health authorities,"
+    } ]
+  }, {
+    "tStartMs": 649760,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "they estimate that around 34% of\nthe adults are considered overweight,"
+    } ]
+  }, {
+    "tStartMs": 656560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "whereas 16% are considered obese."
+    } ]
+  }, {
+    "tStartMs": 659520,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And that's a big issue that motivate\npeople to join this kind of camp."
+    } ]
+  }, {
+    "tStartMs": 663480,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And I think apart from that, there is\nalso this cultural issue that in China."
+    } ]
+  }, {
+    "tStartMs": 668640,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "- China is a country that has\nrelatively low acceptance and tolerance"
+    } ]
+  }, {
+    "tStartMs": 675040,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "in terms of weight diversity,\nwhich means"
+    } ]
+  }, {
+    "tStartMs": 678120,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "that if you are overweight, you are\nlikely to face more discrimination"
+    } ]
+  }, {
+    "tStartMs": 682520,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "in workplace or in the dating world."
+    } ]
+  }, {
+    "tStartMs": 685560,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "And do we know what's led\nto that rise in obesity in China?"
+    } ]
+  }, {
+    "tStartMs": 689160,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So as a Chinese, we really like rice\nand dumplings and noodles,"
+    } ]
+  }, {
+    "tStartMs": 693600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and those are considered\nrefined carbs,"
+    } ]
+  }, {
+    "tStartMs": 696360,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "which is likely to contribute\nto weight gain."
+    } ]
+  }, {
+    "tStartMs": 699960,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "And at the same time, there's also\nthis kind of lifestyle shift."
+    } ]
+  }, {
+    "tStartMs": 704000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And I think,\nagain, this is not a China problem,"
+    } ]
+  }, {
+    "tStartMs": 706440,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "but a global problem as well,\nthat nowadays we spend so much time"
+    } ]
+  }, {
+    "tStartMs": 710880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "on our phones and our tablets,"
+    } ]
+  }, {
+    "tStartMs": 712880,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "and we are more likely\nto stay indoors, lying on the couch"
+    } ]
+  }, {
+    "tStartMs": 717160,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "or a bed rather than going out\nand take a walk."
+    } ]
+  }, {
+    "tStartMs": 720800,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And at the same time,\nit's worth stressing that China is"
+    } ]
+  }, {
+    "tStartMs": 725520,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "a country that is really advanced\nin terms of all the variety of apps,"
+    } ]
+  }, {
+    "tStartMs": 730280,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "including delivery apps, it's\nso convenient and affordable to get"
+    } ]
+  }, {
+    "tStartMs": 735240,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "delivery food or groceries to get\nto you, deliver to you by your door."
+    } ]
+  }, {
+    "tStartMs": 740880,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And why would you, you know,\ngo out and do your own groceries?"
+    } ]
+  }, {
+    "tStartMs": 744360,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Yes. Good point. Wanqing,\nI always love it when you come by."
+    } ]
+  }, {
+    "tStartMs": 747760,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Thank you so much. Thank you."
+    } ]
+  }, {
+    "tStartMs": 749360,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Okay. Well, thank you for joining us\non today's episode."
+    } ]
+  }, {
+    "tStartMs": 752240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Remember, you guys can comment below\nat any time"
+    } ]
+  }, {
+    "tStartMs": 754640,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and you might be featured\nin a future episode."
+    } ]
+  }, {
+    "tStartMs": 757080,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Speaking of your comments, I wanted\nto shout out Gâu, who's commented"
+    } ]
+  }, {
+    "tStartMs": 760960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "on our video about gig worker\nprotests happening across the world."
+    } ]
+  }, {
+    "tStartMs": 765200,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "It says, I think\nthe regulations should be changed"
+    } ]
+  }, {
+    "tStartMs": 768240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "with higher salaries for gig workers."
+    } ]
+  }, {
+    "tStartMs": 770720,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And there's a few of you debating\nin the comments over that too."
+    } ]
+  }, {
+    "tStartMs": 774920,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Thank you so much for those comments."
+    } ]
+  }, {
+    "tStartMs": 776480,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "But for now, I'm Iqra\nand this is What in the World"
+    } ]
+  }, {
+    "tStartMs": 779240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "from the BBC World Service.\nI'll see you guys next time. Bye."
+    } ]
+  } ]
+}

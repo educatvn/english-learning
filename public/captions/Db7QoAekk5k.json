@@ -1,0 +1,667 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1440,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Science is like a giant web where every discovery \nbuilds on past and present knowledge."
+    } ]
+  }, {
+    "tStartMs": 7440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Take Isaac Newton - his idea that \nthe same force makes apples fall"
+    } ]
+  }, {
+    "tStartMs": 11600,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "and planets move was built on the work \nof Copernicus, Galileo, and Kepler. "
+    } ]
+  }, {
+    "tStartMs": 16720,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Centuries later, Albert Einstein reshaped Newton's \ntheories, changing how we understand gravity. "
+    } ]
+  }, {
+    "tStartMs": 23040,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "That later helped American astrophysicist \nAndrea Ghez discover a supermassive  "
+    } ]
+  }, {
+    "tStartMs": 28080,
+    "dDurationMs": 2611,
+    "segs": [ {
+      "utf8": "black hole at the centre of our galaxy."
+    } ]
+  }, {
+    "tStartMs": 30691,
+    "dDurationMs": 2682,
+    "segs": [ {
+      "utf8": "And between each of these and other milestones are"
+    } ]
+  }, {
+    "tStartMs": 33392,
+    "dDurationMs": 6048,
+    "segs": [ {
+      "utf8": "countless other scientists who strengthened this \nweb, paving the way for future discoveries. "
+    } ]
+  }, {
+    "tStartMs": 39440,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Let's explore this idea in this video through \nfour major scientific breakthroughs. "
+    } ]
+  }, {
+    "tStartMs": 44880,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "First up: \nHow do we know the age of  "
+    } ]
+  }, {
+    "tStartMs": 47200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Egyptian mummies, when the Maya civilisation \nfell or when Stonehenge was built?  "
+    } ]
+  }, {
+    "tStartMs": 52480,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "The answer lies in Carbon-14 dating, \na method developed by physical chemist "
+    } ]
+  }, {
+    "tStartMs": 57920,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "Willard Libby in the mid 1940s. "
+    } ]
+  }, {
+    "tStartMs": 61049,
+    "dDurationMs": 3111,
+    "segs": [ {
+      "utf8": "Carbon-14, an unstable form of carbon,  "
+    } ]
+  }, {
+    "tStartMs": 64160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "had been discovered by Martin Kamen \nand Sam Ruben a few years before.  "
+    } ]
+  }, {
+    "tStartMs": 68800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Libby built on this by proving it s \nnaturally present in the atmosphere. "
+    } ]
+  }, {
+    "tStartMs": 72720,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "When carbon combines with oxygen, \nit forms carbon dioxide or CO2,  "
+    } ]
+  }, {
+    "tStartMs": 77360,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "which plants absorb through photosynthesis and \nanimals and humans take in through food. "
+    } ]
+  }, {
+    "tStartMs": 83120,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "All living organisms continually \nrenew their Carbon-14 reserves. \n "
+    } ]
+  }, {
+    "tStartMs": 87280,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But when they die, the Carbon-14 begins to decline \nat a steady pace, like a countdown clock. "
+    } ]
+  }, {
+    "tStartMs": 93280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Libby realised that he could determine the time \nof death by measuring the Carbon-14 left in  "
+    } ]
+  }, {
+    "tStartMs": 98080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "remains up to roughly 50,000 years old. \nHe expected that human excrement would have  "
+    } ]
+  }, {
+    "tStartMs": 103280,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "plenty of it, so ran an experiment with \ngas from sewage samples and it worked! "
+    } ]
+  }, {
+    "tStartMs": 109120,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Then the scientist tried it on ancient \nartefacts and it matched the estimated  "
+    } ]
+  }, {
+    "tStartMs": 113600,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "ages for them, revolutionising archaeology.  \nLibby received the Nobel Prize in Chemistry for  "
+    } ]
+  }, {
+    "tStartMs": 119520,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "his work in 1960, but it didn t end there. \nCarbon-14 dating has revealed details about  "
+    } ]
+  }, {
+    "tStartMs": 126240,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "ancient ecosystems, improving our understanding \nof how human activity is affecting the planet. "
+    } ]
+  }, {
+    "tStartMs": 132400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This informed the science in the \nIPCC reports, helping to raise  "
+    } ]
+  }, {
+    "tStartMs": 136400,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "awareness about climate change. \nIPCC work, together with former US  "
+    } ]
+  }, {
+    "tStartMs": 141360,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Vice President Al Gore, was recognised \nwith the Nobel Peace Prize in 2007. "
+    } ]
+  }, {
+    "tStartMs": 146800,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Libby's method not only unlocked mysteries \nof the past, but also provided us a key  "
+    } ]
+  }, {
+    "tStartMs": 151760,
+    "dDurationMs": 2827,
+    "segs": [ {
+      "utf8": "to understanding the world we live in. "
+    } ]
+  }, {
+    "tStartMs": 154587,
+    "dDurationMs": 3333,
+    "segs": [ {
+      "utf8": "A world full of technology - one that would  "
+    } ]
+  }, {
+    "tStartMs": 157920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "be hard to imagine without the most famous \nscientist of the twentieth century."
+    } ]
+  }, {
+    "tStartMs": 162000,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Did you know we can thank \nEinstein, in part, for things"
+    } ]
+  }, {
+    "tStartMs": 165360,
+    "dDurationMs": 2639,
+    "segs": [ {
+      "utf8": "like smartphone cameras and solar panels? "
+    } ]
+  }, {
+    "tStartMs": 168000,
+    "dDurationMs": 2909,
+    "segs": [ {
+      "utf8": "You probably know him best for his theory of relativity,  "
+    } ]
+  }, {
+    "tStartMs": 170909,
+    "dDurationMs": 5811,
+    "segs": [ {
+      "utf8": "but he actually received a Nobel Prize \nin Physics in 1921 for explaining one of light's"
+    } ]
+  }, {
+    "tStartMs": 176720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "weirdest behaviours: the photoelectric effect! "
+    } ]
+  }, {
+    "tStartMs": 180001,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "Around 1900, German physicist Max Planck  "
+    } ]
+  }, {
+    "tStartMs": 184320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "introduced the idea that radiation \ntravels in tiny bundles."
+    } ]
+  }, {
+    "tStartMs": 188000,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Einstein applied this idea to visible light. \nFor the first time, he explained that light acts  "
+    } ]
+  }, {
+    "tStartMs": 192080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "both as a wave and as tiny packets \nof energy we now call photons. "
+    } ]
+  }, {
+    "tStartMs": 197280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "The photoelectric effect occurs when light, \nwhich comes in different frequencies or colours,  "
+    } ]
+  }, {
+    "tStartMs": 202480,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "shines on a material and frees electrons, allowing \nthem to move and create an electric current. "
+    } ]
+  }, {
+    "tStartMs": 208560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But here's the key: Einstein explained \nthat this effect only happens  "
+    } ]
+  }, {
+    "tStartMs": 212560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "when photons contain enough energy to \nknock electrons free from a material. "
+    } ]
+  }, {
+    "tStartMs": 217840,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "This effect helps to explain how solar \ncells turn sunlight into electricity,"
+    } ]
+  }, {
+    "tStartMs": 222480,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "why X-ray sensors create images of our bones \nor how automatic doors know when to open. "
+    } ]
+  }, {
+    "tStartMs": 229200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Physicists Willard Boyle and George Smith took \nEinstein s discovery further and transformed the  "
+    } ]
+  }, {
+    "tStartMs": 234560,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "world of photography by inventing CCD sensors, \nwhich convert light into digital images."
+    } ]
+  }, {
+    "tStartMs": 240320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Other image sensors which do \na similar job, CMOS sensors, "
+    } ]
+  }, {
+    "tStartMs": 244000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "were improved decades later by \nNasa for their space missions. "
+    } ]
+  }, {
+    "tStartMs": 247920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Today, you can find them in devices \nsuch as smartphone cameras."
+    } ]
+  }, {
+    "tStartMs": 251920,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Einstein's explanation of the photoelectric effect \narguably marked the dawn of quantum physics. "
+    } ]
+  }, {
+    "tStartMs": 257920,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "This theory turned science upside down \nby revealing that, at the tiniest scales,  "
+    } ]
+  }, {
+    "tStartMs": 262560,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "the universe behaves in ways far stranger \nand more complex than we ever imagined."
+    } ]
+  }, {
+    "tStartMs": 269280,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Speaking of the tiniest scales, more than \n100 years ago scientists found a way to use  "
+    } ]
+  }, {
+    "tStartMs": 273680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "crystals to see what things are made of \nin incredible detail. That's right..."
+    } ]
+  }, {
+    "tStartMs": 277680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "They played a key role in one of the \nbiggest scientific breakthroughs of  "
+    } ]
+  }, {
+    "tStartMs": 281280,
+    "dDurationMs": 3424,
+    "segs": [ {
+      "utf8": "the 20th century: X-ray crystallography."
+    } ]
+  }, {
+    "tStartMs": 284705,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "It's so important, that multiple Nobel Prizes have"
+    } ]
+  }, {
+    "tStartMs": 288000,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "been awarded for advances in this field. \nBut what is it? "
+    } ]
+  }, {
+    "tStartMs": 291520,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "In 1912, German physicist Max von Laue \nfound that when X-rays pass through "
+    } ]
+  }, {
+    "tStartMs": 296560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "crystals, they create unique patterns.\nSoon after, the work of British scientist  "
+    } ]
+  }, {
+    "tStartMs": 301280,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "William Henry Bragg guided his son Lawrence, who \nformulated Bragg s Law, a short equation that,  "
+    } ]
+  }, {
+    "tStartMs": 306640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "for the first time, decoded these patterns \nshowing where atoms are inside a crystal."
+    } ]
+  }, {
+    "tStartMs": 311440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "That meant scientists could \nmap atomic structures."
+    } ]
+  }, {
+    "tStartMs": 314320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Ultimately, researchers would do this to \ncreate new things, such as making drugs,"
+    } ]
+  }, {
+    "tStartMs": 317920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "unlocking the secrets of DNA \nor improving electronics."
+    } ]
+  }, {
+    "tStartMs": 322000,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "The Braggs received the Nobel Prize in \nPhysics in 1915, and X-ray crystallography  "
+    } ]
+  }, {
+    "tStartMs": 327280,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "has shaped science ever since.\nRosalind Franklin used it in her  "
+    } ]
+  }, {
+    "tStartMs": 331520,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "famous Photo 51 which helped reveal \nthe double-helix structure of DNA."
+    } ]
+  }, {
+    "tStartMs": 336720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Dorothy Hodgkin revolutionised medicine \nby revealing the structures of insulin,  "
+    } ]
+  }, {
+    "tStartMs": 341600,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "vitamin B12 and penicillin enabling \nthe production of life-saving drugs  "
+    } ]
+  }, {
+    "tStartMs": 346880,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "and improved medical treatments."
+    } ]
+  }, {
+    "tStartMs": 348966,
+    "dDurationMs": 3694,
+    "segs": [ {
+      "utf8": "She was awarded the Nobel Prize in Chemistry in 1964."
+    } ]
+  }, {
+    "tStartMs": 352660,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "X-ray crystallography \nhas even made it to Mars!"
+    } ]
+  }, {
+    "tStartMs": 356400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Nasa's Curiosity rover used it \nto study minerals and search for  "
+    } ]
+  }, {
+    "tStartMs": 360320,
+    "dDurationMs": 2717,
+    "segs": [ {
+      "utf8": "signs of ancient water on the planet."
+    } ]
+  }, {
+    "tStartMs": 363876,
+    "dDurationMs": 2844,
+    "segs": [ {
+      "utf8": "From deep space to here on Earth, another  "
+    } ]
+  }, {
+    "tStartMs": 366720,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "discovery connects everything together."
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "What do popcorn, WI-FI and the Big Bang have in common?"
+    } ]
+  }, {
+    "tStartMs": 374560,
+    "dDurationMs": 2417,
+    "segs": [ {
+      "utf8": "They all involve microwaves!"
+    } ]
+  }, {
+    "tStartMs": 376978,
+    "dDurationMs": 4376,
+    "segs": [ {
+      "utf8": "You can think of these waves as extremely energetic radio waves. "
+    } ]
+  }, {
+    "tStartMs": 381354,
+    "dDurationMs": 2646,
+    "segs": [ {
+      "utf8": "In a microwave oven, water molecules  "
+    } ]
+  }, {
+    "tStartMs": 384000,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "in food absorb microwaves at a \nfrequency of about 2.4 gigahertz. \n "
+    } ]
+  }, {
+    "tStartMs": 389040,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "This makes molecules vibrate and create heat. \nThat s why popcorn pops! "
+    } ]
+  }, {
+    "tStartMs": 394800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Wi-Fi uses the same frequency, but at much \nlower power levels to carry lots of data and  "
+    } ]
+  }, {
+    "tStartMs": 400000,
+    "dDurationMs": 2445,
+    "segs": [ {
+      "utf8": "connect our devices without any wires. "
+    } ]
+  }, {
+    "tStartMs": 402502,
+    "dDurationMs": 3018,
+    "segs": [ {
+      "utf8": "Long before the Internet, in the late 1800s,  "
+    } ]
+  }, {
+    "tStartMs": 405520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Indian scientist Jagadish Chandra Bose \npioneered microwave technology.  "
+    } ]
+  }, {
+    "tStartMs": 409760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "One of his devices even made \nwaves like those in 5G today. "
+    } ]
+  }, {
+    "tStartMs": 413840,
+    "dDurationMs": 2865,
+    "segs": [ {
+      "utf8": "Yet, Bose's work has been largely forgotten. "
+    } ]
+  }, {
+    "tStartMs": 416706,
+    "dDurationMs": 3774,
+    "segs": [ {
+      "utf8": "In 1930s, Italian engineer Guglielmo Marconi made  "
+    } ]
+  }, {
+    "tStartMs": 420480,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "a telephone that used microwaves \nthe first of its kind to link  "
+    } ]
+  }, {
+    "tStartMs": 423840,
+    "dDurationMs": 1782,
+    "segs": [ {
+      "utf8": "the Vatican to the Pope's summer home. "
+    } ]
+  }, {
+    "tStartMs": 426078,
+    "dDurationMs": 3282,
+    "segs": [ {
+      "utf8": "World War II pushed microwave technology forward,  "
+    } ]
+  }, {
+    "tStartMs": 429360,
+    "dDurationMs": 2186,
+    "segs": [ {
+      "utf8": "with the invention of the magnetron. "
+    } ]
+  }, {
+    "tStartMs": 431546,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "This device enabled advanced radar systems, \ngiving the Allies a big advantage. "
+    } ]
+  }, {
+    "tStartMs": 436636,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Soon after, American engineer Percy Spencer noticed"
+    } ]
+  }, {
+    "tStartMs": 439796,
+    "dDurationMs": 4044,
+    "segs": [ {
+      "utf8": " a confectionary bar had melted in his pocket as he passed near a  "
+    } ]
+  }, {
+    "tStartMs": 443840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "magnetron in his lab, leading to the \ninvention of the microwave oven."
+    } ]
+  }, {
+    "tStartMs": 448240,
+    "dDurationMs": 2643,
+    "segs": [ {
+      "utf8": "But microwaves exist beyond our planet. "
+    } ]
+  }, {
+    "tStartMs": 450884,
+    "dDurationMs": 3406,
+    "segs": [ {
+      "utf8": "In 1964, Arno Penzias and Robert Wilson found  "
+    } ]
+  }, {
+    "tStartMs": 454290,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "the cosmic microwave background, an echo of \nthe Big Bang that still fills the universe  "
+    } ]
+  }, {
+    "tStartMs": 459520,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "13.8 billion years later! "
+    } ]
+  }, {
+    "tStartMs": 461942,
+    "dDurationMs": 3442,
+    "segs": [ {
+      "utf8": "That discovery earned them a Nobel Prize in Physics. "
+    } ]
+  }, {
+    "tStartMs": 465520,
+    "dDurationMs": 7948,
+    "segs": [ {
+      "utf8": "How amazing it is that today the very waves that connect our devices also connect us to the origin of the universe. "
+    } ]
+  } ]
+}

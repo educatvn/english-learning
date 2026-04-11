@@ -1,0 +1,3200 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 440,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "Hello, it's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2000,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Welcome to this episode of what in\nthe world from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6080,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Today we're talking about your phone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 9040,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "You may have just checked yours\nI don't know, it's a bit of a reflex."
+        }
+      ]
+    },
+    {
+      "tStartMs": 11240,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "I keep on grabbing mine to check\nfor notifications and messages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "It feels like if I were to leave my\nphone at home for even just a few hours,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 19040,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "there's this like sense of dread\nin the pit of my stomach."
+        }
+      ]
+    },
+    {
+      "tStartMs": 22160,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "I'm totally hooked on it. And as long\nas there have been smartphones,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26360,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "we've been talking about\nwhether children should have them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28800,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Should they be allowed in schools,\nwhat kind of age limits"
+        }
+      ]
+    },
+    {
+      "tStartMs": 31480,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "should there be on social media?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33560,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "But what evidence is there that\nsmartphones are actually bad for us?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37440,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And what are students make of it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 42760,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Here to talk us through it\nis Hayley Clark, BBC journalist. Hi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 45680,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "Hi, Hannah.\nThank you so much for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 47400,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Welcome to our.\nStudio. Thank you, I love it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 50480,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Um, right. So I thought\nif we're going to be talking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 53120,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "about teenagers and their phones\nand we're going to be talking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55920,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "about schools\nand whether they should be banned,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 58400,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "we have to be really honest as well,\nbecause I don't know about you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 60720,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "But like every week my phone tries\nto tell me my screen time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63520,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and I quickly flick it away in\nlike fear and shame."
+        }
+      ]
+    },
+    {
+      "tStartMs": 66720,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "So I want you to go\nto your settings, okay?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68640,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "Okay, getting them up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 69840,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "And if you go to your screen time, there\nshould be a little purple egg timer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74360,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "My heart's actually beating\nreally fast. I'm quite scared."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77560,
+      "dDurationMs": 800,
+      "segs": [
+        {
+          "utf8": "Right. Are you ready?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 78360,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "We're gonna we're going to have a\nlook and then show each other. Okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 80800,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Three. Two.\nOne."
+        }
+      ]
+    },
+    {
+      "tStartMs": 85080,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Mine floating.\nWell, mine got there first."
+        }
+      ]
+    },
+    {
+      "tStartMs": 89400,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "I made it out.\nShow me. Let's see. Okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 91920,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It's four hours\nand 14 minutes every day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 94560,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Four hours and 14 minutes. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 96640,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "Four hours and 14 minutes\nof time spent or wasted on on this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 102040,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Mine's still spinning around.\nI'm really surprised about this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106240,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "because I've set time limits\non most my apps, like Instagram."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109400,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "After being on it for like 15,\n20 minutes a day,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 112320,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "it tells me you have reached your\ntime limit and you know what I do?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 116200,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "I press ignore limit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 117880,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Every day and\nthen it just makes you feel sad."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120200,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Like mine does. Like it says,\nyou're going into sleep mode."
+        }
+      ]
+    },
+    {
+      "tStartMs": 122240,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And then I just again flick it away\nand just pretend I'm not sleeping."
+        }
+      ]
+    },
+    {
+      "tStartMs": 125960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Maybe my phone just doesn't want\nto show me. It knows I'm not."
+        }
+      ]
+    },
+    {
+      "tStartMs": 128360,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I'm not ready for this information.\nIt's come, it's here, it's come."
+        }
+      ]
+    },
+    {
+      "tStartMs": 131480,
+      "dDurationMs": 680,
+      "segs": [
+        {
+          "utf8": "Okay. Christmas is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 132160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Coming. I think\nthat's been that's been a malfunction\nbecause mine says three hours 29."
+        }
+      ]
+    },
+    {
+      "tStartMs": 135680,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "But that is definitely lower. It's\nusually like tipping towards five,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 139600,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "I would say.\nWhat are your most used apps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142000,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "I can tell you without\nwithout even looking. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144480,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "WhatsApp and Instagram. What about.\nYou. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Mine are the same\nwith some embarrassing ones thrown in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149280,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "like eBay and Amazon and Hinge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 154320,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "I have ADHD and I just cannot resist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 157840,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So the notifications,\nthe distractions, I'll go on it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 161240,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "for like actually useful purposes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 163280,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Maybe internet banking,\nmaybe to read something on the news,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 167200,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "maybe to reply to a message I actually\nneed to see and I just cannot resist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 171440,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Then the other notifications\nand the dopamine hit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 173600,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "that comes from from scrolling."
+        }
+      ]
+    },
+    {
+      "tStartMs": 175920,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "I can't have like\nan unread notification."
+        }
+      ]
+    },
+    {
+      "tStartMs": 178000,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "I can't have an unread email\nlike that gives me anxiety."
+        }
+      ]
+    },
+    {
+      "tStartMs": 180960,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I have to make sure that all\nof my notifications are checked,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 184000,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and then there's like a kind\nof constant element of doing that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187520,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "to just make sure that all my ground\nis covered, that I've got a clean slate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 191000,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "so that I can think\nabout other things I understand."
+        }
+      ]
+    },
+    {
+      "tStartMs": 193680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Oh, not healthy.\nUm, I don't know about you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 196280,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "I think I'm using\nmy phone way too much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 198280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Like, how does it compare\nto the average?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So it's hard to get sort of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "a consistent,\num, account around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205640,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "But some statistics say\nthat adults"
+        }
+      ]
+    },
+    {
+      "tStartMs": 208600,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "like over 18 are using their phones\nfor almost five hours a day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 212640,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "So kind of towards my like us\nhigher one exactly like us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 217200,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "It makes me feel\nslightly less less guilty."
+        }
+      ]
+    },
+    {
+      "tStartMs": 220280,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Um, and actually the centres\nfor Disease Control"
+        }
+      ]
+    },
+    {
+      "tStartMs": 223160,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "and Prevention\nestimated screen time, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 226240,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "like screen time overall for 11 to 14\nyear olds as nine hours a day, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231520,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and 7.5 hours hours."
+        }
+      ]
+    },
+    {
+      "tStartMs": 234120,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Okay, that actually that makes\nme feel a bit better about my, uh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 237560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "But we didn't add in our computer\nand TV time and all of that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240600,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So that screen time overall,\nI think so, yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 243160,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Um, and also nearly half of teens"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245200,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "self-report that they use\nthe internet almost constantly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 248520,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So it does seem\nlike the data is showing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251400,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "that phone use and screen time\nis just consistently rising."
+        }
+      ]
+    },
+    {
+      "tStartMs": 255960,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So it kind of makes sense, right,\nthat some countries are now talking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259160,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "about bans or restrictions or limits\non phones and social media use,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 263000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "which are the main countries\nthat are talking about it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 265440,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "So in 2023, a UN report recommended that\nsmartphones should be banned in schools."
+        }
+      ]
+    },
+    {
+      "tStartMs": 271240,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "They said to reduce classroom disruption\nand protect kids from online bullying."
+        }
+      ]
+    },
+    {
+      "tStartMs": 276080,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And there's lots of different countries\ntrialling lots of different things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280000,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "So in France, there is a trial\nhappening called a digital pause, where"
+        }
+      ]
+    },
+    {
+      "tStartMs": 284680,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "over 200 schools are asking teenagers\nto hand in their phones at reception."
+        }
+      ]
+    },
+    {
+      "tStartMs": 289960,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Um, here in the UK, it's a big topic,\nit's a big debate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 293440,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And, uh, the government's looking\nat legislation to potentially ban"
+        }
+      ]
+    },
+    {
+      "tStartMs": 297520,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "under 16 from social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 300280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And in the US\nit kind of varies state by state."
+        }
+      ]
+    },
+    {
+      "tStartMs": 302920,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "But in Florida, um, a bill has passed\nto ban social media for under 14,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308760,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "and that's going to come into force\nin January 2025."
+        }
+      ]
+    },
+    {
+      "tStartMs": 313400,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Um, and Australia wants to go further\nthan this, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 316440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and wants to go further\nthan banning phones in schools."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319720,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So Australia's government says\nit will introduce"
+        }
+      ]
+    },
+    {
+      "tStartMs": 322440,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "world leading legislation to ban\nchildren under 16 from social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 327480,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And I saw that\nthe Australian prime minister said,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 330960,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "like parents, we're listening to you.\nSo a lot of the rhetoric and debate kind"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335520,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "of seems to be people in power\nand parents."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339040,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "I'm not sure\nhow much the teenagers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 341040,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "and young people are being involved\nin these discussions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 344640,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Um, and Hannah Ritchie is\na BBC journalist based in Australia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 349200,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and she's going to tell us a bit more\nabout what's going on there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 352320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "The Australian government\nis proposing to ban all children"
+        }
+      ]
+    },
+    {
+      "tStartMs": 355560,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "under the age of 16\nfrom social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 358120,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "There's a lot that we still don't\nknow, and how this will be enforced"
+        }
+      ]
+    },
+    {
+      "tStartMs": 361480,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "or implemented needs to be decided by\nAustralia's internet regular, which"
+        }
+      ]
+    },
+    {
+      "tStartMs": 365480,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "will happen over the next 12 months\nbefore these laws come into effect."
+        }
+      ]
+    },
+    {
+      "tStartMs": 369040,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "But so far,\nhere's what the government has said."
+        }
+      ]
+    },
+    {
+      "tStartMs": 371520,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "They say, well, we know exemptions\nfor kids with existing accounts or those\nwho can get parental permission."
+        }
+      ]
+    },
+    {
+      "tStartMs": 376240,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Tech companies will face fines\nfor not complying,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 379280,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "and messaging services\nand gaming sites will be exempt,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 382960,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "which has prompted questions over the\nstatus of apps like Snapchat and how"
+        }
+      ]
+    },
+    {
+      "tStartMs": 386920,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "regulators will ultimately define what\nis and isn't a social media platform."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391040,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "The government has said it's\ntrialling age verification technology\nto make all of this possible,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 395520,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "but there's very few details about\nhow that technology will work and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 399280,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "if it will work, as well as privacy\nconcerns over the risks involved,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 403160,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "as it might entail collecting a whole\ngeneration of users ID documents."
+        }
+      ]
+    },
+    {
+      "tStartMs": 408240,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Overall, parents and families\nhave applauded the proposed ban,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 411240,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "but the tech companies themselves\nhave warned it could push children"
+        }
+      ]
+    },
+    {
+      "tStartMs": 414280,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "into more unregulated parts\nof the internet,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 416320,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "while experts have criticised it\nas too blunt an instrument."
+        }
+      ]
+    },
+    {
+      "tStartMs": 420080,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "They say that\nthe evidence base isn't solid,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 423640,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and also that the focus should be\non tougher regulation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "to make platforms safer,\nas well as educating kids about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429960,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "how these platforms work rather than\njust cutting them off altogether."
+        }
+      ]
+    },
+    {
+      "tStartMs": 434080,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "It's really interesting, she said.\nThere isn't a solid evidence base."
+        }
+      ]
+    },
+    {
+      "tStartMs": 437520,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So what evidence\ndo we actually have that smartphones,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441960,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "you know, affect our brains,\nour mental health?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444680,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I think that's really still emerging.\nSo you're absolutely right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 447680,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "Scientists don't agree on this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 449320,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Some scientists say\nwe definitely have data."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452200,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "We know smart. We know phones are bad\nfor young people's mental health."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458080,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "But then on the other side,\nsome scientists argue"
+        }
+      ]
+    },
+    {
+      "tStartMs": 460800,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "there's not robust data\nwe don't know yet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And actually more needs to\nbe done over longer periods of time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 466400,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "to say whether\nthis is definitely an issue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 469000,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And so there's one guy who's American"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471080,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and he's written a book\nwhich has had loads of publicity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 474440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "He's a social psychologist called\nJonathan Haidt."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And this is him talking\nabout his theory."
+        }
+      ]
+    },
+    {
+      "tStartMs": 479680,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "It's the complete transformation\nof childhood that took place"
+        }
+      ]
+    },
+    {
+      "tStartMs": 482680,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "between 2010 and 2015,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 484680,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "so that before then,\nhardly any kids had a smartphone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 487960,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "They didn't have high speed data plans,\nthey had to pay for their texts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 491400,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So you couldn't really be online\nfor six hours a day before 2010."
+        }
+      ]
+    },
+    {
+      "tStartMs": 495600,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "You had a flip phone.\nBy 2015, everything's changed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "The great majority have a smartphone\nwith a high speed data plan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 501560,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "They have an Instagram account, and\nnow they can be on ten hours a day"
+        }
+      ]
+    },
+    {
+      "tStartMs": 505040,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and they're on\nmore than ten hours a day in that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 507320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "even when they're not,\nthey're thinking about it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 509640,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "And so my argument is\nthat human childhood evolved"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512760,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "for young people to play, learn\nsocial skills, learn adult skills."
+        }
+      ]
+    },
+    {
+      "tStartMs": 515920,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And they used to do that. But once we\ndeveloped this phone based childhood,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 519640,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "it just blocks almost every avenue\nof development."
+        }
+      ]
+    },
+    {
+      "tStartMs": 522080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And that's why we see for boys\nand for girls,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524520,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "an elbow, a bend in the mental health\nstats. They all begin going north."
+        }
+      ]
+    },
+    {
+      "tStartMs": 528680,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "They all began going up, up, up the\nrates of mental illness around 2013."
+        }
+      ]
+    },
+    {
+      "tStartMs": 532400,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "There's some really stunning data\njust out now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 536120,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Now that we're past Covid and we have,\nyou know, kids have been in school"
+        }
+      ]
+    },
+    {
+      "tStartMs": 538600,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "for a couple of years and what you\nsee is a little increase from Covid,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 542840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "but this is on\nlike a mountain range going up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 545480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "from baseline\nto the top of Mount Everest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 547840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And along the way, just near the top,\nyou do see a little spike that's Covid,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551440,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "but Mount Everest is\nfrom the phone based childhood."
+        }
+      ]
+    },
+    {
+      "tStartMs": 554480,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "It's not from Covid. It was.\nCovid didn't leave a lasting mark"
+        }
+      ]
+    },
+    {
+      "tStartMs": 557240,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "in anything like the way\nthe transformation of childhood did."
+        }
+      ]
+    },
+    {
+      "tStartMs": 559720,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And those graphs, those numbers\nwere going down a little bit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 562640,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "in the 20 tens\nfor the millennials, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 564680,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "born in 1981 to 1995, they have\nactually pretty good mental health."
+        }
+      ]
+    },
+    {
+      "tStartMs": 568040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And it was getting slightly better.\nAnd then when the first member"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570680,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "of Gen Z born 1996,\nwhen that first kid got a smartphone"
+        }
+      ]
+    },
+    {
+      "tStartMs": 575200,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and an Instagram account\nand moved her life onto that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 578200,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "that cut off real relationships\nwith other kids."
+        }
+      ]
+    },
+    {
+      "tStartMs": 581200,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Going back to the arguments,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 583280,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "what are some of the what some\nof the other evidence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585800,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So a big study\nin Norway was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 588120,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "really kind of making waves\nacross the world this year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 590600,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So it was a longer term study than,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 594120,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "than others that have existed\nand what it found,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 598000,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "what its results showed was\nthat smartphone bans in schools meant"
+        }
+      ]
+    },
+    {
+      "tStartMs": 602080,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "less bullying, better mental health\nand better outcomes for teenagers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 606120,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "particularly girls\nfrom low socioeconomic backgrounds."
+        }
+      ]
+    },
+    {
+      "tStartMs": 609680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So that was a really interesting study\nand is one that scientists have told me"
+        }
+      ]
+    },
+    {
+      "tStartMs": 613760,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "have has really kind of propelled\nthe debate, particularly around"
+        }
+      ]
+    },
+    {
+      "tStartMs": 618200,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "like parents who are campaigning\nfor phones to be banned in schools."
+        }
+      ]
+    },
+    {
+      "tStartMs": 622560,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "Um, but what the professor I spoke\nto said is that there was variation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 627360,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "in the study.\nSo some schools were a lot more,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 629400,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "a lot more strict\nand others were more lenient."
+        }
+      ]
+    },
+    {
+      "tStartMs": 631440,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And he said that there isn't\nenough evidence to show"
+        }
+      ]
+    },
+    {
+      "tStartMs": 634400,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "that a strict ban is really necessary"
+        }
+      ]
+    },
+    {
+      "tStartMs": 637640,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and that in many cases\nmaybe a more lenient ban."
+        }
+      ]
+    },
+    {
+      "tStartMs": 640760,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So say, for example, where um,\nstudents could keep their phones"
+        }
+      ]
+    },
+    {
+      "tStartMs": 644280,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "on them but\njust not use them in class."
+        }
+      ]
+    },
+    {
+      "tStartMs": 646760,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "He said that actually that can be\njust as effective as the stricter side,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 650800,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "where maybe you hand in your phone to\nreception in the morning at school."
+        }
+      ]
+    },
+    {
+      "tStartMs": 655120,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Um, so like I said,\nthere's lots of academics"
+        }
+      ]
+    },
+    {
+      "tStartMs": 658000,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "who maybe disagree\nthat phones should be banned"
+        }
+      ]
+    },
+    {
+      "tStartMs": 661480,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "and social media should be banned for\nunder 16 seconds."
+        }
+      ]
+    },
+    {
+      "tStartMs": 663880,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "And one of those is\nthe professor I mentioned before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 667000,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So that's Professor Pete Etchells,\nand he told us this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670920,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "I haven't yet really been\nany good studies, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 673120,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "things like randomised\ncontrolled trials that look at"
+        }
+      ]
+    },
+    {
+      "tStartMs": 676000,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "what the potential positive\nor negative effects"
+        }
+      ]
+    },
+    {
+      "tStartMs": 678080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "of bands might look like,\nespecially in the long term."
+        }
+      ]
+    },
+    {
+      "tStartMs": 681160,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Anecdotally, though, we know that\nin situations where children"
+        }
+      ]
+    },
+    {
+      "tStartMs": 684760,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "and young people have had their\naccess to digital tech restricted,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 688440,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "those sorts\nof regulations tend to backfire."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So in South Korea,\nfor instance, a law was passed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 693960,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "in 2011 to prevent young people\nfrom accessing the internet"
+        }
+      ]
+    },
+    {
+      "tStartMs": 697400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "between about midnight and six a.m."
+        }
+      ]
+    },
+    {
+      "tStartMs": 700080,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and this was\nso that they could get more sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 702360,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "But actually it only led to an extra\nminute and a half of sleep per night,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 706240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and it increased the amount of time\nthat they spent on the internet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 708760,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It just happened earlier in the day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 711400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "There's nothing magical\nabout the age of 16."
+        }
+      ]
+    },
+    {
+      "tStartMs": 714080,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "That means\nthat if you get a phone at that age,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 716160,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "you'll suddenly just know\nhow to use it appropriately."
+        }
+      ]
+    },
+    {
+      "tStartMs": 719400,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "What we need to be doing is thinking\nabout how do we support people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 722760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "of all ages,\nespecially children and young people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 725840,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "in developing healthier habits\nand healthier relationships"
+        }
+      ]
+    },
+    {
+      "tStartMs": 729200,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "with digital tech so that whenever\nthey do get their own smartphone,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 733080,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "they're properly equipped to use it\nin a safe way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 736040,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "If we can have more sensible,\nrational conversations"
+        }
+      ]
+    },
+    {
+      "tStartMs": 739600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "about what we like\nand what we really don't like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 742400,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "about the technologies that are\na part of our day to day lives,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 745440,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "then actually we can better hold\ntech companies to account."
+        }
+      ]
+    },
+    {
+      "tStartMs": 749160,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And what we ultimately want\nto do then is make sure that they put"
+        }
+      ]
+    },
+    {
+      "tStartMs": 751680,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "our well-being and our safety\nat the core of their design,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 755480,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and not treat it as an afterthought.\nAround this whole debate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 758640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It's really interesting\nbecause it's hard"
+        }
+      ]
+    },
+    {
+      "tStartMs": 761280,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "to determine what is correlation and\nwhat's causation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 764520,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So whether yes,\nyou can see in the data"
+        }
+      ]
+    },
+    {
+      "tStartMs": 768560,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "that mental health for teenagers is\nis appears to be getting worse."
+        }
+      ]
+    },
+    {
+      "tStartMs": 772360,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "But some some scientists and academics\nare arguing that maybe that's because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 776520,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "the conversations around mental\nhealth are happening more often."
+        }
+      ]
+    },
+    {
+      "tStartMs": 779600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And actually we have the language\nabout anxiety and depression"
+        }
+      ]
+    },
+    {
+      "tStartMs": 782560,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "that maybe\nwe didn't have back in 2013."
+        }
+      ]
+    },
+    {
+      "tStartMs": 786040,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "So it's really difficult to know it,\nwhether it is a correlation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 790600,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "or whether the phones are actually\ncausing these mental health issues."
+        }
+      ]
+    },
+    {
+      "tStartMs": 794360,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Let's hear from some of the people\nwho would be affected by these bans"
+        }
+      ]
+    },
+    {
+      "tStartMs": 798200,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "if they were introduced now.\nHi, I'm Sonia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 802560,
+      "dDurationMs": 6280,
+      "segs": [
+        {
+          "utf8": "I'm 16 years old and if I couldn't\nuse my phone at school at all,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 808840,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "I feel like honestly,\nI'd be pretty okay with that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 812360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "since I like socialising with a lot\nof my friends during the day anyway."
+        }
+      ]
+    },
+    {
+      "tStartMs": 816440,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Um, but I would feel a little unsafe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 820480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "if I couldn't contact anyone if I got\ninto trouble,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 823520,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "and if I couldn't access any social\nmedia until I was 16 or 17,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 828280,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "I feel like I would,\num, not be as knowledgeable as I am"
+        }
+      ]
+    },
+    {
+      "tStartMs": 835400,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "about real world experiences and\na lot of struggles"
+        }
+      ]
+    },
+    {
+      "tStartMs": 839240,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "that a lot of people go through,\nbecause I get a lot of stories"
+        }
+      ]
+    },
+    {
+      "tStartMs": 843960,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "about people's personal experiences\nthrough social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 848280,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "Um, and it really just gives me like\nan insight into people's daily lives,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 854480,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "um, through,\nlike in different places in the world"
+        }
+      ]
+    },
+    {
+      "tStartMs": 857840,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "and what different people go through\nand different living conditions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 860920,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "So I feel like if I didn't have\nsocial media until I was older,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 864560,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "I wouldn't be as aware of, um,\nmy surroundings."
+        }
+      ]
+    },
+    {
+      "tStartMs": 869360,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And here are some school students\nwho sent us voice notes from France."
+        }
+      ]
+    },
+    {
+      "tStartMs": 872960,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "So my name is Isar."
+        }
+      ]
+    },
+    {
+      "tStartMs": 875000,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "I'm 16, I'm in high school."
+        }
+      ]
+    },
+    {
+      "tStartMs": 877760,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "In my opinion, the digital experiment\nthat's happening"
+        }
+      ]
+    },
+    {
+      "tStartMs": 881720,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "in France is a great idea,\nbut I'm still"
+        }
+      ]
+    },
+    {
+      "tStartMs": 886120,
+      "dDurationMs": 7280,
+      "segs": [
+        {
+          "utf8": "for the fact that students in high\nschool can have their mobile phone"
+        }
+      ]
+    },
+    {
+      "tStartMs": 893400,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "because with the help\nof their mobile phones,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 896640,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "they can be more independent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 898840,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "They can manage their own schedule."
+        }
+      ]
+    },
+    {
+      "tStartMs": 901200,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "There are appointments.\nThere are all the notes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 904520,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "I think, in my opinion,\nto manage all of this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 908320,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And for the students in media,\nschools are too young"
+        }
+      ]
+    },
+    {
+      "tStartMs": 912080,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "and need to stay away from\nall these distractions of the phone"
+        }
+      ]
+    },
+    {
+      "tStartMs": 916800,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "because the phone can have\na true impact on their life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 921720,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Hi, my name is Arlene and I'm 17."
+        }
+      ]
+    },
+    {
+      "tStartMs": 926080,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "In our high school we use most\nof the time our smartphone,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 931360,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "except when we are\nin the class with the teacher."
+        }
+      ]
+    },
+    {
+      "tStartMs": 935920,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "So we use our phone everywhere\nin the high school."
+        }
+      ]
+    },
+    {
+      "tStartMs": 940280,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "So for me, this experiment might be\na very good idea in the high school."
+        }
+      ]
+    },
+    {
+      "tStartMs": 946320,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "Uh, because it's very important\nto take polls, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 951880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and to draw away from the screen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 955040,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "Otherwise you become addict\nand you start to do nothing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 960480,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and to be a sedentary person."
+        }
+      ]
+    },
+    {
+      "tStartMs": 964400,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "For me, for example, when I'm not\nwith my friends, I'm 30, obviously,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 969920,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "but most of the time\nI use my phone to watch some video."
+        }
+      ]
+    },
+    {
+      "tStartMs": 974120,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So it's very important\nto take a pause and to discover it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 977600,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "Something about your high school\nor to go in the library to read."
+        }
+      ]
+    },
+    {
+      "tStartMs": 982080,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "See you soon. Bye.\nHello, my name is Richard"
+        }
+      ]
+    },
+    {
+      "tStartMs": 985680,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "and I'm a 16 year old\nsecond year high school student."
+        }
+      ]
+    },
+    {
+      "tStartMs": 990000,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Uh, there are so many times\nwhere I've just seen people, uh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 994040,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "lock themselves in the bathrooms\nto use the phone or, like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 997680,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "film TikToks or just, uh,\npeople waiting for the opportunity"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1002080,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "to, like, quickly whip out\ntheir phone and use it a little bit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1006160,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And I just found that very annoying."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1009080,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And I feel like the newer generation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1011840,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "or myself included,\ncan really have trouble focusing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1015680,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "for a long period of time just\nbecause of all the content we watch,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1020120,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "or just getting easily distracted by\nthe phone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1023720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So, Haley, how have the phone\nand the social media companies"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1026960,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "responded to calls for bans?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1029080,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So not many\nof the companies have commented,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1032040,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "but meta, who own Facebook,\nInstagram and WhatsApp,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1036000,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "has raised concerns about\nhow age verification would work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1040240,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Um, and the amount of personal data\nthat might need to be shared."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1043400,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So meta and meta is also argued\nthat app stores run by Google"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1047600,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "and Apple should be the ones to\nenforce these age restrictions, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1052040,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and age verification rather\nthan the apps themselves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1056080,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Um, some apps are starting to to\nintroduce protections for younger users."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1060360,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So Instagram has teen accounts, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1063040,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "and they have default\nprivate settings and sleep mode."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1067000,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And meta says this will limit\nthe contents teens can see as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1071080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So tech companies are trying\nto do things to reduce the amount"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1074160,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "of time that people are spending\non phones,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1076200,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and also like\nthe harmful material they can access."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1078760,
+      "dDurationMs": 5960,
+      "segs": [
+        {
+          "utf8": "But what can I do to try and get some\nof my life back for hours a day or more?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1084720,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "I'm spending on on this thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1086440,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Like, what can I do to try\nand fix that dependence?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1089360,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Well, you could do like\nthe extreme option,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1091840,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "which some teenagers are doing\naround the world,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1094120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "which is just to abandon your smartphone\naltogether and get a brick phone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1097440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Not even a digital detox like,\nnot have a smartphone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1100600,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "I think some people do a mixture.\nSo maybe you would have a smartphone,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1104200,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "but then when you're going out,\nyou take a brick phone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1106440,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "So you've still got\nthat safety element, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1108480,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "you're not going\nto be distracted by something."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1111880,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "I don't think I could\nbecause I like I need the maps,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1114120,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "I need the taxi apps,\nI need to plan my journeys."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1117200,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Or my ADHD coach did recommend."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1119800,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So back in the start of the year, I\nwas really thinking about this a lot."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1123600,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "And like New Year's resolutions\nwere coming around"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1125600,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "and I was like, I'm going to do it.\nThis is the year I'm going to like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1129080,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "crack it with my phone and just,\nlike, not use it as much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1132560,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Um, obviously totally failed\nas we've seen on my screen time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1135280,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "but, um, my ADHD coach\nwas recommending I make a little box"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1139520,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and he was like,\ndecorate it really nicely, and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1141880,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "you can have this thing called phone in\na box time where you put the phone in,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1144920,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and it's not a punishment\nbecause it's all decorated."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1146920,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "It's all really nice and pretty.\nObviously, I never even made the box."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1150840,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "Like putting the phone to foam bed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1152480,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Yeah, but I'm talking about maybe\nnext year, maybe next January."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1156080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Hayley, thank you so much\nfor coming into the studio and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1159120,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and revealing my sins.\nThank you so much for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1162160,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "I will try\nand practice what I preach as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1164640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And thank you for joining us.\nI'm Hannah Gilbert."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1167720,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "This has been what in the world\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1170600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "You can get in touch with us anytime.\nYou probably have to use your phone"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1173600,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "for it. So I don't know if that's\nvery helpful, but we are on WhatsApp,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1176960,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "we're on Instagram.\nWe are, of course, here on YouTube."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1179200,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "You can leave us a comment below and\nwe'll be back with another episode soon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1182720,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "See you then. Bye."
+        }
+      ]
+    }
+  ]
+}

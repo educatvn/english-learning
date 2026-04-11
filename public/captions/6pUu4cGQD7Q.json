@@ -1,0 +1,1481 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 200,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "'Tell Your Papa'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1960,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "It's an Afrobeats song in Nigeria\nthat lots of people are talking about."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6280,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Eedris Abdulkareem\nreleased a song recently,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 8960,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "but authorities quickly banned it,\nsaying it was inappropriate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 11880,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and violated\nthe country's broadcast code."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14760,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "So in this episode, we'll tell you all\nabout the song that's caused a storm"
+        }
+      ]
+    },
+    {
+      "tStartMs": 19280,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and what it says\nabout Nigeria's political situation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 22600,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Mimi Swaby and this is What in\nthe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 30320,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "Let's now speak to our reporter\nMakuochi Okafor in Lagos. Hi Makuochi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 35360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Thank you.\nThank you for having me here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 37520,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "Firstly, please can you just tell me\na little bit about Eedris Abdulkareem?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 41640,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "How big is he in Nigeria?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 44080,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So Eedris Abdulkareem is one\nof the, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 47480,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "few musicians who started the current\nday big wave of Afrobeats in Nigeria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 51920,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "He's pretty big, he's respected,\nhe's quite popular, particularly"
+        }
+      ]
+    },
+    {
+      "tStartMs": 56760,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "because of the role he played\nin advancing Afrobeats in Nigeria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62640,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And he recently released\na tune called 'Tell Your Papa'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 66080,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Can you tell us about it and give us\nan idea of some of the lyrics?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 70600,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Okay. So 'tell\nyour papa' is Pidgin English."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "It means tell your father\nor tell your dad."
+        }
+      ]
+    },
+    {
+      "tStartMs": 76600,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And he said\nhe was inspired to do the song"
+        }
+      ]
+    },
+    {
+      "tStartMs": 79800,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "after he saw a video by Seyi Tinubu,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 83200,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "that's the son of the president,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85440,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "where he said repeatedly that\nhis dad was the best president ever"
+        }
+      ]
+    },
+    {
+      "tStartMs": 89400,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "and he felt it was necessary\nto address that claim,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 94160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "according to him, through a song."
+        }
+      ]
+    },
+    {
+      "tStartMs": 96880,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "In the song, he talked about\nhow the state of the country is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 101480,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "the cost of living crisis,\nhow insecure Nigeria has been."
+        }
+      ]
+    },
+    {
+      "tStartMs": 105360,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Nigeria has been dealing with lots\nof insecurity over the years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109320,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "And there seem to have been a rise of\nthese attacks lately in the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 113320,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And he also talked about how, you know,\nthere's corruption in the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 117600,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "He alleged those. So the lyrics\nof the song did tell Seyi Tinubu,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 122200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "that the son of the president,\nto tell his dad,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125400,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "how things are on ground\nthat he feels he's so distant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129800,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Talked about - he doesn't have to, if\nhe feels that Nigeria is safe or good,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 134120,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "he should try taking public transport,\nas opposed to flying private jets,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137800,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "just to see\nhow the state of the roads are and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 140040,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "how unsafe it is to travel by road."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142120,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So those were\nsort of the lines that he mentioned\nor that he sang about in the song."
+        }
+      ]
+    },
+    {
+      "tStartMs": 147000,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "But that song is now banned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 149400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Who banned it and why?\nOkay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 152200,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So, the Nigerian Broadcasting\nCommission, popularly called the NBC,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 155960,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "did ban the song and they banned it\nbecause they said it's inappropriate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 161400,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So the role of this agency,\nthat's the NBC,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164240,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "is regulating, contents that go out\non Nigerian airwaves, that's TV"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169160,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "and radio, any broadcasting or local\nbroadcasting station in the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 174480,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "So they see that content are clean.\nThey are appropriate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 178040,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "They are - they uphold what\nthey've called the 'code of conduct'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182080,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "They abide by ethics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 183560,
+      "dDurationMs": 6120,
+      "segs": [
+        {
+          "utf8": "They are moral and - practically just\noverseeing the quality of contents"
+        }
+      ]
+    },
+    {
+      "tStartMs": 189680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "that go out to the Nigerian public,\nthrough the broadcasting lines,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193080,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "be it TV or radio.\nBut now this song has been banned,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196000,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "particularly because the NBC says\nit is quite inappropriate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199840,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "That was the line they used and that was\ntheir reason for banning the song."
+        }
+      ]
+    },
+    {
+      "tStartMs": 204160,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And who appoints the NBC?\nWhat is it made of?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 206640,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Is it a government appointed body\nor is it completely independent?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210200,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "They are under\nthe federal government."
+        }
+      ]
+    },
+    {
+      "tStartMs": 213160,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "So that means that their decisions\nare just as good as the decision\nof the federal government,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217480,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "because they were appointed by\nthe federal government,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "and their role is just to oversee\nthe content that goes out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 223880,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "It's important to note\nthat this is not the first time\na song is being banned in Nigeria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 229040,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "There have been many reasons\nfor songs or content to be banned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 232560,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "It could be banned\nbased on profanity, vulgarity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235640,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "It could be said that some of the songs\nmay be problematic to national interest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 241960,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So there have been many reasons\nwhy songs have been banned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 244280,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And this is not\nthe first time this has happened,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 246320,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "but this is the most recent and it\nquite hasn't happened in a long time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 250320,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And most of the songs that have been\nbanned in the past, have been mostly"
+        }
+      ]
+    },
+    {
+      "tStartMs": 253960,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "of the basis of vulgarity\nor profanity or things around that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257760,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Okay, so the NBC aren't happy with\n'Tell Your Papa'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261080,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "However, does this reflect life - day\nto day life - for Nigerians"
+        }
+      ]
+    },
+    {
+      "tStartMs": 264800,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "at the moment? You mentioned insecurity,\nyou mentioned high prices."
+        }
+      ]
+    },
+    {
+      "tStartMs": 268600,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "Is this a reality for Nigerians?\nOver the months,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 273200,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "from last year\nthrough just about last week,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275840,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "in the first week of April,\nwe saw people constantly pushing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 281200,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "for, you know,\njust trying to get their voices heard"
+        }
+      ]
+    },
+    {
+      "tStartMs": 284000,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "about their discontent\nwith how things have been in Nigeria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 287240,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "There was a protest that was staged\nwhich the police really cracked down"
+        }
+      ]
+    },
+    {
+      "tStartMs": 291680,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "with tear gas, but it was staged\non the first week of April,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 295280,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "and young people were saying they\nweren't happy with the state of things,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 298840,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "the high cost of living, the insecurity\nthat was beginning to spike,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 303120,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "the corruption and\neven the high level of unemployment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 305400,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So they had lots of demands.\nSo it seems like the voices"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308520,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "on the streets are quite in line with\nwhat Eedris Abdulkareem are saying,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 313800,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "saying that these protests\nhave lingered from last year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 316720,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "They keep coming up. And even\nbeyond the protest on the streets,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 320120,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "there has been lots and lots\nof hashtags."
+        }
+      ]
+    },
+    {
+      "tStartMs": 322640,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "For example,\n30 Days of Rage, which also was -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 325760,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "which was spiking through last month."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328200,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Just people trying to say, 'we're not\nhappy with how things are going'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 332280,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "It's really expensive for us to afford\nlittle things like eggs or, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 336160,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "just tomatoes or just a few things\nthat we need to live and survive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 340360,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So what you see online seems\nto be very in line"
+        }
+      ]
+    },
+    {
+      "tStartMs": 344760,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "with what Eedris Abdulkareem\nhas sung about."
+        }
+      ]
+    },
+    {
+      "tStartMs": 346920,
+      "dDurationMs": 6440,
+      "segs": [
+        {
+          "utf8": "And it's no surprise that\nthe song has been trending online,\neven regardless of the ban."
+        }
+      ]
+    },
+    {
+      "tStartMs": 353360,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So how did people respond\nto this song?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 355680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Was it popular before the ban, or has\nthat ban really pushed its popularity"
+        }
+      ]
+    },
+    {
+      "tStartMs": 359760,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and given it more awareness,\ngiven it more airtime?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 362080,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "I think that\nthe ban actually brought it more"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364880,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "to the front lines, you know,\ngiving more awareness."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367920,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Eedris Abdulkareem is\nan older musician."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370280,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Most young people\nmay not even know his name."
+        }
+      ]
+    },
+    {
+      "tStartMs": 373960,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "People are more familiar with the\nnewer artists like Davido, Wizkid, Rema,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 379320,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Burna Boy, so he's someone that\nmost people have forgotten about."
+        }
+      ]
+    },
+    {
+      "tStartMs": 382720,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "So I was surprised when I heard he had\na song and now the song has been banned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 387760,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So I think the ban brought lots\nof attention to the song."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391880,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "In fact, one\nof Nigeria's very respected voices,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 396520,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "which is also a Nobel Prize winner,\nthat's Wole Soyinka,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 399680,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "has criticised the ban and many other\npeople also have criticised the ban,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 403840,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "saying that they feel\nit's a muzzle on free speech"
+        }
+      ]
+    },
+    {
+      "tStartMs": 406800,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and freedom of expression, especially\nfor artists in the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 409760,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So I feel like the ban actually\ndid make it a lot more popular"
+        }
+      ]
+    },
+    {
+      "tStartMs": 412720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "than it would have been.\nSo lots of reactions there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 415280,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "People aren't happy with the ban,\nlisteners aren't happy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 418040,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "But what has the artist,\nEedris Abdulkareem, said himself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 422600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "In a recent interview\nhe defended the song,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424840,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "and he said he felt he needed to\nrespond to the son of the president,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429240,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "and that was an interview\nthat just went out recently here\non local media in Nigeria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 433840,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "He clearly stands\nby what he has said,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 436440,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "and he knows, according to him,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 438600,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "that even regardless of the band,\nthe song would still exist online,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 443680,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "on streaming platforms"
+        }
+      ]
+    },
+    {
+      "tStartMs": 446000,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and online platforms still have\nthe liberty to air the songs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 449160,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "While they can't be played\nin any Nigerian radio or TV station,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 453600,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "people are still free to play it\nin their homes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 455760,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and people\nare still free to play it online."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457960,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "The NBC doesn't have jurisdiction\nover what happens online."
+        }
+      ]
+    },
+    {
+      "tStartMs": 462480,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "It's particularly on local stations,\nTV and radio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466240,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So I think he feels okay because he\nfeels like his voice is being heard."
+        }
+      ]
+    },
+    {
+      "tStartMs": 469600,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "He has, over the years used his music\nand his voice for sort of activism."
+        }
+      ]
+    },
+    {
+      "tStartMs": 474640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "So it's no surprise that\nthis is happening now. And I believe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 476800,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "he's quite impressed with how\nthings have gone in the in the sense"
+        }
+      ]
+    },
+    {
+      "tStartMs": 480360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "that the song has become a lot\nmore popular than it would have been."
+        }
+      ]
+    },
+    {
+      "tStartMs": 482960,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And you mentioned earlier protests\nagainst the government."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485920,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "The government\nhas been facing growing opposition,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488360,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "particularly discontent,\ndiscontent from younger people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 492600,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "What are those current demands?\nWhat are younger people asking for?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 496760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So most of the protests\nand their demands have been listed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 499960,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "to include the level of economic\ndifficulty happening in the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 504040,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "In fact, they have termed it\nthe 'hunger protests', which is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 508200,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "it's been difficult\nfor most people to afford meals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 510720,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Lots of people have had to cut back\non how much they eat a day,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "even instead of eating maybe three\ntimes a day, now it's once a day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 517400,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Lots of people can't afford to eat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 519520,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Cost of transportation have really\nspiked, and that was because one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 522800,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "of the first moves the president made\nwas to take out the fuel subsidy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 526480,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "Now, this subsidy ensured that the\ncost of fuel in the country was low,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 531760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "but it was taken out\nand it tripled the cost of fuel."
+        }
+      ]
+    },
+    {
+      "tStartMs": 534840,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "So that affected the cost\nof transportation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 537000,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and inevitably affected the cost\nof production in the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 540320,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So that has impacted many people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 543000,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "And lots of young people\nhave complained that they feel\nlike they need a sort of cushion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 548200,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "To be fair,\nthe government has, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551240,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "given allocation of funds,\nlittle funds to people and families,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 556400,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "especially those who have been\nmost affected, low income homes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 559520,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "But people are saying\nthat that hasn't been enough"
+        }
+      ]
+    },
+    {
+      "tStartMs": 562400,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "because even the middle class\nand even the upper class"
+        }
+      ]
+    },
+    {
+      "tStartMs": 565280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "are feeling the pains\nof how things are,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 567640,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "or have been in Nigeria,\nsince the new government took seat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 571360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Thanks so much Makuochi\nfor running us through that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 573520,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "It's really appreciated.\nThank you Mimi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 576200,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "That's it for this episode.\nThanks so much for watching."
+        }
+      ]
+    },
+    {
+      "tStartMs": 578800,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "This is What in the World from the BBC\nWorld Service, I'm Mimi Swaby. Bye."
+        }
+      ]
+    }
+  ]
+}

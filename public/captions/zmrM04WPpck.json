@@ -1,0 +1,2012 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 120,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "We won in the end.\nYou thought you'd won."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "You guys from the cities,\nfrom the coastal areas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 5960,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "you thought you were better than us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 8440,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "But actually,\nwe are very proud of our cowboy hats,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12160,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "our leather boots,\nour big belt buckles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15040,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Music videos looking something\nlike this, and sounding a bit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 17280,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "like this, are everywhere in Brazil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 20040,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Agronejo is a relatively new genre\nof music from Brazil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23400,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "It mixes funk and hip hop,\nand there's a lot of country,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and the music videos show farmers\nwith cowboy hats,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 29320,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "they've got expensive watches and\nthey're sitting on these bling tractors"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33080,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and they're getting millions\nof views online."
+        }
+      ]
+    },
+    {
+      "tStartMs": 35320,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "But behind the boots and the beats,\ncritics say that this isn't just music."
+        }
+      ]
+    },
+    {
+      "tStartMs": 39400,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "They say that the farming industry\nis using agronejo"
+        }
+      ]
+    },
+    {
+      "tStartMs": 42760,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "to paint an idealised vision\nof agriculture in Brazil"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46000,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "and to distract\nfrom its environmental impact."
+        }
+      ]
+    },
+    {
+      "tStartMs": 48400,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So that's what we're going to be digging\ninto today, the rise of agronejo and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52440,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "what it says about culture, climate\nchange and the Brazilian countryside."
+        }
+      ]
+    },
+    {
+      "tStartMs": 56680,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart, and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 63440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "And here with me in the studio\nto talk about this is Marco Silva,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 66560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "a BBC climate disinformation\nreporter. Hello."
+        }
+      ]
+    },
+    {
+      "tStartMs": 69240,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Welcome back.\nHello. Very glad to be back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 71440,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So you've done a documentary\non this subject."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74480,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "But to start off with, can you tell\nme a bit about agronejo, what"
+        }
+      ]
+    },
+    {
+      "tStartMs": 78400,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "the style is like and where it comes\nfrom, when it started to become big?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So agronejo is less\nthan a decade old,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 84600,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "so it's a quite recent genre,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87680,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "and it draws inspiration from sertanejo,\nwhich many people may be aware of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 92880,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "is the traditional country music\nin Brazil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 97360,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "Sertanejo is and has been\nhugely popular across the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101480,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "It's still the most streamed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 103600,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "most played genre\nacross radio stations in Brazil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 107400,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Sertanejo musicians\nwould have acoustic instruments,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 111080,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "have a certain melancholy\nto their music."
+        }
+      ]
+    },
+    {
+      "tStartMs": 115120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "A lot of stuff about,\na lot of songs about relationships."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118440,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "What agronejo does is draws"
+        }
+      ]
+    },
+    {
+      "tStartMs": 120800,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "from that inspiration,\nthat celebration of the countryside,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123480,
+      "dDurationMs": 6280,
+      "segs": [
+        {
+          "utf8": "of a rural life that was visible in\nsertanejo and gives it a modern twist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129760,
+      "dDurationMs": 6880,
+      "segs": [
+        {
+          "utf8": "So it combines that music style with\na pop, electronic, Brazilian funk,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 136640,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "more modern influences targeting\na younger audience."
+        }
+      ]
+    },
+    {
+      "tStartMs": 140120,
+      "dDurationMs": 6280,
+      "segs": [
+        {
+          "utf8": "And this blend of the old and the new\nis also translated into the visuals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146400,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So where sertanejo musicians used to,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 150120,
+      "dDurationMs": 7440,
+      "segs": [
+        {
+          "utf8": "you know, appear with white shirts or\njeans, their guitars, cowboy hats..."
+        }
+      ]
+    },
+    {
+      "tStartMs": 157560,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Accordians as well, they love\nan accordion and a triangle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 159920,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "That is true,\nthat is true, that is true."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162040,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "So, agronejo musicians,\nthey still have the cowboy hats,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 167920,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "the big belt buckles,\nthe leather boots."
+        }
+      ]
+    },
+    {
+      "tStartMs": 171120,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "They are still there. But then\nthey bring all these visual clues"
+        }
+      ]
+    },
+    {
+      "tStartMs": 174800,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "that you would perhaps associate\nwith other music genres."
+        }
+      ]
+    },
+    {
+      "tStartMs": 178360,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "For example, all the bling that\nyou'd see in hip hop is very visible"
+        }
+      ]
+    },
+    {
+      "tStartMs": 181560,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "in many of these music videos,\nthe sports jerseys as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 186120,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "So I interviewed one\nof the biggest names in the genre."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190840,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "It's a musical duo called Us Agroboy.\nThey started working in 2021,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197880,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "and they have since then become one\nof the biggest names within the genre."
+        }
+      ]
+    },
+    {
+      "tStartMs": 206320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "For a long time here in Brazil,\nanyone who wore boots and hats"
+        }
+      ]
+    },
+    {
+      "tStartMs": 209680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "in the big city was seen as bizarre,\nthe butt of a joke."
+        }
+      ]
+    },
+    {
+      "tStartMs": 213360,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Not anymore. Today, people are proud\nof being from the countryside,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217320,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and we really represent\nthat movement."
+        }
+      ]
+    },
+    {
+      "tStartMs": 219680,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "In the case of Us Agroboy,\nthey have millions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222640,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "of followers on streaming platforms."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Their videos...\n75 million views."
+        }
+      ]
+    },
+    {
+      "tStartMs": 228400,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "I saw on one of their YouTube videos,\n50 million on others."
+        }
+      ]
+    },
+    {
+      "tStartMs": 231480,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "That's right. So big,\nbig numbers on social media as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235840,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "So when you ask them, who are the people\nwho normally listen to your music,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 240160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "they will say, \"Well,\nwe're very popular in the interior\"."
+        }
+      ]
+    },
+    {
+      "tStartMs": 242880,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Brazil as you know,\nis a huge country, the interior,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 246920,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "a huge population there who turns this\nmusic as an expression of who they are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 252440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "The interior is basically all\nthat is not on the coast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 255080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Exactly.\nAnd that is most of Brazil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257520,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "I'm fascinated by this rural idyll,\nthis idealisation of rural life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 263200,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And that's one\nof the main themes in this music."
+        }
+      ]
+    },
+    {
+      "tStartMs": 265960,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And it's almost as if,\nlike with modernistion"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268440,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and the rise of urban life in Brazil,\npeople moved, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 271040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "towards a more urban ideal,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 274120,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "and it taps into this big divide\nthat's in Brazil right now"
+        }
+      ]
+    },
+    {
+      "tStartMs": 278480,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "between people living\nin the interior, the rural life,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283120,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and, you know,\nthe urban and coastal way of life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 286520,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Can you tell me a bit more about that\ndivide and the role of farming in it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 290520,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "This divide is a very big theme\nin agronejo songs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 294840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "It's something that comes up\nvery often."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297160,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "What agronejo does, is grabs\nthat feeling and says, \"You guys\","
+        }
+      ]
+    },
+    {
+      "tStartMs": 303240,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "the so-called \"city playboys\", which\nis a very strong image that appears"
+        }
+      ]
+    },
+    {
+      "tStartMs": 307080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "in many, many agronejo songs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 309600,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "the \"so-called city\" playboys."
+        }
+      ]
+    },
+    {
+      "tStartMs": 311760,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "\"You laughed at us.\nYou used to laugh at us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 314200,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "You looked down on us.\nYou thought we were worthless."
+        }
+      ]
+    },
+    {
+      "tStartMs": 317200,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "But look at us now,\nusing farming, using agriculture,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 322160,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "we managed to turn a small piece\nof land into wealth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326280,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "We are now big landowners.\nWe own property."
+        }
+      ]
+    },
+    {
+      "tStartMs": 329560,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "We have tractors,\nwe have clothes, we have the girls."
+        }
+      ]
+    },
+    {
+      "tStartMs": 333520,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And we won in the end.\nYou thought you'd won?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 336360,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "You guys from the cities,\nfrom the coastal areas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339640,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "You thought you were better than us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 342160,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "But actually,\nwe are very proud of our cowboy hats,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 345880,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "our leather boots,\nour big belt buckles.\""
+        }
+      ]
+    },
+    {
+      "tStartMs": 348080,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "It's like a rags to riches narrative.\nAbsolutely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 351400,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "But there are critics who say\nthat agronejo isn't just about music,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356200,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "it's actually marketing. Why is it\nthat some people think that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 361720,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "So it's complicated,\nwhat the critics of agronejo say that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 367320,
+      "dDurationMs": 9160,
+      "segs": [
+        {
+          "utf8": "fundamentally what agronejo does is,\nit provides a highly curated, idealised,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 376480,
+      "dDurationMs": 7800,
+      "segs": [
+        {
+          "utf8": "ideologically motivated version\nof what the agricultural universe is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 384280,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "They say it provides\na sanitised image of agriculture"
+        }
+      ]
+    },
+    {
+      "tStartMs": 388960,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "that doesn't take into account any\nof the negative stuff, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 393920,
+      "dDurationMs": 7400,
+      "segs": [
+        {
+          "utf8": "In that promoting this image\nof the agricultural industry"
+        }
+      ]
+    },
+    {
+      "tStartMs": 401320,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "in Brazil is useful\nfrom an economic point of view,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 404240,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "because the more positive the image is,\nperhaps from a political point of view,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 409640,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "more open people will be\nto supporting laws"
+        }
+      ]
+    },
+    {
+      "tStartMs": 414000,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "and regulations that are favourable\nto the industry and to the business."
+        }
+      ]
+    },
+    {
+      "tStartMs": 419080,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Which of course, you know, is highly\ndisputed by the musicians that are part"
+        }
+      ]
+    },
+    {
+      "tStartMs": 423040,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "of the genre and the companies\nthemselves who support the musicians."
+        }
+      ]
+    },
+    {
+      "tStartMs": 427880,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "How independent are the musicians\nfrom the farming industry?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 432040,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So it's important..."
+        }
+      ]
+    },
+    {
+      "tStartMs": 434440,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Before I answer that, I think it's\nimportant to just reflect a little bit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437200,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "on what the links are between them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 440040,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "So when I ask, for example, Us Agroboy,\nwhere they perform most of the time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445760,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "they said most of our shows happen\nat rodeos, which,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 449360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "by the way,\nare hugely popular in Brazil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 451520,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "It's something that I didn't know\nwhen I first approached the story."
+        }
+      ]
+    },
+    {
+      "tStartMs": 455360,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "They perform very often in rodeos,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457600,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "in trade shows\nfor the agricultural industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 462040,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Likewise, if you look\nat the music videos on YouTube"
+        }
+      ]
+    },
+    {
+      "tStartMs": 466320,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "for some of these musicians,\nnot all of them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469840,
+      "dDurationMs": 7280,
+      "segs": [
+        {
+          "utf8": "but you'll see that in some cases\nthese videos are sponsored by companies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477120,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "So at the very beginning,\nrather than having a YouTube ad,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 479880,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "you would have the logo\nof the company saying \"This"
+        }
+      ]
+    },
+    {
+      "tStartMs": 485160,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "music video was sponsored by this\nparticular agribusiness company.\""
+        }
+      ]
+    },
+    {
+      "tStartMs": 488880,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "What the critics say is, well,\nby paying, by sponsoring the shows,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493320,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "by sponsoring the videos effectively\nthe industry is channelling money"
+        }
+      ]
+    },
+    {
+      "tStartMs": 498200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "into a genre that they perceive\nas useful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 501600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "On the other hand,\nthe companies themselves would argue"
+        }
+      ]
+    },
+    {
+      "tStartMs": 505000,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "that sponsoring musicians or events\nthat are linked to their business"
+        }
+      ]
+    },
+    {
+      "tStartMs": 510760,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "or that are linked to their consumers\nis just good business, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514520,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "They will endorse musicians that\ncan showcase their products because,\nwell, guess what?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 519960,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "The people who will watch the music\nvideos might want to buy the tractor"
+        }
+      ]
+    },
+    {
+      "tStartMs": 523280,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "that they see on the video\nof an agronejo musician, for example."
+        }
+      ]
+    },
+    {
+      "tStartMs": 527040,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So we know that farming makes up\na huge amount of Brazil's industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 531000,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "I think it's about 22% of its GDP,\naccording to the World Bank."
+        }
+      ]
+    },
+    {
+      "tStartMs": 535080,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "But what's the environmental impact\nof agriculture in Brazil?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 538880,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "So to answer that, it's important\nto understand that Brazil is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 544600,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "according to data,\nBrazil is the sixth largest emitter"
+        }
+      ]
+    },
+    {
+      "tStartMs": 549800,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "of greenhouse gases around the globe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 552800,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Greenhouse gases, of course,\nwe're talking about carbon dioxide,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 556320,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "methane, essentially the gases\nthat are causing climate change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 562200,
+      "dDurationMs": 6640,
+      "segs": [
+        {
+          "utf8": "With that in mind, two thirds of the\nemissions of those gases in Brazil"
+        }
+      ]
+    },
+    {
+      "tStartMs": 568840,
+      "dDurationMs": 6760,
+      "segs": [
+        {
+          "utf8": "can be linked to agriculture\nand changes in the way land is used."
+        }
+      ]
+    },
+    {
+      "tStartMs": 575600,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And that means\nessentially deforestation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 578760,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And data also shows that\nin some parts of Brazil,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 582680,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "like the Amazon,\nup to 80% of the deforestation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 586720,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "in the Amazon can be linked\nto agricultural activities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 590960,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So fundamentally, we're talking\nabout chopping down trees"
+        }
+      ]
+    },
+    {
+      "tStartMs": 594360,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "to create land for crops\nor to create pasture for livestock."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600120,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Deforestation is a problem\nfor a couple of reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 602960,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "So on the one hand, trees act as a\ngreat way to deal with climate change"
+        }
+      ]
+    },
+    {
+      "tStartMs": 610320,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "in that they absorb carbon dioxide."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613600,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So when we chop trees,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 616280,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "when trees are brought down\nto release land for agriculture,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 620680,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "effectively what happens is,\nthat carbon dioxide,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 625000,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "either because the trees are burned\nor because they just decompose,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 628400,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "that carbon dioxide is again released\ninto the atmosphere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 632800,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "All the carbon dioxide that had been\nstored in the tree is released again"
+        }
+      ]
+    },
+    {
+      "tStartMs": 636800,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "into the atmosphere, further aggravating\nthe problem of climate change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 640600,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "You mentioned that this music\nhas been called quite selective"
+        }
+      ]
+    },
+    {
+      "tStartMs": 643800,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "in the vision that it shows\nof rural life in Brazil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 647360,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "When it comes to that selectivity,\nwhat is it missing out?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 650000,
+      "dDurationMs": 1320,
+      "segs": [
+        {
+          "utf8": "What's being omitted here?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 651320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "What the songs do is portray\nthe business"
+        }
+      ]
+    },
+    {
+      "tStartMs": 654680,
+      "dDurationMs": 7960,
+      "segs": [
+        {
+          "utf8": "as this way of making\nfarmers lives amazing, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 662640,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "\"Do engage with this industry\nand you'll get the wealth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 666680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "You'll get the land, you'll get the\ntractors, you'll get all these perks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 669480,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "And isn't it amazing?\" Agriculture,\nas it is often said in the songs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 674680,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "is the economic engine of Brazil,\nis what is really driving Brazil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 680760,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "But as you said, what is\nnot featured is perhaps what again,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 686040,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "as some academics, some critics describe\nas \"the darker side of the industry\"."
+        }
+      ]
+    },
+    {
+      "tStartMs": 689640,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "And this could be the environmental\nimpact, the impact that it has"
+        }
+      ]
+    },
+    {
+      "tStartMs": 695200,
+      "dDurationMs": 6920,
+      "segs": [
+        {
+          "utf8": "on climate change,\nthe links to poor working conditions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 702120,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Precarious work, land grabbing,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 706280,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "the impact that it's had\non the indigenous peoples of Brazil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 710240,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "So all of these aspects are\nsimply not mentioned in the songs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 716080,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And I took my time, of course, I\ndidn't listen to every single songs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 720160,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "but of all the time that\nI spent listening to these songs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 724440,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "I couldn't find a single song\nthat reflected on these points."
+        }
+      ]
+    },
+    {
+      "tStartMs": 729920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "What do the artists themselves say\nabout these criticisms?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 734160,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Have they responded to them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 735760,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Yeah, so I took the chance\nto put some of that criticism"
+        }
+      ]
+    },
+    {
+      "tStartMs": 739680,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "to Us Agroboy specifically."
+        }
+      ]
+    },
+    {
+      "tStartMs": 742640,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "I asked them whether they felt that\nthe portrayal of the agricultural sector"
+        }
+      ]
+    },
+    {
+      "tStartMs": 749200,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "in their lyrics, whether they felt\nthat it was accurate and complete."
+        }
+      ]
+    },
+    {
+      "tStartMs": 757320,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "It is completely faithful to reality."
+        }
+      ]
+    },
+    {
+      "tStartMs": 760000,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Because what drives Brazil today\nis agriculture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 763720,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "It is the rural worker\nwho gets up early,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 766640,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "blends soybeans and harvests coffee."
+        }
+      ]
+    },
+    {
+      "tStartMs": 770040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And when I put to them\nthe accusation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 775320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "an accusation that I've heard\nfrom some of their critics"
+        }
+      ]
+    },
+    {
+      "tStartMs": 777840,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "that effectively, what agronejo\nmusicians more widely are doing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 781600,
+      "dDurationMs": 7240,
+      "segs": [
+        {
+          "utf8": "is spreading propaganda, which is\na very heavy word for this industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 788840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "They again rejected that idea.\nThey said, \"just look, look"
+        }
+      ]
+    },
+    {
+      "tStartMs": 792160,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "at the name of our duo.\"\nOur name is US Agroboy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 797280,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "We don't need to do paid propaganda.\nWe do it for free."
+        }
+      ]
+    },
+    {
+      "tStartMs": 800680,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "We celebrate agriculture.\nWe're from the countryside."
+        }
+      ]
+    },
+    {
+      "tStartMs": 803920,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "We don't need to be paid to do this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 806280,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "It's important to say\nthat when I spoke to one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 809680,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "of the leading industry bodies\nin Brazil about this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 814600,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "an association called the\nBrazilian Agribusiness Association,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 818240,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "and they said that agriculture is\npart of Brazilian culture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 823560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "They say supporting\ncultural manifestations such"
+        }
+      ]
+    },
+    {
+      "tStartMs": 827000,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "as agronejo makes sense."
+        }
+      ]
+    },
+    {
+      "tStartMs": 830920,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "It's a legitimate way\nof acknowledging and strengthening"
+        }
+      ]
+    },
+    {
+      "tStartMs": 834000,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "that part of our identity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 837000,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "They say that agronejo,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 839320,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "like any other cultural expression,\ncan't offer all perspectives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 842720,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "It offers one. But of course, that\nthe debate should still be happening."
+        }
+      ]
+    },
+    {
+      "tStartMs": 847560,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Marco, I'm going to be listening\nto a lot of agronejo this weekend,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 850480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and I'm going\nto be paying a special attention"
+        }
+      ]
+    },
+    {
+      "tStartMs": 853040,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "to the lyrics, because now\nI understand the deeper perspective,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 855400,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "the debate that's actually going on\nunderneath the surface."
+        }
+      ]
+    },
+    {
+      "tStartMs": 858640,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "Absolutely, absolutely.\nAs you should."
+        }
+      ]
+    },
+    {
+      "tStartMs": 860280,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Thank you so much.\nThank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 862560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Well, that's it for today.\nThank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 864680,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "If you've enjoyed this episode,\ndrop us a comment below."
+        }
+      ]
+    },
+    {
+      "tStartMs": 867400,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "You can also find us on WhatsApp.\nWe're on Instagram @bbcwhatintheworld."
+        }
+      ]
+    },
+    {
+      "tStartMs": 871920,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart. This is What in\nthe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 875320,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And we'll see you next time."
+        }
+      ]
+    }
+  ]
+}

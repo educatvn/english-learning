@@ -1,0 +1,1405 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Hey, it's Hannah and this is What\nin the World, your podcast"
+    } ]
+  }, {
+    "tStartMs": 2960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "for the stories that get people\ntalking from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 6240,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Today we're talking about Venezuela\nand its relationship with the US."
+    } ]
+  }, {
+    "tStartMs": 10000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "President Donald Trump is worried about\ndrugs being trafficked into America."
+    } ]
+  }, {
+    "tStartMs": 13760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So he's been trying\nto stop the cartels,"
+    } ]
+  }, {
+    "tStartMs": 15920,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "the gangs that make them\nand the boats that transport them."
+    } ]
+  }, {
+    "tStartMs": 19000,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And in the past few months,\nhe's taken this even further."
+    } ]
+  }, {
+    "tStartMs": 21520,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "He's been bombing boats\nin the Caribbean"
+    } ]
+  }, {
+    "tStartMs": 23560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "that he says are carrying drugs\nfrom Venezuela."
+    } ]
+  }, {
+    "tStartMs": 26520,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "These strikes\nhave killed many people on board."
+    } ]
+  }, {
+    "tStartMs": 29120,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And President Trump also has accused\nVenezuela's leader, Nicolás Maduro"
+    } ]
+  }, {
+    "tStartMs": 33040,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "of leading a drug cartel.\nVenezuela denies this"
+    } ]
+  }, {
+    "tStartMs": 36520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and says it's got nothing to do\nwith drugs going into the US."
+    } ]
+  }, {
+    "tStartMs": 39640,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Now, Trump and Maduro don't get on."
+    } ]
+  }, {
+    "tStartMs": 41720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Maduro says that the US wants\nhis government to collapse,"
+    } ]
+  }, {
+    "tStartMs": 44120,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and he's deliberately stirring up\ntensions by having"
+    } ]
+  }, {
+    "tStartMs": 46680,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "US military ships in the area."
+    } ]
+  }, {
+    "tStartMs": 48880,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "We're going to bring you the background\non why all of this is happening,"
+    } ]
+  }, {
+    "tStartMs": 52360,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "what things are like in Venezuela"
+    } ]
+  }, {
+    "tStartMs": 54360,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and what its relationship is like\nwith the US."
+    } ]
+  }, {
+    "tStartMs": 62680,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "To break all of this down for us here\nin the studio with me is Mimi Swaby,"
+    } ]
+  }, {
+    "tStartMs": 66440,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "our global affairs reporter. Hey.\nHey, Hannah."
+    } ]
+  }, {
+    "tStartMs": 68920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So, you know loads about Latin\nAmerica and obviously Venezuela is"
+    } ]
+  }, {
+    "tStartMs": 71720,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "in South America.\nIt's a pretty big country."
+    } ]
+  }, {
+    "tStartMs": 74280,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "It's about the size of Nigeria, but\nit has been in crisis for many years."
+    } ]
+  }, {
+    "tStartMs": 79800,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "How many people live there and\nhow many people have left Venezuela?"
+    } ]
+  }, {
+    "tStartMs": 83880,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So it's thought right now the population\nis around 28.5 million people."
+    } ]
+  }, {
+    "tStartMs": 88000,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Although having an actual census\nis quite difficult,"
+    } ]
+  }, {
+    "tStartMs": 91400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "that number seems to vary quite a lot\ndepending on who you're speaking to."
+    } ]
+  }, {
+    "tStartMs": 94800,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "But one thing we know for a fact is\nthat since"
+    } ]
+  }, {
+    "tStartMs": 97280,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Nicolas Maduro, the current leader\nof Venezuela, took power in 2013,"
+    } ]
+  }, {
+    "tStartMs": 102040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "more than eight million Venezuelans\nhave fled the country."
+    } ]
+  }, {
+    "tStartMs": 105880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "The majority of them have relocated\nsomewhere else in Latin America."
+    } ]
+  }, {
+    "tStartMs": 109320,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Some have also gone to Europe.\nSpain, for example."
+    } ]
+  }, {
+    "tStartMs": 112080,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "What was it that caused this crisis,"
+    } ]
+  }, {
+    "tStartMs": 114560,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and what's it like\nfor the people who are still there?"
+    } ]
+  }, {
+    "tStartMs": 116560,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So there's been about four decades\nof economic turmoil in Venezuela."
+    } ]
+  }, {
+    "tStartMs": 120960,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "There's been mismanagement through\nbad economic policies by the government,"
+    } ]
+  }, {
+    "tStartMs": 125560,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "as well as sanctions from the US\non their key exports."
+    } ]
+  }, {
+    "tStartMs": 130640,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And this has been coupled\nwith corruption scandals"
+    } ]
+  }, {
+    "tStartMs": 133200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and political repression,\nwhich has really come together"
+    } ]
+  }, {
+    "tStartMs": 136320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and formed a political\nand economic and humanitarian crises."
+    } ]
+  }, {
+    "tStartMs": 140480,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And we're seeing that now with\ninflation this year, it's about 180%."
+    } ]
+  }, {
+    "tStartMs": 144880,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "So really high prices and\nvery uncertain times when it comes"
+    } ]
+  }, {
+    "tStartMs": 149600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "to going to the supermarket\nand buying your daily necessities."
+    } ]
+  }, {
+    "tStartMs": 153400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So you've got kind of the lingering\neffects of the Covid 19 pandemic,"
+    } ]
+  }, {
+    "tStartMs": 156840,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "kind of coupled with this political\nand economic persecution."
+    } ]
+  }, {
+    "tStartMs": 161040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "We've got economic\nsanctions by the US"
+    } ]
+  }, {
+    "tStartMs": 163280,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "on oil and gas,\nVenezuela's biggest exports."
+    } ]
+  }, {
+    "tStartMs": 166680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So day to day life is very hard\nand increasingly expensive."
+    } ]
+  }, {
+    "tStartMs": 170280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So talking of all of these problems\nwith the economy, the inflation"
+    } ]
+  }, {
+    "tStartMs": 173800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and how difficult the cost of living\nis for people there, it's interesting"
+    } ]
+  }, {
+    "tStartMs": 177240,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "because Venezuela is actually a very\nrich country when it comes to oil."
+    } ]
+  }, {
+    "tStartMs": 180840,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Venezuela is home to the largest\noil reserves in the whole world,"
+    } ]
+  }, {
+    "tStartMs": 184640,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "and it's very valuable."
+    } ]
+  }, {
+    "tStartMs": 186000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "However, Venezuela doesn't\nreally benefit as much as it could do"
+    } ]
+  }, {
+    "tStartMs": 189920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "from having such large oil reserves."
+    } ]
+  }, {
+    "tStartMs": 192000,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Firstly, because it has sanctions\nin place on these exports,"
+    } ]
+  }, {
+    "tStartMs": 195320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "sanctions basically limit how much\noil Venezuela can export to anybody."
+    } ]
+  }, {
+    "tStartMs": 199880,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Now the US has imposed\nthese sanctions."
+    } ]
+  }, {
+    "tStartMs": 201640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "However, the US is actually\n- it has the kind"
+    } ]
+  }, {
+    "tStartMs": 204640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "of only really active oil company\nin Venezuela called Chevron."
+    } ]
+  }, {
+    "tStartMs": 208320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "However, it is\nvery much controlling that industry."
+    } ]
+  }, {
+    "tStartMs": 210960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So Venezuela\ncan't kind of make the most of it."
+    } ]
+  }, {
+    "tStartMs": 213400,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And this has kind of really plagued\nthe economy."
+    } ]
+  }, {
+    "tStartMs": 217680,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Venezuela is very rich in oil and gas\nand other minerals"
+    } ]
+  }, {
+    "tStartMs": 221160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "like gold and diamonds\nand really precious stones."
+    } ]
+  }, {
+    "tStartMs": 224200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So it could,\nif these sanctions weren't in place,"
+    } ]
+  }, {
+    "tStartMs": 226600,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "if the government\nhadn't mismanaged the economy,"
+    } ]
+  }, {
+    "tStartMs": 230480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and if oil price prices\nhadn't nosedived when they did,"
+    } ]
+  }, {
+    "tStartMs": 234320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "it could be a really wealthy country."
+    } ]
+  }, {
+    "tStartMs": 236480,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "But all these factors combined\ntogether mean that having so much oil"
+    } ]
+  }, {
+    "tStartMs": 240320,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and having the means to be\na very wealthy country"
+    } ]
+  }, {
+    "tStartMs": 242920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "doesn't really mean a lot\nif you can't access it."
+    } ]
+  }, {
+    "tStartMs": 245560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "You mentioned that the US has massive\nstakes in Venezuela's crude oil trade."
+    } ]
+  }, {
+    "tStartMs": 250280,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "What has the relationship been like\nhistorically between the two countries?"
+    } ]
+  }, {
+    "tStartMs": 254240,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So firstly,\nrelations between the US"
+    } ]
+  }, {
+    "tStartMs": 257440,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and Venezuela have really\nsharply deteriorated this year."
+    } ]
+  }, {
+    "tStartMs": 261320,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "But these frosty relations have\nbeen ongoing now for a few decades."
+    } ]
+  }, {
+    "tStartMs": 265880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Before Nicolas Maduro's predecessor,\nHugo Chávez, came to power."
+    } ]
+  }, {
+    "tStartMs": 269960,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Caracas and Washington\nlargely maintained"
+    } ]
+  }, {
+    "tStartMs": 272680,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "quite close economic ties\nand good relations."
+    } ]
+  }, {
+    "tStartMs": 275080,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "The US invested heavily in the oil\nsector in the early 20th century,"
+    } ]
+  }, {
+    "tStartMs": 279360,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "and by the mid 1920s the US had become\nthe biggest market for Venezuelan oil."
+    } ]
+  }, {
+    "tStartMs": 285040,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "However, this did change when"
+    } ]
+  }, {
+    "tStartMs": 287240,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Hugo Chávez, Nicolás\nMaduro's predecessor, came to power."
+    } ]
+  }, {
+    "tStartMs": 291080,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "He is a left wing - well he was\na left wing president, just"
+    } ]
+  }, {
+    "tStartMs": 294400,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "like Nicolás Maduro, and he saw the\nstart of hostilities come into play."
+    } ]
+  }, {
+    "tStartMs": 300760,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "So the US and Venezuela ties\ndeteriorated as Venezuela strengthened"
+    } ]
+  }, {
+    "tStartMs": 305680,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "its ties with China and Cuba and Iran\nand Venezuela expelled US backed NGOs"
+    } ]
+  }, {
+    "tStartMs": 311400,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "and accused Washington of trying to\ndestabilise its efforts and its economy."
+    } ]
+  }, {
+    "tStartMs": 317240,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "The Chavez government really focused\non social programmes"
+    } ]
+  }, {
+    "tStartMs": 321440,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and trying\nto equally distribute wealth."
+    } ]
+  }, {
+    "tStartMs": 324440,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And there was an attempted coup plot,\nbasically,"
+    } ]
+  }, {
+    "tStartMs": 327120,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and this was blamed on the US."
+    } ]
+  }, {
+    "tStartMs": 329440,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "And that really lay the foundation for\ndeep distrust by Venezuela of the US."
+    } ]
+  }, {
+    "tStartMs": 334840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And this only kind of was exaggerated\n- this only grew,"
+    } ]
+  }, {
+    "tStartMs": 339320,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "when Nicolás Maduro came\nto power in 2013,"
+    } ]
+  }, {
+    "tStartMs": 342000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and his terms have\nreally been plagued from the start"
+    } ]
+  }, {
+    "tStartMs": 345600,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "with economic destruction, decline,\ncorruption scandals"
+    } ]
+  }, {
+    "tStartMs": 349960,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and then again worsening\nrelationships with the US."
+    } ]
+  }, {
+    "tStartMs": 352560,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "So they've never been good."
+    } ]
+  }, {
+    "tStartMs": 353840,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "But analysts are saying the relationship\nright now between President Trump"
+    } ]
+  }, {
+    "tStartMs": 358200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and Nicolás Maduro are the worst\nthey've been in decades."
+    } ]
+  }, {
+    "tStartMs": 362040,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And is it mainly\nbecause of their political views?"
+    } ]
+  }, {
+    "tStartMs": 364520,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "They basically represent different\nparts of the political spectrum."
+    } ]
+  }, {
+    "tStartMs": 367720,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "But it does go further than that. It\ngoes further than Maduro's policies,"
+    } ]
+  }, {
+    "tStartMs": 371360,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "which kind of really focus\non trying to distribute wealth"
+    } ]
+  }, {
+    "tStartMs": 375320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and trying to nationalize lots\nof industries,"
+    } ]
+  }, {
+    "tStartMs": 377840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "as well as kind of government sectors\nand things like that."
+    } ]
+  }, {
+    "tStartMs": 381320,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Nicolás Maduro has been accused\nof running a drug cartel,"
+    } ]
+  }, {
+    "tStartMs": 384760,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "according to\nthe Trump administration."
+    } ]
+  }, {
+    "tStartMs": 387120,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "This cartel is called\ncartel de Los soles."
+    } ]
+  }, {
+    "tStartMs": 389520,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Now, some critics say\nthis cartel doesn't even exist."
+    } ]
+  }, {
+    "tStartMs": 392480,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "And that is exactly what\nthe Venezuelan government have said."
+    } ]
+  }, {
+    "tStartMs": 394600,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "They said this is all a hoax."
+    } ]
+  }, {
+    "tStartMs": 395960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And President Trump doesn't\nactually recognise Nicolas Maduro"
+    } ]
+  }, {
+    "tStartMs": 399360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "as a democratically\nelected leader either."
+    } ]
+  }, {
+    "tStartMs": 401840,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "No he doesn't."
+    } ]
+  }, {
+    "tStartMs": 402600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So last year's election was seen\nas not free or fair by many people."
+    } ]
+  }, {
+    "tStartMs": 407640,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And the US,\nalongside many other nations,"
+    } ]
+  }, {
+    "tStartMs": 410080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "don't view Nicolás Maduro\nas the rightful winner."
+    } ]
+  }, {
+    "tStartMs": 412840,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It's thought that he stole the\nelection and he declared a victory"
+    } ]
+  }, {
+    "tStartMs": 415440,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "when actually the opposition,\nled by María Corina Machado, won"
+    } ]
+  }, {
+    "tStartMs": 419240,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and won by quite a lot\nif you look at some polls."
+    } ]
+  }, {
+    "tStartMs": 422400,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "This has again put kind of fuel\non the fire"
+    } ]
+  }, {
+    "tStartMs": 425680,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and really heated the conversation."
+    } ]
+  }, {
+    "tStartMs": 428040,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I want to go back to the attacks\non the boats that I mentioned."
+    } ]
+  }, {
+    "tStartMs": 431120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So they started in September."
+    } ]
+  }, {
+    "tStartMs": 433920,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "The Trump administration says\nthat it's striking these boats"
+    } ]
+  }, {
+    "tStartMs": 437480,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "because it alleges that\nthey're carrying Venezuelan drugs."
+    } ]
+  }, {
+    "tStartMs": 441680,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Tell me a bit more\nabout the drug trade in Venezuela"
+    } ]
+  }, {
+    "tStartMs": 444360,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and what kind of problems\nthat potentially poses for the US."
+    } ]
+  }, {
+    "tStartMs": 448160,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So there is definitely\na flow of drugs"
+    } ]
+  }, {
+    "tStartMs": 450760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "in Venezuela going from Venezuela\nto the US or to Europe."
+    } ]
+  }, {
+    "tStartMs": 454680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "However, Venezuela plays quite\na minimal part in the drug trade."
+    } ]
+  }, {
+    "tStartMs": 458680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "You have Colombia, Peru. They are\nthe main producers of cocaine."
+    } ]
+  }, {
+    "tStartMs": 463560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "But Venezuela will see flights,\nships, kind of transport"
+    } ]
+  }, {
+    "tStartMs": 467640,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "by land and\nthe government is aware of that."
+    } ]
+  }, {
+    "tStartMs": 469840,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "They've actually said,\nMaduro's government has said,"
+    } ]
+  }, {
+    "tStartMs": 471960,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "that they are trying to crack down\non drugs flowing through the country."
+    } ]
+  }, {
+    "tStartMs": 475840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "However, it is not a producer\nof cocaine or fentanyl"
+    } ]
+  }, {
+    "tStartMs": 478960,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and these are two drugs that\nthe US has particularly focused on."
+    } ]
+  }, {
+    "tStartMs": 482760,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "And that has been kind of the reason\nthat we've seen so many deadly strikes"
+    } ]
+  }, {
+    "tStartMs": 488720,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "in the South Caribbean Sea as well as\nthe Pacific Ocean,"
+    } ]
+  }, {
+    "tStartMs": 491880,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and it's, interestingly,\nthe Pacific Ocean, so"
+    } ]
+  }, {
+    "tStartMs": 494040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "the other side of South America,"
+    } ]
+  }, {
+    "tStartMs": 496160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "that is the bigger trade route."
+    } ]
+  }, {
+    "tStartMs": 498960,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "That is where we see the majority\nof drugs flow to, again,"
+    } ]
+  }, {
+    "tStartMs": 502880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "the US or to Europe,\nthat South Caribbean Sea."
+    } ]
+  }, {
+    "tStartMs": 505760,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Yes, there is\na small trade happening there,"
+    } ]
+  }, {
+    "tStartMs": 508000,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "but nothing comparatively compared\nto Colombia"
+    } ]
+  }, {
+    "tStartMs": 511320,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "or even going by land to Mexico."
+    } ]
+  }, {
+    "tStartMs": 514240,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "But the Trump administration has taken a\nvery strong and aggressive approach,"
+    } ]
+  }, {
+    "tStartMs": 519160,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and they've kind of designated now\ntwo criminal groups,"
+    } ]
+  }, {
+    "tStartMs": 523920,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "tren de aragua\nand the cartel de Los soles,"
+    } ]
+  }, {
+    "tStartMs": 526840,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "as foreign terrorist organisations."
+    } ]
+  }, {
+    "tStartMs": 529400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "And that basically means and\ngives the US more power to undergo"
+    } ]
+  }, {
+    "tStartMs": 533960,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and do more lethal, deadly strikes."
+    } ]
+  }, {
+    "tStartMs": 536720,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So that's really interesting.\nIf Venezuela isn't actually"
+    } ]
+  }, {
+    "tStartMs": 539400,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "responsible for the bulk of the drugs\nthat are being pushed into the US."
+    } ]
+  }, {
+    "tStartMs": 543480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And as you say, that there are other\nboats coming on the Pacific side and"
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "of course, drugs\nbeing transported by land as well."
+    } ]
+  }, {
+    "tStartMs": 549320,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Has any evidence\nof drug trafficking been found"
+    } ]
+  }, {
+    "tStartMs": 552200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "on any of the boats\nthat were attacked?"
+    } ]
+  }, {
+    "tStartMs": 554440,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So it's really important\nto say there has been"
+    } ]
+  }, {
+    "tStartMs": 556800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "no evidence given by the US\nfor any of these strikes."
+    } ]
+  }, {
+    "tStartMs": 560720,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "And we know that more than 80 people\nhave been killed in strikes"
+    } ]
+  }, {
+    "tStartMs": 563800,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "since early September\non various vessels,"
+    } ]
+  }, {
+    "tStartMs": 565880,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "which they say are carrying drugs.\nThere should be a court process."
+    } ]
+  }, {
+    "tStartMs": 569360,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "That is what many critics are saying,"
+    } ]
+  }, {
+    "tStartMs": 571400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "that if you think these individuals\nare carrying drugs again,"
+    } ]
+  }, {
+    "tStartMs": 573960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "which you haven't shown any evidence\nfor, they should be tried in court"
+    } ]
+  }, {
+    "tStartMs": 576960,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and are given a fair process."
+    } ]
+  }, {
+    "tStartMs": 579000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "However, all the evidence\nhas essentially been destroyed."
+    } ]
+  }, {
+    "tStartMs": 581640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's been blown up in these strikes,"
+    } ]
+  }, {
+    "tStartMs": 583640,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and this hasn't gone down well\nwith Venezuela, as you can imagine,"
+    } ]
+  }, {
+    "tStartMs": 587440,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and many of its neighbors,\nColombia's President Gustavo Petro,"
+    } ]
+  }, {
+    "tStartMs": 590520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "has been very vocal in saying\nhe doesn't support Nicolás Maduro,"
+    } ]
+  }, {
+    "tStartMs": 594360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "but he wants peaceful negotiations."
+    } ]
+  }, {
+    "tStartMs": 597560,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "He wants peaceful transition\nif Nicolás Maduro is to step down"
+    } ]
+  }, {
+    "tStartMs": 600480,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "from power, he doesn't see these\nstrikes, these very deadly strikes,"
+    } ]
+  }, {
+    "tStartMs": 604160,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "as the option, as they say\nthey could be committing war crimes."
+    } ]
+  }, {
+    "tStartMs": 607520,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "So we know that Trump wants to see\na different leader in Venezuela."
+    } ]
+  }, {
+    "tStartMs": 612760,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "There's this possibility\nof military intervention."
+    } ]
+  }, {
+    "tStartMs": 615560,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "The two countries\njust don't get along."
+    } ]
+  }, {
+    "tStartMs": 617920,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "But what do Venezuelans feel\nabout all of this?"
+    } ]
+  }, {
+    "tStartMs": 620880,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Yes. It's no secret that the US wants\nto oust Maduro from government -\na new leader come in."
+    } ]
+  }, {
+    "tStartMs": 625680,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "The top American diplomat has previously\ncalled Maduro a horrible dictator."
+    } ]
+  }, {
+    "tStartMs": 630560,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "However, it's more nuanced on that\nin Venezuela."
+    } ]
+  }, {
+    "tStartMs": 635440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "It now appears that the majority\nof Venezuelans who don't support"
+    } ]
+  }, {
+    "tStartMs": 639600,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Nicolás Maduro are actually backing\na US military intervention,"
+    } ]
+  }, {
+    "tStartMs": 643800,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "because they see that now as the\nonly option to remove him from power."
+    } ]
+  }, {
+    "tStartMs": 647640,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So we've seen strikes in the sea,"
+    } ]
+  }, {
+    "tStartMs": 650000,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "but there is talk now of strikes\nhappening on land and covert operations,"
+    } ]
+  }, {
+    "tStartMs": 654360,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "like undercover operations happening\ninside Venezuela."
+    } ]
+  }, {
+    "tStartMs": 657760,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "That is obviously a huge escalation\nand like a step forward"
+    } ]
+  }, {
+    "tStartMs": 662640,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "to a full blown kind of military war."
+    } ]
+  }, {
+    "tStartMs": 665320,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "However, it's also\nreally important to note"
+    } ]
+  }, {
+    "tStartMs": 667720,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "that Nicolás Maduro\nstill has supporters."
+    } ]
+  }, {
+    "tStartMs": 670280,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "We've seen this recently, and he's held\nmany rallies trying to kind of galvanise"
+    } ]
+  }, {
+    "tStartMs": 675000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "and unite people against\nthis US aggression, as he calls it."
+    } ]
+  }, {
+    "tStartMs": 679200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And he's been singing\nand dancing at rallies, trying to get\npeople to come together."
+    } ]
+  }, {
+    "tStartMs": 683400,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And there has been\nreasonable turnouts."
+    } ]
+  }, {
+    "tStartMs": 685480,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "We've seen many people flood the\nstreets of Caracas and other cities"
+    } ]
+  }, {
+    "tStartMs": 689880,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "in Venezuela, showing their support\nfor Nicolás Maduro,"
+    } ]
+  }, {
+    "tStartMs": 693640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "the Venezuelan opposition leader,\nMaría Corina Machado,"
+    } ]
+  }, {
+    "tStartMs": 697000,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "she has backed Mr. Trump's intervention,\nmilitary intervention, in Venezuela."
+    } ]
+  }, {
+    "tStartMs": 702360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "She has wholeheartedly said\nI back the strikes happening"
+    } ]
+  }, {
+    "tStartMs": 705320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and see that kind of the greater good\n- she sees that"
+    } ]
+  }, {
+    "tStartMs": 707600,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "as the necessary means to get\nto power herself."
+    } ]
+  }, {
+    "tStartMs": 712040,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "However, there are kind of different\nfactions of the opposition party"
+    } ]
+  }, {
+    "tStartMs": 716400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "in Venezuela who aren't fully\non board with the strikes."
+    } ]
+  }, {
+    "tStartMs": 719600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "They don't see this\nas the ultimate way"
+    } ]
+  }, {
+    "tStartMs": 722200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "or the best way of getting\nMaduro to step down from power."
+    } ]
+  }, {
+    "tStartMs": 725760,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "And this is something\nthat Maduro will not want."
+    } ]
+  }, {
+    "tStartMs": 727880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "His kind of approach at the moment\nhas been to hold on to power,"
+    } ]
+  }, {
+    "tStartMs": 731960,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "to kind of hunker down\nand hope that Mr."
+    } ]
+  }, {
+    "tStartMs": 734320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Trump doesn't escalate this further,\nthat he doesn't do these strikes."
+    } ]
+  }, {
+    "tStartMs": 737520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "As for him, it seems that there aren't\nany kind of safe exits anymore."
+    } ]
+  }, {
+    "tStartMs": 741680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Yeah. So Nicolás Maduro is not\nshowing any signs of stepping down."
+    } ]
+  }, {
+    "tStartMs": 745360,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And these tensions\nwith Donald Trump"
+    } ]
+  }, {
+    "tStartMs": 747560,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "just aren't going\nto go away any time soon."
+    } ]
+  }, {
+    "tStartMs": 750080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Mimi, thank you so much. Thank you.\nThat's it from us."
+    } ]
+  }, {
+    "tStartMs": 752640,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "But there are lots of updates on\nthis story on the BBC news website."
+    } ]
+  }, {
+    "tStartMs": 755680,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And we know that loads\nof you speak Spanish, so do check out"
+    } ]
+  }, {
+    "tStartMs": 758280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "what BBC Mundo has written\nabout this too."
+    } ]
+  }, {
+    "tStartMs": 761640,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And you can check out more\nof our episodes\nwherever you get your BBC podcasts,"
+    } ]
+  }, {
+    "tStartMs": 764840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "or right here on\nBBC World Service YouTube channel."
+    } ]
+  }, {
+    "tStartMs": 767840,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "While you're here,\ndrop us a like, share, subscribe"
+    } ]
+  }, {
+    "tStartMs": 770440,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and please leave us a comment\nwith your thoughts below."
+    } ]
+  }, {
+    "tStartMs": 772560,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "I'm Hannah, this is What in the World\nfrom the BBC World Service\nand we'll see you next time."
+    } ]
+  } ]
+}

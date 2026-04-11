@@ -1,0 +1,2363 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 0,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "What is the evidence that we\nare getting more allergic to stuff?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 4920,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "The research does show that yeah,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 6920,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "we are getting more allergic\nto things, unfortunately,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and essentially these are some\nof the broad factors."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16000,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Having these 50 plus allergies\nimpacts my life every single day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19920,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "For starters, I have\nto constantly have the fear that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21920,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "anything I can eat can make me react\nand become allergic to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 27040,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart, and I'm here\nwith Frances Mao, a BBC journalist,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 30520,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and we're talking about allergies\nbecause it seems that people are getting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33160,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "more and more allergic to stuff.\nOr are we just more aware of it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 36880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Well, today you're going to hear why\nallergies are becoming more common."
+        }
+      ]
+    },
+    {
+      "tStartMs": 40240,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And we're going to look\nat some of these new treatments that\nare being trialled around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 44160,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "What actually is an allergy and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46320,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "what causes your body to react in\nthose quite extreme ways sometimes?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 50280,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "What makes an allergy, an allergy,\nas opposed to an intolerance,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55200,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "is that your immune system -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57720,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "for whatever reason - has recognised\nit to be a harm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62800,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So the first time\nthat you've been exposed to this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 66880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "your immune system\nhas actually triggered -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 70040,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and I'm not going to go into the, the\nbiological sciencey chemical thing,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74080,
+      "dDurationMs": 1160,
+      "segs": [
+        {
+          "utf8": "because I'll likely get that wrong."
+        }
+      ]
+    },
+    {
+      "tStartMs": 75240,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "But essentially it's triggered\nthese cells that have then instructed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 80640,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "your body to create these antibodies\nto fight this threat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 87040,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "And so those agents, if we go\nwith that, they stick in your body"
+        }
+      ]
+    },
+    {
+      "tStartMs": 93200,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "and then the next time you're exposed\nto that threatening thing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 97640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "again, they go and attack it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99800,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "And that creates, you know,\nthings like welts on your body,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 104040,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "a rash, lower blood pressure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 106880,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "You might start to have\ndifficulty breathing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 110120,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Those are the sort of things that\nwe see from, like an allergy attack"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113120,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "or a really extreme allergy reaction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 115800,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And if untreated,\nthat can obviously really be\nquite actually life threatening."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120200,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Is it like a malfunction\nof your immune system because you say"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123720,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "it's a perceived threat, like peanuts\naren't really going to kill you,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127120,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "but your body thinks that they are\nreally, really dangerous."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So it's going to put up all\nof its defences to make sure\nthat they don't attack you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 132840,
+      "dDurationMs": 920,
+      "segs": [
+        {
+          "utf8": "Is that what's going on?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 133760,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Exactly. So like as\nthe researchers I spoke to told me,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137440,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "it's your immune system\nactually going wrong,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 139720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "like your immune system\nis recognising something is wrong."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142840,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "But that's a that's a mistake\nthat your immune system is making."
+        }
+      ]
+    },
+    {
+      "tStartMs": 147200,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Which are some of\nthe more common allergies globally?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 150440,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Yeah. So obviously,\nyou know, you just mentioned peanuts"
+        }
+      ]
+    },
+    {
+      "tStartMs": 153800,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and food allergies are obviously one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "that, you know - we talked\nabout restaurants that's kind of like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 159240,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "the most prominent common\neveryday allergy that people have."
+        }
+      ]
+    },
+    {
+      "tStartMs": 164640,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "However, the most common allergy really\nis respiratory allergies, so pollen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 172000,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So that is, you know, being allergic\nto things like, grass or dust"
+        }
+      ]
+    },
+    {
+      "tStartMs": 176880,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "or other things in the atmosphere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 181040,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "It also affects something like\n400 million people worldwide. Yes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 185120,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So, so obviously that's a huge burden\non just healthcare systems everywhere"
+        }
+      ]
+    },
+    {
+      "tStartMs": 189240,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and also kind of hard to contain\nand manage, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 192080,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Because it's the environment\nthat you're in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Yes, you can choose what you want\nto eat and what you don't want to eat\nin a restaurant,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "but you can't really choose the air\nyou're breathing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 200080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Or should we say, you know, there are\nthings that you can do, like wear a mask"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202600,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and stuff, but it's a lot,\nit's a lot harder."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205080,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Absolutely.\nFrancis, you're from Australia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 207280,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "which has been called\nthe allergy capital of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 210280,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Is it, like super obvious? What's it\nlike when you go out to a restaurant?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 214320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Australia's termed the allergy\ncapital of the world because,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "due to the research and\nthe data that shows that almost one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 220320,
+      "dDurationMs": 7760,
+      "segs": [
+        {
+          "utf8": "in ten infants - so\n10% of early childhood and babies,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228080,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "have marked a allergy and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231520,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "often that's a food allergy\nor a respiratory allergy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235000,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "But that's a really high percentage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 237160,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "And that does drop off once they're\na bit older,  around, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242680,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "like age six or so,\nit goes down to about 6%."
+        }
+      ]
+    },
+    {
+      "tStartMs": 246120,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "And then as an adult it goes down\nto like 3%. So I think\nthat's where that term comes from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 250720,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So you wouldn't really see it out\nat restaurants."
+        }
+      ]
+    },
+    {
+      "tStartMs": 254720,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "I don't think\nthat hay fever rates, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 257440,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "among the general adult population\nare necessarily much higher\nthan the rest of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261640,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "But certainly when it comes\nto marking allergies in infants,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265920,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Australia does have\na particularly high rate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 268160,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "What is the evidence that we\nare getting more allergic to stuff?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 272880,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Yes. So unfortunately\nthe research does show that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 277280,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "yes, we are getting more allergic\nto things, unfortunately."
+        }
+      ]
+    },
+    {
+      "tStartMs": 283320,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And there are a few different factors"
+        }
+      ]
+    },
+    {
+      "tStartMs": 286120,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "and we're still grappling with\nwhat the exact factors are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 290560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And we're still,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 292680,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "you know - researchers and scientists\nare still doing a range of, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 297240,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "specific data sets and surveys\nto identify this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 300480,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "But essentially these are some\nof the broad factors. Okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304040,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So, increasing urbanisation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 306440,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "So, you know, certainly\nin many Western developed countries,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311120,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "you know, like more people live\nin cities, they're away from,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 313840,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "like kind of more rural,\nregional areas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 318240,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "where they might have been\nmore exposed to, I guess,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 321920,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "in like less built up environments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 324600,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "So we're not rolling around\nin the mud anymore."
+        }
+      ]
+    },
+    {
+      "tStartMs": 325960,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Yeah, exactly.\nNot as much as we used to, actually."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328280,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Yeah. Sort of like, we're not - Yes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 331040,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "No dirt.\nNo dirt. Less dirt. Different types."
+        }
+      ]
+    },
+    {
+      "tStartMs": 334240,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "We're too clean.\nClean is another bit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 336680,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So like there's also\nthe hygiene hypothesis."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339400,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Right. We are just\nin a more clean society."
+        }
+      ]
+    },
+    {
+      "tStartMs": 342320,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "But does that also mean - and it\nseems so though that you know infants,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347080,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "when you're first exposed to that -\nor they're having,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 349160,
+      "dDurationMs": 7240,
+      "segs": [
+        {
+          "utf8": "they're being less exposed to that\nmicrobiome, which has good bacteria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 356400,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So that is also one of the factors,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 359120,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "but then also lifestyle factors,\nyou know, things like diet,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 363400,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "changing diets and the other thing\nwhich is really interesting too,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 367440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and not to kind of drill\ninto the niche of it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 369960,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "but, you know, we're a more,\nglobal society too, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 373680,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So people live\nin different environments"
+        }
+      ]
+    },
+    {
+      "tStartMs": 375680,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "to the ones\nnot only that they were born in,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 378040,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "but also the ones which, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 380280,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "perhaps their genetic predisposition\nis used to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 384040,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "And to go back to what I was saying,\nthe most common allergy is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 389400,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "you know, pollen and respiratory."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391400,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "And that is really tied to - that\nresearchers found - to the environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396560,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So sometimes it's like\nwhat your heritage is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 400360,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "or what your genetic predisposition,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 402400,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "it's not super suited to the environment\nin which your family may have moved to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 408040,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And you can see that actually\nin some of the studies in Australia"
+        }
+      ]
+    },
+    {
+      "tStartMs": 411800,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "where, really interestingly enough,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 416560,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "babies and kids\nwho were born in Australia"
+        }
+      ]
+    },
+    {
+      "tStartMs": 421720,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "but come from, say,\ncountries in Asia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426360,
+      "dDurationMs": 8360,
+      "segs": [
+        {
+          "utf8": "they have a higher rate of allergies\nthan kids from Caucasian backgrounds"
+        }
+      ]
+    },
+    {
+      "tStartMs": 434720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "in Australia or\nindigenous backgrounds in Australia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 437320,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "However, the same research found\nthat kids who were born in Asia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 442880,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and spent their first few years\nin Asia, and then moved to Australia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 446280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "they don't have\nthe same higher rates."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448920,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "It think it's Australia.\nI would say it's Australia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 454320,
+      "dDurationMs": 200,
+      "segs": [
+        {
+          "utf8": "It could be Australia too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 454520,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "A really interesting allergy\nin Australia, very common"
+        }
+      ]
+    },
+    {
+      "tStartMs": 456840,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "in the southern states is an allergy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 461040,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "where there's a lot\nof allergic reaction actually"
+        }
+      ]
+    },
+    {
+      "tStartMs": 465280,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "to this ant called the jumping\njack ant or the jack jumper ant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 470840,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "That's a big problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 472760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Really? What kind of reaction\ndoes it cause?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 474840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Similar to like a bee\nor wasp reaction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Yes. And that's definitely\nan Australia problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 480440,
+      "dDurationMs": 1080,
+      "segs": [
+        {
+          "utf8": "Yeah yeah yeah yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 481520,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So Frances, what is it\nabout Australia in particular"
+        }
+      ]
+    },
+    {
+      "tStartMs": 484360,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "that is making people more allergic?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 486920,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Is it particularly clean?\nAre there just no germs there?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 489840,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "I don't think it's a case of,\nyou know, there being fewer germs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496720,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Again, referring\nto what I was saying earlier"
+        }
+      ]
+    },
+    {
+      "tStartMs": 499080,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "about there being\ndifferent environmental factors."
+        }
+      ]
+    },
+    {
+      "tStartMs": 502560,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "One thing that, you know,\nresearchers have identified is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 508800,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "certainly the levels of vitamin D."
+        }
+      ]
+    },
+    {
+      "tStartMs": 514640,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "There's some suggestions from some\nof the research that just, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 518040,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "being less exposed to the sun."
+        }
+      ]
+    },
+    {
+      "tStartMs": 520400,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "You know, we're more inside,\nas a culture and societies"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527560,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and just not receiving\nas much sunlight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 529760,
+      "dDurationMs": 6440,
+      "segs": [
+        {
+          "utf8": "That could be linked to kind of higher\nrates of allergies, for some allergies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 536200,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "But similarly,\nthere was also"
+        }
+      ]
+    },
+    {
+      "tStartMs": 538320,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "this one particular study\nwhich seemed to indicate a link"
+        }
+      ]
+    },
+    {
+      "tStartMs": 543520,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "between vitamin D levels\nto peanut allergies in particular."
+        }
+      ]
+    },
+    {
+      "tStartMs": 547560,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Keeping with this, like,\n'why are we getting more allergic"
+        }
+      ]
+    },
+    {
+      "tStartMs": 549560,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "to stuff?'\nAre allergies getting more severe?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 552840,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "Are there more allergies\nor are we just more aware of it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 556960,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "Sure, yes.\nThere is - a slight factor is, yes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 562120,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "as societies we are more aware\nof allergies and intolerances"
+        }
+      ]
+    },
+    {
+      "tStartMs": 567160,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and so we're reporting\nand recording this more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 570400,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "However, the weight of the research\nand evidence does show that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 573960,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "due to those factors\nI outlined earlier, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 576520,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "where it's different environments,\nwe're a more cleaner society,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 580880,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "there's more sterilisation going on,\nnot only\nare we reporting more allergies,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585560,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "but unfortunately\nallergies are getting worse too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 589560,
+      "dDurationMs": 7000,
+      "segs": [
+        {
+          "utf8": "And we can't actually pinpoint\nthe one factor or the one reason why."
+        }
+      ]
+    },
+    {
+      "tStartMs": 596560,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And having an allergy can be really,\nreally serious."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598800,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "Even fatal, as you say."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600160,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So now let's hear from someone who\nis suffering from various allergies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 604280,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "This is Mia and she's from the US.\nI live with over 50 food allergies"
+        }
+      ]
+    },
+    {
+      "tStartMs": 607960,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and I've had these allergies\nmy entire life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 610480,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "My 50 plus allergies include all nuts\nand their oils."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613680,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "All seeds except\nfor sunflower seed oil,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 616760,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and also all seed oils\nexcept for sunflower seed oil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 619600,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "I'm allergic to eggs\nunless it's cooked in a cake."
+        }
+      ]
+    },
+    {
+      "tStartMs": 623640,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "That's the only form I can have it\nin right now - any other form,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 627120,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I can go into\na life threatening reaction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 630000,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Dairy, I'm allergic to dairy completely.\nI'm allergic to all fish except"
+        }
+      ]
+    },
+    {
+      "tStartMs": 634040,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "for cooked tuna and cooked codfish\nand I'm allergic to all shellfish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 639280,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "And having these 50 plus allergies\nimpacts my life every single day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 643520,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "For starters, I have to constantly\nhave the fear that anything I can eat"
+        }
+      ]
+    },
+    {
+      "tStartMs": 646400,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "can make me react\nand become allergic to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 648480,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "So constantly living\nin fear is something\nthat I experience on a daily basis."
+        }
+      ]
+    },
+    {
+      "tStartMs": 652960,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "In addition to that, anything\nthat the average person has to do,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 656160,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "I do that too, but always\nadding allergies into that mix."
+        }
+      ]
+    },
+    {
+      "tStartMs": 659600,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "So when it comes to going\nto restaurants, having to call ahead"
+        }
+      ]
+    },
+    {
+      "tStartMs": 661680,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "of time, talk to the manager,\ntalk to the chef,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 663800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "make sure that\nthe restaurant can accommodate me,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 666600,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "that they can make me something safe\nand use protocols to prevent any sort"
+        }
+      ]
+    },
+    {
+      "tStartMs": 670880,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "of risk of\nany allergens touching my dish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 673360,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "When it comes to socialising,\nit can be kind of hard sometimes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 676000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "because I want make sure that\nmy friends don't feel inconvenienced"
+        }
+      ]
+    },
+    {
+      "tStartMs": 679360,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "or feel like I'm being a burden. So,\nyou know, when it comes to going out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 682760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "to dinner with my friends, my friends\nusually let me pick the restaurant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 685240,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And I do have a list\nof restaurants that I usually go to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 688520,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "For example, I go to school\nin New York City, so I have a list"
+        }
+      ]
+    },
+    {
+      "tStartMs": 690640,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "of ten restaurants\nthat I usually find,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 692920,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "like good,\nand are safe and accommodating."
+        }
+      ]
+    },
+    {
+      "tStartMs": 695480,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "In addition to that,\nwhen it comes to going out to parties"
+        }
+      ]
+    },
+    {
+      "tStartMs": 697640,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and functions, I usually either bring\nmy own safe food,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 700840,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "or I will either eat before\nor after the event,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 703360,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "because most\nof the time when we go to an event"
+        }
+      ]
+    },
+    {
+      "tStartMs": 705720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "or a party, there's not really\nany safe options for me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 708360,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "It's not easy\nto have these allergies, you know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 710880,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "While I try to put put online my\npositive experiences that I do have,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 714920,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "I also will show the parts that aren't\npositive, that are really hard."
+        }
+      ]
+    },
+    {
+      "tStartMs": 718440,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "You know, I constantly live in fear,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 722040,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "and I'm very anxious a lot\nof the time when I eat out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 725640,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "And, you know, I think that having\nallergies is very emotionally taxing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 731160,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Frances, there have been\nsome really tragic cases of children"
+        }
+      ]
+    },
+    {
+      "tStartMs": 734040,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and young people\nwho have died from allergies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 736640,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Sesame seeds, peanuts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 738920,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "What can be done to try\nto mitigate that risk?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 741960,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "The advice always is, you know,\nonce diagnosed, just to keep that -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 746720,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "whether it's an EpiPen or\nwhatever - like adrenaline based form"
+        }
+      ]
+    },
+    {
+      "tStartMs": 750400,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "to try and combat those symptoms\nyou may be having."
+        }
+      ]
+    },
+    {
+      "tStartMs": 754240,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "If you if you are triggered into\nattack to kind of always have that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 757480,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "on you and around you and also\nobviously to try and avoid that food."
+        }
+      ]
+    },
+    {
+      "tStartMs": 761160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "But you know,\nit's not the perfect solution, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 763600,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "In my research on this and talking to\na lot of the doctors and scientists,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 768720,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "part of the reason\nwhy they're doing so much research"
+        }
+      ]
+    },
+    {
+      "tStartMs": 771400,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "into how to tackle allergies -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 774480,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "because this isn't a new phenomenon\neither - is, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 780480,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "it's dismaying\nfor them to only advise people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 783680,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "or to only advise parents\nwhen they're telling them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 786880,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "that 'your child has\nthis predisposition to this allergy'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 791520,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "You know, it's a bit dismaying to be\nlike, 'all you can do is avoid this food"
+        }
+      ]
+    },
+    {
+      "tStartMs": 795240,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "for the rest of your life'\nand carry that around with you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 798240,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "There are also these really interesting,\npioneering treatments that are coming"
+        }
+      ]
+    },
+    {
+      "tStartMs": 801160,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "out of Australia that might be able\nto help our bodies prepare"
+        }
+      ]
+    },
+    {
+      "tStartMs": 805800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "not to have allergic reactions\nin the first place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 807880,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "I read about one that's kind of\nlike peanut butter therapy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 810240,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Yeah, yeah.\nSo it's really interesting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 813720,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and they've done a lot of work on it\nin the past, like year or two years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 817800,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and they're kind of rolling it out\nin a national trial."
+        }
+      ]
+    },
+    {
+      "tStartMs": 820280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It's been led by the Murdoch Children's\nResearch Institute, which is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 822920,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "a very pioneering children's research\nbody, based in Melbourne in Australia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 828640,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And essentially it's basically a form\nof immunotherapy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 832440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "There's been a lot of willingness\nfrom parents wanting to participate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 835600,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "in this trial, which essentially\nis identifying babies or infants,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 841840,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "like very early on\n- I think it starts around"
+        }
+      ]
+    },
+    {
+      "tStartMs": 844920,
+      "dDurationMs": 6960,
+      "segs": [
+        {
+          "utf8": "like 12 weeks, actually - who\nwho do have this allergy to peanuts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 851880,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "And then in a very formulated, careful\nway, they're having small dosages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 858080,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "of peanut dust or peanut powder\nadministered to them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 863560,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And it's just kind of\nslowly introducing peanut to them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 867960,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And that can increase those dosages\nover weeks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 871800,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "This is so interesting.\nSo instead of, like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 873840,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "avoiding the allergen,\nit's 'how do we get your body used"
+        }
+      ]
+    },
+    {
+      "tStartMs": 876840,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "to it, little by little?'\nExactly. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 879080,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "So they're directly introducing it to\nto the infants."
+        }
+      ]
+    },
+    {
+      "tStartMs": 884800,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Obviously huge caveat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 887080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "This is definitely a don't do it\nat home sort of thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 890280,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "It goes wrong -\nAbsolutely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 891720,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And, and there have been some\nfrom me speaking to the researchers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 895560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "at this institute, there\nhave been some reactions, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 898240,
+      "dDurationMs": 6640,
+      "segs": [
+        {
+          "utf8": "both in hospital settings and at home\nfrom the people who've been tested."
+        }
+      ]
+    },
+    {
+      "tStartMs": 904880,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "However - and it's early days - but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 907480,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "the results\nso far have shown been promising."
+        }
+      ]
+    },
+    {
+      "tStartMs": 910960,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Well, we will watch this space and see\nwhat the outcome of these trials are,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 913720,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "because it could be potentially life\nchanging for people with allergies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 917400,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Frances, thank you so much\nfor coming on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 919600,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "Thanks so much for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 920880,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And thank you for listening.\nI'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 923040,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "This is what in the world\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 925040,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And we will be back with another\nepisode soon. See you then. Bye."
+        }
+      ]
+    }
+  ]
+}

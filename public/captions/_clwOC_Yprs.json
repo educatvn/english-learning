@@ -1,0 +1,2759 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 440,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": " \nHello. It's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2000,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And this is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 5240,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Going to the zoo to see a lion\nor tiger or a giraffe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 8280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "can be awesome for us humans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 10520,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "But what's it like for the animals?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "What kind of impact\ndoes it have on them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 14640,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "That is what we're going to be diving\ninto today,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 16960,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "as we ask, should zoos exist?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 23800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Here to talk us through it\nis our resident animal expert,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26600,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "William Lee Adams,\nfrom the What in the World team. Hey."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28760,
+      "dDurationMs": 880,
+      "segs": [
+        {
+          "utf8": "Hi, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 29640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "First of all, can you give me\na brief history of zoos?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 32680,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Like, where did the idea come from?\nSure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 34960,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "So I think we need to start\nwith a concept."
+        }
+      ]
+    },
+    {
+      "tStartMs": 37040,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And that's man's control of nature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 39240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "If you look\nat ancient art from Mesopotamia"
+        }
+      ]
+    },
+    {
+      "tStartMs": 41760,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "or modern day Iraq, Greece, China,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 44200,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and even through to the 18th and 19th\ncentury portraiture in England"
+        }
+      ]
+    },
+    {
+      "tStartMs": 47720,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "and France, you see royals, emperors,\nrulers killing animals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52640,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "This is to say I have authority."
+        }
+      ]
+    },
+    {
+      "tStartMs": 54320,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "If I can kill a bear,\nthen I can protect my people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 57440,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "But then what if you keep the bear\nalive. What if you collect them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 61040,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "That kind of creates\na different narrative."
+        }
+      ]
+    },
+    {
+      "tStartMs": 63720,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Here you see it as a source of strength,\nsaying, we're wealthy, we have power."
+        }
+      ]
+    },
+    {
+      "tStartMs": 67760,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "We can exchange these\nas gifts to other nations."
+        }
+      ]
+    },
+    {
+      "tStartMs": 70520,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "So in the 13th century, here\nin England, King Henry the Third,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74080,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "he received a polar bear\nfrom the King of Norway."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77080,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "He received three lions\nfrom the Holy Roman Emperor,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 80440,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and later he came into the possession\nof an African elephant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 83400,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "All of these were stored\nat the Tower of London,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85440,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "creating sort\nof a personal menagerie."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88000,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And I need to point out, it's not\njust male rulers who are doing this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 91640,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "If you look at Queen Charlotte,\nshe famously had a collection"
+        }
+      ]
+    },
+    {
+      "tStartMs": 94800,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "of 18 kangaroos she kept\nnear her cottage at Kew,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 98760,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and her love of animals was so famous\nthat actually,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 102160,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "in Bridgerton, the Netflix series,\nshe was portrayed fictionally."
+        }
+      ]
+    },
+    {
+      "tStartMs": 105600,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "And you saw her zebras."
+        }
+      ]
+    },
+    {
+      "tStartMs": 106880,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "She must have had a big cottage to fit\nin 20 kangaroos, massive paddocks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 110600,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "We still see that idea, don't we?\nLike panda diplomacy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113440,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "the idea of countries giving\nother countries animals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116800,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "But that's not what I think of\nwhen I think of zoos today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 119280,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "I think of kind of animals in cages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 121280,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "How did that concept evolve\ninto what we have today?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125160,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Sure. So a very canned history\nwould be in the late 18th century"
+        }
+      ]
+    },
+    {
+      "tStartMs": 129360,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "you had a zoo open in Austria. The\npublic wanted to learn about animals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133120,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Then you had the French Revolution."
+        }
+      ]
+    },
+    {
+      "tStartMs": 134720,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "You had revolutionaries ransacking\nthe palaces of the king,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "the queen, aristocrats,\nand taking some of these animals"
+        }
+      ]
+    },
+    {
+      "tStartMs": 140600,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "to create a public zoo.\nThis is considered by many,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 143760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "along with the London Zoo,\nthe world's first modern zoo."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Now, by 2025 standards, it's not"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149480,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "modern. Animals were kept in cages,\nthey were given very little room."
+        }
+      ]
+    },
+    {
+      "tStartMs": 153440,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "There was very little acknowledgement\nof their emotions, of their feelings."
+        }
+      ]
+    },
+    {
+      "tStartMs": 157920,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "They were there as exhibits,\nas if in a museum,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "like the skeletal remains\nof a dinosaur, for people to look at,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164000,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "for human curiosity.\nThen you have World War Two."
+        }
+      ]
+    },
+    {
+      "tStartMs": 167400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "People become more aware\nof animal welfare"
+        }
+      ]
+    },
+    {
+      "tStartMs": 170160,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "after seeing so many zoos destroyed,\nand that was a huge turning point."
+        }
+      ]
+    },
+    {
+      "tStartMs": 174560,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "It raised awareness\nabout the fact that animals feel,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 177320,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "animals suffer\nand animals endure trauma,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179760,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "and that has led to a full spate of\ndifferent types of zoos, urban zoos,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 184000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "petting zoos, safari parks where\nyou drive through game reserves,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187360,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "where ecosystems are protected\nand illegal hunting is not allowed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190680,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "How many people visit zoos nowadays?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193840,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Like how popular are they?\nSo the Association of Zoos"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197240,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and Aquariums,\nthey're based in the United States."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199600,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "They say there are\nmore than 10,000 zoos"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202640,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and they're visited by\n700 million people a year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So if there are eight billion people\nin the world, that's around one out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 208960,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "of every 11, one out of every 12 people\non earth visiting a zoo every year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 213400,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Now, I should point out that these\nestimates are very hard to come by."
+        }
+      ]
+    },
+    {
+      "tStartMs": 216920,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "The fact is,\npeople define zoos in different ways."
+        }
+      ]
+    },
+    {
+      "tStartMs": 219280,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "You have public zoos, you have\nurban zoos, you have petting zoos,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "you have circus like roadside\nattractions, you have aquariums."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226040,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Some people don't count aquariums if\nthey're not connected to a formal zoo."
+        }
+      ]
+    },
+    {
+      "tStartMs": 229640,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "It's very,\nvery grey and difficult to define."
+        }
+      ]
+    },
+    {
+      "tStartMs": 232120,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "But one source I found,\nthe World Population Review."
+        }
+      ]
+    },
+    {
+      "tStartMs": 234680,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "They say that the United States has\nthe most zoos, 350, followed by Germany"
+        }
+      ]
+    },
+    {
+      "tStartMs": 239360,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "interestingly,\nwith around 316,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 241440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "I believe,  Europe accounts for about\nhalf of all the zoos in the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 244720,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "You touched on education. What\nare some of the other big reasons"
+        }
+      ]
+    },
+    {
+      "tStartMs": 247160,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "that people think\nthat zoos should exist?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249480,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "Yes, indeed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 250520,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Education is the primary reason that\nzoos give for why they should exist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 254480,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "The fact is, school children all over\nthe world are often bussed to zoos."
+        }
+      ]
+    },
+    {
+      "tStartMs": 258160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "I remember\nmyself going to see lowland gorillas"
+        }
+      ]
+    },
+    {
+      "tStartMs": 260600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "at Zoo Atlanta every single year, and\nthe point of this was to introduce us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 264560,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "to conservation.\nWe heard the animal stories."
+        }
+      ]
+    },
+    {
+      "tStartMs": 266720,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "We started to learn\nwhy animals are endangered,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 269480,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "and zoos were inspiring young people\nto respect nature, to love nature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 274520,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "A second point is\nthat zoos often invest"
+        }
+      ]
+    },
+    {
+      "tStartMs": 277280,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "in research programs\nthat help endangered animals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280040,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "Now, as we know, pandas are\nnotoriously reluctant to mate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 284960,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Um, the women have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 287000,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Sorry. The female pandas have\na narrow window of fertility."
+        }
+      ]
+    },
+    {
+      "tStartMs": 290440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "They're solitary creatures,\nand it takes two"
+        }
+      ]
+    },
+    {
+      "tStartMs": 293080,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "to tango when it comes\nto reproduction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 295120,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "But a lot of money in zoos,\nit goes to sort of find ways"
+        }
+      ]
+    },
+    {
+      "tStartMs": 298320,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "to encourage these animals to mate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 301080,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "A third reason that zoos give is\nthat they actually contribute funds"
+        }
+      ]
+    },
+    {
+      "tStartMs": 305440,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "to breeding programs, which can help\nreintroduce animals to the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 309680,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "A famous example would be\nthe Arabian oryx."
+        }
+      ]
+    },
+    {
+      "tStartMs": 313000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "This is a type of antelope\nthat's native to Saudi Arabia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 316040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "on the Arabian Peninsula\nand neighboring countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 318800,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "It actually went extinct in the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 321040,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "But in the 1970s, because of\nsuccessful zoo breeding programs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 324600,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "it was reintroduced into the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 327160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "And the last point we often hear\nis conservation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 330160,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "The fact is, many zoos skim some\nof their profits, or they raise money"
+        }
+      ]
+    },
+    {
+      "tStartMs": 334080,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "in other ways to contribute\nto wildlife conservation abroad,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 337480,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "in countries that can't always afford\nto do it themselves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 340000,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "What does conservation funding\nactually look like in practice?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 343600,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Well, actually, I spoke to someone about\nthat very topic. This is Tonya Lander."
+        }
+      ]
+    },
+    {
+      "tStartMs": 348040,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "She's a lecturer in biology\nat the University of Oxford."
+        }
+      ]
+    },
+    {
+      "tStartMs": 351400,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "I think they do play\nan important role in conservation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 353720,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "whether they're providing a venue\nthat inspires the next generation\nof conservationists,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 358600,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "or whether they're actually actively\nsupporting researchers in the field,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 362440,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "or whether they're maintaining captive\npopulations of endangered species"
+        }
+      ]
+    },
+    {
+      "tStartMs": 366840,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and helping them to hopefully one day\nbe introduced."
+        }
+      ]
+    },
+    {
+      "tStartMs": 369320,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And there are actually\nreally nice examples"
+        }
+      ]
+    },
+    {
+      "tStartMs": 371520,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "of reintroduction projects\nthat have happened."
+        }
+      ]
+    },
+    {
+      "tStartMs": 373720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "The most famous,\nof course, is the California condor,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 376280,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "where the San Diego Zoo took the\npopulation of only 23 in the wild,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 380960,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "and now there are more than 400\nin the wild,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 383040,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "over the course of the last 40 years\nof conservation efforts from that zoo."
+        }
+      ]
+    },
+    {
+      "tStartMs": 387120,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "And then another one is\nthe golden lion tamarin,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 390480,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "where they were critically endangered\nin the wild. Then,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 393840,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "through a joint project between the\nSmithsonian and Brazilian researchers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 398400,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "they've managed to significantly\nincrease the wild population,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 402480,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "but also have helped to push forward\nthe protection of a big area of habitat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406840,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So there is evidence that\nzoos have helped with conservation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410960,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "with endangered species, education."
+        }
+      ]
+    },
+    {
+      "tStartMs": 413920,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Lots of young schoolchildren go\nand visit them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 416600,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and maybe that'll be\ntheir first interaction"
+        }
+      ]
+    },
+    {
+      "tStartMs": 419080,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "with these kind of animals,\neven if they're not in the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 421960,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So that can be a really educational,\ninspirational experience."
+        }
+      ]
+    },
+    {
+      "tStartMs": 425920,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "But now we're going to hear some\nof the arguments against zoos."
+        }
+      ]
+    },
+    {
+      "tStartMs": 429520,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "First of all,\nthis is Nikita, who is 19 and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 432840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "she's an animal rights activist\nfrom India."
+        }
+      ]
+    },
+    {
+      "tStartMs": 435160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So I don't think zoos should exist\nfor several reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 438160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "The first one being zoos' detrimental\nimpact on both the physical"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441680,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and psychological health of animals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 443880,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Many studies and research have shown\nthat many animals in zoos"
+        }
+      ]
+    },
+    {
+      "tStartMs": 447280,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "and aquariums display\nabnormal behaviours like head bobbing,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 450880,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "pacing, stereotypical behaviors,\nsigns of mental distress."
+        }
+      ]
+    },
+    {
+      "tStartMs": 454640,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "The second reason, I would say,\nis that zoos cannot mimic"
+        }
+      ]
+    },
+    {
+      "tStartMs": 458200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "the natural habitat of animals\nin the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 461120,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "The primary example is space.\nThe fourth point."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463600,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "The third point, I would say, is that\nzoos are not always conservational tools"
+        }
+      ]
+    },
+    {
+      "tStartMs": 467440,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "like believed reports by Born Free,\nand many other studies show"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "that only ten to 25% of animals,\nat least in the UK,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 474920,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "are in captivity or actually on\nthe IUCN Red list. The rest of them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 480160,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "more than half of them, are actually\non the least concerned section."
+        }
+      ]
+    },
+    {
+      "tStartMs": 482960,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So the money is not going\ntowards conservation, it's going more"
+        }
+      ]
+    },
+    {
+      "tStartMs": 485680,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "towards profit driven schemes.\nSo, Hannah, as you heard from Nikita"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488760,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "passions run really high and there\nare countless arguments against zoos,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "but I want to isolate\nthe three most common."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "The first is entertainment.\nThere are a lot of people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 498600,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "who do not think animals should\nbe used as forms of entertainment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 502120,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "They are taken from the wild or indeed\nbred in captivity to serve humans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 506880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Again, a continuation\nof this idea of animals as a"
+        }
+      ]
+    },
+    {
+      "tStartMs": 509960,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "as a curiosity for human enjoyment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 512200,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Sometimes you'll see\nroadside animal attractions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514880,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "where animals are made to do tricks\nand pose for photographs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 518520,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "That would not happen in the wild,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 520840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and people therefore say it is wrong.\nIndeed, the training of tricks"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524280,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "if an elephant is painting with its\ntrunk, that's not natural behaviour."
+        }
+      ]
+    },
+    {
+      "tStartMs": 528120,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And it was often taught that through\ncruel means, such as electrocution."
+        }
+      ]
+    },
+    {
+      "tStartMs": 532160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "The second argument I want to cite\nis profit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 534880,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "As Nikita hinted at,\nthere are questions over"
+        }
+      ]
+    },
+    {
+      "tStartMs": 537120,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "how funds that zoos receive\nare allocated."
+        }
+      ]
+    },
+    {
+      "tStartMs": 540160,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "One large scale study here in the UK\nfound that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 542640,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "of the 13 most progressive zoos,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 544960,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "they were only using\nfour to 6.7% of their gross income,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 549400,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "that's total money before taxes and\ndeductions, on conservation projects."
+        }
+      ]
+    },
+    {
+      "tStartMs": 553840,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "The third reason, and perhaps the one\nthat upsets people the most,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 557680,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "certainly if you look\non social media, is animal welfare,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 560560,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "the treatment of animals\nwho are often kept in cages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 563720,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "that in no way reflect what life\nthey would have in the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 567840,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "For instance, a polar bear\nwhich is native to the Arctic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 571480,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Should that be kept in the temperate,\nwarm climate of Arizona,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 575480,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "where it has to rely\non a swimming pool to cool off?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 579040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "These are the types\nof questions that concern people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 581800,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "What are the telltale signs\nthat an animal may be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 584560,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "in distress\nif they're kept in an enclosure?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 587080,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "So zoologists often talk about\nstereotypic behaviour or zoochosis."
+        }
+      ]
+    },
+    {
+      "tStartMs": 592960,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "And this is the physical manifestation\nof psychological stress."
+        }
+      ]
+    },
+    {
+      "tStartMs": 597160,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "These are behaviours\nthat are habitual, repeated and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 600280,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "they don't seem to serve any purpose."
+        }
+      ]
+    },
+    {
+      "tStartMs": 602440,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "For instance, a bear\nmight do its head like this revolve."
+        }
+      ]
+    },
+    {
+      "tStartMs": 606280,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "An elephant might stand in place\nand sway side to side."
+        }
+      ]
+    },
+    {
+      "tStartMs": 610480,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "You have giraffes biting bars,\nknowing it's not going to give them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 614040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "any nutrition, any food,\nbut they habitually bite it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 617000,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And then you have self-harming behaviour,\nripping out your own feathers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 621440,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "Animals will mutilate themselves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 623360,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "They'll bite their tails repeatedly,\nthey will bite their limbs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 627240,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "And again, polar bears in a pool,\nthey'll just swim"
+        }
+      ]
+    },
+    {
+      "tStartMs": 629520,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "in a circle or an outline shape."
+        }
+      ]
+    },
+    {
+      "tStartMs": 631960,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Some zoologists have compared this\nto sort of PTSD,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 635800,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "where you have a traumatic event\nthat leads to trauma later,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 639680,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "but it goes further, they say,\nand it's where"
+        }
+      ]
+    },
+    {
+      "tStartMs": 642640,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "the water you swim in, the air\nyou breathe, that becomes your trauma"
+        }
+      ]
+    },
+    {
+      "tStartMs": 645800,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "because it's the repeated trauma\nof just existing in these conditions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 649680,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So I want to find out a little bit\nnow about about the future of zoos"
+        }
+      ]
+    },
+    {
+      "tStartMs": 653400,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "and whether zoos might exist\nas we know them in the future?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 658160,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "Sure. Um, it's a tricky one because\nthe term zoo encapsulates so much and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 663920,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "there's so much variance and quality\nbetween zoos, country to country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 667000,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "But even within a country\nor in the United States,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 669400,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "even within a particular state."
+        }
+      ]
+    },
+    {
+      "tStartMs": 671680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "But I think\none thing we can point to is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 673760,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "that the most well funded zoos are often\nthe leaders in terms of evolving,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 678400,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and there may be a business motive\nbehind that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680400,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "for instance,\nthe Singapore Zoo is world famous."
+        }
+      ]
+    },
+    {
+      "tStartMs": 682960,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "It is held up\nas one of the best zoos in the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 686040,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "It has a sort of a tropical rainforest\ndesign, an open air concept, where"
+        }
+      ]
+    },
+    {
+      "tStartMs": 691360,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "you create habitats for the animals\nthat are larger than at other zoos."
+        }
+      ]
+    },
+    {
+      "tStartMs": 695520,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "Um, for instance,\nthey have a Great Rift Valley that\nmimics the conditions in Ethiopia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 701360,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And there you see ibexes,\nyou see baboons,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 705040,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "you see special multispecies areas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 707840,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "There's a forest they have\nwhere they have lemurs living"
+        }
+      ]
+    },
+    {
+      "tStartMs": 710320,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "alongside butterflies, living alongside\nsloths as they would in nature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 715360,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Um, instead of cages, you have moats."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717640,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And these moats sort of reflect natural\nboundaries you might see in nature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 721120,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Or an animal says, whoa,\nI stop at the water."
+        }
+      ]
+    },
+    {
+      "tStartMs": 723760,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "So it mimics,\nyou know, nature itself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 725920,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "And people\nare often put further back, they're"
+        }
+      ]
+    },
+    {
+      "tStartMs": 728800,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "on sort of elevated walkways that are\nout of view."
+        }
+      ]
+    },
+    {
+      "tStartMs": 731800,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "There's further distance."
+        }
+      ]
+    },
+    {
+      "tStartMs": 733840,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "There's that evolution\nthat's already happening."
+        }
+      ]
+    },
+    {
+      "tStartMs": 736600,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Um, but there are many different ways\nyou can think of the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 739280,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And I actually spoke\nwith one animal welfare advocate,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 742600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "this is Delcianna Winders from\nthe Vermont Law and Graduate School."
+        }
+      ]
+    },
+    {
+      "tStartMs": 746560,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "The reality is that zoos do exist and\nthat we have a massive overpopulation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 753120,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "of captive wild animals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 755200,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "And so the question is really\nwhat model should zoos be using"
+        }
+      ]
+    },
+    {
+      "tStartMs": 761040,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "and zoos should evolve to move\ntowards a sanctuary setup."
+        }
+      ]
+    },
+    {
+      "tStartMs": 766440,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "So a situation\nwhere they can provide lifetime care"
+        }
+      ]
+    },
+    {
+      "tStartMs": 770920,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "in the best possible circumstances\nfor captive wildlife"
+        }
+      ]
+    },
+    {
+      "tStartMs": 774800,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "who cannot be released into the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 778200,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "So they will move away from breeding\nand capturing animals from the wild"
+        }
+      ]
+    },
+    {
+      "tStartMs": 782880,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "to instead provide care for those\nwho are already here with us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 788200,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "And that would include providing\nthe best possible circumstances"
+        }
+      ]
+    },
+    {
+      "tStartMs": 792840,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "for so-called surplus animals\nwho even reputable zoos still kill,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 798840,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "or perhaps worse,\nsend off to animal dealers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 802680,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "with ties to canned hunt facilities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 805560,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "And this would also be extremely\nbeneficial to the many, many captive"
+        }
+      ]
+    },
+    {
+      "tStartMs": 809800,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "wild animals who are held at shoddy,\nunaccredited roadside facilities"
+        }
+      ]
+    },
+    {
+      "tStartMs": 815360,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "and could desperately use the care\nof a reputable facility."
+        }
+      ]
+    },
+    {
+      "tStartMs": 819720,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And Hannah, I just want to pick up\non that idea of sanctuaries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 822640,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "We're seeing more and more of these\non social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 825440,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "It seems that\npeople really respond to them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 827880,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "I recently went to Thailand\nand visited an elephant park and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 831600,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "here they had vast spaces to roam."
+        }
+      ]
+    },
+    {
+      "tStartMs": 834520,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "These elephants were rescued\nfrom circus attractions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 837320,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "They were rescued from farms."
+        }
+      ]
+    },
+    {
+      "tStartMs": 839240,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "They were rescued from places where\nthey were made to do manual labour."
+        }
+      ]
+    },
+    {
+      "tStartMs": 842480,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "Often they endured great abuse."
+        }
+      ]
+    },
+    {
+      "tStartMs": 844280,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Many of them are blind\nbecause they were beaten on the head."
+        }
+      ]
+    },
+    {
+      "tStartMs": 847560,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Many of them were orphans.\nMany of them were left in the wild,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 850800,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "or they have a disability,\nsuch as an ankle that won't recover,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 854320,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "or a leg that's twisted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 856000,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So these animals, they\ncan't be reintroduced into the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 859680,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "They would die, quite frankly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 861200,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And so sanctuaries, what they do is\nthey give them the open space"
+        }
+      ]
+    },
+    {
+      "tStartMs": 864920,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and to kind of supplant\ntheir operating income,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 867360,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "they open the grounds up\nto tourists and visitors."
+        }
+      ]
+    },
+    {
+      "tStartMs": 871000,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And when I was doing my research,\nwhich one do I want to go to?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 874080,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "There was a whole spate of websites\ntalking about what is ethical,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 877920,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "because you can go\nto an ethical sanctuary."
+        }
+      ]
+    },
+    {
+      "tStartMs": 880960,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And I ended up landing on one,\nwhich did a few things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 884160,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "It did not allow photographs\nwith animals up close\nwhere you're touching the animal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 888240,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "It did not allow\nyou to feed the animals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 890440,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "It did not allow you to bathe\nwith the animals, and animals did not"
+        }
+      ]
+    },
+    {
+      "tStartMs": 893400,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "perform tricks because again, they\nwould not do these things in nature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 897520,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And so instead you stand on a viewing\ndeck and hundreds of meters away,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 900840,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "you see the elephants walking\nthrough the water, having their bath\nwithout you interrupting them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 905160,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "This is considered more ethical\nbecause you're giving animals"
+        }
+      ]
+    },
+    {
+      "tStartMs": 909000,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "who effectively have nowhere\nthey can live safely a home,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 911760,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "and then you're letting people in\nbut not interfering with the animal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 915520,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And if someone\nwho is listening to this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 917560,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "or watching this wants to visit an\nethical zoo or an animal sanctuary,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 921600,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "is there anything they can do to try\nand find out?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 923640,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "Like to look it up beforehand?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 925160,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "We are so lucky that on the internet\nthere are so many resources these days."
+        }
+      ]
+    },
+    {
+      "tStartMs": 929280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "The Association of Zoos\nand Aquariums,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 931520,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "they have a website that talks about\nethical zoos, ethical sanctuaries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 935200,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Many of those are\nin the United States and Canada."
+        }
+      ]
+    },
+    {
+      "tStartMs": 937200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "However, they are expanding\ntheir international section."
+        }
+      ]
+    },
+    {
+      "tStartMs": 940080,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Also, I do think that media,\ntraditional travel media, newspapers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 944520,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "magazines, they respond\nto their consumers and consumers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 947480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "are increasingly demanding\nethical places to visit,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 950440,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "ethical animal sanctuaries. And\nthat's being reflected in the content."
+        }
+      ]
+    },
+    {
+      "tStartMs": 953920,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "If you just have a quick search online,\nyou'll find articles that list the pros"
+        }
+      ]
+    },
+    {
+      "tStartMs": 957480,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and cons of various sanctuaries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 959800,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "There is nothing quite\nlike seeing some of the animals"
+        }
+      ]
+    },
+    {
+      "tStartMs": 961800,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "that you have seen in real life\nwith your own eyes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 964120,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "But we're so lucky these days with\nall the wildlife docs and social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 967720,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So William, thanks so much\nfor coming into the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 969960,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Thanks, Hannah.\nAnd thank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 972640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Now, I really want to know what you\nthink about zoos, whether you are pro,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 975720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "whether you are anti, whether\nyou have found this episode useful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 978280,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Drop us a line in the comments below.\nWe're also on Instagram @bbcwhatintheworld,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 982480,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and we're on WhatsApp\nso you can send us a voice note."
+        }
+      ]
+    },
+    {
+      "tStartMs": 984720,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Get involved.\nThis is What in the World from"
+        }
+      ]
+    },
+    {
+      "tStartMs": 986880,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "the BBC World Service, I'm Hannah\nGelbart and we'll see you next time."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1321 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "It is really hard to wrap your head\naround just how big it is."
+    } ]
+  }, {
+    "tStartMs": 3000,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So I looked it up.\n6000000km², doesn't mean anything"
+    } ]
+  }, {
+    "tStartMs": 6400,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "to me - three Mexicos, that is\na massive amount of forest and home"
+    } ]
+  }, {
+    "tStartMs": 12240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "to so many beautiful species\nof animals."
+    } ]
+  }, {
+    "tStartMs": 14640,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "What I wish people knew about the\nAmazon is how important it is for all"
+    } ]
+  }, {
+    "tStartMs": 19240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "of us, regardless of where we are."
+    } ]
+  }, {
+    "tStartMs": 22040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Hello, it's Hannah here, and welcome\nto What in the World, your podcast"
+    } ]
+  }, {
+    "tStartMs": 25400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "for the stories that get people\ntalking from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 29240,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "When you picture the Amazon,\nyou probably think"
+    } ]
+  }, {
+    "tStartMs": 31600,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "of this - rich biodiversity,"
+    } ]
+  }, {
+    "tStartMs": 34280,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "billions of trees, creatures you\ncan't find anywhere else on Earth."
+    } ]
+  }, {
+    "tStartMs": 38360,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "But some parts of it are a bit more\nlike this."
+    } ]
+  }, {
+    "tStartMs": 41760,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And this year's big climate summit,\nCop30 is taking place in Belém,"
+    } ]
+  }, {
+    "tStartMs": 45560,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "in part of the Amazon in Brazil, and"
+    } ]
+  }, {
+    "tStartMs": 47800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "it has put the global spotlight back\non the world's largest rainforest."
+    } ]
+  }, {
+    "tStartMs": 52040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So we have teamed up\nwith The Climate Question,"
+    } ]
+  }, {
+    "tStartMs": 54200,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "the BBC's go to podcast\nfor everything climate related,"
+    } ]
+  }, {
+    "tStartMs": 57680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "to understand\nhow important the Amazon is"
+    } ]
+  }, {
+    "tStartMs": 60240,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "to our planet\nand what's being done to save it."
+    } ]
+  }, {
+    "tStartMs": 68360,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And here with me\nin the studio is Graihagh Jackson,"
+    } ]
+  }, {
+    "tStartMs": 70800,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "who hosts the Climate Question.\nHey welcome back."
+    } ]
+  }, {
+    "tStartMs": 73240,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Thanks so much for having me."
+    } ]
+  }, {
+    "tStartMs": 74720,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "So can you give our listeners an idea\nof just how big the Amazon is?"
+    } ]
+  }, {
+    "tStartMs": 79240,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "You say it's the largest\ntropical rainforest in the world,"
+    } ]
+  }, {
+    "tStartMs": 82000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "it is really hard to wrap your head\naround just how big it is."
+    } ]
+  }, {
+    "tStartMs": 84920,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So I looked it up.\n6000000km², doesn't mean anything"
+    } ]
+  }, {
+    "tStartMs": 88360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "to me - three Mexicos,\nthat does mean something to me."
+    } ]
+  }, {
+    "tStartMs": 91920,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "That is a massive amount of forest\nand a massive amount of trees,"
+    } ]
+  }, {
+    "tStartMs": 96640,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and home to so many beautiful species\nof animals,"
+    } ]
+  }, {
+    "tStartMs": 99360,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "but it's also home to so many people,"
+    } ]
+  }, {
+    "tStartMs": 101520,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and I really had no idea\nuntil I started looking into this."
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "I've got here\n47 million people live in the Amazon,"
+    } ]
+  }, {
+    "tStartMs": 109520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "of which two million are indigenous."
+    } ]
+  }, {
+    "tStartMs": 112000,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So it's hugely important\nfor people that live there,"
+    } ]
+  }, {
+    "tStartMs": 116040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "but also for the world,\nas I'm sure we're getting into."
+    } ]
+  }, {
+    "tStartMs": 118160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "When we talk about the Amazon,\nwe often really focus on Brazil."
+    } ]
+  }, {
+    "tStartMs": 121600,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And the reason for that is\nbecause around 59/60%"
+    } ]
+  }, {
+    "tStartMs": 125160,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "of the Amazon is in Brazil."
+    } ]
+  }, {
+    "tStartMs": 127240,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So what they do really matters\nfor the Amazon as a whole."
+    } ]
+  }, {
+    "tStartMs": 131240,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And I read that the Amazon has\n390 billion trees."
+    } ]
+  }, {
+    "tStartMs": 135520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Yeah, I always like to picture\nthe poor person who has to go out\nand count all those trees."
+    } ]
+  }, {
+    "tStartMs": 139600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "I mean, they don't do that. They\ntake it, obviously, take a data set,"
+    } ]
+  }, {
+    "tStartMs": 142520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "they work out how many\nand then they extract by satellite."
+    } ]
+  }, {
+    "tStartMs": 145080,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "But it is mind boggling\nhow many trees there are there."
+    } ]
+  }, {
+    "tStartMs": 148520,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I feel really lucky\nto have visited part of the Amazon."
+    } ]
+  }, {
+    "tStartMs": 151120,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "It was in Peru and while I was there we\nsaw these amazing pink river dolphins."
+    } ]
+  }, {
+    "tStartMs": 156480,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "They were kind of mottled grey pink\nand apparently they get pinker\nas they get older."
+    } ]
+  }, {
+    "tStartMs": 161440,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "The Amazon is so important\nfor biodiversity."
+    } ]
+  }, {
+    "tStartMs": 163720,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "It's the most biodiverse place\non Earth, and we've been hearing"
+    } ]
+  }, {
+    "tStartMs": 167120,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "from someone who is passionate\nabout the Amazon Dr Erika Berenguer,"
+    } ]
+  }, {
+    "tStartMs": 171320,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "who's a senior researcher at Oxford\nUniversity and who's also from Brazil."
+    } ]
+  }, {
+    "tStartMs": 175680,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "The most striking thing\nabout the Amazon,"
+    } ]
+  }, {
+    "tStartMs": 178160,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "when you are there, it's how all\nyour senses get really overwhelmed."
+    } ]
+  }, {
+    "tStartMs": 183480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Of course, your eyes, because\nthe amount of life that is there,"
+    } ]
+  }, {
+    "tStartMs": 187240,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "there's always insects buzzing around,\nbirds crossing your paths, and so,"
+    } ]
+  }, {
+    "tStartMs": 192040,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "so, so many trees of different shades of\ngreen that keep glinting under the sun."
+    } ]
+  }, {
+    "tStartMs": 198440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Just in terms of species of trees."
+    } ]
+  }, {
+    "tStartMs": 200840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "We still don't know\nhow many there are."
+    } ]
+  }, {
+    "tStartMs": 203560,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Estimates are that across the whole\nAmazon basin, which occupies"
+    } ]
+  }, {
+    "tStartMs": 207000,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "nine different countries, there are\nabout 16000 species of trees"
+    } ]
+  }, {
+    "tStartMs": 212640,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and just 11000 has been described\nby scientists like myself."
+    } ]
+  }, {
+    "tStartMs": 216800,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And in the middle of\nall these unknowns, there might be,"
+    } ]
+  }, {
+    "tStartMs": 220200,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "for example, some plants that might\nbe useful for different reasons."
+    } ]
+  }, {
+    "tStartMs": 224920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "They might be useful for medicine,\ncosmetics."
+    } ]
+  }, {
+    "tStartMs": 228120,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "What I wish people knew about the Amazon\nis how important it is for all of us,"
+    } ]
+  }, {
+    "tStartMs": 233320,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "regardless of where we are."
+    } ]
+  }, {
+    "tStartMs": 235560,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "The Amazon generates so much rainfall\nthat it irrigates fields even in Texas,"
+    } ]
+  }, {
+    "tStartMs": 242720,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "or as south as the La Plata Basin\nin Argentina and Uruguay."
+    } ]
+  }, {
+    "tStartMs": 247440,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "The Amazon store so much carbon\nin its trees"
+    } ]
+  }, {
+    "tStartMs": 251080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that if it was to be\ncompletely deforested and then burnt,"
+    } ]
+  }, {
+    "tStartMs": 255080,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "all the carbon would go\nto the atmosphere as CO2 and"
+    } ]
+  }, {
+    "tStartMs": 259360,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "would be equivalent to 15 to 20 years\nof global greenhouse gas emissions"
+    } ]
+  }, {
+    "tStartMs": 265120,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "- certainly make us fail to keep us"
+    } ]
+  }, {
+    "tStartMs": 268560,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "below the 1.5 degree of temperature\nincrease since industrial times."
+    } ]
+  }, {
+    "tStartMs": 274680,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Graihagh, as well\nas the amazing biodiversity"
+    } ]
+  }, {
+    "tStartMs": 276720,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "that we have just heard about,"
+    } ]
+  }, {
+    "tStartMs": 278760,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "why else is the Amazon important?\nIt's important for everybody."
+    } ]
+  }, {
+    "tStartMs": 281800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I'll talk about the region first though,\nbecause it's really interesting."
+    } ]
+  }, {
+    "tStartMs": 285000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So the Amazon - well, you've been,"
+    } ]
+  }, {
+    "tStartMs": 287640,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "what does it feel like when you walk\naround. What's the climate like?"
+    } ]
+  }, {
+    "tStartMs": 290440,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "It's sticky."
+    } ]
+  }, {
+    "tStartMs": 291120,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "It's wet, it's humid and it's hot.\nSo what's happening?"
+    } ]
+  }, {
+    "tStartMs": 294760,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "The sun's shining down and that's\ncausing all the water to evaporate"
+    } ]
+  }, {
+    "tStartMs": 299320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and then also evapotranspiration\nif it's coming from the leaves."
+    } ]
+  }, {
+    "tStartMs": 302520,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Yes, I think I was evaporating too."
+    } ]
+  }, {
+    "tStartMs": 304840,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And that goes all up into the sky."
+    } ]
+  }, {
+    "tStartMs": 306840,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And you can think of it as like flying\nrivers going all across the continent,"
+    } ]
+  }, {
+    "tStartMs": 311040,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "which then come down as rain\nelsewhere as far as Argentina."
+    } ]
+  }, {
+    "tStartMs": 315640,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And that's really important\nfor agriculture, I think crops,"
+    } ]
+  }, {
+    "tStartMs": 320320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "but also places like Brazil are really\nhighly reliant on hydropower, right?"
+    } ]
+  }, {
+    "tStartMs": 325000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And you've got to have that rain\nin order to have that hydropower."
+    } ]
+  }, {
+    "tStartMs": 327920,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So it's really important for the\nlocal weather, the region's weather."
+    } ]
+  }, {
+    "tStartMs": 332360,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "But globally it's so important."
+    } ]
+  }, {
+    "tStartMs": 334600,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "And that's because it puts the brakes\non climate change. Now why is that?"
+    } ]
+  }, {
+    "tStartMs": 339520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So climate change - we talk about this\nkey planet warming gas, carbon dioxide."
+    } ]
+  }, {
+    "tStartMs": 343680,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "It's released\nwhen we drive our petrol cars"
+    } ]
+  }, {
+    "tStartMs": 346760,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "or when we burn coal\nto heat our homes or gas, whatever."
+    } ]
+  }, {
+    "tStartMs": 350560,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Those are all key drivers\nof climate change."
+    } ]
+  }, {
+    "tStartMs": 353840,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Now, what trees do is they absorb\nthat carbon dioxide."
+    } ]
+  }, {
+    "tStartMs": 359400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "They suck it all in to put it"
+    } ]
+  }, {
+    "tStartMs": 362200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "in a very basic way\nand they use it to create energy."
+    } ]
+  }, {
+    "tStartMs": 365600,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And it gets stored in the branches\nand the leaves in the soil."
+    } ]
+  }, {
+    "tStartMs": 369080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And that means that CO2 is no longer\nin our atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 372440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "acting as a blanket and trapping\nall that heat, so effectively"
+    } ]
+  }, {
+    "tStartMs": 375960,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "without nature,\nwithout places like the Amazon,"
+    } ]
+  }, {
+    "tStartMs": 378640,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "we would be experiencing\na much hotter world as a result."
+    } ]
+  }, {
+    "tStartMs": 382800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The Amazon also has lots\nof really valuable resources, right?"
+    } ]
+  }, {
+    "tStartMs": 386800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Yeah. So many.\nI really had no idea."
+    } ]
+  }, {
+    "tStartMs": 389200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I mean, I'd heard about the gold,\nobviously timber,"
+    } ]
+  }, {
+    "tStartMs": 391440,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "given the number of trees there,\nbut there's also rubber"
+    } ]
+  }, {
+    "tStartMs": 394600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and coffee and loads of medicine."
+    } ]
+  }, {
+    "tStartMs": 397800,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "So for instance, quinine comes\nfrom the bark of a tree and quinine"
+    } ]
+  }, {
+    "tStartMs": 403280,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "was used to treat people for malaria"
+    } ]
+  }, {
+    "tStartMs": 405320,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "for like 300 years before\nsynthetic versions were created."
+    } ]
+  }, {
+    "tStartMs": 408720,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So there's lots of things there.\nFishing is also really important there."
+    } ]
+  }, {
+    "tStartMs": 412760,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Diamonds. I'm just looking to see\nif you're wearing any diamonds."
+    } ]
+  }, {
+    "tStartMs": 415440,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "You are. Were they from the Amazon,\nwho knows?"
+    } ]
+  }, {
+    "tStartMs": 419200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But the other - that's sort of like\nthe interesting thing about the Amazon,"
+    } ]
+  }, {
+    "tStartMs": 422200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "it's so important for us globally\nand that it helps prevent"
+    } ]
+  }, {
+    "tStartMs": 425600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "or puts the brakes on climate change\nand affects our weather."
+    } ]
+  }, {
+    "tStartMs": 428560,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But it's also a huge source\nof income. And"
+    } ]
+  }, {
+    "tStartMs": 430760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "lots of people indeed want to develop\nthe Amazon for exactly that reason."
+    } ]
+  }, {
+    "tStartMs": 434240,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I mentioned several million people\nare living in the Amazon,"
+    } ]
+  }, {
+    "tStartMs": 437320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and they see it\nas a source of income,"
+    } ]
+  }, {
+    "tStartMs": 439840,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "a way to develop\nand be lifted out of poverty."
+    } ]
+  }, {
+    "tStartMs": 442680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Scientists are now warning\nthat the Amazon is actually\nat risk of disappearing."
+    } ]
+  }, {
+    "tStartMs": 446960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Yeah, so there are a number\nof different reasons for that."
+    } ]
+  }, {
+    "tStartMs": 451520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So the number one biggest driver\nof tropical deforestation"
+    } ]
+  }, {
+    "tStartMs": 455560,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "in the world is cattle ranching."
+    } ]
+  }, {
+    "tStartMs": 457880,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So that's beef products."
+    } ]
+  }, {
+    "tStartMs": 460080,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "It's our beef burgers but it's also\nleather for our shoes, right?"
+    } ]
+  }, {
+    "tStartMs": 464000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So that's a huge driver of tropical\ndeforestation around the world."
+    } ]
+  }, {
+    "tStartMs": 467840,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And I don't think -\nit often gets overlooked quite often,"
+    } ]
+  }, {
+    "tStartMs": 471160,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "so I think that's really important."
+    } ]
+  }, {
+    "tStartMs": 472640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "There's also a lot of illegal activity,\nespecially in the Amazon going on."
+    } ]
+  }, {
+    "tStartMs": 475880,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "So illegal mining, illegal logging,\nit's pretty hard to enforce any sort"
+    } ]
+  }, {
+    "tStartMs": 483280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "of protections because it's so wild,\nbig and remote."
+    } ]
+  }, {
+    "tStartMs": 486520,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "But double whammy is because climate\nchange is increasing temperatures"
+    } ]
+  }, {
+    "tStartMs": 490320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and reducing rainfall as well in the\nAmazon, you've got a double effect."
+    } ]
+  }, {
+    "tStartMs": 494480,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "So deforestation is causing that."
+    } ]
+  }, {
+    "tStartMs": 496320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And climate change\non top of that is causing that."
+    } ]
+  }, {
+    "tStartMs": 499040,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And what that means is, you know, you've\nsaid you've been in the rainforest."
+    } ]
+  }, {
+    "tStartMs": 502440,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "You will remember that the floor\nis covered in leaf litter, right?"
+    } ]
+  }, {
+    "tStartMs": 506160,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Lots of leaves.\nAnd that is typically very wet."
+    } ]
+  }, {
+    "tStartMs": 509240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "But now the Amazon is drier,\nit acts like tinder."
+    } ]
+  }, {
+    "tStartMs": 514200,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "And that means fire can spread so\nquickly and so easily in the Amazon"
+    } ]
+  }, {
+    "tStartMs": 520000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "in a way that it hasn't been able to."
+    } ]
+  }, {
+    "tStartMs": 522440,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So I was looking at some data\nbetween 2001 and 2023,"
+    } ]
+  }, {
+    "tStartMs": 526120,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "and fires in the Amazon region are\nnow burning at least twice as much"
+    } ]
+  }, {
+    "tStartMs": 531960,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "as they were in the early noughties."
+    } ]
+  }, {
+    "tStartMs": 534040,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Last year was a particularly bad\nyear, a record breaking year in 2024."
+    } ]
+  }, {
+    "tStartMs": 538160,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So we've heard\nhow important the Amazon is for all"
+    } ]
+  }, {
+    "tStartMs": 541280,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "of these different reasons and\nthat it's at risk."
+    } ]
+  }, {
+    "tStartMs": 545040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "What's being done to try\nto protect it?"
+    } ]
+  }, {
+    "tStartMs": 547280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So back in 2021,\nthere was a global agreement."
+    } ]
+  }, {
+    "tStartMs": 551840,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "More than 100 world leaders signed up\nto end deforestation by 2030."
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And there were several countries in the\nAmazon that signed up to that pledge."
+    } ]
+  }, {
+    "tStartMs": 560040,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So Peru, Brazil,\nEcuador, Guyana, Suriname,"
+    } ]
+  }, {
+    "tStartMs": 563280,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "they all pledged, signed that pledge."
+    } ]
+  }, {
+    "tStartMs": 565480,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "But there are a few countries\nI didn't mention there\nthat do have parts of the Amazon in."
+    } ]
+  }, {
+    "tStartMs": 569040,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "And so Colombia, Bolivia,\nFrench Guiana, Venezuela,"
+    } ]
+  }, {
+    "tStartMs": 573480,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "those countries did not sign up\nto it. And I was looking as to why."
+    } ]
+  }, {
+    "tStartMs": 576400,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And Venezuela and Bolivia have both said\nthat they want to develop the forest."
+    } ]
+  }, {
+    "tStartMs": 580880,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And this is\na really sort of big contention."
+    } ]
+  }, {
+    "tStartMs": 583160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "We see a lot of people living in the\nAmazon live below the poverty line,"
+    } ]
+  }, {
+    "tStartMs": 586360,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "right? They want to develop, they want\nto have access to good healthcare."
+    } ]
+  }, {
+    "tStartMs": 590160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And a way to make money is\nto chop down the trees and sell it."
+    } ]
+  }, {
+    "tStartMs": 593600,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So there is this really difficult line\nto tread between protecting the forest,"
+    } ]
+  }, {
+    "tStartMs": 597520,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "but also protecting\nthe people that live within it."
+    } ]
+  }, {
+    "tStartMs": 600920,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "To reduce the forest fires\nthat we talked about earlier,"
+    } ]
+  }, {
+    "tStartMs": 603400,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "that's a really big global issue,"
+    } ]
+  }, {
+    "tStartMs": 605560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "because that means we have\nto get a handle on our emissions."
+    } ]
+  }, {
+    "tStartMs": 609880,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "The only way to stop those forest\nfires is not only to stop emitting,"
+    } ]
+  }, {
+    "tStartMs": 614040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "but it's also\nto take some carbon dioxide out"
+    } ]
+  }, {
+    "tStartMs": 616200,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "of the sky to create a cooler planet."
+    } ]
+  }, {
+    "tStartMs": 618760,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "And the sort of argument there is over\nwho pays for that, who does that, right?"
+    } ]
+  }, {
+    "tStartMs": 624480,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "And historically,\nit's been the rich Western countries"
+    } ]
+  }, {
+    "tStartMs": 627320,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "that have done most\nof the carbon polluting."
+    } ]
+  }, {
+    "tStartMs": 630000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And the argument goes from countries\nlike Brazil 'well, you need to pay."
+    } ]
+  }, {
+    "tStartMs": 632920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "You need to pay us to protect\nthis vital resource, the Amazon."
+    } ]
+  }, {
+    "tStartMs": 636440,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "But you also need to pay us damages\nthat have been caused as a result'."
+    } ]
+  }, {
+    "tStartMs": 641280,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "And so that's why\nin the last few years,"
+    } ]
+  }, {
+    "tStartMs": 643480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "these huge climate summits, they've been\nreally focused on finance and money,"
+    } ]
+  }, {
+    "tStartMs": 647800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and how that money is distributed\namong everyone in the world."
+    } ]
+  }, {
+    "tStartMs": 652280,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Money is one of the things that's\ntalked about every year at the Cop,"
+    } ]
+  }, {
+    "tStartMs": 656400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "the International Summit\non Climate Change,"
+    } ]
+  }, {
+    "tStartMs": 658600,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and this year it's going to be held\nin the Amazon for the first time,"
+    } ]
+  }, {
+    "tStartMs": 663200,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "with a particular focus\non the Amazon."
+    } ]
+  }, {
+    "tStartMs": 666640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Are there going to be any agreements\nmade in order to protect the Amazon?"
+    } ]
+  }, {
+    "tStartMs": 670400,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "What can we expect\nfrom this conference?"
+    } ]
+  }, {
+    "tStartMs": 672760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Yeah, so there's been a lot of talk\nof something called the TFFF,"
+    } ]
+  }, {
+    "tStartMs": 677560,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "which is the Tropical Forests\nForever facility."
+    } ]
+  }, {
+    "tStartMs": 681480,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "This is a money mechanism basically,"
+    } ]
+  }, {
+    "tStartMs": 684280,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and it's set to launch at Cop30.\nIt's led by Brazil."
+    } ]
+  }, {
+    "tStartMs": 688680,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And it basically seeks\nto compensate countries"
+    } ]
+  }, {
+    "tStartMs": 692240,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and help them preserve the forest.\nBut the interesting thing about it is"
+    } ]
+  }, {
+    "tStartMs": 695360,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "that 20% of that money will go\nto indigenous peoples who,"
+    } ]
+  }, {
+    "tStartMs": 699320,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "you know, have a really strong track\nrecord of protecting the forest,"
+    } ]
+  }, {
+    "tStartMs": 702880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "the biodiversity and\nthe carbon that's stored within it."
+    } ]
+  }, {
+    "tStartMs": 706120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "But it is worth saying\nthat more widely this is ten years on"
+    } ]
+  }, {
+    "tStartMs": 709520,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "since the biggest climate and most\nambitious actually climate agreement"
+    } ]
+  }, {
+    "tStartMs": 713920,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "we've ever had in Paris, which agreed\nto sort of ideally keep temperatures"
+    } ]
+  }, {
+    "tStartMs": 719680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "to 1.5 degrees warmer\nthan pre-industrial times."
+    } ]
+  }, {
+    "tStartMs": 723120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "That is so important for a place\nlike the Amazon, as we discussed,"
+    } ]
+  }, {
+    "tStartMs": 726320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "because if we want to protect it, if\nwe want to reduce the forest fires,"
+    } ]
+  }, {
+    "tStartMs": 729440,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "we do need to reduce our emissions."
+    } ]
+  }, {
+    "tStartMs": 732000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So that really is on all of us,\nisn't it? Graihagh."
+    } ]
+  }, {
+    "tStartMs": 734640,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Thanks so much. Thank you.\nThat's it from us."
+    } ]
+  }, {
+    "tStartMs": 736720,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But if you want to find out more\nabout Cop,"
+    } ]
+  }, {
+    "tStartMs": 738920,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "do make sure you listen\nto The climate question."
+    } ]
+  }, {
+    "tStartMs": 741160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "You can find it\nwherever you get your BBC podcasts."
+    } ]
+  }, {
+    "tStartMs": 743480,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And it's also right here on YouTube."
+    } ]
+  }, {
+    "tStartMs": 745960,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Make sure you check out\ntheir brand new playlist."
+    } ]
+  }, {
+    "tStartMs": 748680,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "If you have thoughts on this\nor any other episode,"
+    } ]
+  }, {
+    "tStartMs": 750760,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "drop us a line in the comments below.\nWe're also on WhatsApp."
+    } ]
+  }, {
+    "tStartMs": 754400,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "We're on Instagram\nat @bbcwhatintheworld - I'm Hannah."
+    } ]
+  }, {
+    "tStartMs": 757520,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "This is What in the world\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 759760,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And we'll see you next time."
+    } ]
+  } ]
+}

@@ -1,0 +1,2327 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 360,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "Hello, it's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2080,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Welcome to this episode of what in\nthe world from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6240,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "During the US presidential election\ncampaign, there was a lot of talk"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9640,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "about whether America might elect\nits first ever female president."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14320,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Now, as you know, that didn't happen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15920,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "But it did happen for Mexico,\nNamibia and North Macedonia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19920,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "All of those countries elected their\nfirst ever female presidents in 2024,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 25240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and having women in these top jobs\nsparked that age old debate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28680,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "about whether female leaders\ndo things differently to male ones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 32640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So today, we're going to see\nif there is any evidence to suggest"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35680,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "that women lead differently to men,\nor is it all based on stereotypes?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 44160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So today we're going to be testing\nout some of these stereotypes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46720,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "these generalizations,\nthese big questions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49240,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "about gender and gender politics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 51560,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And for the very first time,\non What In The World in the studio,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 54800,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "we are going to play a game\nof true or false."
+        }
+      ]
+    },
+    {
+      "tStartMs": 58280,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And here to do that is Laura García,\nBBC journalist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 61800,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Welcome back to the podcast.\nThank you. I'm ready with my cards."
+        }
+      ]
+    },
+    {
+      "tStartMs": 65560,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Yeah. So we have been looking up\nsome kind of statements, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68360,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "I'm really interested in this area\nand we've asked you to go away"
+        }
+      ]
+    },
+    {
+      "tStartMs": 72080,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and find out\nwhether they're true or false."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Are you ready\nfor your first question?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 77280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "I'm so ready.\nYou gave me homework to go and read,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 79520,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and there's nothing that I like more\nthan homework and reading."
+        }
+      ]
+    },
+    {
+      "tStartMs": 82880,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "I'm so over homework, Laura.\nAnd you can play along with us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88240,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "See if you can work out whether\nthe answers to some of these are true"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90840,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "or false. Are you ready\nfor your first question?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 99320,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So this is false."
+        }
+      ]
+    },
+    {
+      "tStartMs": 102520,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Actually, the first woman to be elected\ninto this office was a prime minister"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106200,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "in what we call Sri Lanka today\nbut back then it was called Ceylon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109560,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And she came into power after\nher husband passed away and when"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113160,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "she was campaigning to get re-elected or \nto get elected herself, she would cry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 117600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So people would call her\nthe Weeping Widow and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119840,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "that's going to be a big part of what\nwe're going to be talking about today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 123200,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "These perceptions\nof how we expect men"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and women to behave\nand what the research shows about it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 128960,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And there's this whole thing\nabout grown men don't cry, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 131120,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So let's see.\nAre you ready for number two?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 134800,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Let's do number two.\nTrue or false?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 142880,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "That one is true. Yeah,\nit's actually 6.7% of world leaders."
+        }
+      ]
+    },
+    {
+      "tStartMs": 149440,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "But like you say, some of us just got\nour first female president."
+        }
+      ]
+    },
+    {
+      "tStartMs": 153600,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "My home country of Mexico\nelected Claudia Sheinbaum last summer"
+        }
+      ]
+    },
+    {
+      "tStartMs": 158400,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and it was a pretty big deal.\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 161240,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Why was it such a big deal\nfor Mexico? And how did it get there?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164760,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "So brief, quick intro\nto the history of Mexico."
+        }
+      ]
+    },
+    {
+      "tStartMs": 169360,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "We'd been having elections\nfor 200 years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 172080,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "electing presidents, until\nClaudia Sheinbaum came into power."
+        }
+      ]
+    },
+    {
+      "tStartMs": 175640,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So that's an enormous setting\nto put it into place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 178240,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "If you also consider, for example, that\nmy granny was born in Mexico in 1923,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 182520,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "where women couldn't vote or hold\na bank account on their own and now,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "a little bit over a century later,\nwe have our first female president."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190840,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "That's an enormous thing, right?\nWe have some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "of the highest statistics for gender\nbased violence in Latin America."
+        }
+      ]
+    },
+    {
+      "tStartMs": 196040,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "The number of feminist sites\nin Mexico is only second to Brazil,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199040,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "according to UN figures.\nBut at the same time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 201480,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "there's been a huge step forward in\nlegislation to guarantee kind of quotas"
+        }
+      ]
+    },
+    {
+      "tStartMs": 206440,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "in 50/50 representation in politics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208920,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "What is Claudia Sheinbaum like?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211680,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "What is she like as a person?\nWhat is she like as a president?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 213600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "How does she lead?\nOkay, Claudia Sheinbaum has"
+        }
+      ]
+    },
+    {
+      "tStartMs": 216400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "a really interesting history because\nshe's not a career politician."
+        }
+      ]
+    },
+    {
+      "tStartMs": 219200,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "She's always had one foot in politics\nand one foot in science."
+        }
+      ]
+    },
+    {
+      "tStartMs": 223000,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "That's what she trained in. She's\npublished loads of academic articles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226320,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "She was even part of a UN panel that\ngot the Nobel Peace Prize in 2007"
+        }
+      ]
+    },
+    {
+      "tStartMs": 230520,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "for their work on climate change and\nthat translates into the positions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235920,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "that she's had in public life.\nShe is very methodical."
+        }
+      ]
+    },
+    {
+      "tStartMs": 239400,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "She's very direct.\nShe likes data. She's a scientist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 242840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And sometimes people read that in Mexico\n- and you can see that reflected"
+        }
+      ]
+    },
+    {
+      "tStartMs": 246440,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "in the press and in the comments\nthat she gets as cold."
+        }
+      ]
+    },
+    {
+      "tStartMs": 250440,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Now, whether that is\nbecause we're reading her as a woman,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 254280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and that's very unusual\nfor women in Mexico"
+        }
+      ]
+    },
+    {
+      "tStartMs": 256520,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and what we expect women to be like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259680,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "or whether we would say\nthat regardless of her gender,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 262040,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "it's a conversation that's a\nreally interesting one to have."
+        }
+      ]
+    },
+    {
+      "tStartMs": 264280,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "But her demeanour as a very kind\nof cool, calm, methodical politician"
+        }
+      ]
+    },
+    {
+      "tStartMs": 269920,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "has gotten her these kinds\nof headlines in Mexico."
+        }
+      ]
+    },
+    {
+      "tStartMs": 273000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "They called her 'Cold Claudia',\n'La Fría Claudia'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 275720,
+      "dDurationMs": 680,
+      "segs": [
+        {
+          "utf8": "Interesting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 276400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Let's delve into that a bit more with\nour next 'true or false'?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 279080,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I'm just going to get it up\nhere. Okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 288000,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "Have I got these upside down? No."
+        }
+      ]
+    },
+    {
+      "tStartMs": 289360,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Nope.\nThat is false."
+        }
+      ]
+    },
+    {
+      "tStartMs": 292680,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "We have seen examples\nfrom all across the board."
+        }
+      ]
+    },
+    {
+      "tStartMs": 295640,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Women, like men,\nhave different personalities, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 299240,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "And you can have people like, maybe, the\nimages of Jacinda Ardern come to mind,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 304280,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "who was prime minister of New\nZealand, who would go and hug people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 308000,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "She cried in public\nat different events."
+        }
+      ]
+    },
+    {
+      "tStartMs": 310120,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "She was pregnant during her tenure\nand kind of showed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 314160,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "the more, quote on quote,\n'traditional' signs of femininity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 317240,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And then you have people who can be\nreally clear and really stern,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 320320,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "like Claudia Sheinbaum who's direct."
+        }
+      ]
+    },
+    {
+      "tStartMs": 322160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "In the UK, you have the figure\nof Margaret Thatcher."
+        }
+      ]
+    },
+    {
+      "tStartMs": 324440,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "People would even call her\nthe Iron Lady."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326880,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So preparing for this episode,\nI spoke to Rosie Campbell,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 329920,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "who is - and I'm going to read her\ntitle because I want to get it right,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 332160,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "because she's worked really hard for it\n- not only is she a politics professor,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335480,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "but she's the Director\nof the Global Institute"
+        }
+      ]
+    },
+    {
+      "tStartMs": 337480,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "for Women's Leadership\nat King's College London."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339520,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "So their whole thing is analysing\nthe data and understanding how women,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 344720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "not just in politics, but in business\nand in local government"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347840,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and different positions of leadership\n- how they transform their societies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 351200,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "You know, one of the reasons it's\ndifficult to think about, to assess,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 354760,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "to research whether men and women\nhave different leadership styles is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 358080,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "we're often interested\nin the highest levels of leadership."
+        }
+      ]
+    },
+    {
+      "tStartMs": 360920,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So women heads of government\nor women CEOs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 363840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "there are very small numbers of\npeople that occupy those positions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So we haven't got\na very big research pool to consider."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And when we look at\nslightly lower levels of leadership,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 372840,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "for example, whether you've got\nmore women politicians generally,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 376560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "we do see some differences\nin outcomes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 378680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "There is some research showing\nthat women more often adopt"
+        }
+      ]
+    },
+    {
+      "tStartMs": 382080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "empathetic leadership styles,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 384520,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "although men can adopt them too. But\nwomen are slightly more likely to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 388040,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "But when you're looking\nat the very top levels of leadership,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 391240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "the processes that have allowed\npeople to get there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 393880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "men and women are such\nthat it's very likely"
+        }
+      ]
+    },
+    {
+      "tStartMs": 396960,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "that the men and women who reach\nthe top will be pretty similar,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 399240,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "because they've had to go through\nthe same incredibly difficult,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 403040,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "fraught process to become, you know,\na leader of a nation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406800,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Okay, Laura, on to the next one.\nTrue or false?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 414600,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "That one's true.\nSo that we can see in the data"
+        }
+      ]
+    },
+    {
+      "tStartMs": 417520,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "and in the research really clearly,\nnot just in King's College London,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 420440,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "but in other things\nthat I was reading,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 423200,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "that look at how women impact policies,\nnot just at a national level,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426720,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "but also at local level, right?\nAnd that has partly to do,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 430360,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and what the data shows,\nbecause of women's lived experience."
+        }
+      ]
+    },
+    {
+      "tStartMs": 433400,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So if you have grown up responsible\nfor caring for your brothers or sisters"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437600,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "or for your parents, you're more\ninterested in health issues."
+        }
+      ]
+    },
+    {
+      "tStartMs": 440920,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "There's things that only women go\nthrough, like sexual health issues"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444320,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "or things around maternity\nthat then they look at"
+        }
+      ]
+    },
+    {
+      "tStartMs": 447760,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and enact when they get\ninto positions of power."
+        }
+      ]
+    },
+    {
+      "tStartMs": 450080,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Academics are very reluctant to say\nthat this is because women care more"
+        }
+      ]
+    },
+    {
+      "tStartMs": 453920,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "about these issues\nfor the sheer nature of being women,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457400,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "but it's more because of what we live\nthrough, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 459920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So you live through your problems\nand you decide and you realise, 'Oh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 463880,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "there's something\nthat we can do to address this'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466880,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Nevertheless, I also want\nto bring an example back from Mexico"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469040,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "because we were talking -\nit's made huge strides,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471360,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "we have gender parity laws for loads\nof different places in politics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 474640,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "So now there have to be\n50/50 candidates."
+        }
+      ]
+    },
+    {
+      "tStartMs": 476600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "That has reflected enormous changes\nat a national level."
+        }
+      ]
+    },
+    {
+      "tStartMs": 480560,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And that is reflected in loads of places\nin Latin America where the change"
+        }
+      ]
+    },
+    {
+      "tStartMs": 485000,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "for parity has gone on in Congress\nor the equivalent of Parliament,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488680,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "but it hasn't trickled down\nto local government"
+        }
+      ]
+    },
+    {
+      "tStartMs": 490960,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "where there's loads of other policies\nthat can become enacted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 493640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And I remember a conversation I had\nwith an academic"
+        }
+      ]
+    },
+    {
+      "tStartMs": 496280,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "from the National University in Mexico\nwho analysed how many proposals -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 500640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and this would have been in 2023 -\nwere presented at a local level"
+        }
+      ]
+    },
+    {
+      "tStartMs": 503520,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "- how many\nof them were aimed at women?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 505800,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "And they read over 24,000 proposals\nfor legislation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 510120,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "across all the states of Mexico,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512360,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "and only around 16% of them had to do\nwith issues that affect women."
+        }
+      ]
+    },
+    {
+      "tStartMs": 516880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So I think the point that academics and\nresearchers want us to keep in mind is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 520240,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "that even though there is this\nrelationship between getting more women"
+        }
+      ]
+    },
+    {
+      "tStartMs": 523240,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "into politics or in positions of power\nand more policies aimed at women,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527360,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "it's not necessarily because that's\nthe only thing that women care about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 531000,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "and will act upon when\nthey're in positions of leadership."
+        }
+      ]
+    },
+    {
+      "tStartMs": 534560,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So let's hold that thought.\nGet on to the next true or false."
+        }
+      ]
+    },
+    {
+      "tStartMs": 538760,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "I want to talk a little bit about the\nthings that women do. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 547920,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "That one is also true.\nInterestingly, though, maybe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 553000,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "your first thought is, 'oh, because\nwomen are less corrupt than men'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 556560,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "The literature review\ndoesn't show that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 560480,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "We can be equally corrupt, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 563640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Equality means we can be\nexactly what we want."
+        }
+      ]
+    },
+    {
+      "tStartMs": 566280,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "That's kind of the idea\nbehind the whole thing, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 568880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Again, researchers\nwould really caution us to be careful"
+        }
+      ]
+    },
+    {
+      "tStartMs": 572040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "and not assume that it's because\nwomen are 'X' and men are 'Y'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 576040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "One of the reasons that they think in\nkind of like digging into the data is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 580040,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "that because for a society to allow\nmore women to get into power,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 584400,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "a bunch of things have to change,\nthat makes it a bit more equal,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 587920,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "a bit fairer,\nwhere democracy functions better."
+        }
+      ]
+    },
+    {
+      "tStartMs": 591280,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "That also translates\ninto less corruption,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 594160,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "so the correlation\nisn't necessarily, 'oh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 596280,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "get more women into power\nbecause women are less corrupt'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 599160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Changing society to allow more women get\ninto power makes societies less corrupt."
+        }
+      ]
+    },
+    {
+      "tStartMs": 603400,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So we're only really going to see women\nin these top jobs in certain societies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607160,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "You're saying\nthe ones that are more democratic"
+        }
+      ]
+    },
+    {
+      "tStartMs": 609400,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and that maybe are a little bit\nless corrupt in the first place?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 612720,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Yes. So it's not the woman who got\ninto power that's fixing things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 615720,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "It's these conditions that allowed\nfor women to get into these positions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 620080,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Why else do some people think that\nit's important that we have more women"
+        }
+      ]
+    },
+    {
+      "tStartMs": 623960,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "in politics and leadership positions?\nYou also see this in business."
+        }
+      ]
+    },
+    {
+      "tStartMs": 627840,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So businesses with more diverse\nboards and women in leadership"
+        }
+      ]
+    },
+    {
+      "tStartMs": 630880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "tend to have better results. And\nthat's the business case argument."
+        }
+      ]
+    },
+    {
+      "tStartMs": 634160,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Trying to find numbers to justify,\n'oh, we need more women in power"
+        }
+      ]
+    },
+    {
+      "tStartMs": 637920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "because they will, we will get\na benefit from it'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 641880,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "There's a flip side to that,\nwhich is the social justice argument"
+        }
+      ]
+    },
+    {
+      "tStartMs": 644880,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "that we need more women in power"
+        }
+      ]
+    },
+    {
+      "tStartMs": 647160,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "because there's 50 odd percent\nof women in the world,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 650560,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "and therefore that should be reflected\nin the structures of how we lead."
+        }
+      ]
+    },
+    {
+      "tStartMs": 654440,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "But some researchers, like Rosie,\nwould ask us not to forget"
+        }
+      ]
+    },
+    {
+      "tStartMs": 656920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "the social justice argument.\nSo let's listen to Rosie."
+        }
+      ]
+    },
+    {
+      "tStartMs": 660760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "It's surprising that someone who has\nspent more than 20 years studying gender"
+        }
+      ]
+    },
+    {
+      "tStartMs": 663960,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "and politics, I'm often a bit\nuncomfortable when people ask me"
+        }
+      ]
+    },
+    {
+      "tStartMs": 667840,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "about whether women are\ndifferent kinds of leaders from men,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 672120,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "and I think that's because we tend\nto come to this debate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 675680,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "expecting women\nto deliver something different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 678200,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "There's just a justice argument\nfor why I think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680520,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "there should be as many women leaders\nas there are men."
+        }
+      ]
+    },
+    {
+      "tStartMs": 683480,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "But I'm not really sure\nthat there's much evidence"
+        }
+      ]
+    },
+    {
+      "tStartMs": 685560,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "that women are better leaders per se."
+        }
+      ]
+    },
+    {
+      "tStartMs": 688400,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "But the justice argument on its own\nsometimes doesn't seem to be enough,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 691680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "just because it's fair\nor it's the right thing,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 694520,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "people want to see the business case.\nIs it going to transform their business?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 698320,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Is it going to make\nit more profitable?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 700520,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And there's some mixed evidence\naround that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 703120,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And again, I think\na lot of that comes back to the fact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 705440,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "that if you have\na more meritocratic process,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 708040,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "the best people will become leaders,\nyou'll get better outcomes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 710840,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And of course, women are equally\ndistributed amongst the best people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 714600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Laura, I hear what Rosie is saying.\nI hear what you're saying."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717560,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Maybe we've got the focus all wrong."
+        }
+      ]
+    },
+    {
+      "tStartMs": 719560,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And this is not the question\nwe should be asking,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 721760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "but I still want a kind of round\nup of the evidence"
+        }
+      ]
+    },
+    {
+      "tStartMs": 724240,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "because you have been looking\ninto this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 726440,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Is there any evidence to suggest that\nwomen leaders do things differently?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 730880,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "I'll use my cards to answer.\nSo yes, and no, and also maybe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 738960,
+      "dDurationMs": 160,
+      "segs": [
+        {
+          "utf8": "Which is like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 739120,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "the most cop out answer ever but\nit's true because it depends, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 742680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So we have way more data\nabout how women impact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 745280,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "their communities when\nthey're in power at local levels."
+        }
+      ]
+    },
+    {
+      "tStartMs": 747680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And we can see that reflected\nin the policies and how they change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 751080,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And the research from KCL and the\nkind of literature reviews do make"
+        }
+      ]
+    },
+    {
+      "tStartMs": 755120,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "a correlation between having more women\nin power and changes in societies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 760400,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "What the data doesn't show,\nand what we still have to answer is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 764080,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "whether that's because\nwomen innately do things differently,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 767480,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "or because societies have\nto be different to allow"
+        }
+      ]
+    },
+    {
+      "tStartMs": 769760,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "for women to get into power."
+        }
+      ]
+    },
+    {
+      "tStartMs": 772040,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "And also remembering that we have loads\nof different types of women leaders,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 776560,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "just like we have loads of different\ntypes of leaders who are men, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 780040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "The difference between Giorgia Meloni\nor Marjorie Taylor Greene"
+        }
+      ]
+    },
+    {
+      "tStartMs": 783120,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "in the United States,\nor my president in Mexico,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 787040,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Claudia Sheinbaum\nor Xiomara Castro in Honduras."
+        }
+      ]
+    },
+    {
+      "tStartMs": 790880,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "Everyone has a different way\nof leading."
+        }
+      ]
+    },
+    {
+      "tStartMs": 792680,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "But we would say the same thing\nabout men who are leaders"
+        }
+      ]
+    },
+    {
+      "tStartMs": 795160,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and have completely\ndifferent styles, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 797680,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "For example,\nKeir Starmer in the UK"
+        }
+      ]
+    },
+    {
+      "tStartMs": 801120,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "or Donald Trump, who's just returned\nto the White House,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 803600,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "or even the president of France,\nEmmanuel Macron."
+        }
+      ]
+    },
+    {
+      "tStartMs": 806360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And with so few women as leaders,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 808960,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "less than 7%, there may not even be that\nmuch data available to really analyse"
+        }
+      ]
+    },
+    {
+      "tStartMs": 814160,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "and look at how women perform\nin these leadership roles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 818360,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And that's the huge challenge because\nas a scientist - I mean,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 821640,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "scientists are reluctant to make\nconclusions about anything in general"
+        }
+      ]
+    },
+    {
+      "tStartMs": 824640,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "- but if you're doing it\nwith a limited bit of data,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 827480,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "then it's even harder to see\nif they can find those correlations"
+        }
+      ]
+    },
+    {
+      "tStartMs": 830840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and for us to tell the stories of\nhow different countries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 834080,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "around the world\nkeep electing women or not."
+        }
+      ]
+    },
+    {
+      "tStartMs": 836640,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Mexico and Namibia\nand North Macedonia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 838680,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "It's your time.\nExactly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 840320,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "Laura, thank you so much\nfor joining me in the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 842280,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "It's been great to have you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 843560,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Woo, I'm glad I aced the quiz.\nYeah, you really did."
+        }
+      ]
+    },
+    {
+      "tStartMs": 845800,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "You aced it.\nAnd thank you for joining us, too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 848320,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "This is What In The World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 850520,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart, and we can't wait to\nhave you back with us next time. See you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 858760,
+      "dDurationMs": 800,
+      "segs": [
+        {
+          "utf8": "then."
+        }
+      ]
+    }
+  ]
+}

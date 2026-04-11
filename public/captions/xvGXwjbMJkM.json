@@ -1,0 +1,2120 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 40,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "There is this huge burning fiery pit,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2280,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and it's in a country you might never\nhave heard of that's said to be one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 5680,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "of the least visited on Earth.\nTurkmenistan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 9160,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Now, this pit has been on fire\nfor more than 50 years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 12840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Some people call it\nthe 'gates to hell'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15160,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "But all of that\ncould be about to change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 17480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "It could be extinguished for good."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19840,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "So in this episode,\nyou're going to find out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21880,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "why it's on fire in the first place\nand what it will take to put it out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25840,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart, and this is what\nin the world from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 33720,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "To find out more about\nthe 'gateway to hell',"
+        }
+      ]
+    },
+    {
+      "tStartMs": 36080,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "I'm here with Alex Rhodes\nfrom the What in the World team."
+        }
+      ]
+    },
+    {
+      "tStartMs": 38440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Hello, Hannah.\nHello. So show me what it looks like."
+        }
+      ]
+    },
+    {
+      "tStartMs": 40960,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Yeah, let's look at some photos\nof it first of all and it is kind of,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 43600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "as you describe, this huge fiery pit,\nmiddle of the desert,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "it looks very spectacular,\nespecially at night,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49200,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "where it's kind of the only light source\nfor kind of miles around, really."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52560,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So it's 70m wide, 30m deep,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55120,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "and it's in the Karakum desert,\nwhich is a vast part of Turkmenistan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 59920,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "It makes up\nabout 70% of Turkmenistan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62640,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "It really is massive.\nAnd this pit just burns and burns"
+        }
+      ]
+    },
+    {
+      "tStartMs": 65840,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "and burns and it's been going\nfor about 50 years now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 68640,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Is it like a natural crater and how"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "on earth did it get to be full\nof flames in the first place?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 73680,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Well, one of the very interesting things\nabout it is we don't actually know"
+        }
+      ]
+    },
+    {
+      "tStartMs": 76680,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "how exactly it formed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78720,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "We think that it started\nin 1971 when -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "because Turkmenistan used to be part\nof the Soviet Union,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and we think that they were\nbasically drilling for oil there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88080,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "They thought there was some oil\nunderneath. While they were doing that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90560,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "they hit a pocket of natural gas\nthat collapsed everything in,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 94320,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and then it started leaking methane\nup into the air."
+        }
+      ]
+    },
+    {
+      "tStartMs": 96880,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So someone - some bright spark\n- thought, well, we'll just burn it off."
+        }
+      ]
+    },
+    {
+      "tStartMs": 100560,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "How much gas can there be\nunder this thing?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 102880,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So they set it on fire\nand it has been burning ever since."
+        }
+      ]
+    },
+    {
+      "tStartMs": 106200,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "They thought it would just burn off\nstraight away, but it's tapped"
+        }
+      ]
+    },
+    {
+      "tStartMs": 108520,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "into this huge reservoir of gas\nunderneath the desert."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111880,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "It sounds quite dangerous to me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 113560,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And you've spoken to one person,\nthe only person,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 116080,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "I believe,\nwho has ever been down into the pit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118280,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Yeah. One bloke. This is why men live\nlonger - live less longer than women,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 121680,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "by the way because yeah, one man\nin 2013 decided he was going to go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "into this thing where temperatures, you\nknow, go into the hundreds of degrees."
+        }
+      ]
+    },
+    {
+      "tStartMs": 128680,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "His name is George Kourounis,\nand he went down in 2013."
+        }
+      ]
+    },
+    {
+      "tStartMs": 132000,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And yeah, I spoke to him earlier.\nMy name is George Kourounis and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135680,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "I am explorer in residence with the\nRoyal Canadian Geographical Society."
+        }
+      ]
+    },
+    {
+      "tStartMs": 139880,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "Being at the bottom of the Darvaza\n'gates of hell' crater was probably"
+        }
+      ]
+    },
+    {
+      "tStartMs": 145560,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "about as close to visiting another\nplanet as you can here on Earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 150920,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "I was leading an expedition\nfor National Geographic"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154240,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "to go to the bottom\nand gather samples of the soil to see"
+        }
+      ]
+    },
+    {
+      "tStartMs": 157920,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "if there's any bacteria living in\nthis hot, methane rich environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And when I finally arrived\nin the country"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164920,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and we drove out into the desert,\nand I walked up to the edge,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168160,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "my very first thought was,\nthis is impossible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 173440,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "I'll never be able to do this.\nIt's too hot."
+        }
+      ]
+    },
+    {
+      "tStartMs": 175400,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "It's too dangerous.\nWhat was I thinking?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 178480,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "But what I did was, we camped\nbeside the crater for a week,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 182480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and we spent every day\nstudying the crater,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 185440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "and we measured how\nthe heat is circulating in the crater"
+        }
+      ]
+    },
+    {
+      "tStartMs": 188240,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and we learned that\nthe hot air rises up along the edges"
+        }
+      ]
+    },
+    {
+      "tStartMs": 190680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and cooler air\ndrops down in the centre."
+        }
+      ]
+    },
+    {
+      "tStartMs": 193280,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "I'm not going to say it wasn't scary\nwhen I stepped off the edge"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196000,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and put all my weight on that rope\nover a giant pit of burning gas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199200,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "because, yeah, it was very scary."
+        }
+      ]
+    },
+    {
+      "tStartMs": 201480,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "I was able to descend down\nin the very centre of the crater,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205840,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "touch down at the very bottom,\nand then the clock was ticking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 209760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I only had 17 minutes,\nand looking around, it was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 212640,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "the most terrifying and beautiful\nplace I think I've ever set foot."
+        }
+      ]
+    },
+    {
+      "tStartMs": 217200,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And I've been\nin a lot of strange places,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219240,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "like inside erupting volcanoes,\nin the eye of hurricanes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222000,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "and this place was special because\nit felt like this colosseum of fire"
+        }
+      ]
+    },
+    {
+      "tStartMs": 226760,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "and I knew that\nevery step that I took was a place"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "where no human\nhad really set foot before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 234720,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "I measured a ground temperature\nat one point of 400°C."
+        }
+      ]
+    },
+    {
+      "tStartMs": 238160,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "That's as hot as a pizza oven."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240240,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And yet there are - not many,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "but there are -\nsome organisms living down there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 246280,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And the reason why I was doing that\nis because there are planets outside"
+        }
+      ]
+    },
+    {
+      "tStartMs": 250240,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "of our solar system that have hot,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 252680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "methane rich environments\nthat NASA has discovered."
+        }
+      ]
+    },
+    {
+      "tStartMs": 256760,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "If what I've discovered\nin this crater can give us clues"
+        }
+      ]
+    },
+    {
+      "tStartMs": 260600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "as to where we might want to look\nfor life outside of our solar system,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 263840,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "then who knows how many decades in\nthe future that might help to serve"
+        }
+      ]
+    },
+    {
+      "tStartMs": 267760,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "as a as a signpost, a guide,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 270080,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "if you will, for future explorations."
+        }
+      ]
+    },
+    {
+      "tStartMs": 272200,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So, Alex, not many people like George\nget to go down into this pit,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "but it is the biggest\ntourist attraction"
+        }
+      ]
+    },
+    {
+      "tStartMs": 277880,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "in Turkmenistan,\nso why are they trying to put it out?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 280800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Well, when we say\nit's the biggest tourist attraction"
+        }
+      ]
+    },
+    {
+      "tStartMs": 282880,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "in Turkmenistan, that is, we've got\nto sort of scale that for size."
+        }
+      ]
+    },
+    {
+      "tStartMs": 285440,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "We're not talking\nthe Eiffel Tower here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 287040,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Very few people go\nto Turkmenistan and yeah,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289640,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "most of them end up at this pit\nbecause there's not loads to see"
+        }
+      ]
+    },
+    {
+      "tStartMs": 292560,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and it's not really set up\nfor tourism in the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 294880,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "We'll talk a little bit more\nabout Turkmenistan in a bit,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 298000,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "but essentially, yeah,\nthere's been a mixed relationship"
+        }
+      ]
+    },
+    {
+      "tStartMs": 301520,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "between the government and this pit\nbecause for a while it was obviously"
+        }
+      ]
+    },
+    {
+      "tStartMs": 305000,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "quite the national embarrassment,\nthis kind of flammable pit,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308960,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "about 250km from the capital,\njust burning endlessly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 313720,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And for a while, you know, they\ndidn't want to talk about it too much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 316480,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Then they thought, 'maybe we'll make\na virtue of it, people want to see it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 319640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "we'll turn it\ninto a tourist attraction'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 321760,
+      "dDurationMs": 1320,
+      "segs": [
+        {
+          "utf8": "They renamed it officially."
+        }
+      ]
+    },
+    {
+      "tStartMs": 323080,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So, you know, the gates of hell -\nnot great for tourists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So they called it the shining\nof Karakum,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 328680,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "after the desert, basically,\nbut then, as you know, now,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 332440,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "in the world that we live in,\nclimate change is a big problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 335160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Big issue - countries want to be seen\nto be doing something about it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 337600,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And, you know,\nit turns out burning gas just"
+        }
+      ]
+    },
+    {
+      "tStartMs": 340040,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "into the air is not the greatest look\nin the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 342640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Interestingly, though,\nit's methane coming out of this gas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 345680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "If they hadn't left -\nif they hadn't burnt it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347760,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "it would actually be more harmful\nfor the environment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 349960,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "because methane is worse\nthan carbon dioxide."
+        }
+      ]
+    },
+    {
+      "tStartMs": 353240,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "So they decided in 2022"
+        }
+      ]
+    },
+    {
+      "tStartMs": 355320,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "that they wanted to do something\nabout it and seal it off."
+        }
+      ]
+    },
+    {
+      "tStartMs": 357800,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So the then president\nat the time went on state TV"
+        }
+      ]
+    },
+    {
+      "tStartMs": 361000,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "to say, 'right, we're going to switch\nthis thing off', essentially."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363640,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "And the idea was to make a - basically\nnot another crater, but a sort of,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 369520,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "a reservoir - sort of tap into\nthe reservoir further up the chain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 372720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So essentially,\nyou can harvest the gas"
+        }
+      ]
+    },
+    {
+      "tStartMs": 375280,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and sell it because this costs\nmillions of - millions and millions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 378280,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "of pounds worth of gas going into\nthe air, burned off all the time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 382440,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "To go further up the line, tap\ninto it, sell it, that sort of thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 385920,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "They decided to do this in 2022,\nbut first with kind of mixed success."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390040,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "It didn't look\nlike anything was sort of happening."
+        }
+      ]
+    },
+    {
+      "tStartMs": 392160,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "But in the last year since about,\nyou know, this time last year,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 395480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "satellite imagery\nhas now started to show"
+        }
+      ]
+    },
+    {
+      "tStartMs": 397840,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that there's 50% less flames coming\nfrom this thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 401920,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "It's not as visible at night\nfrom space, which suggests that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 405080,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "it is starting to work and that maybe\nin the future it will go out forever."
+        }
+      ]
+    },
+    {
+      "tStartMs": 408960,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "I don't know much about Turkmenistan,\nwhere this big fiery pit is based."
+        }
+      ]
+    },
+    {
+      "tStartMs": 413400,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "What can you tell me about the\ncountry and who's in charge of it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 416920,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "Well that's the thing\nabout Turkmenistan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 418200,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "I think if you went up to people in\nthe street and asked them, 'what do"
+        }
+      ]
+    },
+    {
+      "tStartMs": 420200,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "you know about Turkmenistan?'\nThey would struggle to tell you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 422280,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "almost anything about it,\nlet alone find it on a map."
+        }
+      ]
+    },
+    {
+      "tStartMs": 425280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "But luckily here\nat the BBC we have people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 427840,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "whose job it is to look\ninto these very countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 430040,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Do we have a Turkmen expert? I've\nbeen speaking to Alistair Coleman."
+        }
+      ]
+    },
+    {
+      "tStartMs": 433040,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "He works at BBC monitoring,\npart of the BBC that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 435400,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "you know, basically monitors\ndifferent parts of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 437520,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And yeah, he told me this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 440080,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "It's one of\nthose Central Asian countries which"
+        }
+      ]
+    },
+    {
+      "tStartMs": 442560,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "people tend to group together as the\nstans and huge, huge gas deposits."
+        }
+      ]
+    },
+    {
+      "tStartMs": 449040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It has the fourth largest\ngas deposits in the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 451680,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "They should be absolutely rolling\nin money, but they're not."
+        }
+      ]
+    },
+    {
+      "tStartMs": 454440,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "Since they became independent\nfrom the Soviet Union in 1991,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 459400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "it's been a series\nof autocratic rulers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 462040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and it also has\na very poor human rights record."
+        }
+      ]
+    },
+    {
+      "tStartMs": 464680,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Its only ever had three leaders\nsince 1991."
+        }
+      ]
+    },
+    {
+      "tStartMs": 467320,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "The first was a chap called\nSaparmyrat Nyýazow, who called himself"
+        }
+      ]
+    },
+    {
+      "tStartMs": 472760,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "a 'Turkmenbashi', which means\nthe 'father of the Turkmens'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477040,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And he became really well known\nfor his despotic rule."
+        }
+      ]
+    },
+    {
+      "tStartMs": 479960,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "He did things\nlike changing the days of the week."
+        }
+      ]
+    },
+    {
+      "tStartMs": 483000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "He closed all the hospitals\noutside the capital,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 485720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and he built\na giant golden statue of himself"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488360,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "which rotated to always face the sun."
+        }
+      ]
+    },
+    {
+      "tStartMs": 491240,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "What is it with dictators and\nbuilding giant statues of themselves?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493440,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Oh, they love it, don't they? It was\na very strange time for Turkmenistan,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 497240,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and unfortunately, the poor people\nwho live there did suffer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 501080,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "You mentioned two others, they're\na kind of father and son combo,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 504320,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "aren't they?\nAfter Turkmenbashi died,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506960,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "a former dentist called Gurbanguly\nBerdimuhamedow became president."
+        }
+      ]
+    },
+    {
+      "tStartMs": 512080,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So, yeah, giant statue\nof himself, golden,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514560,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "riding on a horse.\nDay one, big gold statue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 518200,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Big Gold statue decreed that citizens\nshould only drive white cars."
+        }
+      ]
+    },
+    {
+      "tStartMs": 521760,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Only drive white cars\nin the whole country?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524160,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "People had to, like,\nrepaint their cars."
+        }
+      ]
+    },
+    {
+      "tStartMs": 526400,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So eventually he stood down\nand his son took over."
+        }
+      ]
+    },
+    {
+      "tStartMs": 529680,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "You know, often these sort\nof autocratic leaders like to keep it\nin the family, don't they?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 532960,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "But he's not quite as charismatic\nas perhaps his father was."
+        }
+      ]
+    },
+    {
+      "tStartMs": 537240,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "No. All the press photos you get of\nhim, because it's a personality cult,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 541440,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "he's on the front page of the\nstate newspapers every single day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 546480,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "He just looks like he's sat\nvery bored behind his desk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 550400,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "In reality,\nhis father is still in charge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 553120,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "The other thing that maybe,\nyou know, you might have heard"
+        }
+      ]
+    },
+    {
+      "tStartMs": 555680,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "about Turkmenistan about\nis its carpets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 558200,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Oh, yes, they have a massive,\nmassive cotton harvest every year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 562560,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "And so one of the great exports from\nTurkmenistan is its hand-woven carpets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 567560,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "It's the only country in the world\nto have a carpet on its flag."
+        }
+      ]
+    },
+    {
+      "tStartMs": 571680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "They carpet outdoors for big things\nwhen the president turns up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 575360,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "It's quite odd in a way, because we\ndon't hear that much about Turkmenistan,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 579360,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "whereas, you know, other more sort of\noutlandish dictatorships essentially"
+        }
+      ]
+    },
+    {
+      "tStartMs": 583480,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "- so like North Korea - get loads\nof attention."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585960,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Why not Turkmenistan, do you think?\nWell, Turkmenistan is a bit different"
+        }
+      ]
+    },
+    {
+      "tStartMs": 589680,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "in that they don't actually provide\na threat to the outside world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 593480,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "They try to be neutral in all things,\nwhich basically is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 596240,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "they're trying\nto attract outside investment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598280,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Alistair, thank you very much.\nThank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600440,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So the president wants to put this\nfire out. Why has it taken so long?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 604360,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "I think just because partly,\nit's a little column,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 607520,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "a little column B in that, one,\nit's very difficult."
+        }
+      ]
+    },
+    {
+      "tStartMs": 609680,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "You know, think about\nlike a sort of gas hob at home."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613000,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "You know, you've got that, you\nturn that on, you light it on fire."
+        }
+      ]
+    },
+    {
+      "tStartMs": 615160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Unless you cut off the gas,\nit will just keep burning."
+        }
+      ]
+    },
+    {
+      "tStartMs": 617440,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "And it's easy to turn off your oven."
+        }
+      ]
+    },
+    {
+      "tStartMs": 619320,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "It's not so easy to turn off\nthe gas supply in Turkmenistan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 622840,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "As Alistair said in his part,\nTurkmenistan is a huge reservoir\nof natural gas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 628000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and this seems to have just been\nthe wrong time at the wrong place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 630720,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And also, you know, due to the kind\nof political circumstances"
+        }
+      ]
+    },
+    {
+      "tStartMs": 634240,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "of Turkmenistan, it's a bit cut off\nfrom the rest of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 637320,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "You know, a lot of,\nyou know, the GDP isn't very high."
+        }
+      ]
+    },
+    {
+      "tStartMs": 640040,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "It's quite a poor country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 642080,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "There's not been the kind of will\nto do something about it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 644400,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "And they couldn't really quite make\ntheir minds up about what they wanted\nto do about it for a long time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 648880,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "First they were like it was\nkind of just, you know, hidden away."
+        }
+      ]
+    },
+    {
+      "tStartMs": 651400,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Then it was like, oh, let's turn it\ninto a tourist attraction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 653880,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Now it's like,\noh no, let's switch it off."
+        }
+      ]
+    },
+    {
+      "tStartMs": 655480,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "It's been a lot of kind of - it seems\nto be something that could only happen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 660000,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "in Turkmenistan, basically.\nHow interesting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 662600,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "You touched briefly on the environmental\nimpact of burning this much methane,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 666520,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "but what is it actually doing\nto the environment?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668880,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Having a fire burn day in, day out,\nfor more than 50 years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 671840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Well. It's burning - when you burn\nmethane it turns into carbon dioxide."
+        }
+      ]
+    },
+    {
+      "tStartMs": 675160,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "We know carbon dioxide is a\nfossil fuel, bad for the environment,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 677960,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "things like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 680720,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "So if you look\nat pictures of an oil rig or videos"
+        }
+      ]
+    },
+    {
+      "tStartMs": 682880,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "of an oil rig you'll see on top\nor big oil fields,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 685440,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "there's what's known as flaring\nwhere they burn off this excess gas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 688840,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And that is, you know, that's quite\ndamaging for the environment in itself,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 691640,
+      "dDurationMs": 1320,
+      "segs": [
+        {
+          "utf8": "but nothing on this scale."
+        }
+      ]
+    },
+    {
+      "tStartMs": 692960,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "They think something like it's burning\n1000,000 cubic feet worth of gas a day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 698480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And in terms of - you know,\nthat's bad for the environment and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 701520,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "it's it's basically\njust setting money on fire."
+        }
+      ]
+    },
+    {
+      "tStartMs": 704080,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "You could be, you know, putting this\ninto - harvesting this gas properly"
+        }
+      ]
+    },
+    {
+      "tStartMs": 707840,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and selling it to places that need it\ninstead of just literally torching it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 711360,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "Alex, thanks so much\nfor coming on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 713160,
+      "dDurationMs": 760,
+      "segs": [
+        {
+          "utf8": "Thank you very much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 713920,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And thank you for listening.\nThat is it for today's episode."
+        }
+      ]
+    },
+    {
+      "tStartMs": 716720,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "This is what in the world\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 719000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and we'll be back\nwith another episode soon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 722360,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Maybe by then\nthe flames will truly be out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 724560,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Thank you so much\nfor joining us. Bye."
+        }
+      ]
+    }
+  ]
+}

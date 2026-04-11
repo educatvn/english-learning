@@ -1,0 +1,2543 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 200,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Hi guys. It's Hannah Gelbart\nand welcome"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2480,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "to this episode of What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6080,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Now you think that the more money you'd\nhave, the easier it would be to travel,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9480,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Right? Well,\nthat is not necessarily true."
+        }
+      ]
+    },
+    {
+      "tStartMs": 12360,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "And even Africa's second richest man,\na guy called Aliko Dangote from Nigeria,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 17320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "has complained that he's had\nto get 35 different visas"
+        }
+      ]
+    },
+    {
+      "tStartMs": 20920,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "just to travel around Africa.\nSo why is it so hard?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 24400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Well, there are some arrangements\nwithin parts"
+        }
+      ]
+    },
+    {
+      "tStartMs": 27040,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "of Africa where\npeople can travel visa free,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 29120,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "but generally looking through social\nmedia, all I can see are complaints"
+        }
+      ]
+    },
+    {
+      "tStartMs": 32960,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "about the cost and logistics\nof travel around Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 36760,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So today we are going to find out\nwhat it would take to create"
+        }
+      ]
+    },
+    {
+      "tStartMs": 40520,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "completely borderless travel\nin Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 47880,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Here in the studio with me\nto talk this through is Daniel Dadzie,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 50840,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "BBC journalist. Hey, Daniel.\nHi, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 53280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Hey, hey. So you are Ghanaian."
+        }
+      ]
+    },
+    {
+      "tStartMs": 55920,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "You travelled around\na lot around the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 58120,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "A few times.\nWhat's your experience been like?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 60600,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "It's easy in some bits\nand almost impossible in other parts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 63960,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "So, um, within West Africa, which is\nwhere I've done the bulk of my travel,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68760,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "it's quite simple to move"
+        }
+      ]
+    },
+    {
+      "tStartMs": 70960,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "if you're speaking of moving by air."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74480,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "That is, you're not going to go\nthrough any land borders."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "You're just going to use your passport,\ngo from airports to airports."
+        }
+      ]
+    },
+    {
+      "tStartMs": 80400,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "It's quite simple because it works\nbasically like you have a Schengen visa"
+        }
+      ]
+    },
+    {
+      "tStartMs": 83640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "or, you know,\nyou have an EU visa"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86520,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and you you have an EU passport\nand you're moving through Europe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 89680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Right? It's quite straightforward."
+        }
+      ]
+    },
+    {
+      "tStartMs": 91760,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "In some other places it's difficult.\nI remember this wasn't me personally,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96160,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "but um, last year I interviewed a\ngroup of people who drove from Accra"
+        }
+      ]
+    },
+    {
+      "tStartMs": 100080,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "to London, and they mentioned\nhow they were able to use"
+        }
+      ]
+    },
+    {
+      "tStartMs": 103800,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "their national identification card\nfor Ghana to drive from Ghana"
+        }
+      ]
+    },
+    {
+      "tStartMs": 108280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "to Mauritania, which is\nthe last West African country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111200,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "But entering Mauritania was\nvery difficult."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116600,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "They had to change\na border crossing points."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120120,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Then they were told that they\ndon't have the right documentation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 123640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "It was very difficult.\nAnd from that point,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125800,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "right up until they got\nthrough Europe into London, it was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 129880,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "a different sort of arrangements\nto cross one border after the other."
+        }
+      ]
+    },
+    {
+      "tStartMs": 134200,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "I found that it's quite simple\nif you travel by air,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137560,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "but in Africa is\nvery expensive to travel by air."
+        }
+      ]
+    },
+    {
+      "tStartMs": 139960,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So, um, it's, it's a yes and,\nand no, it's really a mixed reaction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144360,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Why is it generally so complicated?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 146920,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "I think that it's it's because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149080,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "as a continent,\nwe've not yet made those agreements"
+        }
+      ]
+    },
+    {
+      "tStartMs": 153400,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "on a diplomatic level\nand a geopolitical level"
+        }
+      ]
+    },
+    {
+      "tStartMs": 155720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "that would make it easy for\npeople to move around in that way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 159040,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So the continent is sectioned off,\nif I can use that expression."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162560,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "There's ECOWAS the Economic Community\nof West African states,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 165520,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "there's the East African Community,\nthat SADC, which is\na southern African community."
+        }
+      ]
+    },
+    {
+      "tStartMs": 169440,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "And within these blocs,\nit's relatively easy to move around."
+        }
+      ]
+    },
+    {
+      "tStartMs": 174400,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Like I was talking about my West\nAfrican experience, for instance."
+        }
+      ]
+    },
+    {
+      "tStartMs": 176840,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "Yeah. Yes. And so but when you\nare trying to cross from one block"
+        }
+      ]
+    },
+    {
+      "tStartMs": 181480,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "to another, it's really depends\non that country and their rules."
+        }
+      ]
+    },
+    {
+      "tStartMs": 184960,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "The truth is that there are a number\nof countries,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 188040,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "like Kenya who have opened their\ntheir borders to all Africans to enter,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193120,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "but there is still a number of rules,\neven if it's like visa on arrival."
+        }
+      ]
+    },
+    {
+      "tStartMs": 197280,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "In fact, AfDB did a study\nlast year in 2023,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200480,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "and they found that for 46% of countries\nto country travel within Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 204880,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "some sort of visa is required."
+        }
+      ]
+    },
+    {
+      "tStartMs": 207040,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "That makes it more difficult\nfor persons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 209760,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "We're going to hear more about Kenya\nin a minute because it's such\nan interesting case study, isn't it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 213160,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "But now let's hear from Zubaidah-Abdel Rahman,\nwho is a Ghanaian blogger."
+        }
+      ]
+    },
+    {
+      "tStartMs": 218240,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I've been to 20 countries so far,\nand I would say after that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 221360,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "only about three or four\nof them have been within Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 224280,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "mostly because travel\nwithin Africa is very expensive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226960,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "Surprisingly, I could get a ticket to\nGermany for $600, whereas if I was,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231880,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "if I wanted to go\nto a tourist hotspot in Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235280,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "like let's say, South Africa, I'd\nhave to spend up 1100 on the tickets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 239080,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Like the price gap is very big.\nThere's always the option to go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242440,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "via road,\nbut that doesn't seem very safe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 244720,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And I see a lot of horror stories from\npeople who have gotten to the border,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 248240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and there's been an issue\nor being robbed on the way,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251120,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and it just seems\nlike a bit of a risk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 253880,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So I would rather just fly wherever\nI want to go. And unfortunately,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 257960,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "within Africa that's not really\npossible because it's very expensive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261120,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Like I said,\nwith regards to water restrictions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 263120,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "I'd say it's definitely easier to travel\nwithin Africa because to leave Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 267080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "the visa requirements are\na bit stringent, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 269600,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "and a lot more is required.\nAnd so it's not as easy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 273200,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "It's not as straightforward\nwith the application processes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 275560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "But within Africa,\nwe Ghanaians"
+        }
+      ]
+    },
+    {
+      "tStartMs": 278240,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "for example, we are lucky that there are\ncertain places we can go visa free."
+        }
+      ]
+    },
+    {
+      "tStartMs": 281440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "For example, South Africa\nrecently lifted their restrictions so"
+        }
+      ]
+    },
+    {
+      "tStartMs": 284560,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "for a number of days\nwe can go visa free."
+        }
+      ]
+    },
+    {
+      "tStartMs": 286760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "We can go to Seychelles,\nwe can go to Nigeria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 288840,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "There are a number of places we\ncan visit. However, let me use Europe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 292240,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "for example, if I got one\nSchengen visa to a European country,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 296400,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "I could use that to explore all\nof Europe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 298520,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "And even though I could go by train,\nright, I don't even need to fly around"
+        }
+      ]
+    },
+    {
+      "tStartMs": 302080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "so I could take a train\nfrom one place And just keep going,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 304600,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "keep sightseeing.\nIt just it's a it's a good package."
+        }
+      ]
+    },
+    {
+      "tStartMs": 308040,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Whereas in Africa,\nbecause I have a visa"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311640,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "exemption for some places,\nbut not everywhere,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 314640,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and there's no one train system\nthat takes people through countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 317600,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "It makes even exploring the continent\nvery hard."
+        }
+      ]
+    },
+    {
+      "tStartMs": 320520,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So like she said, it's also\na question of infrastructure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 323840,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Yes, yes it is. And you know,\nthe the mere fact that there are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 328040,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "very few pan continental carriers\nthat can take you from country"
+        }
+      ]
+    },
+    {
+      "tStartMs": 332160,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "to country without transiting\nthrough another country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 334560,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Like, for instance,\nif I'm travelling via, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 337960,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "the Ethiopian Airlines,\nI need to transit through Addis."
+        }
+      ]
+    },
+    {
+      "tStartMs": 340440,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "If I'm travelling via Kenya Airways,\nI need to transit through Nairobi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 343680,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "It's convenient for the airlines to\ndo that, but as a result of that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 349000,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "it's a bit more difficult\nfor you to map travel"
+        }
+      ]
+    },
+    {
+      "tStartMs": 351920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "via Kenya Airways between Ghana\nand let's say Morocco or Ghana,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356160,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and let's say Egypt, because you're\nadding a lot more flights hours."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359040,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So in the infrastructure is\na very important."
+        }
+      ]
+    },
+    {
+      "tStartMs": 362800,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "But there's a certain bedrock\nof maybe rail travel"
+        }
+      ]
+    },
+    {
+      "tStartMs": 366320,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "like Zubaydah mentioned,\nand road travel"
+        }
+      ]
+    },
+    {
+      "tStartMs": 368440,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "that is needed, you know,\nto to facilitate this kind of travel."
+        }
+      ]
+    },
+    {
+      "tStartMs": 372440,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "So the African Union wants\nto solve some of these problems\nthat you've experienced,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 376000,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "and they want to remove restrictions\nand enable freedom of movement."
+        }
+      ]
+    },
+    {
+      "tStartMs": 380000,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "They actually signed a protocol in 2018\nto do this, but it hasn't been ratified."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383800,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "So it hasn't been made official by\nmany, many countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 387440,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Why has it not been ratified?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 389560,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "What's the hold up?\nSo in terms of the African Union,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 393040,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "there are a lot of plans that always\nseem to be percolating. At the moment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 397400,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "we do have a majority of about 33\ncountries that have signed up for it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 401640,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and a further four countries\nhave deposited ratifications."
+        }
+      ]
+    },
+    {
+      "tStartMs": 404600,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "What that means is\nthat they are saying, look,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 406960,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "if this is passed,\nI will agree to it. You get it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 410320,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So we do have a majority of countries\nthat have signed up for it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 412960,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "But remember that the continent is\nquite a complex continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 416800,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "There's a lot\nof geopolitics to consider."
+        }
+      ]
+    },
+    {
+      "tStartMs": 418720,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "There's a lot of local dynamics\nto consider."
+        }
+      ]
+    },
+    {
+      "tStartMs": 422000,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Currently, Algeria\nand Morocco border each other."
+        }
+      ]
+    },
+    {
+      "tStartMs": 425120,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "But Algeria and Morocco don't allow\ndirect flights between each other."
+        }
+      ]
+    },
+    {
+      "tStartMs": 428960,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "That's nuts. Yes, right. Because of\nthe Western Sahara, because of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 433160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "an age old Western Sahara political\ndeadlock between the two countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 437400,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "It's actually even almost, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 439880,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "um, jeopardised a football tournament\nthere at the beginning of last year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 444320,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So it's moving is\nwhat the diplomats tell tell us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448280,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "But there are some very real challenges\nthat this has to be built on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452960,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "That has to be it has\nto be solved before, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 455760,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "this is built on top of it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457160,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "The African Union\nhas set an agenda for 2063."
+        }
+      ]
+    },
+    {
+      "tStartMs": 461200,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "It seems like a long way off.\nI know, I know, I mean,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 464360,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "if I wanted to have a holiday\nin the sun, I won't wait till 2016."
+        }
+      ]
+    },
+    {
+      "tStartMs": 468520,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Be around for a while.\nExactly, exactly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 470960,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "But apparently it's it's not only\ngoing to facilitate free movement,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 475640,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "it's also going to facilitate\nthe rights to work and residency"
+        }
+      ]
+    },
+    {
+      "tStartMs": 478400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "across the continent.\nSo hopefully that works."
+        }
+      ]
+    },
+    {
+      "tStartMs": 481040,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "You've kind of mentioned already\nlike the European Union\nhas the Schengen area."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "There's Mercosur in South America\nthat lets"
+        }
+      ]
+    },
+    {
+      "tStartMs": 487440,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "like some South American countries\nhave free travel, Asean in Asia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 492520,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "And now the UN actually wants to come\nand get involved in this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 496840,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "to try and implement\nborderless travel in Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 499120,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "You know, on this particular subject,\nI had the pleasure\nof speaking to Natalya Bayona."
+        }
+      ]
+    },
+    {
+      "tStartMs": 502960,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "She is the executive director for UN\ntourism."
+        }
+      ]
+    },
+    {
+      "tStartMs": 505840,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "Here's what she had to say.\nWhen it comes to visa facilitation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 509960,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "UN tourism has some guidelines to\nhelp the countries to open the way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 515000,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "This is not only\na job that we have to do in tourism."
+        }
+      ]
+    },
+    {
+      "tStartMs": 520640,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "This is connected\nwith foreign affairs and diplomacy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 523640,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and this is connected as well\nwith Ministry of Defence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 527360,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "If they together are aligned,\nnormally speaking,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 530640,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "visa openness come,\nso of course the visa goes away."
+        }
+      ]
+    },
+    {
+      "tStartMs": 535000,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "But this is a hard job.\nI see it as a mid-term long term."
+        }
+      ]
+    },
+    {
+      "tStartMs": 540800,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "A strategy is at least seven years\nto ten years from now. Why?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 546480,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Because it's not only about Africa.\nIt's about the geopolitics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 549760,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "In time of war,\neveryone wants to get closer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 552520,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And everyone wants\nto to close the borders."
+        }
+      ]
+    },
+    {
+      "tStartMs": 555200,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "But maybe seven to ten years is\nmy vision."
+        }
+      ]
+    },
+    {
+      "tStartMs": 558240,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "But you know how in the European Union,\nif you have the right passport,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 561760,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "which we no longer do in the UK,\num, you can live and work in any"
+        }
+      ]
+    },
+    {
+      "tStartMs": 566400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "of the countries that belong to,\nto the European Union."
+        }
+      ]
+    },
+    {
+      "tStartMs": 569400,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "Are there plans for that kind of live\nand work visa less existence in Africa?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 574200,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "That's actually the idea\nbehind the agenda 2063."
+        }
+      ]
+    },
+    {
+      "tStartMs": 576920,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "It's not just about tourist visas for\nthat agenda, for the EU's own agenda."
+        }
+      ]
+    },
+    {
+      "tStartMs": 581120,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So stick around till 2063."
+        }
+      ]
+    },
+    {
+      "tStartMs": 583440,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Let's see what happens.\nI'm going to be a grandma by then."
+        }
+      ]
+    },
+    {
+      "tStartMs": 586920,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Um, what are some\nof the benefits that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 589040,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "visa free travel would bring\nto Africans?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 592440,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "The first thing is money.\nThe first thing is money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 594760,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Um, for every dollar that you invest\nin tourism,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 599440,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "for instance,\nyou get about $10 back from the last"
+        }
+      ]
+    },
+    {
+      "tStartMs": 603000,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "time that I checked.\nIf you look at the EU zone"
+        }
+      ]
+    },
+    {
+      "tStartMs": 607240,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "of course,\nlast year there was a big surge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 609280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Sorry, this year there was a big surge.\nSo it was also the Paris Olympics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 611920,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "But even on a normal level,\num, Africa gets"
+        }
+      ]
+    },
+    {
+      "tStartMs": 615560,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "only about 2.5% of\nthe global tourism revenue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 620080,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "That's if you're counting\ninternational tourism receipts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 623680,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "A lot of that is because people within\nEurope are able to travel to Europe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 628240,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "People within America are able\nto travel to the Americas. Okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 632320,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And so if you boost domestic tourism,\nyou're getting a lot of money back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 636600,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "It's also facilitates business because\nit's not just travel within countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 641600,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "It's not just about going to visit.\nThere's medical tourism where people go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 646440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and visit hospitals,\npay lots of money for that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 649600,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "There is also\na business tourism where people go,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 652440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "they set up farms in other parts\nof the in other parts of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 655880,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "They set up businesses\nin other parts of their countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 658800,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Last week, a week or two ago,\nI interviewed um, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 663520,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "a young fintech CEO\nwho has raised $100 million,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 667320,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and he was speaking very,\nvery boldly about moving"
+        }
+      ]
+    },
+    {
+      "tStartMs": 670760,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "to countries like Kenya,\nmoving to the rest of the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 673320,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Someone like that is going to need\nto be able to go to Kenya freely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677600,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "He's in Nigeria, he's going to be\nable to and and one of the reasons"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680960,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "why he picks Kenya, first of all,\nis how easy can you make it for him."
+        }
+      ]
+    },
+    {
+      "tStartMs": 684200,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "You understand?\nAnd the kind of of course,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 686520,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "if you're counting the socio economic\nenvironments that they have as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 689600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So yes, it's a huge advantage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 692600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And you know, there are\nexamples elsewhere for you to see."
+        }
+      ]
+    },
+    {
+      "tStartMs": 695200,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "And it's not just Kenya, as you say."
+        }
+      ]
+    },
+    {
+      "tStartMs": 696680,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "There are a couple of other countries\nin Africa that have scrapped visas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 700520,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So there's Gambia,\nBenin, Rwanda and Seychelles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 703160,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "But Kenya is a really interesting\ncase because it scrapped all visas"
+        }
+      ]
+    },
+    {
+      "tStartMs": 707280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "for African nationals\nat the end of last year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 709520,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So now let's find out\nhow that is working"
+        }
+      ]
+    },
+    {
+      "tStartMs": 711800,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "from our BBC reporter in Nairobi.\nJewel Kiriungi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 714960,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "In January,\nthe Government of Kenya announced"
+        }
+      ]
+    },
+    {
+      "tStartMs": 717680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that tourists would no longer need\na visa in order to enter the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 721760,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "Now, the move was an attempt to promote\nKenya as a tourist destination,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 727640,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "especially\nby attracting business travellers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 731120,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "According to the country's\ntourism board, it says that it hopes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 734520,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "to get some 5.5 million visitors\nevery year in the next four years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 739800,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Uh, previously, visitors would cost,\nuh, an upward of about $50. However,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 744320,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "with the new policy, almost everyone,\nincluding some countries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 748360,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "whose uh citizens previously enjoyed\nfree entry, must pay about $30 for"
+        }
+      ]
+    },
+    {
+      "tStartMs": 754920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "an electronic travel authorisation,\nwhich is also known as an ETA."
+        }
+      ]
+    },
+    {
+      "tStartMs": 759160,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So the visitors who apply\nfor the ETA"
+        }
+      ]
+    },
+    {
+      "tStartMs": 762480,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "must do so online at least three days\nbefore they travel,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 765760,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and pay the $30 as a processing fee."
+        }
+      ]
+    },
+    {
+      "tStartMs": 768720,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Now, part of the new requirements\nalso state"
+        }
+      ]
+    },
+    {
+      "tStartMs": 772000,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that younger children who are\nless than 16 years old 16 years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 776080,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "also have to pay for the ETA and they\ndidn't have to do this previously."
+        }
+      ]
+    },
+    {
+      "tStartMs": 779880,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "Only travellers from the East African\nCommunity are exempted from this fee."
+        }
+      ]
+    },
+    {
+      "tStartMs": 785080,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "Now President Ruto has been,\na calling for a borderless Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 790600,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "He has urged countries to ditch visas\nand encourage the free movement"
+        }
+      ]
+    },
+    {
+      "tStartMs": 795960,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "of people and goods\nacross the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 798560,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "But critics say that\nthe new policy does the opposite."
+        }
+      ]
+    },
+    {
+      "tStartMs": 802640,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Daniel, you've mentioned money,\nyou've mentioned tourism."
+        }
+      ]
+    },
+    {
+      "tStartMs": 805120,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "But it's not just tourism, of course."
+        }
+      ]
+    },
+    {
+      "tStartMs": 807160,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "A lot of people\nare going to want to move abroad"
+        }
+      ]
+    },
+    {
+      "tStartMs": 809200,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "because of work opportunities in search\nof better jobs or better paid jobs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 814960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "What are some\nof the arguments that people give"
+        }
+      ]
+    },
+    {
+      "tStartMs": 817360,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "against free travel in Africa?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 819680,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Yeah, I mean, you go to stronger\neconomies across the continent,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 823520,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "and there always is the case that,\nyou know, this anti-migration"
+        }
+      ]
+    },
+    {
+      "tStartMs": 829040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "or anti-immigration wave\nthat we've seen in the West."
+        }
+      ]
+    },
+    {
+      "tStartMs": 831680,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "It's also present\nin some countries on the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 833920,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "You people make the case that, you know,\nothers will come and take our jobs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 837800,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "People make the case\nthat there's a burden on, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 840360,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "the local systems.\nYou know, you go to the there was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 843520,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "a there's a strong sentiment recorded\nin countries like South Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 846800,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "for instance. But the I think\nthe beginning of this conversation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 850600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "or the premise of this conversation,\nreally doesn't go all the way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 854560,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "to giving everyone rights\nto work everywhere,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 857000,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "because at the heart of it, those are\nalso economic decisions that's there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 862920,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "The home countries are going\nto have to make the big agenda"
+        }
+      ]
+    },
+    {
+      "tStartMs": 866320,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "or the big targets for 2063 includes\nthe right to live and right to work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 871080,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "But for most of the countries where\nyou don't require visas to travel to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 875560,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "in Africa, now, it's just\nfor a limited period of about 90"
+        }
+      ]
+    },
+    {
+      "tStartMs": 878480,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "to, you know,\n90 days to about six months."
+        }
+      ]
+    },
+    {
+      "tStartMs": 880880,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "You can enter the country,\nyou can visit the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 883760,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "But, you know,\nif we were counting as"
+        }
+      ]
+    },
+    {
+      "tStartMs": 886520,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "in the number of countries\nthat will allow you to live there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 888640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "and the number of countries\nthat will allow you to work there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 890800,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "that 46% figure will be even lower."
+        }
+      ]
+    },
+    {
+      "tStartMs": 893200,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "I want to ask a personal question."
+        }
+      ]
+    },
+    {
+      "tStartMs": 895240,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Is there anything that you would\nhave done differently in your life?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 899320,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "You know, growing up in Ghana if you\nhad had completely visa less travel?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 904960,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "I mean, I guess the the question is\nfor my parents"
+        }
+      ]
+    },
+    {
+      "tStartMs": 908720,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "because I spent a lot\nof that time alone with my parents."
+        }
+      ]
+    },
+    {
+      "tStartMs": 911760,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "But yeah, I mean, if I had visa,\nlet's travel across the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 916160,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I'm pretty sure that I would\nhave spent a lot more time, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 919560,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "particularly in my,\nmy late teens and 20s,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 922320,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "I would have spent a lot more time\nlooking at other parts of the continent"
+        }
+      ]
+    },
+    {
+      "tStartMs": 925880,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "that I'd always heard about. I was\nalways curious about North Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 928920,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "I was always curious about East\nand Southern Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 931000,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "But, um, thankfully I'd already done\na bit of travel to Nigeria"
+        }
+      ]
+    },
+    {
+      "tStartMs": 935080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "like Cote d'Ivoire,\na few countries in West Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 938120,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "By the time I was, I was hitting my\n30s. So yeah, not too much to regret."
+        }
+      ]
+    },
+    {
+      "tStartMs": 942560,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Great. Daniel, thanks so much\nfor coming on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 944920,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Thanks a lot.\nI love the new look, by the way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 947240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It's a very glitzy studio.\nThank you, thank you,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 949880,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and thank you for joining us.\nI'm Hannah Gelbert."
+        }
+      ]
+    },
+    {
+      "tStartMs": 952400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "This has been what in the world\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 955160,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "If there is a story\nthat you think we should be covering,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 957320,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "something you want to tell us about,\nyou can get in touch."
+        }
+      ]
+    },
+    {
+      "tStartMs": 959520,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "You can send us a voice note\non WhatsApp. We're on Instagram."
+        }
+      ]
+    },
+    {
+      "tStartMs": 962760,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "Leave us a comment below and we'll be\nback with another episode soon. Bye."
+        }
+      ]
+    }
+  ]
+}

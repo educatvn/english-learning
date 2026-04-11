@@ -1,0 +1,1399 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "People are writing music with AI"
+    } ]
+  }, {
+    "tStartMs": 3200,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "as a tool or even\nas a co-collaborator, if you like."
+    } ]
+  }, {
+    "tStartMs": 5720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I think one of the main reasons\nwhy a lot of artists are still"
+    } ]
+  }, {
+    "tStartMs": 8600,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "very skeptical to use AI at the moment\nis because of its copyright issues."
+    } ]
+  }, {
+    "tStartMs": 13080,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "The future of creative writing,\nof literature, is human, not AI."
+    } ]
+  }, {
+    "tStartMs": 17760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Hey, it's Iqra and this is What in\nthe World from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 21840,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So it won't be news to you guys,\na lot of us are using AI these days,"
+    } ]
+  }, {
+    "tStartMs": 25440,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "when we need a bit\nof creative inspiration to come up"
+    } ]
+  }, {
+    "tStartMs": 28240,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "with that cool caption, maybe\nfigure out the perfect playlist."
+    } ]
+  }, {
+    "tStartMs": 32600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "It's something we were chatting about\non the team earlier,"
+    } ]
+  }, {
+    "tStartMs": 35520,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "that link between AI and creativity,\nwhat it actually means to be creative,"
+    } ]
+  }, {
+    "tStartMs": 40440,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "whether AI can make us more creative."
+    } ]
+  }, {
+    "tStartMs": 42680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "We're going to get into all sides of\nthe debate today. Let's get into it."
+    } ]
+  }, {
+    "tStartMs": 50920,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "So one person who had some of the\nbiggest thoughts on this on the team"
+    } ]
+  }, {
+    "tStartMs": 55840,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "is this man right here, Rio from\nthe What in the World team. Hey, Rio."
+    } ]
+  }, {
+    "tStartMs": 60640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Hey. How are you?\nI'm not bad."
+    } ]
+  }, {
+    "tStartMs": 63040,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Before we get any further, I need\nto figure out. Are you a creative?"
+    } ]
+  }, {
+    "tStartMs": 66520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "How creative are you?\nGood question."
+    } ]
+  }, {
+    "tStartMs": 69280,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Personally, I would say I'm a creative,\nbut not in the traditional sense."
+    } ]
+  }, {
+    "tStartMs": 72800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Most people throw the term around\nand think of poets,  musicians."
+    } ]
+  }, {
+    "tStartMs": 76720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "But me personally, I really enjoy\nediting videos and coming up"
+    } ]
+  }, {
+    "tStartMs": 80160,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "with cool concepts and soundscapes."
+    } ]
+  }, {
+    "tStartMs": 82440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Funnily enough,\nI was on Instagram the other day"
+    } ]
+  }, {
+    "tStartMs": 84840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and I was just scrolling through\nas you do, and an advert"
+    } ]
+  }, {
+    "tStartMs": 87960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "for an AI editing tool popped up,\nand it really got me thinking,"
+    } ]
+  }, {
+    "tStartMs": 92680,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "how many other people\nare using this tool to edit?"
+    } ]
+  }, {
+    "tStartMs": 95280,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Because when I edit,\nit takes me hours."
+    } ]
+  }, {
+    "tStartMs": 97800,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And that's how I kind of fell\ndown this rabbit hole"
+    } ]
+  }, {
+    "tStartMs": 99960,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "of how creative AI is making us."
+    } ]
+  }, {
+    "tStartMs": 102880,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "And it was really interesting\nbecause I read a report published by\nThe Economist that estimates"
+    } ]
+  }, {
+    "tStartMs": 108480,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "16% of workers globally\nare using generative AI monthly."
+    } ]
+  }, {
+    "tStartMs": 114080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Think chatbots like ChatGPT\nor Copilot."
+    } ]
+  }, {
+    "tStartMs": 117920,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "But a quick scroll through YouTube,"
+    } ]
+  }, {
+    "tStartMs": 120640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and you can see people using it\nto produce music,"
+    } ]
+  }, {
+    "tStartMs": 124400,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "to also edit and come up\nand brainstorm different ideas."
+    } ]
+  }, {
+    "tStartMs": 130600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And it's completely understandable.\nThis tool is very, very effective."
+    } ]
+  }, {
+    "tStartMs": 134840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "But personally, the part\nof the editing process that I enjoy\nthe most is cracking the code."
+    } ]
+  }, {
+    "tStartMs": 140040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "It feels like an achievement at the end\nand using AI bypasses that completely."
+    } ]
+  }, {
+    "tStartMs": 145200,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Okay, well, you sound very creative."
+    } ]
+  }, {
+    "tStartMs": 147720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think I'm a little bit of a\ncreative as well. I'll take that hat."
+    } ]
+  }, {
+    "tStartMs": 151720,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "But when we're saying creativity,\nwhat are we meaning here?"
+    } ]
+  }, {
+    "tStartMs": 155320,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "How would you define creativity?\nIt's quite a loose term, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 158880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Definitely.\nAnd it's quite a confusing term too,"
+    } ]
+  }, {
+    "tStartMs": 161680,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "because like I mentioned, most\npeople think of poets, musicians,"
+    } ]
+  }, {
+    "tStartMs": 165080,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "but most people\nwould generally define it"
+    } ]
+  }, {
+    "tStartMs": 167200,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "as the ability to create new\nand unique ideas."
+    } ]
+  }, {
+    "tStartMs": 171160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And of course, our definition\nconstantly evolves throughout time."
+    } ]
+  }, {
+    "tStartMs": 174680,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "It's not a static definition. There's\na test called the Alternative Use Test,"
+    } ]
+  }, {
+    "tStartMs": 179320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and it was created by\nan American psychologist."
+    } ]
+  }, {
+    "tStartMs": 182120,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And it measures levels of creativity."
+    } ]
+  }, {
+    "tStartMs": 184560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And it does that by asking us to name\ndifferent ways to use an object,"
+    } ]
+  }, {
+    "tStartMs": 188840,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "for instance, a tennis ball."
+    } ]
+  }, {
+    "tStartMs": 190640,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And we're given a minute to come up with\ndifferent uses for that tennis ball."
+    } ]
+  }, {
+    "tStartMs": 196640,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I'm rubbish at these things."
+    } ]
+  }, {
+    "tStartMs": 198680,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So if you're listening from home,\nfeel free to join in."
+    } ]
+  }, {
+    "tStartMs": 201360,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I'll essentially name an object"
+    } ]
+  }, {
+    "tStartMs": 203640,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and you will have to come up\nwith different uses for that object."
+    } ]
+  }, {
+    "tStartMs": 206080,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "And we all have a minute to come up\nwith something."
+    } ]
+  }, {
+    "tStartMs": 209040,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "So I've set a timer and the words\nor the object is a skateboard."
+    } ]
+  }, {
+    "tStartMs": 214560,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Ah, I'm already panicking.\nI'm already panicking."
+    } ]
+  }, {
+    "tStartMs": 218680,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Skateboard. Skateboard.\nWhy don't you go first?"
+    } ]
+  }, {
+    "tStartMs": 221160,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Oh, okay. A kateboard."
+    } ]
+  }, {
+    "tStartMs": 223280,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "I would say\nyou could use it to move a fridge."
+    } ]
+  }, {
+    "tStartMs": 225800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I'm not sure if it's strong enough.\nOkay, I'm going to use it"
+    } ]
+  }, {
+    "tStartMs": 228680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "as a foot rest.\nA foot rest. Ooh. Nice."
+    } ]
+  }, {
+    "tStartMs": 231800,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I would say something\nto eat your dinner off of."
+    } ]
+  }, {
+    "tStartMs": 235040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Okay. Oh, I was just about\nto say that - I'm going to say."
+    } ]
+  }, {
+    "tStartMs": 237840,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I'm going to say, put my books on."
+    } ]
+  }, {
+    "tStartMs": 240920,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Nice. A skateboard.\nYou could use it to break a window!"
+    } ]
+  }, {
+    "tStartMs": 245880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Oh, I ran out of ideas.\nI'm sorry."
+    } ]
+  }, {
+    "tStartMs": 249320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Maybe I'm not as great as creative\nas I thought I was."
+    } ]
+  }, {
+    "tStartMs": 251800,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Yeah, well,\nit's super, super challenging."
+    } ]
+  }, {
+    "tStartMs": 254840,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "But now I'm going to use a chatbot\nthe same question to see"
+    } ]
+  }, {
+    "tStartMs": 260080,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "how many ideas it can come up with.\nSo let's see."
+    } ]
+  }, {
+    "tStartMs": 264440,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "So the results are in and it's\ncome up with - oh it's still going."
+    } ]
+  }, {
+    "tStartMs": 271000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "We've got 16, 17, 18, 19, 20."
+    } ]
+  }, {
+    "tStartMs": 273640,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Some of them that's coming up, something\nto move heavy boxes or furniture."
+    } ]
+  }, {
+    "tStartMs": 276680,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Kind of similar to my idea."
+    } ]
+  }, {
+    "tStartMs": 278760,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "A kinetic teaching aid\nto explain friction and momentum."
+    } ]
+  }, {
+    "tStartMs": 283520,
+    "dDurationMs": 360,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 283880,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Would you have come up with that?\nYeah."
+    } ]
+  }, {
+    "tStartMs": 287560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So this test really simply\nillustrates why people are turning"
+    } ]
+  }, {
+    "tStartMs": 291560,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "to this technology because\nit can enhance our creativity."
+    } ]
+  }, {
+    "tStartMs": 294960,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "But, and a big but, if we just use\nthis technology by a simple prompt,"
+    } ]
+  }, {
+    "tStartMs": 300320,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "we're missing out on the fun process."
+    } ]
+  }, {
+    "tStartMs": 302720,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Like we had a massive joke there."
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "It was nice to make mistakes.\nWhen I did this previously,"
+    } ]
+  }, {
+    "tStartMs": 308680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "it came up with 120 alternative uses\nin about ten seconds flat."
+    } ]
+  }, {
+    "tStartMs": 314440,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Yes, and that would be hard\nfor us to do."
+    } ]
+  }, {
+    "tStartMs": 317760,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Very hard. I'm not capable of that.\nWe just about got four."
+    } ]
+  }, {
+    "tStartMs": 322440,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So obviously tools like that,\nAI is being used more and more"
+    } ]
+  }, {
+    "tStartMs": 326160,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "in our daily lives.\nAnd I know, you know,"
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "speaking about this in relation\nto creativity, you've been speaking"
+    } ]
+  }, {
+    "tStartMs": 331680,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "to some creatives, a musician, a poet,\nhearing from both sides of the debate."
+    } ]
+  }, {
+    "tStartMs": 336440,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So let's start\nwith the negative aspects of it."
+    } ]
+  }, {
+    "tStartMs": 338800,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Why do some people think\nit's bad for creativity?"
+    } ]
+  }, {
+    "tStartMs": 342280,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That's a really interesting question."
+    } ]
+  }, {
+    "tStartMs": 343880,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And of course most people have\ndifferent opinions for why it's bad."
+    } ]
+  }, {
+    "tStartMs": 348560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "That can range\nfrom concerns around originality,"
+    } ]
+  }, {
+    "tStartMs": 351800,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "concerns about copyright,\nand fears of being replaced."
+    } ]
+  }, {
+    "tStartMs": 356240,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "But I want to focus on originality."
+    } ]
+  }, {
+    "tStartMs": 358520,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I actually spoke to\na Nigerian poet named Ridwan Fasasi"
+    } ]
+  }, {
+    "tStartMs": 363280,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and he made a really fascinating,\na few fascinating points."
+    } ]
+  }, {
+    "tStartMs": 366560,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "So let's hear from him now."
+    } ]
+  }, {
+    "tStartMs": 368040,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So for me,\nI want to highlight specifically that"
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "when it comes to creative writing,\nthe future of creative writing,"
+    } ]
+  }, {
+    "tStartMs": 373880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "of literature is human, not AI,"
+    } ]
+  }, {
+    "tStartMs": 377240,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "even though some people might have\na different opinion to that."
+    } ]
+  }, {
+    "tStartMs": 380320,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "But for me, as a writer, as a poet,\nI believe that the originality,"
+    } ]
+  }, {
+    "tStartMs": 383760,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "when we want to tell our stories,\nwe want to give our literature,"
+    } ]
+  }, {
+    "tStartMs": 386000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "we want to write our prose, our\nshort stories, our poetry, our drama."
+    } ]
+  }, {
+    "tStartMs": 389760,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "We need this authenticity.\nWe need this originality."
+    } ]
+  }, {
+    "tStartMs": 392560,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And AI can give us\nthat originality we want."
+    } ]
+  }, {
+    "tStartMs": 395440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Because what makes us unique\nas human is the fact"
+    } ]
+  }, {
+    "tStartMs": 398960,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "that we-there is diverse emotions, there\nis diverse opinions on things."
+    } ]
+  }, {
+    "tStartMs": 403560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So we want to see people that brings\nthese different opinions to us,"
+    } ]
+  }, {
+    "tStartMs": 407400,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "to tell us their story, to tell us\nhow they feel about something."
+    } ]
+  }, {
+    "tStartMs": 410960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So, as you heard, Fasasi made\nsome really interesting points,"
+    } ]
+  }, {
+    "tStartMs": 413960,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "and there is a lot of agreement\nonline that AI lacks originality"
+    } ]
+  }, {
+    "tStartMs": 419440,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and just a reminder for our audience\nand for yourself,"
+    } ]
+  }, {
+    "tStartMs": 423080,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "AI works by mining\nthe internet for data,"
+    } ]
+  }, {
+    "tStartMs": 425800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "which essentially means any of the\ncontent it generates isn't original."
+    } ]
+  }, {
+    "tStartMs": 429800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "It isn't boundary pushing.\nIt's not new."
+    } ]
+  }, {
+    "tStartMs": 433400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "You can think of AI\nas essentially"
+    } ]
+  }, {
+    "tStartMs": 436040,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "not being able to create\nfrom its own experience."
+    } ]
+  }, {
+    "tStartMs": 438560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Rather, it reconfigures\nwhat already exists."
+    } ]
+  }, {
+    "tStartMs": 442560,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "But there is a massive\nphilosophical debate at hands,"
+    } ]
+  }, {
+    "tStartMs": 446760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "because how original are we\nin our creations and ideas?"
+    } ]
+  }, {
+    "tStartMs": 450680,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I'm sure many people have heard\nof the expression that\nthere's no such thing as a new idea,"
+    } ]
+  }, {
+    "tStartMs": 454640,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and that was popularised by\nan American writer, Mark Twain."
+    } ]
+  }, {
+    "tStartMs": 458760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "More famously, Pablo Picasso has\nbeen known to say, good artists copy,"
+    } ]
+  }, {
+    "tStartMs": 463720,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "but great artists steal. And\nthis essentially speaks to the point"
+    } ]
+  }, {
+    "tStartMs": 467440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "that there's nothing quite new\nunder the sun."
+    } ]
+  }, {
+    "tStartMs": 470320,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "However, Fasasi's point specifically\nabout authenticity is"
+    } ]
+  }, {
+    "tStartMs": 474960,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "the the dividing point,\nrather the most important point,"
+    } ]
+  }, {
+    "tStartMs": 479320,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "because what differentiates us from\nAI is that we have life experiences,"
+    } ]
+  }, {
+    "tStartMs": 484400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "we have emotions,\nand that's our unique selling point."
+    } ]
+  }, {
+    "tStartMs": 488240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And that's something AI can't take\nfrom us and can't replicate."
+    } ]
+  }, {
+    "tStartMs": 492480,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Authenticity is\nat the core of creative work."
+    } ]
+  }, {
+    "tStartMs": 495760,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Yeah, it's good to hear Fasasi's\npoints on originality and AI there."
+    } ]
+  }, {
+    "tStartMs": 500720,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Of course, we know that\nsome creatives are worried about AI"
+    } ]
+  }, {
+    "tStartMs": 504640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and how it's going to affect\ntheir work, their job security."
+    } ]
+  }, {
+    "tStartMs": 508320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Just tell us a little bit about that.\nYou're absolutely right."
+    } ]
+  }, {
+    "tStartMs": 511280,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "People are concerned\nfor a lot of different reasons."
+    } ]
+  }, {
+    "tStartMs": 515240,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Firstly, I'll start with concerns\nover the fear of being replaced."
+    } ]
+  }, {
+    "tStartMs": 519240,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Only a few years ago,\nwe had the Hollywood strikes,"
+    } ]
+  }, {
+    "tStartMs": 522520,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and actors and writers were in uproar\nover studios incorporating AI"
+    } ]
+  }, {
+    "tStartMs": 527120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "into their work.\nBut what did we see?"
+    } ]
+  }, {
+    "tStartMs": 530240,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Through their strikes,\nthe industry had to pivot"
+    } ]
+  }, {
+    "tStartMs": 533800,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "and control how AI was used\nspecifically around writing scripts."
+    } ]
+  }, {
+    "tStartMs": 539720,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Secondly, there are some concerns\nabout copyright."
+    } ]
+  }, {
+    "tStartMs": 542880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So I've also heard from Veda,\nan animator from Hong Kong."
+    } ]
+  }, {
+    "tStartMs": 546120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Let's listen to what she had to say.\nI think one of the main reasons"
+    } ]
+  }, {
+    "tStartMs": 548840,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "why a lot of artists are still very\nskeptical to use AI at the moment"
+    } ]
+  }, {
+    "tStartMs": 552800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "is because of its copyright issues."
+    } ]
+  }, {
+    "tStartMs": 555000,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "A lot of times,\nAI would steal from artwork"
+    } ]
+  }, {
+    "tStartMs": 557840,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "from the internet made by\nactual artists, and then train it"
+    } ]
+  }, {
+    "tStartMs": 561960,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "to its own model when the original\nartist didn't agree to do so."
+    } ]
+  }, {
+    "tStartMs": 565920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There are also many cases where people\njust claim AI work to be their own,"
+    } ]
+  }, {
+    "tStartMs": 569920,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "which to an untrained eye\nit can be quite hard to tell."
+    } ]
+  }, {
+    "tStartMs": 573960,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And the last couple of years\nin the animation industry,"
+    } ]
+  }, {
+    "tStartMs": 576680,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "at least, a lot of artists are getting\nlaid off and a lot of fresh grads,"
+    } ]
+  }, {
+    "tStartMs": 581040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "even from the top art schools, aren't\nable to secure any creative jobs."
+    } ]
+  }, {
+    "tStartMs": 585360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And I think\nAI did play a huge role in that,"
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "along with many other reasons."
+    } ]
+  }, {
+    "tStartMs": 590120,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I just hope that people, artists in\nthe future generation will keep drawing,"
+    } ]
+  }, {
+    "tStartMs": 594280,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "keep creating\nbecause creativity is one"
+    } ]
+  }, {
+    "tStartMs": 597160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "of the best tools to express yourselves\nand that is really important."
+    } ]
+  }, {
+    "tStartMs": 601880,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Just to sum up a bit,\nin this negative side"
+    } ]
+  }, {
+    "tStartMs": 604720,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "of AI affecting creativity,\nwe've heard the arguments against,"
+    } ]
+  }, {
+    "tStartMs": 608920,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "we're truly the you know, we're\nthe original ones in all of this."
+    } ]
+  }, {
+    "tStartMs": 612000,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And then that point about how it's maybe\naffecting job security for some people."
+    } ]
+  }, {
+    "tStartMs": 616680,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Those are the negatives,\nbut not everyone is against it."
+    } ]
+  }, {
+    "tStartMs": 619800,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "AI can be a\nreally powerful tool as well."
+    } ]
+  }, {
+    "tStartMs": 621960,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "How do some people use it creatively?"
+    } ]
+  }, {
+    "tStartMs": 624720,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "You're absolutely right.\nDuring my research, I came across"
+    } ]
+  }, {
+    "tStartMs": 627640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "so many interesting ways people are\nstarting to use AI quite creatively."
+    } ]
+  }, {
+    "tStartMs": 632360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "One example that I mentioned previously\nis that people are using it"
+    } ]
+  }, {
+    "tStartMs": 635800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "to streamline their content creation."
+    } ]
+  }, {
+    "tStartMs": 638000,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Say for instance,\nthrough video editing software,"
+    } ]
+  }, {
+    "tStartMs": 641920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "whereas others are using it"
+    } ]
+  }, {
+    "tStartMs": 643960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "as a soundboard\nto brainstorm different ideas."
+    } ]
+  }, {
+    "tStartMs": 647320,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "I actually spoke to a\nreally interesting guy called Manon,"
+    } ]
+  }, {
+    "tStartMs": 650960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "who's a music producer,\nand he's worked with really big names"
+    } ]
+  }, {
+    "tStartMs": 655200,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "like Idris Elba, Will.i.am.\nLet's listen to what he had to say."
+    } ]
+  }, {
+    "tStartMs": 659080,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I know today in a lot of my sessions,"
+    } ]
+  }, {
+    "tStartMs": 661120,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "if I'm making music or in a lot\nof the sessions that, you know,"
+    } ]
+  }, {
+    "tStartMs": 665520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "friends of mine would be in, that\nAI is playing a big part in those,"
+    } ]
+  }, {
+    "tStartMs": 669560,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "in those sessions, you know,\npeople are writing music with AI,"
+    } ]
+  }, {
+    "tStartMs": 673480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "as a tool or\neven as a co-collaborator,"
+    } ]
+  }, {
+    "tStartMs": 675760,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "if you like, bouncing around ideas,\nfinding, you know,"
+    } ]
+  }, {
+    "tStartMs": 679880,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "new ways of writing a progression\nor a piece of music"
+    } ]
+  }, {
+    "tStartMs": 685360,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and yeah, it's become a central part\nof a lot of people's creative process."
+    } ]
+  }, {
+    "tStartMs": 688680,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Okay. So I'm going to put you\non the spot here."
+    } ]
+  }, {
+    "tStartMs": 691040,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Oh, gosh. Okay.\nAnswer in one word. And why."
+    } ]
+  }, {
+    "tStartMs": 694960,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Will AI kill creativity?"
+    } ]
+  }, {
+    "tStartMs": 697320,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "No. And the why is because because I\nfeel that humans are innately creative."
+    } ]
+  }, {
+    "tStartMs": 703840,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And it's a thing that we have to do."
+    } ]
+  }, {
+    "tStartMs": 706080,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "We have to scratch the itch.\nAnd I think we're always a step ahead"
+    } ]
+  }, {
+    "tStartMs": 711400,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "in terms of being able to imagine\na different future."
+    } ]
+  }, {
+    "tStartMs": 715520,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "AI today is trained on stuff that\nwe've already imagined, so that's an\ninteresting way to look at it."
+    } ]
+  }, {
+    "tStartMs": 720440,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Manon made some really great points."
+    } ]
+  }, {
+    "tStartMs": 723400,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "For instance, starting to use AI\nas a co-creator, a collaborator."
+    } ]
+  }, {
+    "tStartMs": 728960,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "I can relate to that in the sense\nthat if I wanted to make a song instead"
+    } ]
+  }, {
+    "tStartMs": 733800,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "of using or rather relying on dozens\nof people to write the lyrics,"
+    } ]
+  }, {
+    "tStartMs": 739200,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "produce the melodies,\nI could just bounce ideas off of AI."
+    } ]
+  }, {
+    "tStartMs": 743720,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "This technology is making\ncreative spaces much more accessible,"
+    } ]
+  }, {
+    "tStartMs": 748240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "whereas in the past there were\ntraditional barriers like manpower,"
+    } ]
+  }, {
+    "tStartMs": 752480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "the different skills necessary\nin the team,"
+    } ]
+  }, {
+    "tStartMs": 754720,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "or millions of pounds necessary\nin the budget"
+    } ]
+  }, {
+    "tStartMs": 758320,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "to create creative pieces of work,\nthat's no longer necessary."
+    } ]
+  }, {
+    "tStartMs": 762480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "And experts actually call this process\nthe democratisation of creativity,"
+    } ]
+  }, {
+    "tStartMs": 767280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "because those barriers\nare very quickly being erased."
+    } ]
+  }, {
+    "tStartMs": 772160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And so that's been\nreally good to hear."
+    } ]
+  }, {
+    "tStartMs": 775040,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "But we know AI is changing\nand evolving all the time."
+    } ]
+  }, {
+    "tStartMs": 779880,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "There isn't widespread legislation"
+    } ]
+  }, {
+    "tStartMs": 781960,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "on how creatives can use AI\nas part of their work at the moment."
+    } ]
+  }, {
+    "tStartMs": 787440,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "But we do know there's a rise on some\nplatforms of AI generated labels."
+    } ]
+  }, {
+    "tStartMs": 792600,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So that label is there,\nand it's often a symbol of trust."
+    } ]
+  }, {
+    "tStartMs": 795640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "You know how the content is made when\nyou can see that AI generated label,"
+    } ]
+  }, {
+    "tStartMs": 799400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "often in red caps.\nSo it'll be interesting to see"
+    } ]
+  }, {
+    "tStartMs": 802400,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "in the future how that kind of\nthe technology continues to evolve,"
+    } ]
+  }, {
+    "tStartMs": 806280,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but also how the legislation\naround this evolves"
+    } ]
+  }, {
+    "tStartMs": 809200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and how that affects\ncreatives as well."
+    } ]
+  }, {
+    "tStartMs": 811400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Rio, I knew you were the big thinker\non the team."
+    } ]
+  }, {
+    "tStartMs": 813720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "That's been so interesting\nto hear all sides of the debate."
+    } ]
+  }, {
+    "tStartMs": 816320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Thank you for bringing them here.\nThank you so much for having me Iqra."
+    } ]
+  }, {
+    "tStartMs": 819120,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And I'm going to throw that question\nto you guys too."
+    } ]
+  }, {
+    "tStartMs": 821600,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Is AI killing our creativity?"
+    } ]
+  }, {
+    "tStartMs": 824120,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Remember you can comment below.\nLike and subscribe."
+    } ]
+  }, {
+    "tStartMs": 827200,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "I'm Iqra, this is What in the World\nfrom the BBC World Service\nand we'll see you next time. Bye."
+    } ]
+  } ]
+}

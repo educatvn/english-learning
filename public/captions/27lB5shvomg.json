@@ -1,0 +1,1436 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 120,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "South Sudan is\nthe world's youngest country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 3040,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Since it was formed in 2011,\nit has faced civil war and famine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 7720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "One in four children there\nface malnutrition and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 10120,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "more than two million people\nhave fled the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 13120,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Now, some people are saying\nthat another civil war is looming."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16800,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So today you're going to hear all\nabout what is going on in South Sudan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 20640,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and this is What\nIn The World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Joining me from the Nairobi bureau\nis our reporter Ashley Lime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 31560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Hi. Welcome to the podcast.\nHi, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 34240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "First of all, can you tell me a bit\nabout South Sudan as a country?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37560,
+      "dDurationMs": 5960,
+      "segs": [
+        {
+          "utf8": "South Sudan is the world's youngest\nnation, having been formed in 2011,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 43520,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "after a referendum\nwhere the people living"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46040,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "in the South decided that they wanted\nto secede from the North."
+        }
+      ]
+    },
+    {
+      "tStartMs": 49680,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "This was because of\ninternal divisions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 53040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "cultural and religious differences,\neconomic disparities,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57040,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "and even the fact that the South felt\nlike it was marginalised."
+        }
+      ]
+    },
+    {
+      "tStartMs": 61000,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And so they felt\nthey wanted to be led"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63560,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "and governed by their own person\nand not by the North."
+        }
+      ]
+    },
+    {
+      "tStartMs": 67120,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "And there are two main people that\nwe need to know about in South Sudan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 70480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "There's the president, who's famous\nfor wearing his cowboy hat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 73520,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "That is Salva Kiir.\nAnd the vice president, Riek Machar."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77720,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Tell me a bit about them.\nWhat do we need to know about them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 80600,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "Yeah. So for President Salva Kiir,\nhe's a 73-year-old South Sudanese."
+        }
+      ]
+    },
+    {
+      "tStartMs": 86640,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "He's a former military commander."
+        }
+      ]
+    },
+    {
+      "tStartMs": 89040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "He actually specialised\nin military intelligence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 92080,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "He's from the Dinka community,\nwhich is the largest ethnic community\nin South Sudan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 97600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And also he used to be very quiet,\nrather moderate,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 101560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "if you can call it that.\nAnd therefore, he looked"
+        }
+      ]
+    },
+    {
+      "tStartMs": 104600,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "like a very good choice in the\nSudan People's Liberation Movement."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109720,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "So in 2005, he's actually the one\nwho was picked to lead the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 114040,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And the vice president.\nTell me about him."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116200,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "The vice president, Riek Machar,\nis about 72 years old."
+        }
+      ]
+    },
+    {
+      "tStartMs": 121040,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "He's known as a rebel leader."
+        }
+      ]
+    },
+    {
+      "tStartMs": 123200,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "He's known as the First\nVice President of South Sudan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 126680,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "He's also known as a peacemaker,\nif we can say."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129960,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Because experts say that his position\nin government is actually"
+        }
+      ]
+    },
+    {
+      "tStartMs": 134640,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "a unifying factor, because it brings\nhis Nuer community together."
+        }
+      ]
+    },
+    {
+      "tStartMs": 139680,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "I want to go back to 2011,\njust after the country was formed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 143960,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "A civil war broke out\nshortly afterwards."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146920,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Why was there a civil war\nand how did that end?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149480,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Yeah, so a civil war broke out\ntwo years later"
+        }
+      ]
+    },
+    {
+      "tStartMs": 152680,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "after South Sudan gained\nindependence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 154960,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "And it was after\nPresident Salva Kiir actually accused"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160320,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "the First Vice President Riek Machar,\nof wanting to instigate a coup."
+        }
+      ]
+    },
+    {
+      "tStartMs": 165160,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And as a result of that,\nhe fired the entire cabinet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 168200,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "And that caused war. And maybe\njust to take you back in context."
+        }
+      ]
+    },
+    {
+      "tStartMs": 172320,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "President Salva Kiir is\nfrom the Dinka community,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 175080,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "which is South Sudan's\nlargest ethnic community."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177960,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "While Riek Machar is\nfrom the Nuer community,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 181720,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "which is the\nsecond largest ethnic group."
+        }
+      ]
+    },
+    {
+      "tStartMs": 183960,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "And for some reason, these two men have\nbeen fighting each other all the time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 189160,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And it's not really known. Is it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 192240,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "people trying\nto flex their muscles or not?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 195000,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "But because of the different ethnic\ndifferences between these two men,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199440,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "they have always been fighting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 202160,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "And I'll explain that even as we get\nto what is happening currently."
+        }
+      ]
+    },
+    {
+      "tStartMs": 206280,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Yes. Because there was that civil war\nfrom 2013."
+        }
+      ]
+    },
+    {
+      "tStartMs": 209040,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "Then there was a peace deal in 2018,\nwhich has held until now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 214040,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "How did that come about?\nYeah. So after a lot of fighting,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218320,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "around five years\nof fighting from 2013 to 2018."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225920,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So the two leaders\nwere brought together"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228920,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and told to actually sit down\nand agree on a peace deal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 232640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Because about 400,000 people\nhad been killed and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 236160,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "2.5 million people had been displaced\nand this was too much for the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240840,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "So the peace deal was drafted and\nthey agreed to hold elections,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 246120,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "to match their armies,\nto hold a census,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249240,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "and even to just do some disarmament\nin the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 252840,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "But apparently this was not done\nuntil now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 255840,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "And the two leaders have\njust been coexisting, if I can say."
+        }
+      ]
+    },
+    {
+      "tStartMs": 260680,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Because every time\nthere's a disagreement,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 264040,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "this one will retaliate,\nthe other one will also retaliate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 267480,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "So that is the kind of relationship that\nhas been there since 2018 until now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 273000,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "But as you say,\nthere have been tensions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 275280,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "There's a crisis within the government\nbetween these two characters,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 278560,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "between President Salva Kiir\nand Vice President Riek Machar."
+        }
+      ]
+    },
+    {
+      "tStartMs": 281920,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "What is going on between them now?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283760,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So what happened, to be precise,\nit was 4th March."
+        }
+      ]
+    },
+    {
+      "tStartMs": 287000,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "The forces belonging to,\nactually linked to Riek Machar,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 291120,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "they are called the White Army.\nThey are a Nuer militia group."
+        }
+      ]
+    },
+    {
+      "tStartMs": 294880,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "They overran an army base\nin a place called Nasir County,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 299040,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "which is in Northern South Sudan\nin the Upper Nile State."
+        }
+      ]
+    },
+    {
+      "tStartMs": 302360,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And they attacked\nthe government army."
+        }
+      ]
+    },
+    {
+      "tStartMs": 306640,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And Riek Machar said that\nhe was actually acting in some sort"
+        }
+      ]
+    },
+    {
+      "tStartMs": 310680,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "of retaliation to what President Salva\nKiir had done by attacking his forces"
+        }
+      ]
+    },
+    {
+      "tStartMs": 315720,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "in another county still in the north,\ncalled Ulang County."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319760,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And therefore,\nPresident Salva Kiir also retaliated"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323560,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "by arresting an army general\nand other top officials"
+        }
+      ]
+    },
+    {
+      "tStartMs": 326840,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "of the Sudan People's Liberation\nMovement that belongs to Riek Machar."
+        }
+      ]
+    },
+    {
+      "tStartMs": 331680,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So it's been fighting,\nlike retaliation here and there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 335880,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So that actually caused the conflict"
+        }
+      ]
+    },
+    {
+      "tStartMs": 338800,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "and the tensions that we have\nbeen seeing right now in South Sudan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 342960,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And Riek Machar was arrested on the\n28th of March. What happened there?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 346760,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "Yeah. So before\nnews of Riek Machar's arrest came,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 352280,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "I was in touch\nwith the people from the SPLM-IO,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356760,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "who are actually saying\nthat Riek Machar has been arrested."
+        }
+      ]
+    },
+    {
+      "tStartMs": 361040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And that his house\nhad been surrounded and breached,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 363800,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "but we couldn't confirm then."
+        }
+      ]
+    },
+    {
+      "tStartMs": 366040,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And what does the SPLM-IO stand for?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 368720,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "The SPLM-IO is the Sudan People's\nLiberation Movement In Opposition,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 374360,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "that is actually led by Riek Machar."
+        }
+      ]
+    },
+    {
+      "tStartMs": 377760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "The government actually confirmed\nthat he was under house arrest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 380960,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "And that he was arrested and he was\ngoing to actually take accountability"
+        }
+      ]
+    },
+    {
+      "tStartMs": 387120,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "for inciting a rebellion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 389480,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And even planning to disrupt\nthe upcoming elections,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 392160,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "which should be in December 2026."
+        }
+      ]
+    },
+    {
+      "tStartMs": 394520,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "So that is basically the reason\nwhy he's under house arrest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 399240,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "There have been reports of violence,\nfighting, barrel bombs being used."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406840,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "What is it like in South Sudan now?\nIt's really fragile."
+        }
+      ]
+    },
+    {
+      "tStartMs": 410600,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "It's really volatile\nand the people there are traumatised."
+        }
+      ]
+    },
+    {
+      "tStartMs": 414600,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "We actually reached out to\nsome people in northern South Sudan,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 419200,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "specifically in Nasir County."
+        }
+      ]
+    },
+    {
+      "tStartMs": 421680,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "And some of them were actually telling\nus that barrel bombs were being dropped."
+        }
+      ]
+    },
+    {
+      "tStartMs": 427480,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "They were actually aerial bombardments"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429600,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "and the liquid was highly flammable,\nas described by the UN."
+        }
+      ]
+    },
+    {
+      "tStartMs": 433880,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "And experts were saying\nthat this was ethyl acetate\nthat was being used on the people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 439960,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "So I spoke to someone who requested\nfor anonymity for fear of reprisals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 445040,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "And he told me that that liquid\nactually burned children, women"
+        }
+      ]
+    },
+    {
+      "tStartMs": 450080,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and even men beyond recognition."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452760,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "The person I spoke to\nin Northern South Sudan told me"
+        }
+      ]
+    },
+    {
+      "tStartMs": 455440,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "that the men there were traumatised."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And the women\nand children had actually crossed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 460240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "into Ethiopia\nbecause they feared being attacked."
+        }
+      ]
+    },
+    {
+      "tStartMs": 462880,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So what the men were doing,\nthey were selling their cows"
+        }
+      ]
+    },
+    {
+      "tStartMs": 466280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "and actually buying guns\nto protect themselves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 469360,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So it's a very complicated kind"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471360,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "of conflict that is going on\nin South Sudan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473920,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "How have international organisations\nin other countries responded"
+        }
+      ]
+    },
+    {
+      "tStartMs": 478040,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "to what's been going on recently\nin South Sudan?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 480520,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Several international organisations\nlike the United Nations,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 483840,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "the African Union, IGAD, which is\nthe Intergovernmental Authority"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488160,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "on Development, have come out\nto condemn this conflict"
+        }
+      ]
+    },
+    {
+      "tStartMs": 492520,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "and saying that this country is being\npushed to the brink of civil war."
+        }
+      ]
+    },
+    {
+      "tStartMs": 497360,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And even we had recently\nthe African Union Commission going up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 501640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "to South Sudan, to Juba."
+        }
+      ]
+    },
+    {
+      "tStartMs": 504200,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "They sent The Panel Of The Wise to go\nand try to negotiate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 507560,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "and see whether these two leaders,\nthat is President Salva Kiir"
+        }
+      ]
+    },
+    {
+      "tStartMs": 511200,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and the First Vice President\nRiek Machar,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 513800,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "could come together,\nhave dialogue and try to end this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 517880,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "the tensions that are actually\nbuilding up every day in South Sudan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 521760,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "But so far, I don't think anything\nhas materialised when it comes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 526640,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "to these meetings\nwith the leaders in South Sudan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 529920,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "How likely do you think it is that\nSouth Sudan will have another civil war?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 534000,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "We have spoken\nto several experts"
+        }
+      ]
+    },
+    {
+      "tStartMs": 536480,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "who have been watching the events\nin South Sudan unfold."
+        }
+      ]
+    },
+    {
+      "tStartMs": 541200,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "And they say\nif dialogue is not done very soon,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 546080,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "and if the leaders do not agree\nto sit down and talk about this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 549640,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and end this disagreement,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551640,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "then the country is most likely to go\ninto a civil war."
+        }
+      ]
+    },
+    {
+      "tStartMs": 554920,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And we've seen\neven the opposition people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 557480,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "the SPLM-IO people saying that\nthe peace deal is basically dead,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 563120,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "because now it has been breached by\nRiek Machar being arrested."
+        }
+      ]
+    },
+    {
+      "tStartMs": 568680,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And therefore if they do not release\nhim, they have declared war."
+        }
+      ]
+    },
+    {
+      "tStartMs": 572320,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "So both sides are very adamant\nand people want their country back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 577840,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "People are pleading\nfor peace in South Sudan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 580560,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "Ashley, thank you so much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 582120,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Thank you and goodbye, Hannah.\nAnd thank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585680,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "This is What In The World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 588240,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart,\nand we'll see you next time. Bye."
+        }
+      ]
+    }
+  ]
+}

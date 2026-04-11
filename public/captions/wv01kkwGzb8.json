@@ -1,0 +1,2219 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 4200,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Hey, guys.\nHow'd you sleep last night?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 6520,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Were you out like a light\nas soon as your head hit the pillow?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9360,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Or was it a bit more tossing and\nturning with those racing thoughts?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 13280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "We've all been there.\nWell, experts have been looking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 15640,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "into the different stages of sleep\nfor a really long time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19080,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And it turns out there\nactually might be more stages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21800,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "of sleep than we originally thought."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23960,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "That's what we're getting into\nin today's episode."
+        }
+      ]
+    },
+    {
+      "tStartMs": 26560,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "We're finding out what happens\nto our bodies when we go to sleep,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 30120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "why some people find it harder\nthan others to get to sleep,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33440,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "and some advice on how to get\na better night's sleep as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 36920,
+      "dDurationMs": 5100,
+      "segs": [
+        {
+          "utf8": "I'm Iqra Farooq and this is what in\nthe world from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 44600,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "I'm here with Caroline Steel,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46960,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "who has been looking into all\nof the science behind the sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 50240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "She's the gal who's in the know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52760,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "First off, Caroline,\nhow did you sleep last night?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 56360,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Not very well. It maybe took me, like\nan hour and a half to fall asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 60400,
+      "dDurationMs": 2780,
+      "segs": [
+        {
+          "utf8": "And then I woke up hot.\nSo I opened the window."
+        }
+      ]
+    },
+    {
+      "tStartMs": 63180,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And then I got woken up by birds\nand then the bins being collected."
+        }
+      ]
+    },
+    {
+      "tStartMs": 66860,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Yeah, so not a disaster,\nbut I'm not feeling my best."
+        }
+      ]
+    },
+    {
+      "tStartMs": 70380,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Oh, no. Sorry to hear that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 72780,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "How do you normally sleep?\nWhat kind of sleeper are you?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 75740,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "I take a long time to fall asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78020,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And then if I wake up, I take\na long time to fall back asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81540,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So I'd say,\nin general, I'm a bad sleeper,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 84140,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and I kind of feel like\nI'm constantly on a quest to, like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87460,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "work out how to fall asleep better,\nbut I'm not very good at it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 91580,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "I feel like I can pretty much lie\nmy head down anywhere,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 95140,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and I'll get to sleep a bit\nof a bit of a skill."
+        }
+      ]
+    },
+    {
+      "tStartMs": 97660,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "I don't mean to brag.\nI'm so jealous."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99860,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Can you fall asleep on a train? That's\nwhat I'm always really jealous of."
+        }
+      ]
+    },
+    {
+      "tStartMs": 102380,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "People who sort of put their head\nin their hands."
+        }
+      ]
+    },
+    {
+      "tStartMs": 104300,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Kind of embarrassing\nsometimes as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 106380,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Okay, so you're the opposite of me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 108980,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "If I want to fall asleep,\nI have to have this eye mask."
+        }
+      ]
+    },
+    {
+      "tStartMs": 112060,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "I have to have earplugs as well.\nI take these with me everywhere I go,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 116580,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and I use a lamp to wake me up\nin the morning."
+        }
+      ]
+    },
+    {
+      "tStartMs": 119460,
+      "dDurationMs": 4580,
+      "segs": [
+        {
+          "utf8": "That sort of mimics sunrise.\nAnd I feel like that maybe helps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 124040,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Why is there such a difference\nsometimes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 126280,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Then some people finding it much\nharder than others to get to sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129760,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So there's lots of different reasons.\nIt's partly a genetic lottery."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133160,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "So there are thousands of\ndifferent genes which influence how\neasily we do or don't fall asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 138360,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So it's partly kind of the hand\nyou're dealt when you're born."
+        }
+      ]
+    },
+    {
+      "tStartMs": 141440,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "It's also down to feeling safe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142840,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So if you don't feel safe in that\nmoment, it's really hard to fall asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 145520,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "So if you imagine trying\nto fall asleep with your front door\nwide open, that would be hard, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 150520,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "But it's also\ndown to how safe you felt as a child."
+        }
+      ]
+    },
+    {
+      "tStartMs": 153000,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Some research shows that if you felt\nunsafe or were neglected as a child,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 158120,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "you're sort of you can become wired\nto be super alert, which is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160960,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "a really useful adaptation if you're\ngrowing up in an unsafe environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 164320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "But when you're older, you're safe,\nyou're tired,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 166920,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "and you just want to sleep well,\nit's not so helpful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 169720,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And it's also down\nto our mental health."
+        }
+      ]
+    },
+    {
+      "tStartMs": 171800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "You know, if you're more anxious,\nif you've got sort of more"
+        }
+      ]
+    },
+    {
+      "tStartMs": 173880,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "racing thoughts, that's also\nbeen shown to keep you up at night."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177120,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "There is a lot of different factors\naffecting the quality of the sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 181040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "I want to talk a little bit\nabout the science behind all of this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 184000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and what actually happens\nto our bodies when we go to sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 186720,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "What do we know about that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 188240,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Yeah. So it's it's quite hard to study\nsleep. We don't know everything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 192800,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "But we do know that there is\na collection of brain cells,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 195960,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "a collection of neurons in the\nhypothalamus, which is part of the brain"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199440,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "that's sort of responsible\nfor regulating our body function."
+        }
+      ]
+    },
+    {
+      "tStartMs": 202920,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And they're synchronized\nwith the outside world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So they're synchronized with\nwhen it's light and dark outside."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And during the day when it's light,\nthey're more active."
+        }
+      ]
+    },
+    {
+      "tStartMs": 211280,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And they do things\nlike increasing your heart rate,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 213880,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "increasing your body temperature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 215880,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And then at night they calm down\na bit. They become less active,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219480,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "your heart rate decreases,\nyour body temperature decreases,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "all sort of in preparation\nfor you falling asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225520,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "And then there's also this really\ninteresting chemical called adenosine,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228640,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "which basically builds up\nin your brain as you're awake."
+        }
+      ]
+    },
+    {
+      "tStartMs": 232000,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "As your brain cells are hard at work,\nthey make adenosine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235240,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "And adenosine sort of gives you this\npressure and need to fall asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240920,
+      "dDurationMs": 2180,
+      "segs": [
+        {
+          "utf8": "And luckily,\nonce you do fall asleep,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 243100,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "your brain sort of clears it and you\nwake up the next day feeling refreshed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 246140,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "But yeah, it's down to the buildup of\nadenosine and these incredible cells"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249780,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "in your brain that are synchronized\nwith the outside world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 252260,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "All right, well, we've been finding\nout what happens to the body\nwhen we don't get enough sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 256060,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Jonathan Tam is a sleep doctor\nand expert."
+        }
+      ]
+    },
+    {
+      "tStartMs": 259060,
+      "dDurationMs": 3140,
+      "segs": [
+        {
+          "utf8": "He sent us this. Let's have a listen.\nYou don't sleep during the night."
+        }
+      ]
+    },
+    {
+      "tStartMs": 262200,
+      "dDurationMs": 2740,
+      "segs": [
+        {
+          "utf8": "You can't process the things\nyou've done during the day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 264940,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "You can't lay down the memories\nof the new things that you've done,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 267900,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "and you may be more affected by\nany traumatic experiences\nthat have happened."
+        }
+      ]
+    },
+    {
+      "tStartMs": 272060,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "We know sleep is important\nfor our immune system,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 274380,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "so if you don't get it, you may not be\nable to throw off those pesky colds"
+        }
+      ]
+    },
+    {
+      "tStartMs": 277780,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "as easily, and you may not respond\nto vaccines as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 281180,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "During the day,\ntoxins can build up in our brain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 283980,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "These are removed during sleep,\nand there's some evidence to suggest"
+        }
+      ]
+    },
+    {
+      "tStartMs": 287500,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "that if they're not,\nwe may be more at risk"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289940,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "for conditions like\nAlzheimer's disease later in life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 293060,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Quite apart from all of this, your\nbrain knows just how important sleep is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297260,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And if you don't get it one night\nthen the next day,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 299500,
+      "dDurationMs": 3700,
+      "segs": [
+        {
+          "utf8": "it will make you feel exhausted.\nTo encourage you to get more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 303200,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "I know that you recently went\nto a sleep lab, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 306800,
+      "dDurationMs": 2900,
+      "segs": [
+        {
+          "utf8": "What happened there?\nWhat did you go through?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 309700,
+      "dDurationMs": 2940,
+      "segs": [
+        {
+          "utf8": "So I went to a sleep lab in Cardiff"
+        }
+      ]
+    },
+    {
+      "tStartMs": 312640,
+      "dDurationMs": 2060,
+      "segs": [
+        {
+          "utf8": "in Wales, which was really,\nreally interesting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 314700,
+      "dDurationMs": 4780,
+      "segs": [
+        {
+          "utf8": "They sort of have all these rooms\nwhich are sort of designed for\na perfect night's sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319480,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "They've got no windows,\nso there's no light to wake you up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 322280,
+      "dDurationMs": 1860,
+      "segs": [
+        {
+          "utf8": "They're at the perfect temperature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 324140,
+      "dDurationMs": 2340,
+      "segs": [
+        {
+          "utf8": "So everything's sort of in favor of\nyou falling asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Apart from the fact\nthat they put electrodes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 328840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "on your scalp,\nwhich isn't super comfortable."
+        }
+      ]
+    },
+    {
+      "tStartMs": 332080,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So I sort of had a cap\nwith electrodes attached to the skin"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335920,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "on my scalp to monitor my brain\nas I was falling asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339200,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And so they're sort of looking\nfor two things in particular."
+        }
+      ]
+    },
+    {
+      "tStartMs": 342960,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "They're looking for alpha waves,\nwhich are a sign"
+        }
+      ]
+    },
+    {
+      "tStartMs": 345400,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "that you're conscious and aware.\nSo when your alpha waves"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347920,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "sort of disappear,\nit shows that you're falling asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 350680,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And they're also looking for signs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 352720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "of rapid eye movement,\nwhich is one of the stages of sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 355960,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So it can sort of tell you\nat what stage of sleep you are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359560,
+      "dDurationMs": 2340,
+      "segs": [
+        {
+          "utf8": "Unfortunately, I didn't fall asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 361900,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Oh, no. I was going to say you must have\nfallen asleep. You're in a sleep lab."
+        }
+      ]
+    },
+    {
+      "tStartMs": 365700,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "I didn't fall asleep,\nwhich was really frustrating."
+        }
+      ]
+    },
+    {
+      "tStartMs": 368260,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I think the added pressure\nof being like, I'm in a sleep lab,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 371300,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "I want to learn about my brain.\nWhen I'm asleep, I must fall asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 374380,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "I just sort of lay there\nreally frustrated."
+        }
+      ]
+    },
+    {
+      "tStartMs": 376860,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Um, but I got to see my sort\nof brain graph afterwards,\nwhich was really interesting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 380620,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "I could see the alpha waves becoming\nmore spaced out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 384060,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "and sort of less frequent\nas I was sort of drifting off."
+        }
+      ]
+    },
+    {
+      "tStartMs": 388740,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "But then I'd suddenly jolt back awake\nand the alpha waves would be back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 392580,
+      "dDurationMs": 600,
+      "segs": [
+        {
+          "utf8": "Gosh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 393180,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Yeah, it was a very frustrating,\nfrustrating experience."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396260,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "Yeah. Oh my gosh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 398020,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Um, but we heard about those sleep\nstages there with the REM stage as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 402700,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "I wondered if you could talk me\nthrough that a little bit more,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 404940,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "because there could be more\nsleep stages than we thought, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 408900,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Yeah. So it's sort of generally accepted\nthat there are four stages of sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 412980,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "There's light sleep deeper sleep the\ndeepest sleep, and then REM sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417420,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "That's the rapid eye movement sleep,\nwhich is what happens"
+        }
+      ]
+    },
+    {
+      "tStartMs": 420340,
+      "dDurationMs": 3260,
+      "segs": [
+        {
+          "utf8": "when you're sort of dreaming and your\neyes are darting all over the place,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 423600,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "and we sort of cycle through those\nstages about once every 90 minutes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 428440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "But I interviewed a scientist from\nthe University of Oxford who's looked"
+        }
+      ]
+    },
+    {
+      "tStartMs": 431720,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "at people asleep in MRI scanners,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 434400,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "and he thinks there could be as\nmany as 19 different stages of sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 439040,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "Wow. Yeah.\nWhich is really interesting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 440560,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And he thinks\nwe don't sort of necessarily go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 442920,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "through them one after the other."
+        }
+      ]
+    },
+    {
+      "tStartMs": 444920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So we don't go one, two, three, four,\nfive, six. We could go stage four."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448760,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Stage nine. Stage 12.\nStage two."
+        }
+      ]
+    },
+    {
+      "tStartMs": 451360,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And that there's sort of\na many different routes into sleep,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 454200,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "but for now\nsort of more research needed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 456720,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Mhm. And what\nif you enter a different stage"
+        }
+      ]
+    },
+    {
+      "tStartMs": 460320,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "at just a much later time\nthan you normally would."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Like for example,\nprobably lots of listeners can relate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 467440,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "to coming back from a night out\nat three a.m.."
+        }
+      ]
+    },
+    {
+      "tStartMs": 469720,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Do we know what happens\nto the body then?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471760,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Does it go into certain stage\nor what happens?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 474360,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Well, you're still if we're talking\nabout the four stages of sleep,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 477640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "you're still sort of progress\nthrough the different stages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 480520,
+      "dDurationMs": 2500,
+      "segs": [
+        {
+          "utf8": "But if you have to wake up\nat a certain time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 483020,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "it might be that you end up sort of\ngetting yanked out of sleep at, say,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 486820,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "a really deep stage of sleep when\nyou weren't really ready to wake up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 490460,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So as well as getting enough sleep,\nit's great if you can wake up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 494300,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "at the right point in your sleep\ncycle so you don't sort of feel that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 497620,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "you know, when your alarm goes off\nand it feels really jarring."
+        }
+      ]
+    },
+    {
+      "tStartMs": 501340,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Um, that can be avoided if you\ncan sync up with your sleep cycle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 505180,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And I know you're not an expert,\nbut you've been through the journeys."
+        }
+      ]
+    },
+    {
+      "tStartMs": 508820,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "You're still going\nthrough the journey."
+        }
+      ]
+    },
+    {
+      "tStartMs": 510500,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Do you have any advice for getting\na good night's sleep? What's helped you?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514340,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Oh, there's so many different things\nyou can do. I guess it's kind of."
+        }
+      ]
+    },
+    {
+      "tStartMs": 517020,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "It's worth working out what it is\nthat's stopping you from falling asleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 520460,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So it could be your environment,\nwhich is great if you can change it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 524540,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So you want to be in a dark room."
+        }
+      ]
+    },
+    {
+      "tStartMs": 526820,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So if you're not in a dark room,\nget an eye mask like me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 529540,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "You want to be in a quiet space.\nIf it's not quiet,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 532020,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "I would recommend using earplugs.\nYou want it to be a good temperature,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 535540,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "so about 19 degrees,\nwhich I know is really hard."
+        }
+      ]
+    },
+    {
+      "tStartMs": 538500,
+      "dDurationMs": 3500,
+      "segs": [
+        {
+          "utf8": "If you're somewhere where it's hot and\nit's summer, I'm struggling with that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 542000,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "at the moment, so I'm using a fan\nand leaving my window open."
+        }
+      ]
+    },
+    {
+      "tStartMs": 545680,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "But with that comes extra noise,\nso it's difficult."
+        }
+      ]
+    },
+    {
+      "tStartMs": 549240,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "If you're someone who's kept up by\nanxiety and racing thoughts,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 553600,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "it's a good idea to try and do something\nbefore bed that will distract you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 556920,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "from those. So the sort\nof research shows that, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 559440,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "doing things like reading a book\nthat takes you into another world"
+        }
+      ]
+    },
+    {
+      "tStartMs": 562400,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "or chatting to a friend or something\nlike that could really help."
+        }
+      ]
+    },
+    {
+      "tStartMs": 565880,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And then not doing things\nlike drinking caffeine,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 569600,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "that can make a huge difference.\nSo caffeine is incredible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 572480,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "It blocks the receptors in our brains"
+        }
+      ]
+    },
+    {
+      "tStartMs": 574640,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "for adenosine, which is\nthe chemical I mentioned before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 577560,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "That sort of builds up\nand makes us feel tired."
+        }
+      ]
+    },
+    {
+      "tStartMs": 579520,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So it can really help if you're feeling\nsort of symptoms of sleepiness,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 583200,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "but then it can stop\nyou falling asleep later."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585240,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So avoiding things like caffeine,\navoiding alcohol,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 587720,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "which also disrupts your duration\nand quality of sleep as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 591320,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Okay, well let's bring in\nthe expert on this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 593400,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "We've got some sleep tips\nfor you all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 595960,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "You heard from Jonathan Tam, the\nsleep doctor, a little bit earlier."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598800,
+      "dDurationMs": 2500,
+      "segs": [
+        {
+          "utf8": "Let's bring him back\nand see what his tips are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 601300,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "We can help sleep\nby trying to help our body clock."
+        }
+      ]
+    },
+    {
+      "tStartMs": 604580,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "You can do that by getting up\nat roughly the same time every day"
+        }
+      ]
+    },
+    {
+      "tStartMs": 607660,
+      "dDurationMs": 5960,
+      "segs": [
+        {
+          "utf8": "and seeking light when you do, but\navoiding it later into the evenings."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613620,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "You can also get into trouble if\nyou spend a lot of time in bed awake,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 618340,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "at which point you might start\nto associate your bed, bedroom,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 621420,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "even the act of trying to sleep\nwith wakefulness."
+        }
+      ]
+    },
+    {
+      "tStartMs": 625260,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So if you are having trouble with\nyour sleep, it's important only to go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 628180,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "to bed when you start feeling sleepy\nto not have a rigid bedtime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 632020,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "And if you do find yourself lying\nin bed awake for long periods,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 635140,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "then simply get up,\ngo somewhere else,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 637220,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and do something else\nuntil you feel sleepy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 639820,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "If you're choosing to do other things\nin the bedroom"
+        }
+      ]
+    },
+    {
+      "tStartMs": 641820,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "like reading, watching television,\neven working."
+        }
+      ]
+    },
+    {
+      "tStartMs": 645020,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Try and take those things\nsomewhere else and save the bedroom"
+        }
+      ]
+    },
+    {
+      "tStartMs": 647860,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "for sleep and intimacy with partners."
+        }
+      ]
+    },
+    {
+      "tStartMs": 651020,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "But through all of this, it's\nimportant to recognize that sleep"
+        }
+      ]
+    },
+    {
+      "tStartMs": 654620,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "isn't something you can try to do.\nIt's something that comes to you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 658260,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "And if it doesn't, well, sometimes\nyou just have to give yourself a bit\nof slack and let it come to you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 664740,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Now, a couple of bad nights here\nand there are part of life,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668700,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "but if you find\nyourself sleeping badly"
+        }
+      ]
+    },
+    {
+      "tStartMs": 671020,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "for more than three months,\nit's definitely time to see a doctor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 674900,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So I know, you know, you went on this\npersonal mission for this documentary."
+        }
+      ]
+    },
+    {
+      "tStartMs": 679140,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Has your sleep improved since then? Have\nyou discovered more about your sleep?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 682580,
+      "dDurationMs": 960,
+      "segs": [
+        {
+          "utf8": "At least since then.\nThen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 683540,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "I've definitely discovered more about\nmy sleep, and my sleep has improved,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 687340,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "but not for probably\nthe reason you'd think it would."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691340,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So I every morning I wake up,\nI have a coffee,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 694580,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and then sort of throughout the day\nI'll have a cup of decaf coffees."
+        }
+      ]
+    },
+    {
+      "tStartMs": 697220,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "I normally have a decaf coffee\nbefore bed as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 699740,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "Um, and I went to replace\nmy coffee pods a couple of weeks ago,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 706060,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "and I realized that\nmy decaf pod was sat a box of pods,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 710980,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "was sat where\nmy caffeinated pod should be,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 713620,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "and my caffeinated pods were sat\nwhere my decaf pods should be."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717380,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So for the last three months,\nand while making this program"
+        }
+      ]
+    },
+    {
+      "tStartMs": 720020,
+      "dDurationMs": 2420,
+      "segs": [
+        {
+          "utf8": "and while going to the sleep lab."
+        }
+      ]
+    },
+    {
+      "tStartMs": 722440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "I'd been waking up having\na decaf coffee,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 725080,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "wondering why I still felt awful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 727400,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And then just before bed,\ndrinking caffeine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 729760,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "So I'd say really pay attention to,\nto what coffee you're drinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 734680,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So yeah, since I fixed that,\nI'm sleeping much better."
+        }
+      ]
+    },
+    {
+      "tStartMs": 737000,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "But not for any reason other\nthan, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 740120,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "realizing I made\na really stupid mistake before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 742280,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "Oh, well, at least you got there\nin the end."
+        }
+      ]
+    },
+    {
+      "tStartMs": 743960,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Got there in the end. But yeah,\nthree months of bad sleep just due"
+        }
+      ]
+    },
+    {
+      "tStartMs": 746520,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "to accidentally putting my\ncaffeinated pods in the wrong place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 749640,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Oh my gosh, Caroline, thank you so much\nfor coming on chatting all things sleep."
+        }
+      ]
+    },
+    {
+      "tStartMs": 753800,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "I learned a lot and I hope\nyou get some good sleep as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 757040,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Thank you. I'll try.\nI don't know about you guys,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 759880,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "but I'm taking notes of all of those\nsleep tips. It's been so useful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 764440,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "What's helped you guys get\na better night's sleep in the past?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 767000,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Comment below. We're going to read\nall of them. Like and subscribe too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 771320,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "You've been watching what in\nthe world from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 774520,
+      "dDurationMs": 3740,
+      "segs": [
+        {
+          "utf8": "I'm Iqra Farooq and\nwe'll see you guys next time. Night."
+        }
+      ]
+    }
+  ]
+}

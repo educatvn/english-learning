@@ -1,0 +1,1471 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Across the pond,\nin the US, Bloomberg reported"
+    } ]
+  }, {
+    "tStartMs": 2320,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "an estimated $600 million in sales\nfor romantasy last year,"
+    } ]
+  }, {
+    "tStartMs": 7560,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "compared with, I think, sales in the\nregion of 450 million the previous year."
+    } ]
+  }, {
+    "tStartMs": 12000,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "You'll see on TikTok and on Booktok\npeople using little chilli emojis"
+    } ]
+  }, {
+    "tStartMs": 16040,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "to kind of denote how erotic\na novel is and saying like,"
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "if you want a spicier version of this\nbook, here's one with three chillies."
+    } ]
+  }, {
+    "tStartMs": 23280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "This one's got one,\nhere's one with four."
+    } ]
+  }, {
+    "tStartMs": 26640,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Hello, I'm William Lee Adams,\nand this is What in the World"
+    } ]
+  }, {
+    "tStartMs": 29800,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 32400,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Today we're talking\nabout a book genre that Booktok,"
+    } ]
+  }, {
+    "tStartMs": 35320,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "TikTok's reading community,\nis obsessed with."
+    } ]
+  }, {
+    "tStartMs": 38720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "There's usually\na female main character,"
+    } ]
+  }, {
+    "tStartMs": 41360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and over the course of the book,\nshe discovers she has a secret power."
+    } ]
+  }, {
+    "tStartMs": 44920,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "And then there's a sexy, muscular\nanti-hero who she falls in love"
+    } ]
+  }, {
+    "tStartMs": 49800,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "with in a sort of enemies\nto lovers plot."
+    } ]
+  }, {
+    "tStartMs": 52960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Now, he's often referred to lovingly\non TikTok as a shadow daddy,"
+    } ]
+  }, {
+    "tStartMs": 57840,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "so think leathery wings\nand a power to control the darkness."
+    } ]
+  }, {
+    "tStartMs": 62680,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "He's also a bit of a bad boy and\ngenerally considered very, very hot."
+    } ]
+  }, {
+    "tStartMs": 67240,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Now put it all together\nand we are talking about romantasy."
+    } ]
+  }, {
+    "tStartMs": 71040,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "That's romance meets fantasy."
+    } ]
+  }, {
+    "tStartMs": 73440,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "But rather\nthan just describing it to you,"
+    } ]
+  }, {
+    "tStartMs": 75680,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "we thought we'd give you a little taste.\nA bit of a teaser, if you will."
+    } ]
+  }, {
+    "tStartMs": 79720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "I'm joined by\nBBC journalist Maia Davies. Maia, hi."
+    } ]
+  }, {
+    "tStartMs": 83800,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Hi. How are you?\nReally good."
+    } ]
+  }, {
+    "tStartMs": 85920,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "And I'm hoping you'll be good after\nwe read a passage written by What\nin the World's Emily."
+    } ]
+  }, {
+    "tStartMs": 91600,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Now, she's not an author,\nbut she is a reader of romantasy."
+    } ]
+  }, {
+    "tStartMs": 95320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And just for the record,\nshe did not use AI. Are you ready?"
+    } ]
+  }, {
+    "tStartMs": 98440,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "I'm ready. All right.\nJesserelt woke up in a pool of sweat."
+    } ]
+  }, {
+    "tStartMs": 102800,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "She grimaced.\nShe'd been having the same dream"
+    } ]
+  }, {
+    "tStartMs": 105400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "for weeks now,\nand it never made any sense to her."
+    } ]
+  }, {
+    "tStartMs": 109040,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "In the dream, she was out walking\nthrough her flower fields,"
+    } ]
+  }, {
+    "tStartMs": 112440,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "which were full\nof all the colours you could imagine."
+    } ]
+  }, {
+    "tStartMs": 115120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Everyone in her village\nalways said she had a green thumb,"
+    } ]
+  }, {
+    "tStartMs": 118400,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and that if you looked at the fields\nat the right angle on the right day,"
+    } ]
+  }, {
+    "tStartMs": 121880,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "they sparkled gold.\nToday was one of those days."
+    } ]
+  }, {
+    "tStartMs": 125840,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "A dark storm cloud swept\nacross the horizon,"
+    } ]
+  }, {
+    "tStartMs": 129080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and the glittering sheen\non the flowers fell away."
+    } ]
+  }, {
+    "tStartMs": 132680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Jesserelt looked up,\nperplexed at this change in weather,"
+    } ]
+  }, {
+    "tStartMs": 136120,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and realized it was not\na storm cloud."
+    } ]
+  }, {
+    "tStartMs": 139120,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "It was a man gliding on a pair"
+    } ]
+  }, {
+    "tStartMs": 142200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "of leathered wings surrounded by\npitch black darkness."
+    } ]
+  }, {
+    "tStartMs": 146200,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "The man's gaze turned to her,\nhis blue eyes piercing"
+    } ]
+  }, {
+    "tStartMs": 149800,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "out of the shadows and into her soul."
+    } ]
+  }, {
+    "tStartMs": 152400,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "A silver streak ran\nthrough his jet black hair."
+    } ]
+  }, {
+    "tStartMs": 155640,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "He smirked as the cloud around him\nexploded, making it pour with rain."
+    } ]
+  }, {
+    "tStartMs": 160720,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "She was instantly drenched. Furious,\nshe shouted at him with such rage"
+    } ]
+  }, {
+    "tStartMs": 165480,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "she was certain he could feel the heat\nof her glower all the way up in the sky."
+    } ]
+  }, {
+    "tStartMs": 170120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "As she did, her flowers shone\nbrighter than she had ever seen,"
+    } ]
+  }, {
+    "tStartMs": 173520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and sunbeams\nof light flared upwards towards him,"
+    } ]
+  }, {
+    "tStartMs": 177080,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "cracking against his wings\nas he dodged and danced away."
+    } ]
+  }, {
+    "tStartMs": 181440,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "But then she would wake."
+    } ]
+  }, {
+    "tStartMs": 184120,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "She didn't know who he was,\nbut she knew he was water"
+    } ]
+  }, {
+    "tStartMs": 187960,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and air like she was earth and fire."
+    } ]
+  }, {
+    "tStartMs": 190840,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "And that she would think of him\nevery time she closed her eyes."
+    } ]
+  }, {
+    "tStartMs": 196240,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Maia, is it awkward that we just met?"
+    } ]
+  }, {
+    "tStartMs": 198280,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "That was a lot.\nI feel like we're friends now."
+    } ]
+  }, {
+    "tStartMs": 200360,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Yeah.\nYeah."
+    } ]
+  }, {
+    "tStartMs": 201320,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So, Maia, if someone's thinking\nabout getting"
+    } ]
+  }, {
+    "tStartMs": 203560,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "into this genre,\nwhat should they expect?"
+    } ]
+  }, {
+    "tStartMs": 205880,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I mean, they should expect, like,\na wild ride."
+    } ]
+  }, {
+    "tStartMs": 208560,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "You're kind of taking\ntwo genres that are super heady."
+    } ]
+  }, {
+    "tStartMs": 213120,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So you've got fantasy,\nwhich is basically - I mean,"
+    } ]
+  }, {
+    "tStartMs": 215280,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "think Lord of the Rings,\nGame of Thrones."
+    } ]
+  }, {
+    "tStartMs": 217920,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Also think sci-fi.\nThere are elements of that."
+    } ]
+  }, {
+    "tStartMs": 219840,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So if you want dragons,\nthey're there."
+    } ]
+  }, {
+    "tStartMs": 222040,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "They're involved if you want,\nlike fairies, they're also there."
+    } ]
+  }, {
+    "tStartMs": 224560,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "And then you've got kind\nof romance running through them"
+    } ]
+  }, {
+    "tStartMs": 226680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "like a backbone\nwith these things called tropes."
+    } ]
+  }, {
+    "tStartMs": 229240,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Do you know a trope is in literature?\nHey, enemies to lovers."
+    } ]
+  }, {
+    "tStartMs": 232800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Exactly. You've kind of like,\nstolen my script here,"
+    } ]
+  }, {
+    "tStartMs": 235920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "but they're basically like the blueprint\nfor a story or for a relationship."
+    } ]
+  }, {
+    "tStartMs": 240240,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So another huge one, as you say,\nthe shadow daddy, you know and love."
+    } ]
+  }, {
+    "tStartMs": 245520,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Casts a long shadow.\nLet's just say that exactly that."
+    } ]
+  }, {
+    "tStartMs": 248800,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But I think what's curious about this\nis actually, it's not\na new kind of thing in literature."
+    } ]
+  }, {
+    "tStartMs": 252520,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I mean, it goes back to anyone who's,\nlike, studied Shakespeare."
+    } ]
+  }, {
+    "tStartMs": 255400,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It's a bit Hamlet.\nIt's a bit like the Byronic hero,"
+    } ]
+  }, {
+    "tStartMs": 257920,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "like a dark, kind of malcontent,\nkind of rebellious romantic hero."
+    } ]
+  }, {
+    "tStartMs": 263200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "And like, you kind of need to suspend\nyour thinking a bit about, like,"
+    } ]
+  }, {
+    "tStartMs": 266160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "him being a bit mean\nand maybe slightly toxic"
+    } ]
+  }, {
+    "tStartMs": 268160,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "because eventually they fall in love\nand it's it's fine."
+    } ]
+  }, {
+    "tStartMs": 270520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Team that plays together stays together.\nExactly."
+    } ]
+  }, {
+    "tStartMs": 273280,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "You've sold it,\nend the episode. Yeah."
+    } ]
+  }, {
+    "tStartMs": 275360,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Well, speaking of sales, what are\nsome of the most popular books\nthat sort of illustrate these tropes?"
+    } ]
+  }, {
+    "tStartMs": 280000,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Okay, so spend like five minutes\nin a bookshop, 30 seconds on BookTok,"
+    } ]
+  }, {
+    "tStartMs": 284720,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and you can't really get past a Court\nof Thorns and Roses."
+    } ]
+  }, {
+    "tStartMs": 288040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And this is a series of books. The\nfirst one actually came out in 2015,"
+    } ]
+  }, {
+    "tStartMs": 293200,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and it's still hugely popular\nright now,"
+    } ]
+  }, {
+    "tStartMs": 295360,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and people kind of see it as the kind\nof gateway into romantasy on TikTok."
+    } ]
+  }, {
+    "tStartMs": 299200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "It follows a girl who lives in this kind\nof alternative version of Britain,"
+    } ]
+  }, {
+    "tStartMs": 302400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "where there's a magical realm\nand a mortal realm,"
+    } ]
+  }, {
+    "tStartMs": 304720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and she's kind of whisked off\ninto the magical realm"
+    } ]
+  }, {
+    "tStartMs": 307360,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and held captive in a kind of\nlike beauty and the beast style way"
+    } ]
+  }, {
+    "tStartMs": 310640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "by this Lord who's kind of handsome,\nkind of hot."
+    } ]
+  }, {
+    "tStartMs": 314000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And she learns\nthat what she's been told about this\nmagical realm isn't all it seems."
+    } ]
+  }, {
+    "tStartMs": 318240,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And the first book in that series, which\nagain came out ten years ago last year,"
+    } ]
+  }, {
+    "tStartMs": 322600,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "it was the fourth best selling book\nin, like, the whole of the UK."
+    } ]
+  }, {
+    "tStartMs": 325280,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Well, fun can generate money.\nDo we have any hard data?"
+    } ]
+  }, {
+    "tStartMs": 328440,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Any sales figures last year?"
+    } ]
+  }, {
+    "tStartMs": 330560,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Fiction revenue in the UK\ntopped £1 billion for the first time."
+    } ]
+  }, {
+    "tStartMs": 334520,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And that's data\nfrom the Publishers Association."
+    } ]
+  }, {
+    "tStartMs": 336560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And they said quite plainly this was\nbecause of the boom in fantasy"
+    } ]
+  }, {
+    "tStartMs": 341040,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and romance\nand their growth on BookTok."
+    } ]
+  }, {
+    "tStartMs": 343760,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So it just like attributed it to that\nentirely, which is really interesting."
+    } ]
+  }, {
+    "tStartMs": 347360,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Across the pond in the US, Bloomberg\nreported an estimated $600 million"
+    } ]
+  }, {
+    "tStartMs": 352720,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "in sales for romantic last year,\ncompared with,"
+    } ]
+  }, {
+    "tStartMs": 355480,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "I think, sales in the region\nof €450 million the previous year."
+    } ]
+  }, {
+    "tStartMs": 360200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So it's really big business.\nAnd Nielsen BookScan, which is here"
+    } ]
+  }, {
+    "tStartMs": 363160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "in the UK tracking data\nacross the industry,"
+    } ]
+  }, {
+    "tStartMs": 366040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "said that Romance and Fantasy\nhad record breaking sales years."
+    } ]
+  }, {
+    "tStartMs": 369400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So if you put that in context, think\nabout 50 Shades of Grey for romance."
+    } ]
+  }, {
+    "tStartMs": 373320,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "It was a bigger year than that."
+    } ]
+  }, {
+    "tStartMs": 374720,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Harry Potter for fantasy in 2007\nfor the last book."
+    } ]
+  }, {
+    "tStartMs": 378600,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Fantasy was bigger\nthan that this year, so it's big."
+    } ]
+  }, {
+    "tStartMs": 381280,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And on BookTok,\nTikTok's reading community,"
+    } ]
+  }, {
+    "tStartMs": 384320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "there are a lot of young women\nwho are promoting these books."
+    } ]
+  }, {
+    "tStartMs": 387040,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Are they the driving force\nbehind these sales and if so, why?"
+    } ]
+  }, {
+    "tStartMs": 390880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They absolutely are. So again,"
+    } ]
+  }, {
+    "tStartMs": 392880,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "last year's sales, over half of those\nwere formed by women under 35."
+    } ]
+  }, {
+    "tStartMs": 398840,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "I think the sales for men were like 16%.\nSo it's like significantly skewed."
+    } ]
+  }, {
+    "tStartMs": 404680,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think I've reported\non this for the BBC News website"
+    } ]
+  }, {
+    "tStartMs": 407680,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "earlier this year, and I spoke\nwith lots of different people."
+    } ]
+  }, {
+    "tStartMs": 410280,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Fans were kind of telling me\nthat it was because,"
+    } ]
+  }, {
+    "tStartMs": 412720,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "I mean, plainly, most of them have\nyoung female protagonists,"
+    } ]
+  }, {
+    "tStartMs": 417040,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "kind of entering a new world, having\nhaving to figure out their power"
+    } ]
+  }, {
+    "tStartMs": 420680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "in that world and their dynamic\nin different relationships."
+    } ]
+  }, {
+    "tStartMs": 423240,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "And that's kind\nof a relatable experience."
+    } ]
+  }, {
+    "tStartMs": 424800,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And they take seriously\nthe experiences of women."
+    } ]
+  }, {
+    "tStartMs": 428480,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "That being said, kind\nof industry experts I spoke to were"
+    } ]
+  }, {
+    "tStartMs": 431080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "more kind of maybe pragmatic about\nthe kind of commercial side of this."
+    } ]
+  }, {
+    "tStartMs": 435080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So, Katie Fraser,\nwho's a reporter at the bookseller,"
+    } ]
+  }, {
+    "tStartMs": 439320,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "she was saying, you know,\nthese women are the Swifties."
+    } ]
+  }, {
+    "tStartMs": 443440,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "They're the same profile.\nIf not, not a fan of Taylor Swift,"
+    } ]
+  }, {
+    "tStartMs": 446000,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "they're the same profile\nas the fans of Taylor Swift."
+    } ]
+  }, {
+    "tStartMs": 448080,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "They're putting their money\nwhere their mouth is."
+    } ]
+  }, {
+    "tStartMs": 449840,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "If they love something, they will buy\nlike ten different versions of it."
+    } ]
+  }, {
+    "tStartMs": 454280,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Maia, romantasy books have\nbeen getting a lot of love on TikTok."
+    } ]
+  }, {
+    "tStartMs": 457360,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "There are more than a million\nand a half videos using that hashtag."
+    } ]
+  }, {
+    "tStartMs": 461320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "We wanted to hear from some fans about\nwhy they think the genre is so popular."
+    } ]
+  }, {
+    "tStartMs": 465000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I'm Shreya,\nI'm 23 and I'm from Sydney."
+    } ]
+  }, {
+    "tStartMs": 467760,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I love romantasy because it blends\nthe political, magical"
+    } ]
+  }, {
+    "tStartMs": 471720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "and fantastical storylines\nof traditional high fantasy stories,"
+    } ]
+  }, {
+    "tStartMs": 475680,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "but this time it blends it in\nwith strong female characters"
+    } ]
+  }, {
+    "tStartMs": 478960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and a touch of romance.\nRomantasy stands out a lot"
+    } ]
+  }, {
+    "tStartMs": 482240,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "as a space carved by women in\na traditionally male dominated genre."
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It's risen in popularity amongst so\nmany women because these are female"
+    } ]
+  }, {
+    "tStartMs": 490520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "focused stories, stories of strength,\nstories of overcoming adversity,"
+    } ]
+  }, {
+    "tStartMs": 494560,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "but also they showcase the most\nbeautiful egalitarian relationships."
+    } ]
+  }, {
+    "tStartMs": 498720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Hi, I'm Asvini, I'm a bookish content\ncreator based in Toronto, Canada."
+    } ]
+  }, {
+    "tStartMs": 504400,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I love reading romantic because\nI think it's just the perfect escape."
+    } ]
+  }, {
+    "tStartMs": 508280,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "It's actually the genre\nthat got me back into reading"
+    } ]
+  }, {
+    "tStartMs": 510960,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "after a many year hiatus\nof not reading."
+    } ]
+  }, {
+    "tStartMs": 515000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And it's just a genre\nthat has a lot to offer,"
+    } ]
+  }, {
+    "tStartMs": 517760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "no matter what kind\nof reader you are."
+    } ]
+  }, {
+    "tStartMs": 520040,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "I feel like contemporary romance\ndoesn't really capture the level"
+    } ]
+  }, {
+    "tStartMs": 523600,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "of yearning and tension that a\nromance set in a fantasy world does,"
+    } ]
+  }, {
+    "tStartMs": 528280,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "so there's just something about\ntwo characters pining over each other"
+    } ]
+  }, {
+    "tStartMs": 532400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "in a high stakes situation\nwhere death"
+    } ]
+  }, {
+    "tStartMs": 535040,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and danger literally lurk\naround every corner."
+    } ]
+  }, {
+    "tStartMs": 538360,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "In a world without cell phones\nor modern day transportation,"
+    } ]
+  }, {
+    "tStartMs": 542240,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "that just makes the story\nthat much more fun."
+    } ]
+  }, {
+    "tStartMs": 545080,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So romantasy is having a bit\nof a moment right now,"
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "but that's not always been the case."
+    } ]
+  }, {
+    "tStartMs": 549160,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "People write it off as 'chick lit'\nor even trashy. Why is that changing?"
+    } ]
+  }, {
+    "tStartMs": 554400,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Readers tell me that they think\nthe stigma has broken down"
+    } ]
+  }, {
+    "tStartMs": 557120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "just because socially\nand as a society,"
+    } ]
+  }, {
+    "tStartMs": 559760,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "we don't really engage as much anymore\nin the concept of a guilty pleasure."
+    } ]
+  }, {
+    "tStartMs": 563400,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "People are happy to like what they like\nand just talk about it really openly."
+    } ]
+  }, {
+    "tStartMs": 569120,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Others I spoke to were a bit\nmore skeptical and kind of pointed"
+    } ]
+  }, {
+    "tStartMs": 571800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "to the money\nwhere publishers have noticed"
+    } ]
+  }, {
+    "tStartMs": 575800,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "what big money there is in this,\nthat it's huge business for them"
+    } ]
+  }, {
+    "tStartMs": 579080,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and are therefore churning out more\nof this literature."
+    } ]
+  }, {
+    "tStartMs": 582760,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Signing debut writers, even acquiring\nlike fan fiction, for example, and"
+    } ]
+  }, {
+    "tStartMs": 587400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "turning it into something publishable\nor just publishing it as it is."
+    } ]
+  }, {
+    "tStartMs": 591240,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And that therefore increases\nthe audience."
+    } ]
+  }, {
+    "tStartMs": 593280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "People are speaking about it more, and\nthat has kind of broken down the stigma."
+    } ]
+  }, {
+    "tStartMs": 596760,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "So it's not necessarily wholesale\nas a social change."
+    } ]
+  }, {
+    "tStartMs": 602160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "It's a bit of both. It's got\nthe financial element as well."
+    } ]
+  }, {
+    "tStartMs": 605120,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So romantasy\nis clearly having a moment."
+    } ]
+  }, {
+    "tStartMs": 608160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "But that's not always been the case.\nSarah Wendell runs"
+    } ]
+  }, {
+    "tStartMs": 614320,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Trashybooks.com - that's a website\nand community for lovers of the genre."
+    } ]
+  }, {
+    "tStartMs": 618640,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Romantasy is having a moment,\nbut I also want to note"
+    } ]
+  }, {
+    "tStartMs": 621680,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "that fantasy romance has existed\nfor decades."
+    } ]
+  }, {
+    "tStartMs": 626040,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Romantasy itself is a fan generated\nportmanteau that makes it easier"
+    } ]
+  }, {
+    "tStartMs": 631160,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "for readers to be specific\nabout what they're looking for."
+    } ]
+  }, {
+    "tStartMs": 634480,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Romantasy as a genre\nis also having a moment"
+    } ]
+  }, {
+    "tStartMs": 637560,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "because the stakes of a fantasy world\ncould be very high,"
+    } ]
+  }, {
+    "tStartMs": 641160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "the villains\ncould be very terrifying,"
+    } ]
+  }, {
+    "tStartMs": 643400,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "but because it is a romance,\neverything will be okay in the end."
+    } ]
+  }, {
+    "tStartMs": 648680,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "That ending is the promise\nof romance, and that promise is part"
+    } ]
+  }, {
+    "tStartMs": 652440,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "of the reason why romance\nhas been so denigrated in the past."
+    } ]
+  }, {
+    "tStartMs": 656200,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "The promise of a happy ending is also\nwhy so many readers love romantasy."
+    } ]
+  }, {
+    "tStartMs": 661400,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "These are stories which focus\non courtship and corruption."
+    } ]
+  }, {
+    "tStartMs": 666400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Romantasy stories are\nabout the realignment of power,"
+    } ]
+  }, {
+    "tStartMs": 669560,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "where a character who may have\nbeen underestimated or disregarded"
+    } ]
+  }, {
+    "tStartMs": 673600,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "acquires a small amount of power of\ntheir own and uses it to seek justice"
+    } ]
+  }, {
+    "tStartMs": 678760,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "and restore order when reality is\nbleak or uncertain or visibly unjust."
+    } ]
+  }, {
+    "tStartMs": 685600,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "The resolution\nof a fictional imbalance"
+    } ]
+  }, {
+    "tStartMs": 688560,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "is reassuring\nand compelling to read about,"
+    } ]
+  }, {
+    "tStartMs": 691400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "which is one reason\nwhy romantasy is having a moment."
+    } ]
+  }, {
+    "tStartMs": 694840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Maia, we've gone over some of the\nmost popular tropes of these books,"
+    } ]
+  }, {
+    "tStartMs": 698360,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "but we really haven't talked\nabout their spiciness."
+    } ]
+  }, {
+    "tStartMs": 701600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "The fact is, there is sex,\nand there is a focus on sort"
+    } ]
+  }, {
+    "tStartMs": 704880,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "of pleasure that the female receives.\nThat's right."
+    } ]
+  }, {
+    "tStartMs": 707840,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Yeah, that is right.\nDon't worry. You're correct."
+    } ]
+  }, {
+    "tStartMs": 711280,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "You'll see on TikTok and on BookTok,\npeople using little chilli emojis"
+    } ]
+  }, {
+    "tStartMs": 715360,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "to kind of denote how erotic\na novel is and saying like,"
+    } ]
+  }, {
+    "tStartMs": 719240,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "if you want a spicier version of this\nbook, here's one with three chilies."
+    } ]
+  }, {
+    "tStartMs": 722560,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "This one's got one, here's one\nwith four. So you can kind of tailor"
+    } ]
+  }, {
+    "tStartMs": 725840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "your reading experience to what\nyou want to get out of it, let's say."
+    } ]
+  }, {
+    "tStartMs": 728960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So I spoke with a book agent,\nshe's called Rebecca Finch. She's 28."
+    } ]
+  }, {
+    "tStartMs": 732480,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "So she's, you know, in this category\nof women enjoying buying these books."
+    } ]
+  }, {
+    "tStartMs": 735800,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And she's also trying to publish them.\nShe was saying a really big, you know,"
+    } ]
+  }, {
+    "tStartMs": 739280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "gripe she has working in this field\nis people referring to these books"
+    } ]
+  }, {
+    "tStartMs": 742480,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "as just like fairy smut or like people\njust like reading them for that purpose."
+    } ]
+  }, {
+    "tStartMs": 746880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And she's just saying, you know,\nwhat's so wrong with that?"
+    } ]
+  }, {
+    "tStartMs": 749520,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "It's not a big proportion\nof these books."
+    } ]
+  }, {
+    "tStartMs": 751840,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And also they're largely depicting,\nin her view,"
+    } ]
+  }, {
+    "tStartMs": 754160,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "healthy sexual relationships\nthat centre female pleasure."
+    } ]
+  }, {
+    "tStartMs": 757240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So, you know, she says it's an area that\nstill wins the genre, some derision,"
+    } ]
+  }, {
+    "tStartMs": 760760,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "but that it's not really fair."
+    } ]
+  }, {
+    "tStartMs": 762160,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And if you had to look\ninto the future forecast,"
+    } ]
+  }, {
+    "tStartMs": 764760,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "what's next, what does it look like?"
+    } ]
+  }, {
+    "tStartMs": 767080,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "We need to look\nat what publishers are doing."
+    } ]
+  }, {
+    "tStartMs": 768600,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "They're putting their money\ninto this deal."
+    } ]
+  }, {
+    "tStartMs": 770960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So they're kind of hedging their bets\nthat it's going to carry on."
+    } ]
+  }, {
+    "tStartMs": 774480,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And I think we as well need to look\nto Hollywood, right?"
+    } ]
+  }, {
+    "tStartMs": 776880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I mean, we've seen what like\nbig TV show adaptations or"
+    } ]
+  }, {
+    "tStartMs": 779880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "like film adaptations can do\nfor things like Game of Thrones,"
+    } ]
+  }, {
+    "tStartMs": 783000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "for The Hunger Games,\nwhich arguably is a is"
+    } ]
+  }, {
+    "tStartMs": 785160,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "a romantasy - Twilight,\narguably a romantasy."
+    } ]
+  }, {
+    "tStartMs": 788080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Both ACOTAR,\nA Court of Thorns and Roses,"
+    } ]
+  }, {
+    "tStartMs": 791320,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and Fourth Wing have been picked up\nto be turned into TV shows"
+    } ]
+  }, {
+    "tStartMs": 794800,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "with really big production studios.\nBut then, you know, the other side"
+    } ]
+  }, {
+    "tStartMs": 797480,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "of the coin is they're massive and\nthings can't stay massive forever,"
+    } ]
+  }, {
+    "tStartMs": 800720,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "especially when it's a lot of similar\nstuff being produced, arguably."
+    } ]
+  }, {
+    "tStartMs": 804600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "So we'll have to wait and see."
+    } ]
+  }, {
+    "tStartMs": 806000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Maia, we are going\nto let you get back to your reading."
+    } ]
+  }, {
+    "tStartMs": 808400,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Thanks for joining us.\nThank you very much for having me."
+    } ]
+  }, {
+    "tStartMs": 810840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "That is all for today.\nThanks for watching another episode"
+    } ]
+  }, {
+    "tStartMs": 813960,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "of What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 816480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "If you enjoyed, why not subscribe\nto our YouTube channel?"
+    } ]
+  }, {
+    "tStartMs": 819600,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "There are over 1.7 million subscribers\nand you can be the next one."
+    } ]
+  }, {
+    "tStartMs": 823960,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "We'll see you later. Bye."
+    } ]
+  } ]
+}

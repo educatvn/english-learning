@@ -1,0 +1,4118 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 200,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Hello, I'm Caroline Steel.\nThis is the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 4440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And welcome to The Engineers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 22200,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "This year I'm at the Royal\nGeographical Society in London"
+        }
+      ]
+    },
+    {
+      "tStartMs": 25280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "and with our partners,\nthe Royal Commission, 1851,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28200,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "we've brought together three world\nleading pioneers navigating the body"
+        }
+      ]
+    },
+    {
+      "tStartMs": 32360,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "in new ways and breaking fresh ground\nin biomedicine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 35760,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And here to help me explore the work\nof these fascinating engineers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 39080,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "We have a delightful audience. Audience,\ngive yourselves a round of applause."
+        }
+      ]
+    },
+    {
+      "tStartMs": 47280,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Thank you. Surgery can be invasive.\nPills are a blunt tool."
+        }
+      ]
+    },
+    {
+      "tStartMs": 51720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "But what if we could borrow\nthe body's neural pathways"
+        }
+      ]
+    },
+    {
+      "tStartMs": 54960,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "and electrically nudge its responses\nto MS or diabetes?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59120,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And what if we could guide drugs\nthrough our veins"
+        }
+      ]
+    },
+    {
+      "tStartMs": 61560,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "to deliver them\nexactly where they're needed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 64160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And paralysis can leave some people\nwith locked"
+        }
+      ]
+    },
+    {
+      "tStartMs": 66600,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "in syndrome\nwhere they can't communicate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 69360,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "What if there was a non-invasive way\nto turn their thoughts into words?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 73920,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Thanks to our\nthree world leading engineers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 76080,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "these scenarios are becoming\nnew realities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 79000,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Tom Oxley, originally from Australia,\nis a neural engineer"
+        }
+      ]
+    },
+    {
+      "tStartMs": 81920,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "and professorial fellow\nat Melbourne Medical School."
+        }
+      ]
+    },
+    {
+      "tStartMs": 84840,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "He is also founding CEO of Synchron,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87320,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "which has successfully implanted\nbrain computer interfaces"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90640,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "in ten patients worldwide."
+        }
+      ]
+    },
+    {
+      "tStartMs": 92680,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": " \nEleanor Stride is from the UK."
+        }
+      ]
+    },
+    {
+      "tStartMs": 95680,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "She is Professor of Biomaterials\nat the University of Oxford,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 98840,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "specialising in the creation of tiny\ndevices for targeted drug delivery."
+        }
+      ]
+    },
+    {
+      "tStartMs": 103400,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Her innovation of delivering drugs\nvia bubbles in the bloodstream"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "is going to human trials\nlater this year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109960,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Khalil Ramadi is\nfrom the United Arab Emirates."
+        }
+      ]
+    },
+    {
+      "tStartMs": 112520,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "He is assistant professor of\nbioengineering at New York University."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "His electroceutical pill, designed\nto deliver nudges from the gut"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119560,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "to the brain,\nis being developed at his Ramadi Lab"
+        }
+      ]
+    },
+    {
+      "tStartMs": 122480,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "for Advanced Neuroengineering and\nTranslational Medicine in Abu Dhabi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 127160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Please do join me\nin welcoming them all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 138520,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Tom, your first experience\nof a patient with Locked in syndrome"
+        }
+      ]
+    },
+    {
+      "tStartMs": 142840,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "went on to inspire the rest\nof your work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144960,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Could you tell me a bit about that?\nYeah, so I work in the field"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148640,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "of brain computer interfaces, BCI,\nimplantable BCI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 153000,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "There's a very famous company\nyou probably heard of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "where a famous entrepreneur driving\nthis field forward."
+        }
+      ]
+    },
+    {
+      "tStartMs": 159200,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "But we've actually been doing this\na little bit longer,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 162240,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and we set out\non a mission to find a way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 165000,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "to deliver electronics into the brain\nwithout disturbing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168640,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "the local natural architecture\nof the of the head and the body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 174360,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And yeah, so in\nmy early clinical career as a, as a,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 178200,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "in my neurology training,\nUh, I had a young man around my age,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 182680,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "now early 40s, who had a family\nof three, and he had a stroke."
+        }
+      ]
+    },
+    {
+      "tStartMs": 186680,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And the stroke was actually a stroke\nin the part of the brainstem called"
+        }
+      ]
+    },
+    {
+      "tStartMs": 190520,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "the pons that carries all\nthe motor fibres out of the brain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195000,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "About 20% of your brain is made up\naround controlling the movement"
+        }
+      ]
+    },
+    {
+      "tStartMs": 198640,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "of your muscles. I'm using my mouth.\nI'm using my body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 201840,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And if you cut that fibre,\nthen you can't control your body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205880,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "But the rest\nof your brain  is working."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208440,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "And so he it was horrific because\nand that's still happening now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 212640,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "There's no therapy\nfor people who have major strokes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 216600,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "There's no treatment\nfor broken nervous systems."
+        }
+      ]
+    },
+    {
+      "tStartMs": 220920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So I think the great hope with BCI is\nthat this technology can bypass"
+        }
+      ]
+    },
+    {
+      "tStartMs": 224760,
+      "dDurationMs": 5960,
+      "segs": [
+        {
+          "utf8": "the failed body, where\nthe brain is still active. Um, yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 230760,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Very clever.\nThank you. Tom."
+        }
+      ]
+    },
+    {
+      "tStartMs": 233960,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Elena, you've developed a new approach\nbecause the conventional means"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238000,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "of pills and injections\nisn't super efficient, is that right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242880,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "That's right. So if you take a pill\nor you have an injection,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "you are putting the drug everywhere\nin your body. Your bloodstream is there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 248160,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "to carry material around, which if\nit's food and oxygen is a good thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 251880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Um, unfortunately, that means the amount\nof a drug that actually makes it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 255160,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "to a particular target site is less\nthan 1%. That aim might not be enough,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and obviously the rest of your tissue\nis absorbing that drug."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261720,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "And with very toxic drugs such as\nthese for treating cancer, that can\ngive you very severe side effects."
+        }
+      ]
+    },
+    {
+      "tStartMs": 267200,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And one solution\nfor that might be bubbles, right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 271080,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Why are bubbles a solution?\nWell that's what we're hoping."
+        }
+      ]
+    },
+    {
+      "tStartMs": 273320,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So what we're actually doing\nis repurposing the bubbles\nas drug delivery systems."
+        }
+      ]
+    },
+    {
+      "tStartMs": 277120,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Um, so these are\ntiny little bubbles of gas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 279360,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "They're, um, about a 50th of a human\nhair so they can safely go through"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283240,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "your blood vessels because they are\nso tiny, we have to stabilize them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 287240,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So they've got an outer coating\nof a protein"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "or some very biocompatible material."
+        }
+      ]
+    },
+    {
+      "tStartMs": 292280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And we use that\nto also encapsulate drugs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 294840,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "So you've got\nthis little ball of gas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 296760,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "It travels through the bloodstream.\nThe drug doesn't do anything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 299480,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And then we focus the ultrasound\nat the target site"
+        }
+      ]
+    },
+    {
+      "tStartMs": 301720,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "to break the bubble open, and we\nrelease the drug just in that site."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304440,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "So we're hoping to get much more\nof the drug to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 306520,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "the right spot and minimize the risk\nto the rest of the body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 309560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Okay, so the bubbles travel\nall the way around the body,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 312040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "but you just burst them at\nthe exact right point. So you're not"
+        }
+      ]
+    },
+    {
+      "tStartMs": 316040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "sort of exposing everywhere\nto something potentially harmful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319000,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Exactly.\nAh. Very clever."
+        }
+      ]
+    },
+    {
+      "tStartMs": 321280,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Khalil, your interest in engineering\nthe brain led you to look at the gut."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326120,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Some people might find\nthat surprising."
+        }
+      ]
+    },
+    {
+      "tStartMs": 329680,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "I understand where that comes from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 331840,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Colloquially,\nthe gut is known"
+        }
+      ]
+    },
+    {
+      "tStartMs": 334120,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "in our field as the,\nquote unquote little brain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 336880,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "It has the second largest number of\nneurons in our body, after our brain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 341920,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And essentially you can disconnect\nthese neurons from the brain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 345000,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And they actually\nyour gut can still function."
+        }
+      ]
+    },
+    {
+      "tStartMs": 347320,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "You can still digest things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 348520,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "You can still you don't feel hungry\nquite as well or feel full."
+        }
+      ]
+    },
+    {
+      "tStartMs": 352920,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Some of that feedback is lost,\nbut at least the gut is able"
+        }
+      ]
+    },
+    {
+      "tStartMs": 355520,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "to function entirely\nwith its own little brain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 358120,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "From an engineering standpoint,\nthat's also really attractive"
+        }
+      ]
+    },
+    {
+      "tStartMs": 360400,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "to us because all\nof a sudden there is no hole, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 362800,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "We swallow pills every day\nfor therapeutic purposes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 365800,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "and those pills basically come\ninto contact with the gut lining,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 369440,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "which has all the neurons.\nVery clever. Thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 372280,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Tom. Your brain implant\nis called Stentrode"
+        }
+      ]
+    },
+    {
+      "tStartMs": 375120,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and it detects changes\nin brain activity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 377120,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And like Eleanor, you're making use\nof our blood vessels."
+        }
+      ]
+    },
+    {
+      "tStartMs": 380600,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Could you tell me\nabout the non-invasive way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 383040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "that you get this implant\ninto people's brains?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 386000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Yeah. So the motor cortex,\ncommand centre of the brain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 389360,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "the brain is pretty well understood\nin the way it controls movement."
+        }
+      ]
+    },
+    {
+      "tStartMs": 393280,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So if you have a small enough sensor\nabove a certain region of the brain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 397000,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "there's a part that controls your mouth,\npart controls your hand part controls"
+        }
+      ]
+    },
+    {
+      "tStartMs": 400640,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "your foot part controls various parts\nof your body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 403600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So if you have a sensor\nover that part of the brain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 406400,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "you see the brain looks like a\nlightning storm in voltage potential."
+        }
+      ]
+    },
+    {
+      "tStartMs": 409720,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "So its electrical activity in the brain\nso detected with a voltage sensor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 414680,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "You can then train an algorithm\nto know that, oh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 417200,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "in that moment you're trying\nto say open and close your hand."
+        }
+      ]
+    },
+    {
+      "tStartMs": 420240,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Once you've trained\nan algorithm on that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 422480,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "you can then pull it out and\nsend commands like through Bluetooth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426720,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "to a system that would push a cursor"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "around a screen\nor make selections on a screen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 431600,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "How do you do that?\nIn a not very invasive way?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 433760,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Because sort of\ninstinctively hearing, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 436280,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "device in a vein\non the top of your brain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 439520,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "that sounds like it's going\nto be pretty invasive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 441840,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "What's the way that you insert it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444960,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So our first generation\nis just targeting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 447640,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "the safest, largest,\nmost accessible blood vessel called"
+        }
+      ]
+    },
+    {
+      "tStartMs": 450400,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "the superior sagittal sinus,\nthe one running down the middle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 453120,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "We enter the jugular vein in the neck,\nthread the device up through a catheter,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457400,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and then connect the lead\nthat's coming out of the neck"
+        }
+      ]
+    },
+    {
+      "tStartMs": 460560,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "to a device that looks like\na pacemaker box that sits under the skin"
+        }
+      ]
+    },
+    {
+      "tStartMs": 464200,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "in the chest and communicates the\nbrain information out of the body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 468840,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Great. Thank you.\nAnd if Tom used the back door"
+        }
+      ]
+    },
+    {
+      "tStartMs": 472200,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "to the brain, your way is\nsort of similarly surprising."
+        }
+      ]
+    },
+    {
+      "tStartMs": 475360,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Could you tell me a bit about the\nearly experiments which showed potential"
+        }
+      ]
+    },
+    {
+      "tStartMs": 479320,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "for influencing the brain\nvia the digestive system."
+        }
+      ]
+    },
+    {
+      "tStartMs": 482520,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "We did a series of early experiments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 484040,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "We started just zapping little pieces\nof stomach,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 486160,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and then we looked at blood levels\nof different GI hormones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 490240,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And the one that popped out\nreally interestingly was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 492800,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "this robust increase\nin a hormone called ghrelin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496000,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So ghrelin is\na hunger promoting hormone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498920,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Basically, the minute you take a bite of\nsomething, it tanks all the way to zero."
+        }
+      ]
+    },
+    {
+      "tStartMs": 502800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And then as you get hungry\nand hungrier or more time has elapsed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 505600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "since your last meal, ghrelin goes up\ntelling you to go eat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 508400,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "We were able to deliver this stimulus\nto the stomach"
+        }
+      ]
+    },
+    {
+      "tStartMs": 510800,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and get repeated and robust increases"
+        }
+      ]
+    },
+    {
+      "tStartMs": 513440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "in the short term of this hormone,\nghrelin, which was really,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 515960,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "you know, I think,\nvalidating some of our approach."
+        }
+      ]
+    },
+    {
+      "tStartMs": 518280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And so that led you\nto create your pill,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 520840,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "your little device called flash.\nSo what's it look like?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524200,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Could you kind of paint a bit\nof a picture for us?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527160,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Yeah. So if you, uh, I'm sure some\npeople in the audience take supplements."
+        }
+      ]
+    },
+    {
+      "tStartMs": 531680,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "If any of you take your omega\nthree capsules so you can think of it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 535240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "as about that size,\nbut instead of containing chemicals,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 537760,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "it contains electronics\nand so on the outside."
+        }
+      ]
+    },
+    {
+      "tStartMs": 540800,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "What you see in the picture are\ncircumferentially wound electrodes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 544720,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "basically tiny metal wires."
+        }
+      ]
+    },
+    {
+      "tStartMs": 547160,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And inside we have a battery,\nsome electronics to basically shape"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551000,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "what the pulse that you receive\nthere are like micro zaps"
+        }
+      ]
+    },
+    {
+      "tStartMs": 554880,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "that you basically can't feel.\nYou swallow this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 557720,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "It has about enough energy\nto stimulate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 560160,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "for about 30 minutes\nand then it passes along its way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 564480,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "That's fascinating inspiration."
+        }
+      ]
+    },
+    {
+      "tStartMs": 566960,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And Eleanor,\nyou were tasked with including oxygen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "in the bubbles\nwhich you're using to deliver drugs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 572640,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Why is oxygen important\nand why was that such a challenge?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 576240,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Yeah. So one of the challenges\nactually in a lot of diseases,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 579240,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "but cancer particularly is\nbecause tumours grow very quickly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 582400,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "You end up\nwith a rubbish blood supply."
+        }
+      ]
+    },
+    {
+      "tStartMs": 584160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "There aren't enough blood vessels\nin the tumour."
+        }
+      ]
+    },
+    {
+      "tStartMs": 586720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And so areas get completely starved\nof oxygen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 589960,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And the problem\nwhen you starve cells of oxygen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 592160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "is they start behaving very strangely.\nThey start going effectively"
+        }
+      ]
+    },
+    {
+      "tStartMs": 595160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "into a zombie state and it's very,\nvery difficult to kill them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598160,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "So them. So drugs don't work.\nRadiotherapy doesn't work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600200,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Our own immune system\ncan't kill these cancer cells."
+        }
+      ]
+    },
+    {
+      "tStartMs": 603760,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So if we could deliver oxygen\nsimultaneously with the drug,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 606680,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "we could temporarily reverse that\nand hopefully make"
+        }
+      ]
+    },
+    {
+      "tStartMs": 608800,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "the cancer cells easier to kill.\nThat's sort of counterintuitive,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 611880,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "because in a way, you're sort of\ntrying to boost the cancer cells,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 614880,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "wake them up in order to fight them.\nYes, exactly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618800,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "So the reason it's difficult is that\noxygen is a very, very small molecule."
+        }
+      ]
+    },
+    {
+      "tStartMs": 624200,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "It's very soluble.\nWe, uh, have a very, very good way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 627800,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "throughout the body\nof distributing it, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 630200,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "which is exactly the opposite\nfrom the types of gas we usually put"
+        }
+      ]
+    },
+    {
+      "tStartMs": 633040,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "in our bubbles, we usually use\nsomething incredibly inert,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 635400,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "incredibly heavy\nthat isn't going to go anywhere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 637760,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "I gave my poor PhD student many\nmonths of misery in the laboratory,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 642080,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "as we desperately try to keep this gas\ninside our bubbles, and they didn't."
+        }
+      ]
+    },
+    {
+      "tStartMs": 645720,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Every time we made them,\nthey just fell apart immediately."
+        }
+      ]
+    },
+    {
+      "tStartMs": 648040,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "That's so interesting,\nbecause you'd think putting oxygen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 650280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "in a bubble is easier than putting\nsome complex drug in a bubble,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 653400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "but that's actually\nwhere things got really difficult."
+        }
+      ]
+    },
+    {
+      "tStartMs": 656200,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Yeah, and luckily, after many months\nand a lot of brainstorming\nin the entire team, we figured out,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 660480,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "well, right, we need\nto completely change the coating."
+        }
+      ]
+    },
+    {
+      "tStartMs": 662560,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "We've got to make it much more gas\ntight so we keep that. And actually,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 666640,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "in the end, what we started doing\nwas making the bubbles the old way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 671400,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "with our very heavy gas and\nthen partially substitute the oxygen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 675080,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And actually, it turned out the gas\nwe've been using is a really,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 677720,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "really good solubilizer of oxygen.\nAnd it was holding it all together."
+        }
+      ]
+    },
+    {
+      "tStartMs": 681320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Tom, your team became the first\nin the world to receive approval"
+        }
+      ]
+    },
+    {
+      "tStartMs": 684920,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "for human trials of a permanently\nimplanted brain computer interface."
+        }
+      ]
+    },
+    {
+      "tStartMs": 689960,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Could you give me an example\nof a patient that you've worked with,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 693400,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "than what you've been able to do\nwith them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 695840,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "It's been a it's been a journey of\ndifferent users doing different things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 700000,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "Rodney has most recently been, as well\nas Mark in Pittsburgh, has been using"
+        }
+      ]
+    },
+    {
+      "tStartMs": 705160,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "the latest Bluetooth profile,\nwhich we have worked on with Apple."
+        }
+      ]
+    },
+    {
+      "tStartMs": 709640,
+      "dDurationMs": 7920,
+      "segs": [
+        {
+          "utf8": "A new human interface device,\nwhich is a language for Bluetooth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So there's an HID for a keyboard."
+        }
+      ]
+    },
+    {
+      "tStartMs": 719680,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "There's an HID for a mouse, there's\nan HID for an eye tracking system."
+        }
+      ]
+    },
+    {
+      "tStartMs": 723440,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "There's now going to be\nan HID Bluetooth for brain control."
+        }
+      ]
+    },
+    {
+      "tStartMs": 726840,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So up to this point, we've been\ntricking the computer into thinking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 729640,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "the brain signals coming in were\ncoming from a keyboard or a mouse."
+        }
+      ]
+    },
+    {
+      "tStartMs": 733080,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "Now we have a ability to build different\nfeatures that are truly brain derived."
+        }
+      ]
+    },
+    {
+      "tStartMs": 738520,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Thank you.\nTom. Audience. It's your turn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 740600,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Does anyone have a question about\nsomething that we've discussed so far?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 744520,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "Okay, we've got quite a few hands.\nLet's start with the lady in the middle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 749600,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Thank you so much.\nHello. My name is Cheryl."
+        }
+      ]
+    },
+    {
+      "tStartMs": 752320,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Um, I would like to know if with\nthe bubbles, you've targeted them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 756760,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "at other cells in the body\nbesides cancer ones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 761160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Eleanor, I think that's one for you.\nYep. Absolutely. Um, yes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 764160,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So we're increasingly looking\nat treating stroke."
+        }
+      ]
+    },
+    {
+      "tStartMs": 767240,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Um, so actually delivering the drugs\nthat are clot busting because those\nare also horribly, horribly toxic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 771800,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Um, and we've got a big project\non delivering antibiotics, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 774680,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "because again,\nantibiotics are fantastic,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 777760,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "but they wipe out all the bacteria\nin your body, and most"
+        }
+      ]
+    },
+    {
+      "tStartMs": 779880,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "of the bacteria in our body are really,\nreally important and really useful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 782240,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So if we can target that delivery. So\nhopefully next year we're actually going"
+        }
+      ]
+    },
+    {
+      "tStartMs": 785080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "to be trialling this\nin chronic wounds with antibiotics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 788280,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Anyone got a question for Khalil or Tom.\nThe person over here on the left."
+        }
+      ]
+    },
+    {
+      "tStartMs": 792600,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Thank you.\nThank you very much. My name is Ruchi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 795320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Um, it's a question for Khalil.\nYou've got the pills."
+        }
+      ]
+    },
+    {
+      "tStartMs": 798680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Um, presumably you recover them\nas they come out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 802360,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Do you foresee a time\nwhen they're going to be able"
+        }
+      ]
+    },
+    {
+      "tStartMs": 805120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "to be dissolved, you know, dissolve\nin some way or something like that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 808400,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "Yeah, that's my favourite question."
+        }
+      ]
+    },
+    {
+      "tStartMs": 812400,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Yes. Retrieval is a problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 814000,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So right now most\nof the electronics that we have are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 816920,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "very much inorganic materials"
+        }
+      ]
+    },
+    {
+      "tStartMs": 819080,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "that don't necessarily degrade\nvery well in the body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 822760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Um, and essentially you either have\nto retrieve them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 824840,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "or flush them down the toilet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 826320,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And so that obviously poses issues,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 829160,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "especially when you think about scaling\nup the there's a sort of parallel push"
+        }
+      ]
+    },
+    {
+      "tStartMs": 834080,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "towards making electronics that are\nnot just ingestible, but edible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 838920,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And so there you are trying\nto sort of make these same tools,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 842840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "but from food grade materials.\nAnd so you can imagine how that is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 846280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "a lot more conducive\nto what you're describing right now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 849200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Those two fields are starting to talk\nto each other."
+        }
+      ]
+    },
+    {
+      "tStartMs": 852080,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Thank you so much for your questions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 854440,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "Elena, your bubble technology\nis going to human trials in October."
+        }
+      ]
+    },
+    {
+      "tStartMs": 859600,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "What are you hoping for?\nThat's the plan. This is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 862640,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "This is subject to paperwork,\nas always."
+        }
+      ]
+    },
+    {
+      "tStartMs": 865000,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Um, so we have tested the safety\nof the bubbles"
+        }
+      ]
+    },
+    {
+      "tStartMs": 867640,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "already, so we're fairly confident."
+        }
+      ]
+    },
+    {
+      "tStartMs": 869720,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "But this will be the first time\nactually with a chemotherapy drug."
+        }
+      ]
+    },
+    {
+      "tStartMs": 872440,
+      "dDurationMs": 1160,
+      "segs": [
+        {
+          "utf8": "This will be in breast cancer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 873600,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So these are patients\nwho are going to have surgery anyway."
+        }
+      ]
+    },
+    {
+      "tStartMs": 876240,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So they take the tumours out\nand actually quantify"
+        }
+      ]
+    },
+    {
+      "tStartMs": 878920,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "whether we have succeeded\nin delivering more drug."
+        }
+      ]
+    },
+    {
+      "tStartMs": 881400,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And hopefully whether that's led\nto more cancer cell deaths."
+        }
+      ]
+    },
+    {
+      "tStartMs": 883960,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "So that's fingers crossed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 885360,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "It's very exciting and could,\nyou know, save many, many lives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 889720,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "How far off this being available to\nthe general public do you think we are?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 895200,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "This is a super question.\nUm, so I think 15 years ago,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 899080,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I thought we were\nfive years away at least."
+        }
+      ]
+    },
+    {
+      "tStartMs": 902200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Now the gap is closing.\nWe're probably looking at ten years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 905400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Another ten years.\nOkay, great. Thank you very much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 908600,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Khalil, your invention is\nslightly less far along,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 911880,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "but the implications\nof it could be huge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 915680,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Could you tell me a little bit\nabout the different conditions that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 918600,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "this pill could be used to treat?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 921320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So the gut is this fascinating organ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 924920,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "that so many\nother organ systems overlap in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 928120,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Uh, we have our metabolic system,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 930720,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "our endocrine system, our hunger and\nsatiety system, our immune system."
+        }
+      ]
+    },
+    {
+      "tStartMs": 935240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "And so what that means\nfrom a disease implication,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 938120,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "it means different conditions, different\neating disorders, potentially obesity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 942240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Those are all sort of indications\nthat we are we are looking at,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 945120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "you know, Ozempic watch out. Uh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 948440,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "if you go a little bit further down in\nthe gut, you get to the small intestine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 952080,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "That's a little more\nwhere metabolism happens."
+        }
+      ]
+    },
+    {
+      "tStartMs": 954120,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And so there are\nindications potentially"
+        }
+      ]
+    },
+    {
+      "tStartMs": 956600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Like diabetes become\nslightly more relevant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 958840,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Obviously super complex disease\ndepending on where we go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 962360,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "I think the indications are\na little varied."
+        }
+      ]
+    },
+    {
+      "tStartMs": 964440,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Thank you Tom.\nSo far we've focused"
+        }
+      ]
+    },
+    {
+      "tStartMs": 967280,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "on how Stentrode can help with\nconditions like locked in syndrome."
+        }
+      ]
+    },
+    {
+      "tStartMs": 971440,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "What are the\nother possibilities for it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 973680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Where do you see Stentrode going\nin the future?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 977360,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "So if the first wave of implantable BCIs\nis in the domain of motor control,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 983160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "then the spectrum\nof conditions that cause"
+        }
+      ]
+    },
+    {
+      "tStartMs": 985720,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "motor impairment\ncould potentially benefit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 988720,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "So neurodegeneration, motor neuron\ndisease, stroke, multiple sclerosis,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 994160,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "cerebral palsy, spinal cord injury,\nhead injury, severe arthritis."
+        }
+      ]
+    },
+    {
+      "tStartMs": 999480,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "There are many conditions\nthat stop you being able to engage in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1003200,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "the physical and technological world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1005720,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "So I think as the technology moves\ntowards other cortical domains,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1009880,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "it will move into the domain\nof speech,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1012120,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "into the domain of vision hearing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1014880,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And then what I think is\nreally interesting is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1017480,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "emotional, emotional content."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1020280,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "So a lot of a large portion\nof your frontal lobe is made up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1024440,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "of reacting to the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1027000,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Uh, what annoys you?\nWhat makes you happy?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1029160,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "What frustrates you?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1030200,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "All of those emotions that are\nembedded in non-verbal communication."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1034240,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And there are many conditions,\nsuch as autism and many others"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1037440,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "where the, uh, challenge of, uh,\ncommunicating your emotional state,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1043280,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "uh, is could potentially\nthis technology could really help."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1046720,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Eleanor, we've talked a lot\nabout chemotherapy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1049240,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "but do you see your bubbles helping\nwith other areas of medicine?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1053200,
+      "dDurationMs": 520,
+      "segs": [
+        {
+          "utf8": "Absolutely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1053720,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So I think I mentioned earlier,\nantimicrobial resistance is a really,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1056800,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "really terrifying problem that we\nneed to do something about quickly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1059960,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "The other sort of allied challenge\nwith bacterial infections is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1063840,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "um, bacteria grow these\nhorrible things called biofilms."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1066320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So if you scrape your teeth,\nit's the horrible goo that comes off"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1068640,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "on your fingernail.\nUm, bacteria live in these biofilms,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1071480,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "and it's really hard to get the drugs\ninto them to actually kill them off."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1074280,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So again, using the bubbles,\nyou get this mechanical effect."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1077760,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "You can actually break up the biofilm\nto get the drug into the bacteria"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1081080,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and kill them as well. So that's\nsomething we're very excited about."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1083920,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I'd say we're hopefully testing\nthis next year. So fingers crossed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1086920,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Fingers crossed.\nTom, you must be aware"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1089920,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "of the ethical issues with\ninterpreting people's brainwaves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1093800,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "I mean, a large proportion\nof the population already think that\nwe have microchips in our brains."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1099440,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "How do you deal\nwith those ethical concerns?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1104600,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So I think about this a lot.\nI think there are concerns."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1109040,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "The first thing I'll say on privacy,\nif anyone's watched Black Mirror,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1111840,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I think it's the Brits\nare to blame for Black Mirror."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1114840,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "Um, the dystopian narrative\non where BCI goes in society,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1119320,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "uh, has some elements of truth to it.\nI think it's in a long horizon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1125160,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "But the irony around\nthe privacy concern with BCI is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1128560,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "that the people in need right now\nhave the exact opposite requirement,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1133360,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "because they don't have.\nIf you become paralyzed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1136600,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "you lose your privacy because you\nnow become dependent on someone else."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1139640,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And that's ironically\nwhat they're looking for."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1142120,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So you have to give up\nyour brain access to enable this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1146560,
+      "dDurationMs": 1120,
+      "segs": [
+        {
+          "utf8": "Okay, that makes sense."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1147680,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "And just back to that Black Mirror\nepisode, which I've seen,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1152680,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "there are examples where something\ngoes, something small goes wrong"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1155560,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "in someone's brain, but it has\nhugely devastating consequences."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1158760,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And they have a chip put\ninto their brain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1162640,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I guess, not massively dissimilar\nto what you're doing, Tom,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1166040,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and it is able\nto completely transform their brains."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1170120,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And, um, people are able to live\nas normal after having had a stroke\nor something like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1174880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Um, but the issue is\npeople become reliant"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1178240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "on a technology that\nthey don't have total control over."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1181560,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And I guess this is probably\nsomething that you're considering."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1183960,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "You're going to have people dependent\non this technology."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1187200,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "What safeguarding is in place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1188640,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "How do you ensure that they're still\nable to use it in 5, 10 years time?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1193640,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So this issue has come up\nover several decades"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1196480,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "in other medical device applications."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1198520,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "The first one was probably\nthe cardiac pacemaker, uh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1202080,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "which in the 70s and 80s,\nwhen it first appeared,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1204840,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "needed multiple iterations\nand needed lots of support."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1208480,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Um, probably more recently,\nuh, there was a widely reported,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1213000,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "uh, well, company that was doing\na cortical vision implant,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1217920,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and the company, for whatever reason,\nwasn't able to continue and was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1222000,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "people were left with implants\nthat were no longer supported."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1226480,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So it's a challenging issue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1228760,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "Um, there is the risk that the,\nuh, companies no longer exist,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1233720,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "so there's no easy solution\nwhen we consent people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1237600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "uh, we talk about it,\nso we talk about it in the consent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1240600,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "I think in a future state,\nif the technology."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1244080,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Um, I heard Alex Wang,\nthe Scale AI last week made a comment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1247960,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "that he didn't want to have children\nuntil they could get an implantable BCI,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1252600,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "because otherwise they'll be, uh,\nthey'll be disadvantaged."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1256800,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And Steve Bannon has been talking\nabout this a little bit in his,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1260120,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "um, when he's referenced Neuralink\nthat in the future, the question is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1264880,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "will there be now a subclass\nof humans, not a subclass,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1269640,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "a different class of humans that\nhave elected to take a technology"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1273840,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "for the purpose of augmentation?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1276440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And does that mean\nthey can then participate in society"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1279600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "at a level, uh, superior? Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1283000,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "In some way advantageous relative\nto not. And what will that mean?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1287680,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "What will that mean for society?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1289720,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So from that perspective, if there's\ndiscrimination on the side of, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1293320,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "who can't afford the technology,\nand then there's discrimination"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1295800,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "on the side of what will it mean\nfor cultural divisions?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1299480,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Thank you.\nIt's the turn of our audience again,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1302560,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "who has a question\non anything we've discussed so far."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1306360,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "The man over here in the aisle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1308640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And then afterwards,\nwe'll go to the lady at the back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1311200,
+      "dDurationMs": 920,
+      "segs": [
+        {
+          "utf8": "Thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1312120,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "As someone that lives with left front\nlobe epilepsy, The delivery of drugs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1316960,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "You've all spoken with the brain\nand the gut."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1319160,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Is there a correlation\nbetween implants bubble and the gut?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1323360,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Could. Could the three work together?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1326720,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Is this the.\nIs this a moment for a collaboration?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1330720,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "What do you think?\nWho wants to take this one? Khalil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1333920,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "Could we work together? Absolutely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1335600,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "I think the I mean,\nwe met each other a few hours ago."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1339520,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Just full, full disclosure here. And,\nuh, and let's just say time flew by."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1344200,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Just in terms of when you put geeks\ntogether, we just end up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1346760,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Having.\nInteresting conversations."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1349800,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "I don't want to speak\nfor sort of all engineers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1352480,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "but I will say that\none thing that really excites me is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1356000,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "where there is\na problem that is unsolved."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1358240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And I think that's sort of just\nkind of the engineering hat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1360760,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So most of the projects\nthat we embark on, start off"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1363760,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "with what is a problem\nthat is currently underserved"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1367160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "or where there is\nan opportunity to have an impact?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1370680,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And then do we think that we have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1372840,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "a novel enough idea to actually think\nthat we can make an impact."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1376640,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Thank you. And we're going to go\nto the lady in the centre here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1380240,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Hello. This is question for Elena."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1382720,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "What happens to the bubbles\nand the drugs inside them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1387040,
+      "dDurationMs": 6520,
+      "segs": [
+        {
+          "utf8": "that aren't burst when\nthey're targeted at the target organ?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1393560,
+      "dDurationMs": 480,
+      "segs": [
+        {
+          "utf8": "Thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1394040,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "It's a very good question. So,\num, the gas eventually just leaks out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1397920,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and you're left with a tiny little\ncrumpled balloon, essentially, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1401200,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "which gets processed by the liver.\nPerfect. Thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1403920,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "I see a few young faces\nin the audience."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1406200,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "Does anyone of our younger members\nwant to ask a question?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1411240,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "There's someone keen over there\nin the back wearing a hoodie."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1416200,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "This is quite\na lighthearted question, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1418360,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "could you use neural implants to do\nmore realistic VR gaming?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1423680,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Oh good question."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1428800,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "I think that'll be one\nof the first groups"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1431320,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "that are early adopters\nfor this technology."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1435680,
+      "dDurationMs": 920,
+      "segs": [
+        {
+          "utf8": "I'm not joking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1436600,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And I think the reason it's going\nto be attractive is and it's,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1440520,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "by the way, a US defence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1442520,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "That's why US defence is interested,\nbecause you can engage with systems"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1447120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "in a more responsive way\nthan what your body can."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1450080,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So you get down your reaction times\nfor technology control."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1454480,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Uh so gamers maybe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1457400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "You what interest has it been\nfrom us defence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1460080,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "Tell me a little bit more about that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1461760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Well, actually,\nthe field of the field of BCI started"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1464840,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "with several hundred millions of\ndollars from US defence from DARPA."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1468640,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "That was where\nour first funding came from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1471360,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "Then over the course of ten to 15\nyears, that that funding went away."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1476000,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Trump came in and there was more\nof a focus on soldiers weapons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1479680,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So there's less investment now\nfrom US defence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1482400,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "But there's been, uh, the initial the\ninitial defence interest was helping"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1486760,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "people who are coming back from\ndesert warfare who'd lost arms, legs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1490880,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and arms to restore control\nof prosthetic limbs and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1494000,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "then also to understand post-traumatic\nstress from head injuries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1497280,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So that's the origin.\nFantastic question. Thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1502160,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Thank you so much\nfor your questions, everyone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1504240,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "I wish we could take more,\nbut I'm afraid we're out of time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1507600,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "That's it for\nThe Engineers exploring the human"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1509960,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "at the Royal Geographical Society\nin London."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1512560,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "I'm Caroline Steel on behalf of\nthe BBC World Service, our partners,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1516400,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "the Royal Commission, 1851,\nand my producer, Charlie Taylor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1520440,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Please join me\nin giving a warm round of applause"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1522680,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "for our pioneering engineers Eleanor\nStride, Khalil Ramadi and Tom Oxley."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1527760,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "Thank you.\nVery much."
+        }
+      ]
+    }
+  ]
+}

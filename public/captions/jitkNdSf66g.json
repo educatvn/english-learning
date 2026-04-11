@@ -1,0 +1,1814 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 40,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Hey, guys,\nI'm Iqra Farooq and this is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "What in the World\non the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 5600,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Now, being a music star comes\nwith its perks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 8280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Crafting the song in the studio,\nheading out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 10640,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "on stage and\nhearing the lyrics back to you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 13600,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Maybe you get to collab with\nyour music hero along the way too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 17840,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "But if music is your job,\nhow are you making money these days?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "There's a few things affecting\nthe cash flow."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23800,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "If you're a musician, depends which part\nof the world you're making music in,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 27560,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "which platforms you're appearing on,\nand just how famous you are too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 32360,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "So bundling all this together, we know\nthe music business is a tough one and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37560,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "there's a lot of competition\nout there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 39880,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So, is it getting harder\nto make money these days?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46520,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And that's what we're chatting about\nin today's episode"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49440,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I'm with BBC Newsbeat's Riyah Collins."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52440,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Hey, Riyah.\nHey Iqra."
+        }
+      ]
+    },
+    {
+      "tStartMs": 54760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Let's start\nwith the actual publishing of a song then."
+        }
+      ]
+    },
+    {
+      "tStartMs": 57640,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "When it's out there. How\ndoes a musician make money from it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 62360,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Once your song is released, pretty\nmuch every time that song is played,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 66400,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "you'll make some money. It might not\nbe much, but you'll make some money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 69720,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "You know, whether that's on\nthe radio, being streamed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "on an app like Spotify\nor Apple Music."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "you know, we have\nsome purists out there as well"
+        }
+      ]
+    },
+    {
+      "tStartMs": 77560,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "who still buy physical copies.\nYou'd get money from that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81120,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Aside from that, you know,\nyou also get paid to perform live."
+        }
+      ]
+    },
+    {
+      "tStartMs": 83960,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And of course, if your song ends up\nbeing used by third parties like, say,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87720,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "in an advert or a film, they also\nhave to pay you to license your song."
+        }
+      ]
+    },
+    {
+      "tStartMs": 92360,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Now there is a bit of a catch\nbecause not all of that money goes to you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 95120,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "You mentioned publishers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 97760,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "so a lot of artists don't actually\nfully own the rights to their own songs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101520,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "So their publishers,\nie their record labels, will\noften take a cut of what you make."
+        }
+      ]
+    },
+    {
+      "tStartMs": 106520,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And we hear\nthis word royalties quite a lot."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109040,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So how do royalties work?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 111360,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Royalties. That's just basically\nthe word we use to describe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 115600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "what we've just been talking about\nfrom all those different streams"
+        }
+      ]
+    },
+    {
+      "tStartMs": 118560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "of income that you might get\nwhen your music's played."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120840,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "It's split between\nsort of three categories."
+        }
+      ]
+    },
+    {
+      "tStartMs": 123800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So you have performance royalties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 126600,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "That is when your song\nis played on the radio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129120,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "But even in like a shopping centre\nas well, they have to pay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 132920,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Then you have mechanical\nroyalties. That covers things"
+        }
+      ]
+    },
+    {
+      "tStartMs": 136480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "like streaming and physical sales."
+        }
+      ]
+    },
+    {
+      "tStartMs": 139040,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And then finally you have licensing\nand sync royalties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142280,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "And that is when your music is\nused by other companies making, say,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 146400,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "a film, TV show, game, advert, that kind\nof thing. Sync royalties as well,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 151600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "that is quite a murky world,\nto be honest with you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 154840,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "There's no clear benchmarks\nfor artists to know"
+        }
+      ]
+    },
+    {
+      "tStartMs": 158520,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "how much to expect they can make\nfrom royalties there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162040,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So there was a case actually last\nyear, this band called Heaven 17."
+        }
+      ]
+    },
+    {
+      "tStartMs": 165800,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "They basically called out GTA 6,\nbecause they were offered,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169880,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "I think, $22,500 to use one\nof their songs in the game,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 174520,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and they were like,\nthat is quite pathetic to be honest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177920,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "and it's just such\nan open field."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182560,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Like some bigger artists\nmight get offered millions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 185680,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Let's focus a little bit more\non streaming now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 188920,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "So how do artists make money\nfrom the streaming sites"
+        }
+      ]
+    },
+    {
+      "tStartMs": 194280,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "like Apple Music, Spotify?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "It really does vary from artists\nto artists,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199320,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "but overall,\nsome estimates reckon that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202280,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "an artist signed to a major label\nprobably makes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205640,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "less than 20% of their income\nfrom streaming apps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208600,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So, Spotify is actually set to\npublish its annual economics report"
+        }
+      ]
+    },
+    {
+      "tStartMs": 212600,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "pretty soon, and\nthis will give a breakdown of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 215520,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "how much they make\nand then how much that is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218600,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "how much of that is passed on\nto rights holders."
+        }
+      ]
+    },
+    {
+      "tStartMs": 221880,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "The most recent figures we have,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 224640,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "is that they paid £10 billion\nfor the music industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 228080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "But you'll notice\nthat while that sounds a lot,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231120,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "they haven't actually said\nthat they're paying that to artists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 233120,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "They're saying they're paying that\nto the music industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235680,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And some people have figured out\nthat you need to be streamed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238080,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "about a thousand times\non the app before you,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 240800,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "you might even make $0.25.\nSo only a minority"
+        }
+      ]
+    },
+    {
+      "tStartMs": 244920,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "of artists are making\nsignificant money from streaming."
+        }
+      ]
+    },
+    {
+      "tStartMs": 250120,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Also, apps don't often pay\nout at all. If you're like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 253600,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "quite a small-scale artist,\nso if you have fewer than, say,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 256040,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "a thousand streams,\nyou might not get any money at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 259720,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And again, this is where we need\nto talk about rights holders"
+        }
+      ]
+    },
+    {
+      "tStartMs": 263440,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "because even, say, if you\nare streamed enough to make $100,000"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268880,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "from your music,\nthat then has to be split, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 271720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So, labels take a cut,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 274120,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "but so do other people who've worked\non the song as well as the lead artist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 278880,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So the average, you know,\nonce everyone's taken their cut,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 282800,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "an artist might only get\nabout 16% of that overall figure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 286840,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "from the streaming platforms.\nWe wanted to find out a little bit more"
+        }
+      ]
+    },
+    {
+      "tStartMs": 290520,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "from someone who is\nin the music business."
+        }
+      ]
+    },
+    {
+      "tStartMs": 292920,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "We've had this message\nfrom Mary Spender."
+        }
+      ]
+    },
+    {
+      "tStartMs": 295280,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "She's a singer-songwriter.\nI've never been signed to a label,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 298560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "but years ago I was offered\na 360 management deal,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 302000,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "the kind where the business takes\na cut of everything you earn,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 305800,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "even income unrelated to your music."
+        }
+      ]
+    },
+    {
+      "tStartMs": 308080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So I said, no, thank you.\nAnd I walked away."
+        }
+      ]
+    },
+    {
+      "tStartMs": 311160,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So as an independent artist, I had\nto figure out how to fund, record"
+        }
+      ]
+    },
+    {
+      "tStartMs": 315120,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and release my album\nwithout any backing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 318360,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "And that meant getting creative."
+        }
+      ]
+    },
+    {
+      "tStartMs": 320040,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So I use videos to promote my music.\nOn YouTube,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323160,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "I've grown my channel\nto 750,000 subscribers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 327120,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "That channel has allowed me to build\nmultiple income streams that are all"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331520,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "relatively equal in keeping me going."
+        }
+      ]
+    },
+    {
+      "tStartMs": 333800,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Although I have toured, I can't say\nit's a huge part of my income."
+        }
+      ]
+    },
+    {
+      "tStartMs": 337480,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "It's instead usually a huge expense."
+        }
+      ]
+    },
+    {
+      "tStartMs": 340080,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "So after spending five years on\nmy YouTube channel to fund the album,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 344560,
+      "dDurationMs": 7520,
+      "segs": [
+        {
+          "utf8": "I recorded and sold 1,000 copies of an\nacoustic album called Songbook\ndirectly through my Shopify store,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 352080,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and that helped me raise the budget\nfor a full studio production."
+        }
+      ]
+    },
+    {
+      "tStartMs": 355920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Streaming can work well\nfor some artists, but for most of us,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 360160,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "the numbers just don't add up and one\nstream pays about a third of a penny."
+        }
+      ]
+    },
+    {
+      "tStartMs": 364640,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "And to put that in perspective,\none person buying a CD"
+        }
+      ]
+    },
+    {
+      "tStartMs": 368640,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "from my website is equivalent to\njust over 8000 Spotify streams."
+        }
+      ]
+    },
+    {
+      "tStartMs": 373720,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And that's why I kept\nSuper Sexy Heartbreak exclusive"
+        }
+      ]
+    },
+    {
+      "tStartMs": 377480,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "to my physical merch store\nfor nearly a year,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 381600,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "while gradually releasing it\nto streaming platforms."
+        }
+      ]
+    },
+    {
+      "tStartMs": 385920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "In the past year or so,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 388320,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "the album has earned about £800\nfrom 375,000 Spotify streams,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394000,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "but it costs £25,000 to make."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So to break even,\nI'd need over nine million streams"
+        }
+      ]
+    },
+    {
+      "tStartMs": 399360,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "and double that to earn minimum wage.\nThat's 18 million streams."
+        }
+      ]
+    },
+    {
+      "tStartMs": 404240,
+      "dDurationMs": 8120,
+      "segs": [
+        {
+          "utf8": "Or I just needed 2000 people to buy\na CD to recoup and make a living."
+        }
+      ]
+    },
+    {
+      "tStartMs": 412360,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "What about when it comes to..."
+        }
+      ]
+    },
+    {
+      "tStartMs": 414000,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "obviously, we're all talking about AI\nat the moment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417440,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "It seems like when you come\nto the fraudulent side of things,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 422440,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "streaming could probably be affected\nas well, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424680,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "How do we get around that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 427560,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "Yeah. I mean, it has happened,\nbut it is quite rare."
+        }
+      ]
+    },
+    {
+      "tStartMs": 432800,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So, last year in the US,\nthere was a man who was accused"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437680,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "of using AI basically, firstly\nto write loads of songs for him"
+        }
+      ]
+    },
+    {
+      "tStartMs": 442360,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and then secondly to get\nthousands and thousands"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "of bots to then stream it\nsort of endlessly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448600,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So he was generating so much money\nin royalties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 451760,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I think prosecutors\nin the US said"
+        }
+      ]
+    },
+    {
+      "tStartMs": 454600,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "maybe more than $10 million\nhe might have made."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458280,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and there was a similar case\nin Denmark, too,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 460720,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "where, again,\nsort of basically the same tactics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 464360,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And he was jailed actually last year,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 467000,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and if convicted, the same\ncould happen to this guy in the US."
+        }
+      ]
+    },
+    {
+      "tStartMs": 469960,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So, it is happening."
+        }
+      ]
+    },
+    {
+      "tStartMs": 472840,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "There seems to be a bit of a crackdown,\na bit of greater awareness."
+        }
+      ]
+    },
+    {
+      "tStartMs": 475840,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And it's not just about Spotify\nand Apple."
+        }
+      ]
+    },
+    {
+      "tStartMs": 478200,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Other streaming platforms\nhave been launched, and they say"
+        }
+      ]
+    },
+    {
+      "tStartMs": 480720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "they're fair to artists too, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 483320,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Yeah, but it's a tough one.\nIt's a tough one."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485800,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488080,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "while these streaming apps do claim\nto pay artists a bit more,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493040,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "we're again just talking\nabout fractions of a cent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496800,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So, I think Tidal and Deezer pay"
+        }
+      ]
+    },
+    {
+      "tStartMs": 499200,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "about double what Spotify will\nper stream."
+        }
+      ]
+    },
+    {
+      "tStartMs": 503080,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "But again, you just need thousands\nand thousands of streams"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "before you notice any impact\nfrom that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 509160,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And speaking of different kinds\nof streaming sites,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512120,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "we've had this message from Kenya\non what's happening over there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 515920,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "TV host Ken Rel Bis has launched\na free music distribution platform\ncalled Interfine music."
+        }
+      ]
+    },
+    {
+      "tStartMs": 521960,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "There's no upfront fee\nfor artists to sign up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 524840,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "We just take a cut from whenever\nan artist is making royalties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 530040,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Our revenue share is eight to 20."
+        }
+      ]
+    },
+    {
+      "tStartMs": 532560,
+      "dDurationMs": 7920,
+      "segs": [
+        {
+          "utf8": "Where the artist gets 8% of their royalties\nand we keep 20% as a service fee."
+        }
+      ]
+    },
+    {
+      "tStartMs": 540480,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So we reached out to Spotify\nand Apple Music"
+        }
+      ]
+    },
+    {
+      "tStartMs": 543400,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "for a comment on the amount artists\nare paid from streams."
+        }
+      ]
+    },
+    {
+      "tStartMs": 547120,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "They didn't get back to us,\nbut previously Spotify said"
+        }
+      ]
+    },
+    {
+      "tStartMs": 550720,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "they pay rights holders directly and\nit's up to them to pay artists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 555400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And of course, it's not\njust all about the streaming."
+        }
+      ]
+    },
+    {
+      "tStartMs": 558160,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "It's a big part\nof the music industry now, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 560320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "there's other ways\nartists can make money, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 563560,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "Yeah, absolutely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 564600,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And, you know, they have to– they have\nto find other ways to diversify."
+        }
+      ]
+    },
+    {
+      "tStartMs": 568320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "You know, traditionally\nyou've obviously got, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570640,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "things like touring and merch and brand\ndeals and partnerships and all that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 576480,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "but you can't really talk about\nartists and making music these days"
+        }
+      ]
+    },
+    {
+      "tStartMs": 580360,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "without also talking\nabout social media. TikTok."
+        }
+      ]
+    },
+    {
+      "tStartMs": 583720,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "A lot of artists are, you know,\neither become social media stars"
+        }
+      ]
+    },
+    {
+      "tStartMs": 588440,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "or are social media stars that become\nartists. With a lot of bigger artists,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 592600,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "we're seeing in particular,\nmusic isn't really"
+        }
+      ]
+    },
+    {
+      "tStartMs": 596400,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "what they're most profitable\nfor a lot of the time any more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 599840,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So I'm thinking of Selena Gomez."
+        }
+      ]
+    },
+    {
+      "tStartMs": 601960,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "You know, she's recently made it to\nthe billionaire list or whatever it is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607040,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "And it was Bloomberg who compiled\nthat list, and they said"
+        }
+      ]
+    },
+    {
+      "tStartMs": 613200,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "that actually, music is quite a\nnegligible part of what she's making."
+        }
+      ]
+    },
+    {
+      "tStartMs": 617720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Most of it's from her make-up line.\nIs it harder"
+        }
+      ]
+    },
+    {
+      "tStartMs": 620320,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "for the rising musicians to kind of\nbreak through in this day and age?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 624800,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "A lot of artists\nare certainly saying it is, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 627640,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "like you say,\nyou can you can break through."
+        }
+      ]
+    },
+    {
+      "tStartMs": 630040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "You can have that moment on TikTok,\nfor example,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 633080,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "but then can you sustain that and\nactually translate that into a career?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 637960,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "You need to be streamed loads\nto make a decent income from that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 643200,
+      "dDurationMs": 1120,
+      "segs": [
+        {
+          "utf8": "There are other factors too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 644320,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "Here at Newsbeat, we've spoken\nto quite a lot of artists who've told us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 649640,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "how expensive touring can be\nand putting on a show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 652960,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So, you know, as fans, you know,\nwe've probably all experienced"
+        }
+      ]
+    },
+    {
+      "tStartMs": 657000,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "how expensive it is to get tickets\nto see our favourite artists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 660640,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And a lot of them\nare actually saying, well,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 663080,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "they're not making a lot\nof money from it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 665320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "We spoke to the Irish country singer\nSima, fairly recently,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668680,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "and she told us that, you know,\nevery time she performs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 670840,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "in the US, she loses money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 672960,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And that's, you know,\nthe cost of touring, the cost"
+        }
+      ]
+    },
+    {
+      "tStartMs": 675040,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "of visas, all that,\nit's all going up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677880,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "And, you know, compare that\nto Taylor Swift who,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 682440,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "you know, had a record-breaking tour\nwith her Eras Tour, making billions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 687360,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Thank you so much for coming on, Riyah.\nThanks so much for having me, Iqra."
+        }
+      ]
+    },
+    {
+      "tStartMs": 690880,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And thank you\nfor watching this episode"
+        }
+      ]
+    },
+    {
+      "tStartMs": 692920,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "of What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 695600,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "I'm Iqra Farooq\nand we will see you next time. Bye."
+        }
+      ]
+    }
+  ]
+}

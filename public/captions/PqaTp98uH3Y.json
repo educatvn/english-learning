@@ -1,0 +1,1513 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Within that leak, there were 70000\npictures of women, ID's, addresses."
+    } ]
+  }, {
+    "tStartMs": 6600,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "So the woman that I spoke to, she saw\nthe map clicked on it, zoomed in,"
+    } ]
+  }, {
+    "tStartMs": 12920,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and it was her address\nexactly pinpointed on the map."
+    } ]
+  }, {
+    "tStartMs": 16480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "The worst case nightmare, isn't it?\nSo frightening."
+    } ]
+  }, {
+    "tStartMs": 19120,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "If you've ever used a dating app,\nyou've probably asked yourself,"
+    } ]
+  }, {
+    "tStartMs": 21960,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "is the person really\nwho they say they are?"
+    } ]
+  }, {
+    "tStartMs": 24160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Is the chat going to be kind of awkward?\nAnd most importantly, will I be safe?"
+    } ]
+  }, {
+    "tStartMs": 28640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And that's why the Tea dating\nadvice app really blew up in the US."
+    } ]
+  }, {
+    "tStartMs": 32000,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "It offered women\na chance to do background checks"
+    } ]
+  }, {
+    "tStartMs": 34360,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "on men so they could find out\nif they were actually married,"
+    } ]
+  }, {
+    "tStartMs": 37680,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "if they were using a fake identity,\nor even a registered sex offender."
+    } ]
+  }, {
+    "tStartMs": 41880,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "But in July, that backfired."
+    } ]
+  }, {
+    "tStartMs": 44400,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Hackers broke into the app and they\nleaked women's data and photos online."
+    } ]
+  }, {
+    "tStartMs": 49520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So today you're going to hear\nhow that breach has affected women,"
+    } ]
+  }, {
+    "tStartMs": 52760,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and whether apps\nlike this actually make dating safer,"
+    } ]
+  }, {
+    "tStartMs": 55920,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "or do they create new risks for men\nand women?"
+    } ]
+  }, {
+    "tStartMs": 59160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I'm Hannah, this is What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 62120,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "And here in the studio\nwith me is Jacqui Wakefield,"
+    } ]
+  }, {
+    "tStartMs": 64240,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "the BBC's Global Disinformation\nreporter to spill the tea."
+    } ]
+  }, {
+    "tStartMs": 67480,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Hey, Jackie.\nHey."
+    } ]
+  }, {
+    "tStartMs": 68560,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "What has your experience\nof online dating been like?"
+    } ]
+  }, {
+    "tStartMs": 70680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Because on paper,\nthe app sounds like a good idea."
+    } ]
+  }, {
+    "tStartMs": 75400,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "How did it work\nor how was it meant to work?"
+    } ]
+  }, {
+    "tStartMs": 77280,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I've not had a lot\nof experience online dating,"
+    } ]
+  }, {
+    "tStartMs": 79520,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "but I think\nas women in particular, we've had"
+    } ]
+  }, {
+    "tStartMs": 81880,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "our fair share of horror stories\nfrom friends of dates gone wrong,"
+    } ]
+  }, {
+    "tStartMs": 87040,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "of a guy that they are seeing,\ncheating on someone with them,"
+    } ]
+  }, {
+    "tStartMs": 91800,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "of not being who they say they are."
+    } ]
+  }, {
+    "tStartMs": 94440,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And I think that's where things\nlike the Tea app come into it, right?"
+    } ]
+  }, {
+    "tStartMs": 98080,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So the Tea app,\nthe purpose was to keep women safe"
+    } ]
+  }, {
+    "tStartMs": 101640,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "from dating so that\nthey could share their experiences"
+    } ]
+  }, {
+    "tStartMs": 104240,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and almost review men\nthat they had dated,"
+    } ]
+  }, {
+    "tStartMs": 106960,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "or men that\nthey could potentially go on dates"
+    } ]
+  }, {
+    "tStartMs": 109720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "with to check -\nIs it a red flag?"
+    } ]
+  }, {
+    "tStartMs": 112320,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "What are the red flags with this guy?"
+    } ]
+  }, {
+    "tStartMs": 113920,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Exactly. So there were many things\nthat you could check."
+    } ]
+  }, {
+    "tStartMs": 116080,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "You could check red flags,\ngreen flags,"
+    } ]
+  }, {
+    "tStartMs": 118200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "you could check if he was\na registered sex offender,"
+    } ]
+  }, {
+    "tStartMs": 122200,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "if he was married,\nif it was a catfish."
+    } ]
+  }, {
+    "tStartMs": 125040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But there was also a lot of 'tea'\nor gossip on the site as well,"
+    } ]
+  }, {
+    "tStartMs": 128160,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "so that sometimes got out of hand.\nAnd by catfish,"
+    } ]
+  }, {
+    "tStartMs": 130800,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "of course, you mean someone stealing\nor using someone else's identity."
+    } ]
+  }, {
+    "tStartMs": 133880,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Just someone not saying who they are."
+    } ]
+  }, {
+    "tStartMs": 136240,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "And we've all heard these kinds\nof stories. They're so, so common."
+    } ]
+  }, {
+    "tStartMs": 139200,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And this app was it was only open\nfor women, right?"
+    } ]
+  }, {
+    "tStartMs": 142640,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "And they had to upload a photo\nor an ID of themselves"
+    } ]
+  }, {
+    "tStartMs": 145480,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "to make sure that they were women\nto be able to get in, right?"
+    } ]
+  }, {
+    "tStartMs": 148520,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And the whole point of it only being\navailable for women was controversial,"
+    } ]
+  }, {
+    "tStartMs": 152880,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "but it was also\nreally popular, right?"
+    } ]
+  }, {
+    "tStartMs": 155480,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "It was super popular. So it's been\nnumber one, number two, number three"
+    } ]
+  }, {
+    "tStartMs": 159200,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "in the US App Store for months now."
+    } ]
+  }, {
+    "tStartMs": 163080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "It's hard to get an idea\nof the exact number of users,"
+    } ]
+  }, {
+    "tStartMs": 165960,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "but reportedly it's around\nthe one to two million mark."
+    } ]
+  }, {
+    "tStartMs": 169840,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And it went really viral in July."
+    } ]
+  }, {
+    "tStartMs": 171880,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "But of course, with\nthat virality came a lot of backlash."
+    } ]
+  }, {
+    "tStartMs": 176560,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So obviously, in a space where there\nare only women speaking about men"
+    } ]
+  }, {
+    "tStartMs": 181000,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and men can't access it,"
+    } ]
+  }, {
+    "tStartMs": 183120,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "men weren't too happy about that,\nwhich is kind of fair enough."
+    } ]
+  }, {
+    "tStartMs": 186200,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "There was a lot of unproven gossip\non the site."
+    } ]
+  }, {
+    "tStartMs": 188840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "A lot of things that really\naren't required for women's safety -"
+    } ]
+  }, {
+    "tStartMs": 193080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "What, like, how are his abs?\nYeah. Well, things like that."
+    } ]
+  }, {
+    "tStartMs": 195480,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "And like, I mean, I saw one post\nwhere a woman had posted a guy"
+    } ]
+  }, {
+    "tStartMs": 198560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and some of the comments were like,\n'this guy's definitely gay.'"
+    } ]
+  }, {
+    "tStartMs": 201200,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "They have no idea,\nit's a complete stranger."
+    } ]
+  }, {
+    "tStartMs": 203880,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And what I saw online, the male\nreaction, is that they were saying,"
+    } ]
+  }, {
+    "tStartMs": 208120,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "like, 'I want to get my photo taken off\nthis app, a lot of this is untrue.'"
+    } ]
+  }, {
+    "tStartMs": 213040,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "And there was a lot of frustration\non that side as well."
+    } ]
+  }, {
+    "tStartMs": 215080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "It could be reputationally damaging.\nI mean, defamation, right?"
+    } ]
+  }, {
+    "tStartMs": 218920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "It could be what it comes down\nto if people are saying things"
+    } ]
+  }, {
+    "tStartMs": 221720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "about someone\nthat could damage their reputation."
+    } ]
+  }, {
+    "tStartMs": 223880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And actually, this wasn't\nthe first app of its kind."
+    } ]
+  }, {
+    "tStartMs": 226520,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "There was this Facebook group\nor a series of Facebook groups."
+    } ]
+  }, {
+    "tStartMs": 229160,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "It was the\n'are we dating the same guy groups?'"
+    } ]
+  }, {
+    "tStartMs": 232320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I mean, that sounds\nlike it could be a really useful tool"
+    } ]
+  }, {
+    "tStartMs": 234960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "because with online dating, it'd be\nso easy for a guy to just double life"
+    } ]
+  }, {
+    "tStartMs": 239360,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and have multiple women on the go\nat the same time."
+    } ]
+  }, {
+    "tStartMs": 244240,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But you've talked a little bit"
+    } ]
+  }, {
+    "tStartMs": 246240,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "about some of the things\nthat women were were posting."
+    } ]
+  }, {
+    "tStartMs": 249280,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Where was the line here\nbetween protecting women"
+    } ]
+  }, {
+    "tStartMs": 251880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and potentially shaming men?"
+    } ]
+  }, {
+    "tStartMs": 254520,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "It's such a grey area\nbecause on the one part,"
+    } ]
+  }, {
+    "tStartMs": 258000,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "like if it was you and me, if\nwe'd been on a date with the same guy"
+    } ]
+  }, {
+    "tStartMs": 261080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and you'd had a really negative\nexperience, you could just share that"
+    } ]
+  }, {
+    "tStartMs": 263760,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "with me in private over a coffee\nand no questions asked, really."
+    } ]
+  }, {
+    "tStartMs": 268680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "But the fact of the matter is, is this\nis posted on online for anyone to see,"
+    } ]
+  }, {
+    "tStartMs": 274520,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "whether that's 'are we dating\nthe same guy' Facebook pages,"
+    } ]
+  }, {
+    "tStartMs": 277240,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "or the Tea app where millions\nof people could potentially see it."
+    } ]
+  }, {
+    "tStartMs": 282200,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And that's where you kind of get into\ntrouble. I mean, whisper networks"
+    } ]
+  }, {
+    "tStartMs": 284960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "between women about negative experiences\nwith men, they've existed forever."
+    } ]
+  }, {
+    "tStartMs": 289240,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "But when it does go online\nand it is for everyone to see,"
+    } ]
+  }, {
+    "tStartMs": 293360,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "that's when you know there needs to be\nsome way of verifying the information,"
+    } ]
+  }, {
+    "tStartMs": 298400,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "because otherwise the Tea app\nin particular,"
+    } ]
+  }, {
+    "tStartMs": 301680,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "where men couldn't log on to see\nwhat was being posted about them,"
+    } ]
+  }, {
+    "tStartMs": 305080,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "there's just no way for them to defend\nthemselves in this particular situation."
+    } ]
+  }, {
+    "tStartMs": 309040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So lots of men were unhappy"
+    } ]
+  }, {
+    "tStartMs": 311120,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "about the potential information\ncirculating about them online,"
+    } ]
+  }, {
+    "tStartMs": 314480,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "whether it was true or not, but\neven the fact that it was up there,"
+    } ]
+  }, {
+    "tStartMs": 316680,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "because this is potentially\nreally personal stuff,"
+    } ]
+  }, {
+    "tStartMs": 319320,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "it's dating experiences and maybe\nlike one person's sexual experiences."
+    } ]
+  }, {
+    "tStartMs": 322960,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And then in July it was hacked."
+    } ]
+  }, {
+    "tStartMs": 326120,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "What do we know about the hack?"
+    } ]
+  }, {
+    "tStartMs": 328440,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Who was behind it?\nWhy do they do it?"
+    } ]
+  }, {
+    "tStartMs": 330520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "What kind of information\ndid they take? And what was leaked?"
+    } ]
+  }, {
+    "tStartMs": 334080,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "So the information was posted by\nan anonymous user on 4chan."
+    } ]
+  }, {
+    "tStartMs": 339480,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "So 4chan is a forum site."
+    } ]
+  }, {
+    "tStartMs": 341960,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "It's very famous\nfor having a lot of incels,"
+    } ]
+  }, {
+    "tStartMs": 344440,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "misogynist groups, you know,"
+    } ]
+  }, {
+    "tStartMs": 347200,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "people that often want to do women\na lot of harm, go to this site."
+    } ]
+  }, {
+    "tStartMs": 351720,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So it's really worrying\nthat the data was shared there."
+    } ]
+  }, {
+    "tStartMs": 355280,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "From what we know,\nthe anonymous user was the one"
+    } ]
+  }, {
+    "tStartMs": 358000,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "that actually hacked the data."
+    } ]
+  }, {
+    "tStartMs": 360520,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So essentially this 4chan user\nposted it on one of the forums and"
+    } ]
+  }, {
+    "tStartMs": 365520,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "within that leak\nthere were 70000 pictures"
+    } ]
+  }, {
+    "tStartMs": 368920,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "of women, IDs, addresses,\nother information"
+    } ]
+  }, {
+    "tStartMs": 373680,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and what this information was\nwas verification selfies."
+    } ]
+  }, {
+    "tStartMs": 377080,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So in order to access the app,\nwhich is completely anonymous,"
+    } ]
+  }, {
+    "tStartMs": 381200,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "a woman had to take a photo\nof herself and"
+    } ]
+  }, {
+    "tStartMs": 383280,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "send it through to be verified\nas a woman."
+    } ]
+  }, {
+    "tStartMs": 386240,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So in essence, what happened was\nwhen this was posted to 4chan,"
+    } ]
+  }, {
+    "tStartMs": 389520,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "there was a celebration."
+    } ]
+  }, {
+    "tStartMs": 390600,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Misogynist groups online had been hating\nthe Tea app for a really long time."
+    } ]
+  }, {
+    "tStartMs": 395920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "And as we stated earlier,\nthere's lots of really,"
+    } ]
+  }, {
+    "tStartMs": 400480,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "you know, fair critique\nof the app, but"
+    } ]
+  }, {
+    "tStartMs": 403640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "a lot of that became quite misogynistic\non these sort of online forums."
+    } ]
+  }, {
+    "tStartMs": 407000,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And they'd been talking for quite a long\ntime about wanting to bring it down."
+    } ]
+  }, {
+    "tStartMs": 410960,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "And you spoke to some\nof the women whose data was leaked."
+    } ]
+  }, {
+    "tStartMs": 416040,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "What did they say?\nWhere did it end up?"
+    } ]
+  }, {
+    "tStartMs": 418960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So both the women actually came\nacross their information"
+    } ]
+  }, {
+    "tStartMs": 423440,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "that was leaked on social media. So\none had it sent to her by a friend."
+    } ]
+  }, {
+    "tStartMs": 428600,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And the other one,\njust saw it as she was scrolling."
+    } ]
+  }, {
+    "tStartMs": 431840,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So one of the places\nthat the data ended up was"
+    } ]
+  }, {
+    "tStartMs": 435600,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "the women's locations were leaked\nand that was made into a map"
+    } ]
+  }, {
+    "tStartMs": 441280,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "where the locations were pinpointed\nacross the US."
+    } ]
+  }, {
+    "tStartMs": 444600,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Not necessarily homes.\nSo when you take a photo,"
+    } ]
+  }, {
+    "tStartMs": 447440,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "there's metadata that comes along\nwith the selfie."
+    } ]
+  }, {
+    "tStartMs": 450400,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And that metadata gives\nlike coordinates."
+    } ]
+  }, {
+    "tStartMs": 454080,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So wherever the user was\nwhen they took the selfie,"
+    } ]
+  }, {
+    "tStartMs": 456920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "for a lot of women, that was their\nhomes, but it was other places as well."
+    } ]
+  }, {
+    "tStartMs": 461000,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "So the woman that I spoke to, she saw\nthe map, clicked on it, zoomed in,"
+    } ]
+  }, {
+    "tStartMs": 467440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and it was her address\nexactly pinpointed on the map."
+    } ]
+  }, {
+    "tStartMs": 470960,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Your worst case nightmare, isn't it?\nSo frightening."
+    } ]
+  }, {
+    "tStartMs": 473600,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "And like in her case, she had previously\nbeen stalked by an ex-partner."
+    } ]
+  }, {
+    "tStartMs": 479760,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "He no longer knew where she lived."
+    } ]
+  }, {
+    "tStartMs": 482760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "He didn't know any details\nabout her anymore."
+    } ]
+  }, {
+    "tStartMs": 485160,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Now that information is out there\nfor the world to see."
+    } ]
+  }, {
+    "tStartMs": 488480,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Another woman, essentially, there was\nlike this game that was posted,"
+    } ]
+  }, {
+    "tStartMs": 492040,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "so they took all of the images\nof the women in the leak"
+    } ]
+  }, {
+    "tStartMs": 495440,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and put them against each other\nin a versus game."
+    } ]
+  }, {
+    "tStartMs": 497920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And as the user, you could choose\nwhich woman was the most attractive."
+    } ]
+  }, {
+    "tStartMs": 501600,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "And then it came out\nwith a leaderboard."
+    } ]
+  }, {
+    "tStartMs": 503440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So these images and like screenshots\nof this game were shared everywhere."
+    } ]
+  }, {
+    "tStartMs": 507520,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "And one of the posts went quite viral\nand this woman was in the post and"
+    } ]
+  }, {
+    "tStartMs": 512960,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "was of course completely humiliated\nand had so much hate go her way,"
+    } ]
+  }, {
+    "tStartMs": 518040,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "particularly because it was on incel\nforums, some really misogynistic hate."
+    } ]
+  }, {
+    "tStartMs": 522480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So this was like an act of revenge,\npotentially."
+    } ]
+  }, {
+    "tStartMs": 526000,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Yeah, well,\nit felt like retribution, really."
+    } ]
+  }, {
+    "tStartMs": 528360,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "And when you looked at\nthe 4Chan forum where it was posted,"
+    } ]
+  }, {
+    "tStartMs": 534840,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "the glee that some of these users\nposted in like being excited"
+    } ]
+  }, {
+    "tStartMs": 539280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "that these women's data had leaked\nwas very worrying to see."
+    } ]
+  }, {
+    "tStartMs": 544160,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And they saw it as, 'oh,\nwell, we're doxing them"
+    } ]
+  }, {
+    "tStartMs": 546240,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "because they've already doxed us',\ndoxing being revealing the location"
+    } ]
+  }, {
+    "tStartMs": 551000,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "of a user online."
+    } ]
+  }, {
+    "tStartMs": 553960,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So for them, it was like,\nwell, this is our reward,"
+    } ]
+  }, {
+    "tStartMs": 557480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "for having dealt with this app\nin the first place."
+    } ]
+  }, {
+    "tStartMs": 559720,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And I saw that they created\nlike rival mail apps, too."
+    } ]
+  }, {
+    "tStartMs": 563840,
+    "dDurationMs": 320,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 564160,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "So there were lots of spin off apps\nthat were just for men to rate women."
+    } ]
+  }, {
+    "tStartMs": 570400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "But there was no, you know, cover\nthat this was for safety at all."
+    } ]
+  }, {
+    "tStartMs": 574640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "It was clearly just a way\nto attack the women in the leak,"
+    } ]
+  }, {
+    "tStartMs": 578280,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "but also just\nwomen in these guys lives."
+    } ]
+  }, {
+    "tStartMs": 581360,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "There were also telegram chats that\nwere created to create AI generated\nporn of the women in the leak,"
+    } ]
+  }, {
+    "tStartMs": 587160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "and also just share\nnon-consensual images of other women."
+    } ]
+  }, {
+    "tStartMs": 590880,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "The data and the photos"
+    } ]
+  }, {
+    "tStartMs": 593160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "of the women they were meant to be\nfor verification purposes."
+    } ]
+  }, {
+    "tStartMs": 596040,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And weren't they meant to be deleted\nright after they were uploaded?"
+    } ]
+  }, {
+    "tStartMs": 599960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Exactly. So the privacy policy\nfrom the Tea app said"
+    } ]
+  }, {
+    "tStartMs": 604840,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "that when the verification image was\ntaken, it would be sent off and once"
+    } ]
+  }, {
+    "tStartMs": 610320,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "it was verified, once that user could\nget in, it was meant to be deleted."
+    } ]
+  }, {
+    "tStartMs": 614040,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So the fact that\nthis data was being stored at all,"
+    } ]
+  }, {
+    "tStartMs": 616920,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and being stored in a way that was\nso easily accessible to the public,"
+    } ]
+  }, {
+    "tStartMs": 620480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "is extremely worrying for all\nof - everyone on the tap."
+    } ]
+  }, {
+    "tStartMs": 624400,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "And also the fact that it was\nsuch a controversial thing that,"
+    } ]
+  }, {
+    "tStartMs": 630160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I mean, everyone could see\nthat this would get blowback."
+    } ]
+  }, {
+    "tStartMs": 633120,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "What has the company behind the Tea\ndating advice app said about the hack?"
+    } ]
+  }, {
+    "tStartMs": 638280,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Did they have\nenough security in place"
+    } ]
+  }, {
+    "tStartMs": 641080,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "to protect these women who were,\nwho were going there for safety?"
+    } ]
+  }, {
+    "tStartMs": 644400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So a spokesperson for the app said\nthat they're working to identify"
+    } ]
+  }, {
+    "tStartMs": 647600,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and notify users whose\npersonal information was involved"
+    } ]
+  }, {
+    "tStartMs": 651000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and notify them under applicable law."
+    } ]
+  }, {
+    "tStartMs": 653280,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And they also said that affected\nusers would be offered identity theft"
+    } ]
+  }, {
+    "tStartMs": 657160,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and credit monitoring services."
+    } ]
+  }, {
+    "tStartMs": 659760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "They also said that they bolstered\nresources to enhance security"
+    } ]
+  }, {
+    "tStartMs": 663240,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "for current membership, and that\nthey're proud of what they've built"
+    } ]
+  }, {
+    "tStartMs": 666400,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and that their mission is more vital\nthan ever."
+    } ]
+  }, {
+    "tStartMs": 668880,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "We also asked Tea whether defamatory\ncomments are allowed on the app"
+    } ]
+  }, {
+    "tStartMs": 672920,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and if it verifies\ninformation posted,"
+    } ]
+  }, {
+    "tStartMs": 675120,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and we asked Tea if it breached\nits own privacy policy, which said"
+    } ]
+  }, {
+    "tStartMs": 678760,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "that users photos would be deleted\nonce their ID had been verified."
+    } ]
+  }, {
+    "tStartMs": 682720,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Tea declined to comment. Where does\nthis leave us and online dating now?"
+    } ]
+  }, {
+    "tStartMs": 687400,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Because it feels like this kind\nof story makes neither men"
+    } ]
+  }, {
+    "tStartMs": 690920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "nor women feel safe online.\nI think that's the issue, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 693960,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Because at the moment\nwe're seeing actually young people"
+    } ]
+  }, {
+    "tStartMs": 696440,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "in particular turn away from\nonline dating and dating generally,"
+    } ]
+  }, {
+    "tStartMs": 700680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and online dating does have\na role to play in that."
+    } ]
+  }, {
+    "tStartMs": 704040,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So as we spoke about\nlike women have felt quite unsafe"
+    } ]
+  }, {
+    "tStartMs": 707400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "with online dating\nfor a little while now."
+    } ]
+  }, {
+    "tStartMs": 710040,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And that's because,\nyou know, if I set you up"
+    } ]
+  }, {
+    "tStartMs": 712760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "with a friend of mine,\nthere's some like, social,"
+    } ]
+  }, {
+    "tStartMs": 716240,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "you know, need there\nfor that friend to behave well and,"
+    } ]
+  }, {
+    "tStartMs": 718840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "you know, treat you nicely. And yeah,\nnot ghost you and not catfish you."
+    } ]
+  }, {
+    "tStartMs": 723000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "But when you know nothing about\nthe person, it's a complete stranger,"
+    } ]
+  }, {
+    "tStartMs": 726600,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "they owe you nothing, and\nthey could really do anything, right?"
+    } ]
+  }, {
+    "tStartMs": 730280,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "And then on the men's side, I spoke\nto an expert who said, men's fear"
+    } ]
+  }, {
+    "tStartMs": 735600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "when online dating is, you know,\nhaving things taken out of context."
+    } ]
+  }, {
+    "tStartMs": 738920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "You know, a stupid message that\nthey might send might be, you know,"
+    } ]
+  }, {
+    "tStartMs": 742120,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "screenshotted\nand sent in the girls group chat."
+    } ]
+  }, {
+    "tStartMs": 745040,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And I mean, guilty.\nI mean, we've all done that, right?"
+    } ]
+  }, {
+    "tStartMs": 747720,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "We've sort of like, made fun\nof other people in our group chats."
+    } ]
+  }, {
+    "tStartMs": 750880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And the Tea app really speaks to that\nfear because it's this idea of like,"
+    } ]
+  }, {
+    "tStartMs": 754320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "having everything you've done in\na relationship taken out of context,"
+    } ]
+  }, {
+    "tStartMs": 758240,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "popped on an app for everyone\nto judge and everyone to see."
+    } ]
+  }, {
+    "tStartMs": 762040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So I think this whole leak\nreally speaks to the idea of like,"
+    } ]
+  }, {
+    "tStartMs": 765920,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "women do not feel safe online dating"
+    } ]
+  }, {
+    "tStartMs": 768160,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and that fear that men have\nthat they'll be humiliated."
+    } ]
+  }, {
+    "tStartMs": 771480,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yeah, that lack of context,\nlike not really knowing anything else"
+    } ]
+  }, {
+    "tStartMs": 774200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "about that person or\nhaving any other friends in common,"
+    } ]
+  }, {
+    "tStartMs": 776600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "that's why I don't give my number out\nto people until I meet them"
+    } ]
+  }, {
+    "tStartMs": 779520,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "in real life.\nAnd I don't know if you do this,"
+    } ]
+  }, {
+    "tStartMs": 781880,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "but I definitely use my journalistic\nskills or really basic skills."
+    } ]
+  }, {
+    "tStartMs": 785200,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "I just google the first name\nand where they work"
+    } ]
+  }, {
+    "tStartMs": 788040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and often like a profile comes up\nand I can just find out a bit"
+    } ]
+  }, {
+    "tStartMs": 790600,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "about like who they are and\nif they are who they say they are."
+    } ]
+  }, {
+    "tStartMs": 793520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yeah, I mean, we all do the online stalk\nbefore we go on a date with someone."
+    } ]
+  }, {
+    "tStartMs": 796520,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I've done that so many times."
+    } ]
+  }, {
+    "tStartMs": 797880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "It's been extensive\nand I think everyone can do that."
+    } ]
+  }, {
+    "tStartMs": 801000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But I think there's the other thing\nthat you can do where it's like meet"
+    } ]
+  }, {
+    "tStartMs": 803200,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "in a public place. There's\na few other like tips and tricks."
+    } ]
+  }, {
+    "tStartMs": 805960,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Make sure you know that like a friend or\nfamily member knows where you're going."
+    } ]
+  }, {
+    "tStartMs": 809200,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Sometimes I put my find\nmy iPhone thing on and"
+    } ]
+  }, {
+    "tStartMs": 811320,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "I like, let my mum track where\nI'm going for the whole evening."
+    } ]
+  }, {
+    "tStartMs": 815520,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And maybe that's safety gone too far,\nbut that actually makes me feel"
+    } ]
+  }, {
+    "tStartMs": 818160,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "like, you know, safe.\nExactly."
+    } ]
+  }, {
+    "tStartMs": 820320,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I think that's - that's all it's about.\nIt's about making you feel safe. Right?"
+    } ]
+  }, {
+    "tStartMs": 824200,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Jacqui, thank you so much.\nThank you so much."
+    } ]
+  }, {
+    "tStartMs": 826720,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "That's it from us."
+    } ]
+  }, {
+    "tStartMs": 827520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But if you enjoyed this episode,\nplease do like, share and subscribe."
+    } ]
+  }, {
+    "tStartMs": 831280,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "We are right here on YouTube\nfive days a week."
+    } ]
+  }, {
+    "tStartMs": 833560,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And two of those you can watch\nus chatting away in the studio"
+    } ]
+  }, {
+    "tStartMs": 837120,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "with some of your favourite guests.\nI'm Hannah, this is What in the World"
+    } ]
+  }, {
+    "tStartMs": 840440,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "from the BBC World Service\nand we'll see you next time."
+    } ]
+  } ]
+}

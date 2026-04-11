@@ -1,0 +1,2462 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Sending astronauts\ninto space is a pretty amazing feat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 3680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "I mean, we build the spacecraft,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 5760,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "we launch it through the Earth's\natmosphere, and then we've come up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 8720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "with all these different kinds\nof ways of living in zero gravity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 12040,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "But it doesn't always go\naccording to plan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "I wanted to hug my husband\nand hug my dogs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And I'll say that order in that order.\nIn my family"
+        }
+      ]
+    },
+    {
+      "tStartMs": 19960,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "we talk about these possibilities.\nWe discussed all of this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 24040,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "We never said we were going\nto be gone for nine months,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26440,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "but it turned out that way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 27880,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "That was Butch Wilmore\nand Suni Williams."
+        }
+      ]
+    },
+    {
+      "tStartMs": 29880,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "They're two Nasa astronauts who set\noff on an eight-day mission to space,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 34520,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "but they ended up on the International\nSpace Station for nine months"
+        }
+      ]
+    },
+    {
+      "tStartMs": 38160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "after their space capsule suffered\nfrom technical problems."
+        }
+      ]
+    },
+    {
+      "tStartMs": 41680,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "And that got me thinking about how\nthe body reacts when it spends so long"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46040,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "in outer space.\nAnd does it ever fully recover?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49280,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart, and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 56680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Well, someone who knows a lot\nabout outer space is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 58760,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "BBC science presenter Caroline Steel,\nwho joins me in the studio now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 61680,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Hello. Thank you for having me on.\nYeah. You're welcome."
+        }
+      ]
+    },
+    {
+      "tStartMs": 64080,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "So first of all, we're very rooted down\nto the ground here using gravity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 69440,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "That's one of the main differences\nbetween Earth and space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 72760,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "How would it feel to be\nin outer space without gravity?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 75360,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "And what are some\nof the other differences?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 77240,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "I think it would feel pretty weird.\nI've never done it myself,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 79320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "but I think\nit's a bit like scuba diving."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81640,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "If anyone's been scuba diving, you\nhave no sort of pull in any direction"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86120,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "and feel kind of weightless. A couple\nof other differences are here on Earth"
+        }
+      ]
+    },
+    {
+      "tStartMs": 89880,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "we have a lovely atmosphere\nthat gives us air to breathe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 92400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "We can breathe quite easily.\nYeah, yeah, which is good."
+        }
+      ]
+    },
+    {
+      "tStartMs": 95040,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And you don't have that in space.\nYou need help to breathe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 97440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "The atmosphere also keeps us\nat kind of a constant temperature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 100240,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Whereas in space if you're in direct\nsunlight, it can be like over 100°C."
+        }
+      ]
+    },
+    {
+      "tStartMs": 104120,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "And if you're in the shade\nit can get to colder than -100°C."
+        }
+      ]
+    },
+    {
+      "tStartMs": 108280,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And also the Earth has a magnetic\nfield, which we don't really notice,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 111320,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "but it's protecting us from radiation\nfrom the sun and radiation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 114720,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "from the rest of space.\nAnd when you're outside"
+        }
+      ]
+    },
+    {
+      "tStartMs": 117600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "of the Earth's magnetic field,\nyou don't have that extra protection."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120560,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So yeah, gravity,\natmosphere and the magnetic field"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "are probably the three main\ndifferences between Earth and space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 126280,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "How does it affect the body?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127640,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So one of the big ones is\nthe lack of gravity basically means"
+        }
+      ]
+    },
+    {
+      "tStartMs": 131400,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "that your body isn't having to work\nas hard to sort of stay upright."
+        }
+      ]
+    },
+    {
+      "tStartMs": 135080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Like, our bodies work quite hard\nto keep us upright"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137520,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and not just sort of splattered down\non the ground."
+        }
+      ]
+    },
+    {
+      "tStartMs": 140000,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So when you spend time in space,\nyou lose bone density"
+        }
+      ]
+    },
+    {
+      "tStartMs": 143120,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "because your bones aren't working\nas hard to keep you upright,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 145520,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and you lose muscle mass\nbecause your muscles aren't working\nas hard to keep you upright."
+        }
+      ]
+    },
+    {
+      "tStartMs": 149240,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "You can actually lose 20% of your\nmuscle mass in just two weeks in space,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154120,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "so it has a huge impact on your body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 156120,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And the muscles that suffer the most\nare the ones kind of related\nto your posture,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 159760,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "so the muscles in your neck\nand your back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162480,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "This lack of gravity\nalso affects the fluid in our body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 165360,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So right now whilst we're sitting down,\nthe sort of blood in our bodies,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169080,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "is also being drawn down\nto the ground by gravity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 171720,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "And then our heart is working really\nhard to sort of keep it up and evenly\ndistributed throughout our bodies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 176840,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "But when you go into space\nand there's no gravity,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179080,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "the fluid in your body sort of starts\nmoving up and can pool in the head."
+        }
+      ]
+    },
+    {
+      "tStartMs": 183720,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So quite often astronauts get a kind\nof puffy face within a few days"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "of arriving in space because all\nthe fluid is pooling in their head."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190840,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "What about their eyes?\nDon't the eyes have fluid, too?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193520,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Yeah. So this extra fluid kind\nof gathers around the eye"
+        }
+      ]
+    },
+    {
+      "tStartMs": 195880,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and can affect the shape\nof the eyeball."
+        }
+      ]
+    },
+    {
+      "tStartMs": 198120,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "And 40% of astronauts have lasting\neye damage from going to space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 202680,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "So not only is\nyour vision affected up there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 204360,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "for a lot of people,\nit never goes back to normal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 207640,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Another big impact is the radiation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 210240,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So we've not got the Earth's\nmagnetic field keeping you safe\nfrom radiation in space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 214440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So you're much more exposed to that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 216960,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And that can lead\nto changes in your genes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 219760,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "And it can lead to mutations which\ncan eventually go on to cause cancer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 223880,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So that's another big effect\nof being in space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226200,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "How are these impacts measured?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228880,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So if you're on\nthe International Space Station,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231840,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "you wear what's called\na Geiger counter, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 233840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "it's basically like\na radiation counter around your neck."
+        }
+      ]
+    },
+    {
+      "tStartMs": 236160,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So you know exactly how much\nradiation you've been exposed to,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 239000,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "which doesn't protect you from it, but\nit means that you kind of make decisions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242240,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "in the future based on how much\nradiation you've been exposed to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 244720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So if you happen to be in space\nwhen there was more radiation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 247360,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "than normal, maybe you're not going\nto be allowed to go on another mission"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "in a few years because you've already\nkind of met your quota."
+        }
+      ]
+    },
+    {
+      "tStartMs": 252200,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Another big impact\nof going into space"
+        }
+      ]
+    },
+    {
+      "tStartMs": 254640,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "is a lot of people feel sick,\nkind of like travel sick."
+        }
+      ]
+    },
+    {
+      "tStartMs": 258280,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And that's because in our ears, we have\nthese sort of canals filled with fluid,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 263040,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "and the fluid moves around\nand it helps you be balanced."
+        }
+      ]
+    },
+    {
+      "tStartMs": 267160,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "It sort of tells you\nabout the position of your body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 269840,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And when you go into space\nand there's no gravity,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 272000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "this fluid starts\nto move differently,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 274720,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "which can make astronauts feel\nquite sort of motion sick."
+        }
+      ]
+    },
+    {
+      "tStartMs": 279160,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And that's a problem\nbecause when you're in charge"
+        }
+      ]
+    },
+    {
+      "tStartMs": 281520,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "of a spacecraft,\nyou need to be able to do your job."
+        }
+      ]
+    },
+    {
+      "tStartMs": 283720,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So Nasa used to train its astronauts\nby spinning them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 287240,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "in essentially sort of a spinny chair\nand then stopping the chair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 291160,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And then the fluid\nin your ear is still spinning,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 293480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "but the information from your eyes\nsays, hang on a second,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 295840,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "we're still we're not moving."
+        }
+      ]
+    },
+    {
+      "tStartMs": 298120,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And that sort of disagreement\nbetween what's going on in your ear"
+        }
+      ]
+    },
+    {
+      "tStartMs": 300760,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and what your eyes are telling you\nmakes you feel sick."
+        }
+      ]
+    },
+    {
+      "tStartMs": 303480,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And then they'd get astronauts to do\nall different kinds of complicated tasks"
+        }
+      ]
+    },
+    {
+      "tStartMs": 306800,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "to check that they can still function\nwell while feeling dizzy and sick."
+        }
+      ]
+    },
+    {
+      "tStartMs": 310960,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "That sounds awful. Sounds pretty bad.\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 313200,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Caroline, I want to see how well\nyou do with this spinny chair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 317760,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "So we're going to do\na little experiment, okay?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 319560,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "First of all,\nI've got three paper balls here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 321600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "They're nice and soft, so you\ncan throw them at me. Not too hard."
+        }
+      ]
+    },
+    {
+      "tStartMs": 324560,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "I'm here, and I'm gonna make... I'm\njust gonna put this down on the side,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 329200,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "and I make a basket with my arms,\nokay, I want to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331320,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "I want you to see if you can get\nthose three paper balls in the basket."
+        }
+      ]
+    },
+    {
+      "tStartMs": 334080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Pressure's on. Okay.\nIt's not that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 336520,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "hard. I've got\nterrible hand-eye coordination."
+        }
+      ]
+    },
+    {
+      "tStartMs": 338280,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "No fail. All right. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 340360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "In one. Yay!\nTwo. Okay. Two out of three."
+        }
+      ]
+    },
+    {
+      "tStartMs": 343160,
+      "dDurationMs": 480,
+      "segs": [
+        {
+          "utf8": "Three.\nI'll take"
+        }
+      ]
+    },
+    {
+      "tStartMs": 343640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "that\nLet's say sober, right? Not dizzy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 345760,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Yeah. You can get two out of three.\nI'm going to collect the balls."
+        }
+      ]
+    },
+    {
+      "tStartMs": 347960,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "Now I'm going to pull on a spinny chair,\nand then I'm going to spin you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 356480,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "Let's see\nif"
+        }
+      ]
+    },
+    {
+      "tStartMs": 357520,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "you can get the balls in the basket.\nOne. Yes. Oh, yes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 362120,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Oh. Same. The same."
+        }
+      ]
+    },
+    {
+      "tStartMs": 364360,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I think none of those were any good.\nThat was like one bounced off your head."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367200,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And how did he feel?\nIncredibly dizzy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 369320,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Imagine having to manage and control\na spacecraft feeling like this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 373120,
+      "dDurationMs": 720,
+      "segs": [
+        {
+          "utf8": "I couldn't do it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 373840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And there was a study I read about\nwith some Russian twins"
+        }
+      ]
+    },
+    {
+      "tStartMs": 376160,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "because apparently, being in space\ncan also make you age faster."
+        }
+      ]
+    },
+    {
+      "tStartMs": 379480,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Yes, it affects your genetics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 381080,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And that's one key way\nof looking at how we age."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383760,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "So there were the Russian twins.\nThere's also a Nasa sent one twin"
+        }
+      ]
+    },
+    {
+      "tStartMs": 388880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "into space in 2015,\na guy called Scott Kelly,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 392040,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "and he has a twin called Mark Kelly,\nwho's also an astronaut."
+        }
+      ]
+    },
+    {
+      "tStartMs": 395840,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And he stayed on Earth.\nSo Scott spent a year"
+        }
+      ]
+    },
+    {
+      "tStartMs": 398040,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "in the International Space Station\nwhilst Mark spent a year in the US."
+        }
+      ]
+    },
+    {
+      "tStartMs": 403320,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And they collected blood and faeces\nand urine samples"
+        }
+      ]
+    },
+    {
+      "tStartMs": 407600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "from the twins whilst they were\nin space or on Earth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410400,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and sort of compared them when they got\nback, because that's a difficult thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 412840,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "It's kind of hard to study these\nimpacts because you don't know how"
+        }
+      ]
+    },
+    {
+      "tStartMs": 416720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "someone would have been if they stayed\non Earth and didn't go into space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 419840,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And there were some pretty big\ndifferences between Scott and Mark."
+        }
+      ]
+    },
+    {
+      "tStartMs": 422400,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So when Scott got back,\nhe was five centimeters taller"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426200,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "and that was basically\nbecause gravity wasn't pulling down\non him and his spine stretched out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 430920,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "He had lost 7% of his body mass because\nof not using his muscles as much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 435760,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Meanwhile,\nhis twin had gained weight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 438080,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "His genes had changed and\na lot of that went back to normal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 441960,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "93% went back to normal\nafter six months,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444560,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "but it didn't all go back to normal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 446160,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "There were some lasting genetic changes\nto Scott, which was quite interesting,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 449840,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and his eyesight changed, the shape\nof his eyeball changed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 452440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and he had\nsort of lasting vision changes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 455080,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And now there's this boom\nin space tourism."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457280,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "People can just go up\nfor a matter of minutes.\nKaty Perry's been up there recently."
+        }
+      ]
+    },
+    {
+      "tStartMs": 460720,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "I'm guessing she won't feel\nthese long-lasting effects?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 463640,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Yeah. If you're only going\nfor sort of ten minutes or so,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 465680,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "you might feel a bit motion sick,\na bit space sick,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469000,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "but it's the sort of longer, month-\nlong missions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471280,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "where radiation\nand that kind of thing is a problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "The thing that is\nkind of hard to quantify"
+        }
+      ]
+    },
+    {
+      "tStartMs": 476120,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "is the damage to your genes\nfrom radiation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 479120,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "So all the time, even on Earth,\nwe're exposed to radiation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 483000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "which can go on to cause cancer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And you get slightly more if you have\nan x-ray or something like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 487600,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "When you go into space, the amount\nof radiation you're exposed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 490000,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "to goes up significantly.\nBut say you're an astronaut who"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "in your mid-forties, spends a year\nin the International Space Station,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 497320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and then when you're 65,\nyou go on to develop cancer"
+        }
+      ]
+    },
+    {
+      "tStartMs": 499840,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "you can't say that cancer was caused\nby radiation in space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 504640,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "It's very hard to separate whether or\nnot someone would have got it anyway\nfrom something else."
+        }
+      ]
+    },
+    {
+      "tStartMs": 508240,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "But we do know that\nthe more time you spend in space,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 510680,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "the more radiation\nyou're exposed to and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512720,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "therefore your higher risk\nof developing cancers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 514920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So there are really serious risks\nto going into space,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 518880,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "but these are risks that people\nlike astronauts are willing to take."
+        }
+      ]
+    },
+    {
+      "tStartMs": 522360,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Yeah. How do they have\nto prepare apart"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524360,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "from being spun around in chairs\nbefore their missions?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527040,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "One really cool thing that they do\nis so Nasa has"
+        }
+      ]
+    },
+    {
+      "tStartMs": 530720,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "a giant swimming pool\nwith a complete replica"
+        }
+      ]
+    },
+    {
+      "tStartMs": 533880,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "of the International Space Station\nsubmerged at the bottom of it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 537080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and in preparation for going\nto the International Space Station,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 540120,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "astronauts put on these like weighed\nthey look exactly like spacesuits,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 543360,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "but they're designed to be worn\nunderwater, and they have to go down"
+        }
+      ]
+    },
+    {
+      "tStartMs": 546360,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "into the International Space Station,\nexperience weightlessness,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 549600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and do all\nthe different complicated tasks"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551840,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "that they have to do that\nare incredibly important."
+        }
+      ]
+    },
+    {
+      "tStartMs": 553880,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So that's one fun bit\nof training they do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 556520,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "They also do a lot of core work,\nbecause when you've not got the kind"
+        }
+      ]
+    },
+    {
+      "tStartMs": 559880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "of stability of gravity holding you\ndown and you're sort of twisting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 562960,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and moving in space,\nyour core becomes really important."
+        }
+      ]
+    },
+    {
+      "tStartMs": 565640,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So they essentially go into space\nsuper fit with really strong cores"
+        }
+      ]
+    },
+    {
+      "tStartMs": 569640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and kind of experience of being\nin the International Space Station"
+        }
+      ]
+    },
+    {
+      "tStartMs": 573160,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "because they've been in a replica\nin a weightless environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 576040,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "So ideally, nothing really takes you\nmassively by surprise."
+        }
+      ]
+    },
+    {
+      "tStartMs": 580400,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And when you're out in space, you've\ngot to do a lot of exercise too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 583640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So I'm going to play you a clip now\nof Peggy Whitson,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 586280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "who is an astronaut who holds\nthe world record"
+        }
+      ]
+    },
+    {
+      "tStartMs": 588920,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "for the woman who has spent most time\nin space, not in one go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 592600,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "She spent 675 days there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 594960,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Here she is.\nSo in order to counteract some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 597880,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "of these negative effects,\nin particular the bone loss,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 601280,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "we have what's called\na resistive exercise device."
+        }
+      ]
+    },
+    {
+      "tStartMs": 604320,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "You know, normally on the Earth they\nwould recommend that you lift weights."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607440,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And of course,\nthere's no weight in zero gravity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 610120,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "So you have to work\nagainst a resistance."
+        }
+      ]
+    },
+    {
+      "tStartMs": 612320,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And of course, when you know\nif you're losing bone mass"
+        }
+      ]
+    },
+    {
+      "tStartMs": 615480,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "at 1% per month, you're very\nmotivated to do the exercise."
+        }
+      ]
+    },
+    {
+      "tStartMs": 620800,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So it's about 45 minutes to an hour\nevery day of resistive exercise."
+        }
+      ]
+    },
+    {
+      "tStartMs": 625240,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So as well as doing\nresistive weight training"
+        }
+      ]
+    },
+    {
+      "tStartMs": 628440,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "astronauts on the International Space\nStation also run on a treadmill,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 631800,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "which is kind of hard to imagine\nbecause there's no gravity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 634680,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So how can you run?\nBut I've watched videos of it and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 637000,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "they're sort of like strapped down\ninto this treadmill and running."
+        }
+      ]
+    },
+    {
+      "tStartMs": 640480,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And ideally they're doing two hours\nof exercise every day"
+        }
+      ]
+    },
+    {
+      "tStartMs": 643720,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "to avoid this muscle loss\nand this bone density loss,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 647560,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "which I think would be kind of hard\nto motivate yourself to do,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 649600,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "right, because two hours of exercise\nin the exact same spot every day"
+        }
+      ]
+    },
+    {
+      "tStartMs": 652960,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "but I guess you're going into it\nhaving done a lot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 655800,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "of exercise\nbefore to get yourself in shape."
+        }
+      ]
+    },
+    {
+      "tStartMs": 657840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "What else do organisations\nlike Nasa do to keep astronauts safe,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 661160,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "especially from the risks of the\nradiation that we've talked about?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 664120,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So on the International Space Station\nand other spacecraft,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668080,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "they're sort of shielding\nfrom radiation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670120,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So I think the International\nSpace Station basically has a layer"
+        }
+      ]
+    },
+    {
+      "tStartMs": 673280,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "of aluminum that reflects away some\nof the radiation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 676440,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "and areas where astronauts spend\nmore time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 678560,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "like in the sleeping quarters,\nthere's more shielding."
+        }
+      ]
+    },
+    {
+      "tStartMs": 681520,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And there's protective clothing, too,\nright. Spacesuits."
+        }
+      ]
+    },
+    {
+      "tStartMs": 683880,
+      "dDurationMs": 680,
+      "segs": [
+        {
+          "utf8": "Exactly. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 684560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "They have sort of shielding layers in\nthere to protect you from radiation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 688000,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "give you oxygen to breathe\nwhen there's no atmosphere,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 690760,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "make sure you're sort of at a\nstable pressure and things like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 694000,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And there's something\nquite interesting that happens"
+        }
+      ]
+    },
+    {
+      "tStartMs": 696320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "on the International Space Station\nto avoid eye damage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 698920,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "You know how I said sort of\nyour fluid can pool in your head,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 701560,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "gives you a puffy face,\ndamages your eyes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 704160,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "There are these kind of like vacuum\ntrousers that people can wear that sort"
+        }
+      ]
+    },
+    {
+      "tStartMs": 708240,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "of suck the fluid back down your body\nlike gravity would on Earth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 712400,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and stop it from pooling in your head\nso people spend a period of time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 715560,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "wearing these vacuum trousers to try\nand reduce the eye damage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 718560,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "So there are sort of clever solutions\nlike that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 720200,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And talking of spacesuits,\nwe actually heard\nfrom someone who designs spacesuits."
+        }
+      ]
+    },
+    {
+      "tStartMs": 723960,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Charlotte Pouwels is\na spacesuit designer,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 726040,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and she makes spacesuits\nfor test missions here on Earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 729240,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "So space suits are like tiny personal\nspacecraft that protect the astronauts"
+        }
+      ]
+    },
+    {
+      "tStartMs": 733520,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "when they leave the space station\nfor, for example, spacewalk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 736920,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "So in space, there is no\nair, crazy temperatures and radiation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 742440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So these spacesuits, they help the\nastronaut to provide them with oxygen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 745880,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "so that they can breathe, remove\ncarbon dioxide, regulate temperature,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 750440,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "and shield from micrometeorites\nthat are constantly bombarding Earth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 755040,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "all while letting\nthe astronauts move and work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 757960,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So how do you actually wear one\nand make it feel comfy?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 762200,
+      "dDurationMs": 5960,
+      "segs": [
+        {
+          "utf8": "So imagine wearing a pressurised, stiff\nballoon that weighs over 100kg on Earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 768160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So in microgravity, when you're\nin space, this is actually lighter,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 771320,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "but still bulky and tiring."
+        }
+      ]
+    },
+    {
+      "tStartMs": 773760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So you're basically floating around\nin a giant suit,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 776840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and even just bending\nyour fingers takes a lot of effort."
+        }
+      ]
+    },
+    {
+      "tStartMs": 780160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So when an astronaut,\nfor example, takes a wrench,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 782720,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "they actually really have to stiffen\ntheir fingers to work with it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 786320,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "So no, astronauts do not sleep\nin their spacesuits when\nthey're inside the space station"
+        }
+      ]
+    },
+    {
+      "tStartMs": 791080,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "they actually wear something similar\nto a flight suit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 793880,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "It's like a very comfy pajama."
+        }
+      ]
+    },
+    {
+      "tStartMs": 796360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "But when it's time to step outside\ninto the vacuum"
+        }
+      ]
+    },
+    {
+      "tStartMs": 799160,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "of space, that's when they will put\non the spacesuit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 802120,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Caroline, thank you so much.\nThank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 804480,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And thank you for joining us. And if\nyou want to hear more from Caroline,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 807960,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "she's a regular on the podcast.\nShe has been right here in the studio"
+        }
+      ]
+    },
+    {
+      "tStartMs": 811080,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "with me chatting\nabout the Northern Lights,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 813120,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "what causes them, how to get the best\npictures of them, and space junk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 817200,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Why is it such a problem\nand how do we get rid of it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 819480,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "You can find those episodes\nright here on YouTube or"
+        }
+      ]
+    },
+    {
+      "tStartMs": 821960,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "wherever you get your BBC podcasts.\nThat's it for today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 825040,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Thank you so much for joining us.\nI'm Hannah Gelbert."
+        }
+      ]
+    },
+    {
+      "tStartMs": 827560,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "This is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 829960,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And I'll see you next time."
+        }
+      ]
+    }
+  ]
+}

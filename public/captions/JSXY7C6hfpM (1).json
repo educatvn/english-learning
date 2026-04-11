@@ -1,0 +1,3164 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 280,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Hey, hey, how many languages\ndo you speak?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2600,
+      "dDurationMs": 1947,
+      "segs": [
+        {
+          "utf8": "One. Two. Maybe even more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 4547,
+      "dDurationMs": 4934,
+      "segs": [
+        {
+          "utf8": "[In Swahili] Hello, how many languages\ndo you speak?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9481,
+      "dDurationMs": 39,
+      "segs": [
+        {
+          "utf8": "[In Swahili] One. Two. Maybe even more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 9520,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Well, today we're talking\nabout polyglots."
+        }
+      ]
+    },
+    {
+      "tStartMs": 11680,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "People who speak\nmore than one language"
+        }
+      ]
+    },
+    {
+      "tStartMs": 13600,
+      "dDurationMs": 7853,
+      "segs": [
+        {
+          "utf8": "and that's actually both of us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 21453,
+      "dDurationMs": 52,
+      "segs": [
+        {
+          "utf8": "[In French] Well, today we're talking\nabout polyglots"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21505,
+      "dDurationMs": 50,
+      "segs": [
+        {
+          "utf8": "[In French] people who speak\nmore than one language"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21555,
+      "dDurationMs": 45,
+      "segs": [
+        {
+          "utf8": "[In French] and that's actually\nme and Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 21600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "You're going to hear\nfrom polyglots talking about why they"
+        }
+      ]
+    },
+    {
+      "tStartMs": 24200,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "love languages, how they learn them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 26240,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and you're going to find out what\nbeing a polyglot does to your brain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 29960,
+      "dDurationMs": 3772,
+      "segs": [
+        {
+          "utf8": "[In Norwegian] Today we are going to talk\nabout people who speak multiple languages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33732,
+      "dDurationMs": 2254,
+      "segs": [
+        {
+          "utf8": "[in Norwegian] we will also hear about the tips"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35986,
+      "dDurationMs": 2254,
+      "segs": [
+        {
+          "utf8": "[in Norwegian] on how you can learn\nmore languages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 38240,
+      "dDurationMs": 7457,
+      "segs": [
+        {
+          "utf8": "And we're going to share some tips in\ncase you want to pick up a new language."
+        }
+      ]
+    },
+    {
+      "tStartMs": 45697,
+      "dDurationMs": 51,
+      "segs": [
+        {
+          "utf8": "[In Kinyarwanda] We are also going to\nshare with you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 45748,
+      "dDurationMs": 52,
+      "segs": [
+        {
+          "utf8": "[in Kinyarwanda] how you can learn\nmultiple languages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 45800,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart.\nAnd I'm Victoria Uwonkunda."
+        }
+      ]
+    },
+    {
+      "tStartMs": 48560,
+      "dDurationMs": 6360,
+      "segs": [
+        {
+          "utf8": "And this is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 54920,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So Vic, most people in the world\nspeak more than one language"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57400,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and there are loads of countries\nthat actually have more than one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "national language.\nThat is not the case here in the UK."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62680,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "We're not known\nfor our language learning abilities"
+        }
+      ]
+    },
+    {
+      "tStartMs": 65360,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "but we do learn languages at school."
+        }
+      ]
+    },
+    {
+      "tStartMs": 67680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "I learnt French and Italian at school,\nand Spanish"
+        }
+      ]
+    },
+    {
+      "tStartMs": 70480,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and I studied Spanish\nand Portuguese at university."
+        }
+      ]
+    },
+    {
+      "tStartMs": 73480,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "What languages do you speak?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 75400,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "So I usually say when people ask\nthat question because I speak five"
+        }
+      ]
+    },
+    {
+      "tStartMs": 81040,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "but I try to say I speak,\nI understand eight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 84680,
+      "dDurationMs": 600,
+      "segs": [
+        {
+          "utf8": "Eight?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85280,
+      "dDurationMs": 480,
+      "segs": [
+        {
+          "utf8": "Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 85760,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "Go on, give me the list.\nThere is a cheat"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87040,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "list on that.\nSo my mother tongue is , ,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90240,
+      "dDurationMs": 6520,
+      "segs": [
+        {
+          "utf8": "from Rwanda and French,\nwhich I learned from young age,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96760,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "and Swahili and English"
+        }
+      ]
+    },
+    {
+      "tStartMs": 98880,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "which I learned at the same time\nwhen we moved to Kenya and Norwegian."
+        }
+      ]
+    },
+    {
+      "tStartMs": 102960,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So the other three is\nbecause Swedish and Danish,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "they're kind of similar to Norwegian,\nso I can understand."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109400,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Like Emilia, who is part of your team, when \nshe’s speaking Swedish, I’m speaking Norwegian,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113600,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "we understand each other perfectly well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 115880,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Same with Kirundi, which is the \nmother tongue for people in Burundi,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119560,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "which is similar to Kinyarwanda, so hence eight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 122280,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "I would love to see\nhow big your brain is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 124880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "I mean, I don't know,\nI'm scared to look in there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 128040,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "There are so many things up there.\nWe're going to hear today"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130760,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "about what happens in someone's brain\nwhen they do speak multiple languages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 134760,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "It's not just words and grammar\nthough, is it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 136640,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "It's also like idioms and expressions.\nEvery language has loads of expressions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 140240,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "so one of the ones\nthat's hard to translate in English"
+        }
+      ]
+    },
+    {
+      "tStartMs": 143200,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "is like it's raining cats and dogs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 145800,
+      "dDurationMs": 2587,
+      "segs": [
+        {
+          "utf8": "In Spanish you\nmight say like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148387,
+      "dDurationMs": 773,
+      "segs": [
+        {
+          "utf8": "[in Spanish] I'm off milk"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149160,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "which means like I'm in a really bad mood,\nbut it literally means like I'm off milk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 152960,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "There are so many, for example,\nin Norway, in Norwegian,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 155640,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "which is one of my favourite is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 157560,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "[In Norwegian] buying a cat in a bag."
+        }
+      ]
+    },
+    {
+      "tStartMs": 159400,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "Basically it's buying a cat in a bag\nso it means you're buying bad,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164760,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "you're getting a bad deal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 166120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So if you buy, say,\nan apartment or something"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169080,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "and it's, you know, you paid more for\nwhat it's worth and you just think, why?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 174040,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Why the cat, why the bag?\nWhy the cat? Why the bag?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 177400,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Exactly. Nobody can explain that.\nBut I just love it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 180280,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And I love using it all the time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182440,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "I want to take a quick pause and\nI want to introduce you to someone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 185000,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "This is İclal Dağcı. She's a Turkish\npolyglot and she's studying in Italy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 189440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "I'm a self-taught polyglot and\na political science student,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 192080,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and right now I'm learning\nmy tenth language."
+        }
+      ]
+    },
+    {
+      "tStartMs": 194800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Languages have been a huge part\nof my life since my childhood,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197600,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and basically as a child, I started\nteaching myself languages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200920,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "out of pure curiosity, but over time\nit became something much bigger."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205320,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Right now I can speak Turkish,\nFrench, Italian, English, Spanish,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 209400,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "German, Russian, Dutch, Swedish\nand this year I'm learning Finnish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 213400,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "Why do I love learning languages?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 215160,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Well, I grew up in Istanbul,\nwhere I was constantly exposed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217640,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "to different cultures, which I think\nkind of gave me a fear of missing out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 221200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "because I think life is too short to\nbe lived in one language, as one person."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225040,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Right now, I can go to a lot of countries\nand just communicate easily"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "in the local language.\nOr I can read books, listen to songs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 230680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "and make different languages\nand understand everything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 233480,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So, Vic, how did you learn\nall the languages that you speak?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 236480,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "So for me, um, so obviously\nRwanda being, it was a Belgian colony"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242000,
+      "dDurationMs": 1120,
+      "segs": [
+        {
+          "utf8": "so hence the French."
+        }
+      ]
+    },
+    {
+      "tStartMs": 243120,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "So I grew up speaking those languages \ntogether, French and Kinyarwanda."
+        }
+      ]
+    },
+    {
+      "tStartMs": 248080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And then obviously, with the history\nof the country, having to flee"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251280,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "having to leave, um, go to Kenya,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 254920,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "they don't speak none of those\ntwo languages, so you have to learn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "It's a necessity for your survival,\nfor you being there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261080,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So we learn Swahili and in English\nat the same time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 264360,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So we were in schools,\nat least me and my siblings"
+        }
+      ]
+    },
+    {
+      "tStartMs": 267400,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "we were in school where you\nare going to school,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 269920,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "where you're learning\nall these other subjects"
+        }
+      ]
+    },
+    {
+      "tStartMs": 272360,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "in a language you've never spoken\nbefore, but at the same time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275760,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "as you are learning it, same\nthing happened, we go to Norway"
+        }
+      ]
+    },
+    {
+      "tStartMs": 279040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "you're having to learn another\nlanguage where all the subjects other"
+        }
+      ]
+    },
+    {
+      "tStartMs": 282000,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "than English obviously are in Norwegian, \nbut at the same time you're learning,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 286760,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "you're going through the,\nI am going to school"
+        }
+      ]
+    },
+    {
+      "tStartMs": 290160,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "while at the same time you're meant\nto understand history in this language."
+        }
+      ]
+    },
+    {
+      "tStartMs": 294520,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "In Kenya, I figured the quickest\nways to learn is to be in the streets,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 298520,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "is to be with the kids in the\nneighbourhood, is to go to the market."
+        }
+      ]
+    },
+    {
+      "tStartMs": 302080,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Market is the best place to learn the language,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 304560,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "You know, because\nyou learn the intonation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 306560,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "you learn how people speak,\nhow people behave"
+        }
+      ]
+    },
+    {
+      "tStartMs": 309560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and you can also watch and learn"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311840,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "and obviously, being in\nKenya, people are speaking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 313680,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "in various languages and you pick up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 316000,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "but usually Swahili is the, is\nthe language"
+        }
+      ]
+    },
+    {
+      "tStartMs": 318520,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "that most people use because\nthey have other different languages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 321080,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "so it's the language\nall people have together"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323760,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and it came easily to me\nbecause I was able to kind of be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 327160,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "with the neighbourhood kids and,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 329280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "you know, be in school and pick up\nthe words that people are using"
+        }
+      ]
+    },
+    {
+      "tStartMs": 332400,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and they're saying and of course,\nin class they would be like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335520,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "well, that's not\nthe correct word for this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 337720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "so you kind of have,\nas you did in school,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 340280,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "you have the proper way because\nyou're having a teacher with you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 343640,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And the good thing about being\nin Norway and learning Norwegian"
+        }
+      ]
+    },
+    {
+      "tStartMs": 346320,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "is everything we consume in terms\nof TV, films, it's all subtitled."
+        }
+      ]
+    },
+    {
+      "tStartMs": 353360,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "So if it's a film in German, it's in\nGerman. Everything else is subtitled."
+        }
+      ]
+    },
+    {
+      "tStartMs": 358440,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So because we had learnt English\nand we could understand English,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 361840,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "it was easy to hear\nwhether it was Friends"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "whether it was Titanic,\nwhichever it was, you know"
+        }
+      ]
+    },
+    {
+      "tStartMs": 367600,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "when we came at the time, you would,\nyou be able to understand the English"
+        }
+      ]
+    },
+    {
+      "tStartMs": 372360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "but you can see the words\nin Norwegian which help."
+        }
+      ]
+    },
+    {
+      "tStartMs": 374960,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "There are so many benefits\nto learning multiple languages,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 377880,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "like you say, surviving,\nthriving in multiple communities"
+        }
+      ]
+    },
+    {
+      "tStartMs": 381280,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "you can travel,\nyou can connect to people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Now there is a bunch of research\nthat shows that being bilingual"
+        }
+      ]
+    },
+    {
+      "tStartMs": 385840,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "or multilingual is actually good\nfor your brain"
+        }
+      ]
+    },
+    {
+      "tStartMs": 388240,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "and here to talk about that is\nProfessor Frédérique Liégeois"
+        }
+      ]
+    },
+    {
+      "tStartMs": 392520,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "She's a cognitive neuroscientist\nat University College London."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Growing up in a bilingual\nor multilingual environment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 399120,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "can have many advantages\nfor your brain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 402520,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "This is because it triggers\nwhat we call brain adaptation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 405880,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "The brain is changing its shape and\nefficiency to adjust to the environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 411120,
+      "dDurationMs": 2540,
+      "segs": [
+        {
+          "utf8": "Babies, even before they speak,\nhave to tune in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 413660,
+      "dDurationMs": 3900,
+      "segs": [
+        {
+          "utf8": "to the languages around them to make\nsense out of what people say to them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And then when children start to speak\nseveral languages,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 420600,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "if you think about it,\nthey have to focus on one language"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424200,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and ignore another one\nwhen they're speaking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 426920,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "They also have to be able to switch\nfrom one language"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429280,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "to the other, depending on\nwho they're speaking to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 432560,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "And these are what we call\ncognitive control skills."
+        }
+      ]
+    },
+    {
+      "tStartMs": 435560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And a lot of brain imaging studies\nare showing that from early childhood"
+        }
+      ]
+    },
+    {
+      "tStartMs": 439000,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "to adolescence to adulthood"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441640,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "these brain regions and networks\nare the ones that are stronger"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444960,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "in people who are bilingual\nand multilingual."
+        }
+      ]
+    },
+    {
+      "tStartMs": 447440,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "This could be why later"
+        }
+      ]
+    },
+    {
+      "tStartMs": 449880,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "on in age when adults have dementia,\nthey seem to show symptoms"
+        }
+      ]
+    },
+    {
+      "tStartMs": 454760,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "later when their bilinguals as\nopposed to monolinguals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458160,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "We think that juggling several languages has"
+        }
+      ]
+    },
+    {
+      "tStartMs": 460800,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "helped them really boost this brain efficiency."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463200,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So being multilingual or bilingual\nis boosting your brain efficiency,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 467440,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "which is a great advantage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 469160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "It's like a brain workout."
+        }
+      ]
+    },
+    {
+      "tStartMs": 471440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So there are like medical benefits as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 474720,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "How has being able to speak multiple\nlanguages influenced your life?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 479040,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "Like how has it improved your life?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 480800,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "The benefits are you get to \nmeet so many different people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 484280,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "and language is an opener."
+        }
+      ]
+    },
+    {
+      "tStartMs": 486320,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "It's an icebreaker in a way as I'm sure \nyou've noticed when you've travelled, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 490880,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "So whenever I go, one of the best\ncountries I love to travel to is Italy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 495680,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "I do not speak Italian, but at \njust the moment you just say"
+        }
+      ]
+    },
+    {
+      "tStartMs": 500000,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "[In Italian] good morning, how are \nyou? and you just start speaking,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502680,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "they think, Oh My God, she speaks our language,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 504920,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "they they just start speaking\nand I'm like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I really don't but they are so warm and\nthey're so happy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 509600,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "they want to, because that\nis the connection and that's the"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "humanity that I find is the greatest benefit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 515360,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And obviously, whether I'm travelling\nfor work or for pleasure"
+        }
+      ]
+    },
+    {
+      "tStartMs": 519160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "it's just meeting people, hearing \ntheir stories and the moment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 522320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "you've broken that ice, it's great."
+        }
+      ]
+    },
+    {
+      "tStartMs": 524840,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And also for me, I find that\nmy memory is sharper because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 528920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "obviously so much is happening. As you \nsaid, you don't know, you don't want to know"
+        }
+      ]
+    },
+    {
+      "tStartMs": 532760,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "how big my brain is. I really don't \neither. But it just, I'm on top of things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 538800,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "Maybe it's because of how I was made, but I \nalso think some of it has to do with the fact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 548480,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And also there are codes that come\nwith those languages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 550680,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and the cultures that are connected\nto the languages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 553360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Of all the languages you speak I'm fascinated by"
+        }
+      ]
+    },
+    {
+      "tStartMs": 555960,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "the Norwegian connection and how different"
+        }
+      ]
+    },
+    {
+      "tStartMs": 558400,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "that must have been from all of the other \nlanguages that you spoke up to that point."
+        }
+      ]
+    },
+    {
+      "tStartMs": 562160,
+      "dDurationMs": 7200,
+      "segs": [
+        {
+          "utf8": "What was it like, when you moved there, when \nyou had to learn it? And how different is it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570280,
+      "dDurationMs": 8760,
+      "segs": [
+        {
+          "utf8": "It's actually of the five, let me discount \nKinyarwanda, of the four Norwegian is the easiest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 579040,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "Yeah. In the sense that the way they\nconjugate is straightforward."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585280,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "Whereas in French, for example you've\ngot 16 ways of saying or using a verb."
+        }
+      ]
+    },
+    {
+      "tStartMs": 591280,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Norwegians have simplified matters."
+        }
+      ]
+    },
+    {
+      "tStartMs": 593480,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "It's you've got your present, you've \ngot your past, maybe near past,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 596680,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "you've got your future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598200,
+      "dDurationMs": 6920,
+      "segs": [
+        {
+          "utf8": "Let's not complicate life. So you will \nsay I go, you go, we go she goes, he goes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 605120,
+      "dDurationMs": 8320,
+      "segs": [
+        {
+          "utf8": "No, no, in Norwegian it's [In Norwegian] \nI go, you go, he she go, we go, they go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And same if you're going to \ndo the past just have to do"
+        }
+      ]
+    },
+    {
+      "tStartMs": 616240,
+      "dDurationMs": 960,
+      "segs": [
+        {
+          "utf8": "[In Norwegian] I went, you went, he she went."
+        }
+      ]
+    },
+    {
+      "tStartMs": 617200,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "And you learnt it as a teenager, \nbut your parents had to learn it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 621800,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "as adults, which I imagine was so much harder."
+        }
+      ]
+    },
+    {
+      "tStartMs": 625120,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Oh My God, I, I look back and I don't pity them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 629000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "because first of all, you're having them\ncoming into a"
+        }
+      ]
+    },
+    {
+      "tStartMs": 632360,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "new culture completely from \neverything they've ever known."
+        }
+      ]
+    },
+    {
+      "tStartMs": 636360,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "They were well-travelled before, so\nit wasn't like a big culture coming in,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 639760,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "but a) the language is new, \nthe way of being is different"
+        }
+      ]
+    },
+    {
+      "tStartMs": 644760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "to what they were used to, and now \nyou're putting on top of it language."
+        }
+      ]
+    },
+    {
+      "tStartMs": 647960,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "These are people in their fifties, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 650680,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "but they soldiered on because \nas much as we have English"
+        }
+      ]
+    },
+    {
+      "tStartMs": 655520,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and everybody speaks and understands \nEnglish from three upwards,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 664880,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "if you choose to stay and live there \nbecause everywhere you go is Norwegian,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 671120,
+      "dDurationMs": 1809,
+      "segs": [
+        {
+          "utf8": "it's their language."
+        }
+      ]
+    },
+    {
+      "tStartMs": 672929,
+      "dDurationMs": 71,
+      "segs": [
+        {
+          "utf8": "Norwegian is the only language\nthat you can use and you will need to use"
+        }
+      ]
+    },
+    {
+      "tStartMs": 673000,
+      "dDurationMs": 1320,
+      "segs": [
+        {
+          "utf8": "It's the language that is used."
+        }
+      ]
+    },
+    {
+      "tStartMs": 674320,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So if you want to work, if you want\nto live there, you have to learn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677440,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "And they did. I give them props\nbecause it's just,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 681000,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "it wasn't easy but because again,\nI think also with us kids because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 686040,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "we had seen what they had done with our \nmother tongue so it was just easy to,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 690440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "we picked it up quite quickly, \nso if they were making a mistake,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 693560,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "you know, making a sentence because obviously"
+        }
+      ]
+    },
+    {
+      "tStartMs": 696440,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "they're having to think how \ndoes, how is a sentence built"
+        }
+      ]
+    },
+    {
+      "tStartMs": 699680,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "in Kinyarwanda or French or Swahili?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 702120,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Now they have to rethink, and\nthen you find it's different"
+        }
+      ]
+    },
+    {
+      "tStartMs": 704320,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and it is different in the way\nsometimes Norwegian can be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 707280,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "so we're also helping them\nalong the way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 709480,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "so it's kind of a way of paying back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 711600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "You helped us get to this, you know,\nto keep our mother tongue"
+        }
+      ]
+    },
+    {
+      "tStartMs": 714400,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and here we are going to help you \nkind of find a way to navigate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 717520,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "this new reality."
+        }
+      ]
+    },
+    {
+      "tStartMs": 718920,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So it was a challenge and they rose to it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 722000,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "They sound really inspirational actually."
+        }
+      ]
+    },
+    {
+      "tStartMs": 724840,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "They are my parents. Yeah. They're amazing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 727840,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "They are amazing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 729280,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And the fact that it is harder for adults\nto learn languages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 732080,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "is backed up by the science."
+        }
+      ]
+    },
+    {
+      "tStartMs": 733680,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "So let's hear from Professor Liégeois again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 736120,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Learning a new language\nat any age will have some advantages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 739520,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "because it's a brain workout and \nin older age we don't use so much"
+        }
+      ]
+    },
+    {
+      "tStartMs": 743400,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "of the regions involved in \nmemory learning new skills,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 747000,
+      "dDurationMs": 23840,
+      "segs": [
+        {
+          "utf8": "learning to articulate.\nwe all dream, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 770840,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "And I don't know if you've had this experience,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 772240,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "but when I'm immersed in a culture\nI spend a long time somewhere,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 776040,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "I start dreaming in\nin different languages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 778520,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "What languages do you dream in?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 781520,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "Um, you know what? a) I really rarely \nthink about what I'm dreaming in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 787840,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "because a) there's so much\nis happening,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 790200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "but b) also depends\non who is in the dream."
+        }
+      ]
+    },
+    {
+      "tStartMs": 793080,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So if it's my family members,\nbecause obviously other than my sister in Germany"
+        }
+      ]
+    },
+    {
+      "tStartMs": 797480,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "who has another language that none of us have,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 801080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "when we are together, it's \na, it's a mix of everything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 804280,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "So if one starts saying something,\nbut this word is not coming quicker,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 807920,
+      "dDurationMs": 1551,
+      "segs": [
+        {
+          "utf8": "they know that they can use\nthis language."
+        }
+      ]
+    },
+    {
+      "tStartMs": 809471,
+      "dDurationMs": 2929,
+      "segs": [
+        {
+          "utf8": "So you give yourself a chance to strengthen those\nSo if I have them in my dreams is just a"
+        }
+      ]
+    },
+    {
+      "tStartMs": 812400,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "cacophony of languages,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 813600,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "everybody speaking, there's everybody\nsaying that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 815480,
+      "dDurationMs": 1634,
+      "segs": [
+        {
+          "utf8": "but we all understand."
+        }
+      ]
+    },
+    {
+      "tStartMs": 817114,
+      "dDurationMs": 46,
+      "segs": [
+        {
+          "utf8": "connections and improve your brain efficiency."
+        }
+      ]
+    },
+    {
+      "tStartMs": 817160,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And if it's my childhood friends,\nit's definitely in Kinyarwanda"
+        }
+      ]
+    },
+    {
+      "tStartMs": 820120,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "despite the fact that we either live \nin Norway or we've met again in the UK,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 825600,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "or we've met in America or we've, \nit just kind of automatically"
+        }
+      ]
+    },
+    {
+      "tStartMs": 830600,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "goes to the individual in the dream."
+        }
+      ]
+    },
+    {
+      "tStartMs": 833240,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "And I don't know about you,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 834480,
+      "dDurationMs": 3382,
+      "segs": [
+        {
+          "utf8": "but I learnt all of my languages\nquite a long time ago."
+        }
+      ]
+    },
+    {
+      "tStartMs": 837862,
+      "dDurationMs": 58,
+      "segs": [
+        {
+          "utf8": "So at any age, learning a new \nlanguage could be the key to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 837920,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "The thought of picking up\na new language now"
+        }
+      ]
+    },
+    {
+      "tStartMs": 840040,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and putting in the hours \nand starting from scratch,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 842240,
+      "dDurationMs": 2587,
+      "segs": [
+        {
+          "utf8": "whether it's Arabic or \nRussian or Mandarin like it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 844827,
+      "dDurationMs": 53,
+      "segs": [
+        {
+          "utf8": "really maintaining your \nbrain health for much longer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 844880,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "gives me the heebie jeebies, another \nfantastic English expression,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 849040,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "makes me feel really, really overwhelmed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 851400,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "which is how a lot of people feel when \nthey think about learning a language,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 854920,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "even for polyglots so let's hear from İclal again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 858680,
+      "dDurationMs": 2781,
+      "segs": [
+        {
+          "utf8": "For me, Russian was really tough at first."
+        }
+      ]
+    },
+    {
+      "tStartMs": 861461,
+      "dDurationMs": 59,
+      "segs": [
+        {
+          "utf8": "Well, no matter how old you \nare, when you learn a language,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 861520,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I remember crying over grammar\ntables, verb aspects, noun cases."
+        }
+      ]
+    },
+    {
+      "tStartMs": 866640,
+      "dDurationMs": 4234,
+      "segs": [
+        {
+          "utf8": "It just felt impossible to learn it,\nuntil I discovered Russian music"
+        }
+      ]
+    },
+    {
+      "tStartMs": 870874,
+      "dDurationMs": 46,
+      "segs": [
+        {
+          "utf8": "So by learning a new language, you're going to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 870920,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and created a personal connection\nto the language,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 874160,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "because I think the most \ndifficult language to learn is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 876800,
+      "dDurationMs": 2083,
+      "segs": [
+        {
+          "utf8": "the one that you don't enjoy learning."
+        }
+      ]
+    },
+    {
+      "tStartMs": 878883,
+      "dDurationMs": 37,
+      "segs": [
+        {
+          "utf8": "use those brain regions and networks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 878920,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Once I created some sort of\nemotional connection to the language"
+        }
+      ]
+    },
+    {
+      "tStartMs": 882280,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "I just started singing along the lyrics \nand acquiring the words naturally"
+        }
+      ]
+    },
+    {
+      "tStartMs": 887200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and it didn't feel as difficult as \nbefore so I wouldn't say languages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 890600,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "are inherently difficult to learn, \nit's just all about your mindset."
+        }
+      ]
+    },
+    {
+      "tStartMs": 894840,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Iclal talked about mindset there, and\nit's true because how you approach"
+        }
+      ]
+    },
+    {
+      "tStartMs": 898480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "language learning can really impact\nhow much you get out of it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 901440,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And it is true that people \nwho already speak languages"
+        }
+      ]
+    },
+    {
+      "tStartMs": 904840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "may have certain advantages when \nit comes to learning new ones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 908080,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So now let's hear from Lisa, who works\nfor the language learning app Ling."
+        }
+      ]
+    },
+    {
+      "tStartMs": 912320,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "I often get the questions, \nwhich languages are difficult"
+        }
+      ]
+    },
+    {
+      "tStartMs": 915640,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and which languages are easy\nand what makes them so?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 918920,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Well, it comes down to a few factors, I'd say."
+        }
+      ]
+    },
+    {
+      "tStartMs": 921240,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "First up, your native language is\nyour secret weapon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 924080,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "If you speak English, learning \nSpanish or Dutch feels pretty doable."
+        }
+      ]
+    },
+    {
+      "tStartMs": 927720,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "They're really close together."
+        }
+      ]
+    },
+    {
+      "tStartMs": 929240,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "They're similar words, familiar grammar."
+        }
+      ]
+    },
+    {
+      "tStartMs": 931640,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "But if you're diving into Mandarin or\nArabic, you'll really want to buckle up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 935240,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "There's different sentence structures vocabulary,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 937560,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "that make it a whole new ballgame."
+        }
+      ]
+    },
+    {
+      "tStartMs": 939200,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Second, writing systems also make\na huge difference."
+        }
+      ]
+    },
+    {
+      "tStartMs": 941880,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "If a language uses the same alphabet\nas English, again, like German,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 946280,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "uh, reading and writing are no biggie."
+        }
+      ]
+    },
+    {
+      "tStartMs": 947840,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "But if you're learning Japanese,\nthere's three writing systems."
+        }
+      ]
+    },
+    {
+      "tStartMs": 951200,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "You've got some serious memorisation ahead of you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 953960,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Third up, grammar is another major factor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 956240,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Some languages play really nice,\nlike Indonesian."
+        }
+      ]
+    },
+    {
+      "tStartMs": 959000,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "It has a simple structure. \nThere's no verb conjugations."
+        }
+      ]
+    },
+    {
+      "tStartMs": 962640,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "And then there's other languages like\nRussian"
+        }
+      ]
+    },
+    {
+      "tStartMs": 964520,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "that throws six different cases."
+        }
+      ]
+    },
+    {
+      "tStartMs": 966400,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Then we have pronunciation, that \ncan be a total game changer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 969360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So Spanish and Italian,\nthey're super phonetic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 972160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "You get what you see."
+        }
+      ]
+    },
+    {
+      "tStartMs": 974440,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "English on the other hand, that's a total mess."
+        }
+      ]
+    },
+    {
+      "tStartMs": 977160,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And then we have tonal languages\nlike Thai,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 979240,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "where tiny change in pitch can \nmean the difference between"
+        }
+      ]
+    },
+    {
+      "tStartMs": 982040,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "saying mom or horse."
+        }
+      ]
+    },
+    {
+      "tStartMs": 984560,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And finally, accessing learning resources is key."
+        }
+      ]
+    },
+    {
+      "tStartMs": 987360,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "If you want to learn French\nor Spanish, congrats!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 989800,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "You've got endless apps, Netflix,\nTikTok, memes helping you out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 994720,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "But learning Icelandic or Mongolian?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 996960,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Well, good luck finding a lot\nof resources here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 999880,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "And what about you, Vic? What tips do\nyou have for learning a new language?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1004680,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Just go and immerse yourself\nwith the people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1007560,
+      "dDurationMs": 5960,
+      "segs": [
+        {
+          "utf8": "I found it the easiest if you are where \nyou can actually be forced to speak it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1013520,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "That's why I say, you know, I don't use French law"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1015720,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "but I make an effort to make sure\nthat I'm speaking or I'm listening"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1019280,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "or when I go to to Paris,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1021480,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "I just make sure that I \njust insist that I speak it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1023880,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "and people speak back to me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1025440,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So I say, go and be with the people and music."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1029480,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "As one of our contributors said,\nmusic is a great teacher as well"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1033920,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "because if you're able to listen,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1035840,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "there is the international \nand obviously international"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1037560,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "will depend if they are native \nspeakers or if they are Americans"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1040640,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "or if they are British or whatever."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1042560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "But you learn words, you can look them up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1044840,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And these days, I mean, we've got\napps that are helping people do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1048600,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "And another tip is never be afraid\nof speaking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1052720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "to people because obviously you think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1055280,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "I've got an accent or I can't \nreally speak like they do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1059280,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "It is what it is. They will never be able\nto speak your language"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1062160,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "or the other languages as well, as\ngood as the natives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1065080,
+      "dDurationMs": 8800,
+      "segs": [
+        {
+          "utf8": "So be bold and go out there\nand just speak."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1073880,
+      "dDurationMs": 4129,
+      "segs": [
+        {
+          "utf8": "Vic, muito obrigado. Muchisimas \ngracias. Gracias. Merci beaucoup."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1078009,
+      "dDurationMs": 2471,
+      "segs": [
+        {
+          "utf8": "De rien, de nada Ingen årsak, \nasante sana, urakoze cyane."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1080480,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Thank you so much for coming into the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1083760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And thank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1085840,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "You can leave us a comment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1087080,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "You can get in touch at any time\non Instagram, on WhatsApp."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1090000,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Leave us a comment below, in any\nlanguage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1092360,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "We will do our best to try and \ntranslate it using the multitude"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1095320,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "of languages available here at \nthe BBC from colleagues like Vic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1099440,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart, this is What in \nthe World from the BBC World Service"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1103000,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and we'll be back with another episode soon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1106320,
+      "dDurationMs": 4824,
+      "segs": [
+        {
+          "utf8": "[In Portuguese] See you next time, goodbye!"
+        }
+      ]
+    }
+  ]
+}

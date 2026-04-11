@@ -1,0 +1,3083 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 1520,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Another slap!\nI know. Poor girl."
+        }
+      ]
+    },
+    {
+      "tStartMs": 4760,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So in China last year,\nthe box office is over ¥50 billion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 8960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "That's nearly seven billion USD."
+        }
+      ]
+    },
+    {
+      "tStartMs": 11360,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "And that's exceeding China's\nbox office of the entire 2024."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15720,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "What? Feature length?\nYes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 17160,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "So the short ones are doing better\nthan the long ones?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 18920,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Definitely.\nHey, hey, it's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 21080,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Welcome back to What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 24320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Today we're talking\nabout micro-dramas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 26640,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "They're a video trend from China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Think really short films,\none or two minutes long"
+        }
+      ]
+    },
+    {
+      "tStartMs": 31480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "that are made to be watched\non your mobile phone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 34040,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "So they're pacy, they're racy,\nand they can also be a bit cringe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 38720,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "They're about secret billionaire\nhusbands and vampire lovers or"
+        }
+      ]
+    },
+    {
+      "tStartMs": 42520,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "there's one title: Falling\nFor My Ex's Mafia Dad."
+        }
+      ]
+    },
+    {
+      "tStartMs": 46560,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "They first popped up in China in 2018,\nand now they are bringing in billions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 50800,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Last year, the industry was worth\naround seven billion USD"
+        }
+      ]
+    },
+    {
+      "tStartMs": 54480,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and this trend has gone global."
+        }
+      ]
+    },
+    {
+      "tStartMs": 57080,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So what do micro-dramas mean\nfor the evolving movie industry"
+        }
+      ]
+    },
+    {
+      "tStartMs": 60840,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and our ever shortening\nattention spans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 65520,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Here with me in the studio is Mengchen\nZhang from the BBC's Global China unit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 69360,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Hello, welcome to the show.\nHi, Hannah. Nice to be here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 71840,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Grab some popcorn.\nWhat are we watching?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74560,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So this one is called\nFrom Lost Heiress to Royal Highness."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "It's a love story, apparently."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81480,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Oh, shoot.\nI'm gonna be late."
+        }
+      ]
+    },
+    {
+      "tStartMs": 86960,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So she's riding a bicycle now\nin her wedding dress."
+        }
+      ]
+    },
+    {
+      "tStartMs": 91040,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So her whole family's left on the day\nof her wedding. Is that what's going on?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 93960,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "It seems like it.\nI wonder who comes up with these."
+        }
+      ]
+    },
+    {
+      "tStartMs": 98320,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Okay, we have heels.\nI do that all the time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 102040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Yeah. Life hack.\nHotel, in case you didn't know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 106640,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "I wonder\nwhat surprise Boris has for me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 110280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "It's not the best acting I've ever seen.\nWell."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120040,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "Who are you? Where's Boris?\nI'm your guest for today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 125320,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Creepy old man vibes.\nOh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129400,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Boris, thank god you're here. This man\n- I think I got the wrong room."
+        }
+      ]
+    },
+    {
+      "tStartMs": 131760,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "You didn't get the wrong room.\nBoris. What the hell?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135000,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Are we going to be working\nwith the Morgan family or not?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138560,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Oh, here comes the Luna sister. Evil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 141480,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "We do hope\nyou'll put in a good word for us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142960,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "It seems like\nthe characters are really clear."
+        }
+      ]
+    },
+    {
+      "tStartMs": 145240,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Like good or evil, right?\nWhite and black."
+        }
+      ]
+    },
+    {
+      "tStartMs": 147560,
+      "dDurationMs": 960,
+      "segs": [
+        {
+          "utf8": "They're literally wearing white\nand black."
+        }
+      ]
+    },
+    {
+      "tStartMs": 148520,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "I know.\nMy sister. How could you do this to me?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 153200,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Everything that's yours\nhas always been mine for the taking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 156520,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "I mean, come on, this isn't the first\ntime, so why don't you just pipe down\nlike you always do?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 161080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So not only are you two having an\naffair, but you tried to set me up with."
+        }
+      ]
+    },
+    {
+      "tStartMs": 164120,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Oh.\nHere comes slapping."
+        }
+      ]
+    },
+    {
+      "tStartMs": 166480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Know your place.\nYou're just adopted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 169520,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Mr George here is a representative\nof the Morgan Estate Group."
+        }
+      ]
+    },
+    {
+      "tStartMs": 173160,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "It's your honour to serve him."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177680,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Mom, Luna and Boris\nare having an affair"
+        }
+      ]
+    },
+    {
+      "tStartMs": 180440,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and they tried to -\nAnother slap!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 183040,
+      "dDurationMs": 1080,
+      "segs": [
+        {
+          "utf8": "I know! Poor girl."
+        }
+      ]
+    },
+    {
+      "tStartMs": 184120,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "How dare you make such a scene\nabout something so trivial."
+        }
+      ]
+    },
+    {
+      "tStartMs": 187840,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "And now that Boris has gained\nthe approval of the royal family\nand his career is booming."
+        }
+      ]
+    },
+    {
+      "tStartMs": 192400,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "You, my dear, are nothing.\nLuna is the perfect match."
+        }
+      ]
+    },
+    {
+      "tStartMs": 196840,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Why do you always favour her?\nIs it because I'm adopted?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200560,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "You know you're just a cast off,\nan orphan they took in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205320,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Don't compare yourself to me.\nAnd this is one of the big ones, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210160,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Yeah. This one has millions\nof views just on there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 213040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "- like a trailer they posted\non YouTube."
+        }
+      ]
+    },
+    {
+      "tStartMs": 216120,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So imagine how many people have\nwatched the actual entire episodes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 219840,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "I love the drama.\nLike, I like the plot lines."
+        }
+      ]
+    },
+    {
+      "tStartMs": 222240,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "I like how fast it is. Acting was not\nthe best, I'm not going to lie."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "But they're taking a lot.\nThey've got like an adopted daughter."
+        }
+      ]
+    },
+    {
+      "tStartMs": 229080,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "You've got rich family,\nyou've got poor, you've got\nbride abandoned on wedding day,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232920,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "who definitely needs to cycle to church\nand then change into high heels."
+        }
+      ]
+    },
+    {
+      "tStartMs": 236560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Yeah.\nThere's a lot you can identify."
+        }
+      ]
+    },
+    {
+      "tStartMs": 238840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And then like, it really moved the plot\nalong by having the text on screen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 241480,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So every time there's a character,\nit's like, Grace is 26,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 244360,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "and get to the hotel and it says,\nit's this hotel."
+        }
+      ]
+    },
+    {
+      "tStartMs": 248760,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Why are these getting so many views?\nWhere does their popularity come from?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 252400,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Yeah. So as we've seen,\nthe dramatic plot is definitely one\nof the big drives for people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And I would say,\nlike with all the text on screen,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259880,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "it made the transition faster,\neasy to consume,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 263120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and instead of spending hours\nto build up the characters,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 266400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "you can just take one minute\nand know everything that's going on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 269080,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So the fast and accessibility make\nit so easy to spread."
+        }
+      ]
+    },
+    {
+      "tStartMs": 272680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And the other thing is definitely\nthe crazy plots, ups and downs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275520,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "twists and turns and\nin such a short time it's so handy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 278840,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So I guess that's some of the secret\nwhy it's so successful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 281880,
+      "dDurationMs": 880,
+      "segs": [
+        {
+          "utf8": "Who's making them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 282760,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Most of the platform has a root\nin China and the production company,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 286280,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "we have actor, actress from the US,\nfrom UK or from China,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 290120,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "but most of the crew members are\nfrom China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 292840,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And the script, like most of the time,\nit's written by a Chinese scriptwriter"
+        }
+      ]
+    },
+    {
+      "tStartMs": 296760,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and then translated\nto different languages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 299000,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "So these like family themes\nand dramatic,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 302560,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "'you're not gonna marry him,\nI'm gonna marry him."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304720,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "But, sister, how could you take him\naway from me?' Is this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 307160,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "like, are these kind of Chinese plot\nlines that you see in books and stuff?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311600,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Are these kind of the common themes\nof Chinese TV dramas as well, and soaps?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 315600,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Yeah, the TV dramas, the soap opera\nin China definitely big"
+        }
+      ]
+    },
+    {
+      "tStartMs": 319480,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "on these emotions and relationships\nand the family feud and all"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323480,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "the mother-in-law, daughter-in-law,\nsister, brother, etc."
+        }
+      ]
+    },
+    {
+      "tStartMs": 327160,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "and I don't think\nthat's just Chinese."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328880,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "I think we see similar plots\nin telenovelas"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "and even like in some Shakespeares,\nwe see the family feuds"
+        }
+      ]
+    },
+    {
+      "tStartMs": 334720,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and the fights between family members\nand the love stories."
+        }
+      ]
+    },
+    {
+      "tStartMs": 338120,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So there's a common scene like\namong that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 340720,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "can transcend national nationalities\nand culture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 343800,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "People can relate to the dramas.\nBut definitely growing up,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "like in China, watching a lot\nof Chinese drama shows,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 350400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "that's an element\nI'm not unfamiliar with."
+        }
+      ]
+    },
+    {
+      "tStartMs": 353160,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Yeah, yeah. And\nthese are bringing in a lot of money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 356800,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "Yeah. So in China last year,\nthe box office is over ¥50 billion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 361400,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "That's nearly seven billion USD."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363840,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "And that's exceeding China's\nbox office of the entire 2024."
+        }
+      ]
+    },
+    {
+      "tStartMs": 368160,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "What feature length?\nYes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 369600,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "So the short ones are doing better\nthan the long ones?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 371400,
+      "dDurationMs": 680,
+      "segs": [
+        {
+          "utf8": "Definitely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 372080,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "And that's the first time we're\nactually seeing the trend surpassing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 376600,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "the actual box office.\nAnd it's not just in China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 380440,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Around the world they've been downloaded\nover 950 million times collectively."
+        }
+      ]
+    },
+    {
+      "tStartMs": 384840,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "And as of March 2025, that's bringing\ntwo billion in app purchases"
+        }
+      ]
+    },
+    {
+      "tStartMs": 389760,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "outside of China\nacross different countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 392600,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "So, as you say,\nthey started off in China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 394440,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "They build on these kind\nof Chinese themes and plotlines."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396520,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "But now the trend has gone global and\nthey're really popular elsewhere too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 400840,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Yeah. So it's definitely been\na global trend."
+        }
+      ]
+    },
+    {
+      "tStartMs": 403600,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "So firstly, it's in China and\nquickly has been popular in the US."
+        }
+      ]
+    },
+    {
+      "tStartMs": 407480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "But since 2024, we've seen\nthe trend even growing further"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410520,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "in Latin American countries,\nin South East Asian countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 413560,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "So we've definitely seen\na lot of them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 415440,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And we look at the download data\nacross different languages and regions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 419520,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and we see there are over 100\ncountries where they're top download."
+        }
+      ]
+    },
+    {
+      "tStartMs": 422760,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "The entertainment chart has at least one\nof these Chinese micro drama apps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 426440,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "So if we're seeing on a map,\nit's like basically half"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429200,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "of the world they are being consumed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 431320,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "They are consuming this type\nof content."
+        }
+      ]
+    },
+    {
+      "tStartMs": 433680,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And are they just consuming them like\non TikTok,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 435840,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "you're scrolling through TikTok and\nthere's a micro-drama,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437920,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "or they're dedicated apps that people\ndownload and do you have to pay"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441680,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "for subscriptions?\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 443880,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "So that's how I first get in touch with\nlike how I first saw these episodes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 449040,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "actually, ads on my Instagram\nand TikTok."
+        }
+      ]
+    },
+    {
+      "tStartMs": 451560,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "But after you saw several episodes,\nthey will leave you a cliffhanger there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 455040,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "If you want to finish the rest, you\nhave to download their dedicated app."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458440,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Like there are some micro-drama apps\ncalled Real Short, Drama Box,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 462080,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Drama Wave, Short Max, Flex TV, you\nname it. There are so many of them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466120,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So they will have some episode\nteasers on YouTube, Instagram,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 470360,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "and you can watch them.\nBut if you want to finish"
+        }
+      ]
+    },
+    {
+      "tStartMs": 472440,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "the full story,\nusually you have to download the app."
+        }
+      ]
+    },
+    {
+      "tStartMs": 474880,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And they love like the ghouls\nand the vampires."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477000,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "I know they do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 478240,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "I actually watched one recently about\nthe vampire one. I will show you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 482120,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I just can't resist it.\nIt's so good and it's so bad."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485120,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So good. It's hard to define.\nIt's like a guilty pleasure, isn't it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488200,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "I know, well, are you ready?\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 490560,
+      "dDurationMs": 920,
+      "segs": [
+        {
+          "utf8": "Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 495480,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Putting out guns. Fighting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 504280,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Another white dress.\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 506560,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "They like the bridal theme.\nI know and the clock."
+        }
+      ]
+    },
+    {
+      "tStartMs": 512840,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Here comes our saviour of the day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 517480,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Oh, another wedding dress."
+        }
+      ]
+    },
+    {
+      "tStartMs": 520560,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And he looks\nlike he's just had his dinner. Oh!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 523800,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "So here's the catch. She actually has\na super power to see the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 528480,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "So that was what?\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 530240,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "That was a premonition\nof him eating her."
+        }
+      ]
+    },
+    {
+      "tStartMs": 532360,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Yeah. And getting married\nat the same time, you know?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 534920,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Yeah. Yeah, yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 537280,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "How did she know you we're vampires?\nHow did you know we're vampires?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 541640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Nick - in brackets - vampire.\nBecause it says on the screen!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 544200,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "I know, the lower third tells you\neverything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 553280,
+      "dDurationMs": 1080,
+      "segs": [
+        {
+          "utf8": "It's pretty dark."
+        }
+      ]
+    },
+    {
+      "tStartMs": 554360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Yeah, it's - difficult to film\nin the dark,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 556960,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "as we all know,\nbut they did a pretty good job. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 559600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "It looks like\nit's quite high production. I mean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 565400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Yeah.\nAll we need is a country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 573560,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And the music. And then that's it.\nThat's a whole episode."
+        }
+      ]
+    },
+    {
+      "tStartMs": 575800,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "We just watched the whole episode."
+        }
+      ]
+    },
+    {
+      "tStartMs": 577000,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Yeah. We do. That's\nthe second episode of the show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 579760,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "It's like - I think there are over\na few dozens more if you have time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 583640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "to see them all. But yeah -\nPeople watch them back to back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 586680,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "You just kind of like binge episodes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 589760,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "You can binge by now like few days."
+        }
+      ]
+    },
+    {
+      "tStartMs": 592320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Hours. You can just finish it,\nlike two hours sometimes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 595680,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Yeah.\nSo they're from China, like you said."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598840,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "But they have also faced\nsome controversy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600960,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "What has the government there said\nabout them?\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 603080,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Well, you know, China is a big country\nand there are like huge audiences."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607920,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And not surprisingly, a lot of people\nare now getting hooked on these type"
+        }
+      ]
+    },
+    {
+      "tStartMs": 612320,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "of dramas, and it definitely catch\nthe attention from the authorities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 616360,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "So in traditional sense, China have\nvery strict rules to review"
+        }
+      ]
+    },
+    {
+      "tStartMs": 622600,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "all the films and TVs, which\nusually take longer times to make"
+        }
+      ]
+    },
+    {
+      "tStartMs": 626480,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and gives them\nenough time to review its content."
+        }
+      ]
+    },
+    {
+      "tStartMs": 629160,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "But in the micro-dramas,\nbecause it's so fast"
+        }
+      ]
+    },
+    {
+      "tStartMs": 631800,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and so many things are coming out\nall at once,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 634120,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "the censors are actually\nkind of lagging behind."
+        }
+      ]
+    },
+    {
+      "tStartMs": 636960,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "They're trying to play\ncatch-up games,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 639480,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and there are several things they say\nabout these shows."
+        }
+      ]
+    },
+    {
+      "tStartMs": 641800,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "Like, first of all, they wanted to\nhave the correct political directions\nand right values."
+        }
+      ]
+    },
+    {
+      "tStartMs": 647200,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And they're also saying\nwe should promote"
+        }
+      ]
+    },
+    {
+      "tStartMs": 649560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "right social standards,\nsocial values."
+        }
+      ]
+    },
+    {
+      "tStartMs": 651840,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "For example, if you are\nlike a fight between a mother-in-law,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 656040,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "daughter-in-law, that's not good\nbecause we don't want that much drama."
+        }
+      ]
+    },
+    {
+      "tStartMs": 658640,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "We want people to have family.\nWe want the family to be harmonious."
+        }
+      ]
+    },
+    {
+      "tStartMs": 662560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So if there are too much fighting\nbetween in-laws,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 664840,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "that's not what they like.\nAnd there are other things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 667520,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "For example, too much extravagant\nlifestyle that's materialistic"
+        }
+      ]
+    },
+    {
+      "tStartMs": 672040,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and the government will sometimes\nsay, okay, hold on, it's too much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 675280,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "We don't like that. So yeah,\nin March, all the platforms in China,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "like many of them\n- every month they have to report"
+        }
+      ]
+    },
+    {
+      "tStartMs": 682840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "how many series they have taken down\nthat has violated the rules."
+        }
+      ]
+    },
+    {
+      "tStartMs": 686080,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "So in March, at least 1,200 have been\ntaken down for various this or that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691520,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So that's just the situation in China\nright now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 694240,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "What about all of the sex\nand relationships?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 696440,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "I know it's quite arbitrary. I would\nsay sometimes because we've seen some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 700160,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "of the episodes that are\nborderline soft porn even,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 703120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and the pornographic content\nis definitely a big no."
+        }
+      ]
+    },
+    {
+      "tStartMs": 706440,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "But because the censor,\nthey don't have that many people\nto watch every single episode,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 710560,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "sometimes they do have a little bit\nof things leaking through."
+        }
+      ]
+    },
+    {
+      "tStartMs": 714080,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "They pack so much into that plotline\nand they turn them around so fast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717880,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "There are so many of these."
+        }
+      ]
+    },
+    {
+      "tStartMs": 719800,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "How heavily do they use AI\nfor their production,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 723360,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "but also for the script writing?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 725480,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And can you tell\nthat things have been written by AI?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 728120,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So I've talked to some\nindustry insiders, like Real Shore,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 731160,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "for example, the platform,\nthey told me they've used AI"
+        }
+      ]
+    },
+    {
+      "tStartMs": 733960,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "in their post-production for VFX,\nvisual effects,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 737160,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and another company, ShortMax,\nits CEO, Liu Jinlong,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 740520,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "he told me they are trying\nto experiment with AI,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 743280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "to write a script outline\nso they can fill in the"
+        }
+      ]
+    },
+    {
+      "tStartMs": 746360,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "- they have a skeleton and they\ncan fill in the content afterwards."
+        }
+      ]
+    },
+    {
+      "tStartMs": 750080,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And it's being employed\nin many other aspects, for example,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 753560,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "like a vampire story."
+        }
+      ]
+    },
+    {
+      "tStartMs": 755320,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Sometimes you need very fancy,\ncomplicated settings,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 759320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "but with the AI they can generate\na virtual background"
+        }
+      ]
+    },
+    {
+      "tStartMs": 761920,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "so they don't have to spend\nall this money to build up the scene."
+        }
+      ]
+    },
+    {
+      "tStartMs": 765920,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So yeah, just from pre-production,\nscript writing, post-production,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 770360,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "they can be involved pretty much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 772760,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "So I think recently there's one\ncalled, White Fox, in China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 778280,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "It was produced entirely by AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 781080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Is it labeled? Like,\ndoes it say this is AI generated?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 784120,
+      "dDurationMs": 520,
+      "segs": [
+        {
+          "utf8": "Yeah it is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 784640,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And they are actually branding\nthemselves as this innovative method"
+        }
+      ]
+    },
+    {
+      "tStartMs": 788400,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "to quickly generate outputs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 790800,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And so the whole team only has like\nfour people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 793320,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So they are using this chatbot\nto generate the AI script."
+        }
+      ]
+    },
+    {
+      "tStartMs": 796840,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And they have like\nvirtual characters to create"
+        }
+      ]
+    },
+    {
+      "tStartMs": 799440,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "like an audio visual all through AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 801840,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So the entire production\nis taking like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 804520,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "less than ¥10,000\nwith four people in two weeks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 808080,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Imagine how fast they can make\nif everything's in that speed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 811920,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Yeah, I guess you can make it.\nYou can scale it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 814640,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And suddenly, you know, these apps which\nare clearly hungry for micro-dramas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 818240,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "There's a big audience,\nnot just in China, around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 821160,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And that churn is feeding\nthis growing trend, as you say, more\nand more people around the world,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 825080,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and a lot of it must be to do with\nthe fact that they're on our phones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 827920,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So I am pretty guilty\nof staying up late"
+        }
+      ]
+    },
+    {
+      "tStartMs": 830520,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and scrolling on my phone late\ninto the night."
+        }
+      ]
+    },
+    {
+      "tStartMs": 832720,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I think I use my phone\nfor like four or five hours a day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 835760,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "In fact, there's a study that says\nthat a lot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 838160,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "of over 18's use their phones\nfor around five hours a day,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 841880,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "and we're getting more and more used\nto short-form content."
+        }
+      ]
+    },
+    {
+      "tStartMs": 846480,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Our attention spans\nare getting shorter."
+        }
+      ]
+    },
+    {
+      "tStartMs": 848600,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Do you think that's why\nthese micro-dramas are so popular?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 851920,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "I definitely agree with you,\nand just personally,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 855280,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "I'm not going to tell you\nhow many hours I spend on my phone!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 859160,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Guilty. As a millennial\nand many people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 861560,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "our generation are definitely hooked\non their phones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 864440,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And thanks to TikTok, we're getting\nso used to vertical dramas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 868360,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "under one minute, one after another,\nthere's like doom scrolling, no end."
+        }
+      ]
+    },
+    {
+      "tStartMs": 874120,
+      "dDurationMs": 960,
+      "segs": [
+        {
+          "utf8": "But is it doom if it's entertainment?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 875080,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "I would say this is\nentertainment srolling."
+        }
+      ]
+    },
+    {
+      "tStartMs": 878560,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "Yeah, in this doomed world, we need\nsome entertainment to de-stress, detox."
+        }
+      ]
+    },
+    {
+      "tStartMs": 883960,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So yeah, I definitely think\nthese trends are a byproduct of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 888000,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "how people's attention span\nhas been shortened over the years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 890960,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Like we used to sit\nthrough hours of films,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 893160,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "but now we can just sit through\nlike one, two,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 896240,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "three minutes without\nlike getting distracted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 899320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And we are so good at multitasking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 901640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Sometimes our time\nis getting fragmented,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 903800,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "our attention span,\nwe can't focus on things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 906400,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "So that's definitely one thing we saw,\nnot just among our generation actually,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 911040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "like in China,\npeople over 60 are also becoming"
+        }
+      ]
+    },
+    {
+      "tStartMs": 913800,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "a huge population who get hooked\non this type of drama."
+        }
+      ]
+    },
+    {
+      "tStartMs": 916960,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "They use their phones constantly\nlike every other young people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 920520,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And yeah, these are\njust what they need."
+        }
+      ]
+    },
+    {
+      "tStartMs": 922920,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "And the more they watch,\nthe more they are used - getting used\nto watching shorter things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 927840,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So I would say, yeah,\nthere's no stop for the scrolling."
+        }
+      ]
+    },
+    {
+      "tStartMs": 930920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "What does this mean for TV\nand film producers around the world?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 934760,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "So yeah, definitely TV and film\nindustry are facing big challenges\nfrom the shorter dramas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 940400,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "We've seen China, that\nthe box office is being surpassed by"
+        }
+      ]
+    },
+    {
+      "tStartMs": 944120,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "the micro-dramas' incomes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 946400,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So I would say\nit's going to be challenging"
+        }
+      ]
+    },
+    {
+      "tStartMs": 948800,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "for people in traditional film\nand TV industry"
+        }
+      ]
+    },
+    {
+      "tStartMs": 951320,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "how to play catch-ups\nand how to gain the attention."
+        }
+      ]
+    },
+    {
+      "tStartMs": 955240,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "We've also seen people like actors,\nproducers, directors,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 959080,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "behind-the-scenes people, they used\nto making a lot of big screen movies,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 963560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and sometimes when there are not\nenough big screen opportunities,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 966600,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "they would take the smaller gigs to\nbe on these shows we've just watched."
+        }
+      ]
+    },
+    {
+      "tStartMs": 971440,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Critics might say that this is kind of\na dumbing down of film and TV, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 975280,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "Because you've got these average\nplot lines and average acting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 981120,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Yeah, so we are seeing a lot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 983160,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "of people feeling very judgemental\nabout this plot and things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 986440,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So some of the people I've talked to are\ndefinitely saying they're so bad, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 990200,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "they're so bad, they're good, because\nyou don't have to use your brain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 993440,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "But would that be like if you're\nwatching those things in the long-term,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 996280,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "would that mean you are\nless likely to be able to see"
+        }
+      ]
+    },
+    {
+      "tStartMs": 999760,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "through longer films, documentaries?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1001960,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Yeah. And we are getting\nvery repetitive content,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1004880,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "like a lot of vampire,\na lot of werewolf,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1007240,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "a lot of secret billionaire husband."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1009440,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Is that going to be making\nour minds also just simplified"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1013480,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "because after watching so many\nsimilar content with a similar plot."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1017840,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "But yeah, it's controversial,\nbut people still love it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1020280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "It's not exactly a reflection\nof real life, is it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1022520,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "No.\nBut you know what? They're a snack."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1025080,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "They are a delicious,\ntasty little treat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1029680,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "So do you think micro-dramas\nare here to stay?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1031160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Yeah, I definitely think there are\na lot of potential for this industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1034680,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Like, we're seeing\nit growing in China"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1036680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "and just in the last few years\nit has expanded globally."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1039480,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So one thing they've been expanding\nis geographically."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1042320,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "I think the next step, they want...\nsome industry insiders are saying\nthey're looking at African countries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1047280,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and looking\nat even Middle Eastern countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1049720,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So it's basically all over the world\nnow. So I think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1052200,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "there's definitely a big, big,\npotential for them to grow globally."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1056560,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "And also they are\nnot just targeting younger or women."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1060800,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "The demographic has also been growing\nin some places like Japan, Indonesia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1065600,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "there are actually more men watching\nthan women."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1068360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And in China there are\nmore older people start watching."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1071160,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "So things are coming out\nvery different -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1073520,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "all the different type of stories are\ngetting more and more diversified."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1077640,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "At the end of the day, people are\nlike we said, they are so short"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1080440,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "on their attention span\nand this is not going away."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1083760,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And this type of content\nwill keep just getting more popular."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1086200,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I have got\nmy weekend watching sorted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1091600,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "Thank you so much!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1092640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Yeah. Thank you.\nThat is it for today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1094760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "If you've got titles for micro-dramas\nthat you would recommend me watching."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1097840,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "Drop us a line in the comments below."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1099680,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "We're also on WhatsApp and we're\non Instagram @bbcwhatintheworld."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1103840,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart. This is What in\nthe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1106960,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "And we'll see you next time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1109960,
+      "dDurationMs": 280,
+      "segs": [
+        {
+          "utf8": "Right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1110240,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Cameras off. Let's watch another one.\nYeah, please."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1112560,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So this one's called From Fast Food\nto First Lady."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1115800,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "Perfect! Popcorn?"
+        }
+      ]
+    }
+  ]
+}

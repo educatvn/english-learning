@@ -1,0 +1,2183 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 520,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "Hello, it's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2320,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Welcome to this episode of What In\nThe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6320,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "In the studio with me is\nBBC science presenter Caroline Steel."
+        }
+      ]
+    },
+    {
+      "tStartMs": 9600,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Hello. Thank you for having me.\nWelcome back to the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 12520,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "We are not actually in the studio.\nWe are in outer space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And sadly it's full of rubbish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19360,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "Yeah. There are millions and millions\nof pieces of space junk like this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 23840,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "floating around in outer space.\nAnd the more satellites and probes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 27320,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and rockets we send up,\nthe more waste we're leaving behind."
+        }
+      ]
+    },
+    {
+      "tStartMs": 30160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So today, you're going to find out\nwhy space junk is such a problem,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33320,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "and how some people are trying\nto get rid of it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 40040,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So, Caroline, to start us off,\nwhat is space junk?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 43360,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So space junk is basically\nanything human made,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46800,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "that's orbiting Earth,\nthat isn't useful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 49640,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "So it's like retired satellites or bits\nof satellites left over from collisions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 54600,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And in fact, I have two pieces\nof space junk here with me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 58520,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "I'm not going to lie,\nthey kind of look like jacket\npotatoes wrapped in silver foil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62280,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Okay, this one's an apple wrapped\nin silver foil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 64480,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "This one's a lime wrapped\nin silver foil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 66480,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "But if these were pieces of space junk,\nwhich one do you think is more common?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "I would imagine space junk to be\nlike a pretty big piece of metal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 75320,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Like a kind of wing of a satellite\nfloating around ready"
+        }
+      ]
+    },
+    {
+      "tStartMs": 78760,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "to bash into things. So I'm going\nto go with the bigger potato."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Okay. The bigger apple."
+        }
+      ]
+    },
+    {
+      "tStartMs": 83840,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "So there are bits of space junk\nthis size."
+        }
+      ]
+    },
+    {
+      "tStartMs": 86040,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "In fact, there are 30,000 pieces of\nspace junk that are ten centimetres"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90200,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "across or larger.\nThat sounds like a lot, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 94000,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "But actually the correct answer is\nsecret piece number three."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99760,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "This tiny speck, can you see it?\nSo that's basically a trick question."
+        }
+      ]
+    },
+    {
+      "tStartMs": 104000,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "You pulled out a third piece.\nIt was a trick question. I'm sorry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 106800,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "A fake space junk.\nIt's a tiny bit of silver foil,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 109520,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and it's, like,\nsmaller than my baby fingernail."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111760,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Yeah. So if you count the number\nof pieces of space junk that are less"
+        }
+      ]
+    },
+    {
+      "tStartMs": 115720,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "than a centimetre across,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 117760,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "there are hundreds of millions\nof pieces this small."
+        }
+      ]
+    },
+    {
+      "tStartMs": 121440,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "It's hard to know the exact number\nbecause we can't count them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123520,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "because they're so tiny\nbut the majority"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125920,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "of pieces of space junk are smaller\nthan a centimetre across."
+        }
+      ]
+    },
+    {
+      "tStartMs": 128640,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "So we're talking about really,\nreally tiny things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 130840,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "But because they're traveling so fast,\nthey can still do a lot of damage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 134560,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And why is it that they're just\nhanging out there in outer space?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Why don't they come down to earth\nor I don't know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 140600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "why don't they get absorbed\ninto some greater thing?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 143560,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So if we - this is no longer a piece\nof space junk. This is a satellite."
+        }
+      ]
+    },
+    {
+      "tStartMs": 147680,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "If you just throw a satellite up\nfrom Earth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 150800,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "it comes back down\nbecause of gravity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 153360,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "If I threw it across the studio -\nwhich I won't do because I don't want"
+        }
+      ]
+    },
+    {
+      "tStartMs": 157000,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "to damage something - but if I did,\nwhat would happen then?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160280,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "It would go in a kind of arc shape,\nbut it would still come back down\nto the floor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 163920,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Yeah, exactly. So it would be\nkind of traveling forwards,\nbut it would still hit the ground"
+        }
+      ]
+    },
+    {
+      "tStartMs": 167400,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "because the gravity from Earth is\npulling it down to the ground, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 170680,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "Okay. Now I need the Earth\nyou've got hidden to your side there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 175880,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "I've got a nice big globe. All\nI want to do is just spin it around."
+        }
+      ]
+    },
+    {
+      "tStartMs": 180240,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "You can do that at the same time.\nMake it even more chaotic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182800,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Okay, Okay.\nI'm going to spin the globe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 184960,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "So if I stood on top of a mountain\nin, say, okay, now I need to stop it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 189520,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Let's say, where am I?\nI'm in northern Canada."
+        }
+      ]
+    },
+    {
+      "tStartMs": 192680,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "I'm on the top\nof a mountain in northern Canada."
+        }
+      ]
+    },
+    {
+      "tStartMs": 194880,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "It's ten times higher than Everest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 197040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And I throw this with, like,\nso much speed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I'm super strong.\nIt's a super good throw."
+        }
+      ]
+    },
+    {
+      "tStartMs": 203000,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "This satellite will travel forwards\nwith loads of speed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 206080,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "It will still be being pulled\nback down towards Earth"
+        }
+      ]
+    },
+    {
+      "tStartMs": 208800,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "but because it's going so fast\nand it started so high,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211960,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "it never actually lands on earth\nbecause of the curve of the earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 215120,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "It just kind of keeps falling\nin a circle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 217720,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And actually\nI would need to watch out because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219760,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "after one orbit,\nthis satellite would hit me"
+        }
+      ]
+    },
+    {
+      "tStartMs": 221880,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "in the back of the head because\nit would end up in the same place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 224200,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So that's why it\ndoesn't sort of fling off into space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 227680,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "I'm going to put this down, my arm\nis aching under the weight of earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 231560,
+      "dDurationMs": 1120,
+      "segs": [
+        {
+          "utf8": "And why is it a problem?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232680,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "So we've got, you said, 30,000 pieces\nthat are smaller than ten centimetres,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238120,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "but actually millions of bits of space\njunk just hanging out in outer space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 243640,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "What's wrong with that?\nSo the worry is collisions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 247040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "because as well as all the space junk\nwe have orbiting Earth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "there are some really\nimportant satellites up there, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So we have satellites that we use\nfor GPS navigation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 255240,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "We have satellites we use\nfor communication, satellites we use"
+        }
+      ]
+    },
+    {
+      "tStartMs": 258640,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "for monitoring the Earth, predicting\nclimate change, forecasting weather."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "You know, our lives are completely\ndependent on these satellites,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265560,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and there is a risk of them colliding\nwith bits of space junk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 268880,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "You might think something as tiny\nas this can't really affect a\nspacecraft in like a concerning way,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275040,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "but these are traveling\nat thousands of kilometers an hour,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 277520,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "some faster than a bullet,\nso that could cause serious damage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280560,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And talking of of satellites, there\nare loads and loads of satellites."
+        }
+      ]
+    },
+    {
+      "tStartMs": 283520,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "It used to be just governments\nthat put them up there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 285520,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "but now companies do it too.\nSpaceX, Amazon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 288680,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Is that making this problem worse?\nYes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 291000,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "We're putting more\nand more satellites into orbit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 293960,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "Some estimates think that we, might\nby 2030, have 60,000 satellites in orbit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 299200,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "That's at least ten times more\nthan we have now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 301760,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And more satellites means more\ncollisions, means more space junk,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 306200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "means more retired satellites,\nbasically more things we need\nto be worrying about."
+        }
+      ]
+    },
+    {
+      "tStartMs": 309600,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "This kind of conjured up\nall these pictures of, like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311680,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "plastic bags in the oceans,\nall of our landfill."
+        }
+      ]
+    },
+    {
+      "tStartMs": 315600,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "You know, we have filled the earth\nwith rubbish"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and now we're filling space\nwith rubbish, too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 320320,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "It's kind of -\nIt's sad, isn't it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Is there a tipping point,\nlike is there - will there be a time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 326040,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "when there's just no more space\nin space for rubbish?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 328720,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "Yeah. So there is sort of a theory\nthat there is a point where there is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 333920,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "so much space junk, that\na collision causes lots of debris,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 338640,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and that goes on to collide\nwith three more things"
+        }
+      ]
+    },
+    {
+      "tStartMs": 341080,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and causes even more debris,\nwhich goes on to collide"
+        }
+      ]
+    },
+    {
+      "tStartMs": 343320,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "with ten more things and basically\nthe whole of all of our satellites"
+        }
+      ]
+    },
+    {
+      "tStartMs": 348000,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "end up involved in a collision\nand that could be really problematic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 351000,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "That's called Kessler syndrome. So there\nis a point where that would happen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 354480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "We don't know exactly where that is\nor how close we are to that yet,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 357440,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "but that's obviously\nsomething we need to avoid."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359720,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "Caroline. This\ndoes actually happen, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 361360,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Bits of space junk that are big enough,\nthey're made of the right material,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364800,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "can actually come to Earth.\nThat's what happened in Kenya."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "People heard what they thought was\na gunshot, ran outside,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 370360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "and there was\nthis huge metal ring glowing red"
+        }
+      ]
+    },
+    {
+      "tStartMs": 372520,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "because it was so hot\nfrom entering the atmosphere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 375080,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And that was 2.5m wide\nand weighed half a ton."
+        }
+      ]
+    },
+    {
+      "tStartMs": 378360,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "That's pretty big and had a pretty\nbig effect on residents, even if just"
+        }
+      ]
+    },
+    {
+      "tStartMs": 383200,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "from the point of view of, oh my\ngosh, that could have been my house."
+        }
+      ]
+    },
+    {
+      "tStartMs": 386440,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "So it does, it does happen,\nbut not very often for a few reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391240,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "One, because when space junk enters\nour atmosphere, mostly it burns up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 395400,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "If it doesn't burn up,\nit's most likely to land in the ocean"
+        }
+      ]
+    },
+    {
+      "tStartMs": 398960,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "because our oceans cover 70% of the\nglobe and that would kind of be okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 403920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "I mean, un-ideal, but it's not going to\nland on someone's home or harm someone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 408160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Even if it does land on land,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410440,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "humans actually only occupy still\nquite a small surface area of the land,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 414640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "so it's still unlikely to land\nin a human settlement."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417680,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "But it could and even if it does land\nin a human settlement,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 420680,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "the odds of it not landing in a field\nbut instead on someone's home"
+        }
+      ]
+    },
+    {
+      "tStartMs": 423600,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "or someone else is slim."
+        }
+      ]
+    },
+    {
+      "tStartMs": 425880,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "What do you do you think is\nthe worst case scenario here?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 428520,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So like if we fill space with stuff\nand not much of it is coming down,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 433400,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "it's hanging out in orbit,\nas we've said,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437760,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "will space become unusable?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 439000,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Will we not be able\nto put more stuff up in space,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441960,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "like will that affect all\nof our satellites,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444280,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "our communications,\ninternet, weather, everything else?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 447080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Yeah, I mean, I guess the worst\ncase scenario is Kessler syndrome,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 450120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "where we end up with one explosion\nthat leads to more, that leads to more,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 453440,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "that leads to more, and basically\nrenders so much stuff useless."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457200,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "Then we would have\nto change our focus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "We'd have to stop launching\nmore satellites"
+        }
+      ]
+    },
+    {
+      "tStartMs": 461520,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and instead actually address\nthe problem and clean up space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 465440,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "But hopefully we don't get as far\nas that and we sort it out sooner."
+        }
+      ]
+    },
+    {
+      "tStartMs": 469160,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So how do we get rid\nof all this space junk?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471280,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Here is Wanjiku Chebet Kanjumba."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473360,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "She's a PhD student from Kenya\nstudying aerospace engineering."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477600,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I'm aware of some technologies\nthat have been tested out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 480440,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "and could be feasible\nin the near future,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 484800,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "but one active -\na project that I believe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 489000,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "that's underway\nwith the European Space Agency"
+        }
+      ]
+    },
+    {
+      "tStartMs": 491680,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "is the Clear Space One mission that's\nset to happen next year in 2026,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 497160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "where they will actively remove\na piece of debris."
+        }
+      ]
+    },
+    {
+      "tStartMs": 500160,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "I am also aware of some technologies\nthat are being tested out,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 503840,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "robotic arms and nets,\nelectrodynamic tethers and lasers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 509560,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "to nudge the debris into, like,\na different direction. But,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 515520,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "you know, those are still in the\nexperimental stages as far as I'm aware."
+        }
+      ]
+    },
+    {
+      "tStartMs": 519920,
+      "dDurationMs": 7800,
+      "segs": [
+        {
+          "utf8": "But I have some optimism\nthat we will find very concrete steps"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527720,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "on how to get rid of any space debris\nthat's already out there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 530760,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "and also prevent any new space debris\nfrom being created."
+        }
+      ]
+    },
+    {
+      "tStartMs": 536360,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "Caroline, Wanjiku mentioned lasers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 538280,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "How can they be used to get rid\nof space junk?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 541160,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So lasers might end up\nbeing really important"
+        }
+      ]
+    },
+    {
+      "tStartMs": 543400,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "for space junk that isn't big enough\nto be collected by a giant claw"
+        }
+      ]
+    },
+    {
+      "tStartMs": 548800,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "or by a giant net\nbecause it's too small."
+        }
+      ]
+    },
+    {
+      "tStartMs": 551920,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So lasers could be used\nto sort of nudge -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 554160,
+      "dDurationMs": 680,
+      "segs": [
+        {
+          "utf8": "Like this little be here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 554840,
+      "dDurationMs": 520,
+      "segs": [
+        {
+          "utf8": "Exactly like this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 555360,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "This teeny, weeny bit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 556720,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "So if you had that tiny bit\nof space junk above you or below you,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 561760,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "so lasers could be used from Earth\nor from space,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 564520,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "you can use a laser to sort of nudge\nit, change the direction it's going"
+        }
+      ]
+    },
+    {
+      "tStartMs": 568560,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "so that it eventually spirals towards\nearth and burns up in our atmosphere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 572400,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "But the difficult thing is, legally,\nyou're not allowed to interfere"
+        }
+      ]
+    },
+    {
+      "tStartMs": 576360,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "with other people's space junk yet"
+        }
+      ]
+    },
+    {
+      "tStartMs": 579520,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "- other people's satellites\nand therefore space junk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 583080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "There's a legal territorial battle\ngoing on over space junk?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Yes. You're not allowed to, say,\nuse a laser"
+        }
+      ]
+    },
+    {
+      "tStartMs": 588480,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "on someone else's bit of satellite,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 590560,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "because it is ultimately a piece\nof a satellite,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 592800,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "so that would need to be ironed out\nas well before we could use lasers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 596920,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Are companies, governments, the\npeople putting all of this stuff out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 600520,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "into space, are they doing anything\nabout it to try and get rid of it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 603680,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Yeah. So there is a lot of research\ngoing on into different solutions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607920,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "So there's one company that's looking at\nlaunching satellites with a giant claw."
+        }
+      ]
+    },
+    {
+      "tStartMs": 612480,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Another company that's looking at\nlaunching satellites with a giant net,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 615280,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "each to catch a big piece of space\njunk and bring it back down to Earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618960,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "But at the moment, there's no legal\nobligation to clear up after yourself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 623600,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "There are sort of groups that are\ncampaigning and encouraging companies"
+        }
+      ]
+    },
+    {
+      "tStartMs": 628560,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and governments to think about not just\nthe life of their satellite in orbit,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 632480,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "but also about the death\nor end of life of their satellite."
+        }
+      ]
+    },
+    {
+      "tStartMs": 636120,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So one thing in the future\nthat could feasibly happen is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 638640,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "when you launch a satellite,\nyou need a plan for how you're going\nto get it back out of space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 642880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So that might be having a bit of fuel\non board so that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 646040,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "at the end of its life,\nyou can sort of blast it back down"
+        }
+      ]
+    },
+    {
+      "tStartMs": 648640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "towards Earth\nso it burns up in the atmosphere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 651520,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "That would kind of fix a problem if\nwe sort of stopped launching rockets"
+        }
+      ]
+    },
+    {
+      "tStartMs": 655920,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "with satellites\nthat just end up endlessly orbiting,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 658720,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "if we started being accountable\nand taking our junk down."
+        }
+      ]
+    },
+    {
+      "tStartMs": 664800,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Is it something to do with\nwhat these satellites are made of?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 667160,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Because it's got to be metal, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668760,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "It's got to be the be\nthe most durable thing out there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 672600,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "I've been reading about these\nsustainable satellites, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 675760,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "would they be made of something else?\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677880,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So most satellites are made of metal\nat the moment for a couple of reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 681360,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "One, it's really lightweight,\nso it's kind of cheaper to launch."
+        }
+      ]
+    },
+    {
+      "tStartMs": 684120,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "You don't need as much fuel\nand because it's really strong,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 687240,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "but it's not super sustainable in\nthe sense that we can't replace it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691360,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "You know, there is\na limited amount of metal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 693200,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And also when it comes back\nthrough the atmosphere,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 695360,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "there is now evidence that\nas it sort of vaporises and burns up,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 699120,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "it's leaving these tiny particles\nof metal in our atmosphere,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 702160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and we don't know\nwhat that could cause,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 704880,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "what that means for the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 706920,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So there is another option that Japanese\nscientists have been looking at."
+        }
+      ]
+    },
+    {
+      "tStartMs": 710680,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Last year,\na wooden satellite was launched."
+        }
+      ]
+    },
+    {
+      "tStartMs": 714240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So it's sort of a small box made\nof wood, and that could be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 716880,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "a sustainable option for the future\nbecause we can plant more trees."
+        }
+      ]
+    },
+    {
+      "tStartMs": 720200,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And also as it comes back through the\natmosphere towards Earth, it can burn"
+        }
+      ]
+    },
+    {
+      "tStartMs": 723480,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "in a sort of clean way without releasing\nthese tiny particles of metal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 727760,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "But the question is,\nis it strong enough?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 730360,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "can it withstand the heat well enough?\nYou know, how will it last in space?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 733880,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So at the moment, it's sort of\nbeing assessed for six months."
+        }
+      ]
+    },
+    {
+      "tStartMs": 736360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "We're in that six months now,\nso we'll soon know whether"
+        }
+      ]
+    },
+    {
+      "tStartMs": 739160,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "or not wood is a feasible material to\nmake satellites out of in the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 743160,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "It does sound like lots of people\nare trying innovative solutions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 746080,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "They're trying to solve this problem\nof space junk,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 748320,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "because I would hate to see what we've\ndone on Earth be replicated in space"
+        }
+      ]
+    },
+    {
+      "tStartMs": 752760,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and it just to be absolutely full\nof our rubbish."
+        }
+      ]
+    },
+    {
+      "tStartMs": 755280,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Yeah, I think there is a sort\nof a feeling of 'this is our problem,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 758640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "it's getting worse\nand we need to fix it'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 761720,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And there is more pressure\non governments"
+        }
+      ]
+    },
+    {
+      "tStartMs": 763760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and companies\nto think about this kind of stuff."
+        }
+      ]
+    },
+    {
+      "tStartMs": 766240,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "So I'm hoping that in ten years we both\nsee more satellites that are useful"
+        }
+      ]
+    },
+    {
+      "tStartMs": 771040,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "for humans, but also less space junk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 774040,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Caroline, thank you so much\nfor joining me in the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 776240,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Thanks for having me.\nAnd thank you for watching,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 778800,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "for listening,\nfor joining us wherever you are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 780800,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "This is What in the world\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 783200,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and we'll be back\nwith another episode soon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 785840,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "See you then."
+        }
+      ]
+    }
+  ]
+}

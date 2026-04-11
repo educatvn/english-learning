@@ -1,0 +1,2003 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 160,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Are you ready?</font>\n<font color=\"#FFFFFF\">Welcome to What in the world</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 3480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">WrestleMania 2025 edition.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 6440,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">I've got a special guest</font>\n<font color=\"#FFFFFF\">for you today,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9040,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">and I'm gonna bring her out here</font>\n<font color=\"#FFFFFF\">right now.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 11720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Come on in Lola</font>\n<font color=\"#FFFFFF\">'The Loyal'</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 18840,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">Nice to meet you.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 23400,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Oh my gosh, you've even dressed</font>\n<font color=\"#FFFFFF\">the part. You brought your props here.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 27720,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Thank you.</font>\n<font color=\"#FFFFFF\">You're like the perfect guest.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 29840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">In case you're wondering what's going</font>\n<font color=\"#FFFFFF\">on here. Which I don't blame you for,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33080,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">by the way.</font>\n<font color=\"#FFFFFF\">We are talking WWE and UFC</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">and how Donald Trump fits</font>\n<font color=\"#FFFFFF\">into both those worlds.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 40320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">And I'm joined by</font>\n<font color=\"#FFFFFF\">BBC reporter Lola Schroer.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 43680,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">I know you've done</font>\n<font color=\"#FFFFFF\">some really great research</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 45880,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">into this area, so let's get going.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49200,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Can we just pause because I think</font>\n<font color=\"#FFFFFF\">I want to get changed.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 51720,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">For the actual interview. Is that okay?</font>\n<font color=\"#FFFFFF\">Yeah.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 53800,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">I mean, I think we gotta keep in</font>\n<font color=\"#FFFFFF\">with a theme, though.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 56320,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">I think you've got to do it</font>\n<font color=\"#FFFFFF\">Undertaker style.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 58760,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Fine with me.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 64880,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Okay, so I need</font>\n<font color=\"#FFFFFF\">you to help me out here. What is WWE?</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68960,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So WWE stands</font>\n<font color=\"#00FFFF\">for World Wrestling Entertainment.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 72360,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And these are wrestling matches</font>\n<font color=\"#00FFFF\">which are scripted and choreographed.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 75600,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So they already know</font>\n<font color=\"#00FFFF\">who's going to win.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 78280,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Now they are governed though</font>\n<font color=\"#00FFFF\">by a set of rules.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 80560,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So the most common types of matches</font>\n<font color=\"#00FFFF\">are singles, tag team and triple threat.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 84520,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And a wrestler wins by pinning their</font>\n<font color=\"#00FFFF\">opponent to the mat for a three count.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 88040,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\"> So one, two, three.</font>\n<font color=\"#00FFFF\">You know when you see those moments</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 91240,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">like on TikTok on social media.</font>\n<font color=\"#FFFFFF\">You're out.</font>\n<font color=\"#00FFFF\">Yeah exactly, you're out.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 93960,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And that kind of forces your opponent</font>\n<font color=\"#00FFFF\">to submit.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 97160,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Tables and chairs are flying around.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 99480,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">People are going through tables</font>\n<font color=\"#00FFFF\">and chairs.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 100960,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">You've got rappers in the crowd,</font>\n<font color=\"#00FFFF\">great music and also</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 103240,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Yeah it's part of the theatrics.</font>\n<font color=\"#00FFFF\">It is, it's part of the theatrics.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 105920,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And it's been, it's now been something</font>\n<font color=\"#00FFFF\">which has been on TV</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 109160,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">for so long that there are superstars</font>\n<font color=\"#00FFFF\">in this world</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 112200,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">like Dwayne 'The Rock' Johnson,</font>\n<font color=\"#00FFFF\">like Triple H, like John Cena.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 115760,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">You know, those people have become</font>\n<font color=\"#00FFFF\">movie stars as well as WWE stars.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 120480,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">But the most important thing to remember</font>\n<font color=\"#00FFFF\">with WWE is that it is scripted.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 124960,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So whilst yes they are fighting</font>\n<font color=\"#00FFFF\">and you do see cuts and blood</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127840,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and it is actually, you know,</font>\n<font color=\"#00FFFF\">they are putting themselves</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130080,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">through some real physical activity,</font>\n<font color=\"#00FFFF\">they know who is going to win.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 134200,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Tell me about UFC then.</font>\n<font color=\"#00FFFF\">Okay, so UFC is separate from WWE</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">whilst they are owned by</font>\n<font color=\"#00FFFF\">the same parent company,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 141040,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">the UFC is focused</font>\n<font color=\"#00FFFF\">on mixed martial arts,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 144200,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">so it's a promotion company</font>\n<font color=\"#00FFFF\">around mixed martial arts.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 147480,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Now there are other promotion companies,</font>\n<font color=\"#00FFFF\">but arguably it is the biggest one.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 151160,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Now its president</font>\n<font color=\"#00FFFF\">and CEO is called Dana White.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154760,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And now you might have heard of him,</font>\n<font color=\"#00FFFF\">especially in</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156760,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">the last few months</font>\n<font color=\"#00FFFF\">in the US election.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160360,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">He's very pally with Donald Trump.</font>\n<font color=\"#00FFFF\">He often comes out in support of him.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 165200,
+      "dDurationMs": 6360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">So WWE and UFC are</font>\n<font color=\"#FFFFFF\">so insanely popular at the moment.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 171560,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Like, why do you think that is?</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 173320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Well, they're only growing</font>\n<font color=\"#00FFFF\">and growing in popularity,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 175840,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">but the whole point of like WWE</font>\n<font color=\"#00FFFF\">or UFC is that you are in a ring</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 180160,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">or an octagon</font>\n<font color=\"#00FFFF\">with one other person, and</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 183040,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">at that point it is that fighter's</font>\n<font color=\"#00FFFF\">chance to win and prove themselves.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187960,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">If you fight someone in the</font>\n<font color=\"#00FFFF\">street, you're going to get in trouble.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 191760,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">But you can go and watch a fight and</font>\n<font color=\"#00FFFF\">you can go and watch people, you know,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197040,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">exercise that style of living, legally</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 201680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and be involved and be with loads of</font>\n<font color=\"#00FFFF\">people who are also into that thing.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205360,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And so when I've spoken to UFC</font>\n<font color=\"#00FFFF\">or WWE fans, that's what they've said they like.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 208240,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">They like the opportunity</font>\n<font color=\"#00FFFF\">to go and watch fighting happen.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 212320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">because, you know, they can't</font>\n<font color=\"#00FFFF\">actually do it in their real life.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 215560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And one of those people who I spoke</font>\n<font color=\"#00FFFF\">to is Andrew.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217840,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So let's have a look</font>\n<font color=\"#00FFFF\">at what he had to say.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 220080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">So I've been watching the UFC</font>\n<font color=\"#00FF00\">for around four years now,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 222680,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">and prior to that I was interested</font>\n<font color=\"#00FF00\">in boxing, which I still am.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 225960,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">And boxing's kind of what got</font>\n<font color=\"#00FF00\">me interested in the UFC.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228720,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">I enjoy watching MMA and combat</font>\n<font color=\"#00FF00\">sports in general because I see it</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232000,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">as like an absolute sport. You have</font>\n<font color=\"#00FF00\">to use every tool at your disposal.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235200,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">You don't have a team and</font>\n<font color=\"#00FF00\">the stakes are really, really high,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238280,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">which makes me respect</font>\n<font color=\"#00FF00\">the athletes that compete</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 240960,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">and makes it enjoyable</font>\n<font color=\"#00FF00\">to watch as well.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 243520,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">And we've seen incoming President Donald</font>\n<font color=\"#FFFFFF\">Trump at these matches, at these fights.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249000,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">So how does he fit into this world?</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 252160,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">He has been friends with Dana White</font>\n<font color=\"#00FFFF\">for over two decades.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 258240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And likewise with the McMahons</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 260760,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">he's been friends with them also</font>\n<font color=\"#00FFFF\">for over two decades,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 264240,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and he's helped both of these companies</font>\n<font color=\"#00FFFF\">actually put on live events.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So back in, I believe it was</font>\n<font color=\"#00FFFF\">the early 2000s, he put on one</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 272400,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">of the first ever UFC fights</font>\n<font color=\"#00FFFF\">at his Taj Mahal Casino in Las Vegas.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 277840,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">He also took part in the battle of</font>\n<font color=\"#00FFFF\">the billionaires for WWE in the 2000s.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 282760,
+      "dDurationMs": 6360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So this man is very much,</font>\n<font color=\"#00FFFF\">you know, embedded in these worlds.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289120,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">It's not only</font>\n<font color=\"#00FFFF\">because he's friends with them,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 292320,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">but when you watch Donald Trump talk</font>\n<font color=\"#00FFFF\">about WWE or UFC,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 295880,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">he actually seems really passionate</font>\n<font color=\"#00FFFF\">about these worlds.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 299880,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">I do genuinely believe he is a fan</font>\n<font color=\"#00FFFF\">of these sports or these events.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 305560,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And he's actually used a lot</font>\n<font color=\"#00FFFF\">of these kinds of events,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308200,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">especially the UFC ones, for</font>\n<font color=\"#00FFFF\">major moments within the US election.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 312640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">The UFC had a bad reputation.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 314760,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">It was on the fringe</font>\n<font color=\"#00FFFF\">of the sporting world.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">But Donald Trump took a chance</font>\n<font color=\"#00FFFF\">on Dana White,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 321040,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and Dana White took a chance on</font>\n<font color=\"#00FFFF\">Donald Trump because Donald Trump's</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Taj Mahal Casino also</font>\n<font color=\"#00FFFF\">wasn't doing very well at the time,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 327320,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">so they helped each other out</font>\n<font color=\"#00FFFF\">when they both needed to.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 330640,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Trump was trying</font>\n<font color=\"#00FFFF\">to target young male votes</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 333840,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and arguably going to a UFC fight</font>\n<font color=\"#00FFFF\">or to a WWE event.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 340320,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">You see a lot of young men</font>\n<font color=\"#00FFFF\">in the crowd.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 343360,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And so if he's turning up</font>\n<font color=\"#00FFFF\">at these fights or he's turning up</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 346080,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">at these events, those people</font>\n<font color=\"#00FFFF\">are going to be watching him</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 350880,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and they're going to be looking</font>\n<font color=\"#00FFFF\">at him and the way that he acts.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 353120,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So him coming out</font>\n<font color=\"#00FFFF\">like a fighter doing walkouts</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 355840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">with a very kind</font>\n<font color=\"#00FFFF\">of fighter-esque style.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 358480,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">There's a bit of trash talking </font>\n<font color=\"#FFFFFF\">involved in this as well. </font><font color=\"#00FFFF\">Exactly. Exactly.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 361320,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">I mean, you know, the world</font>\n<font color=\"#FFFFFF\">of politics has trash talk</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364640,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Yeah, it does.</font>\n<font color=\"#FFFFFF\">and so does wrestling.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 365920,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Exactly. But I do think, you know,</font>\n<font color=\"#00FFFF\">he very much embodies,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 370440,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">I think when he's doing UFC kind of</font>\n<font color=\"#00FFFF\">walk out, the kind of fighter image.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 376440,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">So you mentioned the McMahons.</font>\n<font color=\"#FFFFFF\">They're a really powerful part</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 379800,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">of the story, a powerful family.</font>\n<font color=\"#FFFFFF\">Tell me their story,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 383480,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">and I guess the controversies.</font>\n<font color=\"#FFFFFF\">There's controversy with this as well.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 386960,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Yeah. Look, Vince McMahon does have</font>\n<font color=\"#00FFFF\">numerous allegations</font>\n<font color=\"#00FFFF\">of sexual harassment and rape.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 392560,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">He strongly denies any</font>\n<font color=\"#00FFFF\">of these allegations,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 396120,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">but he is no longer playing as much</font>\n<font color=\"#00FFFF\">of a prominent role in the WWE world.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 401800,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Alongside Vince McMahon was his wife,</font>\n<font color=\"#00FFFF\">who also founded WWE with him.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 406920,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Now she's not</font>\n<font color=\"#00FFFF\">really involved as much anymore,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 409400,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">but she is tipped</font>\n<font color=\"#00FFFF\">to be education secretary</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 411960,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">for Donald Trump's second presidency.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 414080,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Trump first met Vince in 1980s</font>\n<font color=\"#00FFFF\">New York when they were both, you know,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 419760,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">incredibly successful businessmen.</font>\n<font color=\"#00FFFF\">He's had several</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 423320,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">as I've said before,</font>\n<font color=\"#00FFFF\">WWE cameos over the years.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426120,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">He's even shaved Vince McMahon's hair</font>\n<font color=\"#00FFFF\">before, um,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429360,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">in the battle</font>\n<font color=\"#00FFFF\">of the billionaires, so.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 431640,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Look, these aren't friendships</font>\n<font color=\"#00FFFF\">that are overnight</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 434320,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and that are kind of out of nowhere.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437240,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">These are long term,</font>\n<font color=\"#00FFFF\">loyal friendships.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 439800,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Yeah. You really get a sense of how</font>\n<font color=\"#FFFFFF\">Trump helps both these worlds, WWE</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444960,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">and UFC and</font>\n<font color=\"#FFFFFF\">the other way round as well.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 447480,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">These two worlds benefit from Trump.</font>\n<font color=\"#00FFFF\">They do benefit from Trump.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 451320,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And I think an important part</font>\n<font color=\"#00FFFF\">of this as well is</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 456120,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">the streaming and YouTube community.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 458240,
+      "dDurationMs": 7920,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So figures like the Nelk boys, figures like</font>\n<font color=\"#00FFFF\">Adin Ross, Logan Paul, Joe Rogan.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 466160,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Now they are all very much part</font>\n<font color=\"#00FFFF\">of Dana White's circle.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 470680,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And to remind our</font>\n<font color=\"#00FFFF\">to remind the audience,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 472680,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Dana White is the president and CEO</font>\n<font color=\"#00FFFF\">of the UFC.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 478000,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And Dana White</font>\n<font color=\"#00FFFF\">has really helped Donald Trump,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 481600,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">create strong relationships</font>\n<font color=\"#00FFFF\">with these streamers.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 485040,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And he has helped Trump get</font>\n<font color=\"#00FFFF\">onto these podcasts,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 489360,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">which got millions and millions</font>\n<font color=\"#00FFFF\">of views over the US election.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493040,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And the target here again,</font>\n<font color=\"#00FFFF\">the target audience is young men.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 497480,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Just like UFC fights,</font>\n<font color=\"#00FFFF\">just like the WWE world.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502280,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">I do think that Trump's influence</font>\n<font color=\"#00FF00\">on like, pop culture</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506120,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">and his ability to infiltrate</font>\n<font color=\"#00FF00\">into kind of the Joe Rogan sphere,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 511080,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">as it's commonly referred to,</font>\n<font color=\"#00FF00\">did help him</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514720,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">with the youth vote,</font>\n<font color=\"#00FF00\">specifically the youth male vote.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 517720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">I don't know if UFC</font>\n<font color=\"#00FF00\">events specifically did.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 521040,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">I don't think that,</font>\n<font color=\"#00FF00\">you know, there does seem to be a lot</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 523880,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">of overlap between Trump supporters</font>\n<font color=\"#00FF00\">and UFC fans,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 526240,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">but I think that he's just catering</font>\n<font color=\"#00FF00\">to a crowd</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 529320,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">that already likes him for the most</font>\n<font color=\"#00FF00\">part when he goes to those events.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 532800,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">So who else have you been talking to</font>\n<font color=\"#FFFFFF\">about UFC?</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 535560,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Talking about fighting,</font>\n<font color=\"#00FFFF\">there is a woman on TikTok</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 539480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">who is a UFC content creator</font>\n<font color=\"#00FFFF\">and she's called Kennedy Louise.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 542520,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">She made a really good point</font>\n<font color=\"#00FFFF\">about individualism within fighting.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 546360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Frankly, I don't think</font>\n<font color=\"#FFFFFF\">it's possible for the UFC</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 548520,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">and politics to not mix a little bit.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 550960,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">There's a few reasons</font>\n<font color=\"#FFFFFF\">why the UFC tends to lean right.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 554040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">First, being fighters focus</font>\n<font color=\"#FFFFFF\">on individualism, which is</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 556800,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">a more right trait over collectivism.</font>\n<font color=\"#FFFFFF\">Fighting is not a team sport.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 560600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">You enter into the ring on your own</font>\n<font color=\"#FFFFFF\">and you're also a contractor,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 563600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">which means that you are solely</font>\n<font color=\"#FFFFFF\">responsible for your own success.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 566840,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">MMA is also all about </font>\n<font color=\"#FFFFFF\">selling pay-per-view buys.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 569000,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">It's entertainment.</font>\n<font color=\"#FFFFFF\">UFC encourages free speech</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 571680,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">because the more combative</font>\n<font color=\"#FFFFFF\">or non-PC thing a fighter may say</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 575040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">leading up to the fight, it's going</font>\n<font color=\"#FFFFFF\">to sell more pay-per-views.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 577600,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Because of that,</font>\n<font color=\"#FFFFFF\">it tends to attract viewers who feel</font>\n<font color=\"#FFFFFF\">similarly about freedom of speech.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 582360,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So UFC says it's apolitical and lots of</font>\n<font color=\"#00FFFF\">fans want it to stay that way as well.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 587200,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">For me, seeing the UFC go from being</font>\n<font color=\"#FFFF00\">a counterculture sports organisation</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 590960,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">to now being in the global mainstream,</font>\n<font color=\"#FFFF00\">makes me very happy to say culturally</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 594760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">but politically, currently and</font>\n<font color=\"#FFFF00\">the future, I would just like to see</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 597840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">the UFC not be used as a tool</font>\n<font color=\"#FFFF00\">for any political candidate,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 601080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">regardless of party,</font>\n<font color=\"#FFFF00\">or a campaign trail.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 604120,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">But in terms</font>\n<font color=\"#FFFF00\">of the UFC being apolitical, I think</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 607160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">it's naive to think that any form of</font>\n<font color=\"#FFFF00\">entertainment is inherently apolitical.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 610680,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">But I'd rather would like the UFC</font>\n<font color=\"#FFFF00\">to just emphasize it less</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 614000,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFF00\">in their broadcast to not alienate</font>\n<font color=\"#FFFF00\">fighters and fans with differing views.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 619160,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">So this is really smart</font>\n<font color=\"#FFFFFF\">on Donald Trump's behalf.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 622280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Like he was able to tap</font>\n<font color=\"#FFFFFF\">into an electorate</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 624840,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">that he really needed to come</font>\n<font color=\"#FFFFFF\">to the polls, right?</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 627040,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Yeah, I think he did tap</font>\n<font color=\"#00FFFF\">into that electorate.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 629840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and for some people,</font>\n<font color=\"#00FFFF\">they absolutely loved it.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 633720,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">I've always watched UFC at</font>\n<font color=\"#00FF00\">a different sports bar.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 636400,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">And let me tell you, it goes crazy. Every</font>\n<font color=\"#00FF00\">time he attends and does a walkout</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 640760,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">people go nuts. You know,</font>\n<font color=\"#00FF00\">you start hearing USA chants.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 645320,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">It gets very patriotic and awesome.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 647280,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">And so it's a thing</font>\n<font color=\"#00FF00\">you have to see yourself,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 649440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FF00\">but it goes crazy</font>\n<font color=\"#00FF00\">whenever he shows up.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 652600,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">So what about the other side</font>\n<font color=\"#FFFFFF\">to all of this?</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 654960,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">We've heard</font>\n<font color=\"#FFFFFF\">how Donald Trump might have benefited</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 659000,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">and, you know,</font>\n<font color=\"#FFFFFF\">in the white House now as well.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 661920,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">What about the other side,</font>\n<font color=\"#FFFFFF\">WWE and UFC?</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 664520,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Look, let's focus again on Dana White</font>\n<font color=\"#00FFFF\">because I really do think</font>\n<font color=\"#00FFFF\">he's a key player here.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668760,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">He has entwined sports,</font>\n<font color=\"#00FFFF\">culture and politics, and</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 675160,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">I don't think that is something which</font>\n<font color=\"#00FFFF\">people can kind of like just oversee.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 681480,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">A lot of the time</font>\n<font color=\"#00FFFF\">within the sports world,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 683760,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">people are afraid to kind of talk</font>\n<font color=\"#00FFFF\">about politics or take a stance.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 688600,
+      "dDurationMs": 7480,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">Dana White, when he first thought</font>\n<font color=\"#00FFFF\">about going to speak at the RNC in 2016,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 696080,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">he was told by lots of people,</font>\n<font color=\"#00FFFF\">don't do it because UFC is apolitical</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 700920,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and maybe some</font>\n<font color=\"#00FFFF\">of your fan base might, you know,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 703640,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">like Donald Trump,</font>\n<font color=\"#00FFFF\">but maybe some won't.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 706880,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">So you don't want to take a stance.</font>\n<font color=\"#00FFFF\">He did his own thing,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 710840,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and he went and supported his friend</font>\n<font color=\"#00FFFF\">of over two decades</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 715240,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and spoke at the RNC about why he had</font>\n<font color=\"#00FFFF\">such a good relationship with Trump.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 721280,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">What happened? UFC only grew and grew</font>\n<font color=\"#00FFFF\">and grew. There was no blowback.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 726240,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">And I think that shows</font>\n<font color=\"#00FFFF\">that Dana White knows his fan base</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 729600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">and knows the people that watch UFC</font>\n<font color=\"#00FFFF\">better than anyone else.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 733000,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">It can alienate people</font>\n<font color=\"#00FFFF\">and it has alienated people.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 737520,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">But those companies,</font>\n<font color=\"#00FFFF\">they're doing well.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 741600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">If you're into MMA</font>\n<font color=\"#00FFFF\">or you're into watching wrestling</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 745560,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">in a really entertaining kind of form,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 748400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "<font color=\"#00FFFF\">there isn't really</font>\n<font color=\"#00FFFF\">anywhere else to go.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 751560,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">It sounds like a crazy world,</font>\n<font color=\"#FFFFFF\">and we really got a sense</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 754880,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">of how they're all linked and</font>\n<font color=\"#FFFFFF\">will continue to be linked as well.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 759040,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">We don't really see this relationship</font>\n<font color=\"#FFFFFF\">kind of cutting at any time soon.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 763560,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">They all depend on each other.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 765440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Thank you so much for</font>\n<font color=\"#FFFFFF\">for coming on the podcast and for,</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 768880,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">for all the research that you've</font>\n<font color=\"#FFFFFF\">done as well and who you've spoken to.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 774640,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">My producer said, I have to say</font>\n<font color=\"#FFFFFF\">we body slammed that episode.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 778000,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Apparently we body slammed</font>\n<font color=\"#FFFFFF\">that episode and I love that for us.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 782040,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">Thank you so much for watching.</font>\n<font color=\"#FFFFFF\">I'm Iqra Farooq.</font>"
+        }
+      ]
+    },
+    {
+      "tStartMs": 785560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "<font color=\"#FFFFFF\">This is What in the World</font>\n<font color=\"#FFFFFF\">from the BBC World Service.</font>"
+        }
+      ]
+    }
+  ]
+}

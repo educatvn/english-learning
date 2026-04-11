@@ -1,0 +1,1399 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 880,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Sometimes you do not sleep."
+    } ]
+  }, {
+    "tStartMs": 2280,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "You prepare for the tests,\nworry about how you will pass,"
+    } ]
+  }, {
+    "tStartMs": 5400,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and then the shelling\nof your hometown begins,"
+    } ]
+  }, {
+    "tStartMs": 7880,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "where your parents live\nand you no longer worry about exams."
+    } ]
+  }, {
+    "tStartMs": 11440,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Russia now occupies parts\nof eastern Ukraine,"
+    } ]
+  }, {
+    "tStartMs": 14440,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "and for students in those territories,\nI've been reading about re-education,"
+    } ]
+  }, {
+    "tStartMs": 19240,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "about Russia,\nessentially rewriting the curriculum."
+    } ]
+  }, {
+    "tStartMs": 22840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Hey, it's Hannah here. Welcome\nto What in the World, your podcast"
+    } ]
+  }, {
+    "tStartMs": 25840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "for the stories that get people\ntalking from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 29200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Now, bunkers\nand bomb shelters are usually"
+    } ]
+  }, {
+    "tStartMs": 31400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "for people to hide out in\nwhen they're under threat."
+    } ]
+  }, {
+    "tStartMs": 33600,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "But in Ukraine, schools are now being\nbuilt in underground shelters too."
+    } ]
+  }, {
+    "tStartMs": 38520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Thousands of schools there have been\ndamaged since the war with Russia begun,"
+    } ]
+  }, {
+    "tStartMs": 42560,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and these new underground schools\nare giving children\na chance to continue their studies."
+    } ]
+  }, {
+    "tStartMs": 47160,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "So today, you're going to hear how\neducation has been affected by the war"
+    } ]
+  }, {
+    "tStartMs": 50960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "in Ukraine and\nwhat it's like studying underground."
+    } ]
+  }, {
+    "tStartMs": 56680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Let's find out more about this now.\nFrom BBC reporter Olga Malchevska,"
+    } ]
+  }, {
+    "tStartMs": 60360,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "who's here with me in the studio.\nHi. Welcome."
+    } ]
+  }, {
+    "tStartMs": 62640,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Hello. Thank you very much for having\nme on your wonderful programme."
+    } ]
+  }, {
+    "tStartMs": 65400,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Oh, fabulous. You've been\nto one of these underground schools."
+    } ]
+  }, {
+    "tStartMs": 68920,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "What was it like?\nWe went to one of the schools"
+    } ]
+  }, {
+    "tStartMs": 71840,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "in the city of Zaporizhzhia,\nwhich is at the southeast of Ukraine."
+    } ]
+  }, {
+    "tStartMs": 75640,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "It is very close to the front line.\nIt looked like a regular school, really,"
+    } ]
+  }, {
+    "tStartMs": 79720,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and it just was quite difficult\nto comprehend"
+    } ]
+  }, {
+    "tStartMs": 82680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that everything is happening\nunderground and from the outside"
+    } ]
+  }, {
+    "tStartMs": 86680,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "it looked just like a football pitch,\nregular school football pitch."
+    } ]
+  }, {
+    "tStartMs": 90240,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "And then you just go down and you see\na regular school with amazing studying,"
+    } ]
+  }, {
+    "tStartMs": 96040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "with beautiful facilities,"
+    } ]
+  }, {
+    "tStartMs": 98160,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "with everything equipped\nto be able"
+    } ]
+  }, {
+    "tStartMs": 101520,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "to provide the high quality education\nfor children."
+    } ]
+  }, {
+    "tStartMs": 104160,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And just to bring you up to speed\non the situation in Ukraine."
+    } ]
+  }, {
+    "tStartMs": 107640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Russia invaded more\nthan three years ago back in 2022,"
+    } ]
+  }, {
+    "tStartMs": 111280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and initially Russian forces captured\nlarge parts of Ukraine"
+    } ]
+  }, {
+    "tStartMs": 114760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and nearly made it\nto the capital, Kyiv."
+    } ]
+  }, {
+    "tStartMs": 117160,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "But Ukraine pushed\nthe Russian forces back,"
+    } ]
+  }, {
+    "tStartMs": 119520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and now most of the fighting is\nin the south and east of the country."
+    } ]
+  }, {
+    "tStartMs": 123520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Both sides are using loads of drones\nto attack each other."
+    } ]
+  }, {
+    "tStartMs": 126880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Thousands and thousands of soldiers\nhave been killed on each side,"
+    } ]
+  }, {
+    "tStartMs": 130800,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "and thousands of civilians have also\ndied. The UN says it's about 13500."
+    } ]
+  }, {
+    "tStartMs": 136800,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "And until recently, if you were a\nUkrainian man between the ages of 18"
+    } ]
+  }, {
+    "tStartMs": 140840,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "and 60, you wouldn't have\nbeen allowed to leave the country."
+    } ]
+  }, {
+    "tStartMs": 144200,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Now you are able to leave\nuntil you turn 23,"
+    } ]
+  }, {
+    "tStartMs": 147840,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "and men who are between the ages of 25\nand 60, they have to join the army."
+    } ]
+  }, {
+    "tStartMs": 152200,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "It's known as conscription, and\nthat's unless they have an exemption."
+    } ]
+  }, {
+    "tStartMs": 156320,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "So, Olga, how has all of\nthis affected education in Ukraine?"
+    } ]
+  }, {
+    "tStartMs": 160120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Every time when there is air raids\nand they can happen a few times a day"
+    } ]
+  }, {
+    "tStartMs": 164920,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "in Kyiv, teachers and children\nhave to run down."
+    } ]
+  }, {
+    "tStartMs": 169120,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "They have to go outside, which\nis obviously a risk to be killed,"
+    } ]
+  }, {
+    "tStartMs": 172560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and then they have to go down\nto the underground facility"
+    } ]
+  }, {
+    "tStartMs": 176560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "and they have less than ten seconds\nto do that."
+    } ]
+  }, {
+    "tStartMs": 180840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So you can imagine\nthe level of stress people are going"
+    } ]
+  }, {
+    "tStartMs": 183560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "through, level of uncertainty."
+    } ]
+  }, {
+    "tStartMs": 185960,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And I read that, you know, as I said,\nthousands of schools damaged,"
+    } ]
+  }, {
+    "tStartMs": 188880,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "hundreds completely destroyed,"
+    } ]
+  }, {
+    "tStartMs": 192040,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and children who are, as you say,\nstill going to school,"
+    } ]
+  }, {
+    "tStartMs": 194360,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "having to run into shelters\nevery time the sirens go off."
+    } ]
+  }, {
+    "tStartMs": 198400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And what about online learning?"
+    } ]
+  }, {
+    "tStartMs": 200960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Was there a time when children stayed\nat home because it was safer"
+    } ]
+  }, {
+    "tStartMs": 203960,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "than going to school?\nYes. Absolutely correct."
+    } ]
+  }, {
+    "tStartMs": 207120,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "As you were saying, many children had\nto study online initially."
+    } ]
+  }, {
+    "tStartMs": 211560,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And let's say in that school in\nZaporizhzhia where we were filming,"
+    } ]
+  }, {
+    "tStartMs": 215480,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "the pupils told me that when they\nfirst entered the underground school,"
+    } ]
+  }, {
+    "tStartMs": 221560,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "they were actually so happy that finally\nthey can study physically in person."
+    } ]
+  }, {
+    "tStartMs": 227120,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Now, speaking about the destroyed\nschools, I just wanted to give you\nsome numbers if you want to."
+    } ]
+  }, {
+    "tStartMs": 232160,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "So according to Ukrainian government,\naccording to the most recent statistics"
+    } ]
+  }, {
+    "tStartMs": 239160,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "around 400 educational facilities\nhave been completely destroyed by"
+    } ]
+  }, {
+    "tStartMs": 244520,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "the Russian bombs and drones and most\nof those schools and nurseries."
+    } ]
+  }, {
+    "tStartMs": 251280,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "Now, over 3000 and a half educational\ninstitutions have been damaged severely."
+    } ]
+  }, {
+    "tStartMs": 258560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So we can get the scale\nof the destruction."
+    } ]
+  }, {
+    "tStartMs": 261520,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And, Olga, we've been hearing\nfrom some students."
+    } ]
+  }, {
+    "tStartMs": 264200,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "This is Karina, who's\na university student in Ukraine."
+    } ]
+  }, {
+    "tStartMs": 268760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "The war did not change\nour years of study."
+    } ]
+  }, {
+    "tStartMs": 270840,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "It completely destroyed them. The\nfirst two years we studied remotely,"
+    } ]
+  }, {
+    "tStartMs": 275040,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "we did not know what\nreal university life was like at all."
+    } ]
+  }, {
+    "tStartMs": 278800,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The last two years we've studied\nin person and unfortunately,"
+    } ]
+  }, {
+    "tStartMs": 282040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "under shelling, under constant attacks,\nunder constant power outages."
+    } ]
+  }, {
+    "tStartMs": 287000,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Sometimes you wake up in the morning\nand don't know"
+    } ]
+  }, {
+    "tStartMs": 289040,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "if you'll be able to go to university\nbecause the transport can't run"
+    } ]
+  }, {
+    "tStartMs": 292600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "due to the difficult situation\nwith the energy sector."
+    } ]
+  }, {
+    "tStartMs": 295960,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Sometimes you do not sleep.\nYou prepare for the tests,"
+    } ]
+  }, {
+    "tStartMs": 298680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "worry about how you will pass and then\nthe shelling of your hometown begins."
+    } ]
+  }, {
+    "tStartMs": 302960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Where your parents live?\nAnd you no longer worry about exams."
+    } ]
+  }, {
+    "tStartMs": 306640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "But we still move forward.\nOur classes continue."
+    } ]
+  }, {
+    "tStartMs": 309600,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "We continue to learn. And now I have\neven passed my most recent exams."
+    } ]
+  }, {
+    "tStartMs": 314120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "It's really hard\nbecause there's no electricity."
+    } ]
+  }, {
+    "tStartMs": 316760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "You don't have\nenough time to prepare."
+    } ]
+  }, {
+    "tStartMs": 318920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "You have constant stress because of\nthe drones flying and air raids."
+    } ]
+  }, {
+    "tStartMs": 322280,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But unfortunately,\nthis has become our reality."
+    } ]
+  }, {
+    "tStartMs": 328080,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "So, Olga, as we heard, education\nin Ukraine has completely changed."
+    } ]
+  }, {
+    "tStartMs": 332840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And I want to talk more\nabout these underground schools now,"
+    } ]
+  }, {
+    "tStartMs": 335240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "because perhaps\nfor the generation of children,"
+    } ]
+  }, {
+    "tStartMs": 338240,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "for children who can study there,"
+    } ]
+  }, {
+    "tStartMs": 340920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "they might not be so much disruption\nto their education."
+    } ]
+  }, {
+    "tStartMs": 344840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Those initiatives\nto build these schools underground"
+    } ]
+  }, {
+    "tStartMs": 347960,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "are aimed to help those kids, at least\nto catch up somehow with education,"
+    } ]
+  }, {
+    "tStartMs": 352960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "because otherwise\nwe will be facing the situation"
+    } ]
+  }, {
+    "tStartMs": 357200,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "where the whole generation has been\ndeprived of the education at all."
+    } ]
+  }, {
+    "tStartMs": 361880,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "So the school we were filming\nhad a fantastic storage"
+    } ]
+  }, {
+    "tStartMs": 366520,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "of food and water\nfor a couple of days,"
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "and we were told that it was also\nable to sustain a nuclear blast."
+    } ]
+  }, {
+    "tStartMs": 374240,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "That is another reality\nwhich Ukraine is preparing for,"
+    } ]
+  }, {
+    "tStartMs": 378920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "because Zaporizhzhia, the city of\nZaporizhzhia, where we were filming,"
+    } ]
+  }, {
+    "tStartMs": 381960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "is located very close\nto the nuclear power plant,"
+    } ]
+  }, {
+    "tStartMs": 384760,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "which is occupied by Russia."
+    } ]
+  }, {
+    "tStartMs": 386760,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Where in the country\nhave these schools been built"
+    } ]
+  }, {
+    "tStartMs": 390720,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and how many students can go to them?"
+    } ]
+  }, {
+    "tStartMs": 393640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "According to\nthe Ukrainian government data,\nwhich we can't verify independently"
+    } ]
+  }, {
+    "tStartMs": 396880,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "- the BBC - there is an ambitious\ngoal to build 180 underground schools"
+    } ]
+  }, {
+    "tStartMs": 404640,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "by the end of the 2025."
+    } ]
+  }, {
+    "tStartMs": 407960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "By the end of this year?\nYes."
+    } ]
+  }, {
+    "tStartMs": 410520,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So we don't know how many\nof those schools"
+    } ]
+  }, {
+    "tStartMs": 413240,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "from that number, which is given by\nUkrainian government,"
+    } ]
+  }, {
+    "tStartMs": 416320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "means that they would actually build\nthe schools from scratch"
+    } ]
+  }, {
+    "tStartMs": 420000,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "or repurpose the previous facilities,\nunderground facilities."
+    } ]
+  }, {
+    "tStartMs": 425240,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Olga, I want to talk about another\narea where education has changed"
+    } ]
+  }, {
+    "tStartMs": 429360,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "in Ukraine because Russia now\noccupies parts of eastern Ukraine,"
+    } ]
+  }, {
+    "tStartMs": 433880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "areas that it invaded\nduring the course of the war."
+    } ]
+  }, {
+    "tStartMs": 436440,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "It now controls them."
+    } ]
+  }, {
+    "tStartMs": 437800,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And for students\nin those territories."
+    } ]
+  }, {
+    "tStartMs": 440040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I've been reading about re-education,"
+    } ]
+  }, {
+    "tStartMs": 442600,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "about Russia,\nessentially rewriting the curriculum"
+    } ]
+  }, {
+    "tStartMs": 446160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and the way that\nchildren are being taught changing."
+    } ]
+  }, {
+    "tStartMs": 449920,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "What are some of those changes?"
+    } ]
+  }, {
+    "tStartMs": 451760,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Well, there is a very complicated\ntopic because obviously the BBC crew,"
+    } ]
+  }, {
+    "tStartMs": 455200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "we are not allowed to enter\nthe occupied territories,"
+    } ]
+  }, {
+    "tStartMs": 458600,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "which makes it extremely challenging\nfor us to cover these stories."
+    } ]
+  }, {
+    "tStartMs": 462960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Now, I managed to speak to a few\npeople on the occupied territories,"
+    } ]
+  }, {
+    "tStartMs": 466360,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and I've done a few reports\nabout that"
+    } ]
+  }, {
+    "tStartMs": 469600,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and what I'm saying now is based\non what they told me."
+    } ]
+  }, {
+    "tStartMs": 473640,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And what they told me is that, well,"
+    } ]
+  }, {
+    "tStartMs": 475880,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "their children or the children\nwho they are witnessing,"
+    } ]
+  }, {
+    "tStartMs": 480040,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "if they go to school\nand they have to go to school,"
+    } ]
+  }, {
+    "tStartMs": 482880,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "they don't have a choice, obviously,"
+    } ]
+  }, {
+    "tStartMs": 485560,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "their morning starts\nwith singing the Russian anthem."
+    } ]
+  }, {
+    "tStartMs": 490160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "And if someone rebels,\nif someone denies singing it,"
+    } ]
+  }, {
+    "tStartMs": 494240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "their parents would be called to speak\nwith Russian intelligence service."
+    } ]
+  }, {
+    "tStartMs": 498160,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Ukrainian language is forbidden."
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "By no means\nanyone can speak Ukrainian."
+    } ]
+  }, {
+    "tStartMs": 502360,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "No mentioning of Ukraine\nas an independent state."
+    } ]
+  }, {
+    "tStartMs": 507720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "They also - what I was told about is"
+    } ]
+  }, {
+    "tStartMs": 510320,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "that, they have been rewriting\nUkrainian history,"
+    } ]
+  }, {
+    "tStartMs": 512640,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "basically changing it dramatically."
+    } ]
+  }, {
+    "tStartMs": 515240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Now the teachers who are\nin occupation, a few of them told me"
+    } ]
+  }, {
+    "tStartMs": 520120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "that the majority -\nwhat Russian government is also doing"
+    } ]
+  }, {
+    "tStartMs": 523240,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "on the occupied territories is they\nbring Russian teachers from Russia"
+    } ]
+  }, {
+    "tStartMs": 528560,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "and they install them in Ukrainian\nschools in the occupied territories,"
+    } ]
+  }, {
+    "tStartMs": 534280,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and the school education\nhas been provided by them"
+    } ]
+  }, {
+    "tStartMs": 538880,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "and then Ukrainian teachers who,\nif they stayed in the city,"
+    } ]
+  }, {
+    "tStartMs": 544720,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "they are allowed to work only\nif they agree to teach in Russian."
+    } ]
+  }, {
+    "tStartMs": 550680,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And we've been hearing from someone\nwho went to school in occupied Donetsk,"
+    } ]
+  }, {
+    "tStartMs": 554160,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "that's a part of Ukraine\nthat was invaded by Russia in 2014"
+    } ]
+  }, {
+    "tStartMs": 557800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and has mostly been\nunder Russian control since."
+    } ]
+  }, {
+    "tStartMs": 561000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "We're not naming her to protect her."
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Our textbooks were replaced by\nRussian language textbooks."
+    } ]
+  }, {
+    "tStartMs": 566240,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Each year,\nthe hours we spent learning"
+    } ]
+  }, {
+    "tStartMs": 568440,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "the Ukrainian language\nand literature were decreased."
+    } ]
+  }, {
+    "tStartMs": 571240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Closer to 2022,\nthis subject disappeared."
+    } ]
+  }, {
+    "tStartMs": 574680,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And if we are talking about history,\nof course our textbooks were Russian,"
+    } ]
+  }, {
+    "tStartMs": 578640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "which logically leads\nto learning Russian history."
+    } ]
+  }, {
+    "tStartMs": 581520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Of course, speaking about your\ntrue opinion would have been suicide."
+    } ]
+  }, {
+    "tStartMs": 585760,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "There were cases when pupils said\nsomething about Ukraine"
+    } ]
+  }, {
+    "tStartMs": 588800,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and teachers started shouting at them,\nsaying that Ukrainians are Nazis,"
+    } ]
+  }, {
+    "tStartMs": 592920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "that Ukrainians kill us and started\nto impose their Russian views."
+    } ]
+  }, {
+    "tStartMs": 597080,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "It was disgusting to listen\nto these lies."
+    } ]
+  }, {
+    "tStartMs": 599320,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "So, Olga, we've heard there about how\nthe curriculum is changing in some\nof these occupied territories."
+    } ]
+  }, {
+    "tStartMs": 604040,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And you mentioned what it was like."
+    } ]
+  }, {
+    "tStartMs": 606320,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "What has Russia said\nin response to that?"
+    } ]
+  }, {
+    "tStartMs": 608240,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Well, Russian side doesn't respond\nto the BBC's claims,"
+    } ]
+  }, {
+    "tStartMs": 611120,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "but previously they said many times\nthat they deny all the allegations"
+    } ]
+  }, {
+    "tStartMs": 618120,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and that they conduct their duties\naccording to the Russian laws."
+    } ]
+  }, {
+    "tStartMs": 622240,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And I imagine there is\na really big impact on children"
+    } ]
+  }, {
+    "tStartMs": 625640,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and young people in Ukraine as well,"
+    } ]
+  }, {
+    "tStartMs": 628000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "with the death and destruction\nand trauma of living in a country"
+    } ]
+  }, {
+    "tStartMs": 632240,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and uncertainty\nof living in a country"
+    } ]
+  }, {
+    "tStartMs": 634600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "that's at war and not knowing\nwhat their future might hold."
+    } ]
+  }, {
+    "tStartMs": 639640,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "How is that being addressed\nin schools?"
+    } ]
+  }, {
+    "tStartMs": 642000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Well, in that school\nwhere we were filming in Zaporizhzhia"
+    } ]
+  }, {
+    "tStartMs": 645000,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "in the underground, they had,\nprobably a bit more of breaks."
+    } ]
+  }, {
+    "tStartMs": 651280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And for the younger children,\nthey try to organise some kind"
+    } ]
+  }, {
+    "tStartMs": 655600,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "of exercises, music."
+    } ]
+  }, {
+    "tStartMs": 657840,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So it was all designed to make\nit fun, as fun as possible."
+    } ]
+  }, {
+    "tStartMs": 661240,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So they were playing their favourite\nmusic and allowing them to dance,"
+    } ]
+  }, {
+    "tStartMs": 664920,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "encouraging them to dance\nin the corridors."
+    } ]
+  }, {
+    "tStartMs": 667320,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Obviously they can't run.\nYou know, it's a problem."
+    } ]
+  }, {
+    "tStartMs": 669520,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Children need to run\nand they can't run."
+    } ]
+  }, {
+    "tStartMs": 671800,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "No outdoor spaces."
+    } ]
+  }, {
+    "tStartMs": 673320,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "They can't have proper PE lessons.\nThey are trying to do what they can."
+    } ]
+  }, {
+    "tStartMs": 678080,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So they post-traumatic stress\ndisorder, that is"
+    } ]
+  }, {
+    "tStartMs": 680280,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "how it's called by psychologists,\nis a very common thing."
+    } ]
+  }, {
+    "tStartMs": 684920,
+    "dDurationMs": 7480,
+    "segs": [ {
+      "utf8": "And another I think horrible thing,\nwhich they were talking about is that"
+    } ]
+  }, {
+    "tStartMs": 692400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "many people in Ukraine even don't\nrealise that they have it at this stage,"
+    } ]
+  }, {
+    "tStartMs": 696960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "because they are in the conditions\nof the constant survival."
+    } ]
+  }, {
+    "tStartMs": 700640,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "They don't have time to reflect,\nthey just have to carry on."
+    } ]
+  }, {
+    "tStartMs": 704440,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So it has become their new reality."
+    } ]
+  }, {
+    "tStartMs": 706960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Some young people also told me\nthat they just don't think about it."
+    } ]
+  }, {
+    "tStartMs": 710960,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So their mechanism\nof coping is not to process that."
+    } ]
+  }, {
+    "tStartMs": 715520,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "They just put it aside."
+    } ]
+  }, {
+    "tStartMs": 716960,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And they just - when they hear that\nsomeone or their friends is killed"
+    } ]
+  }, {
+    "tStartMs": 720400,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "or someone -\nthat there has been another shelling,"
+    } ]
+  }, {
+    "tStartMs": 723920,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "they just think, 'Oh,\nokay, what should I do right now?"
+    } ]
+  }, {
+    "tStartMs": 726840,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I have to carry on."
+    } ]
+  }, {
+    "tStartMs": 727840,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I have to do this. I don't believe\nthat they were killed."
+    } ]
+  }, {
+    "tStartMs": 730040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Maybe I will just see them later.'\nIt is heartbreaking."
+    } ]
+  }, {
+    "tStartMs": 733240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "It's heartbreaking to hear that so\nmany young people have to factor this"
+    } ]
+  }, {
+    "tStartMs": 737720,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "into their everyday existence\nand survival,"
+    } ]
+  }, {
+    "tStartMs": 741240,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and I'm sure there will be\nwill be a huge impact."
+    } ]
+  }, {
+    "tStartMs": 743960,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And also, I would say that\nfrom what I've been seeing,"
+    } ]
+  }, {
+    "tStartMs": 747000,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "sometimes Ukrainian children are showing\nhigher motivation to study than"
+    } ]
+  }, {
+    "tStartMs": 752560,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "what perhaps sometimes I observe here\nin London, maybe just in my region,"
+    } ]
+  }, {
+    "tStartMs": 758120,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and maybe just in the example\nof my family and friends."
+    } ]
+  }, {
+    "tStartMs": 761040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Maybe they value education\nreally highly"
+    } ]
+  }, {
+    "tStartMs": 763200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "because of everything\nthat is going on in their country."
+    } ]
+  }, {
+    "tStartMs": 766320,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And I saw in your report\nwhen you went to visit this school,"
+    } ]
+  }, {
+    "tStartMs": 769480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "how happy the children were to be\nat school, to be studying."
+    } ]
+  }, {
+    "tStartMs": 773000,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "Absolutely. I was showing that clip\nto my son when he told me\nthat he doesn't want to go to school."
+    } ]
+  }, {
+    "tStartMs": 778720,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I was telling him, look,\nhere are Ukrainian children studying"
+    } ]
+  }, {
+    "tStartMs": 782600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "under the bombardment\nin the basement, you know,"
+    } ]
+  }, {
+    "tStartMs": 784720,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "in the bomb shelter.\nAnd they are so happy to be there."
+    } ]
+  }, {
+    "tStartMs": 787400,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And you don't want to go\nto your beautiful school in London."
+    } ]
+  }, {
+    "tStartMs": 790120,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "It might make you think twice."
+    } ]
+  }, {
+    "tStartMs": 791480,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "It might make you think twice next\ntime you don't want to go to school."
+    } ]
+  }, {
+    "tStartMs": 794560,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Olga, thank you so much."
+    } ]
+  }, {
+    "tStartMs": 796200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thank you so much.\nWell, that's it from us."
+    } ]
+  }, {
+    "tStartMs": 798200,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "But if you want to find out more\nabout the war in Ukraine,"
+    } ]
+  }, {
+    "tStartMs": 800720,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "there are plenty\nof articles on the BBC news website."
+    } ]
+  }, {
+    "tStartMs": 803480,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And we've covered it\non other episodes of the podcast too."
+    } ]
+  }, {
+    "tStartMs": 806360,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So you can find them\nwherever you get your BBC podcasts,"
+    } ]
+  }, {
+    "tStartMs": 809040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "or right here on the BBC\nWorld Service YouTube channel."
+    } ]
+  }, {
+    "tStartMs": 812240,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "And while you're here,\nwhy not give us a like? Subscribe?"
+    } ]
+  }, {
+    "tStartMs": 815080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Drop us a comment below.\nWe would love to hear from you!"
+    } ]
+  }, {
+    "tStartMs": 817760,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "I'm Hannah. This is What in the World\nfrom the BBC World Service\nand we'll see you next time."
+    } ]
+  } ]
+}

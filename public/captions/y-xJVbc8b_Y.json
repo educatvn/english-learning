@@ -1,0 +1,2228 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 440,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "Hello. It's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2200,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Welcome back to What In The World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 5480,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Today we're talking all about\nskincare and anti-ageing products"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9160,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "because the stuff\nthat you use to wash your face"
+        }
+      ]
+    },
+    {
+      "tStartMs": 11320,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "didn't used to be much\nof a conversation starter."
+        }
+      ]
+    },
+    {
+      "tStartMs": 13440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "But nowadays social media is flooded\nwith all of these videos."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16880,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "There are ten steps skincare routines,\nget ready with me's and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 20800,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "these tutorials showing you how to\nget that perfect youthful glass skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25480,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And children as young as eight\nhave been hopping on the trend."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28320,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "They're using the same luxury\nproducts as their favourite celebs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 31200,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "and influencers, but could these\nproducts be doing more harm than good?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Today, you're going to find out\nwhat's in the stuff that you put"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37920,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "on your skin,\nand we're going to talk about whether"
+        }
+      ]
+    },
+    {
+      "tStartMs": 40160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "anti-ageing products\nshould be age restricted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 46520,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Back on the What In\nThe World podcast, here in the studio"
+        }
+      ]
+    },
+    {
+      "tStartMs": 48800,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "with me is BBC Health reporter\nAnnabel Rackham. Hi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 51240,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Hi. Thanks for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So, Annabel, how much do you actually\ncare about your own skincare?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 56440,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "I have to say,\nmy knowledge has improved quite a lot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59200,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "in maybe the last year or two."
+        }
+      ]
+    },
+    {
+      "tStartMs": 61760,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "I just used to be a makeup wipe,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 64400,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "you know, across the face,\nthrow it in the bin kind of gal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 66840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And now I've got three\nsteps skincare regime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 70160,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Some people have eight.\nThat's way too much for me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 72560,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Just like cleansing my face\nin the morning is a big enough task."
+        }
+      ]
+    },
+    {
+      "tStartMs": 75880,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "So I am getting better, but I can't\nsay I'm at like TikTok influencer level."
+        }
+      ]
+    },
+    {
+      "tStartMs": 80880,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "And why is skincare becoming\nsuch a big trend online?\nLike you've been looking into this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 84880,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "What kind of videos\nhave you seen specifically the stuff"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86880,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "that is directed more\ntowards younger people? Children?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "I think it's all about trends,\nand we've seen in the last year"
+        }
+      ]
+    },
+    {
+      "tStartMs": 93680,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "or two this idea\nof like a clean girl aesthetic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 97160,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So people, especially younger people,\nthey're not partying anymore."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101120,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So there isn't that need\nfor that really dramatic make-up look."
+        }
+      ]
+    },
+    {
+      "tStartMs": 104280,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Everyone wants to look more natural,\nmore relaxed, you know, more glowing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 108200,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "People are staying at home\nmore, that sort of thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 110520,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And I think, you know, the way\nthat vloggers are, it's all paid"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113960,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "into this idea that skincare now is the\nbig thing over a massive make-up routine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120040,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "And people are just looking for that,\nyou know, perfect skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 124200,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "And that really,\nyou know, well kept"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127320,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "you know, well kept well\ntogether look"
+        }
+      ]
+    },
+    {
+      "tStartMs": 129480,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "which I think, you know, it all\nfits in with that trend."
+        }
+      ]
+    },
+    {
+      "tStartMs": 132840,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So it's like, 'look like you get eight hours\nsleep even if you don't get eight hours sleep'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 136160,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Exactly. And it's healthy eating,\nyou know, not drinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 138400,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "That is, if you look at Gen Z, that is\nthe lifestyle that they're living."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142560,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So, you know, the healthy skin\ngoes hand in hand with that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 145520,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And what kind\nof videos are out there to try"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148360,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and get young people, children,\nGen Z, to buy these products?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 152400,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "So I don't think\nit's specifically about the videos,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 155960,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "because I think that the videos\nare not designed for these children."
+        }
+      ]
+    },
+    {
+      "tStartMs": 159360,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "They are designed\nfor people our age, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 161640,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "in their 20s and 30s who want\nto learn about skincare, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 165400,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And children shouldn't even be\non these platforms.\nYeah, exactly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 168360,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And it's because it's a video about\nskincare, they're not age restricted,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 172240,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "so other videos might not\neven come up on their algorithms."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177000,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "But these do because there's\nnothing really inherently bad about,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 180160,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "you know, a girl taking her make-up\noff or, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 183520,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "doing, you know, doing a cleanser\nor a face mask, something like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 186400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "There's nothing wrong with it.\nSo it's probably that content"
+        }
+      ]
+    },
+    {
+      "tStartMs": 189160,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "for older people is falling\ninto the hands of younger children,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 192920,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and then they're using these people\nas their role models."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195760,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Like some of the kids that I've spoken\nto, they just see these influencers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "as the way\nthat we might see celebrities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 201960,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So they just want to imitate\nwhat they're doing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 204200,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "This kind of reminds me\nof when I was little, like I used\nto play with my mum's makeup."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208200,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Like, I think as long as we have,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210320,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "you know, children have always tried\nto imitate adult stuff."
+        }
+      ]
+    },
+    {
+      "tStartMs": 212520,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "We've always tried to like, be older,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 214560,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "look older, be more grown-up,\ntry out our mum's products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 217120,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "So there's like nothing new about kids\nwanting to use their parent's products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 221880,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "But I think\nwhat's really interesting about this\nis that it's anti-ageing products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 225600,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "and that kind of ties into\nthis whole thing about being perfect,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 229280,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "that perfect image on social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 232440,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "How is that changing the way\nthat people look, the use of filters,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 236520,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "the way that we upload everything\nabout our life and like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 239080,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "what kind of effect is that having\non people?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 241440,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "I think that that idea of perfection\nhas always been out there, you know?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245640,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Years and years ago,\nit was Hollywood stars"
+        }
+      ]
+    },
+    {
+      "tStartMs": 247680,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "that we'd see on screen\nthat we'd think as perfect."
+        }
+      ]
+    },
+    {
+      "tStartMs": 250200,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And then it's filtered down\nto maybe, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 252720,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "your everyday celebrity, your reality\nstar, and now it's influencers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 256600,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "So we've always been, you know,\nthat marketing,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 260480,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "that advertising has always been pushed\nto us throughout the generations."
+        }
+      ]
+    },
+    {
+      "tStartMs": 263880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "But now it's so easily accessible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 267160,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Maybe back in the day we might\nhave spent more time out and about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 270040,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "with friends or with, you know,\nother people that live regular lives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 274240,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "But these children\nare being pushed content by people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 277360,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "that you know are famous\nor popular for those exact reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Their lives are pretty extraordinary,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283040,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and they're just presented with that\nall the time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 285320,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And that's what leads to perfection."
+        }
+      ]
+    },
+    {
+      "tStartMs": 287680,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "You know, these people are, you know,\nwe could look at influencers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 291480,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Why are influencers famous? It\nmight be down to the way they look."
+        }
+      ]
+    },
+    {
+      "tStartMs": 295160,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "It might be down to the way\nthat they present themselves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297560,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And it is, as you say, they've got\nthis beautiful glowing skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 301600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "They look amazing. And so\nchildren just want to imitate that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 305560,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And that's the difficult thing,\nreally. It's hard to try"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308840,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and differentiate between what is\nreal life and what's achievable."
+        }
+      ]
+    },
+    {
+      "tStartMs": 312760,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "And what is this, you know,\nbeauty, ideal standard that is hard"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "for, you know,\n99% of us to really achieve."
+        }
+      ]
+    },
+    {
+      "tStartMs": 320560,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "And here is Blancah Katherine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 321960,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "She is a beauty content creator\nfrom South Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 324760,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And we asked her\nhow social media is playing a part in\nyoung people's interest in skincare."
+        }
+      ]
+    },
+    {
+      "tStartMs": 329200,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "I do think that\nTikTok is encouraging younger people\nto use anti-ageing products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 334360,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "I think that even though creators\nmight not be directing their content"
+        }
+      ]
+    },
+    {
+      "tStartMs": 338600,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "at younger viewers,\nthey are a lot of them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 341480,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "on the app that are just being fed\nall of this information."
+        }
+      ]
+    },
+    {
+      "tStartMs": 344600,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "I do also think that\nthe aesthetic of a beauty routine"
+        }
+      ]
+    },
+    {
+      "tStartMs": 348440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "and skincare is very trendy\nat the moment,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 351240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and a lot of young people\nwant to be trendy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 354120,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So I think as a creator\nand for brands as well,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 357120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "it's really important to just engage\nwith your audience,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 360080,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "especially\nif you have younger viewers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363040,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "So, Annabel, what kind of data do we\nactually have about how much under 18s"
+        }
+      ]
+    },
+    {
+      "tStartMs": 366680,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "are using these products.\nSo we don't have much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 369320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And that's you know, that's\nthe difficult thing with under 18s."
+        }
+      ]
+    },
+    {
+      "tStartMs": 371920,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "We we don't really pry that much\ninto their daily habits."
+        }
+      ]
+    },
+    {
+      "tStartMs": 375560,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "But we do know from the US last year\nthat Gen Alpha."
+        }
+      ]
+    },
+    {
+      "tStartMs": 378880,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "So that's even younger than Gen Z.\nThat's those born after 2010."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383360,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "They were behind a growth\nof 49% in skincare last year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 388000,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So that is a huge leap.\nAnd then there's a little bit of data"
+        }
+      ]
+    },
+    {
+      "tStartMs": 391720,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "about the UK, which shows that there\nwas a 21% jump in young people using"
+        }
+      ]
+    },
+    {
+      "tStartMs": 397400,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "anti-aging moisturizers\nspecifically in the last two years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 401320,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "That is huge, isn't it?\nWhat what's the problem with this?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 403960,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Like, what are some\nof the concerns with children,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 406400,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "people with young skin\nusing anti-ageing products?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 409800,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "I mean, they don't need to anti-age\ndo they?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 412240,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "They're children. It should be, you know,\npeople much older using it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417040,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "But that you know, that is\nthe main concern. Your skin barrier"
+        }
+      ]
+    },
+    {
+      "tStartMs": 421200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "which you know just protects\nyour skin. That does not develop"
+        }
+      ]
+    },
+    {
+      "tStartMs": 425040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "until you're an adult, so you could\nbe damaging basically the surface"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "of your skin from a really young age,\nwhich could lead you to, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 433040,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "being susceptible\nto different infections."
+        }
+      ]
+    },
+    {
+      "tStartMs": 435520,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "You know, you could grow up\nwith really sensitive skin,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 438280,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "which is going to need\nfurther treatment when you're older."
+        }
+      ]
+    },
+    {
+      "tStartMs": 441840,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And you've also just got, you know,\na lot of young people do suffer"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444640,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "with with skin concerns like eczema."
+        }
+      ]
+    },
+    {
+      "tStartMs": 447360,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "It can really aggravate something\nlike that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 449760,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "So there are difficulties, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 451800,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "some children may use it\nand they may, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 454240,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "they may only use a tiny bit of product\nand that might not do anything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457760,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "But, you know, there's there's\nno real truth to, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 461440,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "what the long term effects\nof using these products could be,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 465040,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "because children just haven't done it\nin the past."
+        }
+      ]
+    },
+    {
+      "tStartMs": 467880,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "And what's actually\nin these products?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469080,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "What is the stuff that\ncould cause harm to children's skin?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 472400,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So I think two of the main\ningredients you need to think about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 476200,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "are retinols and exfoliating acids."
+        }
+      ]
+    },
+    {
+      "tStartMs": 480400,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "You know, these are\nsome of the common things that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 482760,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "as adults, you know, we're told\nare pretty good for your skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 487080,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "But as a child,\nthat is something that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 489200,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "you 100%, we know\nshould not be using at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 492880,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Because, as I've previously mentioned,\nthey attack the skin barrier."
+        }
+      ]
+    },
+    {
+      "tStartMs": 497440,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And, you know,\nthat's absolutely fine for us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 499880,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "We've got adult skin, but for kids,\nit's just a complete no go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 503600,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And we have been speaking\nto a paediatric dermatologist,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Doctor Carol Cheng, at the University\nof California in the US."
+        }
+      ]
+    },
+    {
+      "tStartMs": 509480,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "We asked her a bit more about\nthese ingredients and what they do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 512240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "I often get asked about the active\ningredients in anti-ageing skincare,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 515680,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "especially because\nmany younger patients are starting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 518160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "to pay attention\nto their skin's health early on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 520600,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Some of these most common active\ningredients you'll see are retinols"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524400,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "or vitamin A, vitamin C, hyaluronic\nacid, and most importantly, sunscreen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 529520,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Even though these ingredients\nare often associated"
+        }
+      ]
+    },
+    {
+      "tStartMs": 531600,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "with use in more mature individuals,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 534040,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "they can be beneficial for younger\npatients if used appropriately."
+        }
+      ]
+    },
+    {
+      "tStartMs": 537400,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "For example, many teenagers and\npatients in their 20s who have acne"
+        }
+      ]
+    },
+    {
+      "tStartMs": 540840,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "may already be using\ntopical retinoids, which is one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 543600,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "of the most effective treatments\nfor treating acne and clogged pores."
+        }
+      ]
+    },
+    {
+      "tStartMs": 547400,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "At the same time,\nit is also effective for anti-ageing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 550360,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Vitamin C is great\nfor skin brightening"
+        }
+      ]
+    },
+    {
+      "tStartMs": 552600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and can also reduce the appearance\nof dark spots on the skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 555200,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "But this is a product\nthat I don't feel is necessary"
+        }
+      ]
+    },
+    {
+      "tStartMs": 557960,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "until a patient is in their 20s\nat the earliest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 560680,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Hyaluronic acid is great for all ages\nand in keeping the skin hydrated"
+        }
+      ]
+    },
+    {
+      "tStartMs": 564200,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "and plump and well moisturized,\nespecially in the drier winter months."
+        }
+      ]
+    },
+    {
+      "tStartMs": 567880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And I cannot emphasize enough\nthat sunscreen is crucial"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570960,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "for protecting your skin\nfrom sun damage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 573120,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "So even if you're not worried\nabout ageing yet,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 575160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "sunscreen is your best defense\nagainst premature damage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 577880,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "However, there are negative effects\nto some of these products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 580920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "which usually stem from overuse\nand proper formulation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 584880,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "or in individuals\nwith sensitive skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 588000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "For example, ingredients\nlike retinols can cause irritation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 591360,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "dryness, burning, and redness."
+        }
+      ]
+    },
+    {
+      "tStartMs": 593920,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "If there's any concerns or questions\nabout a good anti-aging regimen,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 597160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "please see your dermatologist\nor paediatric dermatologist"
+        }
+      ]
+    },
+    {
+      "tStartMs": 600320,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "who can provide an individualised\nplan suited for your skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 604600,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So, Annabel,\ngiven that these products could be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 607000,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "potentially harmful\nto children' skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 609320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Are there many regulations\nabout marketing them to young people?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 612400,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "You mentioned the bright packaging.\nAt the moment there isn't anything"
+        }
+      ]
+    },
+    {
+      "tStartMs": 616840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "which for many parents is probably\na big concern."
+        }
+      ]
+    },
+    {
+      "tStartMs": 620080,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "We did see last year that the biggest\npharmacy brand in Sweden banned the sale"
+        }
+      ]
+    },
+    {
+      "tStartMs": 624560,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "of any anti-ageing products to\nchildren, which is a really big step."
+        }
+      ]
+    },
+    {
+      "tStartMs": 628480,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And also, the EU is bringing in\na rule soon about retinols."
+        }
+      ]
+    },
+    {
+      "tStartMs": 632880,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "So the high-strength retinols\nwill not be available for general\nsale over the counter anymore."
+        }
+      ]
+    },
+    {
+      "tStartMs": 638360,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "You'll have to get those prescribed\nfrom a doctor, which again is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 641360,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "a really big step because they are\npotentially really dangerous."
+        }
+      ]
+    },
+    {
+      "tStartMs": 645320,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And even as an adult,\nif you use too many retinol products,\nyou can damage your skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 648760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So that just shows you,\nyou know how important it is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 651240,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "that these products don't fall\ninto the hands of the children."
+        }
+      ]
+    },
+    {
+      "tStartMs": 654520,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "But there is a lot of pressure\non these big global beauty brands"
+        }
+      ]
+    },
+    {
+      "tStartMs": 659600,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "that we recognise a lot from,\nfrom TikTok,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 662040,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "where these kids are going in and\nthey're seeing all the bright packaging."
+        }
+      ]
+    },
+    {
+      "tStartMs": 664760,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "There is a, you know, there's a big\ndrive by some parents to say,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 669440,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "you know, please, if our children go\ninto this store, bring something in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 673720,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "that the staff are going\nto stop them, or there's going"
+        }
+      ]
+    },
+    {
+      "tStartMs": 675720,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "to be signage that tells them\nit's not appropriate for them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 678720,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "because a lot of the time it is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 681040,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "up to the stores themselves where the\nchildren are buying the products from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 684720,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And as of yet, no store apart from\nthat pharmacy brand in Sweden has,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 688560,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "you know, become the first big one\nto to make a change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 692440,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "But there is like a hope\nand expectation that that happens"
+        }
+      ]
+    },
+    {
+      "tStartMs": 695200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "because they're, currently\nthese brands,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 698400,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "they're not trying to advertise\nto children."
+        }
+      ]
+    },
+    {
+      "tStartMs": 700400,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Like that's something\nthat's really important to remember."
+        }
+      ]
+    },
+    {
+      "tStartMs": 703640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "They did not design their packaging\nto attract children that is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 706520,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Is just a secondary effect isn't it?\nA negative byproduct yes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 709520,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "So it's not really about the brands."
+        }
+      ]
+    },
+    {
+      "tStartMs": 711880,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "It's probably just about making sure\nthat in stores, maybe it's ID checks"
+        }
+      ]
+    },
+    {
+      "tStartMs": 716240,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "like you have for alcohol or,\nyou know, tobacco products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 719640,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So Annabel, overall,\nwhat do you think needs to change to\nprotect young people's mental health,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 724040,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "but also their physical health,\ntheir skin?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 726480,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So I think it has to start\nwith parents really,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 728480,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "and there's just so much pressure\non them. I don't think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 730520,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "they're necessarily to blame.\nIt's all about education."
+        }
+      ]
+    },
+    {
+      "tStartMs": 734400,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So a lot of parents might be buying\nthese products for their children,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 737480,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "not knowing what is actually in them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 739480,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "They just see maybe the bright\npackaging and think it's appropriate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 743000,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "And oftentimes they're really,\nreally expensive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 745880,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So again, it would save parents\na lot of money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 748840,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "But it's all about, you know,\neducation for them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 751680,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And they can then pass that on\nto their children and know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 755160,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "you know what is safe and what isn't."
+        }
+      ]
+    },
+    {
+      "tStartMs": 757560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "But I think\nultimately it does come down"
+        }
+      ]
+    },
+    {
+      "tStartMs": 760040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "to the people\nthat sell these products or again,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 762800,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "the brands themselves making sure on the\npackaging that it's really transparent,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 767160,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "that these products are not designed\nfor children. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 770080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Annabel, just for the record,\nI think you've got perfect skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 772680,
+      "dDurationMs": 400,
+      "segs": [
+        {
+          "utf8": "Thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 773080,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "I would not say that right now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 775640,
+      "dDurationMs": 1320,
+      "segs": [
+        {
+          "utf8": "I'll take it.\nThank you very much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 776960,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Thank you so much for coming back\non the podcast, Annabel."
+        }
+      ]
+    },
+    {
+      "tStartMs": 779400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And thank you for joining us.\nWhether you're watching or listening,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 782200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "this is What in the world from the\nBBC World Service. I'm Hannah Gelbart"
+        }
+      ]
+    },
+    {
+      "tStartMs": 785400,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and we'll be back with another\nepisode soon. See you then. Bye."
+        }
+      ]
+    }
+  ]
+}

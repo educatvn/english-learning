@@ -1,0 +1,1958 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Do you have kids? Do you want them?\nCould you afford them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 3160,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "A new global study\nby the United Nations has found"
+        }
+      ]
+    },
+    {
+      "tStartMs": 5640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "that one in five people haven't had"
+        }
+      ]
+    },
+    {
+      "tStartMs": 7760,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "or expect they won't have the number\nof children that they want."
+        }
+      ]
+    },
+    {
+      "tStartMs": 10920,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And they say the main reasons for\nthis are the cost of being a parent"
+        }
+      ]
+    },
+    {
+      "tStartMs": 14160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and not being able to find\na suitable partner."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So on today's episode, we're going\nto look at which countries have been"
+        }
+      ]
+    },
+    {
+      "tStartMs": 19840,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "most impacted by falling fertility rates\nand what they can do to address it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 24000,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 32520,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And joining me here in the studio\nis the BBC's"
+        }
+      ]
+    },
+    {
+      "tStartMs": 34720,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "population correspondent\nStephanie Hegarty. Hello."
+        }
+      ]
+    },
+    {
+      "tStartMs": 36880,
+      "dDurationMs": 520,
+      "segs": [
+        {
+          "utf8": "Welcome back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 37400,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Hi. Thanks for having me again.\nSo we're talking about fertility rates,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 40120,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "which we know have been declining\nfor decades."
+        }
+      ]
+    },
+    {
+      "tStartMs": 42520,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "What do we actually mean\nby fertility rates."
+        }
+      ]
+    },
+    {
+      "tStartMs": 45360,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "And is that different to birth rates."
+        }
+      ]
+    },
+    {
+      "tStartMs": 47240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So fertility rate is the average\nnumber of children a woman will have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 50680,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "over the course of her lifetime\nor her reproductive years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 54600,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "Um, and that's different from, say,\nfertility as an idea, which is, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59960,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "your ability or not to conceive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62000,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "There's biological fertility, there's\nalso things like social fertility."
+        }
+      ]
+    },
+    {
+      "tStartMs": 64920,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So you may not you may have health\nproblems that stop you from conceiving,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68600,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "but you also may not have a partner."
+        }
+      ]
+    },
+    {
+      "tStartMs": 70760,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And what is significant\nabout this study?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 73120,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "This is about\nfertility intentions, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 75520,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So it's the number of children\nthat people say they want to have,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 79240,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and whether they think\nthat they will achieve that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "or whether if they're older,\nthey have already achieved that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 84840,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And it's about the gap. The findings\nhere are about the gap there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "people just not having the number\nof kids that they want."
+        }
+      ]
+    },
+    {
+      "tStartMs": 90560,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "So as part of this report,\nthe UN Population Fund surveyed 14,000\npeople in 14 different countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 96040,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And these were a mix of low-\nto high-income countries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 99200,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and countries with low fertility\nand high fertility."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101880,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Like South Korea has one of the\nlowest fertility rates in the world,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 105360,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and Nigeria has one of the highest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 107800,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And the findings were different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109920,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "So, for example, um, in South Korea,\nthey reported the highest number"
+        }
+      ]
+    },
+    {
+      "tStartMs": 115600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "of people who found financial\nlimitations were preventing them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 118840,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "from having a child. And then on the\nother end of the scale was Sweden."
+        }
+      ]
+    },
+    {
+      "tStartMs": 121800,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Only 19% of people versus\n58% in South Korea,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125520,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "said financial limitations\nwere stopping them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 127920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "But there was a\nreally interesting group of countries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130320,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "in the middle,\nwhich we haven't heard from much"
+        }
+      ]
+    },
+    {
+      "tStartMs": 132320,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "before when it comes\nto these fertility ideals, places"
+        }
+      ]
+    },
+    {
+      "tStartMs": 136640,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "like India and Indonesia, where\npeople are reporting, again,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 141000,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "financial limitations,\nbut lots of other issues"
+        }
+      ]
+    },
+    {
+      "tStartMs": 143200,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "that are stopping them having, uh,\nthe number of kids that they'd like."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146360,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Was it just women who were asked\nand from a range of ages as well?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149560,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "It was all adults and men and women."
+        }
+      ]
+    },
+    {
+      "tStartMs": 151240,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "But when it comes to trying to find, um,\nconclusions from different age groups,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156160,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "it's difficult because\nthe sample sizes were too small."
+        }
+      ]
+    },
+    {
+      "tStartMs": 158360,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "But this is just a pilot study,\nand UNFPA plans to do more research"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163520,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "in 50 countries actually later\nin the year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 165600,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So what the UNFPA said here is\nthat most people want two"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168760,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "or more children, and\na lot of people aren't filling that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 171480,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And what does that mean if we're\nnot having two or more children?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 175120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Well, it means that essentially\nfrom a human rights perspective,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 178080,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "people aren't fulfilling\ntheir life ideals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 181080,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "But from a wider\nsocietal perspective,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 185640,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "it means that populations are going\nto start declining."
+        }
+      ]
+    },
+    {
+      "tStartMs": 188920,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So if on average a woman has\nless than 2.1 children,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193800,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "you can't have 0.1 of a child,\nbut that's an average."
+        }
+      ]
+    },
+    {
+      "tStartMs": 196400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And then the population\nof that country will decline."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199200,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "It's a little bit higher in places\nwhere there's higher child mortality."
+        }
+      ]
+    },
+    {
+      "tStartMs": 202880,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Um, and it's a little bit lower\nin places"
+        }
+      ]
+    },
+    {
+      "tStartMs": 206120,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "where there's immigration,\nthat offsets these declines."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208480,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "But in general, if you don't if\nevery couple doesn't have 2.1"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211920,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "of their own children,\nthe population will decline."
+        }
+      ]
+    },
+    {
+      "tStartMs": 215040,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And that's basically to replace, right?\nTo replace the couple?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218720,
+      "dDurationMs": 880,
+      "segs": [
+        {
+          "utf8": "Exactly. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 219600,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "And the main reason that people have\ntalked about are financial reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 223920,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "What are some of\nthe other reasons people have given."
+        }
+      ]
+    },
+    {
+      "tStartMs": 227120,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "So overwhelmingly it was financial\nreasons, things like housing and job"
+        }
+      ]
+    },
+    {
+      "tStartMs": 229200,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "insecurity and the costs of having a\nchild and the costs of having a child"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232960,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "have increased so much generation\non generation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235400,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "not just because things like\neducation are getting more expensive,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 239000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "but our expectations\nof parenting are changing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 242360,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So I spoke to a couple in India\nwho have been toying with the idea"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245280,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "of having a second child for five years\nnow since their daughter was born,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "and they were saying\nthat they just want to invest in her."
+        }
+      ]
+    },
+    {
+      "tStartMs": 253040,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And I was asking, well, did your\nparents make the same calculation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 256640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "when they had you and your siblings?\nAnd they said, no, it's very different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 260160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Their parents didn't invest\nas much in education."
+        }
+      ]
+    },
+    {
+      "tStartMs": 263160,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "They didn't feel the pressure to send\ntheir daughter to swimming lessons\nor drawing lessons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 266880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "What about being able to find the\nright person to have a family with?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 270160,
+      "dDurationMs": 920,
+      "segs": [
+        {
+          "utf8": "Yeah, this was interesting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 271080,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So overall it was\n14% of people said this was a reason"
+        }
+      ]
+    },
+    {
+      "tStartMs": 273880,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "that they weren't having children\nthat they wanted, and that was higher"
+        }
+      ]
+    },
+    {
+      "tStartMs": 277880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "than infertility or difficulty\nconceiving just a little bit higher."
+        }
+      ]
+    },
+    {
+      "tStartMs": 281160,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "But I think really interesting\nthat it was."
+        }
+      ]
+    },
+    {
+      "tStartMs": 283760,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "It was just 14%. So\ncompared to 39% who said it was fine,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 288080,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "who listed financial limitations,\nit was less,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 291440,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "but still really interesting that that's\na factor across all of these countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 295080,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Are these drops in fertility rates\ndue to the fact that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 297200,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "women are waiting longer\nbefore they have their first child?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 299840,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So that is definitely a big factor.\nAnd there's two reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 303600,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "One is that when you have a big gap\nin generations,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 307760,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "when one generation has children\nmuch later than the other,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 309880,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "that's going to cause a drop\nin the fertility levels."
+        }
+      ]
+    },
+    {
+      "tStartMs": 312160,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "But the other reason is that if people\nput off having their first child."
+        }
+      ]
+    },
+    {
+      "tStartMs": 316120,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "They have their first at say 38/39."
+        }
+      ]
+    },
+    {
+      "tStartMs": 318520,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "It becomes less likely they're going\nto have a second or a third,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 321120,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "and that's definitely a pattern\nthat we see playing out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 323520,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And it's something that, um, you know,\nsome of the case studies I spoke to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 326440,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "for my reporting spoke about that\nthey can't afford to have a child now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 331400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "They'll think about it\nin a couple of years,\nbut maybe they won't be able to then."
+        }
+      ]
+    },
+    {
+      "tStartMs": 334600,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And what about\nhealth interventions like IVF?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 337120,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "How widely available are they\nin the countries that were surveyed?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 339800,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "The report spoke about this\nin detail. In places like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 343600,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "many African countries\nthat don't have access to IVF,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347600,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "the most expensive\nfertility treatments,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 349640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "but also basic things\nlike regular check-ups, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 353160,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and antibiotics\nto stop infection."
+        }
+      ]
+    },
+    {
+      "tStartMs": 356200,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "All of these things, when\nnot treated, can lead to infertility."
+        }
+      ]
+    },
+    {
+      "tStartMs": 360960,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And there was a gynecologist,\na very eminent gynecologist"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "in Nigeria said that infertility is\nthe biggest reason"
+        }
+      ]
+    },
+    {
+      "tStartMs": 367520,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "that women\nacross Africa visit the gynecologist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "You could imagine the governments\nof different countries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 372960,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "might be quite alarmed\nby this research."
+        }
+      ]
+    },
+    {
+      "tStartMs": 375160,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "They're very, very keen on\npopulations being stable or growing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 379560,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Because of all\nof these economic reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383360,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And government policies\non fertility rates have changed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 387640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "They've kind of been swinging back\nand forth in many different countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390520,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "What are governments trying\nto do to address this?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 393160,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Well, in a way they might be alarmed,\nbut in a way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 395280,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "they might could be relieved in seeing\nthat people want to have more children."
+        }
+      ]
+    },
+    {
+      "tStartMs": 399520,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "If you can just remove\nthe barriers that are in the way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 402120,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "You could help\npeople to have more children."
+        }
+      ]
+    },
+    {
+      "tStartMs": 404080,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "The problem is the barriers are\nso deep and big, like housing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 408600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "You know, it's a housing crisis\nis a very difficult thing to solve."
+        }
+      ]
+    },
+    {
+      "tStartMs": 411600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "The cost of education\nis difficult to tackle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 414600,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Unemployment is a huge problem\nfor governments to tackle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 418240,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So, in a way,\nyou know, this is a positive message"
+        }
+      ]
+    },
+    {
+      "tStartMs": 422280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "in that if you could just sort out\nthese problems,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 425200,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "people will have children rather\nthan a much more difficult problem"
+        }
+      ]
+    },
+    {
+      "tStartMs": 428440,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "is people not wanting\nto have children at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 431160,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "But that's the interesting thing\nabout this report."
+        }
+      ]
+    },
+    {
+      "tStartMs": 433320,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "You know, the UNFPA\nhas spent a lot of, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 436080,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "over the years since it was first set\nup, has focused a lot on the unmet"
+        }
+      ]
+    },
+    {
+      "tStartMs": 440880,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "need for contraception. So that means\npeople who don't have access"
+        }
+      ]
+    },
+    {
+      "tStartMs": 443560,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "to contraception are having\nmore children than they want."
+        }
+      ]
+    },
+    {
+      "tStartMs": 446120,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And this is a bit\nof a shift in this report."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448480,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "But with that problem,\nthere was a solution. Contraception."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452080,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Get improved access to it, get it to\npeople, they will use it, they want it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 456120,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Whereas with this,\nit's much more difficult."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458680,
+      "dDurationMs": 6280,
+      "segs": [
+        {
+          "utf8": "The problems are much more complicated\nand, um, deeply entrenched really,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 464960,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and the kind of things that governments\nwill want to sort out anyway."
+        }
+      ]
+    },
+    {
+      "tStartMs": 468200,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So there's no easy\nsolutions here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 470200,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Talk me through some of the things\nthat governments in places like China"
+        }
+      ]
+    },
+    {
+      "tStartMs": 473680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and South Korea\nare trying to boost fertility rates."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477080,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And is any of it working?\nInterestingly,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 479120,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "this report said quite strongly\nthat some things just aren't working."
+        }
+      ]
+    },
+    {
+      "tStartMs": 482320,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And one of those is baby bonuses.\nSo that's upfront"
+        }
+      ]
+    },
+    {
+      "tStartMs": 484360,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "payments offered to couples\nto convince them to have a child."
+        }
+      ]
+    },
+    {
+      "tStartMs": 488720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "The research is really mixed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 491320,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Quite often it seems people who\nintended to have another kid anyway"
+        }
+      ]
+    },
+    {
+      "tStartMs": 495840,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "were just bringing that forward.\nThese are also"
+        }
+      ]
+    },
+    {
+      "tStartMs": 498640,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "really expensive policies,\nso they cost governments a lot,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502240,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "but it's not clear that they're\nreally boosting fertility rates."
+        }
+      ]
+    },
+    {
+      "tStartMs": 505440,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And another thing the UNFPA said is\na problem here is restricting access"
+        }
+      ]
+    },
+    {
+      "tStartMs": 510200,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "to healthcare, and also\nany sort of coercive policies,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 513800,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that they could create a backlash\namong people who ultimately see this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 517880,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "as, you know, a very personal choice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 520880,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So people don't want the pressure.\nI mean, it's that age old thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 523800,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "You don't want your parents asking you,\nwhen are you going to have a kid?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 526440,
+      "dDurationMs": 960,
+      "segs": [
+        {
+          "utf8": "When are you going to get married?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "But this at the next level\nif it's coming from the government."
+        }
+      ]
+    },
+    {
+      "tStartMs": 530160,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Yeah. So the they were warning\nagainst these kind"
+        }
+      ]
+    },
+    {
+      "tStartMs": 533280,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "of knee-jerk, panicky responses\nthat will just put people off."
+        }
+      ]
+    },
+    {
+      "tStartMs": 537640,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "You know, nobody wants, yeah,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 540560,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "like you say, their parents, let\nalone their government, telling them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 543080,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "what to do in their personal,\nfamily and sex life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 546200,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "But if a lot of this is financial, there\nare things that the government can do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 551120,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "If it's in terms of, you know,\nmaternity leave or,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 554560,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "um, tax breaks or things like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 556880,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "It's interesting.\nIt's interesting, though."
+        }
+      ]
+    },
+    {
+      "tStartMs": 558680,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "There's been a lot of research\non what works and what doesn't work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 561600,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And in the 90s, the\nNordic countries put a lot of effort"
+        }
+      ]
+    },
+    {
+      "tStartMs": 564800,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "into gender equal policies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 567280,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "So they have really advanced maternity\nand paternity leave policies and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 572960,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "a general culture where mums and dads\nhave a more equal role in parenting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 578360,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "You know, dads often leave the office\nif a kid is sick, as moms will."
+        }
+      ]
+    },
+    {
+      "tStartMs": 581840,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And that did have a boost\nin fertility in the 90s and 2000s."
+        }
+      ]
+    },
+    {
+      "tStartMs": 585800,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "But that is has fallen back\na little bit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 588160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So all of the research into this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 590440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "just seems to find again and again\nthat it's so complex."
+        }
+      ]
+    },
+    {
+      "tStartMs": 593560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Those policies are good\nfor a host of other reasons,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 595840,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "but they don't seem to be having\na huge effect on fertility."
+        }
+      ]
+    },
+    {
+      "tStartMs": 599040,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "At the same time,\nyou know, a body"
+        }
+      ]
+    },
+    {
+      "tStartMs": 601080,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "like the UN would advise that\nthose are are good policies to pursue"
+        }
+      ]
+    },
+    {
+      "tStartMs": 606240,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "and it's kind of reluctant to say\nthat they aren't working, I think."
+        }
+      ]
+    },
+    {
+      "tStartMs": 610120,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Um, but yeah, it's an area that's\nbeen very heavily researched and,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 614680,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "um, it's just incredibly complex."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618160,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "We did an earlier episode of the podcast\nabout how China had a matchmaking app"
+        }
+      ]
+    },
+    {
+      "tStartMs": 623680,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "to get more couples to meet up in an\nattempt to increase fertility rates."
+        }
+      ]
+    },
+    {
+      "tStartMs": 628120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Do these kind\nof more radical policies work?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 631080,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "If you look at the results of this\nstudy. Take South Korea, for example."
+        }
+      ]
+    },
+    {
+      "tStartMs": 633880,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "58% of people saying they're not\nhaving the number of kids they want"
+        }
+      ]
+    },
+    {
+      "tStartMs": 636600,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "because of the costs,\nfinancial limitations."
+        }
+      ]
+    },
+    {
+      "tStartMs": 639120,
+      "dDurationMs": 1120,
+      "segs": [
+        {
+          "utf8": "And I've spoken to people there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 640240,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And what comes up again\nand again is the cost of education."
+        }
+      ]
+    },
+    {
+      "tStartMs": 643400,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "All these grind schools the parents\nfeel pressured to send their kids"
+        }
+      ]
+    },
+    {
+      "tStartMs": 646520,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "to and they're really expensive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 649200,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "But interestingly,\ninterestingly, the government"
+        }
+      ]
+    },
+    {
+      "tStartMs": 651240,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "in South Korea isn't really\ninterested in tackling that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 654360,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And that's something concrete\nthat they could do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 656560,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "But I've spoken to people there who\nsay that's the jewel in our crown,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 660080,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "that's our education system,\nis what dragged our country"
+        }
+      ]
+    },
+    {
+      "tStartMs": 664440,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "from low to middle to high income,\nto a high-income country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 667480,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "So they're proud of it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 668720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And without the kind of willingness\nto tackle big things like that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 672040,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "like your education system,\nlike housing, like unemployment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 676560,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "I can't see\nanywhere making a dent on this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 679160,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Stephanie, thank you so much.\nThanks for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 681640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "That is it for today's episode.\nThank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 684200,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart. This is What in\nthe World from the BBC World Service."
+        }
+      ]
+    }
+  ]
+}

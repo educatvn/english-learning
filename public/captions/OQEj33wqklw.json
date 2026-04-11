@@ -1,0 +1,1931 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 120,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Can we really end all new cases\nof HIV globally by 2030?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 5240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It's a goal that's been set by\nthe United Nations,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 7880,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "but with millions\nstill affected by the disease"
+        }
+      ]
+    },
+    {
+      "tStartMs": 10320,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "and progress being threatened by cuts\nto USAID funding."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14920,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "How close are we\nto making it a reality?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 17160,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "That's what we're going to be talking\nabout today on What in the World?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 20000,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "from the BBC World Service\nI'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25600,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And to unpack this a bit more, joining\nus from our Lagos bureau in Nigeria"
+        }
+      ]
+    },
+    {
+      "tStartMs": 29240,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "is BBC reporter Makuochi Okafor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 31360,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Hi. Welcome back to the podcast.\nHi, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 34320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Can you start by just outlining\nwhat the symptoms are of HIV?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37920,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Okay, so HIV is\na sexually transmitted disease."
+        }
+      ]
+    },
+    {
+      "tStartMs": 41680,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "It attacks a person's immune system."
+        }
+      ]
+    },
+    {
+      "tStartMs": 44040,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Now the immune system is\nwhat sort of protects the body"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46360,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "from getting infected\nfrom other diseases."
+        }
+      ]
+    },
+    {
+      "tStartMs": 49120,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "What HIV does is\nonce it attacks the immune system,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52520,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "the body is weak\nand can no longer protect itself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 55320,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So other diseases,\nyou get infected easily"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57440,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "from things like malaria,\ntuberculosis, and other infection."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62040,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Any infection that is sort of\nin your locality or in your area."
+        }
+      ]
+    },
+    {
+      "tStartMs": 65320,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "What are some of\nthe main things that people believe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 67840,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "about HIV and Aids\nthat actually just aren't true?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 70600,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "There are many wrong information\npeople have out there, for example,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74840,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "that HIV can easily be contacted through\nphysical contact like handshake or hugs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 79440,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "These are wrong.\nAnd these sort of mix, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82120,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "when people have HIV or, you know,\na family member that have it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "they don't quickly seek care because\nthey're trying to keep it hush hush"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87440,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "so people wouldn't run away from\ntheir friends or their family members."
+        }
+      ]
+    },
+    {
+      "tStartMs": 90680,
+      "dDurationMs": 1080,
+      "segs": [
+        {
+          "utf8": "These are sort of one."
+        }
+      ]
+    },
+    {
+      "tStartMs": 91760,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "And there's also this\nassumption that when you have HIV,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96000,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "that means you're promiscuous or\nyou're keeping multiple sex partners."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99120,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "There is also this wrong assumption\nthat HIV is a punishment from God."
+        }
+      ]
+    },
+    {
+      "tStartMs": 103480,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "You know, because people feel\nlike you're not moral enough"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106480,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and that's why you're being punished.\nThese are sort of the few very popular"
+        }
+      ]
+    },
+    {
+      "tStartMs": 110200,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and prevalent misinformation\naround HIV and Aids,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 112560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and HIV isn't a death sentence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 114840,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "You know, thankfully we have lots\nof tools to help people survive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118200,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So, sometimes people think that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 120200,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "once they get HIV\nall this means you're going to die."
+        }
+      ]
+    },
+    {
+      "tStartMs": 122320,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "But this isn't accurate because we've\nseen lots of people live over decades,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127000,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "you know, with available tools\nand treatments around HIV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 130720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So these are some\nof the misinformation around HIV"
+        }
+      ]
+    },
+    {
+      "tStartMs": 133120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "that you can hear both here on the\ncontinent and even beyond the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 136400,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "As you say,\nthere is treatment for HIV so that it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138400,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "can now no longer even be detectable\nin people's blood. Right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 141240,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Yes, you're very accurate. So there\nare drugs called antiretroviral drugs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 144800,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "which people living\nwith HIV can take."
+        }
+      ]
+    },
+    {
+      "tStartMs": 147000,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Now this sees that when you're taking\nthis drug you do not pass"
+        }
+      ]
+    },
+    {
+      "tStartMs": 150240,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "on the virus to,\nfor example, a partner."
+        }
+      ]
+    },
+    {
+      "tStartMs": 153080,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Or there are drugs\nthat prevent mothers from passing\non HIV to their unborn kids."
+        }
+      ]
+    },
+    {
+      "tStartMs": 156800,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "There are also drugs like PrEP, which\nsort of protects people who feel"
+        }
+      ]
+    },
+    {
+      "tStartMs": 161320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "like they might be getting\nin contact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163920,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "with HIV,\nwith the virus,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 166440,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "you know, more or less.\nSo there are lots of tools available."
+        }
+      ]
+    },
+    {
+      "tStartMs": 168560,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And then there are things\nlike contraceptives that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 170640,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "to an extent, can also protect you–\nthings like condoms"
+        }
+      ]
+    },
+    {
+      "tStartMs": 174560,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "protect you from getting HIV or Aids.\nSo there are lots of tools now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 178600,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So it's not as scary, quote unquote,\nas it was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 182520,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "you know, many years ago."
+        }
+      ]
+    },
+    {
+      "tStartMs": 185400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Where are cases of HIV highest\nin the world right now?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 188400,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Globally, the African region is\nthe region"
+        }
+      ]
+    },
+    {
+      "tStartMs": 190680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "with the highest HIV prevalence,\nparticularly South Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 194760,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and with about eight million people\nliving with HIV in the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 198800,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Countries like Botswana and Malawi"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202600,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "in Africa have seen, you know,\nconsiderable reduction,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 206200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "but also in the continent on.\nSpeaking about continents,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 209600,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "the European continent\nhas seen slight increase recently."
+        }
+      ]
+    },
+    {
+      "tStartMs": 213240,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "But in Africa,\nthe Tigray region"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217040,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "in Ethiopia has seen an increase\nin cases of HIV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 220560,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And this has been because there's\nbeen prolonged conflict there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 224160,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And there's also cases of sexual\nviolence being used in this conflict"
+        }
+      ]
+    },
+    {
+      "tStartMs": 227560,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "that has impacted lots\nof people living there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 229720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "What about PrEP? How is\nthat contributing to changing rates?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 233040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "You said that they've gone down quite\na lot in the last ten, 20 years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 236000,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "This has been such a strong tool\nin preventing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238560,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and protecting people\nfrom getting HIV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240880,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And what people have done"
+        }
+      ]
+    },
+    {
+      "tStartMs": 243480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and what some countries\nhave done is include PrEP"
+        }
+      ]
+    },
+    {
+      "tStartMs": 246040,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "in their primary healthcare services,\num, which has been very helpful and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 250480,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "lots of countries it's either\nsubsidised or is free."
+        }
+      ]
+    },
+    {
+      "tStartMs": 253360,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So you also kind of increase\nand improve access to getting it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257200,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So, the medication has actually been a\nstrong tool in helping protect people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 261280,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "and prevent HIV\nacross countries globally."
+        }
+      ]
+    },
+    {
+      "tStartMs": 264760,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Discrimination and stigma is\na huge problem for a lot of people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 268840,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "I'll give you an instance. I know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 271000,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and I've heard people say that\nonce they see someone taking PrEP,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 273840,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "they assume the person is HIV\npositive and this is not accurate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 277080,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "And there's so much stigma tied to HIV.\nSo that means even those who do have HIV"
+        }
+      ]
+    },
+    {
+      "tStartMs": 281600,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "or who should be taking PrEP\nare discouraged from taking it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 284800,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "because they feel like, oh,\npeople are going to see me taking it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 287320,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "or people are going to see me walking\nto the hospital to pick up PrEP"
+        }
+      ]
+    },
+    {
+      "tStartMs": 290320,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and they wouldn't take it. These\nare one of or some of the issues."
+        }
+      ]
+    },
+    {
+      "tStartMs": 293440,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And then there is also this issue\nwhere people think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 296200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "that if you're taking PrEP, you are\nassociated with the LGBTQ community."
+        }
+      ]
+    },
+    {
+      "tStartMs": 299600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And this is very wrong because\nPrEP is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 302400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "for everyone who should be taking it\nas prescribed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 305400,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And one of the issues,\nof course, is going to be funding"
+        }
+      ]
+    },
+    {
+      "tStartMs": 307480,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "at the start of the year,\nthe US president, Donald Trump,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 310160,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "said that he is dismantling USAID,\nwhich is the US foreign aid."
+        }
+      ]
+    },
+    {
+      "tStartMs": 315520,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "What effect is that having\non HIV treatment on the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 318480,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "For many countries,\nfor example, I remember the WHO"
+        }
+      ]
+    },
+    {
+      "tStartMs": 321840,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "was saying that countries like Nigeria\nor Kenya could run out of medication,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 326640,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and that's because most\ncountries have relied on aid"
+        }
+      ]
+    },
+    {
+      "tStartMs": 330080,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "in having these drugs available\nfor their citizens."
+        }
+      ]
+    },
+    {
+      "tStartMs": 333400,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "I'm not saying\nthat it's completely all the drugs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335520,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "but most of the drugs\nthat are being used,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 338640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "they get support from foreign aid."
+        }
+      ]
+    },
+    {
+      "tStartMs": 340800,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "But now that you know that's been\ncut, it's definitely going to impact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 344080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "people's access to these drugs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 347160,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "For example,\nI know there's an NGO in Nigeria"
+        }
+      ]
+    },
+    {
+      "tStartMs": 349640,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "that used to offer free PrEP\nfor citizens and for people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 354440,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Sometime in the wake of this cut,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "they put out an announcement to say\nthey won't be doing that any more"
+        }
+      ]
+    },
+    {
+      "tStartMs": 359480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "because they no more have access\nto bringing in these drugs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 362440,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And this means that people now have\nto either rely on getting it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 365520,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "over the counter\nand paying out of pocket."
+        }
+      ]
+    },
+    {
+      "tStartMs": 368680,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "For many people,\nthis would be too high."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370880,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "I do know that the drugs,\nfor example,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 372920,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "in Nigeria go as high as 70,000 Naira\nand that is a lot for many people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 377240,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "There's data from South Africa saying"
+        }
+      ]
+    },
+    {
+      "tStartMs": 379360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that there's been reduced testing,\nin lots of communities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383440,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And this has been\nbecause both the testing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 385560,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "and the treatment have mostly relied\non aid from the US, for example."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391280,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "It's true that some part of PEPFAR\nwas resumed, but it's not all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396560,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And that means that the space\nand the gap that has been left\nneeds to be filled."
+        }
+      ]
+    },
+    {
+      "tStartMs": 400200,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And while that is happening,\npeople's lives are being impacted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 403640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "You mentioned PEPFAR.\nThat is the US's HIV program."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "It stands for the US President's\nEmergency Plan for Aids relief."
+        }
+      ]
+    },
+    {
+      "tStartMs": 410040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So there's PEPFAR,\nthere's USAID, and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 413080,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "it's all a bit confusing because they\nwere frozen, then unfrozen for a bit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 416640,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So now we are going to go to the US\nto explain a bit more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 420080,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "So earlier this year, President Trump\nput a pause on all funding for USAID."
+        }
+      ]
+    },
+    {
+      "tStartMs": 425800,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "That's the United States Agency\nfor International Development."
+        }
+      ]
+    },
+    {
+      "tStartMs": 429440,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "And their job is to send money abroad\nfor things like health programmes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 433680,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "especially in low-income countries,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 436000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and especially for things like HIV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 438440,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So when this 90-day freeze\ntook effect."
+        }
+      ]
+    },
+    {
+      "tStartMs": 441520,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "A lot of these programmes\ntook a hit because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 443720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "they could no longer rely\non US support."
+        }
+      ]
+    },
+    {
+      "tStartMs": 446840,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And one of these programmes was PEPFAR,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 449600,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and it's been credited\nwith saving 26 million lives"
+        }
+      ]
+    },
+    {
+      "tStartMs": 453120,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "with enabling 7.8 million babies\nto be born without HIV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So Congress went ahead\nand stepped in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 461480,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "They issued a waiver which meant\nthat they could access the funding\nimmediately."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466040,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "But even by then, it was too late,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 468440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and a lot of these systems\nwere already dismantled."
+        }
+      ]
+    },
+    {
+      "tStartMs": 471560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So a lot of these clinics had closed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "A lot of these doctors\nhad been relieved of their duties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 476520,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And a lot of people\nstopped taking their medication"
+        }
+      ]
+    },
+    {
+      "tStartMs": 478760,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "because they didn't have access\nto it any more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 481280,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "So, Makuochi, are any of the countries on\nthe continent filling these funding\ngaps themselves?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 485560,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Well, the truth is,\nthe cut was a bit unprecedented and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488120,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "I'm sure many countries didn't make\nprovision for it in their budgets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 491280,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "But what has happened is\nat the wake of this cut,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 494080,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "countries like Nigeria,\nMalawi and Uganda"
+        }
+      ]
+    },
+    {
+      "tStartMs": 496800,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "have sort of made quick adjustments\nin their budget or made provisions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 500600,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "to help see that people living\nwith HIV are cared for and protected."
+        }
+      ]
+    },
+    {
+      "tStartMs": 504600,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "And even those, you know,\ncommunities who might be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506880,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "at risk are also given the care\nthat they need."
+        }
+      ]
+    },
+    {
+      "tStartMs": 509280,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So these are sort of the quick\nadjustments that countries have made."
+        }
+      ]
+    },
+    {
+      "tStartMs": 513400,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "but it will be interesting\nto see how these roles"
+        }
+      ]
+    },
+    {
+      "tStartMs": 516320,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and if it can fill up the gap\nalready existing after this cut."
+        }
+      ]
+    },
+    {
+      "tStartMs": 519760,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "At the start of the episode,\nI mentioned the UN's goal,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 521920,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "which is to completely get rid\nof all new cases of HIV by 2030."
+        }
+      ]
+    },
+    {
+      "tStartMs": 526240,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Are there any countries that are\non track to do that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 528880,
+      "dDurationMs": 6280,
+      "segs": [
+        {
+          "utf8": "Well, countries like Uganda\nhad achieved over 97% coverage"
+        }
+      ]
+    },
+    {
+      "tStartMs": 535160,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "for their target in reaching\nboth preventions and testing for HIV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 540520,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Even South Africa had\nalso done quite well in over 90%"
+        }
+      ]
+    },
+    {
+      "tStartMs": 544480,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "or about 90% in their targets\ntowards reaching this coverage"
+        }
+      ]
+    },
+    {
+      "tStartMs": 548200,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "in terms of both treatment\nand prevention."
+        }
+      ]
+    },
+    {
+      "tStartMs": 550640,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "So yes, many\nor some countries have been on track,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 554800,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "but with this sudden cut,\nit's a bit worrisome how this will be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 559440,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and what could play out,\nbecause lots"
+        }
+      ]
+    },
+    {
+      "tStartMs": 561440,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "of experts have raised their concerns\nabout how the impact is cutting,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 564960,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "this cut would have\nin the progress being made."
+        }
+      ]
+    },
+    {
+      "tStartMs": 568320,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "Apart from the international funding\nthey were getting,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570040,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "what kind of strategies\nwere they using to get?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 572240,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "You know, you mentioned\n97... 90% elimination rates."
+        }
+      ]
+    },
+    {
+      "tStartMs": 576160,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "First of all, what some countries did\nwas to integrate their HIV treatment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 580880,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and prevention and testing programmes\ninto the primary healthcare."
+        }
+      ]
+    },
+    {
+      "tStartMs": 583240,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "So that means it was easy to walk\ninto any primary healthcare"
+        }
+      ]
+    },
+    {
+      "tStartMs": 586000,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and get the care you need, and even\nget your medication or get tested."
+        }
+      ]
+    },
+    {
+      "tStartMs": 589920,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And mostly, and not only were these\navailable for most countries,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 593440,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "it became subsidised or completely\nfree, so you didn't have to think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 596760,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "of paying out of pocket to access\nthese programmes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600520,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "What other countries\nalso did was to move"
+        }
+      ]
+    },
+    {
+      "tStartMs": 603320,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "their treatment\nor their programmes to communities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607120,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So you don't have to think\nof going to the hospitals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 609840,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "The programmes did come\ninto your community,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 612280,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "and that also provided an avenue\nto ensure that there were"
+        }
+      ]
+    },
+    {
+      "tStartMs": 615960,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "public health awareness\nin those communities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618360,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "You know, teaching people\nabout prevention, teaching people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 621000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "about what treatments are available,\nteaching people about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 624040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "what misinformation is accurate\nor what is inaccurate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 626600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So these are some of the programmes\nor strategies"
+        }
+      ]
+    },
+    {
+      "tStartMs": 628840,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "that some countries did implement."
+        }
+      ]
+    },
+    {
+      "tStartMs": 631560,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So what do you think it would take\nfor us to reach that target globally,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 634920,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "to get rid\nof all new cases of HIV by 2030?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 638600,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "It's tricky to say, but some of the\nexperts I've spoken to have told me"
+        }
+      ]
+    },
+    {
+      "tStartMs": 642080,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "that things like increased funding\nwould totally help – increased funding"
+        }
+      ]
+    },
+    {
+      "tStartMs": 646760,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "in HIV and Aids programmes –\nbut also even funding research"
+        }
+      ]
+    },
+    {
+      "tStartMs": 650920,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "around finding new ways\nto either combat HIV or reduce HIV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 655680,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "As we know,\nthere are lots of research going on,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 658400,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "but, you know,\nimproving and advancing this research"
+        }
+      ]
+    },
+    {
+      "tStartMs": 662040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "could perhaps help\nus come quite close to, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 665000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "stopping HIV by 2030."
+        }
+      ]
+    },
+    {
+      "tStartMs": 667040,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "But also there is there is also need\nto make more efforts around stopping"
+        }
+      ]
+    },
+    {
+      "tStartMs": 671080,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "or reducing stigma and misinformation\naround HIV and Aids."
+        }
+      ]
+    },
+    {
+      "tStartMs": 675280,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "These are some of the things\nthat can help us get there by 2030."
+        }
+      ]
+    },
+    {
+      "tStartMs": 678880,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Makuochi, thank you.\nThank you so much, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 681920,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "And thank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 683640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "This is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 686200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart\nand we'll see you next time. Bye."
+        }
+      ]
+    }
+  ]
+}

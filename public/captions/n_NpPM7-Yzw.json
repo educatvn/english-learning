@@ -1,0 +1,3650 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 0,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "If you're a reality\nTV show junkie like me,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2240,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "then you probably know\nyour Survivors from your Bachelors"
+        }
+      ]
+    },
+    {
+      "tStartMs": 5080,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and your Top Models\nfrom your Real Housewives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 8240,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Those franchises have\nbeen stirring controversy for years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 11640,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "and now there's a new show\nin the mix, Beast Games."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16120,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "It comes from the YouTuber Mr. Beast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 18600,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "1000 contestants battled in physical,\nmental and social challenges"
+        }
+      ]
+    },
+    {
+      "tStartMs": 23240,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "for $5 million."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Now, some of these contestants\nhave complained"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28520,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "that they didn't receive enough food\nand that they endured,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 31400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "in their words, emotional distress."
+        }
+      ]
+    },
+    {
+      "tStartMs": 34160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Now, Mr. Beast, writing\non social media,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 36600,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "he said that these claims are blown\nout of proportion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 39640,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "It's not exactly surprising that scandal\nis surrounding another reality TV show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 44600,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "After all controversy and reality TV,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 47240,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "they go together\nlike a Real Housewife and lip filler."
+        }
+      ]
+    },
+    {
+      "tStartMs": 50000,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And let's just say not\neverything ages well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52200,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "So on today's episode, we're going\nbehind the scenes of reality TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 56560,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "We're going to speak to an academic\nand author who focuses on reality TV,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 60920,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and we're going to speak\nto some former contestants."
+        }
+      ]
+    },
+    {
+      "tStartMs": 63600,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "I'm William Lee Adams, and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 68160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Music: \"You got the fashion.\nStyle!\" All right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 72400,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Here to shake up your reality\nis Danielle Lindemann."
+        }
+      ]
+    },
+    {
+      "tStartMs": 76040,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "She is a professor at Lehigh\nUniversity in the United States."
+        }
+      ]
+    },
+    {
+      "tStartMs": 79880,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Danielle, hi. Hi.\nThanks for having me on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 82560,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So in your bio,\nyou say that you like really,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85680,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "really trashy reality television."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "If you sort of stick your hand\nin the trash pile,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 91120,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "what show would you like to pull out?\nOh, that's such a good question."
+        }
+      ]
+    },
+    {
+      "tStartMs": 95320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "I mean, I think my\nfavorite reality show of all time is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 98920,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "RuPaul's Drag Race, although\nI don't know how trashy that is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101760,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So many great redemption narratives\non that show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 104560,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Queens who slip,\nbut they stand up and they slay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 107560,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "I am Team Danielle on this one. Now"
+        }
+      ]
+    },
+    {
+      "tStartMs": 110360,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "in the beginning, God created\nthe earth and then someone came along"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113720,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and they invented reality TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116200,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Could you tell us\nwhat's the genesis of reality TV?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119920,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Yeah, that's such a good question."
+        }
+      ]
+    },
+    {
+      "tStartMs": 121520,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "There's sort of some contention\naround that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 123640,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "So some people will pinpoint,\nyou know, its roots in documentary."
+        }
+      ]
+    },
+    {
+      "tStartMs": 128560,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Others will point to\nthe the dating shows and quiz shows"
+        }
+      ]
+    },
+    {
+      "tStartMs": 133680,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "of the 1950s and 1960s,\nkind of the root of reality TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 138400,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "A lot of people will point to\nMTV's The Real World,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 142360,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "which started airing\nin the early 1990s."
+        }
+      ]
+    },
+    {
+      "tStartMs": 145800,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "That was really\nthe first show that introduced us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 148760,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "to a lot of the conventions\nof reality TV that we see today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 152640,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Most people would agree\nthat Survivor was the show"
+        }
+      ]
+    },
+    {
+      "tStartMs": 155960,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "that just changed everything\nbecause it was on network TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 160080,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Everybody was watching\nthat first season of Survivor,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163440,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "and it paid for itself in\nadvertisements before it even aired."
+        }
+      ]
+    },
+    {
+      "tStartMs": 167440,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So this was the first kind of hint of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 170640,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "what a juggernaut reality television\ncould be and how popular it could be."
+        }
+      ]
+    },
+    {
+      "tStartMs": 175240,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "And so many of the shows that you just\nnamed, you know, The Real World on MTV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 179480,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "They also had Laguna Beach,\nThe Hills, and of course, Survivor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 183360,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "There's sort of a soap opera element\nto all of them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 186480,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "where the smallest slight\ncan be blown up into this huge drama."
+        }
+      ]
+    },
+    {
+      "tStartMs": 191440,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "I'm curious,\nfrom the network perspective,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 194400,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "was there a practical reason that\nthese shows were considered successful?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 198840,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "You know, beyond earning money,\nwas it easy to make?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 201960,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Yeah. You know, so I mean,\none of the reasons reality TV exists"
+        }
+      ]
+    },
+    {
+      "tStartMs": 206680,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "and has endured is because of\nthat kind of cost benefit, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210840,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Reality TV shows generally are\npretty cheap to produce."
+        }
+      ]
+    },
+    {
+      "tStartMs": 215680,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Oftentimes you don't have\nto pay the people who appear on them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218920,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "although sometimes you do.\nYou don't have to build sets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 221880,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "Sometimes you oftentimes\nthe crews are not paid union wages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226880,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So they can be very quick\nand cheap to produce."
+        }
+      ]
+    },
+    {
+      "tStartMs": 230400,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And then they have a huge audience.\nA lot of people are consuming them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 234320,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And one of my favorite shows is\nThe Real Housewives of Atlanta."
+        }
+      ]
+    },
+    {
+      "tStartMs": 238000,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I don't know if you're a fan.\nYeah, yeah, yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "But these women.\nI love all the Real Housewives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 243160,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And that's the thing,\nthey do feel real, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245320,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "You can find someone to identify\nwith. Like NeNe Leakes famously said,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249000,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I'm on a spiritual journey\nand I'm flying first class,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251880,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "and you've got Kenya Moore who says\nyou're always living the moment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 255840,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "if you are the moment. There's some\nkind of aspirational quality there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 259640,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Do you think that people are watching\nbecause they want to be these stars?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 263880,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Do they see themselves\nin these stars? Yeah, I."
+        }
+      ]
+    },
+    {
+      "tStartMs": 266800,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "think it's a nuanced and complex\nrelationship because, yes,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 271320,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "reality TV tends to traffic in these\nkind of broad, archetypal categories."
+        }
+      ]
+    },
+    {
+      "tStartMs": 276720,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "I'm sure we can think\nof a lot of shows that do that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 278640,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "The Real Housewives,\neven The Bachelor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280640,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Right. Usually there's some sort\nof contestant you can point to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283080,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and say, oh, that person is\nthe most like me, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 285960,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "That person is the smart one\nor the shy one or the pretty one."
+        }
+      ]
+    },
+    {
+      "tStartMs": 289880,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "There's sort of somebody\nyou can grab onto and say, okay,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 292680,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "I'm I can see myself in that character,\nthat that person on the screen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 298200,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So there is that.\nBut at the same time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 301560,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "we also watch these shows to kind of\nfor the train wreck factor. Right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 306160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "To kind of symbolically distance\nourselves from the people on the screen"
+        }
+      ]
+    },
+    {
+      "tStartMs": 309680,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and say, well, yeah, that person\nmight be a little like me,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 312400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "but I mean,\nat least my life isn't screwed up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 315160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "like the people who are appearing\non The Bachelor, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317440,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "We kind of feel a sense\nof smug satisfaction"
+        }
+      ]
+    },
+    {
+      "tStartMs": 320480,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "in comparing ourselves\nto the people on the screen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 323080,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And sometimes we just dream\nof getting that rose."
+        }
+      ]
+    },
+    {
+      "tStartMs": 325640,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Sometimes we do, and that's okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 333160,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "You know, when we talk about\nuniversity, the academy, people say"
+        }
+      ]
+    },
+    {
+      "tStartMs": 336200,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "one of the benefits is\nyou meet people who are not like you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339920,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Um, on America's Next Top model,\nyou had Robin,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 342920,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "a conservative Christian\nwho did not want to pose nude,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 345600,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "and then you had Elyse, an atheist\nwho was happy to pose nude,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 349360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "and then conflict kind of unfurled\nfrom there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 352160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Do you see a benefit\nin bringing together people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 355160,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "from completely different worlds, even\nif the motive is to create conflict?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 359960,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I mean, people often look at,\nyou know, the dark side of reality TV"
+        }
+      ]
+    },
+    {
+      "tStartMs": 363080,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and how problematic it can be,\nand that's absolutely valid."
+        }
+      ]
+    },
+    {
+      "tStartMs": 366920,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "But I think we can look\nat some of the good"
+        }
+      ]
+    },
+    {
+      "tStartMs": 369600,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "that reality TV has done as well.\nYou know, especially in terms of,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 374120,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "I would say, LGBTQ representation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 377320,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "You know, shows like The Real World\nwhere, you know, telling LGBTQ stories"
+        }
+      ]
+    },
+    {
+      "tStartMs": 382400,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "long before we were\nreally seeing them on scripted TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 386120,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Someone like, I think the\nmost obvious example is Pedro Zamora,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 390560,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "which is, you know, maybe\npeople today don't know who that is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394080,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "but at the time it was\na really big deal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396080,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "He was on the San Francisco season\nof The Real World in the mid 90s,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 401000,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and he was a gay man.\nHe was living with Aids."
+        }
+      ]
+    },
+    {
+      "tStartMs": 404320,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "He had a commitment ceremony\nto his partner on the show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 409080,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "This was a really big deal\nat the time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 411200,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "so much so\nthat when he ultimately passed away,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 414320,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "the then president, Bill Clinton,\nsaid, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 416680,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "he was really the first gay person,\nthe first person living with Aids"
+        }
+      ]
+    },
+    {
+      "tStartMs": 420480,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "that many of us kind of got to know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 423240,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Um, and so I do think\nthat there is a benefit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 427160,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "to the representation that we see\non reality TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 430720,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "It is more diverse and\nhistorically has been more diverse"
+        }
+      ]
+    },
+    {
+      "tStartMs": 435040,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "than scripted television,\nboth in terms of sexuality,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 438160,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "in terms of gender, in terms of race."
+        }
+      ]
+    },
+    {
+      "tStartMs": 441280,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "And but of course, you know,\nwe have to have the asterisks"
+        }
+      ]
+    },
+    {
+      "tStartMs": 443560,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "because some of those representations\ncan be deeply problematic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448560,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "But I do think there is something\nto be said for representation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452520,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And these reality shows, of course, are\nmeant to reflect reality in some way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 456600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "They're born of their times,\nyou know, they reflect the zeitgeist,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 459840,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and looking back on them,\nthey can be really problematic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463120,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "They haven't aged well. And I want\nto point to America's Next Top model."
+        }
+      ]
+    },
+    {
+      "tStartMs": 467320,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "If you search for a video called \"ways"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469760,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "America's Next Top Model has aged badly,\"\nyou'll get some interesting results."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473600,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And one of the challenges\non this modeling contest"
+        }
+      ]
+    },
+    {
+      "tStartMs": 476680,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "was having contestants portray people\nof other races."
+        }
+      ]
+    },
+    {
+      "tStartMs": 480400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So white people portraying\nAfrican Americans,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 483040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "African Americans portraying\nEast Asian people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 486120,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Looking back,\nit's very, very insensitive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 488880,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "Can you think of any other examples\nof shows that haven't aged well?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493960,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Sure. Yeah.\nThey did that challenge twice"
+        }
+      ]
+    },
+    {
+      "tStartMs": 497040,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "on America's Next Top Model,\nso they did not learn their lesson."
+        }
+      ]
+    },
+    {
+      "tStartMs": 500880,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Um, I mean, people always point\nto The Swan as a classic example."
+        }
+      ]
+    },
+    {
+      "tStartMs": 505560,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "If you don't know,\nthis was an early 2000s show"
+        }
+      ]
+    },
+    {
+      "tStartMs": 507800,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "where they took women who were\nsupposed \"ugly ducklings\""
+        }
+      ]
+    },
+    {
+      "tStartMs": 511320,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and they gave them\nall plastic surgery and like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514000,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "radically remade their bodies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 516080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And they all kind of came out\nlooking the same."
+        }
+      ]
+    },
+    {
+      "tStartMs": 519120,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Um, I think that was a bridge too far\nfor a lot of people."
+        }
+      ]
+    },
+    {
+      "tStartMs": 522120,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "I would guess that\na show like that would not air today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 526320,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And we're actually going to pause\nfor a moment because we have a clip."
+        }
+      ]
+    },
+    {
+      "tStartMs": 530040,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "She was a contestant on The Swan.\nShe's going to share her experience."
+        }
+      ]
+    },
+    {
+      "tStartMs": 534240,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Hello. My name is Tanya Perrotta."
+        }
+      ]
+    },
+    {
+      "tStartMs": 536640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "They asked me what two things\nI would change with plastic surgery"
+        }
+      ]
+    },
+    {
+      "tStartMs": 540320,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "if I had the opportunity,\nthe money and what to do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 544000,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "And, uh, two things I said is\nthat I would like a beautiful smile."
+        }
+      ]
+    },
+    {
+      "tStartMs": 549240,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "Um, at the time,\nI, um, my teeth were really small,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 554200,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and when I smiled,\nit, it just didn't show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 556760,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So I didn't smile a lot\nwith my teeth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 558760,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And so I thought\nI would like some veneers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 561000,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and I would also, um,\nat, like some liposuction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 564720,
+      "dDurationMs": 7200,
+      "segs": [
+        {
+          "utf8": "They wanted to do, um, a tummy tuck,\na brow lift, a face lift, a nose job."
+        }
+      ]
+    },
+    {
+      "tStartMs": 571920,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Um, they wanted to go in\nand do something"
+        }
+      ]
+    },
+    {
+      "tStartMs": 574640,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "to my cheeks to push them up,\nto make them more higher."
+        }
+      ]
+    },
+    {
+      "tStartMs": 578280,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "It was, um, pretty traumatic"
+        }
+      ]
+    },
+    {
+      "tStartMs": 581680,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "when I found that out.\nI didn't really want to go in there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585480,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "and for three months be in LA\nand be nothing in procedures."
+        }
+      ]
+    },
+    {
+      "tStartMs": 590160,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And I knew I'd studied it\nbefore. I knew the dangers of it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 594440,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "That's why I was a little hesitant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 596720,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "I don't have any regrets\nabout doing the show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598920,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "I made so many close friends."
+        }
+      ]
+    },
+    {
+      "tStartMs": 603560,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Um, it helped me get\nenough confidence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 608680,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "So when I did come back to Colorado,\num, I did secure a job."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613880,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And Danielle The Swan was cancelled."
+        }
+      ]
+    },
+    {
+      "tStartMs": 616000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "It was hugely controversial."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618720,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "People said you called them\nugly ducklings."
+        }
+      ]
+    },
+    {
+      "tStartMs": 620800,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "That's almost misogynist.\nYou, you know, subjected them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 623720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "to all this surgery, which\nin many cases may be irreversible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 627040,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Why do you think a show like that\nhasn't been attempted since then?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 631760,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "I mean, because I think for\nall the reasons you mentioned, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 633920,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Because there was\nso much public outcry,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 637400,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "because this was even though other\nshows do involve makeovers that are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 641800,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "almost as extreme\nas the ones on The Swan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 644400,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "This was just a bridge too far.\nJust everything together, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 647560,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Like you said, misogynistically referring\nto the women as ugly ducklings."
+        }
+      ]
+    },
+    {
+      "tStartMs": 651480,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Really having them go under the knife\nand these dangerous procedures, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 656320,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "and all of it together.\nAnd I think but I think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 658480,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "elements of those have persisted\non other reality shows."
+        }
+      ]
+    },
+    {
+      "tStartMs": 661800,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "There are plenty of makeover reality\ntelevision shows, for instance."
+        }
+      ]
+    },
+    {
+      "tStartMs": 665720,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "But I just think that the higher\nlike ball of terribleness"
+        }
+      ]
+    },
+    {
+      "tStartMs": 669080,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "that was The Swan,\nI don't see that being duplicated."
+        }
+      ]
+    },
+    {
+      "tStartMs": 672960,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Um, the other show that I'm thinking\nof is actually a British show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 676280,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Uh, are you familiar with\nThere's Something About Miriam?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 678800,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "This was 2004 again. Again the early 2000s were\nkind of a wild time for reality TV,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 684200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "but this was a show\nwhere they had a transgender woman"
+        }
+      ]
+    },
+    {
+      "tStartMs": 688040,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and these men were competing\nfor her romantically,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 691280,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "but they did not know\nthat she was transgender."
+        }
+      ]
+    },
+    {
+      "tStartMs": 693200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "They thought she was a cisgender woman.\nAnd then at the end of the show,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 696400,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "there was like the big reveal where\nshe came out as transgendered, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 700720,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "obviously super transphobic\nand problematic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 703880,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "And I don't think a show like that\nwould air today. Even at the time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 708240,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "I think there were lawsuits filed\nbecause of this show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 711200,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So, I mean, even at the time, there were\ninklings of how problematic it was."
+        }
+      ]
+    },
+    {
+      "tStartMs": 714360,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "But I would say\nthat that's we've probably moved"
+        }
+      ]
+    },
+    {
+      "tStartMs": 717800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "past airing a show like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 719880,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Miriam was sadly found dead\nin Mexico in 2019,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 724320,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and while her death was years\nafter the show"
+        }
+      ]
+    },
+    {
+      "tStartMs": 727080,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "people do talk about the fact that\nan experience on a reality program"
+        }
+      ]
+    },
+    {
+      "tStartMs": 731440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "can color someone's future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 733960,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "One show that's been under the\nspotlight is America's Next Top Model"
+        }
+      ]
+    },
+    {
+      "tStartMs": 737360,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "and its host, Tyra Banks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 739400,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "There have been academics who have\nsuggested that perhaps she was harder"
+        }
+      ]
+    },
+    {
+      "tStartMs": 743160,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "on African American contestants\nthan she was on white contestants."
+        }
+      ]
+    },
+    {
+      "tStartMs": 746640,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "As with Tiffany,\nthe famous meme not meme,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 749360,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "but the viral clip of her saying,\n\"We were rooting for you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 751840,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "We were all rooting for you.\" Do\nyou think there's anything in that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 756280,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "I think there was this kind of sense\nthat she wanted them to fit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 760240,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "a particular mold. Um."
+        }
+      ]
+    },
+    {
+      "tStartMs": 765640,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Yeah. I mean,\nI think the framing of Tiffany"
+        }
+      ]
+    },
+    {
+      "tStartMs": 770160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "on that show was really interesting\nbecause they framed her as being,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 774400,
+      "dDurationMs": 8000,
+      "segs": [
+        {
+          "utf8": "like a certain type of\nunacceptable African American woman."
+        }
+      ]
+    },
+    {
+      "tStartMs": 782400,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And Tyra was kind of shown\nas trying to, like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 785440,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "move her into a mold that would\nlike be more socially acceptable,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 790480,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "which is really problematic\nin a lot of ways."
+        }
+      ]
+    },
+    {
+      "tStartMs": 793160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And I think at the time,\na lot of people just kind of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 795880,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "didn't it didn't register\nas deeply problematic at the time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 799120,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "I know we can look back and say,\nhow did these things not register?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 801800,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And I think part of it was because, you\nknow, Tyra herself is African American."
+        }
+      ]
+    },
+    {
+      "tStartMs": 805640,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "So I think I would think\nand hope that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 808000,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "if someone if it were like a white\nman who was the judge of the show"
+        }
+      ]
+    },
+    {
+      "tStartMs": 812680,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and doing the same things that\nTyra did, there would have been more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 815400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "outcry. In 2020 during the pandemic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 818400,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "a lot of the more insensitive clips\nfrom America's Next Top Model"
+        }
+      ]
+    },
+    {
+      "tStartMs": 822320,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "started resurfacing online."
+        }
+      ]
+    },
+    {
+      "tStartMs": 824600,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "Among the clips were those of Danielle\nhaving the gap in her teeth widened,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 829920,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "photoshoots where girls were asked\nto portray women of other races,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 833360,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and comments\ntowards Tiffany Richardson."
+        }
+      ]
+    },
+    {
+      "tStartMs": 836120,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "We were all rooting for you. Now"
+        }
+      ]
+    },
+    {
+      "tStartMs": 838120,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "that prompted Tyra\nto issue a statement on social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 841840,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "She said, quote,\n\"Been seeing the posts"
+        }
+      ]
+    },
+    {
+      "tStartMs": 844360,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "about the insensitivity of some past\nANTM moments and I agree with you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 849560,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Looking back,\nthose were some really off choices."
+        }
+      ]
+    },
+    {
+      "tStartMs": 852480,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "Appreciate your honest feedback and am\nsending so much love and virtual hugs.\""
+        }
+      ]
+    },
+    {
+      "tStartMs": 858040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And Ken Mok,\none of the show's producers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 860800,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "he replied to that statement\non social media saying this. Quote,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 865400,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "\"I look at some of those ANTM moments\nand cringe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 868960,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Just a FYI, the entire creative team\nmade the choices in those shows,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 873680,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "not just Tyra.\nSo please feel free to yell at me"
+        }
+      ]
+    },
+    {
+      "tStartMs": 876840,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "for some of the worst moments\nin ANTM history."
+        }
+      ]
+    },
+    {
+      "tStartMs": 880040,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Apologies to all.\" I want\nto bring in Angelea Preston now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 884240,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "She is a broadcaster\nand a journalist in New York."
+        }
+      ]
+    },
+    {
+      "tStartMs": 887320,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "She first came to the public's\nattention in 2010 when she competed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 890760,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "on America's Next Top Model."
+        }
+      ]
+    },
+    {
+      "tStartMs": 893000,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "She returned a year later for the All\nStars edition and she won it all,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 897600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "but producers then stripped her"
+        }
+      ]
+    },
+    {
+      "tStartMs": 899840,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "of her title after it emerged that\nshe had worked briefly as an escort."
+        }
+      ]
+    },
+    {
+      "tStartMs": 904680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Now, I had hoped you could see her\nin all her glamazon beauty."
+        }
+      ]
+    },
+    {
+      "tStartMs": 908360,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "However, she's just come off\na night shift,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 910640,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "so she's decided to keep her camera\noff. Angelea hello."
+        }
+      ]
+    },
+    {
+      "tStartMs": 914120,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Hi, William."
+        }
+      ]
+    },
+    {
+      "tStartMs": 916560,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "So good to see you.\nThanks for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 919320,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "That was a.\nReally, really good intro. I like it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 922320,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Oh, thank you.\nAnd I'm sorry for any awkwardness,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 924800,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "so let's just address that elephant\nin the room."
+        }
+      ]
+    },
+    {
+      "tStartMs": 927760,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "You know that incident where\nyour title was stripped from you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 931320,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "How do you reflect on that now?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 933400,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Just going through it,\nI realized that this isn't something\nI should be ashamed of."
+        }
+      ]
+    },
+    {
+      "tStartMs": 937560,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And I feel\nlike that I was wronged, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 939800,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "like they took my stuff away from me\nbecause I made a mistake."
+        }
+      ]
+    },
+    {
+      "tStartMs": 943080,
+      "dDurationMs": 1160,
+      "segs": [
+        {
+          "utf8": "We all make mistakes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 944240,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "I just feel like it was wrong\nhow they how they went about it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 947400,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "I was scared about what people\nwould think about me and judge me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 951160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "But then I was like,\nwhy do I care what people think?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 953880,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "I just wanted people to know, like\nI was the real winner. It was me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 957840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "There's been a lot of talk,\nsome of it in academia, that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 961160,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "perhaps Tyra Banks is harsher on black\ncontestants than white contestants."
+        }
+      ]
+    },
+    {
+      "tStartMs": 966880,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Do you think\nthere's anything to that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 969240,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "I feel like that Tyra was not\nvery helpful to the urban girls."
+        }
+      ]
+    },
+    {
+      "tStartMs": 974640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "The urban black girls, to this day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 977720,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "I don't understand why,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 980240,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "but it doesn't bother me. This is\njust something that I've noticed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 984480,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "If you watch the previous cycles and\nyou see all the girls who are labeled"
+        }
+      ]
+    },
+    {
+      "tStartMs": 987840,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "as urban, as ghetto, as rough\naround the edges,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 990680,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "they'll probably tell you, no,\nshe didn't help me after the show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 994640,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "When you hear the theme tune\nto Top Model these days,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 997800,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "when it's on in the background,\ndoes it elicit fear?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1001000,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Joy? A combination of both?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1003160,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Sometimes when I hear it, I'm like,\nI smile and I'm like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1006280,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I can't believe I was a part\nof something historic, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1009280,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "something iconic.\nIt was one of the first reality shows"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1012480,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "in a time when there weren't\nmany reality shows on TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1015880,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "But then also when I hear it, I'm like.\nOh Lord."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1021200,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "But for the most part,\nit's happy thoughts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1023560,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Me and my niece actually started\nto binge watch the episodes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1027040,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "that uh, I was on,\nbut we cut those off real quick."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1031080,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Cuz she she was looking\nat me like I was crazy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1034840,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and I was like, I can't believe I did\nand said some of that stuff."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1037680,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "A final question for you. People\nnow look back on episodes and say"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1041720,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "that's deeply culturally insensitive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1043920,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "This hasn't aged well. At the time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1046480,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "when you were participating,\ndid anything seem insensitive or was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1051400,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "it just sort of accepted it was part of\nthe time you were living in back then?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1054960,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I think it was a part\nof the time that we were living in,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1057960,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "because now it's like,\noh my God,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1060320,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "like you would never have\nsomeone change their race,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1062600,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "right? It wasn't on my cycle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1064720,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "But there was like this shoot where\nthey changed ethnicities and, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1070360,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "such and such\nis going to be an indigenous woman."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1073040,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And then this person's going to be\nan African American woman."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1075960,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Me as a viewer,\nat the time, I thought it was cool."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1078960,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Like I was like, oh, this is dope."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1081240,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Only because me being\na lighter skinned, a mixed woman,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1084920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "but I'm a black woman,\nlike I identify as a black woman."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1088880,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "That's who I am."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1090320,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Um. I've always been told, you know,\nyou look ethnically ambiguous,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1093960,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "but just for me, I just looked at it\nlike it was like, dang, that's cool."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1096920,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Oh my God.\nAnd that's creative."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1099720,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Do I think it's problematic?\nOf course. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1102400,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Looking back on it, yeah, a lot of the\nstuff were a bit, you know, troublesome."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1106760,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "Now we hold people accountable\nfor their actions and for,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1112320,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "for things that\nin the past we didn't you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1115320,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and I think also there's probably\na little bit of taboo"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1119400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "that you couldn't say\nthis or couldn't do this back then"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1122160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "because you didn't want to upset\nthe status quo."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1124720,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Well, Angelea, let me just say this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1127040,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "I have one photo in my hands and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1129400,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "it goes to the girl who originally\nwon America's Next Top Model"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1132840,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "All Stars.\nThank you so much for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1139440,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "We talk a lot about inappropriate\nbehavior with reality TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1143080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "There's been criticism.\nYou know, contestants aren't looked"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1145680,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "after. Producers are maybe treating\npeople like they're circus acts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1150240,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "You know that that's happened\nin the past."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1152280,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Is there a specific incident\nthat you think's galvanized change?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1156000,
+      "dDurationMs": 680,
+      "segs": [
+        {
+          "utf8": "Well, I think okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1156680,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So I think, you know,\nespecially in the United States,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1159080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "um, you know, post, um,\nGeorge Floyd's murder."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1162280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So he was a black man\nwho was murdered by a police officer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1165360,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "It was, you know, on on tape. Um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1168080,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "and, you know, the protests around his\nmurder combined with the MeToo movement,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1173120,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "I think in the wake of those things,\nwe have seen movement."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1175840,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "We have seen movement\non the reality TV front."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1179000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Although I will say, I mean,\nso a show like Cops,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1182360,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "for instance, which was canceled\nin the wake of George Floyd,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1185640,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "bounced back a year later\non a different network."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1188040,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Danielle, we're going to come back\nto you in a minute. But first,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1190160,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "I want to hear from a contestant\non a more recent reality show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1193800,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Reality contestants often find\nthemselves in difficult situations,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1197960,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and some of them, they decide\nit's not worth sticking around."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1201680,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "In Nigeria, Big Brother Naija is one\nof the biggest shows on television,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1206160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and it can turn people\ninto celebrities overnight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1209320,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "In 2021, a contestant named Mr.\nKayVee decided to walk out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1214400,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "after experiencing what he described\nas a mental breakdown."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1218320,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "We spoke a little earlier.\nI was mentally exhausted, you know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1222560,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "And then I reached out to the\nmedical team and I told them, okay,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1227840,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "I don't think I'm physically\nor mentally fit to be here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1232200,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So like, I want to, you know,\ngo and, um, attend to myself and,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1236160,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "um, you know, feel a little bit\nbetter basically, you know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1240080,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And for people\nwho don't understand anxiety,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1243240,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "sort of what were the feelings\nyou were having?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1245600,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "Like, I guess, how\nwas it changing your day to day life?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1250640,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Well, like, I feel like a lot\nof people, especially in Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1253800,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "don't know what um,\nmental health is really, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1257360,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "really entails, which I think, um,\nwe it needs a lot of, um, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1261760,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "it needs a lot of, um, attention,\nbasically,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1264520,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "because I was just a common,\num, you know, anxiety."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1268160,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "But when I tell people I have anxiety.\nthey all know what's wrong with you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1270840,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "You lost your mind, were you made or something?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1273360,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "You know, there was a sudden change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1275680,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Then I was all of a sudden\nthere was camera all over my face."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1278320,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "24 seven. You know,\nI didn't like it from that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1281040,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "I was like,\noh, I couldn't really deal with it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1283320,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "Thank you, Mr. KayVee."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1284880,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Now, just to be clear, BB Naija\nhas said that it always does its best"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1289160,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "to protect the mental and physical\nhealth of its contestants,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1292520,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "and Mr. KayVee told me directly that\nproducers assisted him immediately\nafter he went to them with his problems,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1299000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and they provided\nonsite medical care."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1301440,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Danielle, we are in 2025 now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1303840,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "Is there any show you think that\ntypifies the future of reality TV,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1309520,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "or at least will define the genre\nfor the next few years?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1313800,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Oh, any show\nthat typifies the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1316240,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "You know, it's interesting because I\nthink the future of reality TV is not"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1320400,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "these episodic network shows.\nI think we're moving more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1324000,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "They still persist, but\nwe're moving more toward, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1327280,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "the TikTokers, the influencers,\nthose little"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1331680,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "I don't know if people would consider\nthat to be reality TV,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1334960,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "but it's certainly\nreality TV adjacent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1338200,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Um, so the TikTok,\nI guess maybe not TikTok."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1340480,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Well, I guess it's still legal.\nTikTok. YouTube, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1344440,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "The influencers, even Peloton\ninstructors who people are following."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1349240,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Um, I think\nthat those kind of DIY reality shows,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1353000,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "I think those are going to be\nthe future of reality TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1355600,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "If you could be on any reality show,\nwhat would it be?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1359680,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "I think you know, The Traitors,\num, I just love that show."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1364600,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "And so I would to be able to spend\nlike a week with,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1367760,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "like Alan Cumming\nin the Scottish countryside."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1370760,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "You'd have to sign me up.\nDanielle, thank you so much"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1373120,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "for joining us.\nThank you so much for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1375520,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Thank you for watching\nanother episode of What in the World"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1378200,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "from the BBC World Service.\nI'm William Lee Adams."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1381480,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "I'm going to go fire up my TV\nand check out some of these programs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1385400,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "We'll look forward\nto seeing you soon. Bye for now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1387560,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Music: \"So chic, en vogue.\""
+        }
+      ]
+    }
+  ]
+}

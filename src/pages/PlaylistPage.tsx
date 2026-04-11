@@ -4,7 +4,7 @@ import ReactPlayer from 'react-player'
 import { ChevronLeft, ChevronRight, ChevronDown, Play, Brain, X, StickyNote, Plus, Trash2, PanelRight } from 'lucide-react'
 import { AppHeader } from '@/components/AppHeader'
 import { CueText } from '@/components/CueText'
-import { parseJSON3, findActiveCue } from '@/utils/captionParser'
+import { parseJSON3, findActiveCue, fetchCaptionData } from '@/utils/captionParser'
 import type { CaptionCue } from '@/utils/captionParser'
 import { pickQuizWord, maskText } from '@/utils/quizWord'
 import type { VideoMeta, Playlist, VocabEntry } from '@/types'
@@ -146,18 +146,11 @@ export default function PlaylistPage() {
     stopAtMsRef.current = null
     if (!currentVideo) return
     const videoId = currentVideo.videoId
-      const base = import.meta.env.BASE_URL
-      const paths = [`${base}captions/${videoId}.json`]
     async function load() {
-      for (const path of paths) {
-        try {
-          const r = await fetch(path)
-          if (!r.ok) continue
-          const data = await r.json()
-          const result = parseJSON3(data)
-          if (result.cues.length > 0) { setCues(result.cues); return }
-        } catch { continue }
-      }
+      const data = await fetchCaptionData(videoId)
+      if (!data) return
+      const result = parseJSON3(data)
+      if (result.cues.length > 0) setCues(result.cues)
     }
     load().catch(console.error)
   }, [currentVideo?.videoId]) // eslint-disable-line react-hooks/exhaustive-deps

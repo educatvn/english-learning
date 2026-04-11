@@ -1,0 +1,1243 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "The moon landings were faked.\nApollo 11 didn't happen."
+    } ]
+  }, {
+    "tStartMs": 3680,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Humans never set foot on the moon."
+    } ]
+  }, {
+    "tStartMs": 5640,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "You might have read these kind\nof comments online,"
+    } ]
+  }, {
+    "tStartMs": 7720,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "or maybe you've got into a heated\nargument with someone about it."
+    } ]
+  }, {
+    "tStartMs": 11120,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Because the moon landing\nhoax is one of"
+    } ]
+  }, {
+    "tStartMs": 13600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "the most popular conspiracy theories\nof our time."
+    } ]
+  }, {
+    "tStartMs": 16360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Even Kim Kardashian has been called\nout for saying it just didn't happen."
+    } ]
+  }, {
+    "tStartMs": 19560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And that's despite tons of evidence\nthat Neil Armstrong"
+    } ]
+  }, {
+    "tStartMs": 22200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and Buzz Aldrin did land\non the moon in 1969,"
+    } ]
+  }, {
+    "tStartMs": 25880,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "including hundreds\nof kilos of lunar rock"
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "that were collected\nover several different missions."
+    } ]
+  }, {
+    "tStartMs": 30640,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So why do so many people,\nincluding lots of young people,"
+    } ]
+  }, {
+    "tStartMs": 33680,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "not believe\nthat the moon landings happened?"
+    } ]
+  }, {
+    "tStartMs": 35880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "That's what we're going to unpick\ntoday. On What in the World,"
+    } ]
+  }, {
+    "tStartMs": 38320,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "your podcast for\nthe stories that get people talking"
+    } ]
+  }, {
+    "tStartMs": 40560,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "from the BBC World Service with me,\nHannah Gelbart."
+    } ]
+  }, {
+    "tStartMs": 48600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So to break this down, we have got\nour reporter Nathalie Jimenez"
+    } ]
+  }, {
+    "tStartMs": 52840,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "joining us from New York. Hey.\nHi."
+    } ]
+  }, {
+    "tStartMs": 55640,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Thanks for having me.\nAnd we have Jacqui Wakefield,"
+    } ]
+  }, {
+    "tStartMs": 58280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "who's our global disinformation reporter\nhere with me in the studio in London."
+    } ]
+  }, {
+    "tStartMs": 61640,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Hey. Hello.\nSo, Nathalie, first off with you."
+    } ]
+  }, {
+    "tStartMs": 64800,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Where did this idea come from,\nthat the moon landings are a hoax?"
+    } ]
+  }, {
+    "tStartMs": 68440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It's not a new idea.\nIt's not a new conspiracy."
+    } ]
+  }, {
+    "tStartMs": 71960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It didn't just appear on TikTok."
+    } ]
+  }, {
+    "tStartMs": 74240,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It's actually been part\nof the conversation for a while."
+    } ]
+  }, {
+    "tStartMs": 76840,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Ever since the moon landing happened.\nThe first one in 1969."
+    } ]
+  }, {
+    "tStartMs": 81560,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And to put it in context,\nthis was a time"
+    } ]
+  }, {
+    "tStartMs": 84200,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "when the trust or kind of mistrust\nin the government was prevalent."
+    } ]
+  }, {
+    "tStartMs": 88920,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So at the time the Vietnam War\nwas happening, people thought"
+    } ]
+  }, {
+    "tStartMs": 92400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "that the government wasn't being\nfully honest with the public."
+    } ]
+  }, {
+    "tStartMs": 96320,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "So when Bill Kaysing, a writer in the\nUS, published this booklet claiming"
+    } ]
+  }, {
+    "tStartMs": 102440,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "that NASA faked the moon landings in\nthe 1970s, it kind of sparked debate."
+    } ]
+  }, {
+    "tStartMs": 109720,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "And when I say NASA,\nI mean the US National Aeronautics\nand Space Administration."
+    } ]
+  }, {
+    "tStartMs": 115360,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "So they're kind of the department\nthat takes care\nof all of the US space missions."
+    } ]
+  }, {
+    "tStartMs": 119000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "People were wondering, okay, there's\nno real evidence that's being presented."
+    } ]
+  }, {
+    "tStartMs": 123480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "It's just a set of theories.\nBut could this be possible?"
+    } ]
+  }, {
+    "tStartMs": 127800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Could the moon landing\nhave been filmed in a studio?"
+    } ]
+  }, {
+    "tStartMs": 131240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Maybe Hollywood was part of this.\nThere was no real evidence."
+    } ]
+  }, {
+    "tStartMs": 134600,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "It was just theories. And since then,\nthey've kind of all been disproven."
+    } ]
+  }, {
+    "tStartMs": 139200,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "So I want to get into some\nof those theories now with Jacqui."
+    } ]
+  }, {
+    "tStartMs": 142520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "What are the main reasons\nthat people say\nthat the moon landings didn't happen?"
+    } ]
+  }, {
+    "tStartMs": 146560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So there's a couple of the main theories\nthat you kind of see bouncing around."
+    } ]
+  }, {
+    "tStartMs": 150400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So the first is\nthat the flag is blowing on the moon."
+    } ]
+  }, {
+    "tStartMs": 154640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So the flag really shouldn't\nbe moving because you're in space."
+    } ]
+  }, {
+    "tStartMs": 157880,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "There's no wind."
+    } ]
+  }, {
+    "tStartMs": 159200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "But what we're actually seeing is the\nastronauts are twisting the flagpole."
+    } ]
+  }, {
+    "tStartMs": 162560,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So that's why you see some movement\nin the flag."
+    } ]
+  }, {
+    "tStartMs": 165120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Then the other thing is\nthe footprints don't match."
+    } ]
+  }, {
+    "tStartMs": 167840,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "So people have analysed\nthe spacesuit boot of - sorry!"
+    } ]
+  }, {
+    "tStartMs": 174520,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "People have analyzed\nthe spacesuit boot of Neil Armstrong\nand looked at the footprint."
+    } ]
+  }, {
+    "tStartMs": 180080,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And it doesn't match the footprint\nthat they have seen on the moon."
+    } ]
+  }, {
+    "tStartMs": 183800,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Why is that, then?"
+    } ]
+  }, {
+    "tStartMs": 184760,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "It's actually Buzz Aldrin's footprint,\nso it's a different footprint."
+    } ]
+  }, {
+    "tStartMs": 188880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "But I mean, correct, wrong person!"
+    } ]
+  }, {
+    "tStartMs": 191760,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "The next one is you can't see\nany stars in the picture."
+    } ]
+  }, {
+    "tStartMs": 195200,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And the thought there was, 'oh, it\nwould be too difficult to fake the stars"
+    } ]
+  }, {
+    "tStartMs": 198240,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "because then astronomers would know\nit's not actually on the moon.'"
+    } ]
+  }, {
+    "tStartMs": 201320,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "But the issue is,\nis stars - I don't know"
+    } ]
+  }, {
+    "tStartMs": 203560,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "if you've ever tried to photograph\nthe night sky before on like,"
+    } ]
+  }, {
+    "tStartMs": 206640,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "your phone or anything -\nIt never comes out."
+    } ]
+  }, {
+    "tStartMs": 208840,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "It never comes out. So\nunless you're focusing on the stars"
+    } ]
+  }, {
+    "tStartMs": 211280,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "specifically, it's not going\nto come out in the picture."
+    } ]
+  }, {
+    "tStartMs": 213920,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "It was also during lunar daytime,\nso the moon was super bright."
+    } ]
+  }, {
+    "tStartMs": 217600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Reflecting the sun.\nExactly. So it means that the brightness"
+    } ]
+  }, {
+    "tStartMs": 221200,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "of the moon was just drowning out\nthe brightness of the stars."
+    } ]
+  }, {
+    "tStartMs": 223920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "The last one that you see a lot"
+    } ]
+  }, {
+    "tStartMs": 226720,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "is that Buzz Aldrin himself said\nit didn't happen."
+    } ]
+  }, {
+    "tStartMs": 229760,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "This is actually an out\nof context interview from 2015."
+    } ]
+  }, {
+    "tStartMs": 233560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So someone asked him why we've\nnot been back to the moon in so long."
+    } ]
+  }, {
+    "tStartMs": 237400,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "He gives an answer,\nand it's essentially been chopped up"
+    } ]
+  }, {
+    "tStartMs": 239560,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "to make it look like he's saying,\n'we've never been to the moon'."
+    } ]
+  }, {
+    "tStartMs": 242680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So, Nathalie, let's get into some\nof the evidence that it did happen."
+    } ]
+  }, {
+    "tStartMs": 246840,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I mentioned lunar Rock. What\nother evidence is there for this?"
+    } ]
+  }, {
+    "tStartMs": 250280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So I do want to touch\non the lunar rock conspiracy theory,"
+    } ]
+  }, {
+    "tStartMs": 253480,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "since that's one of the pillars,\none of the main kind of arguments"
+    } ]
+  }, {
+    "tStartMs": 257160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "that conspiracy theorists have used\nto disprove that\nthe moon landings actually happened."
+    } ]
+  }, {
+    "tStartMs": 262760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And the claim here is\nthat they're basically fake."
+    } ]
+  }, {
+    "tStartMs": 265520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "They're quote unquote 'Earth rocks'\nor 'meteorites'."
+    } ]
+  }, {
+    "tStartMs": 269040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And that has been, again, debunked."
+    } ]
+  }, {
+    "tStartMs": 271840,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Why? Because these lunar rocks\ncannot be replicated."
+    } ]
+  }, {
+    "tStartMs": 275920,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "They were created\nunder very specific conditions."
+    } ]
+  }, {
+    "tStartMs": 278280,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "They don't contain any water."
+    } ]
+  }, {
+    "tStartMs": 279920,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "They've been exposed\nto extreme cosmic radiation."
+    } ]
+  }, {
+    "tStartMs": 283240,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "They show impact features,\nwhich basically means"
+    } ]
+  }, {
+    "tStartMs": 286160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "that the way they're formed is\na reflection of them being"
+    } ]
+  }, {
+    "tStartMs": 289920,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "in a very low gravity environment,\nexisting in a vacuum."
+    } ]
+  }, {
+    "tStartMs": 294200,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "So no oxygen,\natmosphere free environments,\nkind of like the fancy word."
+    } ]
+  }, {
+    "tStartMs": 299760,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But these rocks have been examined by\nnot just NASA,"
+    } ]
+  }, {
+    "tStartMs": 302880,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "but also scientists in Japan,"
+    } ]
+  }, {
+    "tStartMs": 304960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "in the UK, in France and Germany."
+    } ]
+  }, {
+    "tStartMs": 307760,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "These scientists\nreally have no stake here."
+    } ]
+  }, {
+    "tStartMs": 310760,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "I mean, you know, they have no reason\nto kind of back up NASA"
+    } ]
+  }, {
+    "tStartMs": 317720,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and kind of - were not part\nof the space race."
+    } ]
+  }, {
+    "tStartMs": 321880,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "They are real.\nThey've been proven to be real."
+    } ]
+  }, {
+    "tStartMs": 324560,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Also, there are mirrors on the moon,\nwhich I just recently discovered"
+    } ]
+  }, {
+    "tStartMs": 329080,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "that were placed there\nduring several missions,"
+    } ]
+  }, {
+    "tStartMs": 331240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "which you can actually\nkind of reflect things off of."
+    } ]
+  }, {
+    "tStartMs": 334600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "It's kind of a proof that when you\nreflect something off of those mirrors"
+    } ]
+  }, {
+    "tStartMs": 337920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and it bounces back,\nthat they're actually there."
+    } ]
+  }, {
+    "tStartMs": 340960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "The satellite imagery\nthat goes along with that"
+    } ]
+  }, {
+    "tStartMs": 343520,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "shows the moon landing locations."
+    } ]
+  }, {
+    "tStartMs": 346600,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "There are craters,\nthere is actual physical evidence"
+    } ]
+  }, {
+    "tStartMs": 349840,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "that we've brought back with us.\nSo that's, you know,"
+    } ]
+  }, {
+    "tStartMs": 352520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "pretty good proof that us astronauts\nwent to the moon six times."
+    } ]
+  }, {
+    "tStartMs": 356840,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So we heard from Nathalie.\nAll of that evidence, right?"
+    } ]
+  }, {
+    "tStartMs": 359800,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Especially the rock. The rock."
+    } ]
+  }, {
+    "tStartMs": 362840,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "You can't forget about the rock.\nYou can't forget about the rock."
+    } ]
+  }, {
+    "tStartMs": 364960,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So why do some people find\nthis so hard to believe?"
+    } ]
+  }, {
+    "tStartMs": 368000,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "I think there's a couple\nfactors here."
+    } ]
+  }, {
+    "tStartMs": 369720,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "So the first is, I mean,\nit's the moon, right?"
+    } ]
+  }, {
+    "tStartMs": 373040,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "It feels so out\nof reach for so many of us."
+    } ]
+  }, {
+    "tStartMs": 376200,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I think there's this whole idea that,\nlike, as I mean,"
+    } ]
+  }, {
+    "tStartMs": 380160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "humanity or the US can't solve\nsometimes the most basic problems."
+    } ]
+  }, {
+    "tStartMs": 384720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How could they send people\nto the moon?"
+    } ]
+  }, {
+    "tStartMs": 387720,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I think there's also this idea\nof, you know,"
+    } ]
+  }, {
+    "tStartMs": 390680,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "it was a competition with\nthe Russians during the Cold War."
+    } ]
+  }, {
+    "tStartMs": 393920,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So I think a lot of people kind of\nlike the narrative that Americans had"
+    } ]
+  }, {
+    "tStartMs": 398400,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "to make up that they got there in order\nto seem like they won the space race."
+    } ]
+  }, {
+    "tStartMs": 403080,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "But it is important to note\nthat the Russians have acknowledged"
+    } ]
+  }, {
+    "tStartMs": 405720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the US did land there first."
+    } ]
+  }, {
+    "tStartMs": 408120,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So that's another piece of evidence.\nI think there's also this kind"
+    } ]
+  }, {
+    "tStartMs": 411600,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "of idea that this mission was like\nsuch a genuine leap for humanity."
+    } ]
+  }, {
+    "tStartMs": 416680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "It involved hundreds of people,\nbillions of dollars of budget."
+    } ]
+  }, {
+    "tStartMs": 420280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "And I think people were just very\n- find that very difficult to believe"
+    } ]
+  }, {
+    "tStartMs": 423880,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "that humanity could work together\nso solidly."
+    } ]
+  }, {
+    "tStartMs": 426920,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Yeah. We hear it all the time, you\nknow, we can put a man on the moon,"
+    } ]
+  }, {
+    "tStartMs": 430160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "but we can't solve hunger,\nhomelessness, all of"
+    } ]
+  }, {
+    "tStartMs": 433880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "these very, very earthling problems."
+    } ]
+  }, {
+    "tStartMs": 436280,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And this, you know,\nyou guys have both said"
+    } ]
+  }, {
+    "tStartMs": 438720,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "that these conspiracy theories\nhave been around since 1969."
+    } ]
+  }, {
+    "tStartMs": 442840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Since the first mission,\npretty much people have doubted."
+    } ]
+  }, {
+    "tStartMs": 445840,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And then there was this sense\nof lack of trust in institutions,"
+    } ]
+  }, {
+    "tStartMs": 449240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "which reminds me a little bit of the\nenvironment that we're living in now."
+    } ]
+  }, {
+    "tStartMs": 454120,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And is that why we're seeing\na resurgence of these conspiracy\ntheories among younger people?"
+    } ]
+  }, {
+    "tStartMs": 458320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Yeah. Well, we're certainly seeing\na huge resurgence."
+    } ]
+  }, {
+    "tStartMs": 460960,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I think there was a survey a couple\nof years ago that found"
+    } ]
+  }, {
+    "tStartMs": 463200,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "that moon landing hoaxism was\nmost common amongst young people."
+    } ]
+  }, {
+    "tStartMs": 468440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So more young people believe that this\nwas faked than any other generation."
+    } ]
+  }, {
+    "tStartMs": 472760,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "How long are you talking?"
+    } ]
+  }, {
+    "tStartMs": 473880,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So 18 to 24 year olds, but also\nthe group of 24 to 35 year olds."
+    } ]
+  }, {
+    "tStartMs": 478080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "It was also quite high. And\nsocial media presumably helping that"
+    } ]
+  }, {
+    "tStartMs": 481840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "because it just lets\nthese things spread like wildfire."
+    } ]
+  }, {
+    "tStartMs": 484560,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Exactly. I think there's - I mean,\nthere's a couple of factors."
+    } ]
+  }, {
+    "tStartMs": 487120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "The first is\nit's not in our living memory, and"
+    } ]
+  }, {
+    "tStartMs": 489840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "it's also not in a lot\nof our parents living memory."
+    } ]
+  }, {
+    "tStartMs": 492360,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So it's quite a far way away."
+    } ]
+  }, {
+    "tStartMs": 494960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Yes, I think\nsocial media has a factor to play."
+    } ]
+  }, {
+    "tStartMs": 497400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "As I mentioned earlier,\nthe idea that you can clip up clips"
+    } ]
+  }, {
+    "tStartMs": 500840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and make evidence out of nothing.\nAnd that goes viral on social media."
+    } ]
+  }, {
+    "tStartMs": 505240,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "I think there's also\nlike an aspect of our generation"
+    } ]
+  }, {
+    "tStartMs": 508360,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and younger generations being\nlike the hot take generation."
+    } ]
+  }, {
+    "tStartMs": 512160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There's no hotter take\nthan a conspiracy theory."
+    } ]
+  }, {
+    "tStartMs": 514160,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "It's an exciting thing to tell people\nand it's an exciting opinion to have,"
+    } ]
+  }, {
+    "tStartMs": 518360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and it's an exciting opinion\nto share online."
+    } ]
+  }, {
+    "tStartMs": 520920,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Therefore,\nit just spreads more and more."
+    } ]
+  }, {
+    "tStartMs": 522360,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Yeah they do. They generate\nso much interest, don't they?"
+    } ]
+  }, {
+    "tStartMs": 524800,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "People who have these slightly radical\nand share conspiracy theories,"
+    } ]
+  }, {
+    "tStartMs": 527560,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "they're the ones that stoke emotions\nand that get so many followers."
+    } ]
+  }, {
+    "tStartMs": 531040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Exactly. And evidence based\nvideos, posts."
+    } ]
+  }, {
+    "tStartMs": 534920,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "It's just not as exciting,\nunfortunately."
+    } ]
+  }, {
+    "tStartMs": 537240,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "I mean, like, I know\nwhen I go to a party, I'm like,"
+    } ]
+  }, {
+    "tStartMs": 539200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "oh, that's my hot take going to be\nfor tonight."
+    } ]
+  }, {
+    "tStartMs": 541400,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "And it's always something crazy."
+    } ]
+  }, {
+    "tStartMs": 543320,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "I wouldn't go\nwith a very reasonable hot take."
+    } ]
+  }, {
+    "tStartMs": 546960,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "I'm not talking about 100 kilos of\nof lunar rock."
+    } ]
+  }, {
+    "tStartMs": 551920,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Jacqui difficult question for you."
+    } ]
+  }, {
+    "tStartMs": 554280,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "How do you speak\nto people who believe"
+    } ]
+  }, {
+    "tStartMs": 557680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "in conspiracy theories\nthat have been disproven?"
+    } ]
+  }, {
+    "tStartMs": 560240,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I think the best way to do it\noften is just"
+    } ]
+  }, {
+    "tStartMs": 563640,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "by asking them questions\nback to them."
+    } ]
+  }, {
+    "tStartMs": 566760,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "The evidence that conspiracy theories\nhave, fall apart very, very quickly."
+    } ]
+  }, {
+    "tStartMs": 571680,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And as you sort of slowly ask\nthe questions, rather than do it"
+    } ]
+  }, {
+    "tStartMs": 574720,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "in an accusatory way, you're just slowly\nkind of 'unfoiling' that belief."
+    } ]
+  }, {
+    "tStartMs": 580280,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So that's kind of how I like to do it,\nis let them come to their own conclusion"
+    } ]
+  }, {
+    "tStartMs": 583840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that perhaps the evidence\nfor their conspiracy is a bit flimsy."
+    } ]
+  }, {
+    "tStartMs": 586840,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So if we're going to like role play,\nthat would be like,"
+    } ]
+  }, {
+    "tStartMs": 589680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "why do you believe that?\nYeah. And then, as they say,"
+    } ]
+  }, {
+    "tStartMs": 592560,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "each piece of evidence be like,\nwell, where did you see that?"
+    } ]
+  }, {
+    "tStartMs": 595160,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, I saw this clip here.\nShall we go watch the full clip?"
+    } ]
+  }, {
+    "tStartMs": 598160,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Of course, it does require you to know\nall of the ways to debunk that theory"
+    } ]
+  }, {
+    "tStartMs": 602920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and you can get\ninto some pretty hairy situations."
+    } ]
+  }, {
+    "tStartMs": 605560,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Definitely. But I think at the end\nof the day, we've got this great"
+    } ]
+  }, {
+    "tStartMs": 608640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "- we've got our phones in our hands."
+    } ]
+  }, {
+    "tStartMs": 610800,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You can check things.\nThere's ways to kind of double check."
+    } ]
+  }, {
+    "tStartMs": 613800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "I think there's also an aspect here of\nlike how much are celebrities and people"
+    } ]
+  }, {
+    "tStartMs": 619000,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "like Kim Kardashian, whose job it is to\nmake news - How much of it is rage bait?"
+    } ]
+  }, {
+    "tStartMs": 623200,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Like how much is it where, you know,\nthey just want to have an exciting clip?"
+    } ]
+  }, {
+    "tStartMs": 627720,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "What I also would like to say is\nthat, you know,"
+    } ]
+  }, {
+    "tStartMs": 629840,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "in order for this conspiracy theory\nto be real, Russia would have to be"
+    } ]
+  }, {
+    "tStartMs": 633920,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "in support of it.\nHundreds of people."
+    } ]
+  }, {
+    "tStartMs": 636760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "How many people does it take\nto keep this conspiracy a secret?"
+    } ]
+  }, {
+    "tStartMs": 639640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And is that even possible?\nUsually, no."
+    } ]
+  }, {
+    "tStartMs": 641640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Yeah. And there have not been leaks\nfrom, you know,"
+    } ]
+  }, {
+    "tStartMs": 643800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "no one in the space mission\nhas said actually, you know,"
+    } ]
+  }, {
+    "tStartMs": 647800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "here I finally - I'm going to speak."
+    } ]
+  }, {
+    "tStartMs": 650000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Exactly. There's been no whistleblowers.\nThere's been no whistleblowers."
+    } ]
+  }, {
+    "tStartMs": 652760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Guys, thank you both so much\nfor joining me on this episode."
+    } ]
+  }, {
+    "tStartMs": 655160,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "It's been great having you.\nThank you so much."
+    } ]
+  }, {
+    "tStartMs": 657200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Thanks, guys. Thank you.\nThat's it from us."
+    } ]
+  }, {
+    "tStartMs": 660200,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "But please do check out some\nof our other episodes right here on"
+    } ]
+  }, {
+    "tStartMs": 663040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "the BBC World Service YouTube channel\nor wherever you get your BBC podcasts."
+    } ]
+  }, {
+    "tStartMs": 666920,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And while you're here,\nlike, share or comment below."
+    } ]
+  }, {
+    "tStartMs": 669800,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "We love reading what\nyou guys have to say. I'm Hannah."
+    } ]
+  }, {
+    "tStartMs": 672320,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "This is What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 674560,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "We'll see you next time."
+    } ]
+  } ]
+}

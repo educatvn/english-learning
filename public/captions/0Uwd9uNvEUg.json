@@ -1,0 +1,1994 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 40,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "The wigs and hair extensions\nthat you see in shops"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and beauty salons\nmight look sleek and glamorous,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 5080,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "but have you ever stopped to wonder\nwhere that hair actually comes from?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 8680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "The human hair industry\nis worth billions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 11520,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and most of it is supplied by India,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 14240,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and it takes\na pretty unexpected journey,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 16560,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "starting out in temples, combs\nand even drains across the country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 20560,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So today we're going to untangle where\nyour hair extensions come from and ask,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 24960,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "why is human hair such big business?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 27480,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 34600,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Okay, let's find out\nabout India's booming hair industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 37800,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I'm speaking to Priti Gupta,\na journalist in Mumbai."
+        }
+      ]
+    },
+    {
+      "tStartMs": 40680,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Hi, Priti.\nHi. How are you doing?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 43240,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Very well, thank you. Thank you\nfor joining us on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 46160,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So India is the world's\nbiggest exporter of human hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 49640,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Just how much hair does\nIndia export for wigs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52040,
+      "dDurationMs": 7080,
+      "segs": [
+        {
+          "utf8": "It seems like India basically exports\nmore than 200 billion\nto 500 billion USD hair each year,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59120,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "according to the market's need\nand the environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62200,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "It seems Indian hair is too popular."
+        }
+      ]
+    },
+    {
+      "tStartMs": 64680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "And where exactly\ndoes that hair come from?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 66760,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Talk me through how it's collected."
+        }
+      ]
+    },
+    {
+      "tStartMs": 69440,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So it's a very surprising journey\nwhen we look at this hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 72000,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "The hair is sourced\nfrom two different sources."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74200,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "One is a temple hair,\nwhich is like clean, beautiful hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78120,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "India has a culture where there are\nfew temples in southern part of India,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 81720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "where a lot of women\nand men shave their hair,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 84840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "like donating it to God\nwhen their wishes get fulfilled."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88280,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "The other section\nwhere the hair is collected"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "is like quite surprising for us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 92840,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "They go to salons basically,\nor even from the garbage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 98160,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "There are hair pickers which go to the\nhuge garbage places and collect hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 102880,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "They go from door\nto door to collect hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 104960,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Anybody, any women\nin rural areas can sell their hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 108360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Hair seems to be\na huge business in India."
+        }
+      ]
+    },
+    {
+      "tStartMs": 110960,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "How much do the people who collect the\nhair - How much do they get paid for it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 114960,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "People who collect it\nhave a very minimal job."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118480,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Like, hardly - they get a dollar\nor something like that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 121000,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "for one kilogram of hair.\nBecause the hair that they collect,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "the hair that they collect from\ndifferent sources are not clean hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 127440,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "They are hair which are picked up\nfrom garbages,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130280,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "from different women's houses,\nfrom hair brushes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So these hair\nare sorted out, cleaned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 136720,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "The process after collecting the hair"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138760,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "is much lengthier\nthan the collection of the hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 140960,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "That's one of the reason the hair,\nwhich we look at collected"
+        }
+      ]
+    },
+    {
+      "tStartMs": 143640,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "from various different sources - people\nwho collect it is very, very menial,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149120,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "like minimum $1 for a kilogram\nor something like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 152840,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Can you tell me the whole process\nfrom picking the hair,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "to cleaning it, packaging it,\ngetting it made into a wig and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 159040,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "then eventually people wearing it?\nThere are two different kinds of hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "One is a Remy hair, which\nis directly collected from temple."
+        }
+      ]
+    },
+    {
+      "tStartMs": 165960,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So when we look at the auction,\nthe hair is collected."
+        }
+      ]
+    },
+    {
+      "tStartMs": 169240,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "It is much cleaner hair, much length-the\nlength of the hair is much better,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 173920,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "so those hair are less difficult\nto basically clean it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177320,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "The hair is collected,\nwashed, packed and then segregated"
+        }
+      ]
+    },
+    {
+      "tStartMs": 181480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "in terms of the length of the hair.\nAnd then they're exported."
+        }
+      ]
+    },
+    {
+      "tStartMs": 184440,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "The difficult part is non Remy here\nbecause that comes in entangled,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187960,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "people who comb their hair\nor it's collected from the garbage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190800,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "That hair is collected, sorted according\nto the length of different varieties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195920,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "In fact when we look at hair,\nthe colour of the hair matters."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199440,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "The brown hair,\nthe black hair or the grey hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 202760,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Once the hair is sorted, then the\nlength is decided. The hair is clean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 207480,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "An instrument called wedge is used,\nwhich is very, very similar,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "like a comb.\nThe hair is passed through that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 213200,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "the hair is untangled,\nwashed, cleaned, bleached,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217400,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and then it's exported basically.\nSo it's a long process."
+        }
+      ]
+    },
+    {
+      "tStartMs": 221440,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "And usually when they wash the hair,\nthe hair - drying is a natural process."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "They don't use machines\nto dry the hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 228760,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Once the hair is washed, cleaned"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231000,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "and then it's packed in different\nsegregation parts like length wise,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 236360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "then it's labeled, packed and,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238520,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "according to different countries\nneeds, the hair is exported."
+        }
+      ]
+    },
+    {
+      "tStartMs": 242080,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So it's exported before it's made\ninto wigs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245600,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Yes, it is exported before it's made\ninto wigs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 249200,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Where does it go and\nwhat's the process from there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251640,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "in terms of it being made\ninto wearable items?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 254360,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Most of the hair that's exported\ngo to China, US and Europe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 258640,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "South African countries do take hair\nfrom India."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261760,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And then the place where we look at\nwhere most of the wigs are made,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265360,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "that's China.\nChina has a huge market"
+        }
+      ]
+    },
+    {
+      "tStartMs": 267840,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "where wigs are made and exported\nto different parts of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 271400,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "But most of the hair that goes is\nfrom India."
+        }
+      ]
+    },
+    {
+      "tStartMs": 273960,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "But the wigs are made in China.\nWhy is it China?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 276400,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "What is it\nabout China that makes so many wigs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 280000,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "When we look at China, China as a set\nindustry where they have proper machines"
+        }
+      ]
+    },
+    {
+      "tStartMs": 284760,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and each house\nbasically has good equipments"
+        }
+      ]
+    },
+    {
+      "tStartMs": 288080,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "to convert the hair into wig,\nthat's not with India."
+        }
+      ]
+    },
+    {
+      "tStartMs": 290880,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "In India, we are picking up because\nwe are realising that hair is gold."
+        }
+      ]
+    },
+    {
+      "tStartMs": 294640,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "It's a machine made wig, basically,\nwhen we look at China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297880,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "India has handmade wigs.\nPriti. You mentioned Remy hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 302000,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "There are of course different types\nof human hair wigs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304520,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "There are synthetic wigs.\nWe've got a question for you now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 307040,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Hello, my name is Yetunde.\nI'm from the UK."
+        }
+      ]
+    },
+    {
+      "tStartMs": 310160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "How much of this is\nactual real human hair?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 314400,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Are we actually sure\nthat what is being produced in China,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 318760,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "in India, are real human hair?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 321160,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "You can - I think anybody basically\ncan understand what is human hair\nand a synthetic hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "The biggest test is basically when\nyou try to burn a strand of a hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 330440,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "If the hair curls,\nbasically,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 332640,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "immediately you realise\nit's an original hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 335240,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "But if the hair is just burning,\nit's a synthetic hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 338360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "In India, when we look\nat Indian wigs, they're usually"
+        }
+      ]
+    },
+    {
+      "tStartMs": 341160,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "synthetic hair wigs\nand not the real hair wigs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 345040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "China is popular for real hair wigs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 348120,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "The simple test, I would say,\nis the weight of the wig.The"
+        }
+      ]
+    },
+    {
+      "tStartMs": 354680,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "synthetic wig would weigh more\nthan a human hair wig"
+        }
+      ]
+    },
+    {
+      "tStartMs": 358320,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "because human hair wigs are made\nin a very intricate way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 361640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "As we've said, India is\nthe main supplier of human hair"
+        }
+      ]
+    },
+    {
+      "tStartMs": 365160,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "in the world for wigs and extensions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367360,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "What is it about Indian hair\nthat makes it so highly sought after?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 371600,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So when you look at Indian hair,\nI think they're beautiful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 374120,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "We have natural black hair, we have\na thicker hair, we have a stronger hair,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 379240,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "which can basically be used\nin any kind of purpose."
+        }
+      ]
+    },
+    {
+      "tStartMs": 382040,
+      "dDurationMs": 1080,
+      "segs": [
+        {
+          "utf8": "And that's one of the reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383120,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And if you look at India,\nwe have a different kind of hair,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 386360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "like you have wavy hair, we have\ncurly hair, we have straight hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390440,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Our hair is softer and especially in\nthe southern part of India,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394240,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "women have\nvery soft and beautiful hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396840,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "India is known for its hair.\nPriti."
+        }
+      ]
+    },
+    {
+      "tStartMs": 399640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Thank you so much.\nThank you. Bye bye."
+        }
+      ]
+    },
+    {
+      "tStartMs": 401760,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Bye bye. As well as being used\nin day to day life,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 404760,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "wigs are of course used\nby performers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406760,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Zeeshan Ali is a drag artist\nin Mumbai and says"
+        }
+      ]
+    },
+    {
+      "tStartMs": 409720,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "that it used to be tricky to find the\nright wig, but things are changing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 413040,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Wigs play an essential role\nas a drag artist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 415920,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "I create multiple characters\nand multiple personas and wigs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 419840,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "enhances and elevates that character\n- brings my fantasy to reality."
+        }
+      ]
+    },
+    {
+      "tStartMs": 425720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Wigs in India\nhas always been a problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 428360,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Although India is one of the biggest\nexporters of human hair, it's always,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 432280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "always been difficult because\nIndian markets have not yet come"
+        }
+      ]
+    },
+    {
+      "tStartMs": 435400,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "to understand the wig phenomena\nthat works around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 440800,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And slowly\nand steadily that's changing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 443000,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "We have some amazing wig sellers\nin India right now that are making"
+        }
+      ]
+    },
+    {
+      "tStartMs": 446360,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "some really cool human hair wigs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "However, most of the synthetic wigs\ncome from China or US,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 452160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "where most of us get our wigs from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Now let's talk about where all of\nthat hair that is collected ends up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 462040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And joining me in the studio is\nBBC journalist Nadia Gyane."
+        }
+      ]
+    },
+    {
+      "tStartMs": 464800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Hello. Welcome to the podcast.\nThanks for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466880,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So to start off with, do you think\nthat people know where the hair\nin their wigs actually comes from?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 470920,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Well, I've been talking to quite a few\npeople and this is what they told me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 474400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "My name is Bella."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477400,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "I'm originally from Zimbabwe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 480320,
+      "dDurationMs": 6800,
+      "segs": [
+        {
+          "utf8": "I actually have no idea\nwhere my braids come from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 487120,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "I've always assumed maybe China,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 491920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "because a lot of the cheapish things\ncome from China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "I don't know.\nHello, my name is Deborah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498440,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I live in London.\nI tend to wear wigs every day,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 501440,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and I like wearing wigs because\nit gives me a chance to experiment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 504680,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "with length, texture, colour."
+        }
+      ]
+    },
+    {
+      "tStartMs": 507320,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "I do know where they're sourced,\nbut I know most people don't."
+        }
+      ]
+    },
+    {
+      "tStartMs": 511160,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "They tend to be from India mostly,\nbut also from Indonesia and Vietnam."
+        }
+      ]
+    },
+    {
+      "tStartMs": 517640,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "I'm very specific with the countries\nthat I tend to wear in my hair,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 523720,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "because I know that sometimes\nhair is not ethically sourced,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 528560,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "or sometimes people\nare being exploited for their hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 531560,
+      "dDurationMs": 6600,
+      "segs": [
+        {
+          "utf8": "So I tend to be careful when researching\nwhere to get my bundles or my wigs from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 538160,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Hello, my name is Laura.\nTo be honest,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 541200,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "I've never really given much thought\nto where the hair comes from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 546280,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "I know majority is processed in\nChina, but I'm not completely sure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 552080,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "I usually just pick up\nwhatever feels right for the moment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 556080,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "So some people know,\nsome people don't."
+        }
+      ]
+    },
+    {
+      "tStartMs": 558160,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "There's quite a lot of mystery\naround this whole industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 560920,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Nadia, which countries use\nthe most wigs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 563560,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Well, surprisingly,\nUS comes up on top."
+        }
+      ]
+    },
+    {
+      "tStartMs": 566440,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "They are the number one importers of,\nlike, wigs, and human hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 570960,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "After them,\nit's Nigeria, followed by China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 573600,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Then it's Democratic Republic\nof Congo and then it's the UK."
+        }
+      ]
+    },
+    {
+      "tStartMs": 577120,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "What about hair extensions?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 578360,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Hair extensions is\na little bit different actually."
+        }
+      ]
+    },
+    {
+      "tStartMs": 580560,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "It's Myanmar.\nThey come in number one and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 583240,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "that's because - so they import\nand also export Indian hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 586960,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So they kind of - they're coming\ninto the industry quite new."
+        }
+      ]
+    },
+    {
+      "tStartMs": 590760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "After them is Austria.\nAnd then it goes to Italy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 593240,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And when people are looking for a wig,\nwhat exactly are they looking for?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 596760,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "How can they tell\nthat they've got that quality?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 599080,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Well, there's a number of different\nkind of contributing factors."
+        }
+      ]
+    },
+    {
+      "tStartMs": 601840,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "It's like hair length style,\nwhere kind of - what type"
+        }
+      ]
+    },
+    {
+      "tStartMs": 605760,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "of hair you want, whether\nor not it's curly or straight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 608760,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So everyone's looking\nfor something a bit different,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 611160,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "but it's all, you know, all the rage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613400,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "There's loads of influencers that say\nwhich type of hair you want\nand how you want to use it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 617520,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "So that's what people look\nfor mostly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 619560,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And also there's the lace wig,\nwhich means that how realistic is it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 623520,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "when you put it on.\nAnd that's also what people look for."
+        }
+      ]
+    },
+    {
+      "tStartMs": 626160,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And there's a new one called HD lace,\nwhich makes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 628960,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "your - basically makes it more,\neven more natural looking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 631400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So when you put it on, it doesn't\nlook like, I don't know, a toupee."
+        }
+      ]
+    },
+    {
+      "tStartMs": 634400,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "What exactly do you mean\nby a lace wig?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 636160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Okay, so a lace wig is\nwhat the hair is wefted onto."
+        }
+      ]
+    },
+    {
+      "tStartMs": 640400,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "So they put it on and make sure\nthat it's as seamless as possible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 644920,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So when you have - so basically making\nit more natural looking as possible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 648320,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So when you kind of do a hair parting,\nit looks like your actual hair,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 652440,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "like a - when you part your hair, you\ncan see that it's the actual scalp."
+        }
+      ]
+    },
+    {
+      "tStartMs": 655840,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So that is what a lace wig is\nand HD lace"
+        }
+      ]
+    },
+    {
+      "tStartMs": 658640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "- is what they're now calling it -\nmakes it even more transparent,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 661680,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "so that it looks like someone whose hair\nis actually growing out of their head."
+        }
+      ]
+    },
+    {
+      "tStartMs": 665800,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Are people quite transparent\nabout the fact\nthat they're wearing wigs these days?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668840,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Or are people still using wigs and, you\nknow, trying to make the world believe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 672000,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "that that's their natural hair?\nI think it's now more open, actually."
+        }
+      ]
+    },
+    {
+      "tStartMs": 674880,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Before it used to be quite hidden\nand quite closed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 676920,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and people thought it was a bit\ntaboo, but because of social media,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680040,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "people are actually sharing more of\ntheir hair journey stories and wigs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 683520,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "are very much a popular\nand as well as hair extensions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 686120,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "a very popular thing to do as well as\nlike when you have to get\nyour eyelashes or any type of hair."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691600,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Yes, people are definitely sharing\nand no one's really ashamed of that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 694720,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Social media has changed so much and\nit's changed the way we glam as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 697800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Like we feel\nlike we're constantly on camera."
+        }
+      ]
+    },
+    {
+      "tStartMs": 699880,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "I imagine that's also made\nthe demand for things like wigs\nand hair extensions go up too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 703480,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Definitely.\nAnd the demand is actually growing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 705560,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So recent stats show\nthat there's 7.5 billion due to wigs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 709960,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "and hair extensions currently,\nand that was in 2024. Now,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 713920,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "in the next ten years, that forecast\nis set to grow to 12.5 billion USD."
+        }
+      ]
+    },
+    {
+      "tStartMs": 718720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And that's the value\nof the human hair industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 721360,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "That's huge, isn't it? Nadia, thank you\nso much for coming into the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 724320,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "No problem. Thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 725560,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Thank you for joining us. You can get\nin touch with us any time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 728400,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "You can leave us\na comment right here below."
+        }
+      ]
+    },
+    {
+      "tStartMs": 730400,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "We're also on Instagram.\nWe're on WhatsApp."
+        }
+      ]
+    },
+    {
+      "tStartMs": 732560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "This is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 735040,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and\nit's been great to have you with us."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 240,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "The sea is really shallow, so the ship\ncannot be taken out very quickly."
+    } ]
+  }, {
+    "tStartMs": 7200,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "That also making the damage really,\nreally massive."
+    } ]
+  }, {
+    "tStartMs": 11760,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "To regrow coral\nthat's been damaged massively,"
+    } ]
+  }, {
+    "tStartMs": 14920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "it needs like\nten to 20 years to grow."
+    } ]
+  }, {
+    "tStartMs": 17960,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "But this system,\nit could be regrown in two years."
+    } ]
+  }, {
+    "tStartMs": 22560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Hello, I'm Hannah and this is What\nin the World, your podcast"
+    } ]
+  }, {
+    "tStartMs": 25600,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "for the stories that everyone's talking\nabout from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 29360,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Today we're bringing you a story\nfrom Raja Ampat,"
+    } ]
+  }, {
+    "tStartMs": 31680,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "which is a group of islands\nin Indonesia."
+    } ]
+  }, {
+    "tStartMs": 33760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And it's sometimes called\nthe underwater Amazon"
+    } ]
+  }, {
+    "tStartMs": 36040,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "because it is an amazing site\nfor divers."
+    } ]
+  }, {
+    "tStartMs": 39080,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And this story is about how a massive\nluxury cruise ship ran aground"
+    } ]
+  }, {
+    "tStartMs": 43200,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "on a coral reef there back in 2017."
+    } ]
+  }, {
+    "tStartMs": 45560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And how since then,\nlocal women"
+    } ]
+  }, {
+    "tStartMs": 47960,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and local communities have been\nworking hard to restore the corals."
+    } ]
+  }, {
+    "tStartMs": 51800,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Let's find out more about this now\nfrom Lesthia Kertopati,"
+    } ]
+  }, {
+    "tStartMs": 54880,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "who's a BBC journalist in Jakarta."
+    } ]
+  }, {
+    "tStartMs": 56760,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Hi, Lesthia.\nHello."
+    } ]
+  }, {
+    "tStartMs": 59680,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So take me back to 2017, when\nthis cruise ship ran into the reef."
+    } ]
+  }, {
+    "tStartMs": 64720,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "It sounds like it was an absolute\ndisaster. What exactly happened?"
+    } ]
+  }, {
+    "tStartMs": 68480,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Yeah, it happened\nin 4th March of 2017."
+    } ]
+  }, {
+    "tStartMs": 71800,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "So this British vessel called Caledonian\nSky, it was a luxury cruise ship"
+    } ]
+  }, {
+    "tStartMs": 77880,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "that, take around 100 tourists\nfrom multinational countries"
+    } ]
+  }, {
+    "tStartMs": 84400,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and it ran aground\nin the shallow waters of Kri island."
+    } ]
+  }, {
+    "tStartMs": 87920,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "The sea is really shallow."
+    } ]
+  }, {
+    "tStartMs": 90040,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "So the ship cannot be, you know,\ntaken out, very quickly"
+    } ]
+  }, {
+    "tStartMs": 95880,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "and that also making the damage\nof the coral really, really massive."
+    } ]
+  }, {
+    "tStartMs": 102760,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "This area, Kri island, Raja Ampat,\nit's a protected area, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 107680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "It's meant to be one of\nthe most biodiverse marine ecosystems"
+    } ]
+  }, {
+    "tStartMs": 110640,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "in the world,\nand it's really popular with divers."
+    } ]
+  }, {
+    "tStartMs": 112840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So when this ship ran aground\non top of this coral reef,"
+    } ]
+  }, {
+    "tStartMs": 116320,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "it must have been really,\nreally devastating."
+    } ]
+  }, {
+    "tStartMs": 118600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "What kind of damage did it cause?"
+    } ]
+  }, {
+    "tStartMs": 120520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "All the coral turns white\nbecause of that."
+    } ]
+  }, {
+    "tStartMs": 124280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Coral bleaching?\nYes, like coral bleaching."
+    } ]
+  }, {
+    "tStartMs": 127280,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "So the local resident\ncannot fish there anymore"
+    } ]
+  }, {
+    "tStartMs": 132480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "because there's no fish living there.\nWhen coral dies,"
+    } ]
+  }, {
+    "tStartMs": 136240,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "coral is like the home for\nenvironmental marine biodiversity."
+    } ]
+  }, {
+    "tStartMs": 142360,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "So in the coral there\nthere will be fish and also seaweed"
+    } ]
+  }, {
+    "tStartMs": 149000,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "and a lot of, you know, small animals\nthat become the feed for the fish."
+    } ]
+  }, {
+    "tStartMs": 154720,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "So when the coral dies, a lot of\nmarine biodiversity will die as well."
+    } ]
+  }, {
+    "tStartMs": 160120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Or they move out to\nanother place that have the coral. So"
+    } ]
+  }, {
+    "tStartMs": 165720,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "the environment surrounding\nthe islands"
+    } ]
+  }, {
+    "tStartMs": 168520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "is now become empty\nwith no marine lives."
+    } ]
+  }, {
+    "tStartMs": 172360,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "I read that it was about 1,600\nsquare metres worth of damage,"
+    } ]
+  }, {
+    "tStartMs": 177320,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "which is roughly the size\nof three football fields."
+    } ]
+  }, {
+    "tStartMs": 179920,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "What was the reaction\nlike when this incident happened?"
+    } ]
+  }, {
+    "tStartMs": 183720,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Yes, people were really angry\nbecause, you know, the people"
+    } ]
+  }, {
+    "tStartMs": 186200,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "of Raja Ampat mostly depended on the sea\nfor their livelihood, their fishing,"
+    } ]
+  }, {
+    "tStartMs": 191600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and also they're really dependent\non the tourism there."
+    } ]
+  }, {
+    "tStartMs": 194600,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "So when the incident happened and the\nenvironmental damage were so massive,"
+    } ]
+  }, {
+    "tStartMs": 199680,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "they couldn't fish there anymore."
+    } ]
+  }, {
+    "tStartMs": 201520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "There's no fish to be catch and\nthen there's no tourists coming."
+    } ]
+  }, {
+    "tStartMs": 205120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So, you know,\npeople lost their livelihood"
+    } ]
+  }, {
+    "tStartMs": 207920,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and they asked the government\nfor compensation because of that."
+    } ]
+  }, {
+    "tStartMs": 210840,
+    "dDurationMs": 8440,
+    "segs": [ {
+      "utf8": "And there is also pressure for our\ngovernment - how to make this better."
+    } ]
+  }, {
+    "tStartMs": 219280,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Because this is not only become\nthe livelihood of the locals there,"
+    } ]
+  }, {
+    "tStartMs": 224160,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "but also it become the pride\nof Indonesia."
+    } ]
+  }, {
+    "tStartMs": 226520,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Our government, they want to make\ntourists come to Indonesia"
+    } ]
+  }, {
+    "tStartMs": 230800,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to see the beautiful of Indonesia."
+    } ]
+  }, {
+    "tStartMs": 233080,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "But people can get in and do anything\nthey like without, you know,"
+    } ]
+  }, {
+    "tStartMs": 237560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "without any rules\nand regulation to protect that."
+    } ]
+  }, {
+    "tStartMs": 241440,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "And there was a big investigation\ninto what went wrong too, right?"
+    } ]
+  }, {
+    "tStartMs": 246200,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "True. Yes.\nWhat were the findings?"
+    } ]
+  }, {
+    "tStartMs": 248520,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "A very really long\ninvestigation as well."
+    } ]
+  }, {
+    "tStartMs": 251320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "They find both parties are\nresponsible."
+    } ]
+  }, {
+    "tStartMs": 255240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "The Indonesian government,\nas well"
+    } ]
+  }, {
+    "tStartMs": 257360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "as the owner of the ship,\nthe Caledonian Sky."
+    } ]
+  }, {
+    "tStartMs": 260560,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "So the investigation find that the\ndamage of the coral reef is so massive."
+    } ]
+  }, {
+    "tStartMs": 267320,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "And it's decided that the owner of\nthe Caledonian Sky need to, responsible,"
+    } ]
+  }, {
+    "tStartMs": 272840,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "to take responsibility towards that."
+    } ]
+  }, {
+    "tStartMs": 276160,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "And also our government, the\nIndonesian government needs to make sure"
+    } ]
+  }, {
+    "tStartMs": 280760,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "that the restoration of the reefs,\nit be done in a very swift manner."
+    } ]
+  }, {
+    "tStartMs": 288080,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Eventually\nthe government and also the owner"
+    } ]
+  }, {
+    "tStartMs": 290560,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "of the ship decided to settle\nthis incident outside of the court."
+    } ]
+  }, {
+    "tStartMs": 296640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "It said it's millions\nof dollars of settlement."
+    } ]
+  }, {
+    "tStartMs": 300000,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "That money is going to be used\nfor a restoration of the coral reefs,"
+    } ]
+  }, {
+    "tStartMs": 303880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and also to build the community\nof the locals there."
+    } ]
+  }, {
+    "tStartMs": 307000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And how do you restore a coral reef\nonce it's been damaged so much"
+    } ]
+  }, {
+    "tStartMs": 310800,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "that it turns white, that\nall the fish desert it like that?"
+    } ]
+  }, {
+    "tStartMs": 315200,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "So the Indonesian government\nunder the Ministry of Environment,"
+    } ]
+  }, {
+    "tStartMs": 321120,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "they collaborate with the University\nof Hasanuddin in Sulawesi to, you know,"
+    } ]
+  }, {
+    "tStartMs": 328240,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "to lead this project\nof rehabilitation."
+    } ]
+  }, {
+    "tStartMs": 330920,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "And they have\nthis programme they call reef stars."
+    } ]
+  }, {
+    "tStartMs": 336520,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "So they make a hexagonal structure\nfrom steel when,"
+    } ]
+  }, {
+    "tStartMs": 341760,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "you know, people put\nsmall fragmentation of corals"
+    } ]
+  }, {
+    "tStartMs": 346080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and then it, then tied to the seabed."
+    } ]
+  }, {
+    "tStartMs": 350160,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So the new coral will grow there."
+    } ]
+  }, {
+    "tStartMs": 354040,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Usually to regrow coral\nthat's been damaged massively."
+    } ]
+  }, {
+    "tStartMs": 359560,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "it needs like, you know, decades or\nyears and years to make them grow back."
+    } ]
+  }, {
+    "tStartMs": 367080,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But this, system,\nthe reef star system,"
+    } ]
+  }, {
+    "tStartMs": 370200,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "and also the method\nthat they call micro fragmentation,"
+    } ]
+  }, {
+    "tStartMs": 374880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "it's said to make\nthe corals grow faster."
+    } ]
+  }, {
+    "tStartMs": 379320,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "The one that usually needs\nlike ten to 20 years to grow,"
+    } ]
+  }, {
+    "tStartMs": 383920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "it could be regrown in two years."
+    } ]
+  }, {
+    "tStartMs": 386960,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "One thing I found really beautiful\nabout this story was the role"
+    } ]
+  }, {
+    "tStartMs": 389640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "of local indigenous communities,\nparticularly women,"
+    } ]
+  }, {
+    "tStartMs": 393000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "in regrowing the corals.\nYes."
+    } ]
+  }, {
+    "tStartMs": 396600,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "So, in Raja Ampat, women are really,\nreally active in participating"
+    } ]
+  }, {
+    "tStartMs": 402880,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "in every ways of life."
+    } ]
+  }, {
+    "tStartMs": 405960,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "So the Hasanuddin University,\nthe one that lead the project,"
+    } ]
+  }, {
+    "tStartMs": 412240,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "take participation of\nmore than 80% of women"
+    } ]
+  }, {
+    "tStartMs": 415320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "of Yenbuba indigenous community, one\nof the communities that lives there,"
+    } ]
+  }, {
+    "tStartMs": 419400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "to participate in this project.\nAnd the woman"
+    } ]
+  }, {
+    "tStartMs": 422800,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "they're really eager to, you know,\nto do all of this restoring project."
+    } ]
+  }, {
+    "tStartMs": 430120,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "From building the coral,\nthe reef stars until, you know,"
+    } ]
+  }, {
+    "tStartMs": 434320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "taking the fragmentations\nof the corals."
+    } ]
+  }, {
+    "tStartMs": 436880,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And they even put the reef stars\nby themselves into the seabed."
+    } ]
+  }, {
+    "tStartMs": 442880,
+    "dDurationMs": 7480,
+    "segs": [ {
+      "utf8": "They're also involved\nin giving the clue to the scientists"
+    } ]
+  }, {
+    "tStartMs": 450360,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "of which coral in which location."
+    } ]
+  }, {
+    "tStartMs": 454920,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "So they're the one who showed them,\nbecause they live there for a generation"
+    } ]
+  }, {
+    "tStartMs": 459760,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "and they know better, the environment\nbetter, rather than the scientists."
+    } ]
+  }, {
+    "tStartMs": 464680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "The whole village involved in this.\nBut mostly women."
+    } ]
+  }, {
+    "tStartMs": 468840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "You say it takes a village\nto bring up children,"
+    } ]
+  }, {
+    "tStartMs": 471720,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "it also takes\na village to regrow coral."
+    } ]
+  }, {
+    "tStartMs": 474280,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And how successful has this been?"
+    } ]
+  }, {
+    "tStartMs": 476680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "It's been what, eight years\nsince the damage happened?"
+    } ]
+  }, {
+    "tStartMs": 479640,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "When did they start the restoration\nand how is it going?"
+    } ]
+  }, {
+    "tStartMs": 483440,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "So the restoration itself take off\naround from January 2025 until now."
+    } ]
+  }, {
+    "tStartMs": 491520,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "So it's been few months."
+    } ]
+  }, {
+    "tStartMs": 492880,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Okay.\nBut they already seen some growth,"
+    } ]
+  }, {
+    "tStartMs": 496440,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "so they already planted\nmore than 2,000 reef stars."
+    } ]
+  }, {
+    "tStartMs": 501240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "They already see\nthe one that grow back."
+    } ]
+  }, {
+    "tStartMs": 505320,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "People start to fish there again -\nlike the whole team"
+    } ]
+  }, {
+    "tStartMs": 508600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that doing this restoration project\nreally hope"
+    } ]
+  }, {
+    "tStartMs": 512600,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "that what they do could benefit\nfor the future generation"
+    } ]
+  }, {
+    "tStartMs": 518280,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "because one of the villagers there\nthat we interviewed said"
+    } ]
+  }, {
+    "tStartMs": 523360,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "that the coral reefs that they have\nin their island is borrowed"
+    } ]
+  }, {
+    "tStartMs": 529400,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "from their children's\nand grandchildren's for the future,"
+    } ]
+  }, {
+    "tStartMs": 534160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "so they need to take care of it."
+    } ]
+  }, {
+    "tStartMs": 536400,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "And I was wondering if the law's changed,\nbecause this is a protected area."
+    } ]
+  }, {
+    "tStartMs": 542360,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It was a national park."
+    } ]
+  }, {
+    "tStartMs": 544760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Did the Indonesian government change\nthe laws regarding whether big ships,"
+    } ]
+  }, {
+    "tStartMs": 548760,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "big vessels could actually come\ninto this area?"
+    } ]
+  }, {
+    "tStartMs": 551880,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "There is new regulation\nregarding that."
+    } ]
+  }, {
+    "tStartMs": 554400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "But Indonesia\nis now also focusing on mining"
+    } ]
+  }, {
+    "tStartMs": 558040,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "in small islands such as Raja Ampat."
+    } ]
+  }, {
+    "tStartMs": 560720,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "And this is being criticised by\nthe environmental activists."
+    } ]
+  }, {
+    "tStartMs": 566040,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And if this mining\nin the future happened,"
+    } ]
+  }, {
+    "tStartMs": 569480,
+    "dDurationMs": 7880,
+    "segs": [ {
+      "utf8": "then maybe the damage could be worse\nthan this vessel that ran aground."
+    } ]
+  }, {
+    "tStartMs": 577360,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "So people will be watching closely\nto see what happens in Raja Ampat?"
+    } ]
+  }, {
+    "tStartMs": 582560,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, that's true."
+    } ]
+  }, {
+    "tStartMs": 584560,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "I went diving and snorkeling around\nthe Gili Isles in Bali when I was 18"
+    } ]
+  }, {
+    "tStartMs": 589240,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and the biodiversity there is some\nof the most amazing water,"
+    } ]
+  }, {
+    "tStartMs": 593400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "some of the most incredible fish and\nturtles that I've ever seen in my life,"
+    } ]
+  }, {
+    "tStartMs": 597040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "so I really do hope\nthat they all go back"
+    } ]
+  }, {
+    "tStartMs": 599280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "to Raja Ampat\nand can call it their home again."
+    } ]
+  }, {
+    "tStartMs": 602760,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Yes, imagine if you said Bali\nand Lombok is beautiful."
+    } ]
+  }, {
+    "tStartMs": 606640,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Raja Ampat is much more beautiful\nthan that."
+    } ]
+  }, {
+    "tStartMs": 609520,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Well, maybe one day in the future\nwhen it is fully restored and all"
+    } ]
+  }, {
+    "tStartMs": 613680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "of the coral has regrown and the fish\nare back, then maybe I can visit."
+    } ]
+  }, {
+    "tStartMs": 618000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "You have to!\nLesthia, thank you so much."
+    } ]
+  }, {
+    "tStartMs": 621040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "You're welcome.\nAnd that's it from me."
+    } ]
+  }, {
+    "tStartMs": 623160,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "But if you like this,\ndo check out our other episodes."
+    } ]
+  }, {
+    "tStartMs": 625720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Please like, follow, share,\nsubscribe."
+    } ]
+  }, {
+    "tStartMs": 627880,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "You can find us right here on\nthe BBC World Service YouTube channel"
+    } ]
+  }, {
+    "tStartMs": 630920,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "twice a week, and five days a week\nwe are chatting away in the studio,"
+    } ]
+  }, {
+    "tStartMs": 634400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "so I hope to see you back here.\nI'm Hannah, this is What in the World"
+    } ]
+  }, {
+    "tStartMs": 637040,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "from the BBC World Service.\nSee you next time."
+    } ]
+  } ]
+}

@@ -48,6 +48,12 @@ export function extractVideoId(url: string): string | null {
   return null
 }
 
+// In dev we route through a Vite proxy (which rewrites cookies, UA, etc.) to
+// avoid CORS issues. In production (static hosting) we call YouTube directly.
+// oembed supports CORS. timedtext may fail in some browsers in prod, but the
+// direct URL is still the only option on a static host.
+const YT_BASE = import.meta.env.DEV ? '/youtube-proxy' : 'https://www.youtube.com'
+
 // Lấy title từ YouTube oEmbed — API public, không cần auth
 export async function fetchVideoInfo(url: string): Promise<VideoInfo> {
   const videoId = extractVideoId(url)
@@ -56,7 +62,7 @@ export async function fetchVideoInfo(url: string): Promise<VideoInfo> {
   let title = videoId
   try {
     const res = await fetch(
-      `/youtube-proxy/oembed?url=${encodeURIComponent(`https://www.youtube.com/watch?v=${videoId}`)}&format=json`,
+      `${YT_BASE}/oembed?url=${encodeURIComponent(`https://www.youtube.com/watch?v=${videoId}`)}&format=json`,
     )
     if (res.ok) {
       const data = await res.json()
@@ -90,7 +96,7 @@ export async function fetchSubtitleContent(
 
     let res: Response
     try {
-      res = await fetch(`/youtube-proxy/api/timedtext?${params.toString()}`)
+      res = await fetch(`${YT_BASE}/api/timedtext?${params.toString()}`)
     } catch {
       continue
     }
@@ -149,7 +155,7 @@ export async function fetchRawJSON3(
 
     let res: Response
     try {
-      res = await fetch(`/youtube-proxy/api/timedtext?${params.toString()}`)
+      res = await fetch(`${YT_BASE}/api/timedtext?${params.toString()}`)
     } catch {
       continue
     }

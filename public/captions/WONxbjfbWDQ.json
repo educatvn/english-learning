@@ -1,0 +1,3794 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 400,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "Some scenes in this series \nuse recreated sound effects. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 7520,
+      "dDurationMs": 8080,
+      "segs": [
+        {
+          "utf8": "This is a hexagon reconnaissance satellite. \nAnd this was developed in the late 1960s."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15600,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "At the National Museum of the US \nAir Force in Dayton, Ohio, you  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 18880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "can stand underneath a monster of a satellite."
+        }
+      ]
+    },
+    {
+      "tStartMs": 22240,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "This is a really big satellite. \nIt’s the size of a school bus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 26320,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "Dwayne Day is a space historian – and a walking \nencyclopaedia on the US military space program."
+        }
+      ]
+    },
+    {
+      "tStartMs": 32880,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "I remember a friend of mine, he had seen one of \nthe early ones in the 1970s. And he, he told me  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 38480,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "that it reminded him of a locomotive. It has a \ncylindrical section at the back, which was where  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 44880,
+      "dDurationMs": 6640,
+      "segs": [
+        {
+          "utf8": "the rocket motor was located. And they use that \nrocket to reboost it as it sank down in orbit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52080,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "It’s called the KH-9 HEXAGON. Also \nknown as the Big Bird. This isn’t  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 58560,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "any ordinary satellite this one \nwas used to gather intelligence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 64080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Its story goes back to the \n1970s when the Cold War was  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 67280,
+      "dDurationMs": 7280,
+      "segs": [
+        {
+          "utf8": "at its height. A time when space \nwas a potential new battlefront."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74560,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "And in the middle, it has two \npowerful cameras and the cameras  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 78720,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "would swing back and forth and would \nrecord large portions of territory  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 84000,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "below on film that went through \nthe satellite at very high speed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 89680,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "Hexagon’s cameras would grab images \nof the land below it – not digitally  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 94560,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "as we do today, but on analogue photographic film."
+        }
+      ]
+    },
+    {
+      "tStartMs": 98480,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "That showed what the Soviet Union was \ndoing, where their aircraft were deployed,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 103280,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "where their armies were in the \nfield and things like that.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 106720,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "And then, the film would be gathered up in these \nre-entry vehicles at the front of the vehicle.\n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 111840,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "The four re-entry vehicles were \nessentially large buckets. Together,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 116640,
+      "dDurationMs": 7680,
+      "segs": [
+        {
+          "utf8": "they could hold close to a ton of tape and as each \none filled up, it would be dropped back to Earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 124320,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "It would come down through the atmosphere, \nand it would deploy a parachute."
+        }
+      ]
+    },
+    {
+      "tStartMs": 128960,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "Then it would be caught, mid-air \nby a military transport aircraft."
+        }
+      ]
+    },
+    {
+      "tStartMs": 134160,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "And that would just catch this giant thing \nhanging under its parachute lines. They pull  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 139120,
+      "dDurationMs": 6960,
+      "segs": [
+        {
+          "utf8": "it to the back of the aircraft and then the plane \nwould fly to Hawaii with this top-secret payload."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146080,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "From there, a jet would carry it \nto California, then onto New York."
+        }
+      ]
+    },
+    {
+      "tStartMs": 152320,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "That very precious cargo would \nbe taken to a facility at Kodak,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 156960,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "and they would process the film. And there \nwere miles and miles of this exposed film."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162880,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "Yes, he means literally miles – \nthis was a massive undertaking!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169920,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "And then once they had done that, they \nwould load up individual cannisters of  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 174080,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "the developed film into another airplane \nand would fly it down to Washington D.C."
+        }
+      ]
+    },
+    {
+      "tStartMs": 180400,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Various people would spread the film out on \nwhite tables. And they would look at it with  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 185120,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "microscopes. And they would use that to see \nwhat was going on behind the Iron Curtain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 191600,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "This was not a fast way of doing \nthings. It took about a week from  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 197120,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "taking a photograph to actually looking at \nthat photograph. It wasn't instantaneous.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 202640,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "It didn't tell you if the invasion was about to \nhappen tomorrow. But the intelligence data that  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 209200,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "it provided was good at giving a picture of \nthe overall capabilities of the Soviet Union."
+        }
+      ]
+    },
+    {
+      "tStartMs": 216800,
+      "dDurationMs": 8560,
+      "segs": [
+        {
+          "utf8": "And it was made possible because \nof this Hexagon satellite."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225360,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "From the beginning, the US Department \nof Defense had a stake in the shuttle.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 230400,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "They supported the programme financially, \nand politically. The idea was that it  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 236800,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "would become an important tool in a very \ndangerous time in world history – when an  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 242320,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "open war between the United States and \nthe Soviet Union was a constant threat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 248240,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And this bus-sized satellite was a key \nreason the space shuttle looked the way  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 252320,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "it did with its enormous payload bay taking \nup most of the length of the spacecraft."
+        }
+      ]
+    },
+    {
+      "tStartMs": 258400,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "For the military to agree \nto use the space shuttle,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 263040,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "they stipulated that the shuttle had \nto be capable of carrying one of these  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 267360,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "satellites. And that meant that the shuttle \npayload bay had to be at least 60 feet long,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 273120,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "so this thing could fit in there and, \nand could be deployed in low Earth orbit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280000,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Compared to expendable rockets, the \nshuttle would be a cheaper way of getting  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 284160,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "HEXAGON into space. There were even plans for \nmissions to service satellites or reuse them,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 290640,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "bringing them back to Earth to be launched again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 295040,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "The shuttle was designed to be flexible \nand multi-purpose to deliver a wide range  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 301600,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "of cargo into space, cheaply and \ndependably - from spy satellites  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 307120,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "to space telescopes. From scientific \nlaboratories to communications hardware."
+        }
+      ]
+    },
+    {
+      "tStartMs": 313520,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Its official name is the Space \nTransportation System. But  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 317840,
+      "dDurationMs": 7760,
+      "segs": [
+        {
+          "utf8": "perhaps the best description for \nit is this: it’s a space truck."
+        }
+      ]
+    },
+    {
+      "tStartMs": 342720,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "From the BBC World Service, 13 \nMinutes presents: The Space Shuttle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 348160,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "I’m space scientist Maggie Aderin-Pocock."
+        }
+      ]
+    },
+    {
+      "tStartMs": 353040,
+      "dDurationMs": 20720,
+      "segs": [
+        {
+          "utf8": "Episode 5 of 10: Space Truck."
+        }
+      ]
+    },
+    {
+      "tStartMs": 373760,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "So here I am, I think I'm in 26 years old. \nI mean, you grew up in a small town PA,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 378720,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "I'm standing underneath the \nspace shuttle fourth landing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 382640,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "It’s Independence Day 1982, in \nthe Mojave desert in California.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 388800,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "The heat is shimmering off the dry \nlake bed at Edwards Air Force Base."
+        }
+      ]
+    },
+    {
+      "tStartMs": 394400,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Bill Carr is working as a \nsafety officer for Rockwell,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 397280,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "the contractor which has built the space \nshuttle orbiter. He’s just watched shuttle  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 402000,
+      "dDurationMs": 6640,
+      "segs": [
+        {
+          "utf8": "Columbia land after a week in space – \nthe programme’s fourth mission, STS-4."
+        }
+      ]
+    },
+    {
+      "tStartMs": 408640,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "And here comes about six or eight \nlimousines with the American flags  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 413600,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "flapping on the front fenders as they're \ncoming across the desert, it's you know,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 417840,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "it's a big cloud of sand because \nyou're coming across that lake bed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 422480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "The guest of honour today \nfor the return of Columbia  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 425440,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "is none other than President Ronald Reagan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 428480,
+      "dDurationMs": 6960,
+      "segs": [
+        {
+          "utf8": "And it's the fourth of July. I was somewhere \nwanting to break into the Star Spangled Banner.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 435440,
+      "dDurationMs": 10480,
+      "segs": [
+        {
+          "utf8": "God bless America. I mean, I just was ready to \nstart singing something. And it was just amazing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 445920,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "The presidential motorcade drives out \nonto the runway where Columbia has come  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 450480,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "to a halt. Secret service agents watch Bill \nCarr and his co-workers as the President and  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 456960,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "first lady step out of the vehicle. The two \nastronauts who’ve just returned to Earth,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 462720,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "TK Mattingly and Henry Hartsfield, appear \nthrough the Columbia’s hatch. Still wearing  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 468160,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "their pressure suits they walk carefully down \nthe steps towards the waiting welcome party."
+        }
+      ]
+    },
+    {
+      "tStartMs": 474400,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "Reagan is saluting them with his wife Nancy \nand then I think the astronauts actually gave  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 480160,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "them both a hug. I remember him hugging Nancy and \nthere's a photo that was taken by the Los Angeles  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 486240,
+      "dDurationMs": 7440,
+      "segs": [
+        {
+          "utf8": "Times I have a copy of it and I’m clearly right \nthere behind them standing underneath the Orbiter. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 493680,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "Quite a moment. I was very fortunate sometimes \npinch myself to have had the opportunity to be,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 500000,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "you know, front and centre for some of these,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 502000,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "you know, critical milestones that \nhappened on the shuttle programme."
+        }
+      ]
+    },
+    {
+      "tStartMs": 508080,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Ladies and gentlemen, the President \nof the United States and Mrs. Reagan,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 512000,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "and astronauts Mattingly & Hartsfield.\nThis was the fourth mission and the last  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 519600,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "in a series of test flights. Up until this \npoint it’s been about testing the shuttle’s  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 524720,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "system and capabilities. But the space \nshuttle programme is about to go up a gear."
+        }
+      ]
+    },
+    {
+      "tStartMs": 532320,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "The fourth landing of the Columbia is the \nhistorical equivalent to the driving of the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 538160,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "golden spike which completed the first \ntranscontinental railroad. It marks our  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 543520,
+      "dDurationMs": 7440,
+      "segs": [
+        {
+          "utf8": "entrance into a new era. The test flights \nare over. The groundwork has been laid."
+        }
+      ]
+    },
+    {
+      "tStartMs": 550960,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "This is the beginning of a new era of \nspaceflight. With not just one vehicle,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 557280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "but a whole shuttle fleet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 560400,
+      "dDurationMs": 7280,
+      "segs": [
+        {
+          "utf8": "Beginning with the next flight, the Columbia \nand her sister ships will be fully operational."
+        }
+      ]
+    },
+    {
+      "tStartMs": 567680,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "“Fully operational”. This is \nthe moment the real work starts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 573280,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "Ready to provide economical and routine \naccess to space for scientific exploration,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 579440,
+      "dDurationMs": 11040,
+      "segs": [
+        {
+          "utf8": "commercial ventures, and for tasks \nrelated to the national security."
+        }
+      ]
+    },
+    {
+      "tStartMs": 590480,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "Challenger Houston we're negative reporting from \nhere on out you have a final WESTAR go for deploy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600720,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "It’s two years on from Reagan’s speech. And the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 603680,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "first day in orbit for STS-41-B – \nthe tenth space shuttle mission."
+        }
+      ]
+    },
+    {
+      "tStartMs": 612320,
+      "dDurationMs": 8080,
+      "segs": [
+        {
+          "utf8": "And yes, that number – 41-B - is confusing. \nAfter STS-9, NASA changed its numbering  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 620400,
+      "dDurationMs": 7680,
+      "segs": [
+        {
+          "utf8": "formula to include fiscal years and launch \nlocations... and to avoid using the number 13."
+        }
+      ]
+    },
+    {
+      "tStartMs": 628080,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "Dr McNair issuing the final \ncommand to the onboard computers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 632880,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "Aboard Challenger, the second shuttle orbiter, \nmission specialist Ron McNair is at the console  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 638960,
+      "dDurationMs": 8880,
+      "segs": [
+        {
+          "utf8": "at the rear of the flight deck. In less than \na minute he’ll release a satellite into space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 647840,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "Imagine a large drum. It’s around \n9 feet – or 3 metres – high."
+        }
+      ]
+    },
+    {
+      "tStartMs": 654800,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "It’s nothing like the monster \nspy satellite Hexagon. Which,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 658480,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "despite being a key factor in \nshaping the size of the cargo bay,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 662320,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "never flew on the shuttle. It was superseded \nby smaller, more technologically advanced  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 668640,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "military satellites – similar in size to \nthe one Ron McNair is about to deploy…"
+        }
+      ]
+    },
+    {
+      "tStartMs": 674960,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "15 seconds, data still looks good."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677920,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "It’s called WESTAR-6. A communications \nsatellite. It’s the latest in a chain  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 684000,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "of satellites extending data, voice, fax \nand video communications across the USA."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691360,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "5 seconds to deployment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 693200,
+      "dDurationMs": 7760,
+      "segs": [
+        {
+          "utf8": "Now, it’s the shuttle’s job \nto release it into space. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 700960,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "Springs eject the satellite from the \nshuttle’s payload bay and it spins into space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 708880,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "It’s an arresting, strangely \nbeautiful thing to see which  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 713040,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "isn’t lost on the astronauts on-board challenger."
+        }
+      ]
+    },
+    {
+      "tStartMs": 716320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Houston Challenger?\nChallenger Houston. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 719920,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "Tell all those WESTAR folks, they really have \na pretty bird heading out to be heading into  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 725520,
+      "dDurationMs": 10240,
+      "segs": [
+        {
+          "utf8": "geosynchronous orbit pretty soon. We have about 10 \neyeballs and five noses all at the window looking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 740240,
+      "dDurationMs": 9040,
+      "segs": [
+        {
+          "utf8": "Challenger’s crew congratulate themselves on a job \nwell done – it seems to be going to plan so far."
+        }
+      ]
+    },
+    {
+      "tStartMs": 749280,
+      "dDurationMs": 9200,
+      "segs": [
+        {
+          "utf8": "This is the space shuttle doing \nexactly what it was designed to do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 758480,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "WESTAR VI is the third advanced Western \nUnion satellite to be put into orbit. And  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 763280,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "how much money is the company saving through \nshuttle delivery? NASA says $12 million."
+        }
+      ]
+    },
+    {
+      "tStartMs": 769920,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "So far, everything has gone to plan. There is just \none final job left. The satellite’s kick motor  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 777520,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "will thrust it upwards, moving it from low-Earth \norbit – about 200 miles or 300 kilometres above  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 783520,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "sea level – to its final destination, more than \na hundred times higher, to a position called a  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 789840,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "geostationary orbit. From this vantage point, it \nwill constantly stay above one position on Earth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 796960,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "And then it was later on in the day that Mission \nControl called us and said, “Hey. When you guys  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 802800,
+      "dDurationMs": 7840,
+      "segs": [
+        {
+          "utf8": "launched the satellite did WESTAR look like \nit was okay to you guys?” We said, “Yeah?”"
+        }
+      ]
+    },
+    {
+      "tStartMs": 810640,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "Hoot Gibson is the pilot onboard \nChallenger – he’s one of the 35 New Guys,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 816000,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "the astronaut class of 1978, \nand this is his first mission."
+        }
+      ]
+    },
+    {
+      "tStartMs": 821200,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "They said, “Was it spinning nice and \nsteady the way it should be?” We said,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 824720,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "“Yeah? ” They said something like “You \ndidn’t see any pieces coming off of it,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 829040,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "did you?” “Does this mean you can’t find it?”"
+        }
+      ]
+    },
+    {
+      "tStartMs": 833200,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "They said, “Yeah, we don’t \nknow where it is. We can’t  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 836320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "find it. It’s not where it’s supposed to be.”"
+        }
+      ]
+    },
+    {
+      "tStartMs": 839680,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "So at this point, we have no real new \ninformation to report on the whereabouts of  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 845840,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "WESTAR and what the situation \nis with the satellite itself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 852000,
+      "dDurationMs": 10320,
+      "segs": [
+        {
+          "utf8": "Something has gone wrong. WESTAR is literally \nlost in space. And NASA have no idea why."
+        }
+      ]
+    },
+    {
+      "tStartMs": 862320,
+      "dDurationMs": 7280,
+      "segs": [
+        {
+          "utf8": "Financial service company Western Union hired \nNASA to put this satellite into orbit. Alongside  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 869600,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "financial consequences for Western Union – and \npotential impacts for their communications network  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 874960,
+      "dDurationMs": 10240,
+      "segs": [
+        {
+          "utf8": "– it’s not a good look for the shuttle programme. \nThey just lost 75 million dollars in space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 885200,
+      "dDurationMs": 7520,
+      "segs": [
+        {
+          "utf8": "And there’s another issue. WESTAR wasn’t the only \nsatellite onboard Challenger. There’s a second,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 892720,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "almost identical satellite which they’re \ndue to deploy in a few hours’ time. In  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 898400,
+      "dDurationMs": 7520,
+      "segs": [
+        {
+          "utf8": "exactly the same way, in exactly the \nsame orbit. Will this one fail too?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 915360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "This is Mission Control Houston. \nThree days zero hours. 49 minutes  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 919440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "mission elapsed time. We’re moving along."
+        }
+      ]
+    },
+    {
+      "tStartMs": 923440,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "It’s now day three of mission STS-41-B."
+        }
+      ]
+    },
+    {
+      "tStartMs": 928160,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "Yesterday, the crew’s task was to release a \nballoon into space to practice manoeuvring  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 933680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "the shuttle towards it and away from it. \nBut instead of inflating, it exploded!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 938720,
+      "dDurationMs": 8160,
+      "segs": [
+        {
+          "utf8": "A satellite stranded in space, an exploded \nballoon – so far, nothing is going right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 946880,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "But now it’s a new day with a new task."
+        }
+      ]
+    },
+    {
+      "tStartMs": 951280,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "The crew has started the countdown \nclock leading toward the deployment  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 956320,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "and is currently reviewing their \nprocedures prior to the deployment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 961200,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "The experts got together and \nwe're trying to decide well,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 966960,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "is the problem a unique problem to WESTAR?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 971200,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "Payload Officer Michele Brekke is on her way \ninto Mission Control. Teams at NASA have been  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 976880,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "deliberating about whether to still release the \nsecond satellite, PALAPA B2. It’s owned by the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 982560,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "Indonesian government – and virtually identical \nto WESTAR-6, the satellite already lost in space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 989600,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "So they met and decided that \nit's very unlikely this is a  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 995520,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "generic issue. And they were go to \nproceed with the palapa deployment. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1002240,
+      "dDurationMs": 8560,
+      "segs": [
+        {
+          "utf8": "And that’s when I came into mission control and \ncoordinated the deployment from the shuttle. Yeah,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1010800,
+      "dDurationMs": 7680,
+      "segs": [
+        {
+          "utf8": "so that was one of my first missions as \na front room operator in Mission Control."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1018480,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "For Brekke, this job is the \nrealisation of a childhood dream."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1023280,
+      "dDurationMs": 8000,
+      "segs": [
+        {
+          "utf8": "I had an older brother, he was two years older \nthan me. And he and I did everything together.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1031280,
+      "dDurationMs": 7760,
+      "segs": [
+        {
+          "utf8": "And when Star Trek came out, I was 10, he \nwas 12. And we just got hooked on Star Trek."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1039040,
+      "dDurationMs": 8040,
+      "segs": [
+        {
+          "utf8": "But a few years later tragedy hits her family. \nHer brother dies in an accident when he’s just 18."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1047080,
+      "dDurationMs": 7160,
+      "segs": [
+        {
+          "utf8": "And at first, I was completely \nbroken. But as the days went on,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1054240,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "and the world started to spin again, I \nrealised that I had my whole life ahead  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1060960,
+      "dDurationMs": 9360,
+      "segs": [
+        {
+          "utf8": "of me. I was 16. And I was here for a purpose. \nAnd my brother was gone. But I think he had a  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1070320,
+      "dDurationMs": 6640,
+      "segs": [
+        {
+          "utf8": "purpose too. So I convinced myself that \nI need to go find my purpose in life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1076960,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And I’d pay attention to what \nwas on the news and so on.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1081680,
+      "dDurationMs": 16560,
+      "segs": [
+        {
+          "utf8": "And about 8 weeks after my brother died, Apollo 11 \nlanded on the moon. In July of 1969. And I watched  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1098240,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "that moon landing, and I watched the astronauts \nbound down that ladder and start bouncing around  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1104000,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "the moon. And then I said, that's what I'm \ngoing to do. That's going to be my mission."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1111360,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "She decides that she wants to be an astronaut. \nBut how do you find out what to study to get  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1116480,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "that job? Her Dad has an idea: “Why \ndon't you write to our Congressman?”"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1121680,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "I got a letter back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1123040,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "It’s not encouraging."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1124800,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "Saying that it was very noble of me a girl \nto want to be an astronaut, but at this time,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1130480,
+      "dDurationMs": 7840,
+      "segs": [
+        {
+          "utf8": "NASA wasn't allowing women to fly on the \nspaceships for the following reasons.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1138320,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "First of all, the hygiene equipment \nwas designed for a man. To which I  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1145360,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "said to myself, Well, wait a minute, I'm a girl \nscout, I know how to pee in the woods. Surely,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1152480,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "if NASA can land men on the moon, they can \nfigure out a way for a woman to pee in space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1157120,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "The second reason is that NASA only \nrecruits military test pilots as  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1161040,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "astronauts. And at this point, \nonly men can fly military jets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1166240,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "And I thought, Well, wait a minute, doesn't this \nguy watch Star Trek. There's lots of women on the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1172240,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "Enterprise. And they're not pilots, they \ndo other jobs. So I thought, Well, wait,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1178640,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "I don't want to be a pilot, I want to operate \nthe spacecraft, I want to push the buttons,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1184400,
+      "dDurationMs": 6800,
+      "segs": [
+        {
+          "utf8": "turn the knobs, sit at the console, like we \nsaw on Star Trek, and be a part of the team."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1191200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And the Congressman mentions a third reason:  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1194400,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "astronauts need an advanced \ndegree in science or engineering."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1198320,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "To which I said, I can do that. So I made it my \nmission to get an advanced degree in aerospace  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1205680,
+      "dDurationMs": 7280,
+      "segs": [
+        {
+          "utf8": "engineering. And when I graduated with my \nMaster’s, that same year, NASA started accepting  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1212960,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "applications from women to be astronauts. And \nI thought, oh my gosh, it was meant to be."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1219440,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "And it is meant to be, but not quite as she \nimagines. She isn’t selected as an astronaut – but  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1225760,
+      "dDurationMs": 6680,
+      "segs": [
+        {
+          "utf8": "NASA sees her potential and offers her a different \njob. She starts as an astronaut instructor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1232440,
+      "dDurationMs": 7400,
+      "segs": [
+        {
+          "utf8": "And now, in 1984, she’s on her way to \nmission control in her new role as payload  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1239840,
+      "dDurationMs": 11600,
+      "segs": [
+        {
+          "utf8": "officer – coordinating between NASA and customers \nwho want cargo, like satellites, taken into orbit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1251440,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "Good morning. This is Reed Collins \nwith the CBS World News RoundUp."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1256240,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "Today, there’s more news interest \nthan usual. The media sense a story."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1261760,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "This satellite named palapa B is \njust about identical to WESTAR Six,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1267040,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "the package that was delivered to the \nwrong address, a uselessly low orbit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1271600,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "As she arrives at Mission Control a few \nhours ahead of the satellite’s deployment,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1276080,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "Michele Brekke plugs her headphones \ninto her console and looks around her.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1280720,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "She gets a real buzz from being here…"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1283040,
+      "dDurationMs": 8720,
+      "segs": [
+        {
+          "utf8": "And, you know, I liken mission control to a \nbeehive. If you are outside looking in. Just  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1291760,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "like with a beehive. It looks like total chaos. \nYou got bees flying everywhere. Zooming here,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1298160,
+      "dDurationMs": 9040,
+      "segs": [
+        {
+          "utf8": "zipping there, just total craziness and \ndisorganised. But if you're inside that hive,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1307200,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "every single bee has a job. They know exactly \nwhere they're going and what they're going to do  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1313760,
+      "dDurationMs": 6800,
+      "segs": [
+        {
+          "utf8": "when they get there. And that's the way Mission \nControl is if you're inside Mission Control,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1320560,
+      "dDurationMs": 9040,
+      "segs": [
+        {
+          "utf8": "it is a finely tuned machine and I \nwas getting to be a part of that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1332880,
+      "dDurationMs": 4691,
+      "segs": [
+        {
+          "utf8": "It’s a couple of minutes until \nthe satellite will be released."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1337571,
+      "dDurationMs": 339,
+      "segs": [
+        {
+          "utf8": "Challenger Houston Palapa is go for deploy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1337910,
+      "dDurationMs": 1850,
+      "segs": [
+        {
+          "utf8": "Alrighty, Jerry everything's looking real good."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1340880,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "Palapa is sitting at the back of the cargo bay \non a turntable which begins to spin up. When  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1347120,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "it’s released this rotation will help keep \nit stable as it flies free of the shuttle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1353680,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And deploy pre-arm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1356000,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "At the back of the flight deck, Ron \nMcNair is watching the satellite on camera "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1360480,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "as it spins on its cradle in the payload bay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1364080,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "10 seconds to deployment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1366720,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "At Mission Control, the Guidance \nOfficer confirms that Challenger  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1370560,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "is stable and ready to launch \nthe satellite on its journey"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1375120,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And deploy fire."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1378560,
+      "dDurationMs": 9440,
+      "segs": [
+        {
+          "utf8": "The explosive bolts holding the satellite on its \nturntable fire. Palapa leaps away from Challenger."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1388000,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "The orbiter and satellite are \nnow flying alongside each other.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1392240,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Palapa is spinning nearly once every second."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1395920,
+      "dDurationMs": 10080,
+      "segs": [
+        {
+          "utf8": "Okay, the deploy was absolutely nominal, on time. \nAttitudes are for all 54.49187 decimal 30293"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1406000,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "As mission specialist Bob Stewart reads out the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1408640,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "figures, it looks like PALAPA’s \ndeployment is right on the money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1412880,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Copy that, can't ask for \nany better. Thank you Bob!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1416160,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "The crew starts the separation \nmanoeuvre, propelling Challenger  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1421360,
+      "dDurationMs": 10080,
+      "segs": [
+        {
+          "utf8": "away from the satellite – clear of any debris \nor exhaust generated by Palapa’s kick motor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1431440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Okay a couple of quickies for helping \nyou, Ron, to set up your cameras."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1434880,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "As the spacecraft separate, Challenger’s \nremote manipulator system – often known  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1439520,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "as the robotic arm – is extended with a \ncamera at the end to catch the action."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1444480,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "We recommend that you zoom out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1446160,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "After the failure of WESTAR, \nMission Control wants to be  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1449440,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "very sure that they capture video \nof Palapa as its kick motor fires."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1454560,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And then if you can see the \npalapa you can go ahead and  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1458080,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "zoom back into whatever you think is appropriate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1461680,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "The satellite is due to start its burn when it’s \nright over the country which owns it Indonesia.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1468320,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Just as with WESTAR, Palapa \nis a geostationary satellite,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1472080,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "so it needs to reach a much higher orbit to \nmaintain its position over its home country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1478480,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "But at that moment Challenger is out of contact \nwith the ground. When they regain the signal,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1484080,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "through Guam, an island in the Pacific  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1486320,
+      "dDurationMs": 7520,
+      "segs": [
+        {
+          "utf8": "Ocean – everyone at Mission Control \nis anxious to hear if it has worked."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1493840,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Challenger Houston, with you \nthrough Guam for eight minutes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1498080,
+      "dDurationMs": 7200,
+      "segs": [
+        {
+          "utf8": "Roger Houston and we saw the beginning \nof his burn on closed circuit TV or PTR"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1505280,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Roger, copy that and understand it looked good."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1509200,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "It looks like everything’s gone perfectly \nthis time. The satellite’s motor has fired."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1515360,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "And it’s the end of the day for \nChallenger’s crew. Palapa is far  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1519040,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "behind them now and hopefully \non its way to its new orbit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1524880,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Final message is being prepared for \nthe crew before they're put to bed for  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1529600,
+      "dDurationMs": 6960,
+      "segs": [
+        {
+          "utf8": "the night about 30 minutes remaining \nbefore their scheduled sleep period."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1536560,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "I love to imagine what it might be like \nsleeping in space in that microgravity  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1540800,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "environment. At home we lie down in our beds, \nbodies supported against the force of gravity,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1547360,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "but up there in free fall, which way \nis up? Sleeping on the floor feels just  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1552480,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "like sleeping on the ceiling, but if you \nare untethered you might just float off."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1558240,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "So most of the crew zip themselves \ninto sleep restraints, a kind of  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1562720,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "sleeping bag which you can attach to \nthe wall. Or the floor. Or the ceiling. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1568960,
+      "dDurationMs": 6640,
+      "segs": [
+        {
+          "utf8": "And it’s not always easy to sleep \non the shuttle. It’s a noisy place. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1575600,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "And as you’re orbiting the Earth every 90 minutes, \nyou can throw in a sunrise and a sunset every 45.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1581920,
+      "dDurationMs": 7760,
+      "segs": [
+        {
+          "utf8": "So even if you wear a sleep mask, this environment \ncan seriously disrupt your sleep cycle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1589680,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "For the next eight hours, while \nthe crew of Challenger try to rest,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1594080,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "Mission Control doesn’t disturb them \nwith any non-urgent radio messages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1599760,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "But on the shuttle’s mid-deck there’s the \noccasional chatter of the teleprinter."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1610320,
+      "dDurationMs": 6880,
+      "segs": [
+        {
+          "utf8": "Just like every night, the team on the \nground pass on any important information."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1617200,
+      "dDurationMs": 11200,
+      "segs": [
+        {
+          "utf8": "Tonight, it’s bad news but the crew is \nasleep. It’ll be hours before they see it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1628400,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Good morning challenger. Houston is with you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1631760,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "It’s the next day. Challenger’s commander Vance \nBrand is responding to the daily wakeup call. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1638240,
+      "dDurationMs": 7200,
+      "segs": [
+        {
+          "utf8": "Morning Jack. How do you hear?\nRoger, you’re loud and clear. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1645440,
+      "dDurationMs": 8720,
+      "segs": [
+        {
+          "utf8": "We just read the teleprinter, the \nnews. And that blows our minds. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1654160,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "Roger understand. Certainly as \nyou know, Vance everything that  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1659520,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "spaceship did and all the procedures \nthat you did were absolutely correct."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1664560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Palapa has also failed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1668000,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "It blew our minds too. And we're having as you can  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1671680,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "understand a lot of interim \nassessments still going on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1678080,
+      "dDurationMs": 8240,
+      "segs": [
+        {
+          "utf8": "The kick motor on Palapa has malfunctioned, \njust as it did on WESTAR. Now two satellites  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1686320,
+      "dDurationMs": 11400,
+      "segs": [
+        {
+          "utf8": "are drifting in the wrong orbit, far from where \nthey should be. 150 million dollars lost in space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1697720,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "So both satellites of ours wound \nup in 400-mile-high orbits."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1703920,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Pilot Hoot Gibson again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1706000,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "I remember after we landed and came back \nto Houston there was a cartoon in the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1710720,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "Houston Chronicle that showed two men walking \ndown the street, and just above their heads  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1716160,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "there’s a satellite going by. They were \nsaying, “Well, it’s a complete success.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1720240,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "It just wasn’t quite as high as we wanted \nit to be.” So they were making fun of us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1726320,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "We had messed up both of our satellites, \nwe had exploded our lead balloon,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1731760,
+      "dDurationMs": 6800,
+      "segs": [
+        {
+          "utf8": "nothing is going well on this. The toilet hadn’t \nfailed yet. That happened I think the next day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1738560,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "So far, nothing on this mission has gone \nto plan. But there is one more task left. \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1745920,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Now the crew has a chance to change Challenger’s \nluck and, if it works, the crew will have tested  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1751040,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "a revolutionary new tool for use in space.\nThe mission has a chance to make  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1756080,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "history with a space first.\nBruce McCandless and Robert Stewart  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1760640,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "are now in the airlock aboard Challenger. \nSuited up and ready to step out into space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1767040,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "Bruce McCandless joined NASA in 1966 \nat the time of the Apollo program.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1772720,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "He’s been working towards this moment for years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1778880,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "Okay it’s open… looks nice out there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1784640,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "The two spacewalkers are hovering in  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1787040,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "the shuttle’s huge cargo bay – with \nits massive doors flung wide open."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1792560,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "And McCandless is wearing what looks like \na huge white backpack. Wider than him and  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1798960,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "about three quarters of his height.\nThat was a really interesting piece  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1804560,
+      "dDurationMs": 7200,
+      "segs": [
+        {
+          "utf8": "of hardware. It had armrests with the hand \ncontrollers on it, one for moving forward and  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1811760,
+      "dDurationMs": 7280,
+      "segs": [
+        {
+          "utf8": "back up and down and side to side and one for \nrotating. And it was a bit like a video game."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1819040,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "This is Jerry Miller – instructor \n& spacewalk specialist – talking  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1823600,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "about the manned manoeuvring unit – the MMU. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1827840,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "Essentially a jet backpack for \na crew member doing a spacewalk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1833120,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Up to now, every single astronaut \ndoing an EVA – a spacewalk – has  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1837840,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "been attached to the spacecraft via \na tether. An important lifeline."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1842560,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "But this time, with the MMU, it’s different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1846480,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "It was the only time that we deliberately \ndisconnected the safety tether because  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1852480,
+      "dDurationMs": 6800,
+      "segs": [
+        {
+          "utf8": "once the crew member was in the MMU, \nthey were able to be a free flyer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1861520,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "McCandless drifts out of the cargo \nbay into the darkness of space. He  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1868080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "has the perfect line ready for mission control."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1871120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Well this may have been one small step for Neil,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1874400,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "but it's a heck of a big leap \nfor me. – Roger, copy that Bruce."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1880240,
+      "dDurationMs": 7280,
+      "segs": [
+        {
+          "utf8": "He says: “This may have been one small step for \nNeil, but it’s a heck of a big leap for me.”"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1887520,
+      "dDurationMs": 7520,
+      "segs": [
+        {
+          "utf8": "As he operates the hand controller, the MMU fires \nlittle jets of nitrogen gas to move him upward."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1895040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "McCandless has manoeuvred the MMU \nto a position where he's looking  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1898080,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "right into the windows into the AF \ncrew station and the flight deck."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1902880,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "The three astronauts aboard Challenger have a \nperfect view of him and his space jet backpack."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1908920,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "You have a lot of envious people \nwatching. Looks like you're having  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1912160,
+      "dDurationMs": 7760,
+      "segs": [
+        {
+          "utf8": "a lot of fun up there. – yeah it’s working \nvery nicely. Looks like daylight is upon us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1919920,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "It’s dawn… but the sun will \nset again in 45 minutes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1924800,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "We want you to get out and \nback before sunset though."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1930800,
+      "dDurationMs": 7680,
+      "segs": [
+        {
+          "utf8": "McCandless and his manned manoeuvring you unit \nconstitute a separate spacecraft of their own now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1938480,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "And that’s exactly what he is. A \nseparate spacecraft. A satellite  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1943760,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "in his own right. And it may not feel like it \nas he drifts alongside the shuttle – but he’s  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1949440,
+      "dDurationMs": 8080,
+      "segs": [
+        {
+          "utf8": "also travelling at seventeen and a half thousand \nmiles per hour. That’s 28000 kilometres an hour."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1957520,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "This is really beautiful out there. We’re \ngetting a nice sun angle and everything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1964880,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "Now McCandless has manoeuvred to the back of \nthe spacecraft beyond its tail fin - and he’s  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1970640,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "looking at the three nozzles of the engines \nwhich propelled Challenger into orbit. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1976720,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "I get a real good look at the main engines now.\nAnd to think that this thing was sitting on the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1982240,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "launch pad just a few days ago – \nyeah, it’s a marvellous machine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1986160,
+      "dDurationMs": 7760,
+      "segs": [
+        {
+          "utf8": "And then, gradually, McCandless moves \nfurther away, deeper into space.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 1994880,
+      "dDurationMs": 7680,
+      "segs": [
+        {
+          "utf8": "In mission control, in Houston, \neveryone is mesmerised."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2002560,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And I have to say it was a little disconcerting  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2005280,
+      "dDurationMs": 6880,
+      "segs": [
+        {
+          "utf8": "to see him. Jet backpacking away \nwith no safety tether attached."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2012160,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "He looks a long way away."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2016320,
+      "dDurationMs": 8880,
+      "segs": [
+        {
+          "utf8": "That was truly, I mean, just an awe inspiring \nmoment for everybody in flight control,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2025200,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "Ron Zaguli works on the shuttle’s remote \nmanipulator system, its robotic arm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2030440,
+      "dDurationMs": 6760,
+      "segs": [
+        {
+          "utf8": "Because seeing him so far away from \nthe orbiter, flying that MMU you know,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2039200,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "you just didn't know what to say. You were just \nyour mouth was hanging open. Watching the video  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2046320,
+      "dDurationMs": 12000,
+      "segs": [
+        {
+          "utf8": "of him 350 feet away from the, from the orbiter, \nand he's just flying, having a good old time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2058320,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "As McCandless drifts away, his fellow \nspacewalker Bob Stewart stays tethered to  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2064240,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "the shuttle in the payload bay. His opportunity \nto practice with the MMU will come later."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2070960,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "On Challenger’s flight deck \nthe commander, Vance Brand,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2074480,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "and mission specialist Ron McNair are busy too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2078640,
+      "dDurationMs": 6960,
+      "segs": [
+        {
+          "utf8": "Vance was fretting about our free-flying \nastronauts. Ron McNair was operating the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2085600,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "TV cameras to keep them in sight and \nkeep a laser tracker pointed at them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2089920,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "Everybody has a role right \nnow. Except for Hoot Gibson."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2095200,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "As the pilot, the co-pilot, I was the only person \non the crew that had absolutely nothing to do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2101440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "He’s looking through the \nwindow of the flight deck,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2104240,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "watching McCandless’ journey around the \noutside of Challenger and then gradually  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2109120,
+      "dDurationMs": 10720,
+      "segs": [
+        {
+          "utf8": "further away. But Gibson loves photography… \nand he happens to have a camera to hand."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2119840,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "I will just never forget looking through  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2123520,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "the viewfinder when Bruce got \njust barely outside the bay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2129920,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "I looked through that viewfinder the \nvery first time and I didn’t even take  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2135280,
+      "dDurationMs": 11600,
+      "segs": [
+        {
+          "utf8": "a picture. I put it down and I said, “Oh my \ngosh, I can’t believe what an image this is.”"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2146880,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "I must have shot 20 pictures \nof him as he was separating  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2151440,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "away. So there was a whole sequence. It was just a \nwhole bunch of photos, one right after the other."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2157200,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "I’m looking out the window at him. I \ntilted the camera to put the horizon  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2162160,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "level in the pictures, because we \nwere at an angle to the horizon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2166880,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "And that is the moment Gibson gets the \nphoto. The one he’s been waiting for…"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2172640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I remember as I was doing this I said to myself,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2175680,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "“Wow, if I don’t mess these pictures up, I’m \ngoing to get the cover of Aviation Week.”"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2180720,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "Well, he ends up getting that \ncover. And more than that,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2185200,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "he captures one of the defining \nimages of human spaceflight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2190160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "I’m sure know it already. Just search online for  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2193680,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "“famous space photo” and it’s one \nof the first ones that comes up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2199360,
+      "dDurationMs": 6960,
+      "segs": [
+        {
+          "utf8": "And this is it: McCandless is cradled in \nthe MMU and facing towards the camera.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2206320,
+      "dDurationMs": 6960,
+      "segs": [
+        {
+          "utf8": "An astronaut drifting alone in space. \nHe’s at angle, tilted towards the right,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2213280,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "compared with the blue curve of Earth below \nhim. You can see the thin band of atmosphere,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2219360,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "with the clouds and weather systems too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2222800,
+      "dDurationMs": 6880,
+      "segs": [
+        {
+          "utf8": "It truly is a breath-taking image."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2229680,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "I remember seeing it as a teenager, and thinking \nwow. I just so want to do that. Floating out there  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2237040,
+      "dDurationMs": 8320,
+      "segs": [
+        {
+          "utf8": "in space with the majesty of our glorious planet \nbehind. Being untethered looked like freedom.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2245360,
+      "dDurationMs": 7760,
+      "segs": [
+        {
+          "utf8": "This photograph would seal my desire to get out \nthere into space. A desire I still have today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2253120,
+      "dDurationMs": 6640,
+      "segs": [
+        {
+          "utf8": "And this picture stayed with Ron \nZaguli, just like it stayed with me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2259760,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "And yeah, you know, I don't know how much I \nfeel about faith and religion, in terms of my  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2266320,
+      "dDurationMs": 11200,
+      "segs": [
+        {
+          "utf8": "personal views. But that view of Bruce out there \nalone in the heavens, put a lump in your throat,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2277520,
+      "dDurationMs": 7520,
+      "segs": [
+        {
+          "utf8": "you, you know. You wonder if there isn't \nsomething that's guiding our thoughts and  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2285040,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "our capabilities to create something so \nincredibly profound, that we're able to  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2291360,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "do these kinds of things. And it touched me a \nlot. I still have Bruce’s picture in my office."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2301760,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "This particular mission, STS-41-B, \nwas mostly a series of things gone  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2307680,
+      "dDurationMs": 6800,
+      "segs": [
+        {
+          "utf8": "wrong. But today, decades later, nobody \nwould remember those failed satellites. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2314480,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "It’s the wonder and the magic, so \nbeautifully captured by astronaut Hoot  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2319040,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "Gibson’s photograph, that’s still with us.\nI think it’s because it represents so  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2325040,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "much more than one astronaut testing a new \ntechnology. It seems to symbolise all of us,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2332400,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "as humankind, ready to cross a \nnew frontier in space exploration. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2339440,
+      "dDurationMs": 8480,
+      "segs": [
+        {
+          "utf8": "At last truly untethered from Earth.\nI was set to be on the Today Show… "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2347920,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "Because the manned manoeuvring unit was flying. \nAnd they wanted someone to comment on that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2353680,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Anna Fisher is one of the Thirty-Five New Guys.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2356880,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "She’s not flown a mission yet but she’s worked \nintensively on training and simulation for  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2361760,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "spacewalks. And part of her role – as \nit is for any NASA astronaut - is to  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2366880,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "talk to the media. In this case, the \nmission I’ve been telling you about."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2371840,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "As I was getting ready to leave, they deployed \nthe first satellite and had the problem. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2378960,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And, and so I head up to New York. And of course,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2381440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "that’s before the days of \ncell phones and all that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2384320,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "While she’s travelling, the second \nsatellite, Palapa, is deployed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2388880,
+      "dDurationMs": 6800,
+      "segs": [
+        {
+          "utf8": "And I landed at LaGuardia and took a taxi. And \nI was talking to the taxi driver and told him  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2395680,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "what I was doing. And he said, Well, I think \nthey just had the same problem with a second  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2400240,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "satellite. And I'm going, I don't think so I \nsaid, if they had a problem with the first one,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2405360,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "I can't imagine NASA deployed the second \none, too. And he said, I think so. So I  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2411680,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "got back up to my hotel room called back to \nHouston. Sure enough, taxi driver was right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2416800,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "Though Fisher has been asked to go onto the Today \nShow to talk about the manned manoeuvring unit,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2422240,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "she realises that she’s probably going to \nhave to field questions about the stranded  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2426400,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "satellites – and why they released the \nsecond one after the first one had failed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2431520,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "And so I'm going oh, great. Now they're \ngonna ask me why they did that. And I  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2438000,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "have no earthly clue. I would have thought that \nthey wouldn't do that either. And sure enough,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2443600,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "the next day, they asked me questions about that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2447280,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And one of the questions seems really far-fetched…"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2451680,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "And then they asked me if he thought NASA would \ntry to retrieve the satellites. And I said,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2457440,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "No way. It's pretty early in the shuttle \nprogramme. And those satellites weren't designed  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2462560,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "to be retrieved in order to, you know, grab \nsomething with the arm… So no, I don't think so."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2466400,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So that was in February. And November,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 2469520,
+      "dDurationMs": 8800,
+      "segs": [
+        {
+          "utf8": "I gladly ate those words. Because I got to be \non the flight to go get those two satellites."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2478320,
+      "dDurationMs": 5143,
+      "segs": [
+        {
+          "utf8": "That’s next time, on 13 Minutes."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1243 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "This is the first time we've ever come\nthis close to finding aliens, right?"
+    } ]
+  }, {
+    "tStartMs": 4920,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "There are some small clues that it might\nbe a nitrogen dominated atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 10880,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "which again, is another clue\nthat there could be life there."
+    } ]
+  }, {
+    "tStartMs": 14360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Hey, I'm Hannah and this is What\nin the World, your podcast"
+    } ]
+  }, {
+    "tStartMs": 16920,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "for the stories that everyone's talking\nabout from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 21000,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "And this episode is brought to you\nfrom outer space."
+    } ]
+  }, {
+    "tStartMs": 23840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Because we are talking all\nabout space,"
+    } ]
+  }, {
+    "tStartMs": 26000,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and I have got our favourite\nBBC science and space expert,"
+    } ]
+  }, {
+    "tStartMs": 29280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Caroline Steele, here with me.\nHey, Caroline."
+    } ]
+  }, {
+    "tStartMs": 31440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hi. Thanks for having me on.\nSo we're talking about"
+    } ]
+  }, {
+    "tStartMs": 33440,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "this new discovery,\nwhich has got people really excited."
+    } ]
+  }, {
+    "tStartMs": 37080,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "We might be one step closer\nto finding life on other planets,"
+    } ]
+  }, {
+    "tStartMs": 41600,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and we're going to get into that\nin a bit. But first of all,"
+    } ]
+  }, {
+    "tStartMs": 43840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "I wanted to ask you, what are\nyour favourite facts about space?"
+    } ]
+  }, {
+    "tStartMs": 47320,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Well, I've got two favourite facts.\nSo one is about the sun."
+    } ]
+  }, {
+    "tStartMs": 51040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So we think of the sun as being like, on\na space level, quite close to us, right?"
+    } ]
+  }, {
+    "tStartMs": 56000,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "But space is just so big\nthat if you were to drive to the sun"
+    } ]
+  }, {
+    "tStartMs": 60120,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "at 100km an hour, so like\nhow fast you'd go down a motorway."
+    } ]
+  }, {
+    "tStartMs": 63920,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "It would take you 170 years\nto get there."
+    } ]
+  }, {
+    "tStartMs": 66640,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "I did not know that."
+    } ]
+  }, {
+    "tStartMs": 67360,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "If you went in a straight line\nand we set off now, we would be dead"
+    } ]
+  }, {
+    "tStartMs": 70760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "by the time we got there.\nThat's how far away the sun is."
+    } ]
+  }, {
+    "tStartMs": 73160,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And that's actually quite close to us\non a sort of space scale."
+    } ]
+  }, {
+    "tStartMs": 77120,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "I also love the fact\nthat when you look at the stars,"
+    } ]
+  }, {
+    "tStartMs": 79640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "you're essentially looking\nback in time."
+    } ]
+  }, {
+    "tStartMs": 82040,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So the North Star, which in the Northern\nHemisphere, we use to navigate"
+    } ]
+  }, {
+    "tStartMs": 86200,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and have done for thousands of years,\nwhen you look at the North Star,"
+    } ]
+  }, {
+    "tStartMs": 90280,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "the light that's arriving at your eyes\nleft that star over 400 years ago."
+    } ]
+  }, {
+    "tStartMs": 96160,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So you're essentially\nlike looking back in time"
+    } ]
+  }, {
+    "tStartMs": 98720,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and seeing what that star looked like\n400 years ago."
+    } ]
+  }, {
+    "tStartMs": 102360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Exactly. Yeah. Ancient light.\nSo, yeah, I love the fact"
+    } ]
+  }, {
+    "tStartMs": 104920,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "that space is so much bigger than you\ncan possibly wrap your head around."
+    } ]
+  }, {
+    "tStartMs": 108560,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And looking at stars is\nlike looking back in time."
+    } ]
+  }, {
+    "tStartMs": 110880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "I love that, there's a fact for day\nand a fact for night."
+    } ]
+  }, {
+    "tStartMs": 113320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I want to hear more\nabout this discovery now."
+    } ]
+  }, {
+    "tStartMs": 115360,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "What can you tell me\nabout what they found?"
+    } ]
+  }, {
+    "tStartMs": 117200,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So scientists have been looking\nat an exoplanet."
+    } ]
+  }, {
+    "tStartMs": 120360,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "So that's a planet that exists\nin a solar system that isn't our own,\ncalled TRAPPIST-1e,"
+    } ]
+  }, {
+    "tStartMs": 126560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "and it's a rocky planet like Earth.\nIt's a similar size to Earth,"
+    } ]
+  }, {
+    "tStartMs": 130840,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and it exists in the habitable zone\naround its sun,"
+    } ]
+  }, {
+    "tStartMs": 135800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and its sun is called TRAPPIST-1."
+    } ]
+  }, {
+    "tStartMs": 138600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And basically being in the habitable\nzone means that if water exists"
+    } ]
+  }, {
+    "tStartMs": 142840,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "on this planet, it's likely to be\nliquid rather than frozen or vapour."
+    } ]
+  }, {
+    "tStartMs": 148080,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And that's sort of a good clue\nthat there could be life there."
+    } ]
+  }, {
+    "tStartMs": 152440,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "So that's pretty exciting."
+    } ]
+  }, {
+    "tStartMs": 153360,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "And what are the chances\nthat there is water on this planet?"
+    } ]
+  }, {
+    "tStartMs": 156440,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "That there are\nthe basic building blocks for life?"
+    } ]
+  }, {
+    "tStartMs": 159080,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Well, we don't know about water yet,\nbut scientists have been looking"
+    } ]
+  }, {
+    "tStartMs": 162400,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "at the potential atmosphere around\nTRAPPIST-1e, and they've ruled out"
+    } ]
+  }, {
+    "tStartMs": 166440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "that it's really full of hydrogen or\ncarbon dioxide, which is a great thing"
+    } ]
+  }, {
+    "tStartMs": 169960,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "because they're greenhouse gases,\nwhich would make the planet really hot."
+    } ]
+  }, {
+    "tStartMs": 174120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And there are some small clues\nthat it might be"
+    } ]
+  }, {
+    "tStartMs": 177400,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "a nitrogen dominated atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 180280,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "which, again, is another sort of clue\nthat there could be life there."
+    } ]
+  }, {
+    "tStartMs": 183760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "That's the main gas surrounding\nour planet."
+    } ]
+  }, {
+    "tStartMs": 186040,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Yeah, exactly. We think of,\nI don't know, I think of our planet"
+    } ]
+  }, {
+    "tStartMs": 188400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "as being really sort of oxygen\ndense - plants"
+    } ]
+  }, {
+    "tStartMs": 191560,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and humans, but actually it's\nabout the nitrogen, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 194400,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Yes, something like\n78% of our atmosphere is nitrogen."
+    } ]
+  }, {
+    "tStartMs": 196880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So nitrogen is also\na really exciting clue for life."
+    } ]
+  }, {
+    "tStartMs": 200800,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And this is the first time\nwe've ever come this close"
+    } ]
+  }, {
+    "tStartMs": 203160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "to finding aliens, right?"
+    } ]
+  }, {
+    "tStartMs": 205880,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Well, we've never found an exoplanet\nthat has nitrogen in its atmosphere."
+    } ]
+  }, {
+    "tStartMs": 210440,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And we don't know\nfor sure that TRAPPIST-1e does."
+    } ]
+  }, {
+    "tStartMs": 212800,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "But if it turns out that it does,\nthat's the first time"
+    } ]
+  }, {
+    "tStartMs": 215720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "we've got that far,\nwhich is pretty exciting."
+    } ]
+  }, {
+    "tStartMs": 218600,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Caroline, I want to stop you there\nbecause we're going to bring in"
+    } ]
+  }, {
+    "tStartMs": 220920,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "two more people who both one day want\nto work in space exploration."
+    } ]
+  }, {
+    "tStartMs": 226680,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "We've got Ximena, who's from Venezuela,\nand Vanessa, who's from Finland,"
+    } ]
+  }, {
+    "tStartMs": 231040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and they're both members\nof the Cosmic Girls Foundation,"
+    } ]
+  }, {
+    "tStartMs": 234160,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "which helps young women who want\nto work in this area. Hi. Welcome."
+    } ]
+  }, {
+    "tStartMs": 237920,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Hello.\nThank you."
+    } ]
+  }, {
+    "tStartMs": 239760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So, first of all,\nstarting with you Ximena, what was"
+    } ]
+  }, {
+    "tStartMs": 241920,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "your reaction to this,\nthis big discovery?"
+    } ]
+  }, {
+    "tStartMs": 244600,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "So when I knew about it,\nI just started investigating a lot."
+    } ]
+  }, {
+    "tStartMs": 249840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And it made me so excited to see,"
+    } ]
+  }, {
+    "tStartMs": 254320,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "kind of an Earth size planet,\nrocky planet,"
+    } ]
+  }, {
+    "tStartMs": 257680,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "with the possibility of nitrogen\nand nitrogen and hydrogen"
+    } ]
+  }, {
+    "tStartMs": 261160,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "in in its atmosphere."
+    } ]
+  }, {
+    "tStartMs": 263720,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Vanessa, what about you? What was\nyour reaction to this discovery?"
+    } ]
+  }, {
+    "tStartMs": 267040,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "As someone who loves biology,\nI find discoveries"
+    } ]
+  }, {
+    "tStartMs": 269240,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "like TRAPPIST-1e just fascinating\nbecause they really make me wonder"
+    } ]
+  }, {
+    "tStartMs": 274120,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "that life could really exist\nsomewhere else than just here on Earth."
+    } ]
+  }, {
+    "tStartMs": 279520,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Would you be afraid of life if we did\nfind life outside of planet Earth?"
+    } ]
+  }, {
+    "tStartMs": 284760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "I mean, it's -\nthere is a possibility\nthat aliens are bad."
+    } ]
+  }, {
+    "tStartMs": 289160,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "They want to harm us.\nBut I want to be hopeful"
+    } ]
+  }, {
+    "tStartMs": 291520,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "of the possibility that aliens are\nas curious as humans are."
+    } ]
+  }, {
+    "tStartMs": 296320,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Maybe they're looking at our planet\nand thinking or investigating about -"
+    } ]
+  }, {
+    "tStartMs": 302200,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "if it has an atmosphere, if it has\na cycle of daytime and night time."
+    } ]
+  }, {
+    "tStartMs": 308200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And I want to be hopeful\nof the possibility that aliens are"
+    } ]
+  }, {
+    "tStartMs": 311880,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "just as curious as humans are.\nVanessa, what about you?"
+    } ]
+  }, {
+    "tStartMs": 314960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Are you scared or curious or both?"
+    } ]
+  }, {
+    "tStartMs": 317960,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I don't think\nI would have been afraid."
+    } ]
+  }, {
+    "tStartMs": 320360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I think I would be more curious\nbecause, like, just imagine,"
+    } ]
+  }, {
+    "tStartMs": 323800,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "like to find\nreal living aliens somewhere else,"
+    } ]
+  }, {
+    "tStartMs": 327840,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "that just to know that we're not\nthe only one here on Earth."
+    } ]
+  }, {
+    "tStartMs": 332120,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I think it would be\njust a wonderful thing."
+    } ]
+  }, {
+    "tStartMs": 334520,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Vanessa, thank you so much\nfor joining us."
+    } ]
+  }, {
+    "tStartMs": 336880,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "I'm going to pick this up\nwith Caroline."
+    } ]
+  }, {
+    "tStartMs": 338720,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So there are so many films about aliens\nand about life on other planets."
+    } ]
+  }, {
+    "tStartMs": 342920,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "They're such a big part\nof our imagination,"
+    } ]
+  }, {
+    "tStartMs": 345640,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "I'm thinking of, like, the little green,\nthe little green aliens that we see,"
+    } ]
+  }, {
+    "tStartMs": 349760,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "all the scarier ones.\nOr like, 'E.T. phone home'."
+    } ]
+  }, {
+    "tStartMs": 353520,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "I was going to say E.T. Yeah.\nCaroline."
+    } ]
+  }, {
+    "tStartMs": 355160,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "What would life actually look like if\nit was found outside of planet Earth?"
+    } ]
+  }, {
+    "tStartMs": 359760,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "The thing is,\nwe just don't know until we find it."
+    } ]
+  }, {
+    "tStartMs": 362280,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "It could look anything from,\nI don't know, similar to, say,"
+    } ]
+  }, {
+    "tStartMs": 366160,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "microbes that we have here on Earth,\nwhich in some ways is super exciting"
+    } ]
+  }, {
+    "tStartMs": 370760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "because that could be the beginning\nof complex life,"
+    } ]
+  }, {
+    "tStartMs": 372920,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "or it could be really far evolved,"
+    } ]
+  }, {
+    "tStartMs": 375400,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "you know, it could be\nas intelligent as humans"
+    } ]
+  }, {
+    "tStartMs": 378080,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "or even more intelligent than humans."
+    } ]
+  }, {
+    "tStartMs": 380440,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And the tricky thing is,\nmore complex and less complex life,"
+    } ]
+  }, {
+    "tStartMs": 384160,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "from where we're sitting on Earth, using\nour telescopes, will look quite similar."
+    } ]
+  }, {
+    "tStartMs": 388200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So working out -\nIt's preetty far away\nisn't it? Exactly."
+    } ]
+  }, {
+    "tStartMs": 391120,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So it's going to be quite hard to work\nout exactly what life looks like."
+    } ]
+  }, {
+    "tStartMs": 394480,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Is this the closest we've ever come\nto finding intelligent life before?"
+    } ]
+  }, {
+    "tStartMs": 398760,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It's the closest we've come to finding\nnitrogen in an exoplanet atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 403760,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "which is one of the sort of requirements\nfor life to be a possibility."
+    } ]
+  }, {
+    "tStartMs": 408840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "In the past,\nwe've thought we've got really close."
+    } ]
+  }, {
+    "tStartMs": 411240,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "So in 2010, there was a planet\ndiscovered called Gliese 581g."
+    } ]
+  }, {
+    "tStartMs": 416560,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And some scientists sort of came out\nsaying, 'oh,"
+    } ]
+  }, {
+    "tStartMs": 418720,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I'm really confident there's going\nto be life on this planet'."
+    } ]
+  }, {
+    "tStartMs": 421280,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "The media kind of got really excited\nand said, you know,"
+    } ]
+  }, {
+    "tStartMs": 424680,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "'exoplanet with life found',\nall this kind of stuff."
+    } ]
+  }, {
+    "tStartMs": 427360,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And when more research was done,\nit turned out"
+    } ]
+  }, {
+    "tStartMs": 430400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "that the planet probably doesn't even\nexist, let alone have life."
+    } ]
+  }, {
+    "tStartMs": 434120,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So in the past we've got quite\ncarried away. So I think scientists"
+    } ]
+  }, {
+    "tStartMs": 436720,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and journalists like me now are\nquite cautious with what we say."
+    } ]
+  }, {
+    "tStartMs": 440600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "But yeah, I mean, this is definitely\none of the most exciting examples\nwe've had in a while."
+    } ]
+  }, {
+    "tStartMs": 444840,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "And Caroline, this discovery came thanks\nto the James Webb Space Telescope."
+    } ]
+  }, {
+    "tStartMs": 450240,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It must be pretty powerful to see signs\nof life from 40 light years away."
+    } ]
+  }, {
+    "tStartMs": 455240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Yeah. One scientist working\non it said"
+    } ]
+  }, {
+    "tStartMs": 457560,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "that it's so powerful it could detect\nthe heat of a bumblebee on the moon."
+    } ]
+  }, {
+    "tStartMs": 462920,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It's so incredibly"
+    } ]
+  }, {
+    "tStartMs": 466640,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "powerful.Some people have said\nit's 100 times more powerful"
+    } ]
+  }, {
+    "tStartMs": 468880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "than the Hubble Space Telescope\nthat came before."
+    } ]
+  }, {
+    "tStartMs": 472240,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And what's really exciting about it\nis rather than looking at visible light,"
+    } ]
+  }, {
+    "tStartMs": 476560,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "which is, you know, the light we see\naround us in the studio."
+    } ]
+  }, {
+    "tStartMs": 478920,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Instead, it looks at infrared light,"
+    } ]
+  }, {
+    "tStartMs": 481320,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "which is given off by smaller,\ncolder bodies."
+    } ]
+  }, {
+    "tStartMs": 483440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So you and I are giving off\ninfrared light right now."
+    } ]
+  }, {
+    "tStartMs": 485440,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It's basically\nkind of like heat and infrared light"
+    } ]
+  }, {
+    "tStartMs": 488040,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "can travel much further\nthrough space."
+    } ]
+  }, {
+    "tStartMs": 490720,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "It's given off by smaller, colder\nstars, which are really far away."
+    } ]
+  }, {
+    "tStartMs": 494880,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "It's the biggest telescope\nwe've ever launched into space."
+    } ]
+  }, {
+    "tStartMs": 497920,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "It has this sort of giant mirror\nthat's six and a half meters across,"
+    } ]
+  }, {
+    "tStartMs": 503080,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "that's, you know, absolutely massive."
+    } ]
+  }, {
+    "tStartMs": 505120,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "It's two and a half times bigger\nthan the Hubble Space Telescope."
+    } ]
+  }, {
+    "tStartMs": 508680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "And yeah, I'm excited to see\nwhat more it finds."
+    } ]
+  }, {
+    "tStartMs": 512760,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "With the information\nthat it has found."
+    } ]
+  }, {
+    "tStartMs": 515360,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "What will astronomers do with that?"
+    } ]
+  }, {
+    "tStartMs": 517560,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "At the moment we just have sort of hints\nabout maybe a nitrogen atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 521760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "but at this stage, it could end up being\nthat it doesn't even have an atmosphere."
+    } ]
+  }, {
+    "tStartMs": 526160,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "So we need to study TRAPPIST-1e more."
+    } ]
+  }, {
+    "tStartMs": 528640,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "The plan is - so at the moment,\nscientists have looked"
+    } ]
+  }, {
+    "tStartMs": 531360,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "at it as it passes in front\nof its star four different times."
+    } ]
+  }, {
+    "tStartMs": 535440,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "They're going to look at it\nanother 15 times."
+    } ]
+  }, {
+    "tStartMs": 538280,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "And I think\nit's already started now, actually."
+    } ]
+  }, {
+    "tStartMs": 540000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And the results should be out\nnext year."
+    } ]
+  }, {
+    "tStartMs": 542440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And that will hopefully confirm\nwhether or not it does have an\natmosphere that's full of nitrogen."
+    } ]
+  }, {
+    "tStartMs": 546920,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Is that detected by infrared?\nYes."
+    } ]
+  }, {
+    "tStartMs": 549200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So basically the way it works, is\nthe star is giving off infrared light"
+    } ]
+  }, {
+    "tStartMs": 554240,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and that light passes\nthrough the atmosphere of the planet."
+    } ]
+  }, {
+    "tStartMs": 558120,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And depending\non what gases are in that atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 560640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "it changes the light slightly. So\nthe telescope is essentially looking"
+    } ]
+  }, {
+    "tStartMs": 563600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "for tiny changes\nin the light that say, 'hmm,"
+    } ]
+  }, {
+    "tStartMs": 565800,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "maybe there's some nitrogen there\nthat's causing that change'."
+    } ]
+  }, {
+    "tStartMs": 568360,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So if nitrogen is actually found,\nwhat then?"
+    } ]
+  }, {
+    "tStartMs": 572040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Then my guess is what we'll do is try"
+    } ]
+  }, {
+    "tStartMs": 574280,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and see what other gases are\nin the atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 576640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and use models to work out\nhow warm the planet could be and"
+    } ]
+  }, {
+    "tStartMs": 580480,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "whether or not it's a temperature\nthat basically could support life"
+    } ]
+  }, {
+    "tStartMs": 583520,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "or maybe it's too hot or too cold,\nbut fingers crossed it has nitrogen."
+    } ]
+  }, {
+    "tStartMs": 587280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "There's enough of it to keep\nthe planet a decent temperature."
+    } ]
+  }, {
+    "tStartMs": 590640,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And then that's one step closer\nto finding life."
+    } ]
+  }, {
+    "tStartMs": 593040,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Do you think we would ever be able\nto travel to a planet like that,"
+    } ]
+  }, {
+    "tStartMs": 595800,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "or even live on it?"
+    } ]
+  }, {
+    "tStartMs": 597160,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "People are developing spacecraft\nto do just that, right?"
+    } ]
+  }, {
+    "tStartMs": 600800,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "Yes. So TRAPPIST-1e is, on a sort of\nlike space exoplanet scale, close,"
+    } ]
+  }, {
+    "tStartMs": 608160,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "around the corner practically, but\nit's still about 40 light years away."
+    } ]
+  }, {
+    "tStartMs": 611960,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "It would take about a million years\nin our current spacecraft to get there."
+    } ]
+  }, {
+    "tStartMs": 615440,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So realistically it is too far."
+    } ]
+  }, {
+    "tStartMs": 617640,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Probably, I don't want to say for humans\never, but maybe for humans ever."
+    } ]
+  }, {
+    "tStartMs": 621680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "If we wanted to move off Earth\nonto another planet, I think"
+    } ]
+  }, {
+    "tStartMs": 624240,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "we're probably better off focusing\non planets a bit closer to home,"
+    } ]
+  }, {
+    "tStartMs": 628280,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "like Mars or something like that.\nAlso, to be honest,"
+    } ]
+  }, {
+    "tStartMs": 630760,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "if we could get to TRAPPIST-1e,\nI don't think I'd want to live there"
+    } ]
+  }, {
+    "tStartMs": 633200,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "because it's tidally locked,\nwhich basically means one side"
+    } ]
+  }, {
+    "tStartMs": 637520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "of the planet always faces the sun\nand the other side always faces away."
+    } ]
+  }, {
+    "tStartMs": 641520,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So you either have to pick to live\nin constant daylight"
+    } ]
+  }, {
+    "tStartMs": 645000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "or constant night time.\nWhich would you choose?"
+    } ]
+  }, {
+    "tStartMs": 648040,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Oh, I think I'd go constant night time.\nWhat? I'm constant daytime!"
+    } ]
+  }, {
+    "tStartMs": 652320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Why would you want to live\nin constant darkness?"
+    } ]
+  }, {
+    "tStartMs": 654360,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Because I think having the sun\nall day, I would never sleep."
+    } ]
+  }, {
+    "tStartMs": 657720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I don't know, I think -\nGet yourself an eye mask, Caroline!"
+    } ]
+  }, {
+    "tStartMs": 660960,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Thank you. Thank you so much\nfor joining me again."
+    } ]
+  }, {
+    "tStartMs": 663320,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Thanks for having me on."
+    } ]
+  }, {
+    "tStartMs": 664480,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So confirming life\non planets is still a while off,"
+    } ]
+  }, {
+    "tStartMs": 667240,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "but next time you have a look up\nat the stars, you might want to think"
+    } ]
+  }, {
+    "tStartMs": 671000,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "about whether something up there\nmight be looking right back at you."
+    } ]
+  }, {
+    "tStartMs": 674400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I'm Hannah, this is What in the World\nfrom the BBC World Service,"
+    } ]
+  }, {
+    "tStartMs": 677040,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and if you've liked this episode,\nplease do like, share, subscribe."
+    } ]
+  }, {
+    "tStartMs": 680360,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "We have got loads more on the BBC\nWorld Service YouTube channel and"
+    } ]
+  }, {
+    "tStartMs": 684080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "wherever you get your BBC podcasts.\nWe'll see you next time."
+    } ]
+  } ]
+}

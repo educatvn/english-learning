@@ -5,7 +5,7 @@ import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
 import { getVocabWords, deleteVocabWord, searchCaptionIndex } from '@/services/vocabulary'
 import { loadVideos } from '@/services/videos'
-import { parseJSON3 } from '@/utils/captionParser'
+import { parseJSON3, fetchCaptionData } from '@/utils/captionParser'
 import type { VocabEntry, VideoMeta } from '@/types'
 
 // ─── Caption search ───────────────────────────────────────────────────────────
@@ -22,7 +22,6 @@ interface CaptionHit {
  * 2. Fetch captions only for matching videos to get exact cue text + timestamp
  */
 async function searchCaptions(word: string, videoMap: Map<string, VideoMeta>): Promise<CaptionHit[]> {
-  const base = import.meta.env.BASE_URL
   const re = new RegExp(`\\b${word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i')
 
   // Step 1 — get matching videoIds from the index
@@ -36,19 +35,12 @@ async function searchCaptions(word: string, videoMap: Map<string, VideoMeta>): P
 
   const results = await Promise.allSettled(
     matchingVideos.map(async (video): Promise<CaptionHit[]> => {
-      const paths = [`${base}captions/${video.videoId}.json`]
-      for (const path of paths) {
-        try {
-          const res = await fetch(path)
-          if (!res.ok) continue
-          const data = await res.json()
-          const { cues } = parseJSON3(data)
-          return cues
-            .filter((c) => re.test(c.text))
-            .map((c) => ({ video, startMs: c.startMs, text: c.text }))
-        } catch { continue }
-      }
-      return []
+      const data = await fetchCaptionData(video.videoId)
+      if (!data) return []
+      const { cues } = parseJSON3(data)
+      return cues
+        .filter((c) => re.test(c.text))
+        .map((c) => ({ video, startMs: c.startMs, text: c.text }))
     }),
   )
 

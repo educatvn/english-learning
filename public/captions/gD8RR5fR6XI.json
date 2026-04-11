@@ -1,0 +1,1553 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 440,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "Degrowth does not ask people who\ndon't have enough to live with less,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 6120,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "but they ask people who have too much\nto live with enough."
+        }
+      ]
+    },
+    {
+      "tStartMs": 9760,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "I think degrowth underestimates\nthe power of innovation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14800,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Degrowth underestimates the need"
+        }
+      ]
+    },
+    {
+      "tStartMs": 17040,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "for investment that we need\nin new technology."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19720,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Hello and welcome to this episode\nof What in the World"
+        }
+      ]
+    },
+    {
+      "tStartMs": 22160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "from the BBC World Service.\nI'm your host, Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25320,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "We're often told\nthat growth is a good thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 27720,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "More jobs, more money, more stuff.\nBut what's the cost of all that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 31440,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "We live on a finite planet, and when\nricher countries grow and get richer,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 36600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "it's often\nat the expense of poorer countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 39200,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "They are used for their resources\nor to dump waste."
+        }
+      ]
+    },
+    {
+      "tStartMs": 43120,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And there's now a movement\nof people trying to encourage us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46760,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "to see the world\nfrom a different perspective."
+        }
+      ]
+    },
+    {
+      "tStartMs": 49200,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "They're calling\nfor something called degrowth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 51520,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "which would\nin practice mean countries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 53520,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "in the global North using less energy\nand fewer resources."
+        }
+      ]
+    },
+    {
+      "tStartMs": 57120,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So how likely is degrowth?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59520,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "What would it take\nand could it do more harm than good."
+        }
+      ]
+    },
+    {
+      "tStartMs": 65640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And joining us in the studio is\nBBC journalist Alvaro Alvarez,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "who has been looking into this.\nHello. Welcome to the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 71280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Thank you.\nIt's a pleasure being here, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 73520,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So how did you get interested\nin degrowth?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 76040,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "A couple of years ago,\nI came across a book"
+        }
+      ]
+    },
+    {
+      "tStartMs": 78440,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "with the word degrowth in its title,\nand it connected a lot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82240,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "of the concepts that I think are\nimportant for our crisis right now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 87360,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "I also found out that a lot of the\npeople working on degrowth were based"
+        }
+      ]
+    },
+    {
+      "tStartMs": 91120,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "in Spain, which is where I grew up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 93640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So it kind of like had\na personal connection for me,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and I was really interested\nin looking into it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99280,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And what actually is it?\nFor a lot of people listening,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 101800,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "it might sound like degrowing\nis going backwards."
+        }
+      ]
+    },
+    {
+      "tStartMs": 104800,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "Let me start my reply with a quote,\nwhich is 'anybody that thinks"
+        }
+      ]
+    },
+    {
+      "tStartMs": 110120,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "that exponential growth can go on\nforever on a finite planet"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113760,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "is either mad or an economist.'\nThis is a quote from an economist,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 118240,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and it basically connects to degrowth\nin the fact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 121240,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "that the idea that degrowth is saying\nthat we need to stop"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125480,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "the exponential production\nin all sectors of society."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129480,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "So degrowth is not saying\nthat we need to reduce everything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133640,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "It's saying that we need to decrease\nsome elements"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137000,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "of our production\nthat are not beneficial."
+        }
+      ]
+    },
+    {
+      "tStartMs": 140000,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "An example of those elements\nwould be fast fashion, private jets,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 144560,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "the beef and meat industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146640,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So it's not\nabout decreasing everything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 149160,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "It's about understanding what we need\nto decrease and what we need to grow"
+        }
+      ]
+    },
+    {
+      "tStartMs": 153680,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "in order to reach wellbeing for\neverybody within planetary boundaries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 158560,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "And what would need to grow?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 159920,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Well, things that need to grow would\nbe things like public transport,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164600,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "public housing,\nregenerative agriculture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 167720,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "And a lot of this has to do with GDP\nbecause degrowthers say"
+        }
+      ]
+    },
+    {
+      "tStartMs": 171840,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "that the way we measure our economies\nvia something called GDP is wrong."
+        }
+      ]
+    },
+    {
+      "tStartMs": 175720,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "It's not working for us.\nWe need a new measure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 178000,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Correct. That's a\nvery important point."
+        }
+      ]
+    },
+    {
+      "tStartMs": 180000,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "And GDP, it basically translates\nto gross domestic product"
+        }
+      ]
+    },
+    {
+      "tStartMs": 184640,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "and that is the value of all the\ngoods and services that we produce"
+        }
+      ]
+    },
+    {
+      "tStartMs": 190360,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "on a certain - in a country,\nin a certain time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 193160,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So GDP has been on for a while,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196360,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "and it's a very simple way\nof measuring the economy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 198480,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "But the degrowthers argue\nthat it's not really good"
+        }
+      ]
+    },
+    {
+      "tStartMs": 201080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "because it leaves out a lot\nof important things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 203680,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "It leaves out environmental impact,\nit leaves out unpaid work,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 208600,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and it leaves out as well,\ninequality."
+        }
+      ]
+    },
+    {
+      "tStartMs": 212120,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "One example of an increase\nin GDP that would be maybe not great,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 216560,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "would be taking down a big bunch\nof forests to put a factory."
+        }
+      ]
+    },
+    {
+      "tStartMs": 221840,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So you have a factory, you have\nmore jobs, you have production."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "But and then your GDP goes up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 228400,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "But you are not counting\nthe environmental impact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231480,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "that that would have, both for nature\nand maybe for the people living"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235480,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "around that factory, that\nmaybe there will be will decrease."
+        }
+      ]
+    },
+    {
+      "tStartMs": 238480,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "You mentioned that this idea of\ndegrowth is taking off in in Spain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 242080,
+      "dDurationMs": 6120,
+      "segs": [
+        {
+          "utf8": "Where else is it.\nIn places like Spain, the UK also,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 248200,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "places like Japan,\nthere is an increased number"
+        }
+      ]
+    },
+    {
+      "tStartMs": 252440,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "of students who are enrolling\ninto masters of degrowth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 256280,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "which are starting to basically grow,\nparadoxically, in different countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 261760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "So it's a movement\nthat is gaining traction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 263840,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "And a lot of people are talking\nabout the need to go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 269000,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "into an economy that\nsome people call 'beyond growth'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 272600,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So what would everyday life look like\nfor people who prioritise degrowth?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 276720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Well, you might have seen\nsome of the videos of people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 279280,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "sharing their sustainable\noff grid lifestyles online."
+        }
+      ]
+    },
+    {
+      "tStartMs": 282600,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "This is Anna from New Zealand."
+        }
+      ]
+    },
+    {
+      "tStartMs": 284320,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Sustainability is really important\nto my partner and I,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 286760,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "so we've tried to use\nas many renewable resources"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289080,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "or upcycled second hand materials\nwhile building as possible."
+        }
+      ]
+    },
+    {
+      "tStartMs": 291760,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "A lot of our windows and doors\nare sourced out of record shops"
+        }
+      ]
+    },
+    {
+      "tStartMs": 294440,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "post-Christchurch earthquakes,\na lot of the woods, pallets or stuff"
+        }
+      ]
+    },
+    {
+      "tStartMs": 296840,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "we found on our property.\nWe are fully off the grid running"
+        }
+      ]
+    },
+    {
+      "tStartMs": 299120,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "on solar power, rainwater\nand a composting toilet system."
+        }
+      ]
+    },
+    {
+      "tStartMs": 301760,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "We don't buy any meat\nor the meat is hunted by staff."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304760,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Large mammals are pests in New Zealand,\nwhich works out really well for us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 308320,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I try to grow as many of our fruits\nand veggies as possible,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311440,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "where we can't grow them ourselves,\nwe buy local or just go without."
+        }
+      ]
+    },
+    {
+      "tStartMs": 315400,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "I really love to sew, but I don't love\nthe waste of working with textiles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319040,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So I use second hand materials\nlike curtains and sheets"
+        }
+      ]
+    },
+    {
+      "tStartMs": 321840,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and tablecloths I find at the dump.\nThat's how I've made most of my clothes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 325040,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Sometimes I get comments assuming\nwe're anti-tech."
+        }
+      ]
+    },
+    {
+      "tStartMs": 327320,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "I actually love technology.\nI love having a washing machine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 329800,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "It's more water efficient than I could\never be. It can run on solar power."
+        }
+      ]
+    },
+    {
+      "tStartMs": 332960,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Our goal isn't self-sufficiency,\nbut community sufficiency."
+        }
+      ]
+    },
+    {
+      "tStartMs": 335720,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "I want to use the luxury of time and\nspace that I have to provide better,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 338800,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "healthy food options for people in\nmy community through our food pantry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 344160,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So, Alvaro,\nis this an example of degrowth?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347520,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "This is one of the examples of\nhow degrowth\nor what degrowth would look like."
+        }
+      ]
+    },
+    {
+      "tStartMs": 352760,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "It's important to say that degrowth\nis not only about the individual,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356040,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "but it also focuses on systemic\nissues and in systemic changes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 360000,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "So it's basically not enough just\nwith what we do as individuals,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364560,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "but we need to reorganise our society in\nways that are beneficial for everyone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 369280,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "One of the samples that\nI've come across during my reporting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 371720,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "is a housing cooperative that\nI visited when I went to Barcelona."
+        }
+      ]
+    },
+    {
+      "tStartMs": 375560,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "The idea is that basically the whole\ngroup owns this place and makes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 381400,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "the decisions related to how you\norganise and make this place work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 386240,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So you have a big communal spaces."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390080,
+      "dDurationMs": 7920,
+      "segs": [
+        {
+          "utf8": "You have a building that was decided\nto be made in a net zero passive way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 398000,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So it's very energy efficient."
+        }
+      ]
+    },
+    {
+      "tStartMs": 400120,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "The idea is\nlike the community has a saying"
+        }
+      ]
+    },
+    {
+      "tStartMs": 403480,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "on how we all live together,\nnot just individuals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 409920,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "For a long time we've been told\nthat growth is a good thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 412800,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "It's lifted millions of people\nout of poverty."
+        }
+      ]
+    },
+    {
+      "tStartMs": 416240,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "So is it possible to degrow the economy\nbut also protect our quality of life?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 421240,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Well, let me say that\na big majority of economists think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424800,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "that degrowth will be actually\ndetrimental to society."
+        }
+      ]
+    },
+    {
+      "tStartMs": 428720,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "So I would say that a lot of people\nthink that it would be a difficult\nthing and it would be problematic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 434600,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So we actually don't know how this would\nlook like or what this would look like."
+        }
+      ]
+    },
+    {
+      "tStartMs": 439480,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "I think degrowth underestimates\nthe power of innovation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 444520,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Degrowth underestimates the need\nfor investment that we need"
+        }
+      ]
+    },
+    {
+      "tStartMs": 448080,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "in new technology\nand in new solutions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452200,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "And degrowth underestimates\nthe social, sort of feasibility,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457160,
+      "dDurationMs": 1080,
+      "segs": [
+        {
+          "utf8": "of what they propose."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458240,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "In the UK, since 1990,\nwe get three times the amount"
+        }
+      ]
+    },
+    {
+      "tStartMs": 461840,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "of economic prosperity out of a tonne\nof CO2 than we did in 1990."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466920,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "And another criticism is\nthat degrowth would only really work\nin the global North."
+        }
+      ]
+    },
+    {
+      "tStartMs": 472000,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So could it ever be applied\nto the global South as well?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 475280,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "We have to be clear on the fact\nthat degrowth literature focuses"
+        }
+      ]
+    },
+    {
+      "tStartMs": 479680,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "on the need of the North to degrowth,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 482560,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "but they don't say that\nthe global South needs to degrowth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485560,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "So they basically say that the global\nSouth needs to still reach levels"
+        }
+      ]
+    },
+    {
+      "tStartMs": 489200,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "of wellbeing\nfor all that are still not there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 492360,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "I would say\na good way of putting it is degrowth"
+        }
+      ]
+    },
+    {
+      "tStartMs": 496520,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "does not ask people who\ndon't have enough to live with less,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 501240,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "but they ask people who have too much\nto live with enough."
+        }
+      ]
+    },
+    {
+      "tStartMs": 504600,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "And this is intrinsically linked\nwith the climate and climate change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 509480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So how does it fit in\nwith other climate solutions?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Things like electric cars\nand solar panels?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I'm sure some people would say,\nwhy do we need to degrow?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 517520,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "Can't we just grow greener?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 518920,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "What degrowth would say is\nwe need to do the transition."
+        }
+      ]
+    },
+    {
+      "tStartMs": 522480,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "We need to basically have the transition\nthat we go away from fossil fuels."
+        }
+      ]
+    },
+    {
+      "tStartMs": 527200,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "But they basically say\nthat that would not be enough."
+        }
+      ]
+    },
+    {
+      "tStartMs": 530640,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So we would still consume a lot\nof things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 534400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "We will still extract from nature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 537400,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "We are seeing it that minerals like\nlithium are being still extracted\nfor the energy transition."
+        }
+      ]
+    },
+    {
+      "tStartMs": 543960,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "So it's not that green growth is\na bad idea in itself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 548560,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "It's like this would not be enough to\nreach the goals that we need to grow,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 553400,
+      "dDurationMs": 1120,
+      "segs": [
+        {
+          "utf8": "that we need to reach."
+        }
+      ]
+    },
+    {
+      "tStartMs": 554520,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Alvaro, we know\nthat the climate crisis is real,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 557160,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "it's urgent, it's accelerating."
+        }
+      ]
+    },
+    {
+      "tStartMs": 559520,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "And that is one of the reasons why\ndegrowthers are calling for action,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 563600,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "for change, for this different way\nof of seeing things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 567640,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So we know that if we continue\nin the way that we are,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570560,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "we are not going to hit\nthe environmental targets"
+        }
+      ]
+    },
+    {
+      "tStartMs": 573520,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "that people have set out\nin various different agreements."
+        }
+      ]
+    },
+    {
+      "tStartMs": 576240,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "If we do go the degrowth route, what\ncould the best case scenario look like?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 581160,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Well, according to the degrowth\nliterature, we would basically need"
+        }
+      ]
+    },
+    {
+      "tStartMs": 584880,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "to, right now,\ndrastically stop using fossil fuels,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 589600,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "go very, very quick\ninto the energy transition"
+        }
+      ]
+    },
+    {
+      "tStartMs": 592680,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "and decrease the amount of energy\nand materials that we use."
+        }
+      ]
+    },
+    {
+      "tStartMs": 597560,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "It's still unclear\nhow that would look like."
+        }
+      ]
+    },
+    {
+      "tStartMs": 600160,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Alvaro, thank you so much.\nThank you for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 602280,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And that is it for today.\nThank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 604680,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "This is What in the World from the\nBBC World Service I'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607840,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "We'll see you next time."
+        }
+      ]
+    }
+  ]
+}

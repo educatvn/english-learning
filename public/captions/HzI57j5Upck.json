@@ -1,0 +1,1985 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 80,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Looking into the face of one is\nreminiscent to looking at a teddy bear,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 4240,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "but you also realise that these are\nincredibly dangerous predators."
+        }
+      ]
+    },
+    {
+      "tStartMs": 9120,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "The whole globe depends\non Arctic sea ice"
+        }
+      ]
+    },
+    {
+      "tStartMs": 11320,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "we like to call Arctic sea ice\nthe Earth's air conditioner."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14160,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "The presence of sea ice\nhelps cool the entire planet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16800,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Polar bears might look cute and fluffy,\nbut if you ever get up close to one,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 20680,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "you're going to need to know\nhow to beat it in a fight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23160,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "The advice is not to run away,\nbut to punch it on the nose."
+        }
+      ]
+    },
+    {
+      "tStartMs": 27320,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Hiya, I'm Hannah Gelbart and today\nwe are talking about polar bears."
+        }
+      ]
+    },
+    {
+      "tStartMs": 31200,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "They're the biggest bears in the world.\nThey can run up to 40km an hour,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "which is why you're advised\nnot to try to outrun them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 38200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "They can sniff out their prey\nfrom 16km away,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 41120,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "and they can swim\nfor hours in freezing cold water."
+        }
+      ]
+    },
+    {
+      "tStartMs": 45120,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "All of this means they need a lot\nof calories,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 47840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and their main\nhunting grounds are sea ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 50160,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "But as it melts, it's leaving them\nvulnerable and hungry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 54040,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So today you're going to hear some\nfacts about polar bears and sea ice,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57440,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "and you're going to find out\nwhether refreezing the Arctic\ncould help boost their numbers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 62120,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Welcome back to What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 68920,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "To break this down,\nI'm speaking to Victoria Gill,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71280,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "the BBC science correspondent.\nHello. Welcome back to the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74240,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "Hello, Hannah.\nLovely to be here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 75760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "You're literally\nmy favourite animal expert."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77840,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And you have seen polar bears\nin real life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 79960,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Did you ever have to punch one\non the nose?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 82040,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "It was very, very kind. Um, I wouldn't\nconsider myself an animal expert."
+        }
+      ]
+    },
+    {
+      "tStartMs": 86320,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "I am a mere reporter, but\nI speak to a lot of animal experts"
+        }
+      ]
+    },
+    {
+      "tStartMs": 89000,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "in my job,\nso I'm very fortunate in that regard."
+        }
+      ]
+    },
+    {
+      "tStartMs": 92080,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Um, I did not have\nto punch a polar bear in the nose."
+        }
+      ]
+    },
+    {
+      "tStartMs": 94720,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "The advice really is\nnot to get close enough to them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 97920,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "to be able to reach their nose,\nit's to avoid them altogether."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101480,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "But I have seen one up close from the\nsafety of what's called a tundra buggy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 106600,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So I made a documentary\nabout polar bears, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 110200,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "in a wonderful place called Churchill\nin Manitoba, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 114480,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "on the Hudson Bay in Canada in the just,\njust sort of sub Canadian Arctic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 119080,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And it's one of the most southerly\nplaces where polar bears live"
+        }
+      ]
+    },
+    {
+      "tStartMs": 121920,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "because they're so dependent\non the sea ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 124440,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "They hang around this bay\nwhen it melts in the summer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 127760,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And so there are different places,\nparticularly Churchill,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130800,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "where they gather, waiting in the autumn\nfor that bay to freeze up again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 135240,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Because they hunt from the ice,\nthey use the ice"
+        }
+      ]
+    },
+    {
+      "tStartMs": 137440,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "as a hunting platform to catch seals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 139480,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "In the Arctic the climate's warming\nfaster than anywhere in the world,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 143160,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and it's having\nsome really dramatic effects"
+        }
+      ]
+    },
+    {
+      "tStartMs": 145920,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "in Churchill and on the Hudson Bay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 147960,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And that affects the polar bears\nbecause they need the ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 150920,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "So we went out on the tundra\nand saw them up close."
+        }
+      ]
+    },
+    {
+      "tStartMs": 154400,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And it's a weird experience"
+        }
+      ]
+    },
+    {
+      "tStartMs": 157800,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "because as you say,\nthey are beautiful and adorable."
+        }
+      ]
+    },
+    {
+      "tStartMs": 160760,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Like looking into the face of one is\nreminiscent to looking at a teddy bear."
+        }
+      ]
+    },
+    {
+      "tStartMs": 165200,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "But you also realise that these are\nincredibly dangerous predators"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169920,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and you wouldn't want to be\non the ground anywhere near them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 172640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So it is a very confusing feeling\nto look into the face"
+        }
+      ]
+    },
+    {
+      "tStartMs": 175200,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "of something that is\nsimultaneously adorable and lethal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 179400,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "You mentioned that the melting\nsea ice is affecting the populations"
+        }
+      ]
+    },
+    {
+      "tStartMs": 183760,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "of polar bears around the world.\nHow are their numbers changing?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187400,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So that's a\nreally good question, Hannah,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 189720,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "because it's very difficult to say.\nSo in the Hudson Bay,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193880,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "so I mentioned that there are\npopulations all over the Arctic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 198200,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "The Hudson Bay population is one\nof the most southerly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 201400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And temperatures\nare rising very quickly there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 204080,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "And the sea ice on that bay is - the\nlength of time during that summer period"
+        }
+      ]
+    },
+    {
+      "tStartMs": 209800,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "where the bay has thawed out\nand is ice-free is getting longer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 214360,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And that has driven down\nthe population of polar bears."
+        }
+      ]
+    },
+    {
+      "tStartMs": 218240,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "How numbers are changing\nin terms of like the whole species"
+        }
+      ]
+    },
+    {
+      "tStartMs": 221960,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and the whole of the Arctic,\nthat's much more difficult to say."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "All of the data,\nall of the research that's being done"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228040,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "is suggesting that their numbers\ncould be going down,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "but we don't have enough data\nabout every single population"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235560,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "to say that that's actually the case."
+        }
+      ]
+    },
+    {
+      "tStartMs": 238080,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So the sea ice is literally the\nplatform that they dip their heads"
+        }
+      ]
+    },
+    {
+      "tStartMs": 240960,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "into the water from,\nand they pull out these seals,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242960,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "which are very kind of fatty,\nblubbery creatures,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245280,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and that's where they get the\ncalories that they need to be able"
+        }
+      ]
+    },
+    {
+      "tStartMs": 247760,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "to grow to three meters tall."
+        }
+      ]
+    },
+    {
+      "tStartMs": 250600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "I mean, as cute as they are, they\nalso sound absolutely terrifying."
+        }
+      ]
+    },
+    {
+      "tStartMs": 253400,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And they are an apex predator, really,\nthey're at the top of the food chain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257160,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Is there any evidence\nof them adapting to be able to hunt"
+        }
+      ]
+    },
+    {
+      "tStartMs": 260240,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "in different climates\nand circumstances?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 262600,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Are there other animals\nthey could catch in the water?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265640,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "Fundamentally, biologically they\nare dependent on the amount of fat"
+        }
+      ]
+    },
+    {
+      "tStartMs": 270640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "that they get from eating a seal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 272760,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So there is nothing that they can eat\nthat can replace"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275680,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "that very, very high fat,\nvery high-calorie diet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 279160,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So while they will eat anything,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 281480,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "there's not a sign\nthat they are evolving to shift"
+        }
+      ]
+    },
+    {
+      "tStartMs": 284960,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "to something that could actually give\nthem enough energy to survive"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289480,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and to thrive the way that they do\nwhen they're hunting from the ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 293320,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "You mentioned, Vic, some\nof the things that polar bears eat,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 295880,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and you're going to hear some\nmore facts now about polar bears."
+        }
+      ]
+    },
+    {
+      "tStartMs": 298840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "This is Alysa McCall\nfrom Polar Bears International."
+        }
+      ]
+    },
+    {
+      "tStartMs": 301480,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "We've got eight bear species\naround the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 303680,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Polar bears get the biggest\nof any of them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 306440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Polar bears are also\nthe only marine bear,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 309320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "so all the other seven bear species\nhave chosen to live on land."
+        }
+      ]
+    },
+    {
+      "tStartMs": 312400,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "But polar bears have adapted to live\non top of the frozen ocean."
+        }
+      ]
+    },
+    {
+      "tStartMs": 316560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Polar bears are also\nthe most carnivorous bear,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 319600,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "so they're eating more animals\nthan any other bear."
+        }
+      ]
+    },
+    {
+      "tStartMs": 322480,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "really, they're eating more fat. They\nneed a lot more fat than meat even."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326280,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "They do a lot better\nwith a high fat diet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328040,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "They actually don't do great\nwith a high protein diet,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 330320,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "but they are eating a lot less fruits\nand veggies than all the other bears."
+        }
+      ]
+    },
+    {
+      "tStartMs": 334480,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "Polar bears need a diet really high\nin fat, which also relates"
+        }
+      ]
+    },
+    {
+      "tStartMs": 339720,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "to another title where they have\nthe fattiest milk found on land."
+        }
+      ]
+    },
+    {
+      "tStartMs": 344360,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So when polar bear cubs are born,\ntheir mom has some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 346680,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "of the fattiest milk we see on land,\nso it's over 30% fat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 350040,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "It's like drinking whipping cream.\nAnd this helps cubs grow really quickly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 353760,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "When they're born, they're\nabout a pound, and by the time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356200,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "they're several months old,\nthey can be over £20."
+        }
+      ]
+    },
+    {
+      "tStartMs": 358840,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Their fur, of course,\ngives them wonderful camouflage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 361200,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "It looks white and blends\nin with the sea ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363280,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "It's actually clear and hollow,\nwhich helps them trap some warm air."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367320,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And they've got two thick layers of it,\na thick undercoat that's like a sweater"
+        }
+      ]
+    },
+    {
+      "tStartMs": 370840,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and then longer kind of overcoat hair,\nit's more like a raincoat would be."
+        }
+      ]
+    },
+    {
+      "tStartMs": 374920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So that keeps them warm even when it's\nfreezing cold up in the high Arctic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 378880,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And polar bears are navigating\nwith their noses quite often."
+        }
+      ]
+    },
+    {
+      "tStartMs": 382360,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "They're so intelligent. They're\nalways looking for something nearby,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 386400,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "seeing anything new\nand unusual out on the sea ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 388800,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "And sea ice isn't just a platform\nfor the bears to access their food."
+        }
+      ]
+    },
+    {
+      "tStartMs": 392400,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "The whole globe depends\non Arctic sea ice,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394600,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "we like to call Arctic sea ice\nthe Earth's air conditioner."
+        }
+      ]
+    },
+    {
+      "tStartMs": 397520,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "The presence of sea ice\nhelps cool the entire planet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 400120,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Sea ice also is to the ocean\nwhat soil is to a forest."
+        }
+      ]
+    },
+    {
+      "tStartMs": 404440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So sea ice is growing the base\nof the food chain in the Arctic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 407600,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Algae is growing inside the ice, and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 409880,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "that's feeding the micro-organisms\nthat feed the fish,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 412280,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "that feed the seals,\nthat feed the bears."
+        }
+      ]
+    },
+    {
+      "tStartMs": 414680,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And there's whales and there's\npeople, and there's all sorts of life"
+        }
+      ]
+    },
+    {
+      "tStartMs": 417200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "in the Arctic\nthat's all tied to Arctic sea ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 420080,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So, Vic, we've heard about some of the\nrisks that this melting sea ice poses"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424200,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "to polar bears.\nHow else could it affect our planet?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 427200,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "The sea ice\nand this reflective surface kind"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429800,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "of acts like a cooling mechanism\nfor our whole planet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 432440,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So, you know, all of us\nshould really care about the state"
+        }
+      ]
+    },
+    {
+      "tStartMs": 435640,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "of Arctic and Antarctic sea ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 438520,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Um, but it's because it's so white\nand so reflective"
+        }
+      ]
+    },
+    {
+      "tStartMs": 442280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "that as the sun's energy comes in\nand warms the planet,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445360,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "a lot of it is reflected back\nwhen you have an icy or even better,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 449200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "a snowy surface\nthat just bounces back into space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452600,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "So that's helping\nto keep the planet cool."
+        }
+      ]
+    },
+    {
+      "tStartMs": 454360,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And as the sea ice\nin the Arctic retreats, we've got"
+        }
+      ]
+    },
+    {
+      "tStartMs": 458400,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "more of that darker sea that is\nabsorbing more of the sun's energy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463240,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So it's sort of this vicious cycle,\nthis kind of positive cycle,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 467000,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "where as the sea ice retreats, it\nheats up the planet more and it exposes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 473200,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "more of that darker surface that's\nabsorbing more of the sun's heat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477200,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So on it goes and on it goes.\nSo it's, it's really"
+        }
+      ]
+    },
+    {
+      "tStartMs": 480360,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "it's fundamental for the whole\nof our planet's climate system."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And one potential solution to all\nthis that people are talking about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488120,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "is refreezing parts of the Arctic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 490840,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "It's an ambitious goal.\nLet's hear how it works."
+        }
+      ]
+    },
+    {
+      "tStartMs": 493520,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So the main technique\nthat's being researched right now is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 497920,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "where water would be pumped up\nfrom the ocean below the ice,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502040,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and then put up on top of the ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 504760,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "So this first requires\ndrilling a hole"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506920,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "in the sea ice\nand then putting a pump."
+        }
+      ]
+    },
+    {
+      "tStartMs": 510200,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And then it's going to pump water up\non top of the sea ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 512640,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "The water is exposed to the cold air\nand it freezes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 517200,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "There's a group called Real Ice\nthat's based in the UK."
+        }
+      ]
+    },
+    {
+      "tStartMs": 520840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "They did a study\nlast year in Canada"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524280,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "at the High Arctic Research Station,\nwhich is located in Cambridge Bay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 528520,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And at the end of their study,\nthey saw an increase"
+        }
+      ]
+    },
+    {
+      "tStartMs": 530720,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "of about a half a metre\nin ice thickness."
+        }
+      ]
+    },
+    {
+      "tStartMs": 533440,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "There's another group called\nArctic Reflections"
+        }
+      ]
+    },
+    {
+      "tStartMs": 535840,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that conducted some studies\nin Svalbard last year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 539920,
+      "dDurationMs": 7320,
+      "segs": [
+        {
+          "utf8": "Their studies didn't really\nresult in the ice lasting longer,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 547240,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "but they do think that they conducted\nthe research too late in the season"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "to be effective,\nand it seems like winter is the time"
+        }
+      ]
+    },
+    {
+      "tStartMs": 554400,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "when this technique is going to be\nthe most effective,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 557720,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "so that it builds up a thick layer\nof ice in the winter,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 560760,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "that then can last longer,\ninto the spring and summer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 563640,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "It's not going\nto be easy to scale up this effort."
+        }
+      ]
+    },
+    {
+      "tStartMs": 567120,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "Real Ice is working\non developing underwater drones that\nwould deliver these pumping devices,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 572920,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "but they estimate that they're going\nto need a fleet of 500,000 drones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 577480,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "So not a small feat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 579640,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "One of the issues with making ice\nis that ice is with fresh water."
+        }
+      ]
+    },
+    {
+      "tStartMs": 584160,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And so when\nyou're making this freshwater ice"
+        }
+      ]
+    },
+    {
+      "tStartMs": 586560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "but you're using salt water,\nyou're left with the salt."
+        }
+      ]
+    },
+    {
+      "tStartMs": 589600,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And so we kind of need\nto know what happens to the salt."
+        }
+      ]
+    },
+    {
+      "tStartMs": 593480,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "Back to you Vic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 594680,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "So how realistic would it be\nto refreeze parts of the Arctic?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 598560,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "I think that the short answer\nto that is we just don't know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 602560,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "In terms of whether it would work\non this huge sort of, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 606200,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "millions of square kilometre scale."
+        }
+      ]
+    },
+    {
+      "tStartMs": 608960,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "And, you know, there are these small\npilot tests going on to see"
+        }
+      ]
+    },
+    {
+      "tStartMs": 613320,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "if it does work\nand if it thickens the ice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 616160,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "And there are some signs\nthat that seems to be effective."
+        }
+      ]
+    },
+    {
+      "tStartMs": 619720,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "But when when you scale it up,\nthere are loads of questions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 623880,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "You know, one is how feasible is that\nto pump all of that water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 627920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "and get that ice thickening\nacross such a vast surface?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 632160,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Another series of questions\nare if you do that in the winter,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 635800,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "is there going to be enough snow\nto replace, to fall on that sea ice"
+        }
+      ]
+    },
+    {
+      "tStartMs": 640600,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "and create\nthat really reflective surface?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 642680,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Because what's super effective at\nreflecting the sun's energy is snow."
+        }
+      ]
+    },
+    {
+      "tStartMs": 647000,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "Then there's all the questions about\nhow you affect the marine ecosystem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 651960,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "You know, we talked a little bit\nabout how important sea ice is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 655280,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "not just as a solid platform,\nnot just as a reflective surface,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 659600,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "but as something that is the real\nfoundation of the marine ecosystem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 663800,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And that's because of\nthe stuff that lives in the water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 666280,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "underneath it\nand that is feeding on it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 668560,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "Now, if you're pumping seawater out from\nbelow the sea ice, you're pumping out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 673800,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "some of those that plant matter,\nsome of those marine creatures."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So what is that going to do\nto that whole ecosystem?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680720,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "There are lots and lots of questions,\nbut I think"
+        }
+      ]
+    },
+    {
+      "tStartMs": 682840,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "the conclusion from all of this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 685760,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "this geo-engineering of our planet\nand trying to fix these problems"
+        }
+      ]
+    },
+    {
+      "tStartMs": 690680,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "that we've created\nby pumping greenhouse gases"
+        }
+      ]
+    },
+    {
+      "tStartMs": 693600,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "into the atmosphere that are warming\nthe planet right now,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 696480,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "all of these ways of fixing it,\nthese tweaks,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 699280,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "these technological fixes\nthat we call geo-engineering,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 702480,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "they're quite controversial, and\nthey're still in kind of test phase."
+        }
+      ]
+    },
+    {
+      "tStartMs": 706040,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "But I think some of the scientists that\nare working on this Arctic refreezing,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 709800,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "this ice refreezing, say that basically\nwe've run out of choices."
+        }
+      ]
+    },
+    {
+      "tStartMs": 713560,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "We have to try these things, because\nthe planet is warming so quickly"
+        }
+      ]
+    },
+    {
+      "tStartMs": 717560,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and we're not doing enough\nto slow that down."
+        }
+      ]
+    },
+    {
+      "tStartMs": 720200,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "Vic, thank you so much\nfor speaking to us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 722080,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Absolute pleasure, Hannah.\nThank you for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 724080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Well, that is it for today's episode.\nThank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 727120,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart. This is What in\nthe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 730520,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "We'll see you next time. Bye."
+        }
+      ]
+    }
+  ]
+}

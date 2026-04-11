@@ -1,0 +1,2426 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 400,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "Hello, it's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Welcome to this episode of what in\nthe world from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6040,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Now the idea behind carbon offsetting\nis you can essentially pay your way"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9880,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "out of carbon emissions\nso you can still drive,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12840,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "fly, heat your home with oil and gas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 15040,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "but you buy carbon credits that go\ntowards schemes that compensate for it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 18880,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And these schemes are things\nlike planting trees"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21240,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "or getting energy\nfrom renewable sources."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23800,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "They're set up in places\nlike South America or Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 27040,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "but do they actually reduce the\noverall amount of carbon in the air?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 31840,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Are they just a distraction from\nclimate change or even worse, a con?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 40880,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "I have got Esme Stallard,\na BBC climate reporter,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 43480,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "here in the studio with me. Hello.\nHi. It's great to be here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 46160,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "We've spoken a lot about this topic,\nso I'm glad we're finally doing it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 48880,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "It's\ngreat to have you in the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 50600,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Now, when I have bought flights\nbefore, I've tried to offset some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 54240,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "of my guilt, my flight shame by\nclicking the little button that says,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 58200,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "like you can pay a couple of pounds\ntowards carbon offsetting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 62440,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "or buy a bit more\nof a greener flight, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 64520,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "I have no idea if it works\nand where my money actually goes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 68720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So what is the idea?\nHow is it meant to work?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71360,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "There are ways to reduce emissions\nwhich are more straightforward."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74600,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So for example,\nin the UK we've seen wind turbines,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 78040,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "solar panels pop up to try\nand move us away from gas and coal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81800,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And they're kind of ways that we can\ninvest money and reduce our emissions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 84840,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "But there are certain sectors, certain\nareas of our economy, both as a country,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 89200,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "but also for companies\nthat are particularly difficult"
+        }
+      ]
+    },
+    {
+      "tStartMs": 92280,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "to reduce emissions.\nAnd flying is a fantastic example."
+        }
+      ]
+    },
+    {
+      "tStartMs": 94760,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Right now, we don't really have\nalternatives to reduce emissions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 98680,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "If you want to fly, there's things\nlike sustainable fuels,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 101960,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "electric planes\nthat are still being developed. Okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 104080,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So okay, I can't reduce my emissions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 106320,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "How can I still help\nto reduce emissions globally."
+        }
+      ]
+    },
+    {
+      "tStartMs": 109280,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "So I'm still having an impact\non climate change"
+        }
+      ]
+    },
+    {
+      "tStartMs": 111720,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "and meeting my climate targets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 113760,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "And the way to do this is to pay\nmoney to countries or other regions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 118280,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "where maybe they can't afford\nto reduce their emissions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 120840,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "but by giving them money, they can."
+        }
+      ]
+    },
+    {
+      "tStartMs": 122440,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So it all kind of balances out\nif you like."
+        }
+      ]
+    },
+    {
+      "tStartMs": 124760,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "But as we'll get into,\nis it actually working,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127400,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "is it actually reducing emissions\nand is it being used appropriately?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130680,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "I think increasing transparency\nin the industry,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 133440,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I think, would help consumers\nand make them feel more confident"
+        }
+      ]
+    },
+    {
+      "tStartMs": 136480,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "that when they spend their £5,\n£10 on top of their flight ticket,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 140560,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "for example, it actually is making\nan impact."
+        }
+      ]
+    },
+    {
+      "tStartMs": 143080,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "We've talked a bit about planting tree initiatives,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 145440,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "and you mentioned the example of kind of\nif I wanted to offset my flight,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149840,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I could plant a tree. But\nit's not just tree planting is it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 152960,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "What other kind\nof offsetting projects are there?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154720,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "No, there's sort of three categories\nthat we put them in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 157040,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So the first one is reduction.\nSo can we actually just reduce"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "the emissions getting released\nin the first place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So a really classic example that's\ntalked about a lot is cook stoves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 167160,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "So a lot of people who live"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169920,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "in regions where maybe they're not\nconnected to an electricity grid,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 173480,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "will often use a cook stove that uses\ngas or coal within their home."
+        }
+      ]
+    },
+    {
+      "tStartMs": 176840,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And so instead what happens is\nthat you may pay"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179440,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "for them to use\na solar panel connected instead,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 182280,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "or to have some sort of grid connection.\nSo they're using electricity,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 185680,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and that reduces the amount of\nemissions that they use from cooking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 188400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So reduction effectively is\none key area."
+        }
+      ]
+    },
+    {
+      "tStartMs": 191200,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "The second area is removal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 193520,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So can we actually\njust remove emissions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "that have already been emitted\nfrom the atmosphere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 198440,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Planting trees, classic example of that.\nIt absorbs carbon dioxide."
+        }
+      ]
+    },
+    {
+      "tStartMs": 201920,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Exactly. It takes carbon dioxide in\nand it stores it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 204200,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "We can also - we're looking at ways to\ndo that in sort of a man made form."
+        }
+      ]
+    },
+    {
+      "tStartMs": 207880,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "So that's effectively technologies\nthat suck the carbon dioxide"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210320,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "out of the atmosphere\nand store it underground."
+        }
+      ]
+    },
+    {
+      "tStartMs": 212440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And then the third one, potentially\neven the most controversial,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 215720,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "which we'll talk about why,\nbut it's something called avoidance."
+        }
+      ]
+    },
+    {
+      "tStartMs": 218960,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "So is there a way that\nwe can avoid putting any emissions\ninto the air in the first place?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 224320,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So as much as we can plant a tree\nto absorb carbon dioxide, equally,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228240,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "cutting down a tree\npotentially would release it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 230680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So is there a way\nto potentially protect a forest?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 233480,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And so we're not releasing a load\nof CO2 into the atmosphere."
+        }
+      ]
+    },
+    {
+      "tStartMs": 236920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So they're the three main categories\nthat your projects will go towards."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240760,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Often as a consumer,\nyou won't get to select those."
+        }
+      ]
+    },
+    {
+      "tStartMs": 243120,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "You'll just see a range of projects.\nBut they're the types."
+        }
+      ]
+    },
+    {
+      "tStartMs": 245720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Why is the avoidance\nso controversial?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 248280,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So there's kind of\nsome key principles"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251800,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "that are meant to be abided by\nwhen you buy carbon offsets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 254640,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And the two main ones are\nsomething called permanence"
+        }
+      ]
+    },
+    {
+      "tStartMs": 257960,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and something called additionality."
+        }
+      ]
+    },
+    {
+      "tStartMs": 260720,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "And basically\nwhat we mean by permanence is, is\nthat actually going to last forever?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 266040,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "Because effectively\nwe're tackling something\nover far longer than our lifespan."
+        }
+      ]
+    },
+    {
+      "tStartMs": 270920,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So if you invest\nin protecting a forest"
+        }
+      ]
+    },
+    {
+      "tStartMs": 274040,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and let's say as a company,\nyou make that investment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 276880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "How long does that continue for 100,\n200, 500 years?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 279960,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "If in 500 years\nthat company doesn't exist anymore,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 283520,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "who's protecting that forest?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 285240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So that's a real difficulty.\nThat's that permanence issue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 288680,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And the second issue is\nthis thing called additionality."
+        }
+      ]
+    },
+    {
+      "tStartMs": 291360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "How do you actually know\nthat giving that money"
+        }
+      ]
+    },
+    {
+      "tStartMs": 293960,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "towards whoever it is to protect that\nforest wasn't going to happen anyway."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297760,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "It's really,\nreally difficult to prove"
+        }
+      ]
+    },
+    {
+      "tStartMs": 299880,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "that that forest was actually going\nto be cut down."
+        }
+      ]
+    },
+    {
+      "tStartMs": 302080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And so they're the\nmain problems associated with that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 305280,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And there's been a lot of research\nin recent years"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308120,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "to actually try and quantify how many\nof these carbon credits,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311760,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "these offsetting schemes, are actually\ndoing what they say they can do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 315200,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "There was actually\na recent paper published last month,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317600,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "which was quite shocking.\nIt looked at"
+        }
+      ]
+    },
+    {
+      "tStartMs": 320200,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "lots of different scientific\npapers assessing these projects,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "which covered about a fifth of all\ncarbon offsets ever issued to date."
+        }
+      ]
+    },
+    {
+      "tStartMs": 327240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So it was a huge, huge paper,\nand it estimated"
+        }
+      ]
+    },
+    {
+      "tStartMs": 330120,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "only about 16% of those projects"
+        }
+      ]
+    },
+    {
+      "tStartMs": 332480,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "are actually achieving the emissions\nreductions they claim they are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 335160,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And they say a lot of that is because\nthere's overestimation happening."
+        }
+      ]
+    },
+    {
+      "tStartMs": 338680,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "You know, as much\nas you might protect this forest,\nlet's say, from house building,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 342960,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "all that might happen is another\nforest somewhere else gets cut down."
+        }
+      ]
+    },
+    {
+      "tStartMs": 345840,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "So it's really,\nreally difficult to achieve."
+        }
+      ]
+    },
+    {
+      "tStartMs": 347880,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "But I think it certainly shows\nthat there maybe needs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 350720,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "to be more robustness brought\ninto the process of assessing this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 353760,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and it needs to kind of be uniform,\npotentially,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356720,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "rather than each company on their\nown basis, kind of deciding, okay,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 361240,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "this is how we're going to establish\nthere was an emissions reduction here,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 363960,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "for example.\nAnd there is a lot of frustration,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 366640,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "I think, both amongst companies\nthat are maybe doing it differently"
+        }
+      ]
+    },
+    {
+      "tStartMs": 370600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and they feel\nlike they're being compared unevenly,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 372840,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "but also between countries that feel"
+        }
+      ]
+    },
+    {
+      "tStartMs": 374920,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "like some are kind of paying\nfor more offsets than others."
+        }
+      ]
+    },
+    {
+      "tStartMs": 378360,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And so it is a very kind\nof contentious market for sure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 382240,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And I think as a consumer, it can be\nvery difficult to actually know"
+        }
+      ]
+    },
+    {
+      "tStartMs": 385440,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "what's the right thing to do.\nAnd there have been some reports"
+        }
+      ]
+    },
+    {
+      "tStartMs": 387640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "about some of the other ways\nit's impacted local communities too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391160,
+      "dDurationMs": 1160,
+      "segs": [
+        {
+          "utf8": "Yes, exactly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 392320,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So the idea is that they are meant\nto be included in that process."
+        }
+      ]
+    },
+    {
+      "tStartMs": 396160,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "But we've seen time and time again,\ninvestigations by journalists,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 400160,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "by NGOs suggesting\nthat isn't happening."
+        }
+      ]
+    },
+    {
+      "tStartMs": 403480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And Human Rights Watch\nhas been doing a lot of work on this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406440,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "They recently found in Cambodia\nthat there was mass clearing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410680,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "of local people\nwithout their consent,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 413720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and that they were removed from\ntheir land in order to plant forests."
+        }
+      ]
+    },
+    {
+      "tStartMs": 416840,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So as much as potentially money\nis meant to flow into those regions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 420680,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "there is often\na power dynamic issue going on here"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424200,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "whereby local governments want\nthat money and they need that money,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 427800,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "but in that process, local people\ncan kind of be overlooked."
+        }
+      ]
+    },
+    {
+      "tStartMs": 432880,
+      "dDurationMs": 440,
+      "segs": [
+        {
+          "utf8": " "
+        }
+      ]
+    },
+    {
+      "tStartMs": 433320,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "Is there any evidence that carbon offsetting\nactually does more harm than good?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437440,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "I think potentially in terms of\nif you look across the board,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441160,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "particularly at the kind\nof the impacts on local people,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444360,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "I think there are certainly\narguments for that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 446360,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "I think there's also arguments\nin terms of environmental impact,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 449520,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "in terms of\nwhat kind of forests you're planting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452360,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "You know, one of the reasons\n "
+        }
+      ]
+    },
+    {
+      "tStartMs": 456320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "you get beautiful ecosystems is\ntheir diversity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 459560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And it's all well and good to say,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 462040,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "'I'm going to go in there\nand plant this massive forest',"
+        }
+      ]
+    },
+    {
+      "tStartMs": 464360,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "but actually, the kind of quickest\nway to absorb carbon emissions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 468360,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "is - in the short term at least -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 470600,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "is to plant trees that are\nvery quick growing,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 473440,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "but they're homogenous\nand they might not be diverse."
+        }
+      ]
+    },
+    {
+      "tStartMs": 476040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So actually, what impact\nare they having on local ecosystems"
+        }
+      ]
+    },
+    {
+      "tStartMs": 478600,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "and long term\nare they actually appropriate?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 481000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "You know, the Amazon rainforest\nhas taken hundreds and hundreds"
+        }
+      ]
+    },
+    {
+      "tStartMs": 483040,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "of years to develop.\nIt's amazing at absorbing carbon,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 486440,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "but you wouldn't be able\nto recreate that overnight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 489160,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And so in those situations,\nthere is certainly an argument"
+        }
+      ]
+    },
+    {
+      "tStartMs": 492560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "that should we actually be investing\nmore of our money"
+        }
+      ]
+    },
+    {
+      "tStartMs": 495600,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "in trying to come up with solutions\nfor alternatives to flying,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 498720,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "rather than just funneling\nall that money into offsetting?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 501680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Esme, we're going to hear\nfrom a climate activist in Nigeria"
+        }
+      ]
+    },
+    {
+      "tStartMs": 504520,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "now, this is Joshua.\nHi, I'm Joshua Gabriel Oluwaseyi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 507080,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "I am a 24 year old Nigerian climate\nstoryteller and environmental activist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 511560,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "For a country that still\nheavily relies on, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 515040,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "fossil fuels, you know,\ncarbon offsetting can provide jobs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 517920,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Of course, if you think about that,\nit could provide"
+        }
+      ]
+    },
+    {
+      "tStartMs": 520080,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "new roles for generating revenue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 522160,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "What I've come to understand is that\nthese practices for carbon offsetting,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 527080,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "however, they may seem\nlike they benefit the community"
+        }
+      ]
+    },
+    {
+      "tStartMs": 529840,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "on the surface, like saying,\n'oh, we're going to provide jobs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 532480,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "or we're going to, you know,\nhelp the environment',"
+        }
+      ]
+    },
+    {
+      "tStartMs": 534560,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "oftentimes\nit ends up doing the opposite,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 536920,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "where, you know, people\nmay get displaced from their lands"
+        }
+      ]
+    },
+    {
+      "tStartMs": 540800,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "because they want to use that land\nto plant trees or rewild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 543720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And also, there's just\nthe argument that can be made"
+        }
+      ]
+    },
+    {
+      "tStartMs": 546280,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "that because Africa and Nigeria,\nof course, at large,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 549960,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "doesn't contribute as much carbon\nemissions as the rest of the world,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 553400,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "is it morally\nalright for us to be used"
+        }
+      ]
+    },
+    {
+      "tStartMs": 558080,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "for carbon offsetting?\nif that makes sense, Right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 561200,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "I think how I would go about\nit is calling carbon offsetting like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 563840,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "a complementary tool, rather than\na sort of standalone solution. Right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 567880,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "You were just at COP29,\nthe climate conference."
+        }
+      ]
+    },
+    {
+      "tStartMs": 570040,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Was this something\nthat was brought up there?\nIt was."
+        }
+      ]
+    },
+    {
+      "tStartMs": 572400,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "So, many viewers might remember back\nin 2015, the Paris climate agreement."
+        }
+      ]
+    },
+    {
+      "tStartMs": 577400,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "One of the key things that was\non the table for discussion"
+        }
+      ]
+    },
+    {
+      "tStartMs": 579640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "is something\nvery sexily called article six."
+        }
+      ]
+    },
+    {
+      "tStartMs": 581760,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "But effectively it was a global\ncarbon market. It was to say, okay,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585280,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "all the world's countries have got\nthese climate targets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 587880,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "How can particularly rich nations who\nhave got more aggressive climate targets"
+        }
+      ]
+    },
+    {
+      "tStartMs": 591720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "because of their historic\ncontribution to climate change,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 594320,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "how can they achieve\ntheir climate targets?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 596240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And it was decided that - could we\nestablish a global offsetting market."
+        }
+      ]
+    },
+    {
+      "tStartMs": 599680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So could a country like the US"
+        }
+      ]
+    },
+    {
+      "tStartMs": 602280,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "and pay for another country like Senegal\nto transition to a green grid,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 606280,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "and in doing so, count some of those\nemissions towards its own reduction?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 609880,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Because ultimately\ncarbon dioxide doesn't know borders."
+        }
+      ]
+    },
+    {
+      "tStartMs": 612640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "We're all globally reducing\nemissions. But"
+        }
+      ]
+    },
+    {
+      "tStartMs": 615200,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "as of all the issues we've discussed,\nit's a highly contentious issue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618240,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "And so they've taken\nten years. Finally,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 620520,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "in Azerbaijan in November at COP29,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 622800,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "they kind of gavelled through,\nsigned off on this principle"
+        }
+      ]
+    },
+    {
+      "tStartMs": 626200,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and that a global carbon market\nwould be established."
+        }
+      ]
+    },
+    {
+      "tStartMs": 628800,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Many countries\nhave already set money aside."
+        }
+      ]
+    },
+    {
+      "tStartMs": 631040,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Norway has set- I think\nit's more than $200 million,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 633840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "might be a bit more than - aside,\nfor this market."
+        }
+      ]
+    },
+    {
+      "tStartMs": 637160,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And many developing nations are happy\nabout this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 639960,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "because they see that\nas a financial flow to them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 642240,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "But obviously there are some details\nto be worked out,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 644520,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and I think some lessons to\nbe learned from the voluntary market"
+        }
+      ]
+    },
+    {
+      "tStartMs": 646880,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "that companies have been involved in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 649000,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "to make sure that the same mistakes,\nthe same issues,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 651560,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "the same environmental and human harm\ndon't happen in this case."
+        }
+      ]
+    },
+    {
+      "tStartMs": 655560,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Big question here, are\ncarbon credits are con?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 659520,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Oh big question.\nI think I always go back"
+        }
+      ]
+    },
+    {
+      "tStartMs": 662880,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "to the argument that carbon credits\nshould be a last resort,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 667200,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "and so they should only be really\nbeing used for that really difficult"
+        }
+      ]
+    },
+    {
+      "tStartMs": 671880,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "to treat last 5% of your emissions\nthat you can't get rid of."
+        }
+      ]
+    },
+    {
+      "tStartMs": 676640,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "And I think if you see companies\nusing them or countries using them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 682400,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "for a very significant share\nof their emissions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 686080,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I think potentially they're\ndistracting from the fact that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 689200,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "they're not investing enough to move\nthemselves away from producing emissions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 694520,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "in those areas of their company\nor their country that they could do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 697920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "I'm not sure what I should do\nnext time I buy a flight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 700320,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Should I do carbon offsetting or not?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 703280,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "I think if you can,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 705760,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "I think, you know, there are always\ncertain projects that are certified."
+        }
+      ]
+    },
+    {
+      "tStartMs": 709760,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "There's meant to be\nthe gold standard, which is meant to\nprovide better certification of that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 713840,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I mean, if it's something - I think\nit's more about making you aware."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717240,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "If you feel like in buying\na carbon credit, you've done research"
+        }
+      ]
+    },
+    {
+      "tStartMs": 719360,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and it's made you aware of the impact,\nthen that's potentially a good thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 722240,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And so I think there are other levers\nthat you can pull as an individual"
+        }
+      ]
+    },
+    {
+      "tStartMs": 726040,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "instead of buying carbon credits,\nwhich kind of can help\nyou find solutions, whether"
+        }
+      ]
+    },
+    {
+      "tStartMs": 730480,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "that be choosing companies differently,\nchoosing governments differently."
+        }
+      ]
+    },
+    {
+      "tStartMs": 733960,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Yes, there are different ways,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 736160,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "but I'm not going to comment whether\nyou should buy an offset or not."
+        }
+      ]
+    },
+    {
+      "tStartMs": 738400,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "But I think if you're researching it\nand you're aware of it and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 740520,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "you can make informed decisions,\nthen I guess-"
+        }
+      ]
+    },
+    {
+      "tStartMs": 743600,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "You're not going to be my climate change\nagony aunt? You're not going to put my -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 746920,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Sorry, I'm not going to, I'm not going to say\nif you buy the offset,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 749120,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "you can fly as much as you want\nunfortunately."
+        }
+      ]
+    },
+    {
+      "tStartMs": 751800,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Esme,\nI'm still on the fence about this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 754280,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "but Joshua,\nwho we heard from earlier, thinks"
+        }
+      ]
+    },
+    {
+      "tStartMs": 756720,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "that if you can carbon offset,\nyou should."
+        }
+      ]
+    },
+    {
+      "tStartMs": 759040,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Here he is again.\nChange begins with you, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 761240,
+      "dDurationMs": 720,
+      "segs": [
+        {
+          "utf8": "It begins with us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 761960,
+      "dDurationMs": 5720,
+      "segs": [
+        {
+          "utf8": "I'm very big on this sort of individual\napproach to combating climate change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 767680,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Turning off our lights.\nNot using too much water."
+        }
+      ]
+    },
+    {
+      "tStartMs": 769840,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Turning off, you know -\nreducing power consumption."
+        }
+      ]
+    },
+    {
+      "tStartMs": 771960,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Every single action we take is\ngenerally good for the environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 775640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "As long as we are, you know, reducing\nour carbon emissions individually."
+        }
+      ]
+    },
+    {
+      "tStartMs": 779160,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "However, we cannot say\nbecause we're trying to carbon offset"
+        }
+      ]
+    },
+    {
+      "tStartMs": 782440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "or because we're trying to buy carbon\ncredits, then we're doing the most."
+        }
+      ]
+    },
+    {
+      "tStartMs": 785600,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "So if somebody tells me\nthey're traveling to Kenya,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 787800,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "for example, and they want to,\nyou know, carbon offset,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 790280,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I would go for that\nif that is by flying a better airline"
+        }
+      ]
+    },
+    {
+      "tStartMs": 793120,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "or by, you know, purchasing carbon\ncredits, that is absolutely fine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 797160,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "If you are somebody who is in a position\nof power or you're a politician"
+        }
+      ]
+    },
+    {
+      "tStartMs": 799720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "or you're a business leader, then\nyou should probably do a lot more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 802320,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "But if all you can do is\njust to fly better,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 806720,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "then by all means,\nyes, I think that's necessary."
+        }
+      ]
+    },
+    {
+      "tStartMs": 809360,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Esmee, thank you so much for coming\ninto the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 812040,
+      "dDurationMs": 560,
+      "segs": [
+        {
+          "utf8": "Thanks for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 812600,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And thank you for joining us.\nI'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 815240,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "This is what in the world\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 817520,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "If you want to check out our other\nepisodes, they are right here on YouTube"
+        }
+      ]
+    },
+    {
+      "tStartMs": 821040,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and leave us a comment below.\nWe'll see you next time. Bye."
+        }
+      ]
+    }
+  ]
+}

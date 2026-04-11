@@ -1,0 +1,979 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "It's become so common that video\ngames, plane simulation video games,"
+    } ]
+  }, {
+    "tStartMs": 4000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "are actually including plane jamming and\nspoofing nowadays in the game itself."
+    } ]
+  }, {
+    "tStartMs": 8320,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Some authorities claim that they\nhave been able to track these signals"
+    } ]
+  }, {
+    "tStartMs": 11560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "to cities in Russia."
+    } ]
+  }, {
+    "tStartMs": 13840,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Obviously, Russia has denied this."
+    } ]
+  }, {
+    "tStartMs": 16400,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Hello, it's Hannah here and this is\nWhat in the World, your podcast"
+    } ]
+  }, {
+    "tStartMs": 19640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "for the stories that get people\ntalking from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 23280,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Imagine you're on a plane,\nyou're mid-flight,"
+    } ]
+  }, {
+    "tStartMs": 25440,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and suddenly it loses its bearings."
+    } ]
+  }, {
+    "tStartMs": 27920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The pilots\ncan't work out where they are, and"
+    } ]
+  }, {
+    "tStartMs": 29960,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "they have to find a new way to fly\nor to land. And they're not alone."
+    } ]
+  }, {
+    "tStartMs": 33840,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Around the world, incidents like this\nare happening more frequently,"
+    } ]
+  }, {
+    "tStartMs": 37240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and they're being linked to something\ncalled GPS jamming or spoofing,"
+    } ]
+  }, {
+    "tStartMs": 40760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "which is when those navigation systems\nare deliberately interfered with."
+    } ]
+  }, {
+    "tStartMs": 44680,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So who's behind it? And should\nyou be worried for your next flight?"
+    } ]
+  }, {
+    "tStartMs": 52200,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Here with me in the studio to break this\ndown is BBC journalist Emilia Jansson."
+    } ]
+  }, {
+    "tStartMs": 56000,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Hello. Welcome back."
+    } ]
+  }, {
+    "tStartMs": 57080,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Hello. Thank you\nfor having me again.."
+    } ]
+  }, {
+    "tStartMs": 59320,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Emilia, you're from Finland and\nthere have been quite a few incidents"
+    } ]
+  }, {
+    "tStartMs": 61720,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "of plane jamming there recently."
+    } ]
+  }, {
+    "tStartMs": 64040,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Is this something that lots\nof people are talking about?"
+    } ]
+  }, {
+    "tStartMs": 66560,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "This is definitely\na story that people are aware of."
+    } ]
+  }, {
+    "tStartMs": 69080,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "There's been GPS jamming\nand spoofing in the past, but"
+    } ]
+  }, {
+    "tStartMs": 71920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "ever since the war in Ukraine started,\nthere's been a noticeable increase,"
+    } ]
+  }, {
+    "tStartMs": 76240,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and it's led to a Finnish airline having\nto cancel all their flights to a city"
+    } ]
+  }, {
+    "tStartMs": 81000,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "in Estonia for a month last year,\nbecause pilots couldn't land safely."
+    } ]
+  }, {
+    "tStartMs": 84560,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And experts now say\nthat every single flight"
+    } ]
+  }, {
+    "tStartMs": 87480,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "to Finland is affected by\nGPS disturbance in some way."
+    } ]
+  }, {
+    "tStartMs": 92120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "What exactly is GPS?\nHow do GPS signals work?"
+    } ]
+  }, {
+    "tStartMs": 95320,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So GPS stands\nfor Global Positioning System."
+    } ]
+  }, {
+    "tStartMs": 98800,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "The correct umbrella term is technically\nGNSS, but we use the word GPS"
+    } ]
+  }, {
+    "tStartMs": 103840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "because that's the term\nmost people use around the world."
+    } ]
+  }, {
+    "tStartMs": 106560,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And it's basically loads\nof satellites that are orbiting"
+    } ]
+  }, {
+    "tStartMs": 109480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "around the Earth that are\nsending signals down to receivers."
+    } ]
+  }, {
+    "tStartMs": 113480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So it could be a plane, it could be\na car, it could be your phone."
+    } ]
+  }, {
+    "tStartMs": 117240,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And through using at least four\nof these satellites,"
+    } ]
+  }, {
+    "tStartMs": 120400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the receiver is then able to triangulate\nits position on the planet."
+    } ]
+  }, {
+    "tStartMs": 124640,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "But those signals,\nthey can be jammed or spoofed, right?"
+    } ]
+  }, {
+    "tStartMs": 128600,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Correct. So, these satellites will send\ndown signals at a certain frequency."
+    } ]
+  }, {
+    "tStartMs": 134480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And with jamming, for example,\nsomeone else will come in"
+    } ]
+  }, {
+    "tStartMs": 138480,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "with signals at the same frequency,\nbasically blocking"
+    } ]
+  }, {
+    "tStartMs": 142200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and disturbing the signals that are\ntrying to go down to the receiver."
+    } ]
+  }, {
+    "tStartMs": 146200,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "So someone likened this to - you're in a\nroom having a conversation with someone,"
+    } ]
+  }, {
+    "tStartMs": 151800,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and a third person enters\nand starts screaming in your ear."
+    } ]
+  }, {
+    "tStartMs": 155280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I mean, it would be pretty impossible\nto kind of continue that conversation"
+    } ]
+  }, {
+    "tStartMs": 159200,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "because there's so much disturbance\naround you."
+    } ]
+  }, {
+    "tStartMs": 161880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So that's essentially\nwhat jamming is. Spoofing,"
+    } ]
+  }, {
+    "tStartMs": 164520,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "on the other hand, is\nwhen the receiver does get a signal,"
+    } ]
+  }, {
+    "tStartMs": 167600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "but it's an incorrect one.\nIt's a fake one."
+    } ]
+  }, {
+    "tStartMs": 169800,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "So for example,\nit might show an inaccurate timing\nor an inaccurate location."
+    } ]
+  }, {
+    "tStartMs": 174160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And I was actually speaking\nto Ian Petchenik from Flightradar24,"
+    } ]
+  }, {
+    "tStartMs": 177600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "which is a flight tracking website,\nand he explained more about this."
+    } ]
+  }, {
+    "tStartMs": 181400,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "There's a specific value that we get\nfrom the aircraft while"
+    } ]
+  }, {
+    "tStartMs": 185960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "it's transmitting all of the positional\ninformation, altitude, heading, etc.,"
+    } ]
+  }, {
+    "tStartMs": 190440,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "called the\nnavigation integrity category."
+    } ]
+  }, {
+    "tStartMs": 193080,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And that allows us to understand\nhow precise the aircraft believes"
+    } ]
+  }, {
+    "tStartMs": 198240,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "its GPS signal to be.\nAnd the magic value is eight."
+    } ]
+  }, {
+    "tStartMs": 202000,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So if that value of the nick value\nfalls below eight, we can understand"
+    } ]
+  }, {
+    "tStartMs": 206960,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "that the aircraft is experiencing\nsome sort of GPS interference."
+    } ]
+  }, {
+    "tStartMs": 210720,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "The effects that we see on the\nflight deck are the aircraft saying,"
+    } ]
+  }, {
+    "tStartMs": 215880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "'I don't necessarily know where I am\nat the moment,"
+    } ]
+  }, {
+    "tStartMs": 219480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "via GPS, so I'm going to fall back\nto other systems"
+    } ]
+  }, {
+    "tStartMs": 223400,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "on board that I can use to know\nwhere I am as an aircraft'."
+    } ]
+  }, {
+    "tStartMs": 227840,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Where else in the world is this\nhappening and just how common is it?"
+    } ]
+  }, {
+    "tStartMs": 231040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "So jamming and spoofing specifically for\nflights can happen around warzone areas."
+    } ]
+  }, {
+    "tStartMs": 236240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So we also see that in the Middle\nEast for example, we've also seen it"
+    } ]
+  }, {
+    "tStartMs": 240160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "around the Black Sea in countries\nsuch as Turkey and Bulgaria,"
+    } ]
+  }, {
+    "tStartMs": 243880,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and obviously\nthe Baltics and the Nordics"
+    } ]
+  }, {
+    "tStartMs": 246080,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "have kind of become\nthe new hot spot for this."
+    } ]
+  }, {
+    "tStartMs": 248480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Why is that?\nWhy have they become this hotspot?"
+    } ]
+  }, {
+    "tStartMs": 251120,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Well, the authorities think\nRussia is trying to use this as part"
+    } ]
+  }, {
+    "tStartMs": 255240,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "of their modern hybrid warfare."
+    } ]
+  }, {
+    "tStartMs": 258520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "They're trying to sow confusion\nand to make life a bit more tricky"
+    } ]
+  }, {
+    "tStartMs": 262520,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "for people living near the border."
+    } ]
+  }, {
+    "tStartMs": 265240,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Some authorities claim that they\nhave been able to track these signals"
+    } ]
+  }, {
+    "tStartMs": 268560,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "to cities in Russia,"
+    } ]
+  }, {
+    "tStartMs": 271080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and that's why they're very confident\nto say that it's Russia."
+    } ]
+  }, {
+    "tStartMs": 273600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Obviously, Russia has denied this."
+    } ]
+  }, {
+    "tStartMs": 276400,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "However, it is apparent that there's\nbeen a huge increase in plane jamming"
+    } ]
+  }, {
+    "tStartMs": 280480,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and spoofing\nsince the war in Ukraine started."
+    } ]
+  }, {
+    "tStartMs": 283080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's become so common that video\ngames, plane simulation video games,"
+    } ]
+  }, {
+    "tStartMs": 287080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "are actually including plane jamming and\nspoofing nowadays in the game itself."
+    } ]
+  }, {
+    "tStartMs": 291320,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "That's really interesting. So\nit's become part of video gaming too."
+    } ]
+  }, {
+    "tStartMs": 294360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But in real life,\npilots have other systems."
+    } ]
+  }, {
+    "tStartMs": 298360,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "They don't just rely on GPS.\nThere are backup systems."
+    } ]
+  }, {
+    "tStartMs": 301360,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So what are the risks of jamming\nand spoofing?"
+    } ]
+  }, {
+    "tStartMs": 304160,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So there are backups as you said."
+    } ]
+  }, {
+    "tStartMs": 305840,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And the UK Civil Aviation Authority\nhas told the BBC"
+    } ]
+  }, {
+    "tStartMs": 309160,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "before that the risks are minimal\nand people shouldn't worry."
+    } ]
+  }, {
+    "tStartMs": 312640,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "However, one\nof the top Finnish aviation experts"
+    } ]
+  }, {
+    "tStartMs": 315400,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "has said that this needs\nto stop because"
+    } ]
+  }, {
+    "tStartMs": 317480,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "it's just increasing the workload for\npilots and air traffic controllers"
+    } ]
+  }, {
+    "tStartMs": 321040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "when they should be focusing\non their actual tasks at hand,"
+    } ]
+  }, {
+    "tStartMs": 324320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and other authorities\nare taking note."
+    } ]
+  }, {
+    "tStartMs": 326480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So the Italian Defence Ministry\nare thinking of potentially making"
+    } ]
+  }, {
+    "tStartMs": 330240,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "all their state flights secret, just\nin case there is any GPS disturbance."
+    } ]
+  }, {
+    "tStartMs": 335840,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "There was quite a high profile\nsuspected incident of a GPS jamming"
+    } ]
+  }, {
+    "tStartMs": 341400,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "on a flight recently. Actually,\nit was carrying Ursula von der Leyen,"
+    } ]
+  }, {
+    "tStartMs": 344320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "who's the head of the EU."
+    } ]
+  }, {
+    "tStartMs": 346840,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "What exactly happened there?\nBasically,"
+    } ]
+  }, {
+    "tStartMs": 349160,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "at the start of the autumn,\nit was reported that"
+    } ]
+  }, {
+    "tStartMs": 351280,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "when she was flying to Bulgaria,\nher plane had experienced GPS jamming"
+    } ]
+  }, {
+    "tStartMs": 355200,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and the pilots apparently had\nto use actual maps to land."
+    } ]
+  }, {
+    "tStartMs": 358480,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And when that initially happened,\nwhen the story broke, the Bulgarian"
+    } ]
+  }, {
+    "tStartMs": 362160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "authorities said yes, it was plain\njamming and it was Russia's fault."
+    } ]
+  }, {
+    "tStartMs": 366160,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "However, then a few days later,\nthey actually backtracked on that"
+    } ]
+  }, {
+    "tStartMs": 370120,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "and said, we don't actually know\nif there was any GPS jamming and"
+    } ]
+  }, {
+    "tStartMs": 374320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "it wasn't Russia that was behind it.\nRussia denied any involvement."
+    } ]
+  }, {
+    "tStartMs": 377640,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And as you've already said,\nit's not just planes that use GPS."
+    } ]
+  }, {
+    "tStartMs": 381600,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "So what other systems could\nbe affected by jamming and spoofing?"
+    } ]
+  }, {
+    "tStartMs": 386240,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So our whole world essentially runs\non GPS signaling."
+    } ]
+  }, {
+    "tStartMs": 389720,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So there are so many sectors.\nIt's, you know, making a phone call."
+    } ]
+  }, {
+    "tStartMs": 393240,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "It's taking some cash out of an ATM,\nthe stock exchange, the electrical grid."
+    } ]
+  }, {
+    "tStartMs": 398880,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I mean, there are\nso many systems that rely on GPS"
+    } ]
+  }, {
+    "tStartMs": 402240,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and countries are noticing this,"
+    } ]
+  }, {
+    "tStartMs": 404800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and they are taking steps to make\nsure that they can protect themselves"
+    } ]
+  }, {
+    "tStartMs": 408560,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "in case there is any jamming\nor spoofing."
+    } ]
+  }, {
+    "tStartMs": 410880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So just recently,\nFrance and the UK announced"
+    } ]
+  }, {
+    "tStartMs": 413880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "that they are going to form\na partnership where they're going to try"
+    } ]
+  }, {
+    "tStartMs": 417800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and provide critical infrastructure\nin case anything happens."
+    } ]
+  }, {
+    "tStartMs": 421000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And I read that some\nof the technology that's being used"
+    } ]
+  }, {
+    "tStartMs": 423880,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "to jam planes\nis actually quite accessible."
+    } ]
+  }, {
+    "tStartMs": 427640,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So what's being done to stop this?\nThat's true."
+    } ]
+  }, {
+    "tStartMs": 430480,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "There's been cases of\noccasional accidental plane jamming"
+    } ]
+  }, {
+    "tStartMs": 434840,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "because someone's been testing out some\nsort of equipment in their backyard."
+    } ]
+  }, {
+    "tStartMs": 437640,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "That can happen."
+    } ]
+  }, {
+    "tStartMs": 439120,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "There are a few different steps\nbeing taken right now."
+    } ]
+  }, {
+    "tStartMs": 441960,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So, for example,\nthe EU Defence ministry have said"
+    } ]
+  }, {
+    "tStartMs": 445160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "that they are going to deploy\nadditional satellites into orbit."
+    } ]
+  }, {
+    "tStartMs": 448200,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "So to hopefully help detect and mitigate\nany potential GPS disturbance."
+    } ]
+  }, {
+    "tStartMs": 454240,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "There's also the fact\nthat airports"
+    } ]
+  }, {
+    "tStartMs": 457000,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and airlines just simply have\nto adapt to this."
+    } ]
+  }, {
+    "tStartMs": 460160,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So for example,\nin Finland, all the airports"
+    } ]
+  }, {
+    "tStartMs": 462520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "across the country have had\nto install new infrastructure"
+    } ]
+  }, {
+    "tStartMs": 465520,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "because so many of them, they could\nonly land planes because of GPS."
+    } ]
+  }, {
+    "tStartMs": 470400,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And now that that's not a given,\nthey've had"
+    } ]
+  }, {
+    "tStartMs": 472760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "to install\nall this new infrastructure."
+    } ]
+  }, {
+    "tStartMs": 474920,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And then there's also\nthe political aspect."
+    } ]
+  }, {
+    "tStartMs": 477080,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So the UN body that's responsible\nfor aviation, they had a big meeting"
+    } ]
+  }, {
+    "tStartMs": 481040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "in October where\nthey officially condemned Russia"
+    } ]
+  }, {
+    "tStartMs": 483840,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "for plane jamming and spoofing."
+    } ]
+  }, {
+    "tStartMs": 485920,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "So for people flying or people\nwho are a bit nervous of flying,"
+    } ]
+  }, {
+    "tStartMs": 489000,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "should they be worried about this?"
+    } ]
+  }, {
+    "tStartMs": 491120,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I think we have to trust the experts."
+    } ]
+  }, {
+    "tStartMs": 492720,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And the experts\nare overwhelmingly saying it's okay."
+    } ]
+  }, {
+    "tStartMs": 496240,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Pilots are trained for this.\nThey know how to deal with it."
+    } ]
+  }, {
+    "tStartMs": 498920,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "There are backup systems in place."
+    } ]
+  }, {
+    "tStartMs": 501040,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It's more that it's annoying\nfor the pilots"
+    } ]
+  }, {
+    "tStartMs": 503440,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "because ideally they should be\nfocusing on simply flying rather than"
+    } ]
+  }, {
+    "tStartMs": 507280,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "having to deal with GPS disturbance,"
+    } ]
+  }, {
+    "tStartMs": 509320,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "especially if it's on every single\nflight that you're on nowadays."
+    } ]
+  }, {
+    "tStartMs": 512400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So for the regular passenger,"
+    } ]
+  }, {
+    "tStartMs": 514400,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "I don't think it's something\nwe need to worry about."
+    } ]
+  }, {
+    "tStartMs": 516760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And as a passenger, you might\nnot even know that it's happening."
+    } ]
+  }, {
+    "tStartMs": 519160,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Emilia, thanks so much. Thank you.\nAnd that is it from us today."
+    } ]
+  }, {
+    "tStartMs": 522720,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "But if you like this episode, there\nis plenty more where this came from,"
+    } ]
+  }, {
+    "tStartMs": 525800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "right here on the BBC\nWorld Service YouTube channel."
+    } ]
+  }, {
+    "tStartMs": 528600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "And while you're here,\ndrop us a comment below."
+    } ]
+  }, {
+    "tStartMs": 530720,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "We would love to hear from you.\nLike, share, subscribe."
+    } ]
+  }, {
+    "tStartMs": 533680,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I'm Hannah, this is What in the World\nrun the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 536400,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "We'll see you next time."
+    } ]
+  } ]
+}

@@ -1,0 +1,1477 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Spotify has something called\nthe skip rate."
+    } ]
+  }, {
+    "tStartMs": 3240,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So if you are listening to a song and\nyou just go, 'I'm fed up with this,"
+    } ]
+  }, {
+    "tStartMs": 7200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "next!', then that counts\nagainst the song in the algorithm."
+    } ]
+  }, {
+    "tStartMs": 10400,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "You have met Lady Gaga and you asked\nher how long a pop song should be."
+    } ]
+  }, {
+    "tStartMs": 14920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "How did she take it?\nShe fixed me with this steely gaze."
+    } ]
+  }, {
+    "tStartMs": 19080,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Hey, it's Hannah here."
+    } ]
+  }, {
+    "tStartMs": 20040,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Welcome back to What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 23200,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Quick question for you. How long\ndo you think a pop song should be?"
+    } ]
+  }, {
+    "tStartMs": 26680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "For years they've been getting shorter.\nSome are just two or three minutes long,"
+    } ]
+  }, {
+    "tStartMs": 30120,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and a lot of people say\nthat's because of the TikTok effect,"
+    } ]
+  }, {
+    "tStartMs": 32560,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "because you just need one catchy hook\nto go viral."
+    } ]
+  }, {
+    "tStartMs": 35240,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "But now song times are beginning\nto creep back up."
+    } ]
+  }, {
+    "tStartMs": 38640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Some are even seven or nine minutes\nlong. So what is going on here?"
+    } ]
+  }, {
+    "tStartMs": 43120,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And are longer songs just as popular\nas short ones?"
+    } ]
+  }, {
+    "tStartMs": 46120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Well, I'm here with the best person\nin the business to talk about it."
+    } ]
+  }, {
+    "tStartMs": 49240,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "The BBC Music correspondent,\nMark Savage. Hi. Welcome."
+    } ]
+  }, {
+    "tStartMs": 52880,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Hello, Hannah.\nHow are you doing?"
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Very well. So I read\nthat you have met Lady Gaga,"
+    } ]
+  }, {
+    "tStartMs": 59240,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and you put\nthat very same question to her."
+    } ]
+  }, {
+    "tStartMs": 62840,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "You asked her how long a pop song\nshould be. How did she take it?"
+    } ]
+  }, {
+    "tStartMs": 67040,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "She fixed me with this steely gaze,\nand it was a kind of withering look"
+    } ]
+  }, {
+    "tStartMs": 72480,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "as she said, 'the perfect length\nfor a pop song is how ever long"
+    } ]
+  }, {
+    "tStartMs": 77320,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "the artist wants it to be',\nwhich is a very Lady Gaga answer."
+    } ]
+  }, {
+    "tStartMs": 80960,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I was delighted. Nothing better\nthan getting a reaction like that"
+    } ]
+  }, {
+    "tStartMs": 84040,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "from a pop star when you're doing an\ninterview and you know she's right."
+    } ]
+  }, {
+    "tStartMs": 87680,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "It should be up to the artist\nhow long her song is."
+    } ]
+  }, {
+    "tStartMs": 90440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "But that's not the story of the music\nindustry over the last ten years."
+    } ]
+  }, {
+    "tStartMs": 94600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Technology always drives change\nin music, going right back"
+    } ]
+  }, {
+    "tStartMs": 98680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "to the days of people listening\non cassette and seven inch singles."
+    } ]
+  }, {
+    "tStartMs": 102200,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "You know the - on vinyl, the longest\na song could be was three minutes,"
+    } ]
+  }, {
+    "tStartMs": 106800,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "because that was how much space you had\nbefore it compromised the sound quality."
+    } ]
+  }, {
+    "tStartMs": 112920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And then more recently, with\nstreaming, there's been a pressure"
+    } ]
+  }, {
+    "tStartMs": 115920,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "to make songs shorter because Spotify\nhas something called the skip rate."
+    } ]
+  }, {
+    "tStartMs": 121120,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So if you are listening to a song and\nyou just go, 'I'm fed up with this,"
+    } ]
+  }, {
+    "tStartMs": 124680,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "next!', then that counts\nagainst the song in the algorithm."
+    } ]
+  }, {
+    "tStartMs": 128400,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And so it gets recommended\nto fewer people."
+    } ]
+  }, {
+    "tStartMs": 130680,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "And the number of streams\nthat a song gets goes down."
+    } ]
+  }, {
+    "tStartMs": 134280,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And that means you, the artist\nor the writer, gets less money."
+    } ]
+  }, {
+    "tStartMs": 137840,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "So there's an imperative\nto make the song short"
+    } ]
+  }, {
+    "tStartMs": 139960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "so that people stick around right\nto the end and get a boost."
+    } ]
+  }, {
+    "tStartMs": 143560,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I didn't know that. I didn't know\nthat when I skipped ahead,"
+    } ]
+  }, {
+    "tStartMs": 145640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I was actually having a negative\neffect on a song's algorithm."
+    } ]
+  }, {
+    "tStartMs": 148920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So apart from people skipping\nthrough songs"
+    } ]
+  }, {
+    "tStartMs": 150920,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and artists really wanting listeners\nto get to the end of their tracks,"
+    } ]
+  }, {
+    "tStartMs": 154080,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "why else have\nsongs been getting shorter?"
+    } ]
+  }, {
+    "tStartMs": 156600,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "So I think\nTikTok has a lot to answer for here."
+    } ]
+  }, {
+    "tStartMs": 159640,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "You know that your attention span\nwhen you're flicking"
+    } ]
+  }, {
+    "tStartMs": 162080,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "through the 'For You' feed\non your apps is very, very short."
+    } ]
+  }, {
+    "tStartMs": 166360,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "If something doesn't grab your\nattention in the first three seconds,"
+    } ]
+  }, {
+    "tStartMs": 168720,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "you just swipe up."
+    } ]
+  }, {
+    "tStartMs": 170560,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "And that has really driven songs\nto become instantly catchy."
+    } ]
+  }, {
+    "tStartMs": 176120,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "You don't have twenty seconds to set the\nscene and do a nice long introduction."
+    } ]
+  }, {
+    "tStartMs": 181840,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "The hook has got to come first."
+    } ]
+  }, {
+    "tStartMs": 183160,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And actually one\nof the things that we've seen"
+    } ]
+  }, {
+    "tStartMs": 185320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "is that people have moved the chorus\nof their song right to the front."
+    } ]
+  }, {
+    "tStartMs": 189360,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It used to be you would have an intro\nand then a verse,"
+    } ]
+  }, {
+    "tStartMs": 191560,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and then maybe a bridge, and\nthe chorus would be the culmination."
+    } ]
+  }, {
+    "tStartMs": 194680,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "You know, something you build up to,\nnow you're just straight in there"
+    } ]
+  }, {
+    "tStartMs": 197280,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "because you've got to get\npeople's attention straight away."
+    } ]
+  }, {
+    "tStartMs": 200160,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And when the chorus comes first,\nwell, then you can kind of dispense"
+    } ]
+  }, {
+    "tStartMs": 202840,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "with some of the other bits as well."
+    } ]
+  }, {
+    "tStartMs": 204360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "And so we've seen songs shrink."
+    } ]
+  }, {
+    "tStartMs": 207320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "You know, in the 1990s,"
+    } ]
+  }, {
+    "tStartMs": 209480,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "the average length of a hit song\nin the UK was above four minutes."
+    } ]
+  }, {
+    "tStartMs": 213080,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "In 2019, the year that TikTok\nachieved mainstream popularity,"
+    } ]
+  }, {
+    "tStartMs": 217200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "it dropped to three minutes\nand twelve seconds,"
+    } ]
+  }, {
+    "tStartMs": 219400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "which is the lowest it has ever been."
+    } ]
+  }, {
+    "tStartMs": 222040,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Now we're seeing a bit of a change,\na bit of a pushback against that."
+    } ]
+  }, {
+    "tStartMs": 225560,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "But songs are still, even now, a minute\nshorter than they were thirty years ago."
+    } ]
+  }, {
+    "tStartMs": 230880,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And how short are some\nof the shortest ones? The big ones?"
+    } ]
+  }, {
+    "tStartMs": 233640,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "The big ones."
+    } ]
+  }, {
+    "tStartMs": 234360,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "So PinkPantheress is probably\nthe poster child for short songs."
+    } ]
+  }, {
+    "tStartMs": 238880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "You know, all of her songs\nare basically two minutes long."
+    } ]
+  }, {
+    "tStartMs": 242120,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "She has one called 'Attracted to You',\nthat's just sixty-seven seconds,"
+    } ]
+  }, {
+    "tStartMs": 245720,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "but it's got half a billion streams\non Spotify and Lil Nas X Old Town Road,"
+    } ]
+  }, {
+    "tStartMs": 251400,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "that was one minute and fifty-eight seconds."
+    } ]
+  }, {
+    "tStartMs": 254240,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "You know, songs really have been\ncompressed and sometimes that's good."
+    } ]
+  }, {
+    "tStartMs": 258440,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "You know, sometimes it's hard\nto write an extra verse"
+    } ]
+  }, {
+    "tStartMs": 263640,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and make it as good as the first one."
+    } ]
+  }, {
+    "tStartMs": 265880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And it's hard to write a middle eight\nor to take a song somewhere else."
+    } ]
+  }, {
+    "tStartMs": 269320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Some songs work better\nin that format,"
+    } ]
+  }, {
+    "tStartMs": 271800,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "but I think also, if you're an artist\nwho has something to say,"
+    } ]
+  }, {
+    "tStartMs": 274880,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "if you've got a message in your song,\nif you've got something really deep"
+    } ]
+  }, {
+    "tStartMs": 278400,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and personal that you want to convey,\nthen you need that extra space"
+    } ]
+  }, {
+    "tStartMs": 281960,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "to let the words breathe, to let\npeople feel what you're going through."
+    } ]
+  }, {
+    "tStartMs": 285760,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "So you need to give it\nthat breathing room."
+    } ]
+  }, {
+    "tStartMs": 287640,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "It's really interesting\nthat TikTok has just changed the way"
+    } ]
+  }, {
+    "tStartMs": 290360,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "that people structure songs,\nas well as the length of songs."
+    } ]
+  }, {
+    "tStartMs": 293280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And I was reading, it was changing\nthe way that artists write them as well,"
+    } ]
+  }, {
+    "tStartMs": 296040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "because sometimes they were just writing\nthe hooks, testing them out on socials"
+    } ]
+  }, {
+    "tStartMs": 299920,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and then seeing if it hits and if it\ndoes, then writing the rest of the song."
+    } ]
+  }, {
+    "tStartMs": 303160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So Lil Nas X and PinkPantheress,\nthe two artists"
+    } ]
+  }, {
+    "tStartMs": 305560,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "that I mentioned, I mean, that's\nbasically their business model."
+    } ]
+  }, {
+    "tStartMs": 308120,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "They use TikTok\nas a kind of echo chamber."
+    } ]
+  }, {
+    "tStartMs": 311840,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "You know, if a song picks up\nenough likes, then they'll finish it."
+    } ]
+  }, {
+    "tStartMs": 317000,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "But if the idea that they post just\nkind of withers and dies,"
+    } ]
+  }, {
+    "tStartMs": 320560,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "well, there's no point in pursuing it\nbecause people might not be interested."
+    } ]
+  }, {
+    "tStartMs": 324160,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And that's a really interesting thing.\nIt's focus grouping, right? Right."
+    } ]
+  }, {
+    "tStartMs": 327880,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And that's never happened before\nin the music industry."
+    } ]
+  }, {
+    "tStartMs": 330200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "You know, you would have used to go\ninto a studio for a month,"
+    } ]
+  }, {
+    "tStartMs": 333560,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "work as hard as you can to perfect\nthe song to make it sound right,"
+    } ]
+  }, {
+    "tStartMs": 338160,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "and then it goes out into the world\nand you just wait to see what happens."
+    } ]
+  }, {
+    "tStartMs": 342680,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "But now you can get instant feedback\nas you're writing."
+    } ]
+  }, {
+    "tStartMs": 345840,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And in some cases,\nI guess that's great,"
+    } ]
+  }, {
+    "tStartMs": 348560,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "but I suppose it also makes\nyou subject to writing by committee,"
+    } ]
+  }, {
+    "tStartMs": 354160,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "doing what people want to hear,\nrather than what means something to you."
+    } ]
+  }, {
+    "tStartMs": 358040,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So it's a tricky balance\nfor artists to pull off."
+    } ]
+  }, {
+    "tStartMs": 360480,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Do you think, overall, that shorter\nsongs are making artists more money?"
+    } ]
+  }, {
+    "tStartMs": 363800,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "This is the thing. So\nif we go back to the Spotify model,"
+    } ]
+  }, {
+    "tStartMs": 366640,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "if you have a nine minute song\nand somebody plays it once,"
+    } ]
+  }, {
+    "tStartMs": 370760,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "you will get roughly a third of\n$0.01 in Spotify royalties."
+    } ]
+  }, {
+    "tStartMs": 376480,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Now, if you've got a song\nthat's a minute and a half long"
+    } ]
+  }, {
+    "tStartMs": 379160,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and people listen to that for\nnine minutes, well, that counts as"
+    } ]
+  }, {
+    "tStartMs": 385000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "six plays and you will get six times\n$0.03 of a cent."
+    } ]
+  }, {
+    "tStartMs": 389400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So it makes more business sense\nto write a shorter song"
+    } ]
+  }, {
+    "tStartMs": 392040,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "because you get paid\nmore frequently, because"
+    } ]
+  }, {
+    "tStartMs": 394360,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "all that counts is the number\nof times that a song has been played."
+    } ]
+  }, {
+    "tStartMs": 397760,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I'm going to pause you here because\nwe're going to hear about what some"
+    } ]
+  }, {
+    "tStartMs": 399880,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "artists make\nof the effect TikTok is having."
+    } ]
+  }, {
+    "tStartMs": 402560,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I have noticed a slight change in the\nway that I make music for the platform."
+    } ]
+  }, {
+    "tStartMs": 406560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Sometimes I make songs\nwith tens of layers that go on"
+    } ]
+  }, {
+    "tStartMs": 408960,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "for a full length of what a song\nshould be like around three minutes."
+    } ]
+  }, {
+    "tStartMs": 411920,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "I'll only share\nabout twelve seconds of that,"
+    } ]
+  }, {
+    "tStartMs": 414360,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "because I know that\npeople's attention span is so short."
+    } ]
+  }, {
+    "tStartMs": 417280,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I will admit that TikTok has helped\nme find a much larger audience"
+    } ]
+  }, {
+    "tStartMs": 419960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "than I could ever imagine,\nor probably whip up myself."
+    } ]
+  }, {
+    "tStartMs": 423360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I do think there are a lot of downsides,\nthough, to making music on TikTok,"
+    } ]
+  }, {
+    "tStartMs": 426800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "namely when it comes\nto your own mental health."
+    } ]
+  }, {
+    "tStartMs": 428800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I have had several moments\nwhere all of my music is trending"
+    } ]
+  }, {
+    "tStartMs": 431680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and I'm gaining a lot of views."
+    } ]
+  }, {
+    "tStartMs": 433840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "And then months in between,\nwhere you're in a valley"
+    } ]
+  }, {
+    "tStartMs": 436360,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and whatever you're doing,\neven if you think it's some"
+    } ]
+  }, {
+    "tStartMs": 438560,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "of the best work you've made,\nis just not catching eyeballs."
+    } ]
+  }, {
+    "tStartMs": 441440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And I think\nthose waves of extreme highs"
+    } ]
+  }, {
+    "tStartMs": 443440,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and extreme lows can really, really\nbe detrimental to your mental health."
+    } ]
+  }, {
+    "tStartMs": 446920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So you really have to know, one,\nthat you love what you're doing,"
+    } ]
+  }, {
+    "tStartMs": 449720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and you do it regardless\nif anyone was watching."
+    } ]
+  }, {
+    "tStartMs": 451720,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And two, knowing when to take breaks\nfor your own mental health."
+    } ]
+  }, {
+    "tStartMs": 454000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I personally don't think it's changed\nthe way I've created music,"
+    } ]
+  }, {
+    "tStartMs": 457800,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "because since the beginning I've\nalways wanted to make it experimental"
+    } ]
+  }, {
+    "tStartMs": 462240,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "and enjoyable to do, and I feel like\nthat childlike curiosity has not died."
+    } ]
+  }, {
+    "tStartMs": 467800,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "However, I will say\nbecause TikTok in 2020"
+    } ]
+  }, {
+    "tStartMs": 471520,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "and TikTok in 2022 isn't the same\nas it is in 2025."
+    } ]
+  }, {
+    "tStartMs": 476640,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "And I think the real challenge\ncomes down to finding ways to make it"
+    } ]
+  }, {
+    "tStartMs": 481720,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "as engaging and as captivating\nas possible without losing yourself."
+    } ]
+  }, {
+    "tStartMs": 487600,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So maybe the way I promote it\nor market it has changed,"
+    } ]
+  }, {
+    "tStartMs": 490360,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but I don't think the way\nI've created music"
+    } ]
+  }, {
+    "tStartMs": 492360,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "has fundamentally changed\nin my opinion."
+    } ]
+  }, {
+    "tStartMs": 494920,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So, Mark, you said that songs\nare now starting to get a bit longer"
+    } ]
+  }, {
+    "tStartMs": 499960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and that we're beginning to see very\nearly stages of that trend reversing."
+    } ]
+  }, {
+    "tStartMs": 505160,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Why do you think that is?"
+    } ]
+  }, {
+    "tStartMs": 506440,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Well, the analysis that we've done,\nwe looked back"
+    } ]
+  }, {
+    "tStartMs": 510400,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "at the forty biggest selling\nsongs in the UK"
+    } ]
+  }, {
+    "tStartMs": 512560,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "every year for the\nlast twenty-five years."
+    } ]
+  }, {
+    "tStartMs": 515120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And as I said before,\nthat low point"
+    } ]
+  }, {
+    "tStartMs": 517920,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "for the average song duration\nwas three minutes and twelve seconds."
+    } ]
+  }, {
+    "tStartMs": 520760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "That's in 2019 and 2020."
+    } ]
+  }, {
+    "tStartMs": 523520,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "This year,\nin the first six months of 2025,"
+    } ]
+  }, {
+    "tStartMs": 526120,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "that's gone back\nup to three minutes twenty-four."
+    } ]
+  }, {
+    "tStartMs": 528680,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "So a twelve second increase.\nThat sounds quite small,"
+    } ]
+  }, {
+    "tStartMs": 531760,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "but actually what's dragging the average\nup is a lot of really big popular songs"
+    } ]
+  }, {
+    "tStartMs": 536480,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "like Chappell Roan's 'Pink Pony Club' -\nI love that."
+    } ]
+  }, {
+    "tStartMs": 539600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Yeah, that's almost five minutes long.\nIt's four minutes fourty-four."
+    } ]
+  }, {
+    "tStartMs": 542920,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Sam Fender's 'People Watching',\nthat's five minutes and eight seconds."
+    } ]
+  }, {
+    "tStartMs": 546720,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "We've just had\nanother Chappell Roan song top"
+    } ]
+  }, {
+    "tStartMs": 549640,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "the charts, which is 'The Subway',"
+    } ]
+  }, {
+    "tStartMs": 552320,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "that's four minutes twelve\nand Lola Young's 'Messy',"
+    } ]
+  }, {
+    "tStartMs": 554960,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "another number one song."
+    } ]
+  }, {
+    "tStartMs": 556440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "That was a huge TikTok viral hit.\nBut again, over four minutes."
+    } ]
+  }, {
+    "tStartMs": 560920,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And what all those songs have\nin common is that they have a message"
+    } ]
+  }, {
+    "tStartMs": 564720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "like Lola Young's 'Messy'\nis talking about her mental health,"
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "about being messed around by\na toxic partner, you know,"
+    } ]
+  }, {
+    "tStartMs": 571400,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "really deep, intimate stuff\nthat you can't just convey"
+    } ]
+  }, {
+    "tStartMs": 575480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "in a couple of sentences.\nChappell Roan is the same."
+    } ]
+  }, {
+    "tStartMs": 578040,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "'Pink Pony Club' is a song\nabout a closeted girl in the suburbs"
+    } ]
+  }, {
+    "tStartMs": 583280,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "who moves to the big city,\nfinds her people, comes out,"
+    } ]
+  }, {
+    "tStartMs": 586600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and it's a song that a huge number\nof people have related to."
+    } ]
+  }, {
+    "tStartMs": 589400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "I've seen people\nin tears when she plays that song."
+    } ]
+  }, {
+    "tStartMs": 592560,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "That parental relationship\nwith that whole process as well."
+    } ]
+  }, {
+    "tStartMs": 594640,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Exactly. Yeah.\nSo there's a lot to unpack there."
+    } ]
+  }, {
+    "tStartMs": 597160,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And I think the artists that\nare pushing back on these short songs"
+    } ]
+  }, {
+    "tStartMs": 600800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "are the artists that really,\nreally want to say something specific"
+    } ]
+  }, {
+    "tStartMs": 604400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and meaningful with their music,"
+    } ]
+  }, {
+    "tStartMs": 606960,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and that appears to be the trend."
+    } ]
+  }, {
+    "tStartMs": 609160,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "If you're a writer and\nyou're being told by a record company"
+    } ]
+  }, {
+    "tStartMs": 613640,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "or by a streaming algorithm\nto do something,"
+    } ]
+  }, {
+    "tStartMs": 615840,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "your instinct should be to kick\nagainst it."
+    } ]
+  }, {
+    "tStartMs": 619040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There's no point\nin doing what everybody else is doing"
+    } ]
+  }, {
+    "tStartMs": 621040,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "because then how do you stand out?\nAnd Yungblud, the British artist,"
+    } ]
+  }, {
+    "tStartMs": 625320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "he released a new single this year,\nthe first single of his third album."
+    } ]
+  }, {
+    "tStartMs": 628520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "It's called 'Hello Heaven, Hello',\nand it is nine minutes long"
+    } ]
+  }, {
+    "tStartMs": 632840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and he said to me 'everything\nhad become so compressed"
+    } ]
+  }, {
+    "tStartMs": 635360,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and so digitised that I just thought,\nI can't do that.'"
+    } ]
+  }, {
+    "tStartMs": 639120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "You need to swim against the tide\nand that song,"
+    } ]
+  }, {
+    "tStartMs": 642240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "it's incredible.\nI mean, it's almost a song suite."
+    } ]
+  }, {
+    "tStartMs": 644400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It's like five songs\ncompressed into one."
+    } ]
+  }, {
+    "tStartMs": 646600,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "It's hugely ambitious\nand you can't really have ambition"
+    } ]
+  }, {
+    "tStartMs": 650520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "in a two minute song\nbecause it's there and it's gone."
+    } ]
+  }, {
+    "tStartMs": 653080,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Yeah. Your research mainly focused\non UK songs,"
+    } ]
+  }, {
+    "tStartMs": 657520,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "but this trend that you've described,\nmore meaningful, deeper songs"
+    } ]
+  }, {
+    "tStartMs": 662040,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "and artists themselves\nwanting the song lengths to go up,"
+    } ]
+  }, {
+    "tStartMs": 665760,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "is that something that's happening in\nin global music as well?"
+    } ]
+  }, {
+    "tStartMs": 668880,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "You do see a lot of particularly\nAfrobeats artists recently,"
+    } ]
+  }, {
+    "tStartMs": 673480,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "you know, Ayra Starr, Tems,\nTyla, Wizkid and they"
+    } ]
+  }, {
+    "tStartMs": 677720,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "are all kind of in the lower range\nof song durations"
+    } ]
+  }, {
+    "tStartMs": 684720,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "that they're kind of\nabove three minutes,"
+    } ]
+  }, {
+    "tStartMs": 687080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "but never quite reaching four\nfor the majority of their songs."
+    } ]
+  }, {
+    "tStartMs": 690680,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "K-pop is brutally short."
+    } ]
+  }, {
+    "tStartMs": 694120,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "You know, and for a machine like\nmusic industry like South Korea has,"
+    } ]
+  }, {
+    "tStartMs": 698640,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "the efficiency with which\nthey turn out the hits is huge,"
+    } ]
+  }, {
+    "tStartMs": 701200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and they are constantly thinking\nabout streaming algorithms"
+    } ]
+  }, {
+    "tStartMs": 704120,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "and everything else."
+    } ]
+  }, {
+    "tStartMs": 705400,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So K-pop songs tend to be\nvery, very short."
+    } ]
+  }, {
+    "tStartMs": 708840,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "The new Blackpink song 'Jump',\nwhich is one of the biggest songs"
+    } ]
+  }, {
+    "tStartMs": 711520,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "of the summer,\nI think is three minutes and twelve."
+    } ]
+  }, {
+    "tStartMs": 713960,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "So going back to that low\nthat we had in the 2019, 2020 era."
+    } ]
+  }, {
+    "tStartMs": 719640,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "But yeah, generally,\nI think all musicians now,"
+    } ]
+  }, {
+    "tStartMs": 724760,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "because it's a global music economy,\nare affected by the same things."
+    } ]
+  }, {
+    "tStartMs": 729120,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The algorithm affects them\nin the same way."
+    } ]
+  }, {
+    "tStartMs": 731160,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And that pushback is happening on a\nbroader scale than just in the West."
+    } ]
+  }, {
+    "tStartMs": 736120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "There's a band called Le Sserafim\nwho I'm kind of low key obsessed"
+    } ]
+  }, {
+    "tStartMs": 738760,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "with at the moment from South Korea."
+    } ]
+  }, {
+    "tStartMs": 741480,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "And they had a record out just\na couple of months ago called 'Hot',"
+    } ]
+  }, {
+    "tStartMs": 745520,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and it's just a smidgen\nover two minutes long,"
+    } ]
+  }, {
+    "tStartMs": 748800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "and it ends on this fantastic\nkeyboard riff and you think,"
+    } ]
+  }, {
+    "tStartMs": 752720,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "oh, this is going to build up into\nsomething amazing and then it's over."
+    } ]
+  }, {
+    "tStartMs": 758240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Suspense. Cliffhanger in music."
+    } ]
+  }, {
+    "tStartMs": 760560,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Well, it is, yeah.\nAnd the clever thing about that,"
+    } ]
+  }, {
+    "tStartMs": 763120,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "of course, is you think, well,\ninstead of waiting"
+    } ]
+  }, {
+    "tStartMs": 765440,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "for the big final chorus to come in,\nI'll just go and listen to it again."
+    } ]
+  }, {
+    "tStartMs": 769400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And so look\nat them gaming the system."
+    } ]
+  }, {
+    "tStartMs": 772000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So it's like a looping song because\nthat's the other thing, right?"
+    } ]
+  }, {
+    "tStartMs": 774160,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "With with TikTok videos,\nif you can get it to loop,"
+    } ]
+  }, {
+    "tStartMs": 776280,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "people will watch it on repeat.\nYeah. That's right."
+    } ]
+  }, {
+    "tStartMs": 778320,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Exactly. You know, people are clever."
+    } ]
+  }, {
+    "tStartMs": 781560,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "They know where the money is\nand they're chasing it."
+    } ]
+  }, {
+    "tStartMs": 784280,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Not that I'm accusing people\nof being creatively bankrupt."
+    } ]
+  }, {
+    "tStartMs": 786520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "That's a great song.\nI just wish it had one last chorus."
+    } ]
+  }, {
+    "tStartMs": 789880,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Oh, well, Mark, I'm going to go ahead\nand listen to it. Thank you so much."
+    } ]
+  }, {
+    "tStartMs": 793440,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Thank you too."
+    } ]
+  }, {
+    "tStartMs": 794160,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "And that's it from me.\nI hope you enjoyed this episode."
+    } ]
+  }, {
+    "tStartMs": 796280,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Please do drop us a line\nin the comments below."
+    } ]
+  }, {
+    "tStartMs": 798560,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I'm Hannah, this is What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 801160,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "We'll see you next time."
+    } ]
+  } ]
+}

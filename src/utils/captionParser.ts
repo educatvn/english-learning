@@ -347,3 +347,38 @@ export function findActiveSentence(sentences: CaptionSentence[], currentMs: numb
   }
   return null;
 }
+
+/**
+ * Fetch the raw caption JSON for a video.
+ *
+ * Supports two filename extensions (tried in order):
+ *   1. `{videoId}.json`
+ *   2. `{videoId}.txt` — same JSON payload, just with a `.txt` extension
+ *      (useful for hosting targets that gate `.json` behind CORS/MIME checks)
+ *
+ * Returns the parsed payload, or null if neither file can be found/parsed.
+ */
+export async function fetchCaptionData(videoId: string): Promise<unknown | null> {
+  const base = import.meta.env.BASE_URL;
+  const paths = [
+    `${base}captions/${videoId}.json`,
+    `${base}captions/${videoId}.txt`,
+  ];
+  for (const path of paths) {
+    try {
+      const res = await fetch(path);
+      if (!res.ok) continue;
+      // Use .text() + JSON.parse so .txt files (served as text/plain) work too.
+      const raw = await res.text();
+      if (!raw) continue;
+      try {
+        return JSON.parse(raw);
+      } catch {
+        continue;
+      }
+    } catch {
+      continue;
+    }
+  }
+  return null;
+}

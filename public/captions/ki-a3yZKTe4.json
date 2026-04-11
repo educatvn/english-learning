@@ -1,0 +1,2993 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 120,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "There's a new dinosaur being found\nonce every week on average."
+        }
+      ]
+    },
+    {
+      "tStartMs": 3320,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "We live alongside thousands of species\nthat are the direct descendants"
+        }
+      ]
+    },
+    {
+      "tStartMs": 6640,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "of dinosaurs\nor of one type of dinosaurs. Birds!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9320,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Hey, What in the World, listeners,\nit's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 11800,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Today I'm going to take you\ninto the world of dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14640,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Now, when I was growing up, my little\nbrother was obsessed with them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 17320,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "I think it's something\nthat every kid goes through and loads"
+        }
+      ]
+    },
+    {
+      "tStartMs": 19320,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "of adults seem to be, too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 21440,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "And I found out the other day\nthat scientists are still discovering\nnew dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "There are whole species\nthat we just didn't know existed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28640,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So today you're going to hear some\nof the things we have learnt\nfrom dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 32440,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And also how come there's still\nso much that we just don't know?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 39360,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Well, let's find out about this now from\nVic Gill, our science correspondent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 42240,
+      "dDurationMs": 520,
+      "segs": [
+        {
+          "utf8": "Hi, Vic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 42760,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Hello. How are you doing Hannah?\nYeah, great. Welcome back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 45360,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So, were you obsessed with dinosaurs\nwhen you were growing up?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 48720,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Yeah, somewhat. I think as a kid,\nyou know, had the models and the toys"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52960,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "and the sort\nof general enthusiasm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 55200,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "I don't think I was quite as much\nof a dinosaur nerd"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57880,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "as maybe some of my colleagues\nthat work on the science desk now,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 60560,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "but certainly very enthusiastic\nand, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63560,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "and I'm old enough to have to have\nbeen a kid that was able to go to the"
+        }
+      ]
+    },
+    {
+      "tStartMs": 67600,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "- when the\nJurassic Park franchise started,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 70520,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "was taken to the cinema then\nand was just absolutely enthralled."
+        }
+      ]
+    },
+    {
+      "tStartMs": 74000,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So it's a real, you know, they\nreally kind of dominate our culture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77080,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "I think it's a real fascination."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Why do you think that is? Where do\nyou think the fascination comes from?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 81040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "I mean, I think they're just\nfascinating, aren't they?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 83680,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "You know, they are -\nthe biggest ones were the size"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86360,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "of passenger jets,\njust these enormous monsters."
+        }
+      ]
+    },
+    {
+      "tStartMs": 89400,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "They ruled the Earth\nfor about 160 million years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 93920,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And, you know,\nand to put that into context,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96360,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "humans have been around\nfor about 300,000 years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 98800,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So they really were these just\nlike these dominating kings"
+        }
+      ]
+    },
+    {
+      "tStartMs": 103040,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "of the environment of prehistory for all\nof that time in these different eras."
+        }
+      ]
+    },
+    {
+      "tStartMs": 107080,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "We've been hearing from someone\nwho started collecting fossils\nwhen she was 12."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111160,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Now she's 17\nand she teaches people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113640,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "about paleontology,\nwhich is the study of fossils."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116000,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "This is Aswatha Biju, who's from India.\nNamaste."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118960,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "I'm a palaeontologist of India and\nfounder of the Fossil Forever Club."
+        }
+      ]
+    },
+    {
+      "tStartMs": 123840,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Paleontology, to be more specific,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 126520,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "is a vast and interdisciplinary\nscience that connects"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130520,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "your both geological\nand biological science."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133880,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "But that one point that fascinates me\ntoo much towards the field"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138640,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "of paleontology is that the way\nit can connect the three tenses"
+        }
+      ]
+    },
+    {
+      "tStartMs": 143480,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "of your English grammar, that is,\nyour past, present and future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 149040,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Paleontology is the only field\nthat can help you understand the past"
+        }
+      ]
+    },
+    {
+      "tStartMs": 153400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "of Earth and\nthe prehistoric organisms."
+        }
+      ]
+    },
+    {
+      "tStartMs": 156080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "The present condition\nin which you find them fossilised,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 159280,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "and the present phenomena that happen\nin Earth and the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 163040,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "What possibly could happen\nif certain results keep happening?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168840,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "Since this is something very unique\nto the field, it fascinates me more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 174600,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So, Vic, what do you think\nabout what Ashwatha said,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 176880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "about how learning about the past,\nparticularly from dinosaurs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 180160,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "can help us learn about the future?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 182200,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "That's such a lovely way\nof looking at it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 184200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And of course, you know, we live\nalongside thousands of species"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "that are the direct descendants of\ndinosaurs or of one type of dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190440,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Birds! You know, birds\ndirectly descended from theropods."
+        }
+      ]
+    },
+    {
+      "tStartMs": 194080,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And just look at the diversity\nin the bird world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 197480,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "So, you know, we get kind of a glimpse\nof that insight into that ecology,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202040,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "into those creatures, you know,\nevery day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 204520,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So it's it's just\nsuch an interesting... and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 207800,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "because they ruled the Earth\nfor so very long,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210320,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "and because there were\nseveral different transitions and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 214000,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "all of this evolution\nto kind of understand,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217080,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "they give us such an insight\ninto just how life moves and changes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 221680,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and how the world changed\nover such a vast period of time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 224720,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And of course,\nyou know, the great extinction,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 227440,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "the demise of the dinosaurs was such\na fascinating story within itself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 231240,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "So dramatic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 232440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "You know, the idea of this\n12 kilometre-wide asteroid crashing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235720,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "into the Earth\nand just changing everything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 237840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So, you know,\nI think it gives us this sense"
+        }
+      ]
+    },
+    {
+      "tStartMs": 240160,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "of this evolution of prehistory,\nof just life, I suppose."
+        }
+      ]
+    },
+    {
+      "tStartMs": 244480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "I didn't actually know that\nbirds were descended from dinosaurs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 247040,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "until I started researching this.\nIt was so interesting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 249760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Yeah. And you know,\nyou'll never look at chicken's feet"
+        }
+      ]
+    },
+    {
+      "tStartMs": 252960,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "in the same way ever again.\nSo I keep chickens,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 256280,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and I, like, I can never,\nI'm just always, I guess,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259560,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "maybe just because I'm a bit\nof a weirdo and a bit of a nerd,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 261760,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "but I'm always fascinated,\nsort of watching them move around\nand especially watching their feet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 265640,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "When you see those claws\nand those kind of scaly legs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 269600,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "they look like little\nfeathery dinosaurs, it's amazing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 273640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And, you know, and there are some,\nyou know, we can talk about this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 276680,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "but there are there are some of the best\npreserved fossils from parts of China,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 281160,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "from the kind\nof later era of the dinosaurs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 284040,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "and around about 60 million\nyears ago, 65 million years ago,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 287920,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "where we can see that actually\nsome of those dinosaurs - some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 290560,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "of those dinosaurs that were the\nancestors of birds - had feathers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 293760,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And we can even see some of the pigments\nin those feathers that were preserved."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297200,
+      "dDurationMs": 680,
+      "segs": [
+        {
+          "utf8": "It's fascinating."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So you can really see this transition\nand, you know, the evolution of feathers"
+        }
+      ]
+    },
+    {
+      "tStartMs": 301240,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and the evolution of animals\nthat we live alongside today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 303960,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "What are some of the oldest fossils\nthat have been discovered?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 306520,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "It was 200 years last year since"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "the first dinosaur\nwas officially discovered."
+        }
+      ]
+    },
+    {
+      "tStartMs": 311480,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So I was speaking\nto Professor Steve Brusatte,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 313800,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "who's from Edinburgh University.\nHe's a paleontologist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 316320,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "About what that race\nto find these fossils and some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 319200,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "of the most significant fossils were\nin the age of looking for dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 323680,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "I'm Steve Brusatte,\nI'm a professor at the University"
+        }
+      ]
+    },
+    {
+      "tStartMs": 326120,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "of Edinburgh,\nand I'm a paleontologist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 328400,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "I'm one of those people that gets\nto dig up dinosaur bones for my job."
+        }
+      ]
+    },
+    {
+      "tStartMs": 332640,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "It's a great job,\nbut it's actually quite a new job"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335760,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "in terms of human history.\nIt's only been the last couple"
+        }
+      ]
+    },
+    {
+      "tStartMs": 338680,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "of centuries where\nthere have been paleontologists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 342560,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And that's because although\npeople have been encountering"
+        }
+      ]
+    },
+    {
+      "tStartMs": 344920,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "and discovering dinosaur bones\nand other fossils for millennia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 349360,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "it was in the 1800s in England where\nthe very first dinosaurs were discovered"
+        }
+      ]
+    },
+    {
+      "tStartMs": 355400,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "and studied by scientists at museums\nand universities and given formal names."
+        }
+      ]
+    },
+    {
+      "tStartMs": 360440,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "And it was only then that it was\nunderstood that these bones belonged"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364080,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "to a totally extinct group\nof giant reptiles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367560,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Now, the very first one\never given a name was Megalosaurus"
+        }
+      ]
+    },
+    {
+      "tStartMs": 370840,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "that was found near Oxford."
+        }
+      ]
+    },
+    {
+      "tStartMs": 373000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "It was named in 1824."
+        }
+      ]
+    },
+    {
+      "tStartMs": 375440,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And that opened the floodgates.\nSoon after,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 377840,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "many other dinosaurs were found\nin England and then across Europe,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 381320,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and by the 1840s so many\nof these bones were being found,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 384640,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and they were being given lots\nof different names,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 387240,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "that a new name was needed\nto characterise the entire group."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390760,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And that's when Richard Owen, from\nthe Natural History Museum in London,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394000,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "came up with the name Dinosauria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 397440,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "Now, soon after that name was given,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 401480,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "dinosaurs started to\nbe found elsewhere around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 404320,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "When the frontier opened\nin North America,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 407240,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "when settlers from Europe began\npushing further and further west"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410880,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "into the Great Plains\nand the Rocky Mountains,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 413640,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "in the US and in Canada, so many\nnew dinosaurs were found, so many,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 417400,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "in fact, that different\nrival paleontologists were starting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 421240,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "to fight each other\nfor the best fossils."
+        }
+      ]
+    },
+    {
+      "tStartMs": 424600,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "There's this famous period\nof time called the Bone Wars,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 428320,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "where there were two scientists,\na guy named Marsh at Yale University"
+        }
+      ]
+    },
+    {
+      "tStartMs": 433400,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "in the US, a guy named Cope\nfrom Philadelphia in the US."
+        }
+      ]
+    },
+    {
+      "tStartMs": 436320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "They literally sent out teams out\nto the western part of North America"
+        }
+      ]
+    },
+    {
+      "tStartMs": 439920,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "to fight each other\nfor the best dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 442360,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "They wanted to find\nthe biggest dinosaurs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445280,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "and the boldest dinosaurs\nand the newest dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448080,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And these teams,\nthey would sabotage each other."
+        }
+      ]
+    },
+    {
+      "tStartMs": 450440,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "They would steal from each other."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452080,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "They would fight each other.\nIt was a vicious time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 454240,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "The time of the the open frontier\nof the American West,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457800,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "the time of cowboys and gunfights,\nfossils, dinosaurs were part of that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 462360,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "But thankfully\nthat period started to end."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466760,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Things calmed down later in the 1800s,\nand by the turn of the century,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471160,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "there were still many people all\naround the world looking for dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 475200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "But it was a more gentle time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 478120,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "People didn't fight as much.\nPeople started to collaborate more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 481200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And today, the greatest dinosaur\ndiscoveries are being made not just"
+        }
+      ]
+    },
+    {
+      "tStartMs": 485040,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "in the US or in England or in other\nparts of Europe, but all over the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 489040,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "There's a new dinosaur being\nfound once every week on average,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 492480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and most of them are coming\nfrom China,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 494840,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "from Argentina, from Brazil,\nfrom Mongolia, from South Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 498240,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "from some of the enormous countries that\nare developing and growing so quickly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 502480,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "But we are still finding\nmany dinosaurs right here in the UK,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506760,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "including right here in Scotland.\nIt's a big part of my job,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 509800,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "going to the Isle of Skye and\nfinding new Jurassic age dinosaurs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 513280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and we have new ones\nthat we are working on right now,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 516400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "so there is still\na huge amount to discover."
+        }
+      ]
+    },
+    {
+      "tStartMs": 519600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And Steve was actually consulted on\nthe Jurassic Park films, wasn't he?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 522560,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Yeah. He has. He's consulted\non several of those movies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 526280,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So he's sort of,\nhe's walked the red carpet"
+        }
+      ]
+    },
+    {
+      "tStartMs": 528800,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and been on set as a paleontologist\nwith filmmakers who want to,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 532880,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "you know, try to in that whole kind of,\nyou know, it's fiction, it's drama."
+        }
+      ]
+    },
+    {
+      "tStartMs": 536640,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "We've never found dinosaur DNA.\nThat's one thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 539040,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "I think that would be something that\nwould be the real kind of holy grail"
+        }
+      ]
+    },
+    {
+      "tStartMs": 541680,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "of searches\nfor evidence about dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 544320,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "It's still very much the fossil evidence\nare the jigsaw pieces of what we know."
+        }
+      ]
+    },
+    {
+      "tStartMs": 549200,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "I want to come on\nto the recent discovery."
+        }
+      ]
+    },
+    {
+      "tStartMs": 551240,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "I'm going to see\nif I can get this right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 552440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "The Enigmacursor Mollyborthwickae."
+        }
+      ]
+    },
+    {
+      "tStartMs": 555080,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "It's the new species of dinosaur\nthat was recently discovered."
+        }
+      ]
+    },
+    {
+      "tStartMs": 558200,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And that dinosaur is now on display\nat the Natural History Museum here\nin London."
+        }
+      ]
+    },
+    {
+      "tStartMs": 561920,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And this dinosaur is tiny. It's only\nabout the size of a Labrador."
+        }
+      ]
+    },
+    {
+      "tStartMs": 564840,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So, like, kind of knee height,\nfriendly dog."
+        }
+      ]
+    },
+    {
+      "tStartMs": 568160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "But it's a really\nsignificant discovery, isn't it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570440,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "Yeah, it is,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 571480,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "it's - I think it's the latest\naddition to that dinosaur display."
+        }
+      ]
+    },
+    {
+      "tStartMs": 575400,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "At the time when those huge\ndinosaurs, the kind of diplodocus,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 580520,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "those big, bus-sized beasts\nwith the huge feet"
+        }
+      ]
+    },
+    {
+      "tStartMs": 583280,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "and the long necks\nand long tails were stomping around,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585960,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and this little critter\nwas scampering around and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 589120,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and chasing its prey down\nin the sort of undergrowth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 592640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So it really builds up that picture\nof what the world looked like."
+        }
+      ]
+    },
+    {
+      "tStartMs": 596320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And I think it's really interesting\nthat, you know, maybe"
+        }
+      ]
+    },
+    {
+      "tStartMs": 599400,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "when fossil hunting,\nyou know, when paleontology began"
+        }
+      ]
+    },
+    {
+      "tStartMs": 603400,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "and when we started to build a picture\nof this realm of the dinosaurs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 607280,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "the biggest and the most impressive,\nthe most dramatic of these creatures,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 611280,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "you know, the Diplodocus,\nthe Tyrannosaurus rex,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 614560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "the real kind of iconic beasts,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 616840,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "people were really racing to find those,\nto be the people that discovered those."
+        }
+      ]
+    },
+    {
+      "tStartMs": 621240,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "And actually, some of these smaller\nlittle scampering creatures, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 625920,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "something like the smallest dinosaurs\nwere the size of little songbirds."
+        }
+      ]
+    },
+    {
+      "tStartMs": 629080,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "They were really tiny. And every\nsingle one had its place in the niche"
+        }
+      ]
+    },
+    {
+      "tStartMs": 633200,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "and kind of built a picture\nof what that whole ecosystem was like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 637760,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "for so many millions of years on Earth.\nThis"
+        }
+      ]
+    },
+    {
+      "tStartMs": 642120,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Enigmacursor Mollyborthwickae,\nit's named after someone, isn't it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 644800,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Right. Molly Borthwick, who was she?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 646960,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "And how do you get a dinosaur named\nafter you?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 649120,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "You can get a dinosaur named after you\nmultiple different ways, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 652280,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "because people who find these species\ncan make a decision\nabout what they want to call them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 656960,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So people can name dinosaurs\nafter themselves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 660080,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "They can name them\nin honour of somebody else."
+        }
+      ]
+    },
+    {
+      "tStartMs": 663960,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "There's a certain kind of pattern\nof nomenclature as well,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668320,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "with the kind of Latin names."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So the Enigma is basically"
+        }
+      ]
+    },
+    {
+      "tStartMs": 673120,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "about this particular dinosaur\nfilling in a sort of mysterious part"
+        }
+      ]
+    },
+    {
+      "tStartMs": 677720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "of that ecosystem and that puzzle\nthat they were trying to solve."
+        }
+      ]
+    },
+    {
+      "tStartMs": 680320,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "Often with these fossils,\nmoney talks as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 682280,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "There was a very generous donation\nby someone called Molly Borthwick"
+        }
+      ]
+    },
+    {
+      "tStartMs": 685160,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "to the Natural History Museum\nthat allowed them to buy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 687520,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "this beautiful,\nincredibly complete fossil."
+        }
+      ]
+    },
+    {
+      "tStartMs": 689760,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "I'd recommend looking it up online,\nbecause it is just one of those examples"
+        }
+      ]
+    },
+    {
+      "tStartMs": 693200,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "of where you can just see\nthe whole animal in skeletal form."
+        }
+      ]
+    },
+    {
+      "tStartMs": 696240,
+      "dDurationMs": 920,
+      "segs": [
+        {
+          "utf8": "It's really beautiful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 697160,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "This discovery was made\nin the western US, United States,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 700320,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "and there have been quite a few\ndifferent dinosaur fossils found there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 704120,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "But they tend to come from certain\nparts of the world, don't they?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 707120,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "A lot has happened to the\nrock formations that make up the land"
+        }
+      ]
+    },
+    {
+      "tStartMs": 710840,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "on which we live, and the rock\nformations that the dinosaurs dwelled"
+        }
+      ]
+    },
+    {
+      "tStartMs": 714040,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "on that means that there are\nonly certain parts of the world"
+        }
+      ]
+    },
+    {
+      "tStartMs": 716720,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "where those fossils are encapsulated\nand held and preserved."
+        }
+      ]
+    },
+    {
+      "tStartMs": 722040,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "So you're - essentially it's where\nsediments trap the bones of animals"
+        }
+      ]
+    },
+    {
+      "tStartMs": 727120,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "and then something happens\nto keep that sediment locked away,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 730600,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "perhaps a volcanic eruption, that means\nthat gets covered with volcanic rock."
+        }
+      ]
+    },
+    {
+      "tStartMs": 734720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "And then many,\nmany, many years later,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 737120,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "those fossilised bones,\nthey'll turn to fossils."
+        }
+      ]
+    },
+    {
+      "tStartMs": 739840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "They'll essentially turn into rock,\ninto very, very hard rock,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 743440,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "and they'll erode out of the earth\nand people will start finding fossils."
+        }
+      ]
+    },
+    {
+      "tStartMs": 747160,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So there's a couple\nof really famous formations."
+        }
+      ]
+    },
+    {
+      "tStartMs": 750040,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "The one that that - I'm going\nto say its name wrong now...."
+        }
+      ]
+    },
+    {
+      "tStartMs": 754440,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "Enigmacursor Mollyborthwickae!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 756160,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "I have learned it\nby heart for this episode."
+        }
+      ]
+    },
+    {
+      "tStartMs": 758320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Well done. So the one that\nEnigmacursor came from was actually"
+        }
+      ]
+    },
+    {
+      "tStartMs": 761920,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "from the Morrison Formation, which is\na Late Jurassic formation in the,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 766000,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "in the western US."
+        }
+      ]
+    },
+    {
+      "tStartMs": 767560,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And there's all sorts of iconic\nspecies that have come from that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 770640,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Stegosaurus,\nthat beast with the big plates"
+        }
+      ]
+    },
+    {
+      "tStartMs": 773880,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "down its back, Allosaurus,\nBrachiosaurus and Diplodocus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 777760,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And there's another formation\nin North America,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 780120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "in parts of Montana,\nNorth Dakota and South Dakota."
+        }
+      ]
+    },
+    {
+      "tStartMs": 783440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So these rocks are sort of spread\naround different states."
+        }
+      ]
+    },
+    {
+      "tStartMs": 786240,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "That's called\nthe Hell Creek Formation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 788160,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "And there's a couple of really\nfamous, really rich fossil beds"
+        }
+      ]
+    },
+    {
+      "tStartMs": 791520,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "in the Mongolian Gobi Desert\nand also in China."
+        }
+      ]
+    },
+    {
+      "tStartMs": 795640,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So Vic, how is it\nthat when we know so much,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 798120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "we're still discovering so much more\nabout dinosaurs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 801080,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "It's a combination of things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 803080,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Every tiny piece of bone is\na little addition to a puzzle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 808200,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "The bones are emerging faster\nthan we can do the really"
+        }
+      ]
+    },
+    {
+      "tStartMs": 811560,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "in-depth scientific study to figure\nout exactly what those bones are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 816040,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "Every single little fragment of bone\ncould potentially be something new."
+        }
+      ]
+    },
+    {
+      "tStartMs": 821040,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And as those are collected\nand brought into museum collections"
+        }
+      ]
+    },
+    {
+      "tStartMs": 824440,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "and kept and preserved, they might\njust sit in a drawer for many years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 828440,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "There are a lot\nof papers being published where a\nresearcher will revisit a collection"
+        }
+      ]
+    },
+    {
+      "tStartMs": 833600,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "and restudy some fossils that\nhave maybe left people a bit puzzled,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 836920,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "and they sort of didn't know\nwhether they were new."
+        }
+      ]
+    },
+    {
+      "tStartMs": 838760,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "They looked like something a bit\nstrange, and they put them away again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 841520,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "The bones are being collected faster\nthan we can do that detailed science"
+        }
+      ]
+    },
+    {
+      "tStartMs": 844680,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and every fossil needs\nto be carefully prepared and scanned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 848040,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And so I think, you know that\nthat discovery just keeps coming."
+        }
+      ]
+    },
+    {
+      "tStartMs": 851360,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So back in those Jurassic Park films,\nthe T.rex is this evil monster."
+        }
+      ]
+    },
+    {
+      "tStartMs": 855080,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "It's the species, well,\nit's got those little T.rex arms,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 857640,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "but it comes on these massive legs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 859640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and it's, you know, eats people up\nwhen they're on the toilet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 862200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "That's how I remember T.rex.\n- It's a classic scene!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 865080,
+      "dDurationMs": 1120,
+      "segs": [
+        {
+          "utf8": "Exactly, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 866200,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "Is that a realistic depiction of the\nT.rex? Was it just a brutal thug or,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 872040,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "you know, did it have\na different side?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 874880,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And what do we know about it?\nWhat do we know about how it evolved?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 877560,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So that's a really good question\nbecause because the answer to that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 880160,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "in terms of its behaviour is we can\ntake clues from its bones and about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 886400,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "how it must have eaten and preyed on\nthings and what it must have eaten."
+        }
+      ]
+    },
+    {
+      "tStartMs": 890240,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "There are teeth marks\non other dinosaurs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 893000,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "on big herbivores that lived\nat the time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 895360,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "on big plant eating dinosaurs\nthat lived at the same time of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 897840,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "T.rex that matched T.rex teeth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 900040,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "So we do know that T.rex would\nhave pounced on really large animals"
+        }
+      ]
+    },
+    {
+      "tStartMs": 904320,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "and just dug its huge teeth\ninto them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 906400,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "We know that it had\nan incredibly powerful bite force."
+        }
+      ]
+    },
+    {
+      "tStartMs": 909240,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "We can do some\nwhat they call biomechanics work,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 911920,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "looking at its jaw and the forces\nthat that jaw would have been capable"
+        }
+      ]
+    },
+    {
+      "tStartMs": 915440,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "of withstanding,\nthe strength of its teeth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 917640,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "So we do know that that all points\nto it being a very brutal hunter"
+        }
+      ]
+    },
+    {
+      "tStartMs": 922440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "in terms of its behaviour\nand what it would have hunted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 925880,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "It's not that clear\nbecause we don't, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 928560,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "social information, information about\nbehaviour doesn't really fossilise."
+        }
+      ]
+    },
+    {
+      "tStartMs": 932080,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "So it's all just kind of clues\nthat we can take from bones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 934880,
+      "dDurationMs": 1320,
+      "segs": [
+        {
+          "utf8": "We don't even know if it roared."
+        }
+      ]
+    },
+    {
+      "tStartMs": 936200,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "You know, that kind of that really\nclassic sort of screeching roar"
+        }
+      ]
+    },
+    {
+      "tStartMs": 939880,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "that was created for the T.rex in the\nin the Jurassic Park movies?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 943320,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "We don't know if that's the noise\nit would have made at all, because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 945520,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "we haven't been able, you know,\nthere's no recordings of it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 948240,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and we haven't been able to see some\nof the soft tissue inside its body"
+        }
+      ]
+    },
+    {
+      "tStartMs": 952080,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "that would have produced those sounds.\nWhat is it that humans can gain?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 955520,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "What's the real value\nfrom studying dinosaurs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 960320,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "Fundamentally, it's a study\nof how life evolves on our planet,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 965360,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "how that depends\non the environment that surrounds it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 968800,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "You know the story of the dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 971440,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "The story of the different extinctions\non our planet tell us a lot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 975640,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "about the life support mechanisms on\nEarth that make our lives possible,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 980080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and how through history,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 982520,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "that the life that this planet\nhas supported has changed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 985560,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "We can't talk about the dinosaurs\nwithout talking about extinction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 988720,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "The big asteroid."
+        }
+      ]
+    },
+    {
+      "tStartMs": 990240,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "And it feels some of the conversations\nabout climate change today have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 996560,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "that same fear, talk about the end\nof humanity and extinction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1000720,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "The event that wiped out the\ndinosaurs was such a hugely dramatic"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1005280,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "and, you know,\nhopefully one-off event,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1007680,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "this asteroid impact, this\nabsolutely massive asteroid impact."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1010960,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And, you know, I should say that\nit's something that's an active area"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1014360,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "of science at the moment, is looking\nout for anything that could be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1018480,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "on a collision course with Earth\nfrom space, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1021360,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "anything that's much smaller than\n12km across - 12km is a huge size"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1025760,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "of an asteroid, and\nthere's nothing on a collision course"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1028280,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "at the moment\nthat we should be aware of."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1030360,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "That hopefully will put\nsome some listeners minds at ease."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1033560,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "But yeah, I think this is -\nit's such an incredible story"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1038640,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "of how these absolutely\ndominant animals that ruled the Earth"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1044480,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "for 160 million years,\nyou know, we are a blip."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1048720,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Humans are an absolute blip\nin a time scale"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1051120,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "compared to the reign\nof the dinosaurs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1054040,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So you know\nhow just something can be,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1056920,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "how something can happen that can\nwipe out such a dominating species."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1061440,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Maybe that could give us a little bit\nmore of a sense of humility"
+        }
+      ]
+    },
+    {
+      "tStartMs": 1065240,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "and our dependence on the kind of\nlife support system of this planet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1069600,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Vic, thank you so much for joining\nus. It's been a pleasure, as always."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1072120,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Thank you.\nYeah, it's my pleasure. Any time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1074720,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "And that's it for today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1075760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "I hope you enjoyed this episode\nof What in the World."
+        }
+      ]
+    },
+    {
+      "tStartMs": 1078240,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart.\nI'll see you next time."
+        }
+      ]
+    }
+  ]
+}

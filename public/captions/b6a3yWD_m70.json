@@ -1,0 +1,2219 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 240,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Ooh.\nThat is a lot."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2760,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "I'm so sorry. Okay.\nWe blend, we blend."
+        }
+      ]
+    },
+    {
+      "tStartMs": 7240,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Oh, that is a lot.\nYeah, I think that's enough."
+        }
+      ]
+    },
+    {
+      "tStartMs": 10320,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Blend it with your finger."
+        }
+      ]
+    },
+    {
+      "tStartMs": 13440,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Oh my God. I don't know\nhow it is working out for me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19360,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Finding the right shade of make-up\ncan be a struggle,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 22080,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "especially if you have\nreally fair or dark skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "But things are changing,\nand some brands are using"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "new AI skin matching tech\nto be more inclusive."
+        }
+      ]
+    },
+    {
+      "tStartMs": 31400,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So will we ever get to a point where\neveryone can find their perfect match?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35480,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "That's what we're exploring today\non What in the World"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "from the BBC World Service,\nI'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 44400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So we've taken our extra blusher off,\nwe're back in the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 47600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Soo, how do you match your make-up\nto your skin tone?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 50560,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "I guess I look at both like\nundertones and overtones of my skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 55560,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "When it comes to, like, picking\ncolours for foundation and blushes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 59560,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Back when I was in Korea, I did\nthis personal colour testing where"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63440,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "like a professional colour analyst\nwill basically put those coloured drapes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68520,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "underneath your bare face\nto kind of find the optimal colour"
+        }
+      ]
+    },
+    {
+      "tStartMs": 73640,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "that would brighten\nyour natural complexion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 76880,
+      "dDurationMs": 6040,
+      "segs": [
+        {
+          "utf8": "So I found out that I have this cool\nundertone with pinky hues underneath."
+        }
+      ]
+    },
+    {
+      "tStartMs": 82920,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So like anything\nthat's cool toned foundation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86640,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "with pink or rosy blushes\nwould work well on me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 91000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Talk me through\nhow colour matching actually works."
+        }
+      ]
+    },
+    {
+      "tStartMs": 93040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "You mentioned overtones. Undertones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 95800,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So overtone is basically\nthe surface colour of your skin,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 99720,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and undertone is the subtle colour"
+        }
+      ]
+    },
+    {
+      "tStartMs": 102320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "that's underneath\nyour overall skin tone."
+        }
+      ]
+    },
+    {
+      "tStartMs": 105400,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "That wouldn't change. So there are\nthree different undertones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 110080,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "There's warm undertone,\ncool undertone,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113040,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "and something called neutral\nwhich could pull out both colours."
+        }
+      ]
+    },
+    {
+      "tStartMs": 117400,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "So warm undertone would have this\ngolden yellowish undertone colours"
+        }
+      ]
+    },
+    {
+      "tStartMs": 122960,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "and cool tones more of pink, purple,\nbluish undertone colours."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129440,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And we spoke\nto some beauty influencers about\ntheir experience of colour matching."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133320,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Challenging.\nDifficult to say the least."
+        }
+      ]
+    },
+    {
+      "tStartMs": 136640,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "I think there's a wide variety of,\nyou know, fair complexion products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 140200,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "None of them are made light enough\nto match my complexion"
+        }
+      ]
+    },
+    {
+      "tStartMs": 144840,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "and a lot of them are often too warm.\nThey're not, you know, cool toned."
+        }
+      ]
+    },
+    {
+      "tStartMs": 148960,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So for anybody with, like,\na cool undertone,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 151200,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "it is a little bit more challenging\nto find a product. They exist."
+        }
+      ]
+    },
+    {
+      "tStartMs": 154640,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "They're just hard to come by and\nthey're usually quite pricey."
+        }
+      ]
+    },
+    {
+      "tStartMs": 158920,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "I struggled to find products"
+        }
+      ]
+    },
+    {
+      "tStartMs": 161000,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "in my adolescence that would work\nfor my skin tone,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163080,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "but in recent years, I've been able\nto shop in places that I've"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168120,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "traditionally never really been able\nto shop in before or find a product in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 172520,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "When I was younger, I didn't even\nbother because a lot of the time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 176480,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "you know, I was going\nfor the drugstore make-up brands."
+        }
+      ]
+    },
+    {
+      "tStartMs": 179640,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "They didn't have my shade whatsoever."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182080,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Like, it's not even\nlike they didn't have it in stock."
+        }
+      ]
+    },
+    {
+      "tStartMs": 184840,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "A lot of the time it didn't go\npast a certain shade."
+        }
+      ]
+    },
+    {
+      "tStartMs": 188480,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "And you know,\nI struggled a lot with that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 191160,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "So I just didn't really end up\nshopping for them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 194280,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "We're in the age of social media now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 197000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "If a brand brings out\na bad shade range,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200040,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "they get called out.\nThere's repercussions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 202440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Less people buy from them.\nYou know, there's bad press."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205320,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Whereas back in the day, there\nwasn't really that much of that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208720,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Absolutely, brands have changed.\nYou know, when a new brand launched"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211640,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and they launched with 50 shades,\nI think that was groundbreaking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 215560,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "because it triggered\nso many other brands to like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219640,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "look internally and think, 'we should\nhave been doing that the whole time'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 223640,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "And again with social media, because\npeople were getting called up on it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228280,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "it, you know, evoked a lot\nof brands to make the right decision"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232920,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and do what they should\nhave been doing this whole time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "It's changed massively.\nLike, I can definitely find my shade"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "I don't ever have a problem\nwith any brand really,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 241520,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "finding my right foundation shade."
+        }
+      ]
+    },
+    {
+      "tStartMs": 243760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "However, the undertone is the issue,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 246640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "especially when it gets to like brown\nand black skin,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249280,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "they're either too orange or too red."
+        }
+      ]
+    },
+    {
+      "tStartMs": 251400,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "And here is Adam Triantis.\nHe's a cosmetic scientist and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 255600,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "he's also the co-founder\nof the make-up brand Dcypher."
+        }
+      ]
+    },
+    {
+      "tStartMs": 258720,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "We asked him why some make-up brands\ndon't have wider ranges."
+        }
+      ]
+    },
+    {
+      "tStartMs": 262360,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Traditional make-up brands\nwill typically have a target consumer"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265600,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "in mind when\nthey're creating a range,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268400,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "and this will determine\nwhat formulas they want to create"
+        }
+      ]
+    },
+    {
+      "tStartMs": 272200,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "and what shade range\nthey're going to have."
+        }
+      ]
+    },
+    {
+      "tStartMs": 274680,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "In the past, this would lead\nsome brands to have 15-20 shades,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 279880,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "of which there maybe be\none or two darker shades."
+        }
+      ]
+    },
+    {
+      "tStartMs": 283760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Brands can\nno longer really get away with this"
+        }
+      ]
+    },
+    {
+      "tStartMs": 285840,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "due to, you know,\ndiversity and inclusion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 288880,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "There is always this distinct variance\nbetween brands with kind of huge tone"
+        }
+      ]
+    },
+    {
+      "tStartMs": 293520,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "ranges and some with relatively few."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297400,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And in the end this comes down\nto economics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 301800,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "If you imagine\nthat you have 50 shades,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 304400,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "then you are\nin the hundreds of thousands"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308160,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "to possibly millions of units\nand this makes it very difficult"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311920,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and very risky\nto both launch a foundation brand,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 315840,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "but also to\nto reformulate it and get it stocked."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319560,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Because if\nit doesn't work as you planned,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323920,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "you end up\nwith a huge amount of stock."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326800,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "Soo I want to talk a bit about\nK-beauty. Korean cosmetics."
+        }
+      ]
+    },
+    {
+      "tStartMs": 330200,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "Because you're from Korea."
+        }
+      ]
+    },
+    {
+      "tStartMs": 331560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "K-beauty is everywhere.\nEveryone seems to love it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 333680,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "People doing review videos all over\nTikTok, but it has come under fire"
+        }
+      ]
+    },
+    {
+      "tStartMs": 337320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "for not having\nparticularly diverse shade ranges."
+        }
+      ]
+    },
+    {
+      "tStartMs": 340560,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "What's your experience of\nK-beauty been like?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 344760,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "I mean, growing up in South Korea,\nwhere taking care of your skin is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 348080,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "sort of ingrained in the culture. It\nhas been part of me since I was young."
+        }
+      ]
+    },
+    {
+      "tStartMs": 352080,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "You'll constantly see\nthose new products with new formulas"
+        }
+      ]
+    },
+    {
+      "tStartMs": 354960,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "and with new ingredients and people\ntesting them out and reviewing them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359320,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So I've been pretty experimental when\nit comes to like, new beauty products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363240,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Whenever there's a new trend pops up,\nI'd like to try them out for myself"
+        }
+      ]
+    },
+    {
+      "tStartMs": 367400,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "and see how it works on my skin and, you\nknow, to understand why it's popular."
+        }
+      ]
+    },
+    {
+      "tStartMs": 372440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "But it wasn't until recently\nthat I realised"
+        }
+      ]
+    },
+    {
+      "tStartMs": 374960,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "just how limited colour options\nwe have in Korean beauty brands."
+        }
+      ]
+    },
+    {
+      "tStartMs": 379880,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "To put things into perspective,\nKorea isn't really a diverse country."
+        }
+      ]
+    },
+    {
+      "tStartMs": 384520,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "I know the number of foreign\nresidents is growing at the moment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 388280,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "but it only makes up\nabout 5.2% of the total population."
+        }
+      ]
+    },
+    {
+      "tStartMs": 393120,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So historically, Korean beauty brands\nhas been catering"
+        }
+      ]
+    },
+    {
+      "tStartMs": 395960,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "to the local dominant market, which\nis why there are just limited colours"
+        }
+      ]
+    },
+    {
+      "tStartMs": 401400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "for the dominant group of consumers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 404160,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "That is now changing because\nK-beauty products are being exported\nall over the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 408800,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "There are growing markets\nin lots of different places."
+        }
+      ]
+    },
+    {
+      "tStartMs": 412080,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "What is it about\nKorean beauty products that make"
+        }
+      ]
+    },
+    {
+      "tStartMs": 414400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "them so popular\noutside of South Korea?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 417200,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "I think a lot of it comes\nfrom the Korean wave."
+        }
+      ]
+    },
+    {
+      "tStartMs": 421440,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Korean dramas, K-pop, Korean films."
+        }
+      ]
+    },
+    {
+      "tStartMs": 424680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "A lot of the users\nand influencers that I've interviewed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 427520,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "in different countries, they've\nmentioned that they first came"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429920,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "across Korean beauty products\nthrough those Korean content."
+        }
+      ]
+    },
+    {
+      "tStartMs": 434320,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "They see their favourite idols\nand actors with glowing, healthy skin"
+        }
+      ]
+    },
+    {
+      "tStartMs": 438320,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "on screen and mentioning certain\nproducts in their skincare routine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 442400,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "They became curious about Korean beauty\nproducts and wanted to try them out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 447800,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And they've also mentioned\nthe reasonable price"
+        }
+      ]
+    },
+    {
+      "tStartMs": 450440,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "and high quality of these products\nworked out for them as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 454600,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "And comparing the prices to these global\nWestern brands and right now, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 460360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "with more global recognition\nof Korean brands,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 462520,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "you see those brands doing pop-up\nstores in different global cities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466760,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "And these big global retailers like\nSephora carrying Korean products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 470880,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "it has become a lot more accessible\nin general."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473560,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Soo, what kind of numbers do we have\nfor the industry?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 476200,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So according to the Korea Health\nIndustry Development Institute,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 479960,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "right now, the domestic market\nis valued at around over $11 billion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485000,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "But if you look at exports,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 487840,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "South Korea has become a key player\nin the global market."
+        }
+      ]
+    },
+    {
+      "tStartMs": 491040,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So in 2023,\nSouth Korea was"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493960,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "the second largest cosmetic exporter,\nright behind France."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498760,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "And a more exciting update is that\nfor the first time ever,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502760,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Korean cosmetic exports surpassed\n$10 billion in 2024,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "just last year, which is\na 20% increase from a previous year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 510760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So the global market is nearly as big\nas the domestic market now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 513960,
+      "dDurationMs": 800,
+      "segs": [
+        {
+          "utf8": "Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 514760,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Soo, what are some of the biggest\nmarkets globally for K-beauty products?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 518720,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "So right now the biggest market\nfor Korean cosmetics is China,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 522760,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "with over $2 billion in exports."
+        }
+      ]
+    },
+    {
+      "tStartMs": 526320,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And the second biggest market is\nthe United States,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 529080,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "with just a little over $1.24 billion\nin exports in 2024."
+        }
+      ]
+    },
+    {
+      "tStartMs": 533480,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And which are some of the kind\nof growing upcoming markets?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 536200,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Yeah, it's interesting how\nthat will shift in the coming years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 539160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "because right now\nwe're seeing an increase"
+        }
+      ]
+    },
+    {
+      "tStartMs": 541600,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "in exports\nfrom the countries in the Middle East"
+        }
+      ]
+    },
+    {
+      "tStartMs": 544320,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "and some of the emerging markets,\nin South East Asia and Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 547760,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Gloria Achieng is a BBC reporter\nin Nairobi and she sent us this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 551840,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So Korean culture is\nquite big in Kenya."
+        }
+      ]
+    },
+    {
+      "tStartMs": 554440,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "We are seeing a lot of women\nusing Korean skincare products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 557640,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Even when you go to these cosmetic shops\nnowadays, you have to find a corner"
+        }
+      ]
+    },
+    {
+      "tStartMs": 561800,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "that is definitely selling\nKorean skincare products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 564800,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "We also have Korean shops where people\ncan get Korean snacks, Korean alcohol,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 569640,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "and we also have a K-drama fan base\nwhere people watch Korean drama"
+        }
+      ]
+    },
+    {
+      "tStartMs": 574480,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "and they even review\nthis drama online."
+        }
+      ]
+    },
+    {
+      "tStartMs": 576600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So I think\nKorean culture is quite big here,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 579600,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "and it's definitely, definitely\ngaining a lot of popularity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 584480,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "You find that a lot of cosmetic\ncompanies are now using social media"
+        }
+      ]
+    },
+    {
+      "tStartMs": 587760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "to market these products,\nand they're working with people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 590240,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "like African influencers who are\nusing these products on African skin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 594880,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "And of course, when an\nAfrican influencer is using a product"
+        }
+      ]
+    },
+    {
+      "tStartMs": 598360,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "on skin that looks like yours,\nas an African woman,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 602000,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "you tend to believe them more\nbecause they look like you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607240,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "As the number of markets grows,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 609720,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Korean beauty is of course\nhaving to adapt its products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 612280,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "What are some\nof the ways that they're changing?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 614880,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So a lot of the companies are launching\ntheir new darker shade range."
+        }
+      ]
+    },
+    {
+      "tStartMs": 619760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "New darker foundations and blushes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 622840,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "for darker skin tones and even the\nlip products for darker skin tones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 626560,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "I've spoke with Kolmar Korea,\nwhich is a ODM company,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 630560,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "original design manufacturer,\nthat carries product"
+        }
+      ]
+    },
+    {
+      "tStartMs": 634400,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "for over 3,700 Korean brands."
+        }
+      ]
+    },
+    {
+      "tStartMs": 639040,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "And they mentioned about 20%\nof their clients, Korean brands,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 645200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "have requested them to develop\nproducts for darker skin tones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 648120,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "So they've been running\nthis in-depth, long-term,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 651680,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "colour research,\njust to develop the right formulas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 655560,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So they brought in these focus groups\nfrom Africa, the Americas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 660000,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "the Pacific and other regions to run\nthis real colour matching test."
+        }
+      ]
+    },
+    {
+      "tStartMs": 663680,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "What did they find in this research?\nAre they going to change the formulas?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 667560,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So they found this key issue\nduring their research."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670960,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Titanium Dioxide, which is\nan ingredient that's commonly used"
+        }
+      ]
+    },
+    {
+      "tStartMs": 674400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "for Korean cushion foundation\nthat has a white pigment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677600,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "It doesn't really work\nfor darker skin tones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 681560,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "So while it has this nice coverage,\nsmooth finish, on lighter skin tones,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 687440,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "it creates rather a dull,\nashy look on darker skin tones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691320,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So they had to completely reformulate\ntheir cushion foundation formula."
+        }
+      ]
+    },
+    {
+      "tStartMs": 695520,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "And also they realised\nthat darker skin tone has"
+        }
+      ]
+    },
+    {
+      "tStartMs": 698520,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "a wider colour spectrum\nthat they have to cover,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 701520,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "which means they have to make a lot more\ncolours than for lighter skin tones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 708000,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So one of the benefits\nof cushion foundation is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 710880,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "that one colour often adapts to multiple\nskin tones within a close range,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 717920,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "but for darker skin tones, they found\nout it doesn't really work out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 721560,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "They actually had\nto make various colour tones"
+        }
+      ]
+    },
+    {
+      "tStartMs": 725000,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "in order to match with darker\nskin tones in a wider spectrum."
+        }
+      ]
+    },
+    {
+      "tStartMs": 729360,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "I do think K-beauty could be\nwhat the market needs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 732440,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "A lot of the time they will cater\nto the population that are in Korea,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 737640,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "so obviously that means\ntheir shade ranges will cater to like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 743280,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "a paler person, a paler complexion."
+        }
+      ]
+    },
+    {
+      "tStartMs": 746880,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "And while I can see why that is,\nobviously, as they're marketing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 751600,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "towards the more like Western markets,\nthat shade range does need to change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 756960,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And I have seen\na lot of K-beauty brands"
+        }
+      ]
+    },
+    {
+      "tStartMs": 759680,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "really expanding their shades\nand sometimes better."
+        }
+      ]
+    },
+    {
+      "tStartMs": 762600,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Like sometimes they get\nthe actual undertones correct,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 765960,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "but then sometimes they\ncan either put too much black pigment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 768960,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "in their foundations,\nthings like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 771320,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So it does have a way to go.\nConsumers are having"
+        }
+      ]
+    },
+    {
+      "tStartMs": 774480,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "a lot more discussion about\ninclusivity in the beauty space."
+        }
+      ]
+    },
+    {
+      "tStartMs": 777360,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "And ultimately, I think brands need\nto align their values"
+        }
+      ]
+    },
+    {
+      "tStartMs": 782200,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "with their consumers values."
+        }
+      ]
+    },
+    {
+      "tStartMs": 784240,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And I think if K-beauty is meeting\nthat need, then incredible, amazing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 788200,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "But I think that ultimately\nany brand who has those shared values"
+        }
+      ]
+    },
+    {
+      "tStartMs": 792840,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "and who is putting those values into\npractice, could meet that market need."
+        }
+      ]
+    },
+    {
+      "tStartMs": 797160,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Adam from Dcypher,\nwho we heard from earlier,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 799280,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "mentioned how a lot of the reason\nthat there hasn't been diversity"
+        }
+      ]
+    },
+    {
+      "tStartMs": 802760,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "historically is because of\nthe financial limitations, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 806960,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And it would cost more to formulate so\nmany different types and shade ranges."
+        }
+      ]
+    },
+    {
+      "tStartMs": 811720,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And he and Dcypher have come up\nwith a solution."
+        }
+      ]
+    },
+    {
+      "tStartMs": 814920,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "So let's hear from him now talking\nabout how they use AI for\non demand colour matching."
+        }
+      ]
+    },
+    {
+      "tStartMs": 820240,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "We don't really have\ncompletely set formulas,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 824440,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "and we don't have a set shade range."
+        }
+      ]
+    },
+    {
+      "tStartMs": 828600,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "So essentially when a consumer comes to\nour website, we ask them some questions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 836200,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "and then we scan their skin tone\nusing a AI computer vision model"
+        }
+      ]
+    },
+    {
+      "tStartMs": 841360,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and create a recipe from scratch,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 843560,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "thinking about what are the exact\npercentages of pigment of white,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 848160,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "black, yellow,\nred - different pigments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 851360,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "What other ingredients need to\nbe included? What level of coverage?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 855040,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "How the finish\nand how that might affect the colour."
+        }
+      ]
+    },
+    {
+      "tStartMs": 857720,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And then those are mixed together and\nwe send them to the customer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 862160,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "So maybe that's the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 863400,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Maybe more companies will be\nmore agile and use things like AI"
+        }
+      ]
+    },
+    {
+      "tStartMs": 866880,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "to make more on demand products\nto match their customers needs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 870880,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And of course, we can't talk\nabout the diversity in skincare"
+        }
+      ]
+    },
+    {
+      "tStartMs": 874080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "without mentioning brands like Fenty,\nwhich was one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 876600,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "of the first to have shade ranges\nfor multiple skin tones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 880720,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Now lots of others\nare following suit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 882760,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Thank you so much\nfor coming onto the podcast Soo."
+        }
+      ]
+    },
+    {
+      "tStartMs": 885080,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Thank you for having me, Hannah.\nAnd thank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 887640,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "This is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 889920,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart\nand we'll see you next time."
+        }
+      ]
+    }
+  ]
+}

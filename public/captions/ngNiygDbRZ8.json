@@ -1,0 +1,1058 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 160,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "I’m Justin Rowlatt, the BBC’s climate editor \nand I’m going to be explaining how heat pumps,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 5680,
+      "dDurationMs": 10640,
+      "segs": [
+        {
+          "utf8": "and fridges and air conditioners, really work.\n \nThis is a heat pump and it does something that  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 16320,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "appears miraculous. For every unit of energy \nyou put in here, you can get as much three,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 22560,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "maybe even four units of heat out which makes it \nthree hundred, four hundred per cent efficient.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 29120,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "Now you are thinking how is that even \npossible – that’s why I am here to explain. \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 34480,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Now if you’re thinking a heat pump looks a \nbit like an air conditioner that’s because  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 38000,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "it is. Heat pumps, air conditioners, fridges \nand freezers all do the same thing - they  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 43680,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "move the heat from one place to another.\n \nThere’s nothing new about the technology. It  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 49360,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "has been around for years. The first fridge was \ninvested by this man, Jacob Perkins, a British  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 55200,
+      "dDurationMs": 8720,
+      "segs": [
+        {
+          "utf8": "settler in the US, almost 200 years ago (1834).\nSo how do heat pumps do it? You may have heard  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 63920,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "people say they work like a fridge in reverse but \nbe honest with me, you don’t know how a fridge  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 70960,
+      "dDurationMs": 8320,
+      "segs": [
+        {
+          "utf8": "actually works do you? So here’s the science bit.\nBuckle up because University College London have  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 79280,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "given me access to their fabulous laboratories \nto take you on a journey into some of the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 85360,
+      "dDurationMs": 7680,
+      "segs": [
+        {
+          "utf8": "weirder properties of matter and some of the \nfundamental laws of the universe as we dive into  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 93040,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "the science of the heat pump.\n \n \nAnd to get things started,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 99440,
+      "dDurationMs": 7200,
+      "segs": [
+        {
+          "utf8": "let’s look under the hood…\n \nLooks pretty complicated, doesn’t  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 106640,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "it? But it’s actually quite simple when you know \nhow it works. All you need to know at the moment  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 111440,
+      "dDurationMs": 8240,
+      "segs": [
+        {
+          "utf8": "is this network of pipes is all sealed up and it \ncontains a magic fluid called a refrigerant. The  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 119680,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "refrigerant is key to how the whole thing works.\n \nNow, back to the fundamental  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 126400,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "laws of the universe.\n \nHeat pumps rely on the second  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 130320,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "law of thermodynamics to operate. That decrees \nthat heat always flows from something hot like  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 135600,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "me to something cooler like the air all around \nme. It’s why your coffee gets cold and why ice  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 142720,
+      "dDurationMs": 8160,
+      "segs": [
+        {
+          "utf8": "melts. Heat pumps use this law to move energy, \nmove heat from the outside into your home.  \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 150880,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "They can do it even when the air is \nliterally freezing outside – sub-zero.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 156080,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "And they do it so effectively because they \nexploit a very peculiar quality of matter,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 161120,
+      "dDurationMs": 6880,
+      "segs": [
+        {
+          "utf8": "something that happens at what is known as \nthe phase change. So, what is a phase change.\n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 168000,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "What is a phase change?\n \nA phase change is when matter  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 170000,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "changes state so it goes from solid to liquid, \nliquid to gas – or the back the other way again.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 175520,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "Something weird happens to materials during a \nphase change – energy you put in stops heating  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 181520,
+      "dDurationMs": 6640,
+      "segs": [
+        {
+          "utf8": "them up. Or more precisely the energy you put \nin stops making them hotter and goes into making  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 188160,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "phase change happen. What do I mean by that? \n \nLet’s take a kettle and fill it up with water.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 195520,
+      "dDurationMs": 9840,
+      "segs": [
+        {
+          "utf8": "So when your kettle is boiling away, energy is \ngoing into breaking the bonds that hold the water  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 205360,
+      "dDurationMs": 7680,
+      "segs": [
+        {
+          "utf8": "in a watery state. It’s not getting any hotter but \nit’s got whole lot more energy in it. That energy,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 213040,
+      "dDurationMs": 8720,
+      "segs": [
+        {
+          "utf8": "that stored energy is known as latent heat.  \n \nMaterials can store a lot of latent heat as they  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 221760,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "go through a phase change. And it’s all that \nenergy stashed away that heat pumps use.\n \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 227040,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "So we have seen how much energy it takes to boil \nwater but lots of other materials turn into gases  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 234400,
+      "dDurationMs": 7920,
+      "segs": [
+        {
+          "utf8": "at a much lower temperature. Like this stuff – \nthis is dry ice. This is frozen carbon dioxide.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 242320,
+      "dDurationMs": 13760,
+      "segs": [
+        {
+          "utf8": "Look at this. Put them in here…wow. So dry ice \nturns into gas, into carbon dioxide at -78C. You  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 256080,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "can see it turning into a gas before our eyes.\n \nWhy do these materials like dry ice turn into  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 263680,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "gas at such low temperatures? Because the bonds \nbetween the molecules are much weaker. With water,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 270160,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "the bonds are much stronger – which \nmeans the boiling point is much higher.\n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 275760,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "Heat pumps use all sorts of materials as \nrefrigerants. Some use materials called  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 280640,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "HFCs. Back in the old days – they used \nCFCs. But both of those are quite damaging  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 286240,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "to the atmosphere so increasingly they are \nusing more commonplace materials – natural  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 291760,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "refrigerants. Some use propane. \n \n \nSome use carbon dioxide. I’m going to demonstrate  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 298800,
+      "dDurationMs": 8960,
+      "segs": [
+        {
+          "utf8": "using butane in this can – which is very similar \nto propane. And I got a thermometer here to show  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 307760,
+      "dDurationMs": 9360,
+      "segs": [
+        {
+          "utf8": "you something rather special. Butane is a liquid \nin a can. But its boiling point is -36C. Release  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 317120,
+      "dDurationMs": 11040,
+      "segs": [
+        {
+          "utf8": "it from the can. Get it boiling. And you can see \nthe temperature goes down, in fact, to -40. \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 328160,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "So think about it. There is a load of heat even \non a very cold day, even when it’s sub zero,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 333920,
+      "dDurationMs": 7440,
+      "segs": [
+        {
+          "utf8": "to get the liquid boiling to draw in \nall that energy, all that heat. \n \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 341360,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "Let’s take a closer look at our heat pump. Now \nthis bit down here… This is the “evaporator”.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 346880,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "That’s where the refrigerant is sprayed \nout into the network of pipes at the back.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 352000,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "So it’s -36C when it’s released, you remember. \n \nTake a look over here. You got a fan. What a fan  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 358400,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "does is to move the air over the pipe giving \nit lots of opportunity to do what the second  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 364320,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "law of thermodynamics says it wants to do and \nmove from warm to cold. It’s warming up the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 369680,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "refrigerant and turning it into gas. And if you \nfollow the pipe – with the refrigerant now a gas  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 374160,
+      "dDurationMs": 7280,
+      "segs": [
+        {
+          "utf8": "with its molecules all bouncing energetically \naround. It moved down to this bit, the pump bit  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 381440,
+      "dDurationMs": 8720,
+      "segs": [
+        {
+          "utf8": "of a heat pump. This is the compressor. It does \nwhat the name suggests and compresses the gas.\n \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 390160,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "What happens when you put our refrigerant \nunder pressure? You’ve probably experienced  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 394400,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "something similar when you pump up the tyres \non a bike. Your pump gets hot, doesn’t it?  \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 399200,
+      "dDurationMs": 1200,
+      "segs": [
+        {
+          "utf8": "(\n \nWe can demonstrate  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 400400,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "that with this. We got a tiny bit of cotton \nwool at the bottom. And effectively what we  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 406400,
+      "dDurationMs": 11440,
+      "segs": [
+        {
+          "utf8": "got here is a piston. I put that in there…. Like \nthat. Lights off please, Miho. And look at this. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 422160,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "What is happening here. When you push down the \npiston and it concentrates the air in here. The  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 428720,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "molecules get closer together, don’t they. They \nare interacting more and are bumping against each  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 433120,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "other more. That raises the temperature.  \n \nAnd the pump in the heat pump does the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 437680,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "same thing. It raises the temperature of the \nrefrigerant releasing the heat that it’s harvested  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 444720,
+      "dDurationMs": 9920,
+      "segs": [
+        {
+          "utf8": "from outside. Now the challenges to get that \nheat from the refrigerant into your home.  \n \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 455200,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "And that is done by this bit of the heat pump. \nThis is the condenser. So the hot refrigerant in  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 462320,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "this pipe passes through another pipe that \ncontains the cold water from your heating  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 467680,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "system. Quiz time - what does the second law \nof thermodynamics decree will happen? Yes, the  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 474080,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "heat from the refrigerant passes into your heating \nsystem giving you a warm home or a hot shower.  \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 481200,
+      "dDurationMs": 7200,
+      "segs": [
+        {
+          "utf8": "Which sounds like the end of the story, doesn’t \nit. Except I’ve missed out one crucial property  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 488400,
+      "dDurationMs": 8320,
+      "segs": [
+        {
+          "utf8": "of matter these clever machines exploit.\n \nThis last property relies on the fact that  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 496720,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "the boiling point is not just \nabout the temperature.  \n \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 500000,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Let me show you. So you got a flask full of \nwater here. I got a pump which I’m turning  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 504320,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "on. The pump is going to suck the air out of \nthe flask. We are going to see what happens  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 509040,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "to the water which is at a room temperature. As \nI release the valve….. sucking the air out of  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 515360,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "the vessel. Look at that. It begins to boil. \n \nSo what’s happening. If you think about it. In  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 521760,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "the atmosphere above us, there are loads of \nmolecules stuck on top of each other pressing  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 526800,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "down on the pan of water. Lift away those \nmolecules and create a vacuum as I have here,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 532480,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "and it begins to boil much more easily. I \ncan check the temperature. And it is 18C.  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 540960,
+      "dDurationMs": 9680,
+      "segs": [
+        {
+          "utf8": "So it is basically room temperature. \n \n \nWe can experience this without creating  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 550640,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "a vacuum. Picture Sir Edmund Hillary and Sherpa \nTensing up on the top of Mount Everest. They stop  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 555760,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "to make a cuppa. They put a pan on the gas stove \nbut, because the pressure is so much lower on top  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 561520,
+      "dDurationMs": 8160,
+      "segs": [
+        {
+          "utf8": "of the Everest, the water doesn’t boil at 100C but \nat more like 68C which gives them a problem.  \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 569680,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "That isn’t hot enough to draw the flavour \nfrom the tea. The water needs to be more  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 574480,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "than 90C to do that. But they do have one \nadvantage though. It means they can drink  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 579440,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "their tea straight from the pan because \nwe normally drink tea at about 65C. \n \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 586480,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Now let’s look at the other side. Let’s \nlook at, instead of lowering the pressure,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 590000,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "raising the pressure and what happens then. I \nhave here a pressure cooker. What the pressure  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 595760,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "cooker does, as the name suggests… is as water \nboils it traps the water vapour and it pushes  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 602160,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "down on the liquid making it harder for it to \nboil and raises the boiling point. We can see  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 607200,
+      "dDurationMs": 7600,
+      "segs": [
+        {
+          "utf8": "the pressure here. You can also see that \nthe temperature is higher than the normal  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 614800,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "boiling point. So it is 114C. Instead \nof the 100C. That’s why the extra heat,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 621840,
+      "dDurationMs": 8080,
+      "segs": [
+        {
+          "utf8": "that’s why your food cooks more quickly in a \npressure cooker. And it also uses less energy.  \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 629920,
+      "dDurationMs": 4683,
+      "segs": [
+        {
+          "utf8": "So why is pressure so important. \nLet’s go back to the butane. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 634603,
+      "dDurationMs": 2437,
+      "segs": [
+        {
+          "utf8": "Remember it is liquid under pressure at  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 637040,
+      "dDurationMs": 1757,
+      "segs": [
+        {
+          "utf8": "room temperature. Spray it out…"
+        }
+      ]
+    },
+    {
+      "tStartMs": 638797,
+      "dDurationMs": 7203,
+      "segs": [
+        {
+          "utf8": "It gets very cold, expands and draws in heat. \nThat gas now full of latent heat goes into a  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 646000,
+      "dDurationMs": 6880,
+      "segs": [
+        {
+          "utf8": "compressor . It’s pressed down and the temperature \nraises. We put it in the condenser. The  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 652880,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "refrigerant releases its heat into your water into \nyour heating system so now it’s cooler. And it’s  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 658880,
+      "dDurationMs": 10160,
+      "segs": [
+        {
+          "utf8": "also under pressure. And it becomes liquid. There \nis one more process you need to know about. \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 669040,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "The last bit of that heat pump we need to \nknow about is the expansion valve. It’s  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 675360,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "somewhere in here. I don’t know where it is. \nTo be honest, it really doesn’t matter. It  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 678800,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "does what its name suggests. It expands and \neases the pressure off allowing the liquid to  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 684560,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "expand. We know what happens when we release the \npressure. It gives molecules more room to move,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 690000,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "doesn’t its it. They bump into each other \nless and they cool down. Now we have cool  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 694880,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "liquid refrigerants ready to go back into the \nevaporator and start the whole process again. \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 702240,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "Evaporating… Collecting the heat from the air… \nConcentrating it in the pump. Releasing it into  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 708000,
+      "dDurationMs": 7240,
+      "segs": [
+        {
+          "utf8": "the hot water in the system giving you a warm \nhome or a hot shower. BINGO a heat pump.  \n "
+        }
+      ]
+    },
+    {
+      "tStartMs": 715240,
+      "dDurationMs": 7640,
+      "segs": [
+        {
+          "utf8": "And all super-efficient. Remember one unit of \nenergy in, three, four, some modern heat pumps,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 722880,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "five units of heat out. And fridges and \nair conditioners? They work in reverse,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 729200,
+      "dDurationMs": 7520,
+      "segs": [
+        {
+          "utf8": "don’t they – they take heat out of \na space and moving it outside. \n  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 736720,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So now you know how heat pumps, fridges,  "
+        }
+      ]
+    },
+    {
+      "tStartMs": 740560,
+      "dDurationMs": 5392,
+      "segs": [
+        {
+          "utf8": "freezers and air conditioners all \nwork. Feel free to share the good news!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1003 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 160,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Hey, it's Hannah here.\nWelcome back to What in the World,"
+    } ]
+  }, {
+    "tStartMs": 2720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "your favorite podcast for all\nyour news, trends and talking points"
+    } ]
+  }, {
+    "tStartMs": 6160,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "from the BBC World Service.\nSo I got a question for you."
+    } ]
+  }, {
+    "tStartMs": 9240,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Which do you think is bigger Africa\nor North America?"
+    } ]
+  }, {
+    "tStartMs": 15080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "If you use the map that most\nof us were taught about in school,"
+    } ]
+  }, {
+    "tStartMs": 18440,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "you'd probably get it wrong."
+    } ]
+  }, {
+    "tStartMs": 19520,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And that's because the Mercator\nprojection, which has been around"
+    } ]
+  }, {
+    "tStartMs": 21880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "for about 450 years, distorts size."
+    } ]
+  }, {
+    "tStartMs": 25000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "It makes Europe and Greenland look\nloads bigger while shrinking Africa"
+    } ]
+  }, {
+    "tStartMs": 29400,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and South America.\nAnd now campaigners are asking"
+    } ]
+  }, {
+    "tStartMs": 32120,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "for a new map to be used instead,\nthe Equal Earth map."
+    } ]
+  }, {
+    "tStartMs": 35360,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And you can see how much bigger\nAfrica looks in comparison."
+    } ]
+  }, {
+    "tStartMs": 38480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And they've got the support\nof the African Union,"
+    } ]
+  }, {
+    "tStartMs": 40480,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "which represents all 55 states\non the continent."
+    } ]
+  }, {
+    "tStartMs": 43720,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "So today we're asking, could a new\nworld map change how we see the world?"
+    } ]
+  }, {
+    "tStartMs": 53280,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Let's hear more about this now from\nBBC Africa reporter Makuochi Okafor."
+    } ]
+  }, {
+    "tStartMs": 56880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Hey Makuochi.\nHi, Hannah."
+    } ]
+  }, {
+    "tStartMs": 59320,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "So this really taps into\nsome big sentiments and big feelings"
+    } ]
+  }, {
+    "tStartMs": 63740,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "at the moment.\nA push for equality."
+    } ]
+  }, {
+    "tStartMs": 65900,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Equal representation.\nEquality on a world stage."
+    } ]
+  }, {
+    "tStartMs": 69380,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And there's this big campaign called\ncorrect the map."
+    } ]
+  }, {
+    "tStartMs": 71820,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "And and it's been backed by\nthe African Union."
+    } ]
+  }, {
+    "tStartMs": 73780,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So that's pretty big isn't it.\nMhm. You're right."
+    } ]
+  }, {
+    "tStartMs": 77300,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Um so this campaign, the Correct The Map\ncampaign, this is not the first time"
+    } ]
+  }, {
+    "tStartMs": 82140,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "um they started it.\nIt's been happening for quite a bit."
+    } ]
+  }, {
+    "tStartMs": 84940,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I do know that there are\ntwo organizations,"
+    } ]
+  }, {
+    "tStartMs": 87580,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "two advocacy groups\nthat have been very loud"
+    } ]
+  }, {
+    "tStartMs": 89740,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and have been more like\nat the forefront of this campaign."
+    } ]
+  }, {
+    "tStartMs": 92700,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And that is the Africa No Filter\nand the Speak Up Africa group."
+    } ]
+  }, {
+    "tStartMs": 96180,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Uh, both are advocacy groups,\nboth are advocacy groups"
+    } ]
+  }, {
+    "tStartMs": 99260,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "who have sort of always fought\nfor everything Africa, you know."
+    } ]
+  }, {
+    "tStartMs": 103700,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So now that they've sort of pushed\nenough for the Africa Union,"
+    } ]
+  }, {
+    "tStartMs": 108100,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "which represents all 55 states, uh,\ncountries in Africa,"
+    } ]
+  }, {
+    "tStartMs": 111740,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "to sort of hear their voice\nand adopt this,"
+    } ]
+  }, {
+    "tStartMs": 114120,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Correct The Map, um, you know,\ncampaign or the map itself."
+    } ]
+  }, {
+    "tStartMs": 118420,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "It actually seems\nlike they have made a mark."
+    } ]
+  }, {
+    "tStartMs": 121300,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "In fact, I remember, um,\nthe founder and lead"
+    } ]
+  }, {
+    "tStartMs": 125740,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "of the Africa No Filter,\nspoke with a BBC team recently,"
+    } ]
+  }, {
+    "tStartMs": 128860,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and she said she felt\nlike the world has heard them,"
+    } ]
+  }, {
+    "tStartMs": 131440,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "but, um, she doesn't want that to be\nwhere it will stop."
+    } ]
+  }, {
+    "tStartMs": 135140,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "They want schools, global organisations\nand even countries to start"
+    } ]
+  }, {
+    "tStartMs": 140440,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "and government to start adopting the\nuse of the equal earth beyond just,"
+    } ]
+  }, {
+    "tStartMs": 143860,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "um, the African Union saying that\nthey would like for it to be adopted."
+    } ]
+  }, {
+    "tStartMs": 147860,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Yeah. We actually heard, um, from\nMoky Makura, the executive director"
+    } ]
+  }, {
+    "tStartMs": 151700,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "of Africa No Filter about why\nthis campaign is so important to her."
+    } ]
+  }, {
+    "tStartMs": 155620,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "I think the most important part\nof this is that we're actually\nshowing something that is incorrect."
+    } ]
+  }, {
+    "tStartMs": 161440,
+    "dDurationMs": 7380,
+    "segs": [ {
+      "utf8": "I've referred to this as the world's\nlongest misinformation campaign\nbecause it's just wrong."
+    } ]
+  }, {
+    "tStartMs": 168820,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And I think the one example people\nuse is the size of Greenland,"
+    } ]
+  }, {
+    "tStartMs": 172780,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "which is depicted on current projections\nas 14 times larger than it actually is."
+    } ]
+  }, {
+    "tStartMs": 179140,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "The point is that Africa is made\nto look smaller than it really is."
+    } ]
+  }, {
+    "tStartMs": 184060,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Um, the distortion matters because\nit literally shrinks Africa's power"
+    } ]
+  }, {
+    "tStartMs": 187860,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and our place in the world."
+    } ]
+  }, {
+    "tStartMs": 190580,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "You know, the size being smaller\nthan European countries,"
+    } ]
+  }, {
+    "tStartMs": 194460,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "when in reality you can fit all\nof Europe, China, India,"
+    } ]
+  }, {
+    "tStartMs": 198340,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "America and other countries\ninto the continent."
+    } ]
+  }, {
+    "tStartMs": 200900,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "It makes the continent look\nless important, less powerful,"
+    } ]
+  }, {
+    "tStartMs": 205060,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "and less full of potential."
+    } ]
+  }, {
+    "tStartMs": 207420,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I'd like to see the Equal\nEarth projection used everywhere."
+    } ]
+  }, {
+    "tStartMs": 210660,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So in school textbooks,\nonline, on Google Maps,"
+    } ]
+  }, {
+    "tStartMs": 214220,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "in PowerPoint templates,\nin Canva templates,"
+    } ]
+  }, {
+    "tStartMs": 217140,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "you know, the Mercator projection\nhas been the default for 450 years."
+    } ]
+  }, {
+    "tStartMs": 222660,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And we need Equal Earth to become\njust as ubiquitous."
+    } ]
+  }, {
+    "tStartMs": 226220,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Everywhere I turn, I should see\nAfrica depicted in the right way."
+    } ]
+  }, {
+    "tStartMs": 232020,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And that way everyone, everywhere\nsees the world to the real scale."
+    } ]
+  }, {
+    "tStartMs": 236220,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "I want to get\ninto the geography here."
+    } ]
+  }, {
+    "tStartMs": 237980,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "So the map that we've mentioned\nthat we've been talking about,"
+    } ]
+  }, {
+    "tStartMs": 240100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "the Mercator projection,\nit was designed in 1569,"
+    } ]
+  }, {
+    "tStartMs": 244100,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "but it was originally designed\nfor sea navigation."
+    } ]
+  }, {
+    "tStartMs": 247720,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So why does it depict Africa and South\nAmerica smaller than they actually are?"
+    } ]
+  }, {
+    "tStartMs": 252520,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "We got in touch\nwith YouTuber Geodiode,"
+    } ]
+  }, {
+    "tStartMs": 255120,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "who's also known as Edwin Rijkaart,\nto get a better idea."
+    } ]
+  }, {
+    "tStartMs": 259000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "The Mercator projection is probably\nthe best known world map."
+    } ]
+  }, {
+    "tStartMs": 262840,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "It was created in the 16th century\nby Gerardus Mercator."
+    } ]
+  }, {
+    "tStartMs": 268700,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "His real name was Geert de Kremer."
+    } ]
+  }, {
+    "tStartMs": 272560,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Mercator was just his Latin name."
+    } ]
+  }, {
+    "tStartMs": 276440,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "He was Flemish cartographer and one\nof the pioneers in modern mapmaking."
+    } ]
+  }, {
+    "tStartMs": 281680,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And his idea was to make a map"
+    } ]
+  }, {
+    "tStartMs": 284400,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "where compass courses show up\nas straight lines on the map."
+    } ]
+  }, {
+    "tStartMs": 289120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "That was a huge advantage\nfor sailors in the 16th century"
+    } ]
+  }, {
+    "tStartMs": 293200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "because it made\nnavigation much easier for them."
+    } ]
+  }, {
+    "tStartMs": 296400,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "On Mercator maps, one\ncould easily navigate with a compass."
+    } ]
+  }, {
+    "tStartMs": 300520,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "Back in the days, all the lines on the\nmap pointed north, east, south or west,"
+    } ]
+  }, {
+    "tStartMs": 308120,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "and all the distances on the lines\non the map were the same everywhere."
+    } ]
+  }, {
+    "tStartMs": 314000,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "No one ever paid attention\nto the maps,"
+    } ]
+  }, {
+    "tStartMs": 317440,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "because only a small group of people,\nuh, used the maps like sailors,"
+    } ]
+  }, {
+    "tStartMs": 322560,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "for example.\nBut then came the mobile phone,"
+    } ]
+  }, {
+    "tStartMs": 325960,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and we all started using Google Maps\nor another navigation app."
+    } ]
+  }, {
+    "tStartMs": 331320,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "And Google uses the Mercator format\nbecause it's easy to navigate."
+    } ]
+  }, {
+    "tStartMs": 336480,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "It's impossible to create\na perfect map"
+    } ]
+  }, {
+    "tStartMs": 340040,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "because the Earth is a three\ndimensional sphere and the map is flat."
+    } ]
+  }, {
+    "tStartMs": 344080,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "So when you try to flatten a sphere,\nsomething always gets distorted."
+    } ]
+  }, {
+    "tStartMs": 350960,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "That's why there are\nso many different map projections."
+    } ]
+  }, {
+    "tStartMs": 355440,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "Each one emphasizes something different\nand is used for a different purpose."
+    } ]
+  }, {
+    "tStartMs": 362120,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So Makuochi. Criticism\nof the Mercator map isn't new."
+    } ]
+  }, {
+    "tStartMs": 365240,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "I mean, it is impossible\nto get something that is round"
+    } ]
+  }, {
+    "tStartMs": 368400,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "in 3D to lie flat, right?"
+    } ]
+  }, {
+    "tStartMs": 370520,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "You just you\ncan't squish an orange down."
+    } ]
+  }, {
+    "tStartMs": 373160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "But why is this issue\nbeing raised again now do you think?"
+    } ]
+  }, {
+    "tStartMs": 377240,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Well, the truth is, with the\ncurrent use and rise of social media"
+    } ]
+  }, {
+    "tStartMs": 382000,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and even more like media advancement,\nit seems like subjects that were"
+    } ]
+  }, {
+    "tStartMs": 387440,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "sort of little whispers in silos\nare getting louder and louder,"
+    } ]
+  }, {
+    "tStartMs": 391320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and more people are converging\nto have these conversations."
+    } ]
+  }, {
+    "tStartMs": 393840,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "It just seems like things\nthat are felt in smaller groups\nare now being collected,"
+    } ]
+  }, {
+    "tStartMs": 398560,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and voices are\nsort of being put together globally."
+    } ]
+  }, {
+    "tStartMs": 401960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So, um, Africa No Filter\nand Speak Up Africa and"
+    } ]
+  }, {
+    "tStartMs": 405640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "even other organizations sort of have\nutilized social media and the use"
+    } ]
+  }, {
+    "tStartMs": 409880,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "of new media and even older\ntraditional media models to push, um,"
+    } ]
+  }, {
+    "tStartMs": 414240,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and to push for their,\ntheir agenda or what they want."
+    } ]
+  }, {
+    "tStartMs": 417640,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And that has totally worked for them."
+    } ]
+  }, {
+    "tStartMs": 419880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Yeah. So there are all these small\nconversations taking place,"
+    } ]
+  }, {
+    "tStartMs": 422320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "but the Correct The Map campaign\nactually has some really big intentions."
+    } ]
+  }, {
+    "tStartMs": 425520,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "I mean, they want schools,\ngovernments and even"
+    } ]
+  }, {
+    "tStartMs": 428140,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "major international organizations\nto change the map that they use."
+    } ]
+  }, {
+    "tStartMs": 431780,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Yes, that's exactly what\nthey are asking for."
+    } ]
+  }, {
+    "tStartMs": 434900,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "Um, interestingly, I think\nthey have really done quite well"
+    } ]
+  }, {
+    "tStartMs": 440620,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "in the sense that this campaign has been\na bit successful in the sense that,"
+    } ]
+  }, {
+    "tStartMs": 444580,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "for example, the AU, by the way,\nAfrica is the second biggest continent."
+    } ]
+  }, {
+    "tStartMs": 448420,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "And if the huge governing body\nis saying they want this,\nthen that's actually a huge thing."
+    } ]
+  }, {
+    "tStartMs": 453940,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "But even beyond that,\num, organizations like the world Bank"
+    } ]
+  }, {
+    "tStartMs": 458140,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "say they have stopped using\nthe Mercator projection."
+    } ]
+  }, {
+    "tStartMs": 460500,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "They have adopted the Winkel tripel map,\nwhich is not entirely the correct,"
+    } ]
+  }, {
+    "tStartMs": 464740,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "the, uh, the Equal Earth map,"
+    } ]
+  }, {
+    "tStartMs": 467020,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "but it sort of addresses most\nof the concerns"
+    } ]
+  }, {
+    "tStartMs": 469420,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "that people have used when\ncriticizing the Mercator projection."
+    } ]
+  }, {
+    "tStartMs": 473900,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Um, so the world,\nthe World Bank is huge."
+    } ]
+  }, {
+    "tStartMs": 476260,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "It's an international\norganization. Um,"
+    } ]
+  }, {
+    "tStartMs": 478300,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "and even something like what's it\ncalled, National Geographic Society say"
+    } ]
+  }, {
+    "tStartMs": 483100,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "they also no more use, uh,\nthe Mercator projection."
+    } ]
+  }, {
+    "tStartMs": 487020,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "They now use\nthe Winkel tripel map And,"
+    } ]
+  }, {
+    "tStartMs": 489140,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "you know, Google,\nwhich most people use, uh,"
+    } ]
+  }, {
+    "tStartMs": 492420,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Google on desktop\nnow uses a 3D model of a map,"
+    } ]
+  }, {
+    "tStartMs": 496900,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and they have dropped\nthe Mercator projection."
+    } ]
+  }, {
+    "tStartMs": 499020,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "However, users\ncan still switch back to that."
+    } ]
+  }, {
+    "tStartMs": 502660,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "And also, um, on on mobile they're\nstill using Mercator projection."
+    } ]
+  }, {
+    "tStartMs": 506820,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "But it seems like the more\nthe conversation is happening,"
+    } ]
+  }, {
+    "tStartMs": 510420,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "global organizations,\nglobal societies,"
+    } ]
+  }, {
+    "tStartMs": 513460,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and even countries might actually\neventually, um, get to adopt, uh,"
+    } ]
+  }, {
+    "tStartMs": 518060,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the maybe Equal Earth\nor other variations of it."
+    } ]
+  }, {
+    "tStartMs": 521060,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "What are some\nof the wider implications of this?"
+    } ]
+  }, {
+    "tStartMs": 524300,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "What are the wider implications\nof not using accurate maps"
+    } ]
+  }, {
+    "tStartMs": 527340,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "or showing Africa as smaller\nthan it really is?"
+    } ]
+  }, {
+    "tStartMs": 530900,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Well, I'll give an example.\nFor example,"
+    } ]
+  }, {
+    "tStartMs": 533220,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "I have heard people say, oh, this\ntiny country from a specific place."
+    } ]
+  }, {
+    "tStartMs": 538500,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "You know, I'm just giving you\nan example when people say"
+    } ]
+  }, {
+    "tStartMs": 541060,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "that both the people who live\nin those countries,"
+    } ]
+  }, {
+    "tStartMs": 543580,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "or even those who want to either offer\naid or even do projects on the country,"
+    } ]
+  }, {
+    "tStartMs": 548700,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "sort of start thinking of minimizing\nwhat they would have offered,"
+    } ]
+  }, {
+    "tStartMs": 552460,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "or even people who are\nfrom those places sort of feel tiny."
+    } ]
+  }, {
+    "tStartMs": 555580,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "So you see that\nit not only affects people's identity\nand how they feel about themselves,"
+    } ]
+  }, {
+    "tStartMs": 561940,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but it actually affects policies\nthat are being made because,"
+    } ]
+  }, {
+    "tStartMs": 564860,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "you know, visual representation sort\nof affects perception."
+    } ]
+  }, {
+    "tStartMs": 568540,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "So it has this huge boot, um,"
+    } ]
+  }, {
+    "tStartMs": 570820,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "physical, economic and even\npsychological impact on the people"
+    } ]
+  }, {
+    "tStartMs": 575060,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "who are being represented that way."
+    } ]
+  }, {
+    "tStartMs": 577620,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And that has been seen to by most\nof the campaigners"
+    } ]
+  }, {
+    "tStartMs": 580820,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "say it has affected most\nof the policies made towards Africa"
+    } ]
+  }, {
+    "tStartMs": 584180,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "and even how Africans feel\nabout themselves."
+    } ]
+  }, {
+    "tStartMs": 587360,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Makuochi, thank you so much\nfor explaining that to us."
+    } ]
+  }, {
+    "tStartMs": 589140,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thank you Hannah.\nThat's it for today."
+    } ]
+  }, {
+    "tStartMs": 591140,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And wherever you are in the world\nand whatever map you might be using."
+    } ]
+  }, {
+    "tStartMs": 594140,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Thank you for joining us."
+    } ]
+  }, {
+    "tStartMs": 595300,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Don't forget to follow like, subscribe,\nshare if you enjoyed this episode"
+    } ]
+  }, {
+    "tStartMs": 599460,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and if you have ideas for stories\nthat you think we should be covering,"
+    } ]
+  }, {
+    "tStartMs": 602380,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "please do get in touch.\nI'm Hannah, this is what in the world"
+    } ]
+  }, {
+    "tStartMs": 605260,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "from the BBC World Service\nand we'll see you next time."
+    } ]
+  } ]
+}

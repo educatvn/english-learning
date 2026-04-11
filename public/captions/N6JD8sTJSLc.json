@@ -1,0 +1,2219 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 0,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "The average person who menstruates\nhas their period"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2880,
+      "dDurationMs": 3980,
+      "segs": [
+        {
+          "utf8": "for around 2535 days of their life."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6860,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "That is around seven years,\nand that's according to the UN."
+        }
+      ]
+    },
+    {
+      "tStartMs": 10580,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "It's a lot of pads, a lot of tampons,\nnot to mention the pain"
+        }
+      ]
+    },
+    {
+      "tStartMs": 14220,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "and discomfort that comes\nfrom having your periods too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16620,
+      "dDurationMs": 3300,
+      "segs": [
+        {
+          "utf8": "But not everyone has equal access\nto sanitary products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 19920,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "and that's what we're going\nto be talking about today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 22040,
+      "dDurationMs": 4860,
+      "segs": [
+        {
+          "utf8": "We're going to ask\nwhether reusable products\ncould help solve period poverty."
+        }
+      ]
+    },
+    {
+      "tStartMs": 26900,
+      "dDurationMs": 5100,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 34640,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Well here to break it all down for us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 36720,
+      "dDurationMs": 2780,
+      "segs": [
+        {
+          "utf8": "is BBC journalist Gloria Achieng\nin Nairobi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 39500,
+      "dDurationMs": 2260,
+      "segs": [
+        {
+          "utf8": "Hello. Welcome to the programme.\nHi, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 41760,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "How are you?\nYeah. I'm great, thank you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 44040,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So we know a bit\nabout period poverty, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 46320,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "It's where people can't afford\nto buy period products"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49080,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "or don't have access to it.\nIt's a global issue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52280,
+      "dDurationMs": 2140,
+      "segs": [
+        {
+          "utf8": "It affects women and girls\nin the global South,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 54420,
+      "dDurationMs": 2580,
+      "segs": [
+        {
+          "utf8": "but also here in the UK\nand in the US."
+        }
+      ]
+    },
+    {
+      "tStartMs": 57000,
+      "dDurationMs": 4620,
+      "segs": [
+        {
+          "utf8": "And according to the world Bank,\nthere are 500 million women and girls"
+        }
+      ]
+    },
+    {
+      "tStartMs": 61620,
+      "dDurationMs": 2580,
+      "segs": [
+        {
+          "utf8": "in the world who don't have access\nto menstrual products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 64200,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So, Gloria, why is this?\nIsn't it a basic need."
+        }
+      ]
+    },
+    {
+      "tStartMs": 67880,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "Based on things to do with the high\ncost of period products and access"
+        }
+      ]
+    },
+    {
+      "tStartMs": 72680,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "to things like water\nand sanitation facilities,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 75800,
+      "dDurationMs": 4300,
+      "segs": [
+        {
+          "utf8": "you find that a lot of women are\nreally struggling, especially in Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 80100,
+      "dDurationMs": 3020,
+      "segs": [
+        {
+          "utf8": "I've covered a couple\nof stories where we ask women like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 83120,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "what are some of the issues that\nlead them to having period poverty?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86760,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "And the biggest issue that they talk\nabout is the high cost"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90680,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "of period products and also access."
+        }
+      ]
+    },
+    {
+      "tStartMs": 93320,
+      "dDurationMs": 3780,
+      "segs": [
+        {
+          "utf8": "You find that most of these period\nproducts are really, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 97100,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "like they're very easy to find\nin urban areas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 100340,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "But when you go to the rural areas,\nit's very difficult"
+        }
+      ]
+    },
+    {
+      "tStartMs": 103260,
+      "dDurationMs": 3620,
+      "segs": [
+        {
+          "utf8": "for them to find these products\nand they resort to using, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106880,
+      "dDurationMs": 4180,
+      "segs": [
+        {
+          "utf8": "products like the the old cloths,\nthe cotton wool,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 111060,
+      "dDurationMs": 2860,
+      "segs": [
+        {
+          "utf8": "some of them use rags and even some,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 113920,
+      "dDurationMs": 2500,
+      "segs": [
+        {
+          "utf8": "I've heard, use things like leaves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116420,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "So the high cost of period products\nis something that I would attribute"
+        }
+      ]
+    },
+    {
+      "tStartMs": 120940,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "to the high cases of period poverty"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123100,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "and of course, lack\nof water and sanitation facilities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 126700,
+      "dDurationMs": 5060,
+      "segs": [
+        {
+          "utf8": "And I was reading some BBC research\nfrom 2023 that found that Ghana had"
+        }
+      ]
+    },
+    {
+      "tStartMs": 131760,
+      "dDurationMs": 4180,
+      "segs": [
+        {
+          "utf8": "the most expensive sanitary products\nrelative to monthly income and women"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135940,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "on the minimum wage\nthere were spending one in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138660,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "every $7 they earned on sanitary pads.\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 141340,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So apart from the fact that\nthere's clearly a health issue here,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 144300,
+      "dDurationMs": 2820,
+      "segs": [
+        {
+          "utf8": "if women don't have access\nto sanitary products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 147120,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "what are some of the\nother consequences of period poverty?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 150720,
+      "dDurationMs": 2500,
+      "segs": [
+        {
+          "utf8": "When girls are having periods,\nthey don't go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 153220,
+      "dDurationMs": 2340,
+      "segs": [
+        {
+          "utf8": "to school because\nthey don't have the products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 155560,
+      "dDurationMs": 2900,
+      "segs": [
+        {
+          "utf8": "It also affects women,\nworking class women."
+        }
+      ]
+    },
+    {
+      "tStartMs": 158460,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So you find that for women\nwho do not have these products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 161100,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "they are not able to go to work\nwhen they are having their period,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 165420,
+      "dDurationMs": 2860,
+      "segs": [
+        {
+          "utf8": "because now there's the stigma,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "there's, you know,\nyou need clean toilets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 170640,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Maybe you don't have a clean toilet\nwhere you work or in school."
+        }
+      ]
+    },
+    {
+      "tStartMs": 173920,
+      "dDurationMs": 2540,
+      "segs": [
+        {
+          "utf8": "So I think those are some\nof the consequences."
+        }
+      ]
+    },
+    {
+      "tStartMs": 176460,
+      "dDurationMs": 3420,
+      "segs": [
+        {
+          "utf8": "Apart from health that\nwomen go through when it comes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179880,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "to a lack of period products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 183480,
+      "dDurationMs": 3220,
+      "segs": [
+        {
+          "utf8": "Can you talk me through some\nof the reusable period products\nthat you can get now?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 186700,
+      "dDurationMs": 2820,
+      "segs": [
+        {
+          "utf8": "Some of the reusable period products\nthat you can get now"
+        }
+      ]
+    },
+    {
+      "tStartMs": 189520,
+      "dDurationMs": 3260,
+      "segs": [
+        {
+          "utf8": "is the reusable pad."
+        }
+      ]
+    },
+    {
+      "tStartMs": 192780,
+      "dDurationMs": 2700,
+      "segs": [
+        {
+          "utf8": "We also have the reusable panty."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195480,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "We were motivated to go\nbeyond creating awareness"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199320,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "about proper menstrual health\nand hygiene practices,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202240,
+      "dDurationMs": 6640,
+      "segs": [
+        {
+          "utf8": "and we got into the initiative\nof producing reusable sanitary pads."
+        }
+      ]
+    },
+    {
+      "tStartMs": 208880,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Over the past five years, we've been\nable to increase the chance"
+        }
+      ]
+    },
+    {
+      "tStartMs": 213400,
+      "dDurationMs": 5900,
+      "segs": [
+        {
+          "utf8": "of over 4000 girls to remain\nin school, to have dignified periods,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219300,
+      "dDurationMs": 4660,
+      "segs": [
+        {
+          "utf8": "but also have their daily routines\nuninterrupted by periods."
+        }
+      ]
+    },
+    {
+      "tStartMs": 223960,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "We do understand and appreciate\nthat there are quite a variety"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228280,
+      "dDurationMs": 3540,
+      "segs": [
+        {
+          "utf8": "of menstrual products\nin our community."
+        }
+      ]
+    },
+    {
+      "tStartMs": 231820,
+      "dDurationMs": 4500,
+      "segs": [
+        {
+          "utf8": "However, we find that\nthose products are not sustainable,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 236320,
+      "dDurationMs": 4620,
+      "segs": [
+        {
+          "utf8": "or rather, not easily affordable\nby the young girls."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240940,
+      "dDurationMs": 5860,
+      "segs": [
+        {
+          "utf8": "So the young girls here having access\nto sustainable yet comfortable"
+        }
+      ]
+    },
+    {
+      "tStartMs": 246800,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "and good quality menstrual products,\nit puts their education,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251800,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "their health, their wellbeing\nat a better advantage."
+        }
+      ]
+    },
+    {
+      "tStartMs": 256720,
+      "dDurationMs": 4980,
+      "segs": [
+        {
+          "utf8": "And we also have something that has\nbecome really popular in the continent,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 261700,
+      "dDurationMs": 4140,
+      "segs": [
+        {
+          "utf8": "which is the menstrual cup, which\nyou can use even up to ten years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 265840,
+      "dDurationMs": 4980,
+      "segs": [
+        {
+          "utf8": "So you find that most women who\nhave gotten access to menstrual cups,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 270820,
+      "dDurationMs": 3540,
+      "segs": [
+        {
+          "utf8": "they have really appreciated\nbecause this is reusable,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 274360,
+      "dDurationMs": 3940,
+      "segs": [
+        {
+          "utf8": "it's, you know, biodegradable."
+        }
+      ]
+    },
+    {
+      "tStartMs": 278300,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "It's again made of silicone.\nYou can boil it at home."
+        }
+      ]
+    },
+    {
+      "tStartMs": 282100,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "It's easy to use for those who know how\nto use, although there are still myths,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 285940,
+      "dDurationMs": 3940,
+      "segs": [
+        {
+          "utf8": "but it's becoming quite popular\nin the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 289880,
+      "dDurationMs": 3740,
+      "segs": [
+        {
+          "utf8": "Now you're going to hear from the\nCovid Project, an Australian charity"
+        }
+      ]
+    },
+    {
+      "tStartMs": 293620,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "that donates menstrual cups to women\nand girls across the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297020,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "To date, we have provided 38000 cups,\nthat's since our inception in 2019."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304060,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "The bulk of those cups\nhave gone to Uganda in East Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 308700,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "But we have projects in Liberia\nand Ghana, in West Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 312740,
+      "dDurationMs": 2420,
+      "segs": [
+        {
+          "utf8": "and we also have projects in Malawi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 315160,
+      "dDurationMs": 4980,
+      "segs": [
+        {
+          "utf8": "When we started off, we obviously had\na much tougher job at talking to girls"
+        }
+      ]
+    },
+    {
+      "tStartMs": 320140,
+      "dDurationMs": 4060,
+      "segs": [
+        {
+          "utf8": "about menstrual cups because they'd\nnever seen a menstrual cup, let alone"
+        }
+      ]
+    },
+    {
+      "tStartMs": 324200,
+      "dDurationMs": 2660,
+      "segs": [
+        {
+          "utf8": "an insertable period product."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326860,
+      "dDurationMs": 3100,
+      "segs": [
+        {
+          "utf8": "Now being six years into the journey,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 329960,
+      "dDurationMs": 2940,
+      "segs": [
+        {
+          "utf8": "we have so much success\nthrough word of mouth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 332900,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So if somebody uses the cup"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335020,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and they find it to be\nan amazing device for them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 337580,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "they're way more likely to tell their\nsisters and cousins and friends."
+        }
+      ]
+    },
+    {
+      "tStartMs": 342140,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So they've been really well received."
+        }
+      ]
+    },
+    {
+      "tStartMs": 344660,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "We run roughly an 80% cup uptake rate\nafter four months."
+        }
+      ]
+    },
+    {
+      "tStartMs": 349780,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Clean water is\nsuch an important issue for us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 353060,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "and we select our communities\nvery specifically looking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 357900,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "for communities that have access\nto clean water."
+        }
+      ]
+    },
+    {
+      "tStartMs": 362300,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "Oftentimes that means working with\nschools where a Wash Officer has come in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 367380,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and helped us identify schools\nthat are going to have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 369660,
+      "dDurationMs": 2420,
+      "segs": [
+        {
+          "utf8": "the appropriate facilities\nfor girls to have access"
+        }
+      ]
+    },
+    {
+      "tStartMs": 372080,
+      "dDurationMs": 2940,
+      "segs": [
+        {
+          "utf8": "to the right kind of, you know,\ncleaning practices,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 375020,
+      "dDurationMs": 4540,
+      "segs": [
+        {
+          "utf8": "to make sure that they can change\ntheir cup and clean their cup safely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 379560,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "But the wonderful thing about cups is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 381560,
+      "dDurationMs": 3100,
+      "segs": [
+        {
+          "utf8": "that they don't require\nnearly as much water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 384660,
+      "dDurationMs": 3900,
+      "segs": [
+        {
+          "utf8": "as many of the other alternative\nproducts that are reusable."
+        }
+      ]
+    },
+    {
+      "tStartMs": 388560,
+      "dDurationMs": 2420,
+      "segs": [
+        {
+          "utf8": "So when you're washing a cup,\nyou're merely putting it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 390980,
+      "dDurationMs": 3580,
+      "segs": [
+        {
+          "utf8": "in a sterilisation bag\nwith a small amount of boiling water"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394560,
+      "dDurationMs": 2180,
+      "segs": [
+        {
+          "utf8": "and giving it time to sterilise,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 396740,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "whereas if you're trying to wash\nperiod undies or reusable pads,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 401660,
+      "dDurationMs": 4140,
+      "segs": [
+        {
+          "utf8": "that's going to require quite a bit\nof water in order to wash that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 405800,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "The number one thing with menstrual cups\nis that they are an insertable device,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 409160,
+      "dDurationMs": 2460,
+      "segs": [
+        {
+          "utf8": "so you do have to be\npretty comfortable with your body,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 411620,
+      "dDurationMs": 3820,
+      "segs": [
+        {
+          "utf8": "and you are going to have\nto touch your body to insert it. So,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 415440,
+      "dDurationMs": 3780,
+      "segs": [
+        {
+          "utf8": "making sure that we have really clean\nhands when we're doing that procedure"
+        }
+      ]
+    },
+    {
+      "tStartMs": 419220,
+      "dDurationMs": 3980,
+      "segs": [
+        {
+          "utf8": "is the number one thing that's going\nto help reduce that infection stat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 423200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "All of these products, you use them,\nyou wash them, you dry them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 427040,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "You use them again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 428280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "You mentioned that the menstrual crap\nin particular is popular"
+        }
+      ]
+    },
+    {
+      "tStartMs": 431360,
+      "dDurationMs": 2980,
+      "segs": [
+        {
+          "utf8": "across the continent.\nHow popular are the other products?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 434340,
+      "dDurationMs": 4980,
+      "segs": [
+        {
+          "utf8": "We have women who have either gone\nthrough training or are helping girls"
+        }
+      ]
+    },
+    {
+      "tStartMs": 439320,
+      "dDurationMs": 3300,
+      "segs": [
+        {
+          "utf8": "in the rural communities\nto access period products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 442620,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "teaching these girls\nhow to make their reusable pad."
+        }
+      ]
+    },
+    {
+      "tStartMs": 445700,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "You mentioned now\nthat people are making them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448380,
+      "dDurationMs": 4260,
+      "segs": [
+        {
+          "utf8": "There are groups and organisations that\nare helping people have access to them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452640,
+      "dDurationMs": 2900,
+      "segs": [
+        {
+          "utf8": "But are these reusable products\nexpensive?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 455540,
+      "dDurationMs": 2100,
+      "segs": [
+        {
+          "utf8": "Are there charities\nthat give them away?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457640,
+      "dDurationMs": 7000,
+      "segs": [
+        {
+          "utf8": "For the reusable part, we have some\nthat go for around $5, going upwards."
+        }
+      ]
+    },
+    {
+      "tStartMs": 464640,
+      "dDurationMs": 4580,
+      "segs": [
+        {
+          "utf8": "And if you look at the type of women\nwho are using these products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469220,
+      "dDurationMs": 2460,
+      "segs": [
+        {
+          "utf8": "you find that most\nof them are not able to,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471680,
+      "dDurationMs": 5420,
+      "segs": [
+        {
+          "utf8": "you know, are not able to afford buying\nlike multiple, reusable products."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477100,
+      "dDurationMs": 4020,
+      "segs": [
+        {
+          "utf8": "So you find that most charities\nwho come to to help women"
+        }
+      ]
+    },
+    {
+      "tStartMs": 481120,
+      "dDurationMs": 2660,
+      "segs": [
+        {
+          "utf8": "are the ones who bring these products\nto the continent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 483780,
+      "dDurationMs": 3060,
+      "segs": [
+        {
+          "utf8": "And we even have like some,\nsome charities that are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 486840,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "from the continent that\nare making these products for women."
+        }
+      ]
+    },
+    {
+      "tStartMs": 490360,
+      "dDurationMs": 6060,
+      "segs": [
+        {
+          "utf8": "So I would say for the ones that\nwomen get, they get them from charities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496420,
+      "dDurationMs": 3420,
+      "segs": [
+        {
+          "utf8": "But then these charities are coming\nwith this concept of them learning"
+        }
+      ]
+    },
+    {
+      "tStartMs": 499840,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "how to make the products, using\nmaterials that are available locally."
+        }
+      ]
+    },
+    {
+      "tStartMs": 505320,
+      "dDurationMs": 5380,
+      "segs": [
+        {
+          "utf8": "Some women may choose not to use\nreusable products because they're messy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 510700,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "You will need access to clean water\nto be able to wash them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 514620,
+      "dDurationMs": 3900,
+      "segs": [
+        {
+          "utf8": "and that could be particularly\ndifficult in some countries, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 518520,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Most people would say\nfor the reusable part,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 521160,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "you need to wash it,\nyou need water, you need soap."
+        }
+      ]
+    },
+    {
+      "tStartMs": 523960,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And you find\nthat maybe people don't have water,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 526560,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "so they choose not to use it\nbecause it needs water,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 530040,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "it needs soap, it needs sunshine,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 532480,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "because if you\ndon't dry the reusable pad properly,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 535920,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "then you're at risk of getting\ninfections because of it being damp."
+        }
+      ]
+    },
+    {
+      "tStartMs": 540840,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Is there a lot of stigma\naround these reusable products?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 544000,
+      "dDurationMs": 3900,
+      "segs": [
+        {
+          "utf8": "I haven't come across people talking\nabout stigma"
+        }
+      ]
+    },
+    {
+      "tStartMs": 547900,
+      "dDurationMs": 2460,
+      "segs": [
+        {
+          "utf8": "when it comes to the reusable pads."
+        }
+      ]
+    },
+    {
+      "tStartMs": 550360,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "However, there is stigma\nwhen it comes to the menstrual cup."
+        }
+      ]
+    },
+    {
+      "tStartMs": 555000,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So people, you know like, this meets\nlike - I don't know where this came"
+        }
+      ]
+    },
+    {
+      "tStartMs": 558760,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "from, but when period products\nstarted coming into the continent,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 562440,
+      "dDurationMs": 2100,
+      "segs": [
+        {
+          "utf8": "a lot of people\nwere telling each other that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 564540,
+      "dDurationMs": 3500,
+      "segs": [
+        {
+          "utf8": "when you wear a menstrual cup,\nyou're going to break your virginity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 568040,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "And for the young girls,\nthey feared using it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570960,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "because they felt they're going\nto break their virginity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 573800,
+      "dDurationMs": 4460,
+      "segs": [
+        {
+          "utf8": "Especially for communities\nwhere virginity is a very,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 578260,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "you know, like it's a serious part\nof growing up and in adulthood,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 582460,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "a lot of them feared using it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 584500,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "But we have, of course,\npeople who are training girls more"
+        }
+      ]
+    },
+    {
+      "tStartMs": 587660,
+      "dDurationMs": 2540,
+      "segs": [
+        {
+          "utf8": "about the menstrual cups and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 590200,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "just telling them that\nyou're not breaking your virginity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 592960,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "It's still a bit of a taboo to talk\nabout periods,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 595760,
+      "dDurationMs": 3140,
+      "segs": [
+        {
+          "utf8": "and there are lots of myths about them\nand about the products themselves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598900,
+      "dDurationMs": 4020,
+      "segs": [
+        {
+          "utf8": "So here to break some of those down is\nBBC Health Reporter Michelle Roberts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 602920,
+      "dDurationMs": 3220,
+      "segs": [
+        {
+          "utf8": "There are some myths about tampons\nand menstrual cups."
+        }
+      ]
+    },
+    {
+      "tStartMs": 606140,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Here's what to know. Tampons need\nto be inserted into the vagina,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 610420,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "which can take a bit of practice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 612460,
+      "dDurationMs": 4420,
+      "segs": [
+        {
+          "utf8": "There are different sizes depending\non your flow or amount of bleeding."
+        }
+      ]
+    },
+    {
+      "tStartMs": 616880,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "When managing your periods,\nthere's a tiny risk"
+        }
+      ]
+    },
+    {
+      "tStartMs": 620320,
+      "dDurationMs": 4540,
+      "segs": [
+        {
+          "utf8": "of something called toxic shock syndrome\nthat's been linked with tampons,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 624860,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "but also menstrual cups.\nIt's very rare, but can be serious"
+        }
+      ]
+    },
+    {
+      "tStartMs": 629740,
+      "dDurationMs": 4540,
+      "segs": [
+        {
+          "utf8": "and is caused by certain bacteria that\nrelease toxins into the bloodstream."
+        }
+      ]
+    },
+    {
+      "tStartMs": 634280,
+      "dDurationMs": 4380,
+      "segs": [
+        {
+          "utf8": "Some of the signs and symptoms are\nlike severe flu, a high temperature,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 638660,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "and aches.\nIf in doubt,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 640660,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "or you feel very unwell,\nseek medical advice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 644020,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "Always use the lowest absorbency\ntampon that will manage your flow."
+        }
+      ]
+    },
+    {
+      "tStartMs": 649420,
+      "dDurationMs": 3780,
+      "segs": [
+        {
+          "utf8": "Menstrual cups are\na reusable alternative."
+        }
+      ]
+    },
+    {
+      "tStartMs": 653200,
+      "dDurationMs": 2620,
+      "segs": [
+        {
+          "utf8": "They can be removed,\nemptied, washed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 655820,
+      "dDurationMs": 4140,
+      "segs": [
+        {
+          "utf8": "and reinserted every four to eight\nhours depending on your flow."
+        }
+      ]
+    },
+    {
+      "tStartMs": 659960,
+      "dDurationMs": 4740,
+      "segs": [
+        {
+          "utf8": "Infections can happen if\nyou transfer bacteria from your hands"
+        }
+      ]
+    },
+    {
+      "tStartMs": 664700,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "to the cup and into the vagina.\nSo wash your hands."
+        }
+      ]
+    },
+    {
+      "tStartMs": 668380,
+      "dDurationMs": 2860,
+      "segs": [
+        {
+          "utf8": "Some people think they're unhygienic,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 671240,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "but it's easy to wash them well and\nno one can tell that you're using one,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 675960,
+      "dDurationMs": 3580,
+      "segs": [
+        {
+          "utf8": "and no, they can't get lost\ninside you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 679540,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "With cups, pads, or tampons,\nchange them as frequently as needed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 685060,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Gloria, what other ways are there\nto tackle period poverty?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 688780,
+      "dDurationMs": 5700,
+      "segs": [
+        {
+          "utf8": "I think with education and awareness,\nwomen can learn more about periods"
+        }
+      ]
+    },
+    {
+      "tStartMs": 694480,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and it can definitely tackle\nperiod poverty."
+        }
+      ]
+    },
+    {
+      "tStartMs": 697600,
+      "dDurationMs": 4420,
+      "segs": [
+        {
+          "utf8": "And I think also education\non how to make these products"
+        }
+      ]
+    },
+    {
+      "tStartMs": 702020,
+      "dDurationMs": 5580,
+      "segs": [
+        {
+          "utf8": "and making\nthe materials accessible to people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 707600,
+      "dDurationMs": 6540,
+      "segs": [
+        {
+          "utf8": "could also tackle period poverty\nbecause if let's say these products"
+        }
+      ]
+    },
+    {
+      "tStartMs": 714140,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and the sewing bit is added\nin a school curriculum"
+        }
+      ]
+    },
+    {
+      "tStartMs": 717980,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "and the girls learn from a young age\nhow to make these products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 722540,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "then it becomes very easy\nfor them to grow up knowing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 726180,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "how to make these products, and\nthey can even change their societies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 729180,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Boys should also be part\nof the conversation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 731900,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "because, you know, boys have mums,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 734700,
+      "dDurationMs": 4820,
+      "segs": [
+        {
+          "utf8": "boys have sisters, boys have aunties\nand other women in their lives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 739520,
+      "dDurationMs": 4540,
+      "segs": [
+        {
+          "utf8": "So if they also learn, then\nthe world becomes a better place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 744060,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Historically, period products\nhave been taxed by governments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 748220,
+      "dDurationMs": 4140,
+      "segs": [
+        {
+          "utf8": "For years they were classed\nas luxury items and there have been\nsuccessful protest movements."
+        }
+      ]
+    },
+    {
+      "tStartMs": 752360,
+      "dDurationMs": 3220,
+      "segs": [
+        {
+          "utf8": "I mean, here in the UK\nthere were huge protests in Ghana."
+        }
+      ]
+    },
+    {
+      "tStartMs": 755580,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "What kind of movements are there\nfor period equity"
+        }
+      ]
+    },
+    {
+      "tStartMs": 759300,
+      "dDurationMs": 3300,
+      "segs": [
+        {
+          "utf8": "to make period products\nmore affordable on the continent?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 762600,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "For Kenya specifically,\nlet me talk about Kenya."
+        }
+      ]
+    },
+    {
+      "tStartMs": 765320,
+      "dDurationMs": 2460,
+      "segs": [
+        {
+          "utf8": "So I think two years ago,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 767780,
+      "dDurationMs": 5340,
+      "segs": [
+        {
+          "utf8": "there's a senator who was stigmatised\nin Parliament because she stained"
+        }
+      ]
+    },
+    {
+      "tStartMs": 773120,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "her trouser suit while she was\nin Parliament, and she went online."
+        }
+      ]
+    },
+    {
+      "tStartMs": 777480,
+      "dDurationMs": 2540,
+      "segs": [
+        {
+          "utf8": "Of course, this story went online."
+        }
+      ]
+    },
+    {
+      "tStartMs": 780020,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "And there was a lot of women just\ncalling for governments to make periods,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 784260,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "you know, like period products,\nlike free for women,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 787580,
+      "dDurationMs": 2460,
+      "segs": [
+        {
+          "utf8": "and also not to stigmatise women"
+        }
+      ]
+    },
+    {
+      "tStartMs": 790040,
+      "dDurationMs": 3820,
+      "segs": [
+        {
+          "utf8": "for having periods because\nperiods are a natural phenomenon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 793860,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So we saw a lot of people online\njust talking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 797100,
+      "dDurationMs": 2300,
+      "segs": [
+        {
+          "utf8": "about this for that particular week."
+        }
+      ]
+    },
+    {
+      "tStartMs": 799400,
+      "dDurationMs": 3220,
+      "segs": [
+        {
+          "utf8": "And of course, people referenced\nother things that have happened"
+        }
+      ]
+    },
+    {
+      "tStartMs": 802620,
+      "dDurationMs": 3540,
+      "segs": [
+        {
+          "utf8": "in other places in the continent\nwhere women have been stigmatised"
+        }
+      ]
+    },
+    {
+      "tStartMs": 806160,
+      "dDurationMs": 4340,
+      "segs": [
+        {
+          "utf8": "for having periods and people are\njust asking like, 'periods are natural,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 810500,
+      "dDurationMs": 2980,
+      "segs": [
+        {
+          "utf8": "why do people have to be stigmatised\nfor having a period?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 813480,
+      "dDurationMs": 3020,
+      "segs": [
+        {
+          "utf8": "Period products are expensive,\nwhy do women have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 816500,
+      "dDurationMs": 2100,
+      "segs": [
+        {
+          "utf8": "to, you know, buy period products?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 818600,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "Yet things like the condoms are being\ngiven for free.' But we still see"
+        }
+      ]
+    },
+    {
+      "tStartMs": 823040,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "a lot of women online coming in\nto just say that periods are normal,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 827200,
+      "dDurationMs": 3540,
+      "segs": [
+        {
+          "utf8": "and we should normalise the fact\nthat a woman can stain her dress"
+        }
+      ]
+    },
+    {
+      "tStartMs": 830740,
+      "dDurationMs": 3540,
+      "segs": [
+        {
+          "utf8": "or her clothes, and they\nshould not be stigmatised for that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 834280,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Do you think\nthat the reusable products are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 837000,
+      "dDurationMs": 2700,
+      "segs": [
+        {
+          "utf8": "a viable solution\nto tackle period poverty?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 839700,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "For people who do not have,\nlike a stable income or money,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 843300,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "that would help\nthem get these products,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 845700,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "these products are actually,\nyou know, a solution"
+        }
+      ]
+    },
+    {
+      "tStartMs": 849060,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "because you just need to know\nhow to make it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 852300,
+      "dDurationMs": 3940,
+      "segs": [
+        {
+          "utf8": "And if you have the right products\nand then the raw products"
+        }
+      ]
+    },
+    {
+      "tStartMs": 856240,
+      "dDurationMs": 2460,
+      "segs": [
+        {
+          "utf8": "to make the pad, then you're covered."
+        }
+      ]
+    },
+    {
+      "tStartMs": 858700,
+      "dDurationMs": 2180,
+      "segs": [
+        {
+          "utf8": "Gloria, thank you so much\nfor coming on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 860880,
+      "dDurationMs": 4860,
+      "segs": [
+        {
+          "utf8": "Thank you so much for having me, Hannah.\nIt's been a lovely, lovely session."
+        }
+      ]
+    },
+    {
+      "tStartMs": 865740,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Thank you so much for joining us.\nI'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 868540,
+      "dDurationMs": 3180,
+      "segs": [
+        {
+          "utf8": "This is what in the world\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 871720,
+      "dDurationMs": 2780,
+      "segs": [
+        {
+          "utf8": "Is period poverty an issue\nin your country?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 874500,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Let us know in the comments\ndown below here on YouTube."
+        }
+      ]
+    },
+    {
+      "tStartMs": 877180,
+      "dDurationMs": 4420,
+      "segs": [
+        {
+          "utf8": "We're also on WhatsApp and Instagram\nand we'll see you next time. Bye."
+        }
+      ]
+    }
+  ]
+}

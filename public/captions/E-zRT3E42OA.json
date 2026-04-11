@@ -1,0 +1,1591 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Julia. I'm a firstborn. I don't want\nto hear firstborns aren't special."
+    } ]
+  }, {
+    "tStartMs": 5440,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "They're special in some ways."
+    } ]
+  }, {
+    "tStartMs": 7880,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "But I have read\nthat they're smarter, right?"
+    } ]
+  }, {
+    "tStartMs": 11680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Yes. So there is one finding\nthat does turn out to be replicable,"
+    } ]
+  }, {
+    "tStartMs": 15840,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "at least in\nsome western countries and"
+    } ]
+  }, {
+    "tStartMs": 18520,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "that is that firstborns do tend to be\na little bit smarter on average."
+    } ]
+  }, {
+    "tStartMs": 23360,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Hey, I'm Iqra and this is What in\nthe World from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 27800,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Have you ever wondered if the order\nthat you're born in."
+    } ]
+  }, {
+    "tStartMs": 30200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So like being the eldest or the\nyoungest can affect your personality?"
+    } ]
+  }, {
+    "tStartMs": 34200,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "It's something we've been chatting\nabout on the team,"
+    } ]
+  }, {
+    "tStartMs": 36240,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "inspired by our socials, as ever."
+    } ]
+  }, {
+    "tStartMs": 39040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I'm an eldest daughter,\nso I'm the big sister,"
+    } ]
+  }, {
+    "tStartMs": 42320,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and I think it comes\nwith some upsides and downsides."
+    } ]
+  }, {
+    "tStartMs": 45400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "There's definitely some challenges not to make this sound\nlike a therapy session."
+    } ]
+  }, {
+    "tStartMs": 48800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I think being the eldest child comes\nwith some extra responsibility,"
+    } ]
+  }, {
+    "tStartMs": 52400,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "maybe some main\ncharacter energy there too."
+    } ]
+  }, {
+    "tStartMs": 54640,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Maybe like being the center\nof attention."
+    } ]
+  }, {
+    "tStartMs": 56800,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "I've definitely had that bossy label\nfor my siblings a few times growing up."
+    } ]
+  }, {
+    "tStartMs": 60520,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Is that because I'm the eldest child\nthough or is it all a myth?"
+    } ]
+  }, {
+    "tStartMs": 63400,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "That's what we're going\nto be chatting about today."
+    } ]
+  }, {
+    "tStartMs": 64960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "We're hearing from BBC colleagues around\nthe world with different birth orders."
+    } ]
+  }, {
+    "tStartMs": 68640,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "I am a twin.\nI am treated as the eldest."
+    } ]
+  }, {
+    "tStartMs": 73360,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Hello, my name is Jacob and I'm a middle\nchild wedged in between two sisters."
+    } ]
+  }, {
+    "tStartMs": 77320,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "I definitely feel that being the youngest has shaped\nthe person I am today."
+    } ]
+  }, {
+    "tStartMs": 81920,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And getting some answers\nfrom a psychologist."
+    } ]
+  }, {
+    "tStartMs": 91040,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "So let's get into it."
+    } ]
+  }, {
+    "tStartMs": 91920,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "I'm speaking to Julia Rohrer,\nwho is a personality psychologist"
+    } ]
+  }, {
+    "tStartMs": 96960,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "at Leipzig University in Germany.\nHey, Julia."
+    } ]
+  }, {
+    "tStartMs": 101720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So, Julia, I know you've been looking\nat this link between birth orders"
+    } ]
+  }, {
+    "tStartMs": 105800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and personality\nin a lot of different ways."
+    } ]
+  }, {
+    "tStartMs": 109600,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "We're going to talk through some\nscenarios, but first off, I wanted"
+    } ]
+  }, {
+    "tStartMs": 112840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "to know how do you test if birth\norder has an effect on personalities?"
+    } ]
+  }, {
+    "tStartMs": 117080,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Like what sort of studies are out\nthere? What's the science behind it?"
+    } ]
+  }, {
+    "tStartMs": 120720,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So the easiest thing you can really do"
+    } ]
+  }, {
+    "tStartMs": 122760,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "is you ask people about their personality,"
+    } ]
+  }, {
+    "tStartMs": 125280,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and you also ask them some details\nabout their family,"
+    } ]
+  }, {
+    "tStartMs": 127760,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "maybe also how they how they grew up\nand so on."
+    } ]
+  }, {
+    "tStartMs": 130480,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And then you can just,\num, essentially do comparisons."
+    } ]
+  }, {
+    "tStartMs": 133080,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So you take the average firstborn,\nfor example,"
+    } ]
+  }, {
+    "tStartMs": 135520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "and you take the average second born,"
+    } ]
+  }, {
+    "tStartMs": 137200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and then you just compare them\nand see whether the answers differ."
+    } ]
+  }, {
+    "tStartMs": 140160,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And that can give you some indication\non whether there are"
+    } ]
+  }, {
+    "tStartMs": 142800,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "any systematic differences between the\nbirth order positions and ultimately,"
+    } ]
+  }, {
+    "tStartMs": 147040,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "whether birth order could affect\nour personality."
+    } ]
+  }, {
+    "tStartMs": 150480,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And so we have some examples of this"
+    } ]
+  }, {
+    "tStartMs": 153680,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and some people with some questions,\nour BBC colleagues."
+    } ]
+  }, {
+    "tStartMs": 156520,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So let's hear from Faith first."
+    } ]
+  }, {
+    "tStartMs": 159240,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I am a twin. I was the second\nto be born as a twin,"
+    } ]
+  }, {
+    "tStartMs": 164240,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but I am treated as the eldest.\nI was born in Lagos."
+    } ]
+  }, {
+    "tStartMs": 169240,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "Lagos, Nigeria and Lagos is part of part\nof the states that are Yoruba."
+    } ]
+  }, {
+    "tStartMs": 176560,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "So even though I personally I am not\nYoruba because of how I was born."
+    } ]
+  }, {
+    "tStartMs": 183440,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Because I was born as part of a twin."
+    } ]
+  }, {
+    "tStartMs": 185720,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "What that means is that\nI actually sent my sister out first"
+    } ]
+  }, {
+    "tStartMs": 190000,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "to check if the world is good\nbefore I came out."
+    } ]
+  }, {
+    "tStartMs": 193440,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So that is what makes\nme the first born."
+    } ]
+  }, {
+    "tStartMs": 196120,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I'm the oldest.\nI'm supposed to be the strongest."
+    } ]
+  }, {
+    "tStartMs": 198240,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I'm supposed to be\nfinancially responsible."
+    } ]
+  }, {
+    "tStartMs": 201000,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And that's what I take\ninto a lot of my relationships."
+    } ]
+  }, {
+    "tStartMs": 204240,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So we're talking\nabout the eldest child here."
+    } ]
+  }, {
+    "tStartMs": 206480,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Have these studies shown if\nthe eldest child have certain traits?"
+    } ]
+  }, {
+    "tStartMs": 211360,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So first of all,\nbeing the first of twins"
+    } ]
+  }, {
+    "tStartMs": 213800,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "is kind of an interesting\nconstellation because honestly,"
+    } ]
+  }, {
+    "tStartMs": 216360,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "our research usually exclude twins\nbecause it is kind of ambiguous."
+    } ]
+  }, {
+    "tStartMs": 221200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So for some twins it's very clear,\noh, you're the first one,"
+    } ]
+  }, {
+    "tStartMs": 224760,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm the second born. And\nthis seems to be one of these cases."
+    } ]
+  }, {
+    "tStartMs": 227760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "In other scenarios\nit's less clear. Right."
+    } ]
+  }, {
+    "tStartMs": 230040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And so it could even like flip\nthe order if"
+    } ]
+  }, {
+    "tStartMs": 232040,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "the other one turns out taller\nand so on."
+    } ]
+  }, {
+    "tStartMs": 234600,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Um, but typically\nso the stereotype is"
+    } ]
+  }, {
+    "tStartMs": 236840,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "that the firstborn has to take care\nof people and so on."
+    } ]
+  }, {
+    "tStartMs": 240320,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And I think\nit could be very well true"
+    } ]
+  }, {
+    "tStartMs": 242920,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "that this is what happens when\nthey grow up within their family."
+    } ]
+  }, {
+    "tStartMs": 246800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "However, if you look at if\nyou compare personality in adulthood,"
+    } ]
+  }, {
+    "tStartMs": 250320,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "it doesn't seem to be anything\nreally special about firstborns,"
+    } ]
+  }, {
+    "tStartMs": 254800,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "at least when it comes to their\npersonality in the narrower sense."
+    } ]
+  }, {
+    "tStartMs": 257520,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So, for example, one idea is that\nthey could be more conscientious."
+    } ]
+  }, {
+    "tStartMs": 261240,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "They will make perfect sense\ngiven the expectations"
+    } ]
+  }, {
+    "tStartMs": 264000,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "that usually rest on firstborns."
+    } ]
+  }, {
+    "tStartMs": 266360,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "However, we actually do not find that\nif we analyse our data properly."
+    } ]
+  }, {
+    "tStartMs": 270640,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So one mistake one can do here\nis like just comparing siblings."
+    } ]
+  }, {
+    "tStartMs": 274120,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And so you always compare the firstborn\nto their younger sibling and so on."
+    } ]
+  }, {
+    "tStartMs": 277840,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "But then you're doing\nan unfair comparison because"
+    } ]
+  }, {
+    "tStartMs": 279880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the firstborn is always older."
+    } ]
+  }, {
+    "tStartMs": 281880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And we do know\nthat personality changes with age."
+    } ]
+  }, {
+    "tStartMs": 284280,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So for example,\nas people age, even well"
+    } ]
+  }, {
+    "tStartMs": 286640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "into their 30s,\ntheir conscientiousness increases."
+    } ]
+  }, {
+    "tStartMs": 289640,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So we need to correct\nfor that age effect"
+    } ]
+  }, {
+    "tStartMs": 292320,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "so that we don't mistake age\nfor birth order."
+    } ]
+  }, {
+    "tStartMs": 295880,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "And once we do that,\nwe actually don't find any effects."
+    } ]
+  }, {
+    "tStartMs": 299360,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So there. So it seems to be\nthat while firstborns do often have"
+    } ]
+  }, {
+    "tStartMs": 303280,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "a special role\nwithin the family itself"
+    } ]
+  }, {
+    "tStartMs": 305800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "that does not necessarily translate\ninto personality differences."
+    } ]
+  }, {
+    "tStartMs": 309600,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Julia, I'm a firstborn. I don't want\nto hear firstborns aren't special."
+    } ]
+  }, {
+    "tStartMs": 314760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "They are special in some ways."
+    } ]
+  }, {
+    "tStartMs": 317160,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "But I have read\nthat they're smarter, right?"
+    } ]
+  }, {
+    "tStartMs": 321680,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Yes. So there is one finding\nthat does turn out to be replicable,"
+    } ]
+  }, {
+    "tStartMs": 325880,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "at least in some Western countries,"
+    } ]
+  }, {
+    "tStartMs": 328360,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "and that is that firstborns do tend\nto be a little bit smarter on average."
+    } ]
+  }, {
+    "tStartMs": 333480,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Now I'm a firstborn myself, and\nbefore I get overly smug about that."
+    } ]
+  }, {
+    "tStartMs": 337600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So first of all, it's a\nsuper tiny difference in averages."
+    } ]
+  }, {
+    "tStartMs": 342000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And it's also very important to stress\nthat it's not deterministic in any manner."
+    } ]
+  }, {
+    "tStartMs": 346240,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So if you look at a family and you\ncompare the siblings, um, it's not"
+    } ]
+  }, {
+    "tStartMs": 350920,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "quite as likely that the second born\nis as smart as the firstborn,"
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but the chances are\nlike it's not 50/50,"
+    } ]
+  }, {
+    "tStartMs": 356920,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "but it's like 60 to 40.\nSo there will be many, many families"
+    } ]
+  }, {
+    "tStartMs": 360280,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "in which the second born is smarter\nthan the firstborn."
+    } ]
+  }, {
+    "tStartMs": 363560,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "And so there's no reason to get overly\nsmug about being the firstborn here."
+    } ]
+  }, {
+    "tStartMs": 367640,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Okay. Lesson learned. But,\num, why do you think that is then?"
+    } ]
+  }, {
+    "tStartMs": 371760,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Or what do the studies\nand research show about?"
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "There is no firstborn\nbeing slightly smarter."
+    } ]
+  }, {
+    "tStartMs": 378280,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "There is some evidence that mums are more\ncautious during their first pregnancy,"
+    } ]
+  }, {
+    "tStartMs": 383640,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "so they might be more likely\nto follow recommendations and so on."
+    } ]
+  }, {
+    "tStartMs": 386400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I'm not sure whether that is actually\na big part of the story,"
+    } ]
+  }, {
+    "tStartMs": 388960,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "but it's just like one possibility."
+    } ]
+  }, {
+    "tStartMs": 391600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And then there's other research\nthat indicates that."
+    } ]
+  }, {
+    "tStartMs": 394320,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And that is quite obvious\nactually, that"
+    } ]
+  }, {
+    "tStartMs": 396400,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "if you're the firstborn\nwho other kids are around,"
+    } ]
+  }, {
+    "tStartMs": 398960,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "so your parents\nwill have more time for you initially"
+    } ]
+  }, {
+    "tStartMs": 402280,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and might provide\nmore cognitive stimulation and so on."
+    } ]
+  }, {
+    "tStartMs": 405520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But I think one should also be open\nto explanations"
+    } ]
+  }, {
+    "tStartMs": 408640,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "that occur much later in life."
+    } ]
+  }, {
+    "tStartMs": 411400,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "So we do have,\nfor example, some evidence"
+    } ]
+  }, {
+    "tStartMs": 413680,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "from Sweden that firstborns\ntend to go into other degrees."
+    } ]
+  }, {
+    "tStartMs": 417880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "They might be more likely\nto study medicine and so on."
+    } ]
+  }, {
+    "tStartMs": 420760,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "And this could be very well\ndue to parental expectations."
+    } ]
+  }, {
+    "tStartMs": 423840,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "And now we do know that education\nfeeds back into intelligence."
+    } ]
+  }, {
+    "tStartMs": 428240,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "They stay in education for longer."
+    } ]
+  }, {
+    "tStartMs": 430160,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And this could also give them\nlike a slight cognitive boost."
+    } ]
+  }, {
+    "tStartMs": 433280,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And lastly it could be a combination of\nthese factors depending on the family."
+    } ]
+  }, {
+    "tStartMs": 436920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So it need not happen in every family.\nSo from the first born all the way"
+    } ]
+  }, {
+    "tStartMs": 441080,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "to the youngest child\nlet's hear from Santiago."
+    } ]
+  }, {
+    "tStartMs": 444040,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I live in Miami, but\nI was born and raised in Colombia."
+    } ]
+  }, {
+    "tStartMs": 447960,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I have an older sister."
+    } ]
+  }, {
+    "tStartMs": 450160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "She's three years older than me,\nand I definitely feel"
+    } ]
+  }, {
+    "tStartMs": 453600,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "that being the youngest has shaped\nthe person I am today."
+    } ]
+  }, {
+    "tStartMs": 457240,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "I think I, I fall a little bit\ninto the stereotype, um,"
+    } ]
+  }, {
+    "tStartMs": 462440,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "of uh, being the youngest sibling\nwho is a little bit rebellious and"
+    } ]
+  }, {
+    "tStartMs": 467280,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "who is different from their family."
+    } ]
+  }, {
+    "tStartMs": 469760,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Uh, and I like that\nabout being the youngest."
+    } ]
+  }, {
+    "tStartMs": 474000,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Um, I think it gives you a lot\nof Information and reference,"
+    } ]
+  }, {
+    "tStartMs": 478720,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and you get to decide whether\nyou want to be like that or not."
+    } ]
+  }, {
+    "tStartMs": 482760,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "Now, if you look for any differences\nin the usual personality measures"
+    } ]
+  }, {
+    "tStartMs": 489240,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "and so on, we don't really find\nthat much evidence for it."
+    } ]
+  }, {
+    "tStartMs": 493720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So, for example,\nwe don't find that later"
+    } ]
+  }, {
+    "tStartMs": 496120,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "or last borns might be\nmore willing to take risk."
+    } ]
+  }, {
+    "tStartMs": 499440,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "You would expect\nmaybe higher extraversion"
+    } ]
+  }, {
+    "tStartMs": 502720,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "or higher sociability\namong later borns."
+    } ]
+  }, {
+    "tStartMs": 505880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And we don't find that in adults."
+    } ]
+  }, {
+    "tStartMs": 508520,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "However, we have actually analysed data\nfrom like 14 year olds in Germany"
+    } ]
+  }, {
+    "tStartMs": 514720,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "who self-reported, um,\non their sociability and so on."
+    } ]
+  }, {
+    "tStartMs": 519400,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "And, um, this study is special in so far\nthat we also have parental reports."
+    } ]
+  }, {
+    "tStartMs": 524720,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And what we actually do find there is\nthat later borns describe themselves,"
+    } ]
+  }, {
+    "tStartMs": 529200,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "on average,\nas slightly more sociable."
+    } ]
+  }, {
+    "tStartMs": 531560,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "But what is maybe\neven more remarkable is"
+    } ]
+  }, {
+    "tStartMs": 533600,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that the parents actually see\nlarger differences there."
+    } ]
+  }, {
+    "tStartMs": 536960,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And so we do see that in\nparental reports later borns appear"
+    } ]
+  }, {
+    "tStartMs": 541640,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "to be quite a bit more sociable.\nYeah."
+    } ]
+  }, {
+    "tStartMs": 543760,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "And when we're talking about this data,\nmost of it relates to adults, right."
+    } ]
+  }, {
+    "tStartMs": 548680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Um, and we feel like there might be\nmore of a link between personality"
+    } ]
+  }, {
+    "tStartMs": 552960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and birth order in children.\nIs that right?"
+    } ]
+  }, {
+    "tStartMs": 555520,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Unfortunately, um, it's kind of involved\nto collect data from children, um,"
+    } ]
+  }, {
+    "tStartMs": 560800,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "in particular when they are,\nlike, so young"
+    } ]
+  }, {
+    "tStartMs": 563040,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "that they can't even fill out\nquestionnaires already."
+    } ]
+  }, {
+    "tStartMs": 566440,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So you might rely on parental reports,\nbut then parental reports will,"
+    } ]
+  }, {
+    "tStartMs": 570320,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "of course be biased by\nparental expectations."
+    } ]
+  }, {
+    "tStartMs": 573560,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So we don't have a lot of data there."
+    } ]
+  }, {
+    "tStartMs": 575600,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "It's plausible to expect\nthat there could be effects."
+    } ]
+  }, {
+    "tStartMs": 579520,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "My prediction would be that they\naren't huge because personality is"
+    } ]
+  }, {
+    "tStartMs": 583640,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "to some extent at least stable."
+    } ]
+  }, {
+    "tStartMs": 586280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And so if there were huge differences\nin childhood,"
+    } ]
+  }, {
+    "tStartMs": 589040,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "we should observe at least a little\nbit, um, among younger adults."
+    } ]
+  }, {
+    "tStartMs": 592840,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And we don't do that, um,\nmuch either."
+    } ]
+  }, {
+    "tStartMs": 595760,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So I don't think there's anything big\ngoing on there on average."
+    } ]
+  }, {
+    "tStartMs": 599520,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "But I do think\nit's entirely possible that"
+    } ]
+  }, {
+    "tStartMs": 602480,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "for individuals it might matter\nquite a bit,"
+    } ]
+  }, {
+    "tStartMs": 604960,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "and they might have turned out differently\nif they had grown up in a different constellation."
+    } ]
+  }, {
+    "tStartMs": 609480,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "It's just one of those things\nthat you can never know for certain"
+    } ]
+  }, {
+    "tStartMs": 612240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "because you only grow up once."
+    } ]
+  }, {
+    "tStartMs": 614360,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "So you can't observe a different\nworld in which you maybe were like\na different birth order position."
+    } ]
+  }, {
+    "tStartMs": 618880,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "We can't forget\nabout the middle child."
+    } ]
+  }, {
+    "tStartMs": 620960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I don't think the middle child would\nlike it if we forgot about them."
+    } ]
+  }, {
+    "tStartMs": 624360,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So here is Jacob."
+    } ]
+  }, {
+    "tStartMs": 626280,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I'm a middle child wedged in\nbetween two sisters,"
+    } ]
+  }, {
+    "tStartMs": 629040,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "and I think the one thing being a\nmiddle child has really shaped on me"
+    } ]
+  }, {
+    "tStartMs": 633080,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "is I am just so competitive\nabout everything."
+    } ]
+  }, {
+    "tStartMs": 636040,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "But also, um,\nI think I'm a bit of a class clown."
+    } ]
+  }, {
+    "tStartMs": 639960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "I'm kind of conflict avoidant."
+    } ]
+  }, {
+    "tStartMs": 642400,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "I think I'm very chilled about\neverything and I hate asking for help."
+    } ]
+  }, {
+    "tStartMs": 646800,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "I think the youngest child\ncan get away with whatever they want,"
+    } ]
+  }, {
+    "tStartMs": 649920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and then having a high achieving\neldest child was a bit of pressure."
+    } ]
+  }, {
+    "tStartMs": 653680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And even if it wasn't between uh,\nmy parents and I."
+    } ]
+  }, {
+    "tStartMs": 657040,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "It was between me and my sibling and me\nwanting to be better at everything."
+    } ]
+  }, {
+    "tStartMs": 660640,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So it's kind of unfair."
+    } ]
+  }, {
+    "tStartMs": 662720,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "But middle children are\na bit neglected in research, I'd say."
+    } ]
+  }, {
+    "tStartMs": 666800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "And that is because many studies\nwill actually just, um, look"
+    } ]
+  }, {
+    "tStartMs": 670400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "at firstborns versus later borns."
+    } ]
+  }, {
+    "tStartMs": 672720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "So the later borns would just lump\ntogether middle children and last ones."
+    } ]
+  }, {
+    "tStartMs": 676680,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And I think for some middle children\nthey would say,"
+    } ]
+  }, {
+    "tStartMs": 679080,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "oh yeah, that is like typical.\nThey just get um, ignored."
+    } ]
+  }, {
+    "tStartMs": 682720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So um, again,\nunfortunately in our study, at least"
+    } ]
+  }, {
+    "tStartMs": 685720,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "in adulthood, there is nothing that\nstands out about middle children."
+    } ]
+  }, {
+    "tStartMs": 690240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Um, on average,\nwe don't see any sign"
+    } ]
+  }, {
+    "tStartMs": 693240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "that it would affect\ntheir personality in the long run."
+    } ]
+  }, {
+    "tStartMs": 695880,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "But that might also be because the\nexperience can just be so different"
+    } ]
+  }, {
+    "tStartMs": 699760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "from family to family that\nwe can't make any statements about,"
+    } ]
+  }, {
+    "tStartMs": 703240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "like the average case\nand how that matters."
+    } ]
+  }, {
+    "tStartMs": 705560,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Okay. So we've talked through a lot\nof the different scenarios there"
+    } ]
+  }, {
+    "tStartMs": 708640,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "heard from\nall those different BBC colleagues."
+    } ]
+  }, {
+    "tStartMs": 711240,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "But the big question is Julia, can\npersonality be affected by birth order."
+    } ]
+  }, {
+    "tStartMs": 717280,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Are there other factors at play here?"
+    } ]
+  }, {
+    "tStartMs": 719280,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "Overall, I would say the effects\nof birth order on personality."
+    } ]
+  }, {
+    "tStartMs": 724760,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "If if they are, um, systematic at all,\num, they will be very, very small."
+    } ]
+  }, {
+    "tStartMs": 732200,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So, um, if I talk to somebody"
+    } ]
+  }, {
+    "tStartMs": 734560,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and they tell me\ntheir birth order position, um, I,"
+    } ]
+  }, {
+    "tStartMs": 737600,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "I would assume\nI've learned very little about them."
+    } ]
+  }, {
+    "tStartMs": 741160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I did learn a bit. Right.\nLike about how they probably grew up"
+    } ]
+  }, {
+    "tStartMs": 744040,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and maybe some things that happened\nduring their childhood."
+    } ]
+  }, {
+    "tStartMs": 746680,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "But I wouldn't expect that I learned\nanything new about their personality"
+    } ]
+  }, {
+    "tStartMs": 750960,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "that I didn't, um, already get\nfrom the other information."
+    } ]
+  }, {
+    "tStartMs": 754400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It actually\ncurrently does seem like so."
+    } ]
+  }, {
+    "tStartMs": 757400,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Personality is partly,\num, genetically determined."
+    } ]
+  }, {
+    "tStartMs": 760880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Maybe a bit less than half\nof the differences"
+    } ]
+  }, {
+    "tStartMs": 763520,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "could be explained by, um,\ngenetic differences."
+    } ]
+  }, {
+    "tStartMs": 766600,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And then there is a huge chunk\nof environmental influences."
+    } ]
+  }, {
+    "tStartMs": 770440,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So the environment does shape\nwho we are."
+    } ]
+  }, {
+    "tStartMs": 773040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "But it seems like very little\nof that is the environment"
+    } ]
+  }, {
+    "tStartMs": 776920,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "that kids actually share\nwithin the family."
+    } ]
+  }, {
+    "tStartMs": 779400,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Yeah, well, I'm still going\nto believe I'm more special,"
+    } ]
+  }, {
+    "tStartMs": 781920,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "but thank you Julia.\nYeah. Thank you."
+    } ]
+  }, {
+    "tStartMs": 784440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Okay, so you've heard\nabout the research into this BBC pals"
+    } ]
+  }, {
+    "tStartMs": 787800,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "wanted to go back to you guys.\nWhat are you making of it all?"
+    } ]
+  }, {
+    "tStartMs": 790320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I've never thought that,"
+    } ]
+  }, {
+    "tStartMs": 792800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "um, elder children are more\nare smarter than younger children."
+    } ]
+  }, {
+    "tStartMs": 798000,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "You're always a product\nof your childhood."
+    } ]
+  }, {
+    "tStartMs": 799640,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Would I be the same person\nas I am right now?"
+    } ]
+  }, {
+    "tStartMs": 802720,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "If I was an older sibling\nor younger sibling, I don't know."
+    } ]
+  }, {
+    "tStartMs": 806400,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And also having an elder sibling\nto, you know,"
+    } ]
+  }, {
+    "tStartMs": 808840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "rely on emotionally\nand stuff like that sometimes."
+    } ]
+  }, {
+    "tStartMs": 811240,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I think those things probably do have\nan impact,"
+    } ]
+  }, {
+    "tStartMs": 813800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "but obviously they're also personal.\nIt's probably hard to quantify."
+    } ]
+  }, {
+    "tStartMs": 817000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I think it's very interesting\nto to hear"
+    } ]
+  }, {
+    "tStartMs": 819200,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "that birth order doesn't have\nan objective impact on personality."
+    } ]
+  }, {
+    "tStartMs": 824280,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "And it makes me think that,\num, probably we built these ideas"
+    } ]
+  }, {
+    "tStartMs": 830200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and these archetypes of the younger\nversus the older versus the one"
+    } ]
+  }, {
+    "tStartMs": 833760,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "in the middle,\nbased on stories based on things"
+    } ]
+  }, {
+    "tStartMs": 836800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "that we have been telling over\nand over again throughout history."
+    } ]
+  }, {
+    "tStartMs": 840320,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I think myths are everywhere around us\nand they will continue to shape society."
+    } ]
+  }, {
+    "tStartMs": 846320,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So that's them.\nWhat about you guys?"
+    } ]
+  }, {
+    "tStartMs": 848120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Remember you can comment below,\nlike and subscribe!"
+    } ]
+  }, {
+    "tStartMs": 850880,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "We're also on Instagram\nat BBC What in the World, over there."
+    } ]
+  }, {
+    "tStartMs": 854440,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I'm ready for your messages,\nbut speaking of messages."
+    } ]
+  }, {
+    "tStartMs": 857480,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Today's shout out goes\nto @WinterFall."
+    } ]
+  }, {
+    "tStartMs": 860800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Who commented on our episode\nabout internet parents in China."
+    } ]
+  }, {
+    "tStartMs": 864320,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "The comment says ''I've known\nthe digital parent trend for a while,"
+    } ]
+  }, {
+    "tStartMs": 867760,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "but I only realised its popularity\nafter watching your video."
+    } ]
+  }, {
+    "tStartMs": 871440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Actually, on Red note,\nthere are some young females acting"
+    } ]
+  }, {
+    "tStartMs": 874560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "as old money digital mothers as well,"
+    } ]
+  }, {
+    "tStartMs": 876960,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "and in these videos, they tend\nto reassure their digital daughters"
+    } ]
+  }, {
+    "tStartMs": 879880,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "that they don't need to worry about\ntheir family's financial status,"
+    } ]
+  }, {
+    "tStartMs": 883560,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and they're encouraged to pursue\ntheir dreams''."
+    } ]
+  }, {
+    "tStartMs": 885760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Thank you for that one.\nBut for now, I'm Iqra."
+    } ]
+  }, {
+    "tStartMs": 888400,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "This is What in the World\nfrom BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 890920,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And I'll see you guys next time. Bye."
+    } ]
+  } ]
+}

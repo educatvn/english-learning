@@ -1,0 +1,1531 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I have now been looking\nfor a job for a year,"
+    } ]
+  }, {
+    "tStartMs": 3320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "with more than 200 applications sent."
+    } ]
+  }, {
+    "tStartMs": 6120,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "How much longer will I be\nkind of stuck in this limbo?"
+    } ]
+  }, {
+    "tStartMs": 10640,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "I guess between school and,\nyou know, adulthood."
+    } ]
+  }, {
+    "tStartMs": 14760,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Most people I know have been impacted\nby layoffs at least once,"
+    } ]
+  }, {
+    "tStartMs": 18440,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "if not twice.\nHey, it's Hannah here."
+    } ]
+  }, {
+    "tStartMs": 20760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Welcome to What in the World, the\npodcast for all of your news, trends"
+    } ]
+  }, {
+    "tStartMs": 24240,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and talking points\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 27360,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Applying for jobs is really tough."
+    } ]
+  }, {
+    "tStartMs": 29960,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "You've got\nto scour the internet for ads"
+    } ]
+  }, {
+    "tStartMs": 32080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and then put in all of that time\nand mental energy on an application,"
+    } ]
+  }, {
+    "tStartMs": 35600,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and that's before you've even found\nout if you've got an interview."
+    } ]
+  }, {
+    "tStartMs": 38840,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "But some people have been finding\nthat process even harder than normal."
+    } ]
+  }, {
+    "tStartMs": 42800,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "They've been putting in loads of\napplications and never hearing back."
+    } ]
+  }, {
+    "tStartMs": 46200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And we've all heard the chat\nabout AI taking our jobs."
+    } ]
+  }, {
+    "tStartMs": 49120,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And there have been some recent studies\nthat suggest that AI is making it harder"
+    } ]
+  }, {
+    "tStartMs": 53240,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "for younger people\nand grads to get their first jobs."
+    } ]
+  }, {
+    "tStartMs": 56800,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So is AI after your job\nand what can you do to adapt?"
+    } ]
+  }, {
+    "tStartMs": 64420,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I'm speaking to Nathalie Jimenez,\na BBC reporter in New York."
+    } ]
+  }, {
+    "tStartMs": 67700,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Hey, Nathalie. Welcome back.\nHi. Thank you so much for having me."
+    } ]
+  }, {
+    "tStartMs": 71020,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Okay, so firstly this chat\nabout AI taking entry level jobs."
+    } ]
+  }, {
+    "tStartMs": 75180,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "How big of a problem is it?\nWhat do the studies say?"
+    } ]
+  }, {
+    "tStartMs": 78380,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So I mean the quick answer is yes."
+    } ]
+  }, {
+    "tStartMs": 81260,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "We're going\nthrough an AI disruption phase."
+    } ]
+  }, {
+    "tStartMs": 84620,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "That's the phrase\nthat you're often going to hear."
+    } ]
+  }, {
+    "tStartMs": 86820,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So yes, AI is starting to replace jobs\nand particularly entry level jobs."
+    } ]
+  }, {
+    "tStartMs": 91860,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Those are the first\non the chopping block."
+    } ]
+  }, {
+    "tStartMs": 93900,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And that's because they're often\nadministrative,"
+    } ]
+  }, {
+    "tStartMs": 97540,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "they're digital, they're repetitive."
+    } ]
+  }, {
+    "tStartMs": 100260,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "They're basically jobs\nthat AI can learn quite easily,"
+    } ]
+  }, {
+    "tStartMs": 103540,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "make more efficient, go faster."
+    } ]
+  }, {
+    "tStartMs": 106460,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "That's very attractive to companies\nthat are starting to look to cut costs."
+    } ]
+  }, {
+    "tStartMs": 110620,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So yes, young people\nare suffering the most."
+    } ]
+  }, {
+    "tStartMs": 112660,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And we see that in the numbers too.\nStanford did a study and it said that"
+    } ]
+  }, {
+    "tStartMs": 117140,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "since late 2022, right when ChatGPT\nwent big, people aged 22 to 25"
+    } ]
+  }, {
+    "tStartMs": 123300,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "have seen a 13% drop in jobs in roles\nthat are easy for AI to handle."
+    } ]
+  }, {
+    "tStartMs": 128140,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So I'm talking software development,\nmarketing, customer service."
+    } ]
+  }, {
+    "tStartMs": 132420,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Meanwhile, older workers\nare not affected in the same way."
+    } ]
+  }, {
+    "tStartMs": 135620,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So that's why\nthe study essentially calls"
+    } ]
+  }, {
+    "tStartMs": 137820,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "young people 'canaries\nin the coal mine'."
+    } ]
+  }, {
+    "tStartMs": 140660,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "There's a real problem because\nif people aren't being accepted"
+    } ]
+  }, {
+    "tStartMs": 143300,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "at entry level,\nthen they can't progress up the chain"
+    } ]
+  }, {
+    "tStartMs": 145940,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and then they can't get\nthe expertise to get to those kind"
+    } ]
+  }, {
+    "tStartMs": 148140,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "of more secure mid and top level\njobs, the ones where they have"
+    } ]
+  }, {
+    "tStartMs": 152060,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "those soft skills that\ncan't be imitated or replaced by AI."
+    } ]
+  }, {
+    "tStartMs": 156980,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And of course, this isn't\nthe only thing that's affecting"
+    } ]
+  }, {
+    "tStartMs": 159300,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "the US job market at the moment."
+    } ]
+  }, {
+    "tStartMs": 161780,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "What are some of the other things that\nhave been going on for young people?"
+    } ]
+  }, {
+    "tStartMs": 164420,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Right. So this is kind of part\nof a bigger shift."
+    } ]
+  }, {
+    "tStartMs": 166780,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So we obviously have\nmacroeconomic factors."
+    } ]
+  }, {
+    "tStartMs": 168860,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So after the pandemic there was\na chilling in the job market."
+    } ]
+  }, {
+    "tStartMs": 171820,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Basically people are hiring less."
+    } ]
+  }, {
+    "tStartMs": 173300,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So that's one of the issues\nthat we're dealing with too."
+    } ]
+  }, {
+    "tStartMs": 175980,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "There is an oversaturated market.\nMore people have college degrees"
+    } ]
+  }, {
+    "tStartMs": 179300,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "so there are more people applying\nfor administrative jobs,"
+    } ]
+  }, {
+    "tStartMs": 183040,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "less so, you know, jobs in in retail.\nThose jobs in retail,"
+    } ]
+  }, {
+    "tStartMs": 188240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "in healthcare, the ones that need\na little bit more human interaction,"
+    } ]
+  }, {
+    "tStartMs": 191760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "they're still going,\npeople are still hiring."
+    } ]
+  }, {
+    "tStartMs": 194400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Whereas the ones that need maybe,"
+    } ]
+  }, {
+    "tStartMs": 197400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "you know, a college degree\nin the sense of computer science,"
+    } ]
+  }, {
+    "tStartMs": 200040,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "that was a job that was very,\nvery in demand"
+    } ]
+  }, {
+    "tStartMs": 202400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "a few years ago,\nnow that's starting to decline."
+    } ]
+  }, {
+    "tStartMs": 205200,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "So, yeah, the macroeconomic shifts right\nnow in the economy, it's not great."
+    } ]
+  }, {
+    "tStartMs": 210600,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "And then AI and then an oversaturated\nmarket, it's like the perfect storm."
+    } ]
+  }, {
+    "tStartMs": 215080,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And let's hear from some\nof you guys who got in touch"
+    } ]
+  }, {
+    "tStartMs": 217360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and are looking for work.\nThis is Zola in France."
+    } ]
+  }, {
+    "tStartMs": 220320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "I work in the fields of arts\nand culture."
+    } ]
+  }, {
+    "tStartMs": 223640,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "I hold two master's degrees,\none in political and social sciences"
+    } ]
+  }, {
+    "tStartMs": 227680,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and another one in cultural policy\nand administration."
+    } ]
+  }, {
+    "tStartMs": 230720,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I have now been looking\nfor a job for a year"
+    } ]
+  }, {
+    "tStartMs": 233960,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "with more than 200 applications sent."
+    } ]
+  }, {
+    "tStartMs": 237600,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "I think that on my part.\nThere are several frustrations"
+    } ]
+  }, {
+    "tStartMs": 240900,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "that I'd like to highlight\nwithin this job hunting process."
+    } ]
+  }, {
+    "tStartMs": 245340,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "The lack of formal answers\nfrom employers,"
+    } ]
+  }, {
+    "tStartMs": 247860,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "the disregard for experiences linked\nto internship"
+    } ]
+  }, {
+    "tStartMs": 251660,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "or traineeships,\nor even voluntary contexts."
+    } ]
+  }, {
+    "tStartMs": 254940,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "I do not believe that AI should or can\ntruly replace an artist or a playwright,"
+    } ]
+  }, {
+    "tStartMs": 260260,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "but it has been increasingly used\nto do so in several cases."
+    } ]
+  }, {
+    "tStartMs": 264200,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "And so for me, it is a growing\npolitical and ecological concern."
+    } ]
+  }, {
+    "tStartMs": 268700,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "And we got this from Laura in the US."
+    } ]
+  }, {
+    "tStartMs": 270580,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "I just know so many people applying\nto jobs right now."
+    } ]
+  }, {
+    "tStartMs": 274860,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And right, like every company,\nnot even tech anymore, right?"
+    } ]
+  }, {
+    "tStartMs": 278180,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "The federal government,\nentertainment, media,"
+    } ]
+  }, {
+    "tStartMs": 280640,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "consulting, finance,\nthey're all laying off people."
+    } ]
+  }, {
+    "tStartMs": 284900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So every industry is, you know,\ngetting impacted."
+    } ]
+  }, {
+    "tStartMs": 288500,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "And right when more people are laid off,\nmore people are looking for jobs,"
+    } ]
+  }, {
+    "tStartMs": 293080,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "but there just aren't enough spots\nfor everyone."
+    } ]
+  }, {
+    "tStartMs": 295900,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I think it's so tough for\nyoung people to find jobs right now."
+    } ]
+  }, {
+    "tStartMs": 299400,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Because right\nwhen companies are laying people off,"
+    } ]
+  }, {
+    "tStartMs": 301920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "they're usually laying off\nthe most junior people, right?"
+    } ]
+  }, {
+    "tStartMs": 305920,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So they lay off the 20 somethings\nwho just started working, right?"
+    } ]
+  }, {
+    "tStartMs": 309520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "That's what happened to me.\nWhen they laid off my team at Google,"
+    } ]
+  }, {
+    "tStartMs": 312880,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "it was all the newest hires, right?"
+    } ]
+  }, {
+    "tStartMs": 315000,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "So everyone, basically\neveryone in their 20s got let go."
+    } ]
+  }, {
+    "tStartMs": 318320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "I feel like most people\nI know have been impacted by layoffs"
+    } ]
+  }, {
+    "tStartMs": 323000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "at least once,\nif not twice, if not twice."
+    } ]
+  }, {
+    "tStartMs": 325920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And here is Tiffany,\na recent graduate from New York."
+    } ]
+  }, {
+    "tStartMs": 328960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "The company that I worked at,\nI worked at Apple"
+    } ]
+  }, {
+    "tStartMs": 331400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "when I was an intern last summer."
+    } ]
+  }, {
+    "tStartMs": 333720,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "They didn't have the headcount for\nanother, like a full time employee."
+    } ]
+  }, {
+    "tStartMs": 338200,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And there are\na lot less new grad opportunities."
+    } ]
+  }, {
+    "tStartMs": 340480,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "There used to be\nmore specific new grad programmes"
+    } ]
+  }, {
+    "tStartMs": 343800,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "out there for seniors to apply to."
+    } ]
+  }, {
+    "tStartMs": 346480,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Sometimes I'll feel more motivated\nand hopeful,"
+    } ]
+  }, {
+    "tStartMs": 349400,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "especially\nif I've been interviewing or"
+    } ]
+  }, {
+    "tStartMs": 352160,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "like I'm in like the later ends\nof an interview stage,"
+    } ]
+  }, {
+    "tStartMs": 355680,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "I'll start feeling more hopeful, like\nimagining myself in this job already."
+    } ]
+  }, {
+    "tStartMs": 360500,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But other times, you know,\nlike, I'll be like waking up"
+    } ]
+  }, {
+    "tStartMs": 363780,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "in the middle of the night or like,\nI can't sleep and I'm just thinking"
+    } ]
+  }, {
+    "tStartMs": 366500,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "about how much longer will I be\nkind of stuck in this limbo, I guess,"
+    } ]
+  }, {
+    "tStartMs": 371780,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "between school and, you know,\nadulthood."
+    } ]
+  }, {
+    "tStartMs": 376100,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So it is a little sad sometimes, but\nI think it helps that I'm not alone."
+    } ]
+  }, {
+    "tStartMs": 380580,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And there are a lot of other people\ngoing through the same thing."
+    } ]
+  }, {
+    "tStartMs": 383020,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And talking about what some of the\nbig companies have said, you know,"
+    } ]
+  }, {
+    "tStartMs": 385580,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I've seen things\nfrom Duolingo and Amazon talking"
+    } ]
+  }, {
+    "tStartMs": 388460,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "about how how AI is going to change\nthe way they hire in the future."
+    } ]
+  }, {
+    "tStartMs": 391900,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "What is the message being sent out\nfrom these big companies right now?"
+    } ]
+  }, {
+    "tStartMs": 394860,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So Amazon's CEO was pretty direct"
+    } ]
+  }, {
+    "tStartMs": 398020,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "in a message he sent to employees\nback in June."
+    } ]
+  }, {
+    "tStartMs": 400380,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "He basically said that generative AI is\ngoing to reduce the corporate workforce"
+    } ]
+  }, {
+    "tStartMs": 406580,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "over the next few years\nquite significantly."
+    } ]
+  }, {
+    "tStartMs": 408740,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And that doesn't mean\nthey're not going to hire anyone new."
+    } ]
+  }, {
+    "tStartMs": 411100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "They're still going\nto bring in people"
+    } ]
+  }, {
+    "tStartMs": 413500,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "to teams that are maybe\na little bit more AI heavy."
+    } ]
+  }, {
+    "tStartMs": 417440,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But they expect to need fewer humans\nin general,"
+    } ]
+  }, {
+    "tStartMs": 420440,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and that's going to land\non youngest staff the most, again,"
+    } ]
+  }, {
+    "tStartMs": 424320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "because they're doing\nthese repetitive jobs."
+    } ]
+  }, {
+    "tStartMs": 427040,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "But the ones that need less judgment,\nless critical thinking, that's going"
+    } ]
+  }, {
+    "tStartMs": 431240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "to be replaced by AI, that's where\nthey're going to want to save money."
+    } ]
+  }, {
+    "tStartMs": 435480,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "At Duolingo, the CEO\nhas said pretty much the same thing."
+    } ]
+  }, {
+    "tStartMs": 438920,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "They're AI first now."
+    } ]
+  }, {
+    "tStartMs": 441080,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "They already cut contractors,\nthey're striking employees."
+    } ]
+  }, {
+    "tStartMs": 445320,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And not only that,\nbut they're actually using AI"
+    } ]
+  }, {
+    "tStartMs": 448120,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "as part of their evaluation process."
+    } ]
+  }, {
+    "tStartMs": 450440,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So they're looking\nat how their employees are using AI"
+    } ]
+  }, {
+    "tStartMs": 454040,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "in their day to day\nto make themselves more efficient."
+    } ]
+  }, {
+    "tStartMs": 456480,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So it's not\njust enough to do your tasks well."
+    } ]
+  }, {
+    "tStartMs": 459680,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The company now wants you to prove\nthat you're using AI,"
+    } ]
+  }, {
+    "tStartMs": 463600,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and you're thinking about how to improve\nthe work you're doing with AI tools."
+    } ]
+  }, {
+    "tStartMs": 468560,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So before they approve new hires,"
+    } ]
+  }, {
+    "tStartMs": 470720,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "managers are also going to have\nto convince basically the company"
+    } ]
+  }, {
+    "tStartMs": 475640,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "why AI can't do it\nand why they need a human."
+    } ]
+  }, {
+    "tStartMs": 479360,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "But AI is also changing the application\nprocess for people going for these jobs."
+    } ]
+  }, {
+    "tStartMs": 485720,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Both in terms of how like the\ncomputers are now choosing, sorting"
+    } ]
+  }, {
+    "tStartMs": 489040,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "through the CVs, sorting through\ntapes that people might send in."
+    } ]
+  }, {
+    "tStartMs": 492840,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So actually choosing who might make\nit to interview, as well as"
+    } ]
+  }, {
+    "tStartMs": 496840,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "people using AI to be able\nto write their CVS and applications"
+    } ]
+  }, {
+    "tStartMs": 499960,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and making it harder\nfor them to to stand out."
+    } ]
+  }, {
+    "tStartMs": 502800,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Yeah, exactly. I mean, basically\nthe job application process,"
+    } ]
+  }, {
+    "tStartMs": 506040,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and you'll hear this\nfrom a lot of young hires, people"
+    } ]
+  }, {
+    "tStartMs": 508560,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "in the workforce,\nthat it is changing."
+    } ]
+  }, {
+    "tStartMs": 511760,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Basically,\nwhen you used to apply for a job,"
+    } ]
+  }, {
+    "tStartMs": 515540,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "people used\nto be involved pretty quickly."
+    } ]
+  }, {
+    "tStartMs": 517760,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "They used to look at your resume."
+    } ]
+  }, {
+    "tStartMs": 520240,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "They used to maybe give you a call,\nskim, you know, your skills."
+    } ]
+  }, {
+    "tStartMs": 524840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "But now for lots of companies,\nthe first reader is an algorithm."
+    } ]
+  }, {
+    "tStartMs": 528360,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "It's AI. Resumes are\ngetting scanned by AI for keywords."
+    } ]
+  }, {
+    "tStartMs": 532200,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "Some firms are using AI chatbots\nto ask screening questions."
+    } ]
+  }, {
+    "tStartMs": 536020,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Some AI programmes are even analysing\nvideo interviews to score your answers."
+    } ]
+  }, {
+    "tStartMs": 541260,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "So by the time a human actually looks\nat your application,"
+    } ]
+  }, {
+    "tStartMs": 544900,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "you've already been ranked by\na machine."
+    } ]
+  }, {
+    "tStartMs": 547380,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "So essentially, AI is going to be\npart of the most important segment"
+    } ]
+  }, {
+    "tStartMs": 553300,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "of the hiring process,\nwhich is the beginning."
+    } ]
+  }, {
+    "tStartMs": 555460,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So a lot of people,\neven in my close circle,"
+    } ]
+  }, {
+    "tStartMs": 558100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "the way that you're applying\nfor a job has changed."
+    } ]
+  }, {
+    "tStartMs": 560300,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Like you're going to look\nat the keywords that you need to put"
+    } ]
+  }, {
+    "tStartMs": 563100,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "in your application\nto make sure that you get flagged"
+    } ]
+  }, {
+    "tStartMs": 565860,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "or chosen by these AI tools.\nIt's very formulaic."
+    } ]
+  }, {
+    "tStartMs": 569800,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "That's why a lot of my friends are like,\n'I don't want to write a cover letter,"
+    } ]
+  }, {
+    "tStartMs": 572100,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "I just want to,\nyou know, go into my resume"
+    } ]
+  }, {
+    "tStartMs": 574160,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "and put in those keywords that I need\nto get chosen' because they know"
+    } ]
+  }, {
+    "tStartMs": 577260,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "that a person is not going to look at\ntheir application until much later."
+    } ]
+  }, {
+    "tStartMs": 581020,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Now let's hear the view from India.\nI'm speaking to Varun Mayya,"
+    } ]
+  }, {
+    "tStartMs": 584800,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "who's a YouTuber and founder of\nthe generative AI company Aeos. Hi."
+    } ]
+  }, {
+    "tStartMs": 589340,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Hi. Thank you for inviting me.\nYeah, it's great to speak to you."
+    } ]
+  }, {
+    "tStartMs": 592300,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So you're based in India."
+    } ]
+  }, {
+    "tStartMs": 594540,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "How is AI affecting\npeople's jobs there,"
+    } ]
+  }, {
+    "tStartMs": 597360,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and which are the industries\nthat are most affected?"
+    } ]
+  }, {
+    "tStartMs": 600040,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "To be very honest, I don't think AI has\nreally affected too many jobs in India,"
+    } ]
+  }, {
+    "tStartMs": 604400,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "except for a little bit\nof exposure in software in India."
+    } ]
+  }, {
+    "tStartMs": 607760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Salaries aren't really,\nreally high, so even"
+    } ]
+  }, {
+    "tStartMs": 609840,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "if you are using a tool, an AI tool,"
+    } ]
+  }, {
+    "tStartMs": 612680,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "you'd still want a human being\nto sort of use that tool and run it,"
+    } ]
+  }, {
+    "tStartMs": 616160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "because the person has accountability,\nthe person has context."
+    } ]
+  }, {
+    "tStartMs": 619120,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "But there's also\nthis huge section of people in India"
+    } ]
+  }, {
+    "tStartMs": 622160,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and all over the world that,\nyou know, for lack of a better word,"
+    } ]
+  }, {
+    "tStartMs": 626720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "their only job is to translate\nsomebody else's instructions."
+    } ]
+  }, {
+    "tStartMs": 629840,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Somebody else has made those decisions,\nhas decided how it's going to be solved,"
+    } ]
+  }, {
+    "tStartMs": 632760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and they're just translating that\ninto code."
+    } ]
+  }, {
+    "tStartMs": 635160,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "You know, the original use case\nfor transformer was - the technology"
+    } ]
+  }, {
+    "tStartMs": 639120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "behind LLMs (Large Language Models)\n- was for translation."
+    } ]
+  }, {
+    "tStartMs": 641840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So if you are doing that last piece,\nsomebody else has come up with the idea,"
+    } ]
+  }, {
+    "tStartMs": 644840,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "somebody else has written the spec,\nsomebody else is telling you this is"
+    } ]
+  }, {
+    "tStartMs": 647800,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "exactly how you need to solve it,\nthis is the algorithm you need to use,"
+    } ]
+  }, {
+    "tStartMs": 651040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and then you're writing the code\nfor it, yeah, then you're in trouble."
+    } ]
+  }, {
+    "tStartMs": 654920,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "I think we've had zero people\nin the team,"
+    } ]
+  }, {
+    "tStartMs": 657300,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "in my avatar team,\nthat have lost their jobs."
+    } ]
+  }, {
+    "tStartMs": 660020,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So we've actually had more work\nand a larger team."
+    } ]
+  }, {
+    "tStartMs": 662900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "In fact, the average creator,\nabout two million followers"
+    } ]
+  }, {
+    "tStartMs": 665900,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "across Instagram, YouTube, would have\na team about ten, 12 people."
+    } ]
+  }, {
+    "tStartMs": 669500,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Our team is slightly larger now."
+    } ]
+  }, {
+    "tStartMs": 670620,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It's about 16 people\nbecause the quantity of work."
+    } ]
+  }, {
+    "tStartMs": 672780,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "We're also\nin a very hyper connected world."
+    } ]
+  }, {
+    "tStartMs": 674980,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So this is not ten years ago where you'd\nget like three or four opportunities."
+    } ]
+  }, {
+    "tStartMs": 678140,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Now you're getting like 30,\n40 opportunities a month.\nYou want to take all of them on."
+    } ]
+  }, {
+    "tStartMs": 681580,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So we keep expanding the team to\nabsorb some of those opportunities."
+    } ]
+  }, {
+    "tStartMs": 685460,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Varun, I want to bring it back\nto grads and grad jobs"
+    } ]
+  }, {
+    "tStartMs": 688260,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "because there is relatively high\nyouth unemployment in India."
+    } ]
+  }, {
+    "tStartMs": 692060,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "I think it's about 16% of under 24."
+    } ]
+  }, {
+    "tStartMs": 695180,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "So I want to ask you,\ngiven all of the changes"
+    } ]
+  }, {
+    "tStartMs": 697740,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "to the job market and the technology\nthat we have available,"
+    } ]
+  }, {
+    "tStartMs": 700060,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "and particularly these roles\nthat we've talked about,"
+    } ]
+  }, {
+    "tStartMs": 702860,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the ones that\ncould easily be replaced by AI,"
+    } ]
+  }, {
+    "tStartMs": 706700,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "what advice would you give to a grad\nor a student"
+    } ]
+  }, {
+    "tStartMs": 710260,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "or a young person trying to get a job\nright now? In all of these changes."
+    } ]
+  }, {
+    "tStartMs": 714180,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "What I found to be really great\nfor youngsters is to look at some,"
+    } ]
+  }, {
+    "tStartMs": 718600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "is to look at an industry\nthat's growing really fast,"
+    } ]
+  }, {
+    "tStartMs": 720760,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "where there's increasing demand,\nbut low supply of good talent"
+    } ]
+  }, {
+    "tStartMs": 725400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "or the supply of tools,\nyou know, are not very good."
+    } ]
+  }, {
+    "tStartMs": 728560,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "The tools are not very competent\nat, you know,"
+    } ]
+  }, {
+    "tStartMs": 731920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and you feel you have a shot\nat beating those tools,"
+    } ]
+  }, {
+    "tStartMs": 734000,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "not just today,\nbut for the next two or three years."
+    } ]
+  }, {
+    "tStartMs": 736040,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Varun, thank you so much\nfor speaking to us."
+    } ]
+  }, {
+    "tStartMs": 737600,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Thank you for for having me."
+    } ]
+  }, {
+    "tStartMs": 738880,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Nathalie, what would your message be\nto people who are graduating now"
+    } ]
+  }, {
+    "tStartMs": 741800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "in this ever changing world?\nSee, AI as your co-pilot."
+    } ]
+  }, {
+    "tStartMs": 745320,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "AI is going to take care of the\nmenial tasks, the repetitive tasks."
+    } ]
+  }, {
+    "tStartMs": 748920,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Now this is actually giving you an\nopportunity, for example, in college,"
+    } ]
+  }, {
+    "tStartMs": 752560,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "to maybe study things that are a\nlittle bit more considered soft skills."
+    } ]
+  }, {
+    "tStartMs": 756360,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So again, you're going\nto study computer science."
+    } ]
+  }, {
+    "tStartMs": 759120,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Why don't you go into philosophy?\nWhy don't you go into psychology?"
+    } ]
+  }, {
+    "tStartMs": 762840,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "What basically experts are saying right\nnow is what's valuable are soft skills,"
+    } ]
+  }, {
+    "tStartMs": 767440,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "critical thinking, judgment,\nessentially what makes us human."
+    } ]
+  }, {
+    "tStartMs": 771360,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "So if you can tap into that, if you\ncan tap into what AI doesn't have,"
+    } ]
+  }, {
+    "tStartMs": 776080,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "what we can add to the AI process,"
+    } ]
+  }, {
+    "tStartMs": 778320,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "you're actually maybe going to get\na more fulfilling job experience."
+    } ]
+  }, {
+    "tStartMs": 781840,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And again, industries\nlike the health care industry"
+    } ]
+  }, {
+    "tStartMs": 785080,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "or even the green tech industry\nand what I mean by that is like,"
+    } ]
+  }, {
+    "tStartMs": 789440,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "you know, let's say\nsolar panel construction,"
+    } ]
+  }, {
+    "tStartMs": 791960,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "you're going to want to go to\nthese industries that are using AI,"
+    } ]
+  }, {
+    "tStartMs": 795600,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "but that also need people in order\nto think about the ethics of it,"
+    } ]
+  }, {
+    "tStartMs": 799240,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "in order to think about\nhow to improve these AI systems,"
+    } ]
+  }, {
+    "tStartMs": 801960,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "we're really going to need to tap\ninto who we are as humans"
+    } ]
+  }, {
+    "tStartMs": 805120,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and what makes us human in order to\nstay competitive in the job market."
+    } ]
+  }, {
+    "tStartMs": 809880,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Nathalie. Thank you.\nThank you."
+    } ]
+  }, {
+    "tStartMs": 812000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "That's it from us. I hope\nyou've enjoyed today's episode."
+    } ]
+  }, {
+    "tStartMs": 814760,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Please do check out some\nof our other ones and"
+    } ]
+  }, {
+    "tStartMs": 816800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "also like, share, follow, subscribe."
+    } ]
+  }, {
+    "tStartMs": 819120,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "You can find us right here\non YouTube. Five days a week."
+    } ]
+  }, {
+    "tStartMs": 821640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And two of those days\nwe are chatting away here"
+    } ]
+  }, {
+    "tStartMs": 824640,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "in the studio\nwith some of your favorite guests."
+    } ]
+  }, {
+    "tStartMs": 827080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I'm Hannah, this is What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 829960,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "We'll see you next time."
+    } ]
+  } ]
+}

@@ -1,0 +1,1369 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Reid Hoffman, so he's one\nof the co-founders of LinkedIn."
+    } ]
+  }, {
+    "tStartMs": 3600,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "He said that over half of these tech\nbillionaires in Silicon Valley"
+    } ]
+  }, {
+    "tStartMs": 8920,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "have been building these bunkers\naround the world, preparing for"
+    } ]
+  }, {
+    "tStartMs": 13400,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "the quote unquote event that might\ndestroy the world as we know it."
+    } ]
+  }, {
+    "tStartMs": 20280,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Hello, it's Hannah here."
+    } ]
+  }, {
+    "tStartMs": 21440,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Welcome to What in the World,\nyour podcast for the stories"
+    } ]
+  }, {
+    "tStartMs": 24200,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "that everyone's talking about\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 27560,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Do tech billionaires\nknow something we don't?"
+    } ]
+  }, {
+    "tStartMs": 30640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Is this what they might be planning for?\nWhile, most of us are trying to save"
+    } ]
+  }, {
+    "tStartMs": 34320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "for a house or a holiday,\nthey are digging deep."
+    } ]
+  }, {
+    "tStartMs": 38080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I've read reports of billionaires\nbuilding underground shelters,"
+    } ]
+  }, {
+    "tStartMs": 41440,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "mansions, self-sustaining bunkers,"
+    } ]
+  }, {
+    "tStartMs": 44200,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "things that sound like they are\nout of a zombie apocalypse movie."
+    } ]
+  }, {
+    "tStartMs": 47880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So what exactly are they building\nand what are they so afraid of?"
+    } ]
+  }, {
+    "tStartMs": 58560,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "We're going to get into this\nright now with our reporter,"
+    } ]
+  }, {
+    "tStartMs": 60680,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Nathalie Jimenez,\nwho joins us from New York."
+    } ]
+  }, {
+    "tStartMs": 63120,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Hey, Nathalie.\nHi. Thank you for having me."
+    } ]
+  }, {
+    "tStartMs": 65280,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "If you could afford one for yourself,\nwhat would you put in it?"
+    } ]
+  }, {
+    "tStartMs": 67640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I love this question because\nI've actually been thinking about it"
+    } ]
+  }, {
+    "tStartMs": 70920,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "for a while. Fun fact.\nHave you? You're a prepper?"
+    } ]
+  }, {
+    "tStartMs": 74880,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "When you watch TV in in the US,\nwhen you turn on a US TV channel,"
+    } ]
+  }, {
+    "tStartMs": 80640,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "what happens is that there's usually\nsome ads about freeze dried food."
+    } ]
+  }, {
+    "tStartMs": 84080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "I'm not kidding.\nThey pop up quite regularly and"
+    } ]
+  }, {
+    "tStartMs": 88280,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "it's all about\nkind of the prepper mentality."
+    } ]
+  }, {
+    "tStartMs": 91120,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "What are you going to do\nwhen the apocalypse happens?"
+    } ]
+  }, {
+    "tStartMs": 93280,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "So I have this bunker like list,\nlike Pinterest board,"
+    } ]
+  }, {
+    "tStartMs": 97640,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "with the things\nthat I would include in it."
+    } ]
+  }, {
+    "tStartMs": 99840,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "I think that in your bunker,\nif you have an unlimited budget,"
+    } ]
+  }, {
+    "tStartMs": 103400,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "you're going to want a movie theatre,"
+    } ]
+  }, {
+    "tStartMs": 106160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "a roller skating rink, a game room,\nanything to keep you entertained."
+    } ]
+  }, {
+    "tStartMs": 110880,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "You don't know how long\nyou're going to be down there."
+    } ]
+  }, {
+    "tStartMs": 113200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And also, like any way to emulate\nnatural light, you need"
+    } ]
+  }, {
+    "tStartMs": 116120,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "to keep up that circadian rhythm.\nTotally."
+    } ]
+  }, {
+    "tStartMs": 118200,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So that's kind of my list,\nmy top list."
+    } ]
+  }, {
+    "tStartMs": 122080,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "I would want a sauna, spa, Jacuzzi,\nfull gym and also,"
+    } ]
+  }, {
+    "tStartMs": 127960,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I think some way to,\nlike, grow green plants."
+    } ]
+  }, {
+    "tStartMs": 130200,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I want to be able to grow all\nof my own food."
+    } ]
+  }, {
+    "tStartMs": 132240,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And I feel that when I see greenery,"
+    } ]
+  }, {
+    "tStartMs": 134320,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "when I see, like, plants and trees,\nit just makes me feel so much better."
+    } ]
+  }, {
+    "tStartMs": 136840,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So if I'm if I'm hiding out in a\nbunker I'm going to have some kind of"
+    } ]
+  }, {
+    "tStartMs": 139680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "like garden room\nor greenhouse thing going on."
+    } ]
+  }, {
+    "tStartMs": 142640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And we're talking about this because\nsome of the richest people in the world"
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "have actually been building\nthese bunkers. What are they like?"
+    } ]
+  }, {
+    "tStartMs": 149720,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Are they like the things that we\nimagine that we'd want for ourselves?"
+    } ]
+  }, {
+    "tStartMs": 152840,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Yeah. So basically the bunkers\nthat you're talking about,"
+    } ]
+  }, {
+    "tStartMs": 156720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "when it comes to kind of\nthese billionaires around the world,"
+    } ]
+  }, {
+    "tStartMs": 159600,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "they're not your typical small,\nagain, steel box bunkers."
+    } ]
+  }, {
+    "tStartMs": 164280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "They are essentially luxury\nAirbnb mansions, right?"
+    } ]
+  }, {
+    "tStartMs": 169080,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So you're going to have,\nfirst of all,"
+    } ]
+  }, {
+    "tStartMs": 171440,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "for security,\nthese reinforced concrete walls."
+    } ]
+  }, {
+    "tStartMs": 175960,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "That means they could be hit by\na missile and still they're going"
+    } ]
+  }, {
+    "tStartMs": 178760,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "to be able to kind of survive that."
+    } ]
+  }, {
+    "tStartMs": 181720,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "But kind of beyond as well - the extra\nsecurity, the air filtration systems,"
+    } ]
+  }, {
+    "tStartMs": 187520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "the hydroponic gardens, which means\nyou can grow your own veggies."
+    } ]
+  }, {
+    "tStartMs": 191600,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "That's what I want\na hydroponic garden."
+    } ]
+  }, {
+    "tStartMs": 194080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Exactly. It's essentially like\na closed loop system."
+    } ]
+  }, {
+    "tStartMs": 197680,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So they could live down there\nessentially\nfor an unlimited amount of time."
+    } ]
+  }, {
+    "tStartMs": 202160,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But all of that is kind of padded\nwith luxury,"
+    } ]
+  }, {
+    "tStartMs": 205480,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "which means that you're going\nto have things like swimming pools,"
+    } ]
+  }, {
+    "tStartMs": 208880,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "at home gyms, game rooms,\nanything to make it feel normal."
+    } ]
+  }, {
+    "tStartMs": 213400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "The whole point here is that they\ndon't want to have to compromise luxury,"
+    } ]
+  }, {
+    "tStartMs": 217640,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "even in the worst of times.\nSo who is actually doing this?"
+    } ]
+  }, {
+    "tStartMs": 221920,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I read about Mark Zuckerberg,\nthe CEO of Meta."
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "He's building this huge thing\nin Hawaii."
+    } ]
+  }, {
+    "tStartMs": 228400,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Yes, exactly. So he's actually one\nof the most notorious examples."
+    } ]
+  }, {
+    "tStartMs": 232760,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "There's been\na few investigations done about"
+    } ]
+  }, {
+    "tStartMs": 235600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Mark Zuckerberg's compound in Hawaii."
+    } ]
+  }, {
+    "tStartMs": 238320,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That's even a debate within itself,\nwhether or not it's considered"
+    } ]
+  }, {
+    "tStartMs": 242320,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "a quote unquote bunker because\nMark Zuckerberg hasn't confirmed it."
+    } ]
+  }, {
+    "tStartMs": 246320,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "He said, no, it's just a shelter.\nIt's just a basement."
+    } ]
+  }, {
+    "tStartMs": 251520,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "But there's a few plans\nand maps that have been leaked"
+    } ]
+  }, {
+    "tStartMs": 255400,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "that show that he has, you know,"
+    } ]
+  }, {
+    "tStartMs": 257520,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "again, air filtration systems,\na garden, reinforced walls."
+    } ]
+  }, {
+    "tStartMs": 262160,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So he kind of has an entire world\ndown there,"
+    } ]
+  }, {
+    "tStartMs": 265320,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and he's built it\non his Hawaii compound."
+    } ]
+  }, {
+    "tStartMs": 268160,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "It's actually caused a lot of tension\nwith neighbours who say, you know,"
+    } ]
+  }, {
+    "tStartMs": 272760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "this is this huge project.\nThey have no idea what's going on,"
+    } ]
+  }, {
+    "tStartMs": 275640,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "and it's disrupting a lot\nof kind of the wildlife"
+    } ]
+  }, {
+    "tStartMs": 277960,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and the environment around it. But\nthat's a completely separate debate."
+    } ]
+  }, {
+    "tStartMs": 281000,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "The whole point is that there are these\ntech billionaires that are starting"
+    } ]
+  }, {
+    "tStartMs": 285840,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "to build these luxury compounds,\nbunker, whatever you want to call it."
+    } ]
+  }, {
+    "tStartMs": 291520,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And it's been confirmed by people\nlike Reid Hoffman."
+    } ]
+  }, {
+    "tStartMs": 295720,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So he's one of the co-founders\nof LinkedIn."
+    } ]
+  }, {
+    "tStartMs": 298240,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "He said that over half of these tech\nbillionaires in Silicon Valley"
+    } ]
+  }, {
+    "tStartMs": 303560,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "have been building these bunkers\naround the world preparing for"
+    } ]
+  }, {
+    "tStartMs": 308120,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "the quote unquote event that might\ndestroy the world as we know it."
+    } ]
+  }, {
+    "tStartMs": 312760,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Where are some of the other hot spots\nthat people build these kind\nof shelters?"
+    } ]
+  }, {
+    "tStartMs": 316320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "There's a lot of talk of\nlike going to New Zealand."
+    } ]
+  }, {
+    "tStartMs": 320360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Yeah, that talk actually started\nduring the pandemic."
+    } ]
+  }, {
+    "tStartMs": 323560,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "So New Zealand was - it's being called\nthe lifeboat for tech billionaires."
+    } ]
+  }, {
+    "tStartMs": 327920,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "They essentially used it\nas the place to escape\nfrom what was happening at the time."
+    } ]
+  }, {
+    "tStartMs": 333200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So, you know, there was good Wi-Fi.\nIt was away from people,"
+    } ]
+  }, {
+    "tStartMs": 337440,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "they loved that isolation and the whole\nappeal is not only the isolation,"
+    } ]
+  }, {
+    "tStartMs": 342160,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "but the fact that it is\nquote unquote, politically relaxed."
+    } ]
+  }, {
+    "tStartMs": 345840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "So there's no political risks around."
+    } ]
+  }, {
+    "tStartMs": 348320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And also it speaks to the fact"
+    } ]
+  }, {
+    "tStartMs": 350480,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "that perhaps the biggest risk\nthat they're trying to mitigate"
+    } ]
+  }, {
+    "tStartMs": 353640,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and avoid is not just only\nthe environment, right?"
+    } ]
+  }, {
+    "tStartMs": 356960,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So if it's a, you know,\na climate disaster"
+    } ]
+  }, {
+    "tStartMs": 359480,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "or a nuclear war,\nit's actually people."
+    } ]
+  }, {
+    "tStartMs": 362080,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So the farther away they are\nfrom people, the safer they are."
+    } ]
+  }, {
+    "tStartMs": 366120,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Okay. billion\ndollar question here now."
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "What is that event?\nWhat could it be?"
+    } ]
+  }, {
+    "tStartMs": 371560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Do these tech billionaires know\nsomething that we don't?"
+    } ]
+  }, {
+    "tStartMs": 373960,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Are they prepping\nfor some real eventual event?"
+    } ]
+  }, {
+    "tStartMs": 377920,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "So the reasons include nuclear\ntensions, AI risk, climate disaster,"
+    } ]
+  }, {
+    "tStartMs": 383400,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "essentially any world ending event."
+    } ]
+  }, {
+    "tStartMs": 386480,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Secondly, it's also a mark\nof societal status."
+    } ]
+  }, {
+    "tStartMs": 390800,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So no matter what happens,\nno matter what comes our way,"
+    } ]
+  }, {
+    "tStartMs": 394360,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "if you're a tech billionaire,\nyou're going to be able to live"
+    } ]
+  }, {
+    "tStartMs": 397400,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "through that comfortably\nwithout compromising your lifestyle,"
+    } ]
+  }, {
+    "tStartMs": 401640,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "without compromising the standard\nthat you have."
+    } ]
+  }, {
+    "tStartMs": 404720,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So because these tech billionaires\nare essentially building the future,"
+    } ]
+  }, {
+    "tStartMs": 408920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "the fact that they're so afraid of it,\nquote unquote, is telling within itself."
+    } ]
+  }, {
+    "tStartMs": 413240,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "But it's not just\ntech billionaires who are doing this."
+    } ]
+  }, {
+    "tStartMs": 415680,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "There's this whole\nAmerican subculture of of preppers,"
+    } ]
+  }, {
+    "tStartMs": 419720,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "of doomsday preppers, of - there's\neven a reality TV series about it."
+    } ]
+  }, {
+    "tStartMs": 425200,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "People who are\n- they might have a bag"
+    } ]
+  }, {
+    "tStartMs": 427960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "or a grab bag ready to go\nat any opportunity."
+    } ]
+  }, {
+    "tStartMs": 430400,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Or they're building these shelters,\nbunkers, safe rooms, whatever it is."
+    } ]
+  }, {
+    "tStartMs": 434760,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Why do you think that is so popular?\nAnd also, it's so American, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 438280,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Oh, yeah. I mean, just to give you\nan example, Costco is one of the kind"
+    } ]
+  }, {
+    "tStartMs": 442240,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "of grocery stores here that\nyou come across quite frequently."
+    } ]
+  }, {
+    "tStartMs": 445960,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Everything's massive in Costco.\nExactly."
+    } ]
+  }, {
+    "tStartMs": 448680,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And when you walk into Costco,\nyou're most likely going to find"
+    } ]
+  }, {
+    "tStartMs": 452200,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "a few prepper items, including the\nbucket that has gone viral on TikTok."
+    } ]
+  }, {
+    "tStartMs": 458280,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "That includes food that will last for\nabout 20 to 30 years."
+    } ]
+  }, {
+    "tStartMs": 463080,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And so -\nEwww! It's such a thing here."
+    } ]
+  }, {
+    "tStartMs": 466880,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "And I think it took me a while to\nunderstand, but you need to go back"
+    } ]
+  }, {
+    "tStartMs": 470480,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "in order to fully grasp\nwhere this kind of psyche comes from."
+    } ]
+  }, {
+    "tStartMs": 474400,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So in the 1950s,\nthere was the Cold War."
+    } ]
+  }, {
+    "tStartMs": 477240,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "There was this risk or this fear\nof kind of nuclear tension"
+    } ]
+  }, {
+    "tStartMs": 480880,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "between the Soviet Union and the US."
+    } ]
+  }, {
+    "tStartMs": 483200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So what JFK,\nthe president at the time"
+    } ]
+  }, {
+    "tStartMs": 485440,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "said was, 'We cannot afford\nto build bunkers for everyone."
+    } ]
+  }, {
+    "tStartMs": 489600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "It's not economically viable.'\nOther countries have done so,"
+    } ]
+  }, {
+    "tStartMs": 492920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "like Switzerland, but the US deemed that\nbecause their population is much bigger,"
+    } ]
+  }, {
+    "tStartMs": 496840,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "it wasn't an investment\nthat would give them return."
+    } ]
+  }, {
+    "tStartMs": 499440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So instead they said\nindividual families, people,"
+    } ]
+  }, {
+    "tStartMs": 503760,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "needed to prep themselves, create\ntheir or build their own bunkers,"
+    } ]
+  }, {
+    "tStartMs": 508960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "or have a plan in place\nin case something happened."
+    } ]
+  }, {
+    "tStartMs": 512360,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "So from there they saw an explosion\nin demand of at home bunkers."
+    } ]
+  }, {
+    "tStartMs": 517680,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "And then now after the pandemic,\nit resurged"
+    } ]
+  }, {
+    "tStartMs": 520640,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and there was this huge demand\nin bunker construction."
+    } ]
+  }, {
+    "tStartMs": 524520,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "I mean, the prices can range from, you\nknow, hundreds of thousands to millions,"
+    } ]
+  }, {
+    "tStartMs": 528880,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "depending on what you want and\nwhere you are and what the risk is."
+    } ]
+  }, {
+    "tStartMs": 532160,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "But essentially, right now,\npeople are back in the mood"
+    } ]
+  }, {
+    "tStartMs": 536080,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "for these bunkers to survive\nthe quote unquote event."
+    } ]
+  }, {
+    "tStartMs": 539360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And of course, you've got Hollywood\nas well, churning out\nthese zombie apocalypse films."
+    } ]
+  }, {
+    "tStartMs": 542920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "There's all this,\nyou know, the Batman"
+    } ]
+  }, {
+    "tStartMs": 544960,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and the Batcave feeds right\ninto the idea of having a bunker."
+    } ]
+  }, {
+    "tStartMs": 548640,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Absolutely. I mean, I don't know\nif you guys remember the movie 2012."
+    } ]
+  }, {
+    "tStartMs": 552200,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I was a kid at that point, and"
+    } ]
+  }, {
+    "tStartMs": 554520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "I was fully ready\nto experience the end of the world."
+    } ]
+  }, {
+    "tStartMs": 557880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "I mean, that movie was just trending,\ngoing viral at the time,"
+    } ]
+  }, {
+    "tStartMs": 562200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and it just really fed into kind\nof this apocalyptic mindset."
+    } ]
+  }, {
+    "tStartMs": 565760,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Natalia, I'm going to pause you\nfor a second because we are going\nto hear from a prepper now."
+    } ]
+  }, {
+    "tStartMs": 568840,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "I first started prepping\nwhen we had first moved to Florida."
+    } ]
+  }, {
+    "tStartMs": 572000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Being in a new place,\nwe were expecting our first hurricane"
+    } ]
+  }, {
+    "tStartMs": 575760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "after only being there\nfor a couple of weeks, and though"
+    } ]
+  }, {
+    "tStartMs": 578640,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "at the time I didn't really realise\nthat I was prepping."
+    } ]
+  }, {
+    "tStartMs": 582320,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Looking back, I now know that\nI started my prepping journey then."
+    } ]
+  }, {
+    "tStartMs": 586600,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "For people who say\nthat prepping is extreme or paranoia,"
+    } ]
+  }, {
+    "tStartMs": 590640,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I kindly remind them\nthat prepping is a spectrum,"
+    } ]
+  }, {
+    "tStartMs": 594520,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and you're probably already prepared\nfor some scenario in some way."
+    } ]
+  }, {
+    "tStartMs": 598920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "If you keep an extra $20 cash\nin your wallet, you're prepping."
+    } ]
+  }, {
+    "tStartMs": 601960,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Preppers aren't just prepared\nfor a zombie apocalypse."
+    } ]
+  }, {
+    "tStartMs": 604880,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "There's a whole plethora of situations\nthat are far more realistic"
+    } ]
+  }, {
+    "tStartMs": 608080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "that you should have a plan for\nin case it does happen to you."
+    } ]
+  }, {
+    "tStartMs": 610840,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "If someone's just starting out,\nmy three biggest tips are, one,"
+    } ]
+  }, {
+    "tStartMs": 614720,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "start small, don't get overwhelmed,"
+    } ]
+  }, {
+    "tStartMs": 616840,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "and remember every step that you take is\na step closer to being more prepared,"
+    } ]
+  }, {
+    "tStartMs": 620960,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and you're more prepared\nthan you were yesterday."
+    } ]
+  }, {
+    "tStartMs": 623000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Second is to focus\non skills over stuff."
+    } ]
+  }, {
+    "tStartMs": 626200,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Skills will outlast your stuff\nevery time."
+    } ]
+  }, {
+    "tStartMs": 628800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "You need to know how to sew, how\nto mend things, how to preserve food,"
+    } ]
+  }, {
+    "tStartMs": 632560,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "how to garden, how to save your seeds\nfrom your harvest."
+    } ]
+  }, {
+    "tStartMs": 635800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Lastly, switch everything in\nyour house that you can to reusable."
+    } ]
+  }, {
+    "tStartMs": 639600,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "You won't be fighting people\nat Costco for toilet paper"
+    } ]
+  }, {
+    "tStartMs": 641880,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "like everybody did during\nthe pandemic if you have a bidet."
+    } ]
+  }, {
+    "tStartMs": 644560,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Reusable paper towels, reusable\nsandwich bags, reusable menstrual cups,"
+    } ]
+  }, {
+    "tStartMs": 649040,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "reusable makeup remover,\nanything that you have in your house"
+    } ]
+  }, {
+    "tStartMs": 651960,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "that's single use that you could run\nout of, switch to reusable."
+    } ]
+  }, {
+    "tStartMs": 655200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "People listening to this\nmight actually feel a bit anxious"
+    } ]
+  }, {
+    "tStartMs": 657600,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "because the thought of an apocalyptic\ndoomsday scenario, another virus,"
+    } ]
+  }, {
+    "tStartMs": 663920,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "more conflict, nuclear war, whatever\nit is, climate change, weather events,"
+    } ]
+  }, {
+    "tStartMs": 668240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "it might make people feel on edge."
+    } ]
+  }, {
+    "tStartMs": 670880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Is there anything that they can do\nto try to manage that anxiety"
+    } ]
+  }, {
+    "tStartMs": 674800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "when it comes to thinking about things\nthat are so beyond our control?"
+    } ]
+  }, {
+    "tStartMs": 678240,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Absolutely.\nAnd I'm a victim of that, too."
+    } ]
+  }, {
+    "tStartMs": 680680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I mean, even just researching\nthis story, I had to take a break"
+    } ]
+  }, {
+    "tStartMs": 683560,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "at some point and\nlike\nscroll through TikTok"
+    } ]
+  }, {
+    "tStartMs": 685800,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "because I was like,\noh God, like, what's going to happen?"
+    } ]
+  }, {
+    "tStartMs": 688160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I don't have a bunker.\nI just have my studio apartment."
+    } ]
+  }, {
+    "tStartMs": 691200,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I don't have a bunker either.\nI definitely can't afford it."
+    } ]
+  }, {
+    "tStartMs": 696200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "I admit, I actually was looking\nat prices of how much it would cost."
+    } ]
+  }, {
+    "tStartMs": 699760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "How much would it cost,\nhow much would it cost you?"
+    } ]
+  }, {
+    "tStartMs": 702400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "It would definitely - the cheapest\nwould be tens of thousands of dollars."
+    } ]
+  }, {
+    "tStartMs": 706240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I saw 70000 dollars as the cheapest\nand that was quite small."
+    } ]
+  }, {
+    "tStartMs": 710160,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So we talk about the event.\nThere's a lot of fear mongering."
+    } ]
+  }, {
+    "tStartMs": 713840,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "There's a lot of kind\nof apocalyptic porn, so to say."
+    } ]
+  }, {
+    "tStartMs": 718480,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "But a lot of times\nyou're going to come"
+    } ]
+  }, {
+    "tStartMs": 721000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "across companies that are trying\nto sell just a product,"
+    } ]
+  }, {
+    "tStartMs": 724600,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and sometimes\nthe message is amplified."
+    } ]
+  }, {
+    "tStartMs": 727280,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "We need to anchor ourselves back\nin reality"
+    } ]
+  }, {
+    "tStartMs": 729880,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "and realise that the event is not\nnear, it's not approaching."
+    } ]
+  }, {
+    "tStartMs": 733520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "We do have mitigating factors\nthat we can take on ourselves."
+    } ]
+  }, {
+    "tStartMs": 736960,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "You don't need a luxury bunker\nin order to have resilience."
+    } ]
+  }, {
+    "tStartMs": 739800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And this is all really\nabout us just wanting to survive."
+    } ]
+  }, {
+    "tStartMs": 742600,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I mean, you could look at it as chaos\nand fear, or you could turn it around"
+    } ]
+  }, {
+    "tStartMs": 746400,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and say, this is how much humanity is\nhardwired to survive."
+    } ]
+  }, {
+    "tStartMs": 749480,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And we have survived so much\nwith or without luxury bunkers."
+    } ]
+  }, {
+    "tStartMs": 753120,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So hopefully it's something that\nwe as a species will continue to do\nfor many years."
+    } ]
+  }, {
+    "tStartMs": 757040,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Exactly.\nNathalie, thanks so much."
+    } ]
+  }, {
+    "tStartMs": 759520,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Thank you for having me.\nWell, that's it for us,"
+    } ]
+  }, {
+    "tStartMs": 762120,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "but if you enjoyed this episode,\nyou can find us right here"
+    } ]
+  }, {
+    "tStartMs": 764360,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "on the BBC World Service YouTube\nchannel five days a week."
+    } ]
+  }, {
+    "tStartMs": 767400,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And two of those episodes\nare video episodes."
+    } ]
+  }, {
+    "tStartMs": 769720,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So you can see us chatting away\nin the studio."
+    } ]
+  }, {
+    "tStartMs": 771960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And if you've got any thoughts\non what we've talked about today,"
+    } ]
+  }, {
+    "tStartMs": 774240,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "if you're a prepper yourself,\nor if you're afraid"
+    } ]
+  }, {
+    "tStartMs": 776240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "of a doomsday style apocalypse\ncoming your way,"
+    } ]
+  }, {
+    "tStartMs": 778880,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "then please do leave us a thought\nin the comments below."
+    } ]
+  }, {
+    "tStartMs": 781640,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "I'm Hannah, this is What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 784560,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "We'll see you next time.\nHopefully!"
+    } ]
+  }, {
+    "tStartMs": 788760,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I don't know if that will get cut."
+    } ]
+  } ]
+}

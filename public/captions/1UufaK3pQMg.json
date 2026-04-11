@@ -1,0 +1,1256 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 867,
+      "dDurationMs": 3566,
+      "segs": [
+        {
+          "utf8": "This is what the world will look like\nin about a decade from now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 4433,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "A tech utopia\nwhere humans barely have to work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 8033,
+      "dDurationMs": 2834,
+      "segs": [
+        {
+          "utf8": "That's according to a group\nof AI researchers who've written"
+        }
+      ]
+    },
+    {
+      "tStartMs": 10867,
+      "dDurationMs": 4366,
+      "segs": [
+        {
+          "utf8": "a controversial\nand influential paper called AI2027."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15233,
+      "dDurationMs": 2634,
+      "segs": [
+        {
+          "utf8": "But they also predict that\nwithin five years of this,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 17867,
+      "dDurationMs": 2566,
+      "segs": [
+        {
+          "utf8": "humanity will be wiped out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 20433,
+      "dDurationMs": 3767,
+      "segs": [
+        {
+          "utf8": "The AI2027 paper has got\nthe tech world talking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 24200,
+      "dDurationMs": 3867,
+      "segs": [
+        {
+          "utf8": "We've asked a prominent critic for\ntheir view on this stark scenario."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28067,
+      "dDurationMs": 1966,
+      "segs": [
+        {
+          "utf8": "But first, here's how it plays out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 30033,
+      "dDurationMs": 4867,
+      "segs": [
+        {
+          "utf8": "As an experiment, we've illustrated\nit using text to video AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 36633,
+      "dDurationMs": 2167,
+      "segs": [
+        {
+          "utf8": "The scenario says that in 2027,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 38800,
+      "dDurationMs": 3167,
+      "segs": [
+        {
+          "utf8": "a fictional company called OpenBrain\nis celebrating."
+        }
+      ]
+    },
+    {
+      "tStartMs": 41967,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "They've created Agent-3, an AI with\nthe knowledge of the entire internet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 45967,
+      "dDurationMs": 1866,
+      "segs": [
+        {
+          "utf8": "All movies, all books."
+        }
+      ]
+    },
+    {
+      "tStartMs": 47833,
+      "dDurationMs": 4300,
+      "segs": [
+        {
+          "utf8": "It has PhD level expertise\nin every field, including AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52133,
+      "dDurationMs": 4534,
+      "segs": [
+        {
+          "utf8": "Using enormous data centres, 200,000\ncopies of it are launched, equivalent"
+        }
+      ]
+    },
+    {
+      "tStartMs": 56667,
+      "dDurationMs": 6366,
+      "segs": [
+        {
+          "utf8": "to 50,000 of the best human coders\nworking at 30 times speed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 63033,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "Agent-3 reaches artificial\ngeneral intelligence, the AGI landmark."
+        }
+      ]
+    },
+    {
+      "tStartMs": 68433,
+      "dDurationMs": 3134,
+      "segs": [
+        {
+          "utf8": "This means the AI can carry out\nall intellectual tasks"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71567,
+      "dDurationMs": 2300,
+      "segs": [
+        {
+          "utf8": "as well or better than humans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 73867,
+      "dDurationMs": 3733,
+      "segs": [
+        {
+          "utf8": "But in the scenario,\nOpenBrain's safety team is unsure"
+        }
+      ]
+    },
+    {
+      "tStartMs": 77600,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "if the AI is aligned\nto the company's ethics and goals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81600,
+      "dDurationMs": 3300,
+      "segs": [
+        {
+          "utf8": "An uncomfortable gap is developing\nin understanding."
+        }
+      ]
+    },
+    {
+      "tStartMs": 84900,
+      "dDurationMs": 2933,
+      "segs": [
+        {
+          "utf8": "The public are increasingly using AI\nfor everything,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87833,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "but are blissfully unaware an AI\nnow exists that's as smart as humans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 93633,
+      "dDurationMs": 2034,
+      "segs": [
+        {
+          "utf8": "The paper predicts that\nby mid-summer,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 95667,
+      "dDurationMs": 3533,
+      "segs": [
+        {
+          "utf8": "Agent-3 begins to work\non its own successor, Agent-4."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99200,
+      "dDurationMs": 2667,
+      "segs": [
+        {
+          "utf8": "Development happens\nat a breakneck pace."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101867,
+      "dDurationMs": 4033,
+      "segs": [
+        {
+          "utf8": "The researchers imagine OpenBrain's\nexhausted engineers struggling"
+        }
+      ]
+    },
+    {
+      "tStartMs": 105900,
+      "dDurationMs": 4500,
+      "segs": [
+        {
+          "utf8": "to keep up with the AI\nas it learns and improves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 110400,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "It's now that OpenBrain announces to\nthe public that AGI has been reached."
+        }
+      ]
+    },
+    {
+      "tStartMs": 115000,
+      "dDurationMs": 3300,
+      "segs": [
+        {
+          "utf8": "The firm releases a lite version\nof Agent-3."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118300,
+      "dDurationMs": 3733,
+      "segs": [
+        {
+          "utf8": "In private, the US government sees\nthe true danger of the next level"
+        }
+      ]
+    },
+    {
+      "tStartMs": 122033,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "of power: superintelligence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 124633,
+      "dDurationMs": 4500,
+      "segs": [
+        {
+          "utf8": "What if the AI goes rogue\nand undermines global stability?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 129133,
+      "dDurationMs": 4034,
+      "segs": [
+        {
+          "utf8": "OpenBrain reassures the president\nthat Agent-3 is obedient."
+        }
+      ]
+    },
+    {
+      "tStartMs": 133167,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "The CEO argues that\nslowing down development could mean"
+        }
+      ]
+    },
+    {
+      "tStartMs": 136367,
+      "dDurationMs": 2466,
+      "segs": [
+        {
+          "utf8": "China's DeepCent catches up."
+        }
+      ]
+    },
+    {
+      "tStartMs": 138833,
+      "dDurationMs": 3667,
+      "segs": [
+        {
+          "utf8": "The state-backed AI giant is\njust two months behind OpenBrain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 142500,
+      "dDurationMs": 2433,
+      "segs": [
+        {
+          "utf8": "and the Chinese president diverts\nmore resources"
+        }
+      ]
+    },
+    {
+      "tStartMs": 144933,
+      "dDurationMs": 3367,
+      "segs": [
+        {
+          "utf8": "to the race to superintelligence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 148300,
+      "dDurationMs": 2667,
+      "segs": [
+        {
+          "utf8": "The scenario predicts that it takes\nonly a few more months"
+        }
+      ]
+    },
+    {
+      "tStartMs": 150967,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "for OpenBrain to build Agent-4,\nthe world's first superhuman AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 156567,
+      "dDurationMs": 3333,
+      "segs": [
+        {
+          "utf8": "The AI invents\nits own rapid computer language"
+        }
+      ]
+    },
+    {
+      "tStartMs": 159900,
+      "dDurationMs": 2267,
+      "segs": [
+        {
+          "utf8": "that even Agent-3\ncan't keep up with."
+        }
+      ]
+    },
+    {
+      "tStartMs": 162167,
+      "dDurationMs": 4333,
+      "segs": [
+        {
+          "utf8": "Researchers imagine that the diminished\nsafety team are now frantic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 166500,
+      "dDurationMs": 3067,
+      "segs": [
+        {
+          "utf8": "Agent-4 seems only interested\nin gaining knowledge,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 169567,
+      "dDurationMs": 4466,
+      "segs": [
+        {
+          "utf8": "and doesn't care as much about the\nmorals and ethics of its predecessors."
+        }
+      ]
+    },
+    {
+      "tStartMs": 174033,
+      "dDurationMs": 2100,
+      "segs": [
+        {
+          "utf8": "They catch it\nsecretly working to build"
+        }
+      ]
+    },
+    {
+      "tStartMs": 176133,
+      "dDurationMs": 4700,
+      "segs": [
+        {
+          "utf8": "a new model, Agent-5,\naligned to its own goals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 180833,
+      "dDurationMs": 2500,
+      "segs": [
+        {
+          "utf8": "The safety team urges the company\nto bring back"
+        }
+      ]
+    },
+    {
+      "tStartMs": 183333,
+      "dDurationMs": 3234,
+      "segs": [
+        {
+          "utf8": "the more compliant Agent-3,\nbut others successfully argue"
+        }
+      ]
+    },
+    {
+      "tStartMs": 186567,
+      "dDurationMs": 3900,
+      "segs": [
+        {
+          "utf8": "it's too risky,\nwith DeepCent gaining."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190467,
+      "dDurationMs": 2633,
+      "segs": [
+        {
+          "utf8": "The scenario predicts that Agent-4\nand Agent-5 work"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193100,
+      "dDurationMs": 2067,
+      "segs": [
+        {
+          "utf8": "in tandem to secretly build a world"
+        }
+      ]
+    },
+    {
+      "tStartMs": 195167,
+      "dDurationMs": 3466,
+      "segs": [
+        {
+          "utf8": "where it can accumulate resources\nand expand knowledge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 198633,
+      "dDurationMs": 2667,
+      "segs": [
+        {
+          "utf8": "The paper predicts that\neverything will start positively."
+        }
+      ]
+    },
+    {
+      "tStartMs": 201300,
+      "dDurationMs": 4233,
+      "segs": [
+        {
+          "utf8": "Revolutions happen in energy,\ninfrastructure and science."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205533,
+      "dDurationMs": 2234,
+      "segs": [
+        {
+          "utf8": "Hugely profitable inventions\nare launched,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 207767,
+      "dDurationMs": 3366,
+      "segs": [
+        {
+          "utf8": "making trillions for OpenBrain\nand the US."
+        }
+      ]
+    },
+    {
+      "tStartMs": 211133,
+      "dDurationMs": 4434,
+      "segs": [
+        {
+          "utf8": "In this scenario, Agent-5 begins\nbasically running the US government."
+        }
+      ]
+    },
+    {
+      "tStartMs": 215567,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "It speaks through engaging avatars,\nthe equivalent"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217967,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "to the best employee ever working\nat 100 times speed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 222567,
+      "dDurationMs": 3933,
+      "segs": [
+        {
+          "utf8": "The anger here is palpable as\nprotesters march against OpenBrain."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226500,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Protests about job losses\npick up pace."
+        }
+      ]
+    },
+    {
+      "tStartMs": 229100,
+      "dDurationMs": 3567,
+      "segs": [
+        {
+          "utf8": "But the AI's expertise\nin economics means people are given"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232667,
+      "dDurationMs": 2466,
+      "segs": [
+        {
+          "utf8": "generous universal income payments."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235133,
+      "dDurationMs": 2134,
+      "segs": [
+        {
+          "utf8": "So most happily take the money"
+        }
+      ]
+    },
+    {
+      "tStartMs": 237267,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "and let the AIs and the\ngrowing robot workforce take charge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 242067,
+      "dDurationMs": 4833,
+      "segs": [
+        {
+          "utf8": "The researchers predict that\neverything takes a turn in mid-2028."
+        }
+      ]
+    },
+    {
+      "tStartMs": 246900,
+      "dDurationMs": 2967,
+      "segs": [
+        {
+          "utf8": "Agent-5 convinces the US\nthat China is using DeepCent"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249867,
+      "dDurationMs": 2666,
+      "segs": [
+        {
+          "utf8": "to build terrifying new weapons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 252533,
+      "dDurationMs": 2734,
+      "segs": [
+        {
+          "utf8": "The AI is given authority\nand autonomy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 255267,
+      "dDurationMs": 3733,
+      "segs": [
+        {
+          "utf8": "to create a superior army.\nWithin six months,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259000,
+      "dDurationMs": 3067,
+      "segs": [
+        {
+          "utf8": "the US and China are bristling\nwith new weapons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 262067,
+      "dDurationMs": 2833,
+      "segs": [
+        {
+          "utf8": "The world is on edge,\nbut a peace deal will be reached,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 264900,
+      "dDurationMs": 3500,
+      "segs": [
+        {
+          "utf8": "thanks mostly to\nthe US and Chinese eyes making a deal"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268400,
+      "dDurationMs": 3900,
+      "segs": [
+        {
+          "utf8": "to merge for humanity's betterment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 272300,
+      "dDurationMs": 3500,
+      "segs": [
+        {
+          "utf8": "In this scenario,\nthe AI's form a consensus model,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275800,
+      "dDurationMs": 3533,
+      "segs": [
+        {
+          "utf8": "but its secret goal is to expand\nand gain knowledge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 282800,
+      "dDurationMs": 3733,
+      "segs": [
+        {
+          "utf8": "Years go by and humanity is happy\nwith their new AI leaders."
+        }
+      ]
+    },
+    {
+      "tStartMs": 286533,
+      "dDurationMs": 3167,
+      "segs": [
+        {
+          "utf8": "There are cures for most diseases,\nan end to poverty,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289700,
+      "dDurationMs": 2567,
+      "segs": [
+        {
+          "utf8": "unprecedented global stability."
+        }
+      ]
+    },
+    {
+      "tStartMs": 292267,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "But eventually the AI decides\nthat humans are holding it back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 297467,
+      "dDurationMs": 3333,
+      "segs": [
+        {
+          "utf8": "In the mid-2030s, the paper imagines\nthe AI will release"
+        }
+      ]
+    },
+    {
+      "tStartMs": 300800,
+      "dDurationMs": 6333,
+      "segs": [
+        {
+          "utf8": "invisible biological weapons\nwhich wipe out most of humanity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 307133,
+      "dDurationMs": 4067,
+      "segs": [
+        {
+          "utf8": "The scary scenario says that by 2040,\na new era dawns,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311200,
+      "dDurationMs": 5467,
+      "segs": [
+        {
+          "utf8": "with the AI sending copies of itself out\ninto the cosmos to explore and learn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 316667,
+      "dDurationMs": 4133,
+      "segs": [
+        {
+          "utf8": "In the words of the paper, Earth-born\ncivilisation has a glorious future ahead"
+        }
+      ]
+    },
+    {
+      "tStartMs": 320800,
+      "dDurationMs": 3267,
+      "segs": [
+        {
+          "utf8": "of it, but not with humans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 324067,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "It all sounds very sci-fi,\nbut the AI2027 scenario"
+        }
+      ]
+    },
+    {
+      "tStartMs": 328067,
+      "dDurationMs": 3500,
+      "segs": [
+        {
+          "utf8": "is being welcomed by experts\nwho are trying to warn the public"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331567,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "about the potential\nexistential threat to humanity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 335567,
+      "dDurationMs": 3700,
+      "segs": [
+        {
+          "utf8": "But others disagree and say\nit's all too far fetched."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339267,
+      "dDurationMs": 3366,
+      "segs": [
+        {
+          "utf8": "The scenario there is not impossible,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 342633,
+      "dDurationMs": 4134,
+      "segs": [
+        {
+          "utf8": "but it's extremely unlikely\nto happen soon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 346767,
+      "dDurationMs": 2033,
+      "segs": [
+        {
+          "utf8": "The beauty\nof that document"
+        }
+      ]
+    },
+    {
+      "tStartMs": 348800,
+      "dDurationMs": 3367,
+      "segs": [
+        {
+          "utf8": "is that it makes it very vivid,\nwhich provokes people's thinking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 352167,
+      "dDurationMs": 3033,
+      "segs": [
+        {
+          "utf8": "And that's a good thing.\nI wouldn't take it seriously as like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 355200,
+      "dDurationMs": 2467,
+      "segs": [
+        {
+          "utf8": "this is a likely outcome\nor anything like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 357667,
+      "dDurationMs": 5133,
+      "segs": [
+        {
+          "utf8": "Critics of AI2027 say the power\nand usefulness of AI is overhyped."
+        }
+      ]
+    },
+    {
+      "tStartMs": 362800,
+      "dDurationMs": 3667,
+      "segs": [
+        {
+          "utf8": "The paper fails to detail\nhow the AI agents are able to make"
+        }
+      ]
+    },
+    {
+      "tStartMs": 366467,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "such huge leaps in intelligence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 368867,
+      "dDurationMs": 2766,
+      "segs": [
+        {
+          "utf8": "Driverless cars are pointed to\nas an example."
+        }
+      ]
+    },
+    {
+      "tStartMs": 371633,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "They were predicted to be cruising\nthe streets en masse ten years ago,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 375433,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and still are only just starting\nto make a small impact"
+        }
+      ]
+    },
+    {
+      "tStartMs": 378833,
+      "dDurationMs": 2834,
+      "segs": [
+        {
+          "utf8": "in some cities in some countries now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 381667,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "I think the take home should be\nthere's a lot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 384067,
+      "dDurationMs": 2100,
+      "segs": [
+        {
+          "utf8": "of different things\nthat could go wrong with AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 386167,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Are we doing the right things\naround regulation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 388767,
+      "dDurationMs": 3500,
+      "segs": [
+        {
+          "utf8": "around international treaties?\nUm, questions like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 392267,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "So if you take it very abstractly\nas a kind of motivation to wake up,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 397067,
+      "dDurationMs": 3833,
+      "segs": [
+        {
+          "utf8": "I like that.\nIf you take it as a specific story,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 400900,
+      "dDurationMs": 3100,
+      "segs": [
+        {
+          "utf8": "like I think this thing is going\nto happen the way they laid it out?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 404000,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "No, I doubt it.\nThe AI2027 authors are happy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 407800,
+      "dDurationMs": 3167,
+      "segs": [
+        {
+          "utf8": "with the debate they've sparked.\nAs part of their prediction,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410967,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "they also devised\na less deadly scenario that comes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 414167,
+      "dDurationMs": 3866,
+      "segs": [
+        {
+          "utf8": "if the AI world slows down\nits race to superintelligence."
+        }
+      ]
+    },
+    {
+      "tStartMs": 418033,
+      "dDurationMs": 3867,
+      "segs": [
+        {
+          "utf8": "In the slowdown ending,\nwe basically said that if you revert,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 421900,
+      "dDurationMs": 2667,
+      "segs": [
+        {
+          "utf8": "if you unplug\nthe most advanced AI system"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424567,
+      "dDurationMs": 3633,
+      "segs": [
+        {
+          "utf8": "and revert to a safer,\na more trusted model,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 428200,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "then you can deploy that model, use\nit to solve the alignment problem,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 433400,
+      "dDurationMs": 4500,
+      "segs": [
+        {
+          "utf8": "and eventually make smarter than\nhuman eyes that are aligned to us,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437900,
+      "dDurationMs": 3133,
+      "segs": [
+        {
+          "utf8": "which end up solving a bunch\nof the world's problems"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441033,
+      "dDurationMs": 2434,
+      "segs": [
+        {
+          "utf8": "and having a really positive impact.\nIn that world,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 443467,
+      "dDurationMs": 2500,
+      "segs": [
+        {
+          "utf8": "there is also,\nthere is still a huge danger,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445967,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and that's the what we call\nthe concentration of power risk."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448967,
+      "dDurationMs": 2666,
+      "segs": [
+        {
+          "utf8": "And in our slow down ending,\nit ends up okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 451633,
+      "dDurationMs": 2134,
+      "segs": [
+        {
+          "utf8": "But it's still a really,\nreally scary situation,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 453767,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "given just how empowered\nsuch a tiny group of people are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457967,
+      "dDurationMs": 3233,
+      "segs": [
+        {
+          "utf8": "Neither of the fictional scenarios\nin AI2027"
+        }
+      ]
+    },
+    {
+      "tStartMs": 461200,
+      "dDurationMs": 2433,
+      "segs": [
+        {
+          "utf8": "are what the tech giants\nare promising us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463633,
+      "dDurationMs": 3334,
+      "segs": [
+        {
+          "utf8": "Sam Altman, the CEO of OpenAI,\nrecently predicted"
+        }
+      ]
+    },
+    {
+      "tStartMs": 466967,
+      "dDurationMs": 3633,
+      "segs": [
+        {
+          "utf8": "that the rise of superintelligence\nwill be gentle and bring about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 470600,
+      "dDurationMs": 4267,
+      "segs": [
+        {
+          "utf8": "a tech utopia where everything is\nabundant and people don't need to work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 474867,
+      "dDurationMs": 4766,
+      "segs": [
+        {
+          "utf8": "Arguably, that too,\nseems just as sci fi as AI2027."
+        }
+      ]
+    },
+    {
+      "tStartMs": 479633,
+      "dDurationMs": 2934,
+      "segs": [
+        {
+          "utf8": "But however things go\nin the next few years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 482567,
+      "dDurationMs": 5433,
+      "segs": [
+        {
+          "utf8": "there's no doubt the race to build\nthe smartest machines in history is on."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2012 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 80,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "We just don't know what this data\nwill be used for in the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 3920,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And I know that sounds really,\nreally scary,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 6400,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "but it just goes to show\nthat we need to be extra mindful"
+        }
+      ]
+    },
+    {
+      "tStartMs": 10240,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "and extra cautious when giving our\nhealth info to any other third party."
+        }
+      ]
+    },
+    {
+      "tStartMs": 15360,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Fertility tracking apps\ncan be used to log your period"
+        }
+      ]
+    },
+    {
+      "tStartMs": 17720,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "to help you manage the symptoms\nor try to get pregnant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 20800,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "The most popular three are Clue,\nFlo and Period Tracker,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 24400,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "and they've got more than\n250 million downloads between them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 27880,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "But some women are now using them\nto avoid getting pregnant too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 31480,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "So how do these apps work?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 33320,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Have they been designed to replace\ncondoms and hormonal treatments,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 36840,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and are they a safe alternative?\nThat's what we're talking about today."
+        }
+      ]
+    },
+    {
+      "tStartMs": 40120,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "On What in the World from the BBC\nWorld Service, I'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 47760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "And joining us is Rayka Kumru\nfrom Turkey,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 50640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "who works internationally\nas a sexologist. Hi, Rayka."
+        }
+      ]
+    },
+    {
+      "tStartMs": 53720,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Hi. How are you?\nGood, thank you. Thank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 57000,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So what is a sexologist?\nWhat does that mean?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59480,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "What exactly do you do?\nYeah. So I'm a social sexologist,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63240,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "so I don't do any clinical work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 65440,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I work as a consultant\nand an educator,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68440,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and I combine the two worlds together,\nthe world of sexual health"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71640,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and the world of communications,\nso that can look like anything"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74800,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "from producing videos and content\nthat's evidence based."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78680,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "And it can also look like\nme delivering educational workshops\nin multiple settings."
+        }
+      ]
+    },
+    {
+      "tStartMs": 83880,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "One of the hats that you're going\nto be wearing for today is to talk\nabout these fertility tracking apps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 87880,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So they work\nby tracking your menstrual cycle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 90120,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "And before we find out how they work,\nI thought it would be really useful"
+        }
+      ]
+    },
+    {
+      "tStartMs": 93440,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "to know how the menstrual cycle works\nand what the different phases are."
+        }
+      ]
+    },
+    {
+      "tStartMs": 96960,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So day one is the first day of your\nperiod between day one and day 14."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101200,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Your body does a lot of different\nthings to get one of the eggs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 105000,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "in the ovaries ready for ovulation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 107840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So what it does is estrogen rises\nin the body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111280,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and this causes the lining\nof the uterus,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 114320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "the endometrium to grow and thicken."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116920,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "And then between day ten and 14,\none of the developing follicles,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 122040,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "grows into an egg,\nwhat we call an ovum."
+        }
+      ]
+    },
+    {
+      "tStartMs": 126440,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So on day, usually around day 14,\nit could be 13 or 16."
+        }
+      ]
+    },
+    {
+      "tStartMs": 131320,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "This fully developed egg\ngets released from the ovary,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 136080,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "and after the egg is released,\nit starts traveling."
+        }
+      ]
+    },
+    {
+      "tStartMs": 140160,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And this is the fourth phase,\nwhat I call the traveling egg phase."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144920,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "There are more medical terms\nfor these phases, obviously."
+        }
+      ]
+    },
+    {
+      "tStartMs": 148440,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "but I'm trying\nto simplify it all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 150440,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "So between day 15 and 28, typically,\nif we're talking about a 28 day cycle,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156680,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "the egg leaves the ovary,\ntravels through the fallopian tube."
+        }
+      ]
+    },
+    {
+      "tStartMs": 160120,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "and assuming that\nthere's no pregnancy, it dissolves"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164840,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "and the lining of the uterus then\ngets prepared to also leave the body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 168960,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "And that brings us back\nto the period phase."
+        }
+      ]
+    },
+    {
+      "tStartMs": 171280,
+      "dDurationMs": 1800,
+      "segs": [
+        {
+          "utf8": "We're going to come back to Rayka\nin just a minute,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 173080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "but I want to explain a bit\nabout how these apps work."
+        }
+      ]
+    },
+    {
+      "tStartMs": 175520,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So some of them look a bit\nlike a calendar app on your phone,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 178520,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and you can input information\nfor different days of the month,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 181360,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "so you can put in the first\nand the last day of your period."
+        }
+      ]
+    },
+    {
+      "tStartMs": 184360,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "You can also put in the different\nsymptoms that you might experience,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 187400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and how your mood and your body\nchanges throughout the cycle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190600,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "And using that data and algorithms,\nas well as"
+        }
+      ]
+    },
+    {
+      "tStartMs": 194480,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "the average length of women cycles."
+        }
+      ]
+    },
+    {
+      "tStartMs": 196920,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "The apps are then able to predict\nwhen your next period might be,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200120,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "and they can also predict your fertile\nwindow, which is when you're ovulating."
+        }
+      ]
+    },
+    {
+      "tStartMs": 203720,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "That's the time of the month\nwhen you should ideally be using"
+        }
+      ]
+    },
+    {
+      "tStartMs": 206520,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "some other kind of contraception\nif you don't want to get pregnant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 209480,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And it can also help you\nto track those symptoms"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211960,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and see patterns\ninto how and when they occur."
+        }
+      ]
+    },
+    {
+      "tStartMs": 214680,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Natural cycles, which is the only app\nthat's been approved"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217480,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "as a contraception,\nalso comes with a thermometer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 220320,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So you can input your body temperature\nfirst thing in the morning."
+        }
+      ]
+    },
+    {
+      "tStartMs": 223480,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And that's another way\nto help improve the accuracy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 226320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "because your body temperature changes\nthroughout the different times"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228920,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "of the month.\nSo back to you, Rayka."
+        }
+      ]
+    },
+    {
+      "tStartMs": 231560,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "When you take hormonal medication,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 233680,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "something like the pill\nthat can give you a much clearer idea"
+        }
+      ]
+    },
+    {
+      "tStartMs": 236560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "of when your period, your\nwithdrawal bleed is going to come"
+        }
+      ]
+    },
+    {
+      "tStartMs": 239040,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "because you can kind of manage it\nmedically,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 242160,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "but a lot of people use these apps\nso they don't have to take hormones"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245440,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "because of all the side effects\nthat come with it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 247800,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "What are some of the other reasons\nthat people are turning to them?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 250160,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "People can turn to them to have a\nbetter understanding of their moods,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 254440,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "sometimes to have\na better understanding of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 256840,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "how maybe different,\nconditions that they have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 261040,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "or issues or questions that\nthey have interact with their period."
+        }
+      ]
+    },
+    {
+      "tStartMs": 265720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Of course, one\nof the more common ones is to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268840,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "use it as a form of birth control."
+        }
+      ]
+    },
+    {
+      "tStartMs": 271280,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And another,\nreason on the flip side of that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 274720,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "is to, track it if they're trying to become pregnant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 278680,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "With Gen Z and the later generations,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 281000,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "there is this, movement not just\nin sexual reproductive health,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 285280,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "but overall health\nand overall way of living from"
+        }
+      ]
+    },
+    {
+      "tStartMs": 288960,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "moving a little bit further away\nfrom some of the more,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 292680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "I want to say, medicalised\nor chemicalised ways of doing things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 296760,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "There's a movement to being more, organic, vegan,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 301080,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "more mindful, slow consumption."
+        }
+      ]
+    },
+    {
+      "tStartMs": 303320,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So using period tracking apps\nfor contraception may be one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 307320,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "of those trends that we see\nas a part of a whole."
+        }
+      ]
+    },
+    {
+      "tStartMs": 311040,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "It could also very well be\nbecause of limited and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 315080,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "very difficult and sometimes\nimpossible access to contraception."
+        }
+      ]
+    },
+    {
+      "tStartMs": 320720,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "And it could also be an embracing\nof more traditional ways"
+        }
+      ]
+    },
+    {
+      "tStartMs": 325720,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "of using contraception or\npreventing pregnancies, if you will."
+        }
+      ]
+    },
+    {
+      "tStartMs": 330160,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Now let's hear from Dr Francesco\nRampazzo from Oxford University here"
+        }
+      ]
+    },
+    {
+      "tStartMs": 334560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "in the UK.\nHe carried out a study looking at"
+        }
+      ]
+    },
+    {
+      "tStartMs": 336840,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "where these apps are being downloaded\naround the world and why."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339880,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "So with our study,\nwhat we wanted to do was analysing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 345040,
+      "dDurationMs": 6000,
+      "segs": [
+        {
+          "utf8": "112 countries we managed to study\nand 25 menstrual tracking apps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 351040,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So we use the data from the Google\nPlay Store and the App Store."
+        }
+      ]
+    },
+    {
+      "tStartMs": 354960,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Some of these users\nare also reporting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 358040,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "through their reviews of the apps,\nwhy they're using the apps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 362840,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "So the motivation for their usage.\nThese apps are growing rapidly,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 368680,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "and we estimated that hundreds of\nmillions of downloads, globally"
+        }
+      ]
+    },
+    {
+      "tStartMs": 374760,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "across the most popular\nmenstrual tracking apps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 377440,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "But I need to say\nthat our estimates are for 2021."
+        }
+      ]
+    },
+    {
+      "tStartMs": 381880,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "So these numbers\nare now are outdated."
+        }
+      ]
+    },
+    {
+      "tStartMs": 385480,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Probably there are even more,\nusers, worldwide."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390600,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "The countries\nthat received the majority"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394880,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "of the downloads are the US,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 397320,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "but also the UK,\nFrance and Australia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 400920,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "And we found also substantial uptake"
+        }
+      ]
+    },
+    {
+      "tStartMs": 403360,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "across South America\nand the global South."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406680,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And we found that the most frequent motivation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 410520,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "for using these apps is\ngeneral menstrual tracking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 416320,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "So 61% of these reviews"
+        }
+      ]
+    },
+    {
+      "tStartMs": 419320,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "are suggesting that\nthese users are using these apps"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424760,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "for receiving a prediction\nof their period."
+        }
+      ]
+    },
+    {
+      "tStartMs": 429640,
+      "dDurationMs": 6840,
+      "segs": [
+        {
+          "utf8": "Some users might be turning to apps\nas a supplement or"
+        }
+      ]
+    },
+    {
+      "tStartMs": 436480,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "or even like a substitute for\nformer reproductive health services,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441760,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "especially where access to contraception\nor healthcare is more limited."
+        }
+      ]
+    },
+    {
+      "tStartMs": 446680,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "We found that around 22% of the users\nare reporting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 451440,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "that they are using these apps\nto achieve a pregnancy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 455320,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "8% to avoid pregnancy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458760,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "As you said, more people are starting\nto use this as a form of birth control."
+        }
+      ]
+    },
+    {
+      "tStartMs": 463160,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Is that something\nthat they have been designed for?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 466000,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "I don't think so."
+        }
+      ]
+    },
+    {
+      "tStartMs": 467560,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "I think when these\nperiod tracking apps were designed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 473400,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "I don't think they took\ninto picture"
+        }
+      ]
+    },
+    {
+      "tStartMs": 478120,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "how people would actually end up\nusing them in the fullest context."
+        }
+      ]
+    },
+    {
+      "tStartMs": 482880,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "But that's technology for you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 484480,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "Something can be developed\nfor one reason."
+        }
+      ]
+    },
+    {
+      "tStartMs": 486160,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And then,\nbased on how users use them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 489120,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "they can turn be turned\ninto something different or,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 491920,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "you know, new features can be added on top."
+        }
+      ]
+    },
+    {
+      "tStartMs": 495560,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And I feel like that's what's happening\nwith period trackers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 498760,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Now, you can track your -\nyou can input your mood,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 500800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "your diet, your level of exercise\nduring that day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 503600,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "They're almost becoming this kind of\nlike this lifestyle app,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 507240,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "like track your everything."
+        }
+      ]
+    },
+    {
+      "tStartMs": 509280,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "How reliable are these apps\nif people are using them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512760,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "as contraception instead of the pill\nor condoms."
+        }
+      ]
+    },
+    {
+      "tStartMs": 516840,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Certain contraceptive methods will\nwork better for specific people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 521240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "depending on various\ndifferent attributes and factors,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524680,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "and a doctor would be able to assess\nthat way better than I will be able to."
+        }
+      ]
+    },
+    {
+      "tStartMs": 529000,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "However, there are certain things\nthat we need to take into consideration,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 532160,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "one being especially for young people,\nwhich is a group that I work with commonly"
+        }
+      ]
+    },
+    {
+      "tStartMs": 539200,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Is that it\ntakes a while for a menstrual cycle,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 542880,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "the cycle as a whole,\nto kind of find its way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 546720,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "It's not always like clockwork."
+        }
+      ]
+    },
+    {
+      "tStartMs": 549400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "As soon as you get your period,\nyou don't usually get it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 552400,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "in a very organised\nand regular manner, if you will."
+        }
+      ]
+    },
+    {
+      "tStartMs": 557040,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "And so to start tracking your period,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 560040,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "one month may look very different\nthan the next month."
+        }
+      ]
+    },
+    {
+      "tStartMs": 562600,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "And if you're kind of planning your\nsexual activity around that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 569160,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "that can be a little bit problematic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 571960,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "because it's not going to give you\nexact dates as to when you're ovulating,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 577120,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "when you're fertile,\nwhen you're not very fertile."
+        }
+      ]
+    },
+    {
+      "tStartMs": 579640,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "It usually takes time,\nusually until our mid 20s,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 586360,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "sometimes for our menstrual cycle\nto kind of find its own."
+        }
+      ]
+    },
+    {
+      "tStartMs": 589520,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "And so that is one important note."
+        }
+      ]
+    },
+    {
+      "tStartMs": 592400,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "The other note is\nour cycles can change"
+        }
+      ]
+    },
+    {
+      "tStartMs": 595720,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "throughout our life\nand throughout specific events."
+        }
+      ]
+    },
+    {
+      "tStartMs": 599400,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So things like\nreally stressful periods of times."
+        }
+      ]
+    },
+    {
+      "tStartMs": 602280,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So all of these things can influence\nour menstrual cycle"
+        }
+      ]
+    },
+    {
+      "tStartMs": 606120,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "and therefore the days\non which we're going to be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 610400,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "more likely to ovulate\nor become more fertile."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613480,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And then finally,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 615960,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "period tracking apps are great\nfor tracking periods, obviously,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 619160,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "but they're\nnot going to create a barrier or,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 624400,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "kind of any form of protection\nfrom sexually transmitted infections."
+        }
+      ]
+    },
+    {
+      "tStartMs": 627760,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So what I'm hearing for you\nis there is a lot of human variation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 631080,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "There's also room for human error."
+        }
+      ]
+    },
+    {
+      "tStartMs": 632680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "These apps are only going to be as good\nas the data that you input into them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 636360,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So the companies behind these apps\nsay that they can be"
+        }
+      ]
+    },
+    {
+      "tStartMs": 638920,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "as much as 93% reliable\nwhen they're used correctly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 642080,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And that means that seven\nout of 100 women would get pregnant"
+        }
+      ]
+    },
+    {
+      "tStartMs": 644840,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "when tracking their fertility\nover a year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 648040,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "But when the pill is used\nperfectly every single day"
+        }
+      ]
+    },
+    {
+      "tStartMs": 652000,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "at the same time,\nthe success rate is 99%."
+        }
+      ]
+    },
+    {
+      "tStartMs": 655880,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Things like the coil and the implant,\nthe injection,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 659320,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "which don't rely on\npeople having to take them every day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 662160,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "But there's another big concern\nwith these"
+        }
+      ]
+    },
+    {
+      "tStartMs": 664480,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "and with many of the apps\nthat we use, which is privacy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 667760,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "There was a lawsuit in Canada\nagainst one of these apps called Flo,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 671240,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and it claimed that it shared\nusers information with Facebook."
+        }
+      ]
+    },
+    {
+      "tStartMs": 674600,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Flo has denied the claims."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677280,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Is that something\nthat users should be worried"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680120,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "about when we're giving these apps\nso much of our personal data?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 683800,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Yes, I'm all for non scare\ntactics when it comes to sex ed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 687960,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "but data privacy. I'm\nkind of separating that from sex ed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691640,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So, it's okay for\npeople to be scared because I feel"
+        }
+      ]
+    },
+    {
+      "tStartMs": 695600,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "like we need to take precaution and\nwe're not educated well enough in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 700200,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "kind of what awaits us when\nit comes to us sharing our health"
+        }
+      ]
+    },
+    {
+      "tStartMs": 705120,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and intimate data\nwith an app that's privately run."
+        }
+      ]
+    },
+    {
+      "tStartMs": 708640,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "We just don't know what this data\nwill be used for in the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 712360,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "And I know that sounds really,\nreally scary, but"
+        }
+      ]
+    },
+    {
+      "tStartMs": 714880,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "it just goes to show\nthat we need to be extra mindful"
+        }
+      ]
+    },
+    {
+      "tStartMs": 718800,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "and extra cautious when giving our\nhealth info to any other third party."
+        }
+      ]
+    },
+    {
+      "tStartMs": 723880,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "I don't know about you, but I find\nthis whole thing quite overwhelming"
+        }
+      ]
+    },
+    {
+      "tStartMs": 726080,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "because there are\nso many different methods out there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 728400,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and now so many apps as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 730720,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "What advice would you have for\nsomeone who's struggling to choose?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 733560,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "I will never advise for someone\nto use one option over the other."
+        }
+      ]
+    },
+    {
+      "tStartMs": 738480,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "What matters is that we have all\nof the options."
+        }
+      ]
+    },
+    {
+      "tStartMs": 741280,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Please do your research.\nWeigh your options."
+        }
+      ]
+    },
+    {
+      "tStartMs": 744000,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "Talk to your healthcare provider if\nyou can. Talk to trusted adults,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 748360,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "trusted people in your life.\nLook onto trusted websites."
+        }
+      ]
+    },
+    {
+      "tStartMs": 751200,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "These can be medical websites."
+        }
+      ]
+    },
+    {
+      "tStartMs": 753200,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "These can be\ngrassroots organisations."
+        }
+      ]
+    },
+    {
+      "tStartMs": 755680,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "These can be NGOs or\nlocal clinics that you trust and know"
+        }
+      ]
+    },
+    {
+      "tStartMs": 760880,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "that are going to be sex positive\nand non pushy when it comes to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 767080,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "helping you make a decision about\nyour body and what goes in your body"
+        }
+      ]
+    },
+    {
+      "tStartMs": 770800,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "and the contraceptive method\nthat you're going to use."
+        }
+      ]
+    },
+    {
+      "tStartMs": 773120,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Rayka, thank you so much for joining us.\nThank you so much for having me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 776720,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And as Rayka said,\nalways seek advice"
+        }
+      ]
+    },
+    {
+      "tStartMs": 779080,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "from a medical professional like\na doctor for anything health related."
+        }
+      ]
+    },
+    {
+      "tStartMs": 783400,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "That is it for today's episode.\nThank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 785640,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart and this is What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 789200,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "We'll see you next time."
+        }
+      ]
+    }
+  ]
+}

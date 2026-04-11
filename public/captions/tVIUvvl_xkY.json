@@ -1,0 +1,1742 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 1200,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Hello, it's Hannah Gelbert.\nThank you so much for joining us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 4120,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "for this episode of What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 7680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Today we're talking about dugongs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 9760,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "They're these kind\nof greyish sea creatures."
+        }
+      ]
+    },
+    {
+      "tStartMs": 11920,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "They look a bit like dolphins\nor manatees, if you haven't seen them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14600,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And they're\naffectionately called sea cows."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16840,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "No offence to them. But it's partly\nbecause they graze on seagrass."
+        }
+      ]
+    },
+    {
+      "tStartMs": 20720,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Dugongs can be found in the seas\nand oceans"
+        }
+      ]
+    },
+    {
+      "tStartMs": 23480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "on the east coast of Africa\nand around South East Asia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 26440,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "But now Thailand is finding more\nand more of them dead there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 30800,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "So today we're going to find out\nwhy dugongs are dying out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 34480,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and what Thailand is doing to try\nand save them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 41160,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "I'm going to put my headphones\non now because we have our guest,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 44280,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "BBC reporter Panisa Aemocha, who\nI'm speaking to from Bangkok. Hello."
+        }
+      ]
+    },
+    {
+      "tStartMs": 48640,
+      "dDurationMs": 840,
+      "segs": [
+        {
+          "utf8": "Hi, how are you?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 49480,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Yeah. I'm good. Thank you\nfor coming back on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52200,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "You might have heard me trying\nto describe what dugongs look like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55600,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "but I'm sure you can do\na much better job."
+        }
+      ]
+    },
+    {
+      "tStartMs": 57200,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Like, what are\ntheir main characteristics?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59360,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "We're coming from Thailand."
+        }
+      ]
+    },
+    {
+      "tStartMs": 60640,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "So to paint a better picture, a dugong\nis like a marine version of Moo Deng,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 65880,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "a baby pygmy hippo\nthat's become a phenomenon worldwide,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 69600,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "not only in Thailand. But\nactually, it's a cousin to a manatee."
+        }
+      ]
+    },
+    {
+      "tStartMs": 73880,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "What's different between dugongs and\na manatee is actually it's tail."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78600,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "The tail of dugong is like a dolphin, fluke-\nlike tail. So that's where different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 82960,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And a manatee live in freshwater\nand dugong live in seawater,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86800,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "It's a marine, uh,\nsea animal or sea mammal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 90360,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So it's actually,\nas you mentioned, it's grey or brown"
+        }
+      ]
+    },
+    {
+      "tStartMs": 93560,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and it can grow in length\nup to three to four metres."
+        }
+      ]
+    },
+    {
+      "tStartMs": 96960,
+      "dDurationMs": 6120,
+      "segs": [
+        {
+          "utf8": "And also it can weigh as much as 400kg.\nSo it's quite, quite huge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 103080,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "And as you mentioned, it lives along\nthe coastal water from East Africa"
+        }
+      ]
+    },
+    {
+      "tStartMs": 107560,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "to the Red Sea and also in Australia\nand South East Asia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111520,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "I've never seen one.\nBut have you, is it something"
+        }
+      ]
+    },
+    {
+      "tStartMs": 114240,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "that, like, people see when they're\nswimming or diving or snorkelling?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 117800,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Yeah. Unfortunately\nit's a very shy animal."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120360,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "So it's not\nthat they would like, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 121920,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "when they see a human they would come\nto approach us, not that friendly,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125720,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "so maybe they like try to flee away,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127840,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "but if you're lucky, you might see one."
+        }
+      ]
+    },
+    {
+      "tStartMs": 131240,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And how important are they for\nfor the ecosystems."
+        }
+      ]
+    },
+    {
+      "tStartMs": 134640,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So dugong actually play a crucial role\nin their ecosystem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 137920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So their feeding behaviour actually helps\nmaintain the health of the seagrass bed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 141880,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "by controlling the growth of the plant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "They also help spreading\nseagrass seed as well,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 146520,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "just like the animals when\nthey go around in the sea."
+        }
+      ]
+    },
+    {
+      "tStartMs": 149640,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So they actually are really important\nfor the environment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 152880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "It's also important\nto note that actually seagrass"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156040,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "meadows are highly effective\nat capturing and storing carbon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 159920,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "So actually dugong actually help out\nwith the climate situation as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 164360,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "So they do play\na really important role."
+        }
+      ]
+    },
+    {
+      "tStartMs": 166600,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "And how are they seen culturally?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168880,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "They've got\nthis affectionate name, sea cows."
+        }
+      ]
+    },
+    {
+      "tStartMs": 171080,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "They're actually one of\nThailand's 20 endangered wild animals."
+        }
+      ]
+    },
+    {
+      "tStartMs": 175680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "So we actually really look\nafter them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 178280,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "and they're actually really\ndear to our society as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182400,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "Do you know how big the\ndugong population is around Thailand?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 185560,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So it used to be over 200\nin the past."
+        }
+      ]
+    },
+    {
+      "tStartMs": 188440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "But now, with the crisis\nat the moment,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 191560,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "in November alone, five dugongs have\ndied and one expert that we interviewed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 196480,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "kind of estimates that it's maybe\nless than 100 dugong left in Thailand."
+        }
+      ]
+    },
+    {
+      "tStartMs": 201160,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Do you know what's causing this? Like\nwhy are they dying in such high numbers?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205240,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "The short answer is\nthat they're losing their food."
+        }
+      ]
+    },
+    {
+      "tStartMs": 207840,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "So seagrass is their main food, or\ntheir only food, and the reduction"
+        }
+      ]
+    },
+    {
+      "tStartMs": 212720,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "or the reduced rate of seagrass in\nThailand has been seen since 2020,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217200,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "with particularly more reduced\nin the past few years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 220480,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "and researchers have linked this\nwith an unusual sea level drop."
+        }
+      ]
+    },
+    {
+      "tStartMs": 224960,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "This actually caused\nthe seagrass to be exposed to the air"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and to the sun\nfor extended periods of time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231280,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and this has been sabotaging\nthe seagrass growth really much."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235120,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "The heavy rain, the frequency,\nalso plays an important role as well"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238800,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "because it can reduce the salinity\nin the water,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 241840,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "which is a condition that's actually\nsuitable from the seagrass level."
+        }
+      ]
+    },
+    {
+      "tStartMs": 245560,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "But when you have more rain coming up\nfrom land to the water,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 249120,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "that can also be a cause\nof problems for seagrass growth too."
+        }
+      ]
+    },
+    {
+      "tStartMs": 254120,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "I don't know about you,\nbut when I watch documentaries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 256280,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "about marine life, there are always\nthese animals that wash up"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259640,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and they have like plastic bags\nin their bellies and stuff."
+        }
+      ]
+    },
+    {
+      "tStartMs": 262240,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Is plastic waste also affecting\nthe dugong population?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265880,
+      "dDurationMs": 1480,
+      "segs": [
+        {
+          "utf8": "It is for sure."
+        }
+      ]
+    },
+    {
+      "tStartMs": 267360,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Um, earlier we were talking\nabout how famous Moo Deng is, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 270840,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Back in 2019, there was\none dugong named Mariam in Thai."
+        }
+      ]
+    },
+    {
+      "tStartMs": 275360,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "She became a sweetheart\nof the country back then"
+        }
+      ]
+    },
+    {
+      "tStartMs": 278360,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "because she was found stranded\nin April of 2019."
+        }
+      ]
+    },
+    {
+      "tStartMs": 282520,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "She was only six months old\nand she was rescued."
+        }
+      ]
+    },
+    {
+      "tStartMs": 285200,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "And she was the first dugong\nin Thailand to be milk fed by humans."
+        }
+      ]
+    },
+    {
+      "tStartMs": 290680,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "So she became like a national\nsweetheart. And then she was healthy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 295080,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "she was rescued and she was sent back\nto, um, to the nature."
+        }
+      ]
+    },
+    {
+      "tStartMs": 299320,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "But unfortunately, in August\nof the same year, she was found dead."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304040,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And can you imagine\nwhat was the cause of it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 306880,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Was it plastic?\nThey found plastic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 309200,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "And it's like kind of caused problems with\nher intestine and led to inflammation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 314240,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And unfortunately, she was found\ndead in August and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317640,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "actually um, she was found dead on\nAugust the 17th, and that day became"
+        }
+      ]
+    },
+    {
+      "tStartMs": 322520,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "a national dugong conservation day\nof Thailand from 2019."
+        }
+      ]
+    },
+    {
+      "tStartMs": 326560,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "What a sad, sad story.\nAnd really interesting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 329680,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "how the whole nation got behind the\nstory of Mariam, the Milky Dugong,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 333200,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "as I'm gonna call her anyway.\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 335960,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "But you said there's less\nthan a hundred dugongs left now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 339640,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "What would happen\nif they all went extinct?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 342680,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "How would that affect the seas\nand the oceans?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 345080,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "I mean, for sure,\nas we mentioned, about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "how important dugong is\nto the ecosystem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 350160,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Right. Actually,\nThailand used to have one province,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 353920,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "it's Trang province, that is known to be\nthe capital city of dugong because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 358640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "in the past\nthere's so many dugong there,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 361200,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and nobody can bring dugong\nfrom Trang Province"
+        }
+      ]
+    },
+    {
+      "tStartMs": 363840,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "because there's a lot of, um,\nseagrasses there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 366840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "But now they're less and less.\nAnd the experts say that in Trang,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 370280,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "in that province, the capital city\nof dugong in Thailand,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 373480,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "less than ten dugong are left."
+        }
+      ]
+    },
+    {
+      "tStartMs": 375600,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So, I mean,\nyou lost tourist attractions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 378240,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "but even more severe than that,\nyou lost the dugong."
+        }
+      ]
+    },
+    {
+      "tStartMs": 382600,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "And we don't want to repeat what\nhappened in 2022 when dugong became"
+        }
+      ]
+    },
+    {
+      "tStartMs": 388080,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "like, um, extinct in Chinese waters."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391000,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "You mentioned this\nNational Dugong Conservation Day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 394200,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "What is Thailand actually trying\nto do in terms"
+        }
+      ]
+    },
+    {
+      "tStartMs": 396960,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "of real action to try to save\nits dugong population?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 399920,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So at the moment,\nall stakeholders in Thailand are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 402480,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "trying to replant all the seagrass,\nthat's the most important thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406440,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "So the dugong have their food back."
+        }
+      ]
+    },
+    {
+      "tStartMs": 408560,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "But unfortunately, the experts told us\nthat there haven't been any projects"
+        }
+      ]
+    },
+    {
+      "tStartMs": 413960,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "that we could say is 100% success rate,\nbecause actually planting seagrass"
+        }
+      ]
+    },
+    {
+      "tStartMs": 418600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "is actually really hard\nbecause it takes a long time to grow."
+        }
+      ]
+    },
+    {
+      "tStartMs": 422000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And there's so many problems\nwith climate change."
+        }
+      ]
+    },
+    {
+      "tStartMs": 424720,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "We mentioned\nwith heavy rainfall or"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426880,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "with heavy storms that could sabotage\nthe seagrass really easily."
+        }
+      ]
+    },
+    {
+      "tStartMs": 430880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So despite all this hardness\nand difficulty,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 434160,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "the experts still emphasise on the\nfact that we have to keep doing it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 437520,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "because it might yield results\nin the next five to ten years."
+        }
+      ]
+    },
+    {
+      "tStartMs": 441520,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "But at the moment they're trying\nto monitor dugong,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 444880,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "they're trying to study\nhow it's feeding"
+        }
+      ]
+    },
+    {
+      "tStartMs": 447240,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and how can we know them better,\nhow can we help them better?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 451080,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "But at the moment, the main focus is\ntrying to replant the seagrass."
+        }
+      ]
+    },
+    {
+      "tStartMs": 455440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And climate change is a problem\nacross the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458240,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "You mentioned China, where\nthe dugongs have all gone extinct."
+        }
+      ]
+    },
+    {
+      "tStartMs": 462280,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Is this a problem\nin other parts of the world too?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 465000,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Yeah, actually,\nI mean, dugong has been on the list"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469080,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "as vulnerable\non the IUCN Red List, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 472320,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And have been considered endangered\nsince 1982. It is still is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 476360,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "So it's not only a problem\nin Thailand,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 478760,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "or that it became extinct\nin China already."
+        }
+      ]
+    },
+    {
+      "tStartMs": 481320,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Australia, which is actually home to the\nlargest dugong population in the world,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 486440,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "is also reporting the decline of\ndugong populations in some areas due to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 491480,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "the same thing, due to the seagrass that\nhas been on the reduced rate as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496400,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "So you can see that climate change\nactually affects the whole world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 501200,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And beyond South East Asia,\ndugongs used to be found all"
+        }
+      ]
+    },
+    {
+      "tStartMs": 504160,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "along the eastern coast of Africa,\nfrom Somalia to Mozambique."
+        }
+      ]
+    },
+    {
+      "tStartMs": 507240,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "But sightings these days are\nreally rare."
+        }
+      ]
+    },
+    {
+      "tStartMs": 509560,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "That's except for in Bazaruto National\nPark, which is in Mozambique,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 513440,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "and Evan Trotzuk works in Bazaruto for\nthe NGO African Parks, and sent us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 518400,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "this voice note\nabout the situation there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 521160,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "Most of the time I've spent in water\nwith dugongs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 526120,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "has been during the tagging process."
+        }
+      ]
+    },
+    {
+      "tStartMs": 529680,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "It's always\na very special experience."
+        }
+      ]
+    },
+    {
+      "tStartMs": 534880,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Um, they are incredibly cryptic\nand shy animals,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 539720,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "and 99% of your observations\nor your time with them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 545240,
+      "dDurationMs": 9960,
+      "segs": [
+        {
+          "utf8": "are brief, three-second glimpses as\nthey come up to surface and breathe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 555200,
+      "dDurationMs": 6200,
+      "segs": [
+        {
+          "utf8": "There are a few hundred dugongs\nin the Bazaruto region."
+        }
+      ]
+    },
+    {
+      "tStartMs": 561400,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Considering the rest of Mozambique,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 564120,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "you probably have\na few dozen other dugongs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 568120,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "and it's a similar situation in Kenya\nand Tanzania."
+        }
+      ]
+    },
+    {
+      "tStartMs": 573160,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "There's certainly been\na severe reduction in terms"
+        }
+      ]
+    },
+    {
+      "tStartMs": 577880,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "of their geographic distribution,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 580680,
+      "dDurationMs": 5800,
+      "segs": [
+        {
+          "utf8": "and in terms of the relative density\nin the vast majority"
+        }
+      ]
+    },
+    {
+      "tStartMs": 586480,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "of the dugongs' East African range."
+        }
+      ]
+    },
+    {
+      "tStartMs": 589920,
+      "dDurationMs": 7520,
+      "segs": [
+        {
+          "utf8": "The primary reason is an increase\nin gill netting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 597440,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "along the entire East African\ncoastline in the 70s, 80s, and 90s."
+        }
+      ]
+    },
+    {
+      "tStartMs": 602960,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "Around the world, gillnets are\nthe principal threat to dugongs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 608160,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "Gill netting is a type\nof netting whereby a fisher leaves it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 613680,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "in the water column,\nso it floats there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 616600,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "It's incredibly simple to use, right?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 619240,
+      "dDurationMs": 6120,
+      "segs": [
+        {
+          "utf8": "I can simply go out, put a net down,\nleave it there for 24 hours and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 625360,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "come back and any fish that's swum\ninto this net will be captured in it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 630120,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Um, unfortunately,\nas I mentioned, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 632960,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "because it's left there with\nnobody attending it, that often means"
+        }
+      ]
+    },
+    {
+      "tStartMs": 637320,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "that when marine megafauna swims\ninto it, uh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 640520,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "whether that's a turtle,\nwhether that's a shark, dugong,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 643320,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "dolphin, it can easily get entangled\nand then it's unable"
+        }
+      ]
+    },
+    {
+      "tStartMs": 648240,
+      "dDurationMs": 6800,
+      "segs": [
+        {
+          "utf8": "to continue breathing properly. Together\nwith the Mozambican government,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 655040,
+      "dDurationMs": 7640,
+      "segs": [
+        {
+          "utf8": "we institute a number of conservation\nactivities. Community development,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 662680,
+      "dDurationMs": 7440,
+      "segs": [
+        {
+          "utf8": "so alternative livelihoods to shift\npressure from fishing. Education."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670120,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "We also conduct aerial surveys,\nwe conduct satellite tagging"
+        }
+      ]
+    },
+    {
+      "tStartMs": 675960,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and we do seagrass surveys."
+        }
+      ]
+    },
+    {
+      "tStartMs": 678960,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "And then we also do conservation\nlaw enforcement to ensure that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 684600,
+      "dDurationMs": 6600,
+      "segs": [
+        {
+          "utf8": "illegal fishing is also being managed\nand disrupted appropriately."
+        }
+      ]
+    },
+    {
+      "tStartMs": 691200,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "So you can hear, Panisa, about some\nof the other things that are being done"
+        }
+      ]
+    },
+    {
+      "tStartMs": 693840,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "in other parts of the world\nto try and save the dugongs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 697120,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Thank you so much\nfor joining us for the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 699320,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Thank you. And thank you to everyone\nwho is listening or watching."
+        }
+      ]
+    },
+    {
+      "tStartMs": 704160,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "I am Hannah Gelbert.\nI'm Panisa Aemocha."
+        }
+      ]
+    },
+    {
+      "tStartMs": 706680,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And this is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 709320,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "We'll be back with another episode\nsoon. See you then. Bye."
+        }
+      ]
+    }
+  ]
+}

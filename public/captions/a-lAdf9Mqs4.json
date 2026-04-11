@@ -1,0 +1,2561 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 160,
+      "dDurationMs": 1720,
+      "segs": [
+        {
+          "utf8": "Don't look at the packet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 3920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Yum. They're like a barbecue flavour.\nThey're delicious."
+        }
+      ]
+    },
+    {
+      "tStartMs": 8160,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "You have a good palate.\nWhat are they? Locusts?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 11640,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Very, very close.\nHello. It's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14400,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Welcome back to What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 17920,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Have you heard of forgotten foods?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 20320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Today we're going to be talking about\nwhat they are and why they matter."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23680,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And we're going to get the lowdown\nfrom our climate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 25880,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and science correspondent, Georgina\nRannard, who's been to find out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 29120,
+      "dDurationMs": 720,
+      "segs": [
+        {
+          "utf8": "Hey, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 29840,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So we're starting off things\na little bit differently this time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 32760,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And I'm here\nat the Science Museum in London"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "looking to take a sneak peek\nat the Future of Food exhibition."
+        }
+      ]
+    },
+    {
+      "tStartMs": 38680,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "We're going to look at why the issue\nof food security is so important."
+        }
+      ]
+    },
+    {
+      "tStartMs": 42760,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "Farmers have been saving seeds\nfrom their crops"
+        }
+      ]
+    },
+    {
+      "tStartMs": 45120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "for thousands of years to try\nand protect crop diversity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 48400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And today,\nin the Amazon rainforest in Brazil,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 51200,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "the Kayabi people hold seed swapping\nceremonies using these baskets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 56480,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Some scientists say\nthat to protect the crops we eat"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59200,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "in the face of climate change, we\nneed to learn from indigenous groups"
+        }
+      ]
+    },
+    {
+      "tStartMs": 62800,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and grow a wider variety of plants,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 65080,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "something otherwise known\nas the 'forgotten foods'."
+        }
+      ]
+    },
+    {
+      "tStartMs": 67720,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "But how would this work in practice?\nAnd is it even the best solution?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71080,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Georgina, you've made it back\nfrom the Science museum."
+        }
+      ]
+    },
+    {
+      "tStartMs": 73400,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "We're back.\nI've actually got you some snacks."
+        }
+      ]
+    },
+    {
+      "tStartMs": 75720,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "They're here,\nbut you can't have them just yet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 78520,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "We're gonna try them later.\nOkay. Talking about food."
+        }
+      ]
+    },
+    {
+      "tStartMs": 81400,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "I was really surprised when I read that\n60% of all of the plant based calories"
+        }
+      ]
+    },
+    {
+      "tStartMs": 85360,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "in our diet come from just three\ncrops - rice, maize, and wheat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 89680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Why are there so few?\nSo this is such a big issue."
+        }
+      ]
+    },
+    {
+      "tStartMs": 92520,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And I think\none of the ways to highlight it is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 94640,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "if we - if I tell you there are 7500\ntypes of apples, different varieties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99520,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "But if I go -\nDid not know that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 101080,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Yeah. But if I go to the supermarket\nin the UK,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 103720,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "I can maybe buy like five or six\nand there are no other options,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 107960,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "which means those varieties\naren't really being produced widely."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111240,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "They're not for sale, they're not\nkind of being protected as a crop."
+        }
+      ]
+    },
+    {
+      "tStartMs": 114960,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "But the origin of this problem\nof crops and crop variety is actually"
+        }
+      ]
+    },
+    {
+      "tStartMs": 120480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "when scientists were trying to solve\na big problem."
+        }
+      ]
+    },
+    {
+      "tStartMs": 122840,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Sometimes that happens, isn't it?\nYou try and solve one problem,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 125080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "but it creates another one\ndown the line."
+        }
+      ]
+    },
+    {
+      "tStartMs": 127600,
+      "dDurationMs": 1640,
+      "segs": [
+        {
+          "utf8": "And that problem was about hunger."
+        }
+      ]
+    },
+    {
+      "tStartMs": 129240,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Global hunger\nand the availability of food."
+        }
+      ]
+    },
+    {
+      "tStartMs": 131560,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "So in the 1950s and 60s, there was\nthis thing called the Green Revolution."
+        }
+      ]
+    },
+    {
+      "tStartMs": 136760,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And basically there were loads\nof advances in science,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 139320,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "which meant that agricultural scientists\ncould alter the genes of food"
+        }
+      ]
+    },
+    {
+      "tStartMs": 144200,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "in a much better way\nthan they ever had before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146440,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "And basically, they could pick\nvarieties of crops that they knew"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149960,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "were very resilient to disease\nor like super high productive"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154000,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "and basically alter their genes so\nyou could use the same amount of land"
+        }
+      ]
+    },
+    {
+      "tStartMs": 157480,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "or space but grow way,\nway more crops."
+        }
+      ]
+    },
+    {
+      "tStartMs": 160000,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And obviously, if there's more crops\non the same amount of space,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 162640,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "you can feed many more people. And\nthat was really important when we had,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 166600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "as we have now,\na growing global population."
+        }
+      ]
+    },
+    {
+      "tStartMs": 169560,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "But the problem is that, that has led\nto something called monoculture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 173320,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "So if you imagine there's just\nthe same varieties of crops\nbeing grown over and over again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 178280,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "But I would say it's also the result of\nbasically the industrialisation of food."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182440,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "It's a mega business\nin some countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 186120,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "One company will dominate most\nof the food market."
+        }
+      ]
+    },
+    {
+      "tStartMs": 189320,
+      "dDurationMs": 1240,
+      "segs": [
+        {
+          "utf8": "The margins are very tight."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190560,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So they say, 'okay,\nI can invest in this one crop"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193080,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "that I know is reliable', and they\nreproduce it over and over again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 196000,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And that's kind of pushing out\nall these other varieties"
+        }
+      ]
+    },
+    {
+      "tStartMs": 198720,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "of crops that are really important\nfor diversity"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202200,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and we probably will need them\nin the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 204760,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "So yeah, talking of monoculture"
+        }
+      ]
+    },
+    {
+      "tStartMs": 207280,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and this very, very limited selection,\nwhat are the risks of that?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211200,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So if disease starts spreading\nin one of these crop varieties,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 214080,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "it can spread worldwide and impact\nall of those crops around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 218240,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "And they've been bred, really, to\nnot be very diverse anymore because"
+        }
+      ]
+    },
+    {
+      "tStartMs": 221800,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "they've selected the best conditions\nso they can be particularly vulnerable."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226760,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "And climate change is altering,\nas we know our environment"
+        }
+      ]
+    },
+    {
+      "tStartMs": 229800,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and the growing conditions\nfor farmers around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 232320,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So there's more drought,\nmore flooding, rising temperatures,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 235720,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "and all of those\nare threatening agriculture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 238240,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "So I think one great example\nof monoculture is the banana,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 241880,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "which I've got one here to show you.\nGreat snack."
+        }
+      ]
+    },
+    {
+      "tStartMs": 244480,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I know I had one this morning.\nIt does power you through the day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 247360,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "And actually, there are\nover a thousand varieties of banana."
+        }
+      ]
+    },
+    {
+      "tStartMs": 250920,
+      "dDurationMs": 5480,
+      "segs": [
+        {
+          "utf8": "But 95% of the global crop is this\none, which is the Cavendish banana."
+        }
+      ]
+    },
+    {
+      "tStartMs": 256400,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "But the problem is\nthat banana has come under threat"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259040,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "from a fungus called Tropical Race\nfour, or Panama disease,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 263320,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "that has already destroyed crops in\nover 100 countries around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 268480,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "So just relying\non this one variety has meant"
+        }
+      ]
+    },
+    {
+      "tStartMs": 271360,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "that when disease has broken out,\nit's spread."
+        }
+      ]
+    },
+    {
+      "tStartMs": 273680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And they don't have\nall those other varieties kind of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 276280,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "in production everywhere\nto fall back on."
+        }
+      ]
+    },
+    {
+      "tStartMs": 278400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "I lived in South America for a bit\nand I was overwhelmed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 281200,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "I was astonished by how many\ndifferent types of banana there were."
+        }
+      ]
+    },
+    {
+      "tStartMs": 284280,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "There are these\nlike teeny tiny ones. Actually,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 286720,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "most of them are bunches of really\nshort, kind of slightly fat bananas"
+        }
+      ]
+    },
+    {
+      "tStartMs": 290240,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "and they taste - they make bananas\nhere in the UK taste like soap."
+        }
+      ]
+    },
+    {
+      "tStartMs": 294880,
+      "dDurationMs": 880,
+      "segs": [
+        {
+          "utf8": "I think that's the thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 295760,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "So, I went to Ethiopia for a trip\nonce, and this is one of the issues."
+        }
+      ]
+    },
+    {
+      "tStartMs": 300600,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "So there can be countries that grow\nlots of varieties that are local"
+        }
+      ]
+    },
+    {
+      "tStartMs": 304440,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "to that country,\nbut then they're not exported abroad."
+        }
+      ]
+    },
+    {
+      "tStartMs": 306760,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "But I tried a type of banana there\nand honestly,\nit looked completely different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 310680,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "It tasted amazing, but they only grow\nit and really eat it in Ethiopia."
+        }
+      ]
+    },
+    {
+      "tStartMs": 314680,
+      "dDurationMs": 1400,
+      "segs": [
+        {
+          "utf8": "So let's talk more about them now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 316080,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "These so-called forgotten foods,\nforgotten crops, which are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 318760,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "a potential solution to some of\nthe problems that you have set out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 322400,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "And we've been hearing\nfrom Philippa Ryan,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 324320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "who's an ethnobotanist\nat Kew Gardens here in London,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 327560,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "and that's home to one of\nthe biggest seed banks in the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 330640,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And she sent us this message\nabout one type"
+        }
+      ]
+    },
+    {
+      "tStartMs": 332840,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "of forgotten food that is grown\nin West Africa called fonio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 336360,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Today, it's still very common\nacross West Africa,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 339960,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "but it's never been grown\nbeyond the region until recently."
+        }
+      ]
+    },
+    {
+      "tStartMs": 345640,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "So what's so special about fonio?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347960,
+      "dDurationMs": 8400,
+      "segs": [
+        {
+          "utf8": "It's a group of small seeded cereal\ngrasses that people describe as millets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 356360,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Actually, in that term, millet,\nthere's lots of different species"
+        }
+      ]
+    },
+    {
+      "tStartMs": 360040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "- fonio is just one example,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 362800,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "but all of these millet cereals\nare gluten free in contrast to wheat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 368120,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "Fonio, for example,\nis high in minerals like magnesium,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 373640,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and although it's very small seeded,\nit's very nutritious."
+        }
+      ]
+    },
+    {
+      "tStartMs": 377480,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "It's important\nto diversify the range of crops"
+        }
+      ]
+    },
+    {
+      "tStartMs": 380080,
+      "dDurationMs": 5560,
+      "segs": [
+        {
+          "utf8": "by growing a wider range of species\nfrom the point of view of resilience"
+        }
+      ]
+    },
+    {
+      "tStartMs": 385640,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "to climate change not just aridity\nbut more unpredictable conditions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 390200,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "So if one crop doesn't work,\nthere's other crops that might do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 394320,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "And then secondly,\nalso for our nutritional security,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 398720,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "because if our diets become too\nreliant on a narrow range of species,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 403640,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "we're missing some of the wide range\nof nutrients that we could get"
+        }
+      ]
+    },
+    {
+      "tStartMs": 406920,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "from these other crops as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 409240,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So as Philippa mentioned there,\na lot of these forgotten foods\naren't really forgotten at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 413240,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "They have been cultivated\nfor centuries,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 415480,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and they are eaten regularly by\nindigenous and local communities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 419400,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "But they're not really made\nat this huge agricultural scale"
+        }
+      ]
+    },
+    {
+      "tStartMs": 422720,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "like the Cavendish banana and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426160,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "therefore they've kind of largely\nbeen left out of global diets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 430280,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "What other examples are there\nof so-called forgotten foods?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 433720,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "So on the banana theme, there's\na crop called false banana or ensete,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 438000,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "and it's called false banana\nbecause it looks like a banana plant."
+        }
+      ]
+    },
+    {
+      "tStartMs": 440920,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "I've actually seen them growing in the\nwild and they're these amazing plants."
+        }
+      ]
+    },
+    {
+      "tStartMs": 444760,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "The inside of the trunk\ncan be mushed down into a paste,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 448240,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "which is then fermented in the ground,\nand you can make bread from it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 451360,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "The roots can be used\nto make a porridge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 453760,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "And then actually the leaves can be used\nto build homes in in some countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 457920,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And Ethiopia is\nthe main country where this grows."
+        }
+      ]
+    },
+    {
+      "tStartMs": 461000,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And it currently feeds 20 million\npeople in Ethiopia but scientists say"
+        }
+      ]
+    },
+    {
+      "tStartMs": 465760,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "that as our world warms and\nagriculture becomes more difficult,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 469480,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "it could actually feed\na hundred million people globally."
+        }
+      ]
+    },
+    {
+      "tStartMs": 472880,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Are these wild crops more resistant to\nthings like climate change and disease?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 477600,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "These wild crops, or kind of forgotten\nones that have much more diversity,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 482440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "in them, there's a storehouse\nof genetic diversity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 485600,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "So within that they may have\nmore resistance to disease."
+        }
+      ]
+    },
+    {
+      "tStartMs": 489240,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "They may be more sort of flexible or\nmalleable if we want to select them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493760,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and move them to countries where the\nkind of growing range is changing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 497120,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "So previously, farmers may have been\nable to grow a particular type of rice,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502520,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "for example, but now it's too dry.\nBut if they look at the kind"
+        }
+      ]
+    },
+    {
+      "tStartMs": 505920,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "of - the variety\nin the other forgotten rice strains,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 509040,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "they may say, 'okay, that one\nactually, that is perfectly adapted"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512800,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "to the new range, the new dry conditions\nthat we're seeing in this country,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 515720,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "so we'll reintroduce that.'\nThat makes it sound very easy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 519760,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "It is actually quite difficult\nto do that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 521720,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And of course, there are reasons\nthat we rely on monoculture"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524200,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "because basically it's very safe."
+        }
+      ]
+    },
+    {
+      "tStartMs": 526320,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "But as we move into essentially\na more unreliable climate,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 530800,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "scientists say we actually need to\nkind of tap into these other strains"
+        }
+      ]
+    },
+    {
+      "tStartMs": 534840,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "of diversity, but\nthey can be a bit harder to control."
+        }
+      ]
+    },
+    {
+      "tStartMs": 537680,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "So we've created varieties that\nessentially suit exactly what we need."
+        }
+      ]
+    },
+    {
+      "tStartMs": 542000,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "And we could be going out there\nand using these wild crops\nor forgotten crops."
+        }
+      ]
+    },
+    {
+      "tStartMs": 546280,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "But you need a lot of time to do\nthat, space to experiment, money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 550600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And if you have people relying\non the crops that we know work,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 554000,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "they're sort of fail safe,\nthat's really important and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 557920,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "you don't want to have failed harvests\nbecause you were trying out a new crop,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 561040,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and then suddenly lots\nof people can't eat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 563400,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And it can be hard to get your hands\non the seeds for this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 566160,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "Actually, you were telling me earlier\nthat you sometimes grow your own food,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 568680,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and when you go and buy the seeds,\nthere are really limited varieties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 571920,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "And there's something called\nseed sharing that people use\nin different parts of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 575160,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "So it's about spreading the seeds\nfrom an individual farmer or community"
+        }
+      ]
+    },
+    {
+      "tStartMs": 580760,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and making it sort of fail safe\ninto the future"
+        }
+      ]
+    },
+    {
+      "tStartMs": 583040,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and spreading them around\nto other communities, but also"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585760,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "trying to introduce more diversity as\nthese plants develop and grow over time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 590760,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "In some countries, including Kenya,\nseed sharing is actually banned and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 594160,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "we have been speaking to Jewel Kiriungi\nfrom our Nairobi bureau to find out why."
+        }
+      ]
+    },
+    {
+      "tStartMs": 599040,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "Did you know that in Kenya\nit is actually illegal to share"
+        }
+      ]
+    },
+    {
+      "tStartMs": 603160,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "or sell traditional seeds unless they've\nbeen certified by the government?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 607760,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Well, this is according to a law called\nthe Seed and Plant Varieties Act,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 612080,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "which was introduced in 2012."
+        }
+      ]
+    },
+    {
+      "tStartMs": 614600,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "It says that\nonly certified seeds can be exchanged"
+        }
+      ]
+    },
+    {
+      "tStartMs": 618520,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "and anyone who violates this law,\nfaces a jail term of two years,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 623080,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "or a fine of about 7700 USD."
+        }
+      ]
+    },
+    {
+      "tStartMs": 627480,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "The government says that the law will\nhelp to protect the quality of the seed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 631840,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "and improve productivity.\nBut here's the problem,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 636000,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "small scale farmers make about 70% of\nKenya's agricultural sector,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 640640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "according to the Kenya\nNational Farmers Federation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 644160,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Many of these farmers rely\non informal exchange of seeds"
+        }
+      ]
+    },
+    {
+      "tStartMs": 647880,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "from neighbour to neighbour,\nseason after season."
+        }
+      ]
+    },
+    {
+      "tStartMs": 652000,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "These traditional seeds that have\nbeen passed down across many generations"
+        }
+      ]
+    },
+    {
+      "tStartMs": 657000,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "have adapted to local conditions such\nas drought, poor soils and pests."
+        }
+      ]
+    },
+    {
+      "tStartMs": 663400,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "In May this year, a group of farmers\ntook the government to court,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 667240,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "arguing that\nthe law is unconstitutional."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "They say it criminalises\ntheir way of life,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 673200,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "especially at a time\nwhen many Kenyans are facing hunger."
+        }
+      ]
+    },
+    {
+      "tStartMs": 677400,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Some civil society groups argue\nthat the law."
+        }
+      ]
+    },
+    {
+      "tStartMs": 680920,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "benefits big\nmultinational corporations"
+        }
+      ]
+    },
+    {
+      "tStartMs": 683720,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "by forcing farmers to buy seed every\nseason instead of using their own."
+        }
+      ]
+    },
+    {
+      "tStartMs": 689600,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "The case is before the High Court,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 691640,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "and the judgment will be delivered\nin November this year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 695160,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So, Georgina, other\nthan seed sharing, what about some"
+        }
+      ]
+    },
+    {
+      "tStartMs": 698400,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "of the other solutions to the problem\nof lack of food diversity?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 701400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Things like gene editing\nor crossbreeding."
+        }
+      ]
+    },
+    {
+      "tStartMs": 704200,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "So gene editing,\nalthough it sounds a bit -\nFake, doesn't it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 709000,
+      "dDurationMs": 280,
+      "segs": [
+        {
+          "utf8": "Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 709280,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Doesn't sound very organic.\nIt sounds a bit ominous."
+        }
+      ]
+    },
+    {
+      "tStartMs": 711920,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "But actually, it's a really powerful\ntool. We've used it for a long time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 715000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "and it can have incredible benefits."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717440,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "It is controversial in some places.\nThere are lots of opponents who argue"
+        }
+      ]
+    },
+    {
+      "tStartMs": 720720,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "that we shouldn't be messing around\nwith the DNA of species."
+        }
+      ]
+    },
+    {
+      "tStartMs": 724320,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "But others say that if you do it\nin a safe and controlled environment,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 727800,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "it's very beneficial,\nand why not use that tool?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 730560,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So for example,\nback to the Cavendish banana."
+        }
+      ]
+    },
+    {
+      "tStartMs": 733400,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So it's been threatened\nwith this fungus,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 736680,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "but scientists have found a gene\nin a wild species of banana"
+        }
+      ]
+    },
+    {
+      "tStartMs": 740840,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "that is resistant to that fungus."
+        }
+      ]
+    },
+    {
+      "tStartMs": 743240,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "So they've started to insert\nthat gene into the Cavendish banana"
+        }
+      ]
+    },
+    {
+      "tStartMs": 746680,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "to protect it from that disease.\nSo it's currently being tested."
+        }
+      ]
+    },
+    {
+      "tStartMs": 750120,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And if the results are positive,\nit could be that that is rolled out."
+        }
+      ]
+    },
+    {
+      "tStartMs": 754880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "But it will have to overcome\nsome regulatory barriers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 758240,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "So as our diets change and the types\nof species that we rely on change,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 762520,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "what might our dinner plates look\nlike in the future?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 765200,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So I have brought you back\nsome treats Hannah from the museum."
+        }
+      ]
+    },
+    {
+      "tStartMs": 767920,
+      "dDurationMs": 520,
+      "segs": [
+        {
+          "utf8": "I'm very hungry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 768440,
+      "dDurationMs": 1560,
+      "segs": [
+        {
+          "utf8": "But we're going to do a bit\nof a test."
+        }
+      ]
+    },
+    {
+      "tStartMs": 770000,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "Okay. So - and you've got to tell me\nwhat you think it is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 772760,
+      "dDurationMs": 360,
+      "segs": [
+        {
+          "utf8": "All right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 773120,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So hold your hand out.\nShould I close my eyes?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 775960,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Yeah. Close your eyes.\nSo this is the first one."
+        }
+      ]
+    },
+    {
+      "tStartMs": 780480,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "It's like a bag of crisps\nor like nuts or seeds or something."
+        }
+      ]
+    },
+    {
+      "tStartMs": 784360,
+      "dDurationMs": 5520,
+      "segs": [
+        {
+          "utf8": "Yeah. So tell me what the flavour is\nand then what you think it actually is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 792000,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "It's quite sweet. It's like honey.\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 794560,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Yeah. Getting caught in my throat.\nCan I open my eyes now?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 798880,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Yeah. So it's salted toffee.\nI'm getting salted toffee."
+        }
+      ]
+    },
+    {
+      "tStartMs": 802480,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Oh my gosh.\nWhat are you giving to me?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 805280,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "There's little bits of bug\nin my hand."
+        }
+      ]
+    },
+    {
+      "tStartMs": 808360,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Okay.\nI can see bits of body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 811200,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Hmm. You're lucky\nI'm not a vegetarian, Georgina."
+        }
+      ]
+    },
+    {
+      "tStartMs": 814800,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "It is tasty, though.\nAny guess on the bug?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 821600,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "Too big for ants."
+        }
+      ]
+    },
+    {
+      "tStartMs": 823360,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "I'm glad they've cut it up\nso I can't really see -"
+        }
+      ]
+    },
+    {
+      "tStartMs": 825560,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "although there are some eyes\nand some heads in here. Oh, God."
+        }
+      ]
+    },
+    {
+      "tStartMs": 828680,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Okay, let me give you the other one\nand see what you think."
+        }
+      ]
+    },
+    {
+      "tStartMs": 830960,
+      "dDurationMs": 240,
+      "segs": [
+        {
+          "utf8": "All right."
+        }
+      ]
+    },
+    {
+      "tStartMs": 831200,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "I'm gonna finish these off.\nYeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 834880,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Next one. Don't look at the packet.\nI'm not looking."
+        }
+      ]
+    },
+    {
+      "tStartMs": 837520,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "Okay. Try those.\nOkay. Okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 840440,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "They look similar,\nbut a bit bigger, I imagine. Mm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 844880,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Yum. They're like a barbecue flavor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 848080,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "They're delicious.\nYou have a good palate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 851040,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Oh, I could actually eat those\nand not be so creeped out by them."
+        }
+      ]
+    },
+    {
+      "tStartMs": 854160,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "What are they? Locusts.\nVery, very close."
+        }
+      ]
+    },
+    {
+      "tStartMs": 859160,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "So, actually, it's the same insect in\nboth, but different flavors. Peri peri."
+        }
+      ]
+    },
+    {
+      "tStartMs": 864400,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Peri Peri locust.\nYeah, well, they are crickets."
+        }
+      ]
+    },
+    {
+      "tStartMs": 867200,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "You've just eaten some crickets. But\nthat is one of the foods of the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 872240,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So there's already -\nin some laboratories you can go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 875480,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and see how they're developing\ncrickets for us to eat."
+        }
+      ]
+    },
+    {
+      "tStartMs": 878240,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "They're high in protein,\ncould be very cheap to produce."
+        }
+      ]
+    },
+    {
+      "tStartMs": 882680,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Lots of them, you know,\ngreat - they're all around the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 886880,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "And apart from insects, what plant\nspecies might become more widespread?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 890160,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "Things that\nwe don't currently eat a lot of."
+        }
+      ]
+    },
+    {
+      "tStartMs": 892440,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "So I think it's important to remember\nthat there is development of insects"
+        }
+      ]
+    },
+    {
+      "tStartMs": 897440,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "or ants that\nwe could eat some plants,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 900400,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "but actually\nit's quite a big uphill battle"
+        }
+      ]
+    },
+    {
+      "tStartMs": 902920,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "to change the way we eat to change\nthe global food industry."
+        }
+      ]
+    },
+    {
+      "tStartMs": 905880,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "This isn't just about what you\nand I would pick for our dinner."
+        }
+      ]
+    },
+    {
+      "tStartMs": 908960,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "We have to buy what's available\nand what big companies are producing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 912680,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And so I think it's not going\nto be as simple as just, 'oh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 917120,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "let's find these forgotten foods\nand reintroduce them.'"
+        }
+      ]
+    },
+    {
+      "tStartMs": 920320,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "And I think to really change and\nshore up or protect our food system"
+        }
+      ]
+    },
+    {
+      "tStartMs": 924880,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "in the face of climate change,\nit would have to be one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 927520,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "of the main staple crops\nwhere you saw greater diversity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 930880,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "So rice, which feeds over\n- it's the staple\nfor over half the world's population,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 935480,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "if we were seeing\ndifferent varieties of rice,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 939000,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "or perhaps even a type of supplement\nfor rice being developed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 942880,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "I think that would be a game changer\nfor the future."
+        }
+      ]
+    },
+    {
+      "tStartMs": 945800,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Georgina, thanks so much.\nThanks, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 947800,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "And that's it for today.\nThank you for joining us."
+        }
+      ]
+    },
+    {
+      "tStartMs": 950280,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart. This is What in\nthe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 953520,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "And you just saw me eat crickets.\nI'm curious about the kind"
+        }
+      ]
+    },
+    {
+      "tStartMs": 956160,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "of foods that you eat that might be\nforgotten in some parts of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 960040,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Please do drop us a line\nin the comments,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 962160,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "subscribe and share with your family\nand friends. We'll see you next time."
+        }
+      ]
+    }
+  ]
+}

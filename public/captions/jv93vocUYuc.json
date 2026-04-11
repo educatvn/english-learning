@@ -1,0 +1,2525 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 640,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Hello and welcome\nto this episode of What in the World"
+        }
+      ]
+    },
+    {
+      "tStartMs": 3200,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "from the BBC World Service.\nI'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 5880,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Now, donating your eggs\nto someone who can't conceive"
+        }
+      ]
+    },
+    {
+      "tStartMs": 8680,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "naturally seems\nlike a pretty selfless thing to do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 11400,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "And in some parts of the world,\nit's also a way to make money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14600,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "In the US, for example,\nthere are ads for egg donors"
+        }
+      ]
+    },
+    {
+      "tStartMs": 17280,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "on uni campuses and on social media."
+        }
+      ]
+    },
+    {
+      "tStartMs": 19880,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "It's seen as a way\nto help students pay off their bills,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 22560,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "their loans,\neven just to go on holiday."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25160,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "The process itself\ndoes carry some risks,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28400,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and different countries have\ndifferent laws about"
+        }
+      ]
+    },
+    {
+      "tStartMs": 31000,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "how much women can be paid\nif they're paid at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 33800,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "So today, you're going to hear\nfrom some women who have decided\nto donate their eggs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 37960,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "and we're going to have a look at how it\nworks in different parts of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 44960,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "To talk us through it, I'm here\nin the studio with Charlotte Edwards,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 47880,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "a BBC Business reporter.\nHello and welcome to the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 50360,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "Hello. Thank you for having me.\nIt's great to have you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 53000,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Can you just talk me\nthrough what the actual process\nof donating your eggs involves?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57000,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "So a lot of people don't realise how\ninvasive the procedure actually is."
+        }
+      ]
+    },
+    {
+      "tStartMs": 60520,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "You inject a lot of hormones\nand then you go"
+        }
+      ]
+    },
+    {
+      "tStartMs": 62800,
+      "dDurationMs": 5400,
+      "segs": [
+        {
+          "utf8": "through an egg scraping process\nwhere essentially you're put to sleep"
+        }
+      ]
+    },
+    {
+      "tStartMs": 68200,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and a needle is inserted\nand eggs are removed,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71440,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and you might produce up to ten eggs\nduring that round"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74480,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "of basically this first part of IVF."
+        }
+      ]
+    },
+    {
+      "tStartMs": 77760,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And you're given all those hormones\nbecause naturally,\nwomen would produce one egg a month"
+        }
+      ]
+    },
+    {
+      "tStartMs": 81600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and suddenly you're having to have\nten that are ripe and ready to go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 84560,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Yeah, you want as many as possible.\nCan anyone do it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87920,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Are there restrictions\non who can donate their eggs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "There are restrictions and it depends\nwhat part of the world you're in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 93160,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "In the UK generally it's 18 to 34 or 35.\nYou have to be that age."
+        }
+      ]
+    },
+    {
+      "tStartMs": 98080,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "But then even if you are that age,\nyou have to be medically well enough"
+        }
+      ]
+    },
+    {
+      "tStartMs": 101600,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "and also mentally well enough.\nThere's a lot of physical"
+        }
+      ]
+    },
+    {
+      "tStartMs": 104800,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and mental situations that\nyou need to put yourself through."
+        }
+      ]
+    },
+    {
+      "tStartMs": 108040,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "So everybody that wants to donate\nwill go through a very strict process"
+        }
+      ]
+    },
+    {
+      "tStartMs": 112280,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "before they're even allowed to go\ninto start doing the hormones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116400,
+      "dDurationMs": 640,
+      "segs": [
+        {
+          "utf8": "And part of that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 117040,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Process is they.\nCheck you and they screen you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119080,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "for all kinds of genetic diseases\nand all of that. Yes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 122080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "Um, what are\nthe side effects of this?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 124680,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "This very invasive process\nthat you've described?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127160,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "First of all, you're\ninjecting yourself with hormones\nand then you're put to sleep and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130520,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "someone sticks a needle\ninside your ovaries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 132520,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "So generally, most women are told\nthat the side effects will be minor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 136520,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "But of course, with any procedure\nand one that's quite invasive,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 140120,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "there can be\nmore extreme side effects."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142320,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "Some people have ended up in menopause\nearly, or they've had swollen ovaries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 146440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Some people have had blood clots, so\nit's not a decision to take lightly."
+        }
+      ]
+    },
+    {
+      "tStartMs": 149880,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "But then a lot of other women\njust have symptoms which are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 152680,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "like a heavy period or just\nmenstrual cramps, things like that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 157240,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "So some people have a lot of symptoms\nand some people\ndon't really have any at all."
+        }
+      ]
+    },
+    {
+      "tStartMs": 161320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "And we're born\nwith a finite number of eggs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164680,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "so donating a number of them, 10, 20,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168000,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "does that affect, or could it possibly\naffect, our fertility down the line?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 171520,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "So we don't actually have\nthat much research"
+        }
+      ]
+    },
+    {
+      "tStartMs": 174480,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "on how it will affect our fertility,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 177400,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "but it can do, say\nif the procedure went wrong,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 180680,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "or you had some sort of reaction\nto the hormonal treatment,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 184560,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "then it could affect your fertility.\nBut in general, it's not supposed to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 188160,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "because the idea is women are going\nto be producing these eggs anyway,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 192480,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "so why not give one away?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 195080,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Give ten away, and then you're still\ngoing to go through the process yourself"
+        }
+      ]
+    },
+    {
+      "tStartMs": 199360,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "and naturally produce eggs\nif you're within that age bracket."
+        }
+      ]
+    },
+    {
+      "tStartMs": 203880,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "So those are kind of\nthe physical parts of the process."
+        }
+      ]
+    },
+    {
+      "tStartMs": 207240,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "But there is also, as you mentioned,\na really important mental aspect,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 212520,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "which is that you're giving away\nyour eggs, which means that people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 216200,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "with your DNA might be walking around\nthe Earth, um, in years to come."
+        }
+      ]
+    },
+    {
+      "tStartMs": 221640,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Is there any way for your potential\nchildren to contact you in the future?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 225560,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So again, it depends\nwhat country you're in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 228280,
+      "dDurationMs": 5240,
+      "segs": [
+        {
+          "utf8": "In the UK, legally they are allowed\nto contact you once they turn 18."
+        }
+      ]
+    },
+    {
+      "tStartMs": 233520,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "However, you as a donor have\nno responsibility to speak to them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238360,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "if you don't want to.\nYou have no financial obligation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 240960,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "towards your biological children\nthat are born in this way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 244920,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Um, it's different\nin different countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 247760,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "I know in Spain, for example,\nyou can donate anonymously"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251040,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "and then that biological child\ncould never find out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 253440,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "who their biological mother\nor, say, sperm donation father was."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257960,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "Um, and in 2022, Colorado became\nthe first state in America"
+        }
+      ]
+    },
+    {
+      "tStartMs": 262600,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "to say it's illegal to donate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265080,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "if you're not going\nto provide this information"
+        }
+      ]
+    },
+    {
+      "tStartMs": 267680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "so that a future child\ncan contact you."
+        }
+      ]
+    },
+    {
+      "tStartMs": 269760,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "As we heard, some students\nin the US are donating their eggs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 273560,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "because they can be paid\nquite a lot for it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 275840,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "How much money can you make from it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 278280,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "I was actually so heavily advertised\nto donate my own eggs on TikTok"
+        }
+      ]
+    },
+    {
+      "tStartMs": 282320,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "that that's why I started\nto do the research."
+        }
+      ]
+    },
+    {
+      "tStartMs": 284720,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "In the UK,\nit used to be that you got"
+        }
+      ]
+    },
+    {
+      "tStartMs": 286880,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "about £750.\nThat's recently gone up to £985, so."
+        }
+      ]
+    },
+    {
+      "tStartMs": 292000,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "That's a bit more than $1000.\nYes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 294800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Um, and it's not a payment in the UK"
+        }
+      ]
+    },
+    {
+      "tStartMs": 296880,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "it's illegal to pay someone\nfor their eggs. It's compensation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 300200,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "So you're supposed to spend it on\ntravel and any like travel expenses."
+        }
+      ]
+    },
+    {
+      "tStartMs": 304400,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "Um, people don't necessarily have\nto do that, but it is a compensation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 308360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Whereas in the US, people get\na lot more. They can get $5000."
+        }
+      ]
+    },
+    {
+      "tStartMs": 312440,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "I spoke to one woman who was paid\n$12,000 for her donation process,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317560,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and she used that money to move abroad."
+        }
+      ]
+    },
+    {
+      "tStartMs": 319760,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And what about other countries?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 322120,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Does the US stand out as the place\nwhere women can be paid the most"
+        }
+      ]
+    },
+    {
+      "tStartMs": 325640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "for it, or\nare there other countries as well?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 327800,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "I would say the US definitely stands out\nbecause it's not one set payment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 332960,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "A lot of people do just receive about\n$5000, which is obviously still a lot"
+        }
+      ]
+    },
+    {
+      "tStartMs": 336560,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "of money, but it depends on the quality\nof your eggs and how many times"
+        }
+      ]
+    },
+    {
+      "tStartMs": 339920,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "you've donated so people can receive\ntens of thousands of dollars there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 344360,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "Um, in Europe it's generally\na lot lower."
+        }
+      ]
+    },
+    {
+      "tStartMs": 347360,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "The UK used to be one of the places\nwhere you received the least amount"
+        }
+      ]
+    },
+    {
+      "tStartMs": 350600,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "of compensation.\nI know Spain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 352920,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "you generally get over 1000 euro,\nsometimes even double that or more,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 357840,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "depending on\nhow many times you've donated."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359920,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "So it really does depend\nwhere you're donating, the clinic,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 363200,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and sometimes the quality\nof your eggs and your age."
+        }
+      ]
+    },
+    {
+      "tStartMs": 366200,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "So we've heard about the financial\nbenefits of donating in some countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 371160,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "What are some of the other reasons\nthat women give for donating their eggs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 374080,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "So I actually spoke to a non-binary\nperson who is a black lesbian,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 379360,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "and they donated because\nthey realized their community was one"
+        }
+      ]
+    },
+    {
+      "tStartMs": 383680,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "of the most underserved communities\nwhen it came to donating eggs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 388080,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "A lot of people want to have a child\nthat is the same background as them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394000,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "and in the UK especially,\nmost donors are white women."
+        }
+      ]
+    },
+    {
+      "tStartMs": 399080,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "So people might feel\nthey want to donate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 401800,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "because they want to help people\nlike them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 403800,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "also have a family."
+        }
+      ]
+    },
+    {
+      "tStartMs": 406480,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "There's lots of different reasons\nyou might want to help a family"
+        }
+      ]
+    },
+    {
+      "tStartMs": 408920,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "or a friend, or you\nmight just want to help a stranger."
+        }
+      ]
+    },
+    {
+      "tStartMs": 410960,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Now you're going to hear from two\nwomen who have donated their eggs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 413760,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "First up is Elaine, who has donated\nthree times here in the UK."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417800,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "I remember when I first heard\nabout egg donation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 419720,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "I was at university and there was\na lecturer who came in to talk to us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 423120,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "about gamete donation\nand what that means,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 426000,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "and I remember she was saying\nthat there was a shortage"
+        }
+      ]
+    },
+    {
+      "tStartMs": 429480,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "of ethnic minority egg donors."
+        }
+      ]
+    },
+    {
+      "tStartMs": 432080,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "And the fact that\nbecause there was such a shortage,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 436800,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "there were long waiting lists."
+        }
+      ]
+    },
+    {
+      "tStartMs": 439160,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "It occurred to me that,\noh, there are all these people"
+        }
+      ]
+    },
+    {
+      "tStartMs": 441600,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "who are Chinese heritage who\nalso experience fertility problems,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445800,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "and they're trying to start a family,\nbut they just don't have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 448400,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "the egg donors, um,\nto match what they're looking for."
+        }
+      ]
+    },
+    {
+      "tStartMs": 452960,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "And I remember\nthe professor was talking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 457560,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "about how they wanted\ntall people to donate,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 462720,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "and the fact that they wanted people\nwho are in higher education to donate."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466640,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "And I just thought, oh my gosh,\nthe three things. I'm tall,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 468920,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "I'm ethnic minority, and\nI'm in higher education right now."
+        }
+      ]
+    },
+    {
+      "tStartMs": 471600,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And I thought, she's talking to me."
+        }
+      ]
+    },
+    {
+      "tStartMs": 473720,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "And, um, I remember she put that idea"
+        }
+      ]
+    },
+    {
+      "tStartMs": 477440,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "in my head that, oh, maybe this is\nsomething that I really want to do,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 480600,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "and I could help\nfamilies feel more complete."
+        }
+      ]
+    },
+    {
+      "tStartMs": 483720,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "So I was at university in the US when\nthe college professor talked to us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 488000,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "about egg donation,\nand she said"
+        }
+      ]
+    },
+    {
+      "tStartMs": 490520,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "that, oh, there's quite a lot\nof money in egg donation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 493800,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And I just remember the whole\nlecture hall, I was like, ooh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496880,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "It was after I graduated university\nand I came back to the UK, I thought,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 500480,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "oh yeah, that was this is something\nthat I had wanted to do."
+        }
+      ]
+    },
+    {
+      "tStartMs": 503000,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "So I followed up with it in the UK.\nAs a result of my donation in 2017,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 507480,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "there was a boy\nthat was born in 2018."
+        }
+      ]
+    },
+    {
+      "tStartMs": 510600,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "When I went to ask\nif there had been any more offspring,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 513160,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "they said that the rest of my eggs\nhad been frozen for, um, sibling use."
+        }
+      ]
+    },
+    {
+      "tStartMs": 517800,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "So that family got all the eggs\nfrom 2017."
+        }
+      ]
+    },
+    {
+      "tStartMs": 521720,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "And so, so far they've been frozen\nas embryos,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 525120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "potentially to be\nthis boy's younger siblings."
+        }
+      ]
+    },
+    {
+      "tStartMs": 528080,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "I don't really feel like I'm a mum\nbecause the thing is with egg donation"
+        }
+      ]
+    },
+    {
+      "tStartMs": 530840,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "is that I didn't carry this child\nin pregnancy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 535400,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "I haven't given birth to this child,\nso I'm not really mothering this child,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 539960,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "I feel I see it as like, uh, when you\ndo egg donation, you give a gift, uh,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 544760,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "or this one-off gift to a family\nwho really, really want it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 547680,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "I remember after I had done\nthe procedure, I felt like cramps,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 551240,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "like normal period cramps."
+        }
+      ]
+    },
+    {
+      "tStartMs": 553320,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So that was the extent of it. I think\neveryone is a little bit different."
+        }
+      ]
+    },
+    {
+      "tStartMs": 556560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Um, but from\nthe three times I did it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 559600,
+      "dDurationMs": 5880,
+      "segs": [
+        {
+          "utf8": "uh, I remember because I had a good\nexperience with the first time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 565480,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "In the second time,\nthe third time I was like, yeah,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 567600,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "it's fine, I'll go to work after.\nBut I should not have done that."
+        }
+      ]
+    },
+    {
+      "tStartMs": 571280,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "I think you do need\nto rest your body."
+        }
+      ]
+    },
+    {
+      "tStartMs": 573400,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Now I'm going to speak to someone from\nNigeria who has donated her eggs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 577160,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Ebimo Ibinabo Dan-Asisahin. Hi. Welcome.\nHello. Hi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 581720,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So what were your reasons for\nfor doing this? For donating?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 584880,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "I think, first and foremost,\ncuriosity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 587480,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "I didn't know that people\ncould donate their eggs in Nigeria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 590520,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "So, uh, when I came across somebody's"
+        }
+      ]
+    },
+    {
+      "tStartMs": 592880,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "advertisement looking for egg donors\non WhatsApp"
+        }
+      ]
+    },
+    {
+      "tStartMs": 596320,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "I was like,\noh, that's that's interesting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 598640,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And what was the process\nlike for you?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 601720,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "It wasn't as easy as I imagined\nit would be. And it was..."
+        }
+      ]
+    },
+    {
+      "tStartMs": 605920,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "it was also quite, I think\nat some point, like pretty painful."
+        }
+      ]
+    },
+    {
+      "tStartMs": 609560,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "So yeah, I would say it was\na mixed bag."
+        }
+      ]
+    },
+    {
+      "tStartMs": 613880,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Can you talk me through\nthe different stages of the process?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 616320,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "What happened, what it involved?\nFirst I was put on oral contraceptives."
+        }
+      ]
+    },
+    {
+      "tStartMs": 622000,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "I was then put on injections"
+        }
+      ]
+    },
+    {
+      "tStartMs": 625160,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "to stimulate my ovaries\ninto producing more eggs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 629160,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "And after I had taken injections for,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 632000,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "I think, two weeks,\nI went back to the hospital"
+        }
+      ]
+    },
+    {
+      "tStartMs": 635800,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "for a transvaginal scan\nwhere they were able to ascertain,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 640840,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "okay, the eggs are ready\nfor harvesting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 642960,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "And then I was sent back home for,\nI think, another week."
+        }
+      ]
+    },
+    {
+      "tStartMs": 646800,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And then I went back to the hospital,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 649600,
+      "dDurationMs": 7120,
+      "segs": [
+        {
+          "utf8": "and it was one final dose of injection\nthat I had to take at a specific time,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 656720,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "the night before. I then had to\nshow up at the hospital the next day"
+        }
+      ]
+    },
+    {
+      "tStartMs": 660480,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "and at a specific time, go\ninto surgery to get the eggs removed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 664680,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "Put under anesthesia.\nWhen I woke up a few hours later,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 668320,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "the eggs had already been extracted."
+        }
+      ]
+    },
+    {
+      "tStartMs": 670680,
+      "dDurationMs": 6400,
+      "segs": [
+        {
+          "utf8": "And I think I went home that same day\nand I spent the next couple of days,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 677080,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "a week, recovering.\nDid you have any side effects from it?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 681200,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "I assume it's a lot like being\npregnant in like the first trimester."
+        }
+      ]
+    },
+    {
+      "tStartMs": 685840,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "So there was nausea.\nThere was like a lot of tenderness"
+        }
+      ]
+    },
+    {
+      "tStartMs": 688200,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "in the chest area. Um,\nmy appetite skyrocketed, basically."
+        }
+      ]
+    },
+    {
+      "tStartMs": 692640,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "And I was hungry all the time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 694760,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "And I was also, um, quite tired a lot\nand taking the injections."
+        }
+      ]
+    },
+    {
+      "tStartMs": 701320,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "But really,\nit was really quite taxing on my body"
+        }
+      ]
+    },
+    {
+      "tStartMs": 705480,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "because, you know,\nthere was breakouts all over my face."
+        }
+      ]
+    },
+    {
+      "tStartMs": 708600,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "I was like,\nreally sensitive emotionally. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 711840,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "So I would say it's like\nwhat PMS is, but like way worse."
+        }
+      ]
+    },
+    {
+      "tStartMs": 717600,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Is it something that women are paid for\nin Nigeria? Were you paid yourself?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 722440,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Uh, yes. Um, it is something\nthat women are paid for."
+        }
+      ]
+    },
+    {
+      "tStartMs": 725920,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Even then, based on,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 728080,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "like the processes we had gone\nthrough, it was ridiculously underpaid."
+        }
+      ]
+    },
+    {
+      "tStartMs": 732000,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "Did you ever find out\nwho got your eggs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 734440,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "It felt like a business transaction."
+        }
+      ]
+    },
+    {
+      "tStartMs": 736480,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Like, take my eggs, pay my money,\nsend me on my way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 740000,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "That's what it felt like. So there\nwas no, uh, we're reaching out to you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 743280,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "to give you, like, an update or like,\njust a general, like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 745960,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "checking up on you afterwards\nto see if you were okay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 749240,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "There was none of that.\nSo I actually don't know if, like,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 752840,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "if a foetus came\nout of the egg donation or not."
+        }
+      ]
+    },
+    {
+      "tStartMs": 755920,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "How do you feel\nabout the whole thing?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 757760,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "It's been a couple of years\nsince you had the process done."
+        }
+      ]
+    },
+    {
+      "tStartMs": 761640,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "How do you feel about it?\nWould you do it again?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 764280,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "It feels now, in retrospect, a bit\ndehumanising in the way you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 768560,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "the egg donors were treated,\nhow they were communicated with."
+        }
+      ]
+    },
+    {
+      "tStartMs": 772160,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "So I don't feel regrets.\nBut looking back and, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 776040,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "the processes, the pain,\nthe injections, the hormones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 779760,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "I don't think I will put my body\nthrough that again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 783640,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Thank you so much for coming on the\npodcast and for sharing your story."
+        }
+      ]
+    },
+    {
+      "tStartMs": 787120,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "So, Charlotte, how does egg donation\nwork in different parts of the world?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 790880,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "We've heard from the UK there,\nfrom Nigeria."
+        }
+      ]
+    },
+    {
+      "tStartMs": 793160,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "It really varies, like we've\nalready spoken about, with your age,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 797240,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "whether you want to donate\nto a family member or a friend,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 801160,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "if you're over 35 and you want to donate\nto a family member, that's fine."
+        }
+      ]
+    },
+    {
+      "tStartMs": 805600,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "You could be 42 and donate your eggs.\nSo it really does depend."
+        }
+      ]
+    },
+    {
+      "tStartMs": 809480,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "And then obviously the compensation is\ndifferent in all parts of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 814120,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "And who can donate their eggs\nis also different\nin different parts of the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 818720,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "That's often why Spain is considered\nthe egg donation capital of Europe,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 822760,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "because the laws there are\nquite relaxed on who can donate"
+        }
+      ]
+    },
+    {
+      "tStartMs": 826560,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "and who can receive eggs. You\ndon't necessarily have to be married."
+        }
+      ]
+    },
+    {
+      "tStartMs": 829640,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "You can be\nin a same-sex relationship."
+        }
+      ]
+    },
+    {
+      "tStartMs": 831480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "So it's really popular to donate\nin Spain, for example."
+        }
+      ]
+    },
+    {
+      "tStartMs": 834040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And is that age limit. The 18 to 35\nwe've been talking about?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 837000,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "Is that because your eggs are better\nwhen you're younger,\nthey kind of go off as you get older?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 841280,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Yes. So as females age,\ntheir egg quality declines,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 845960,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "and it can also be tougher on your\nbody to go through that IVF process"
+        }
+      ]
+    },
+    {
+      "tStartMs": 850600,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "essentially\nwhen you're older as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 852680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "So it's generally for your health\nand also the quality of the eggs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 856080,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "And is this something\nthat happens all around the world"
+        }
+      ]
+    },
+    {
+      "tStartMs": 858640,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "or are there some countries\nwhere it's not allowed?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 861000,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "There are some countries\nwhere it's not allowed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 863560,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "Turkey, for example, it is illegal\nto donate eggs and sperm there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 867800,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Um, a lot of Muslim communities\ndon't believe\nthat you should donate eggs or sperm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 872320,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "Some Islamic communities believe\nthat an egg cannot be, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 876840,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "inseminated with another person's\nsperm if it's not your husband."
+        }
+      ]
+    },
+    {
+      "tStartMs": 880480,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "So that makes it more complicated,\nbecause you couldn't just give an egg"
+        }
+      ]
+    },
+    {
+      "tStartMs": 883400,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "away to someone and not know\nwhat was going to happen to that egg."
+        }
+      ]
+    },
+    {
+      "tStartMs": 886960,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "So it really depends what, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 889640,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "what's like the general belief\nin certain countries."
+        }
+      ]
+    },
+    {
+      "tStartMs": 892440,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And we're talking about this because you\nyourself have seen ads for it on TikTok."
+        }
+      ]
+    },
+    {
+      "tStartMs": 895880,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "It's all over socials targeting women\nof a certain age."
+        }
+      ]
+    },
+    {
+      "tStartMs": 899840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Would you think of doing it yourself?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 903440,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "It's a really difficult question, and\nI don't think I ever considered it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 907840,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "until I started\nresearching the topic"
+        }
+      ]
+    },
+    {
+      "tStartMs": 910600,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "and speaking to a lot of egg donors,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 913320,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and they all had\nthese selfless reasons for doing it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 916360,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "and I really did make me think\nwhether I would do it one day."
+        }
+      ]
+    },
+    {
+      "tStartMs": 919720,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "It's not something\nI had considered before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 922000,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "I wouldn't necessarily do it\nfor financial reasons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 924520,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "It would be a selfless act, I guess, to\nhelp someone who couldn't have a child."
+        }
+      ]
+    },
+    {
+      "tStartMs": 928840,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "So I think I would consider it. Yeah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 931120,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "It's a really, really interesting\nsubject and it's something that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 933880,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "is just so personal, isn't it?\nCharlotte, thank you so much for coming"
+        }
+      ]
+    },
+    {
+      "tStartMs": 937040,
+      "dDurationMs": 880,
+      "segs": [
+        {
+          "utf8": "on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 937920,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Thank you for having me.\nAnd thank you for joining us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 939960,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "for this episode of What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 942880,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart, and\nyou can get in touch with us anytime."
+        }
+      ]
+    },
+    {
+      "tStartMs": 945880,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "We are on WhatsApp, we're on Instagram.\nYou can just leave us a comment below"
+        }
+      ]
+    },
+    {
+      "tStartMs": 949720,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and do check out some of\nour other episodes here on YouTube."
+        }
+      ]
+    },
+    {
+      "tStartMs": 952720,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "We'll be back with another one soon.\nSee you then. Bye."
+        }
+      ]
+    }
+  ]
+}

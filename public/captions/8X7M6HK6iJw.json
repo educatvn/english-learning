@@ -1,0 +1,2111 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 240,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Hello and welcome back to What in\nthe World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 3960,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "I'm Hannah Gelbart.\nThe trial of Sean Diddy Combs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 7560,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "the US rapper and music mogul\nP Diddy is about to begin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 12280,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "It is one of the most high profile\ncelebrity court cases that we've had"
+        }
+      ]
+    },
+    {
+      "tStartMs": 15400,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "in years. And just a heads up\nbefore we get into it,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 18080,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "this episode contains descriptions\nof violence and sexual assault."
+        }
+      ]
+    },
+    {
+      "tStartMs": 22120,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Today, you're going to hear all about\nthe charges that Diddy is facing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 25680,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "He denies them all. You're also going\nto hear about the freak offs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 28520,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "the thousand bottles of baby oil that\nwere allegedly found at his home,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 32480,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and what to expect\nwhen the trial gets under way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 38480,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And joining me to break this down is\nAnoushka Mutanda-Dougherty, host"
+        }
+      ]
+    },
+    {
+      "tStartMs": 42440,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "of the BBC podcast Diddy on Trial.\nHi, Anoushka. Hi, Hannah."
+        }
+      ]
+    },
+    {
+      "tStartMs": 46360,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "First of all, can you give me some\nof the important background,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 48840,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "the things we need to know about\nP Diddy? How did he make his money?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 53280,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So P Diddy for most people is kind of\ncemented as a bit of a hip-hop legend,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 57240,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and he's got this sort\nof cross-generational fame"
+        }
+      ]
+    },
+    {
+      "tStartMs": 60640,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "that's quite difficult to achieve.\nSo you might know him"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63440,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "now if you're a teenager, your parents\nprobably listen to him as well."
+        }
+      ]
+    },
+    {
+      "tStartMs": 66560,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "P Diddy's beginnings\nin the music industry start"
+        }
+      ]
+    },
+    {
+      "tStartMs": 69520,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "when he's 23 years old. He founds\na record label called Bad Boy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 72560,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "And Bad Boy isn't\nlike other record labels,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 74760,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "because the talent that it\nhas goes down to be this sort of once"
+        }
+      ]
+    },
+    {
+      "tStartMs": 78960,
+      "dDurationMs": 5640,
+      "segs": [
+        {
+          "utf8": "in a generation era of music that's\nconsidered to be raw, organic hip-hop."
+        }
+      ]
+    },
+    {
+      "tStartMs": 84600,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "So it's before mass commercialisation\nand the real crown, the jewel"
+        }
+      ]
+    },
+    {
+      "tStartMs": 89280,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "in his crown is Biggie Smalls, who is\nthe first artist that he signs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 92440,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And Biggie goes on to have this\nreputation and this long standing beef"
+        }
+      ]
+    },
+    {
+      "tStartMs": 96240,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "with Tupac and Diddy is kind of right\nat the centre of that,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 100000,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "and he's crafting this image\nof this record label."
+        }
+      ]
+    },
+    {
+      "tStartMs": 102280,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "He's helping craft Biggie's image\nand Biggie and Tupac,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 106120,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "they end up passing really,\nreally young. They die."
+        }
+      ]
+    },
+    {
+      "tStartMs": 108760,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And from that, Diddy releases\nhis first album called Puff"
+        }
+      ]
+    },
+    {
+      "tStartMs": 111840,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "in the Family,\nwhich is about the loss of Biggie."
+        }
+      ]
+    },
+    {
+      "tStartMs": 113960,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "And he just I mean,\nit becomes stratospheric."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116320,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "He is a household name."
+        }
+      ]
+    },
+    {
+      "tStartMs": 118000,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "He's got a massive reputation\nfor being sort of a party boy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 120960,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "but also having this,\nhaving suffered this great loss"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123480,
+      "dDurationMs": 4600,
+      "segs": [
+        {
+          "utf8": "for this artist that everybody loves.\nAnd that establishes Bad Boy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 128080,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "as a foundation piece\nin the movement of hip-hop."
+        }
+      ]
+    },
+    {
+      "tStartMs": 132400,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Now, Diddy then becomes\nsort of fundamental"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135840,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "in manoeuvring hip-hop\nfrom the fringes of culture."
+        }
+      ]
+    },
+    {
+      "tStartMs": 138680,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "It was something you kind of had\nto be engaged with to the centre."
+        }
+      ]
+    },
+    {
+      "tStartMs": 142640,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "It becomes what we would now consider\nto be pop culture,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 145960,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and that is through\ncommercialisation, brand deals,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149200,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "crafting images and making himself\nthe man who brings the party in."
+        }
+      ]
+    },
+    {
+      "tStartMs": 153600,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "So that's how he starts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 154640,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "He founds a clothing company\ncalled Sean John Clothing in 1998,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 158880,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "and that brings him a lot of money\nand great success."
+        }
+      ]
+    },
+    {
+      "tStartMs": 161080,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "He founds a TV company\nor a TV station called Revolt TV."
+        }
+      ]
+    },
+    {
+      "tStartMs": 165280,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "He invests heavily in Ciroc,\nwhich is a brand of vodka,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 168160,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and it kind of becomes synonymous\nwith this Miami, LA party scene."
+        }
+      ]
+    },
+    {
+      "tStartMs": 172000,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Everybody wanted to drink Ciroc.\nIt was the bottle you wanted to have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 175200,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "on your table, and\nit was heavily associated with Diddy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177720,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "So his image as the man who makes the\nparty was cemented during this time."
+        }
+      ]
+    },
+    {
+      "tStartMs": 182000,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "In September,\nhe was arrested and charged."
+        }
+      ]
+    },
+    {
+      "tStartMs": 184680,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Can you talk me\nthrough what he's been accused of?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 186800,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "So Diddy was arrested in September and\ncharged with a three-count indictment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 190440,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "That's one count sex trafficking, one\ncount transportation for prostitution,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193760,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "and one count racketeering\nwith conspiracy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195920,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Now, most people know\nabout sex trafficking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197920,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and transportation\nfor prostitution. RICO?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200680,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "You may have heard it in rap songs\nor seen it in headlines recently."
+        }
+      ]
+    },
+    {
+      "tStartMs": 204200,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "It's a bit of a confusing charge."
+        }
+      ]
+    },
+    {
+      "tStartMs": 205880,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "It's basically\nthe charge that took down the mob"
+        }
+      ]
+    },
+    {
+      "tStartMs": 208720,
+      "dDurationMs": 4280,
+      "segs": [
+        {
+          "utf8": "or it was originated, created to take\ndown organised criminal activity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 213000,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "And it allows prosecutors\nto tie together different bits"
+        }
+      ]
+    },
+    {
+      "tStartMs": 216120,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "of criminal activity and say, okay,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218240,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "well, you stole this car over here\nand you sold drugs over there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 221800,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Actually, they're all linked as part\nof this broader criminal enterprise."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225240,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And the prosecution are alleging\nthat Diddy ran a criminal enterprise,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 229200,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "that he was heading up\nthis organisation that was there"
+        }
+      ]
+    },
+    {
+      "tStartMs": 232480,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "to facilitate his wants\nand needs through criminal means."
+        }
+      ]
+    },
+    {
+      "tStartMs": 235320,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "And that RICO charge is what will\nenable them to tie lots of things"
+        }
+      ]
+    },
+    {
+      "tStartMs": 239280,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "together if, if they can convict him."
+        }
+      ]
+    },
+    {
+      "tStartMs": 242040,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "And what do we know\nabout the victims, the accusers?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245000,
+      "dDurationMs": 1880,
+      "segs": [
+        {
+          "utf8": "Well, we know\na lot more than we did before."
+        }
+      ]
+    },
+    {
+      "tStartMs": 246880,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "So the amount of victims, we're calling\nthem victims because that's what"
+        }
+      ]
+    },
+    {
+      "tStartMs": 250600,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "the federal government calls them.\nThey're actually witnesses to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 253600,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "an alleged crime. So these are people\nwho their testimony is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 257240,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "going to be foundational or fundamental\nto the prosecution's argument."
+        }
+      ]
+    },
+    {
+      "tStartMs": 260760,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "They're going to get on the stand\nand say what they witnessed."
+        }
+      ]
+    },
+    {
+      "tStartMs": 262880,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "Now, at first we knew\nabout victim one."
+        }
+      ]
+    },
+    {
+      "tStartMs": 264800,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "Then we had victim two and three\nadded, and now we have four and five."
+        }
+      ]
+    },
+    {
+      "tStartMs": 268680,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "We know very little\nabout victim five,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 271320,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "but we know that three of the alleged\nvictims are people that Diddy refers to"
+        }
+      ]
+    },
+    {
+      "tStartMs": 276680,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "as previous romantic partners. In\nDiddy's words, they're not victims."
+        }
+      ]
+    },
+    {
+      "tStartMs": 280240,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "They're people that he had these\nlong, consensual relationships with."
+        }
+      ]
+    },
+    {
+      "tStartMs": 284200,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "We know that one other\nof them was also a staff member,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 286920,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "but we now know that victims two,\nthree and four are going to be appearing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 290880,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "under a pseudonym during the trial,\nso their identity will be protected,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 295000,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "whereas victim one is going\nto testify under their own name."
+        }
+      ]
+    },
+    {
+      "tStartMs": 298400,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "And what do we know about these\nparties he had, these freak offs?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 302560,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So the federal government used\nthe terminology of freak off"
+        }
+      ]
+    },
+    {
+      "tStartMs": 305640,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "in the indictment. Now, we all\nthought that was a bit peculiar,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 308040,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "because that's terminology that has\nbeen allegedly originated by Diddy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 311920,
+      "dDurationMs": 5080,
+      "segs": [
+        {
+          "utf8": "But they're trying to garner interest\nin this, public interest in this case."
+        }
+      ]
+    },
+    {
+      "tStartMs": 317000,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "So they say he had these freak offs,\nwhich were these days-long orgies"
+        }
+      ]
+    },
+    {
+      "tStartMs": 321920,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "where people were performing\nsexual acts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 324440,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "They say they found\na thousand bottles of baby oil"
+        }
+      ]
+    },
+    {
+      "tStartMs": 326560,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "in the raids that they performed\non his homes. On social media,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 330760,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "freak offs are being presented"
+        }
+      ]
+    },
+    {
+      "tStartMs": 332760,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "as these celebrity parties\nthat he hosted called white parties."
+        }
+      ]
+    },
+    {
+      "tStartMs": 336480,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "And it was these orgies\nwith all these different celebrities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 338720,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "We've had absolutely no indication\nthat that's what they were."
+        }
+      ]
+    },
+    {
+      "tStartMs": 342000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "It appears to be\nwhat Diddy is defining it as is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 345040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "days-long sexual encounters,\nconsensual sexual encounters."
+        }
+      ]
+    },
+    {
+      "tStartMs": 347800,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "But the victims define as atmospheres\nwhere they were sort of trapped"
+        }
+      ]
+    },
+    {
+      "tStartMs": 351920,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "and forced to perform sexual acts,\nwith prostitutes being filmed"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356160,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and under the influence of drugs\nthat they were given."
+        }
+      ]
+    },
+    {
+      "tStartMs": 359160,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "His trial is soon going to start."
+        }
+      ]
+    },
+    {
+      "tStartMs": 362720,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "What can we expect when it begins?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364880,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Well, it's a tricky one, really,\nbecause we need to expect the unexpected"
+        }
+      ]
+    },
+    {
+      "tStartMs": 368320,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "as we have\nthroughout this entire thing."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370320,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "So the government say they seized\nthese tapes from his house that show"
+        }
+      ]
+    },
+    {
+      "tStartMs": 374280,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "him having sexual encounters, either\nconsensual, non-consensual. Obviously"
+        }
+      ]
+    },
+    {
+      "tStartMs": 377720,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "he says they're consensual\nwith other partners."
+        }
+      ]
+    },
+    {
+      "tStartMs": 380080,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "We know that some of these sex tapes\nhave been submitted by the victims."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383840,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "We can expect really,\nreally gruelling cross-examination"
+        }
+      ]
+    },
+    {
+      "tStartMs": 388000,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "of these victims\nwhen they take the stand,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 390840,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "their history,\ntheir relationship with Mr. Combs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 393200,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "whatever that looked like,\nis going to take the stand with them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 395640,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and that's going\nto be heavily interrogated."
+        }
+      ]
+    },
+    {
+      "tStartMs": 398000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "And we have seen some indication"
+        }
+      ]
+    },
+    {
+      "tStartMs": 400040,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "from the filings that\nDiddy will take the stand himself."
+        }
+      ]
+    },
+    {
+      "tStartMs": 403040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "And who are Diddy's lawyers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 405800,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "what have they and\nwhat have he said ahead of the trial?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 408400,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Diddy's been completely consistent\nin what he said."
+        }
+      ]
+    },
+    {
+      "tStartMs": 410720,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "He says he's never sexually assaulted\nanyone, man or woman, adult or minor."
+        }
+      ]
+    },
+    {
+      "tStartMs": 414920,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "He's described lots\nof the civil cases that have come"
+        }
+      ]
+    },
+    {
+      "tStartMs": 418000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "outside the federal trial,\nwhich are being filed by claimants"
+        }
+      ]
+    },
+    {
+      "tStartMs": 421040,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "as cash grabs, opportunistic people\nwho are looking to sort of cash in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 424800,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "on this moment where lots\nof people are accusing him. He said"
+        }
+      ]
+    },
+    {
+      "tStartMs": 427960,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "and his team of lawyers have said that\nthese are consensual relationships he had."
+        }
+      ]
+    },
+    {
+      "tStartMs": 432440,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Yes, at times toxic."
+        }
+      ]
+    },
+    {
+      "tStartMs": 434520,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "But that doesn't mean that it's what\nthe federal government are accusing him"
+        }
+      ]
+    },
+    {
+      "tStartMs": 438280,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "of doing, and they need\nto kind of keep their nose out"
+        }
+      ]
+    },
+    {
+      "tStartMs": 440440,
+      "dDurationMs": 5000,
+      "segs": [
+        {
+          "utf8": "of private individuals' bedrooms\nand sexual proclivities. And that is"
+        }
+      ]
+    },
+    {
+      "tStartMs": 445440,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "the bulk of their argument. They're going\nto say this was about consent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 448240,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "What do we know about his lawyers?\nI mean, he has a lot of lawyers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 451200,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "They're extremely well practised\nlawyers, very successful lawyers."
+        }
+      ]
+    },
+    {
+      "tStartMs": 455200,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "Marc Agnifilo. Teny Geragos,\nwho is the daughter"
+        }
+      ]
+    },
+    {
+      "tStartMs": 458440,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "of the defence attorney who\nfamously represented Michael Jackson."
+        }
+      ]
+    },
+    {
+      "tStartMs": 462160,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "We have now Brian Steel\nwho's been added as a sort"
+        }
+      ]
+    },
+    {
+      "tStartMs": 465000,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "of last-minute addition to the legal\nteam who was Young Thug's lawyer."
+        }
+      ]
+    },
+    {
+      "tStartMs": 468520,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "We also had Anthony Ricco,\nwho decided"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471240,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "that he could no longer participate as\nDiddy's lawyer,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 473920,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and left halfway through. So\nwe've had a bit of a changing team,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 476880,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "but he does have a lot\nof legal support there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 479720,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "In this federal trial,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 481720,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "what would happen to Diddy\nif he were to be convicted?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 484680,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "So if he's going to be convicted\nof all three counts, he"
+        }
+      ]
+    },
+    {
+      "tStartMs": 486680,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "could be facing up to life in prison."
+        }
+      ]
+    },
+    {
+      "tStartMs": 489160,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "He's just rejected a plea deal.\nSo he is going to proceed forwards"
+        }
+      ]
+    },
+    {
+      "tStartMs": 493560,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "with the full amount of time attached\nto those crimes."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496480,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "You mentioned that he's also facing\nsome civil lawsuits,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 499240,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "there are some that involve\nhigh-profile celebrities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 502000,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "Who else is accused of being involved?\nYeah,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 504040,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "so I think it's really important\nthat we draw the distinction here"
+        }
+      ]
+    },
+    {
+      "tStartMs": 506160,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "between civil and federal,\nbecause it is really confusing"
+        }
+      ]
+    },
+    {
+      "tStartMs": 509120,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "and both are making headlines.\nThese civil cases that are coming up,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "these are people who say\nthat they have been wronged by Diddy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 515080,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "in some way,\nand they have cognisable damages."
+        }
+      ]
+    },
+    {
+      "tStartMs": 517520,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "So they went to hospital,\nthey had to go to therapy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 521320,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "They lost out on business opportunities\nbecause of the harm that was done"
+        }
+      ]
+    },
+    {
+      "tStartMs": 524400,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "to them by Diddy and they're claimants,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 526760,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "and they're raising them all over the\ncountry in lots of different areas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 529640,
+      "dDurationMs": 4840,
+      "segs": [
+        {
+          "utf8": "Now, one man in particular,\nTony Buzbee, he is a Texan lawyer who"
+        }
+      ]
+    },
+    {
+      "tStartMs": 534480,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "you've probably seen in the headlines\nbecause he came and he told the BBC,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 537880,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "I have over 150 cases I think\nI can bring to trial against P Diddy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 543480,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Now, he did a press conference\nin October of 2024,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 548160,
+      "dDurationMs": 4120,
+      "segs": [
+        {
+          "utf8": "and he said there are other names\nthat are going to come out and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 552280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "those names are going to shock you.\nHe called them the perpetrators"
+        }
+      ]
+    },
+    {
+      "tStartMs": 555200,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "of foul play and he said, he promised that\nthere would be other high profile names."
+        }
+      ]
+    },
+    {
+      "tStartMs": 559520,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "Now he raised a lawsuit originally\nthat was accusing Diddy,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 566080,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "another unnamed male celebrity\nand an unnamed female celebrity,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 570440,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "of participating in or watching\nthe rape of a 13-year-old girl."
+        }
+      ]
+    },
+    {
+      "tStartMs": 574240,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "The male celebrity was accused of\nparticipating in the rape of this girl."
+        }
+      ]
+    },
+    {
+      "tStartMs": 577560,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "He then refiled this lawsuit\nand added the name of"
+        }
+      ]
+    },
+    {
+      "tStartMs": 581760,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Jay-Z, the rapper Shawn Carter, as one\nof the unnamed male celebrities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 586080,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Jay-Z was adamant from the beginning"
+        }
+      ]
+    },
+    {
+      "tStartMs": 588080,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "that he had absolutely nothing to do\nwith this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 590280,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "His lawyer, Alex Spiro,\ncame out and presented a really,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 593200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "really coherent timeline of the night\nof the alleged events and said, look,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 597040,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "he just wasn't there in this place."
+        }
+      ]
+    },
+    {
+      "tStartMs": 599160,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "These events would have had to have\ntaken place in a 23-minute window,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 602240,
+      "dDurationMs": 3640,
+      "segs": [
+        {
+          "utf8": "and it's not possible. And Jay-Z said\nthat from the beginning to the end,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 605880,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "and now he's saying,\nyou know, you have defamed me"
+        }
+      ]
+    },
+    {
+      "tStartMs": 608240,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "by essentially lying in this lawsuit,\nand I'm going to pursue that in court."
+        }
+      ]
+    },
+    {
+      "tStartMs": 612200,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "Jay-Z denied all the allegations\nin that civil suit, and so did Diddy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 615680,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Diddy remained consistent, saying, I have\nnever sexually assaulted anyone, man"
+        }
+      ]
+    },
+    {
+      "tStartMs": 619280,
+      "dDurationMs": 2360,
+      "segs": [
+        {
+          "utf8": "or woman, adult or minor,\nand said that this lawsuit was just"
+        }
+      ]
+    },
+    {
+      "tStartMs": 621640,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "further proof that people\nwere performing these cash grabs"
+        }
+      ]
+    },
+    {
+      "tStartMs": 624920,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "on celebrities by mentioning\ntheir names in lawsuits."
+        }
+      ]
+    },
+    {
+      "tStartMs": 627720,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "That lawsuit was then dropped\nwith prejudice by that accuser."
+        }
+      ]
+    },
+    {
+      "tStartMs": 631720,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "Being dropped with prejudice means\nthat it cannot be raised again."
+        }
+      ]
+    },
+    {
+      "tStartMs": 634560,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "So she said,\nI'm not filing this any more,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 636760,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "and I'm not formally accusing\nJay-Z any more."
+        }
+      ]
+    },
+    {
+      "tStartMs": 639320,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "And there's been a back and forth\nabout whether she was pushed to add"
+        }
+      ]
+    },
+    {
+      "tStartMs": 643080,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "Jay-Z to that lawsuit by Tony Buzbee,\nwhich he vehemently denies."
+        }
+      ]
+    },
+    {
+      "tStartMs": 646640,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Jay-Z says he has evidence\nfrom private investigator recordings"
+        }
+      ]
+    },
+    {
+      "tStartMs": 650720,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "that she said yes,\nTony Buzbee told me to add"
+        }
+      ]
+    },
+    {
+      "tStartMs": 653800,
+      "dDurationMs": 2280,
+      "segs": [
+        {
+          "utf8": "on the name of Jay-Z.\nSo that is going back and forth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 656080,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "And there's now a defamation case going\non where Jay-Z is suing Tony Buzbee"
+        }
+      ]
+    },
+    {
+      "tStartMs": 659880,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "and this female Jane Doe accuser,\nthe anonymous accuser of defamation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 664680,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "But as far\nas celebrity names being added on,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 667280,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "it has not been what was promised\nat the beginning of this."
+        }
+      ]
+    },
+    {
+      "tStartMs": 671160,
+      "dDurationMs": 1960,
+      "segs": [
+        {
+          "utf8": "There has not been name after name\nafter name."
+        }
+      ]
+    },
+    {
+      "tStartMs": 673120,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "There's not been these videotapes\nand recordings"
+        }
+      ]
+    },
+    {
+      "tStartMs": 675560,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "of celebrity orgies\nwith everyone you've ever met there."
+        }
+      ]
+    },
+    {
+      "tStartMs": 678200,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "There have been a few names that\nhave come through in civil cases,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 680880,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "but a lot, once they're added,\nget removed once again"
+        }
+      ]
+    },
+    {
+      "tStartMs": 683800,
+      "dDurationMs": 2040,
+      "segs": [
+        {
+          "utf8": "or information has come out\nthat disproves that"
+        }
+      ]
+    },
+    {
+      "tStartMs": 685840,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "those people, they just couldn't have\nbeen there at that time in that place,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 689000,
+      "dDurationMs": 840,
+      "segs": [
+        {
+          "utf8": "in that way."
+        }
+      ]
+    },
+    {
+      "tStartMs": 689840,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "This is one of the many aspects\nof Diddy's trials and court cases"
+        }
+      ]
+    },
+    {
+      "tStartMs": 693720,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "that you're going to be covering\non your podcast, Diddy on Trial."
+        }
+      ]
+    },
+    {
+      "tStartMs": 697080,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "How are you going to be covering\nthe federal trial?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 699640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "So we are going to be out\nin New York."
+        }
+      ]
+    },
+    {
+      "tStartMs": 701800,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "We're going to be in court talking\nto the court reporters in New York."
+        }
+      ]
+    },
+    {
+      "tStartMs": 705800,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So our wonderful\nNew York correspondent, Neda,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 708640,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "she'll be talking to us a lot\non the podcast. Of course,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 710880,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "Cheyenne from Rolling Stone,\nwho we have on a lot, and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 713080,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Shaun Kent, our\ncriminal defence attorney,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 715160,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "will come and do an analysis\nwith us once a week"
+        }
+      ]
+    },
+    {
+      "tStartMs": 718000,
+      "dDurationMs": 2920,
+      "segs": [
+        {
+          "utf8": "and we are going to cover\nevery single big moment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 720920,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "We're going to be there\nevery single day, bringing you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 723240,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "the news as it happens,\nso we won't miss a moment."
+        }
+      ]
+    },
+    {
+      "tStartMs": 725560,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "And we'll make sure the podcast\nreports everything that happens."
+        }
+      ]
+    },
+    {
+      "tStartMs": 728360,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "And make sure you check out\nAnoushka's podcast, Diddy on Trial."
+        }
+      ]
+    },
+    {
+      "tStartMs": 731440,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "You can listen to it\nor watch it right here"
+        }
+      ]
+    },
+    {
+      "tStartMs": 733520,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "on YouTube\nor wherever you get your BBC podcasts."
+        }
+      ]
+    },
+    {
+      "tStartMs": 735920,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Anoushka, thank you so much\nfor joining us. I'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 738880,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "This is What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 741000,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "And we'll be back\nwith another episode soon."
+        }
+      ]
+    }
+  ]
+}

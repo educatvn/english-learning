@@ -1,0 +1,1418 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 360,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "Hi guys. It's Hannah Gelbart here."
+        }
+      ]
+    },
+    {
+      "tStartMs": 2040,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "And welcome to another episode of What\nin the World from the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 6200,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Today we're talking\nabout canned lions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 8360,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "which are lions that are bred\nin captivity."
+        }
+      ]
+    },
+    {
+      "tStartMs": 10920,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "And they are then killed for\ntrophy hunting or for their bones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 14960,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "South Africa has the largest\ncaptive lion population in the world."
+        }
+      ]
+    },
+    {
+      "tStartMs": 18680,
+      "dDurationMs": 2440,
+      "segs": [
+        {
+          "utf8": "It's got more captive ones\nthan wild ones, and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21120,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "its lion farms are\nsomewhat controversial."
+        }
+      ]
+    },
+    {
+      "tStartMs": 23680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "The government has said\nthat it will ban them,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 25760,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "but it hasn't said\nwhen the ban will come into play."
+        }
+      ]
+    },
+    {
+      "tStartMs": 28600,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "So today you're going to hear where the\npractice of canned hunting comes from"
+        }
+      ]
+    },
+    {
+      "tStartMs": 32960,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "and what some South Africans think\nof the ban."
+        }
+      ]
+    },
+    {
+      "tStartMs": 39840,
+      "dDurationMs": 3800,
+      "segs": [
+        {
+          "utf8": "Let's hear more now from my guest,\nwho is here with me in the studio."
+        }
+      ]
+    },
+    {
+      "tStartMs": 43640,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "It's BBC Africa reporter\nDanai Nesta Kupemba."
+        }
+      ]
+    },
+    {
+      "tStartMs": 45800,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "Hi. Hi.\nSo tell me a bit"
+        }
+      ]
+    },
+    {
+      "tStartMs": 48480,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "about what canned hunting involves\nand where the practice came from."
+        }
+      ]
+    },
+    {
+      "tStartMs": 52640,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "So canned hunting essentially is\nbreeding lions for a bullet."
+        }
+      ]
+    },
+    {
+      "tStartMs": 58080,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "They're essentially, you know,\nbred in these enclosures"
+        }
+      ]
+    },
+    {
+      "tStartMs": 63120,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "and each stage\nof their life cycle is exploited."
+        }
+      ]
+    },
+    {
+      "tStartMs": 66160,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "So from the moment they're born,\nthey're taken away from their mother"
+        }
+      ]
+    },
+    {
+      "tStartMs": 69000,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and then taken\nto these petting zoos, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 71960,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "when they're cubs and they're cute,\npeople come,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 73960,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "tourists, take pictures,\npost them on their Instagram,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 76440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "and then when they get too big,\nthey're then moved"
+        }
+      ]
+    },
+    {
+      "tStartMs": 79080,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "to these enclosures, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 81240,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "for walking tours."
+        }
+      ]
+    },
+    {
+      "tStartMs": 83480,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "And so people get to walk\nalongside them"
+        }
+      ]
+    },
+    {
+      "tStartMs": 86080,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "and again, take nice,\nfun, cute holiday photos."
+        }
+      ]
+    },
+    {
+      "tStartMs": 90600,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "And then once they get much bigger,\nthey're moved"
+        }
+      ]
+    },
+    {
+      "tStartMs": 93320,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "to hunting enclosures where,\nyou know, hunters come,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 97160,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "typically inexperienced hunters\nwho simply want a trophy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 100360,
+      "dDurationMs": 5320,
+      "segs": [
+        {
+          "utf8": "And they're let off to wander\nlistlessly and a very small space"
+        }
+      ]
+    },
+    {
+      "tStartMs": 105680,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "and they're shot at close range\nwith a gun, arrows and other weapons."
+        }
+      ]
+    },
+    {
+      "tStartMs": 111760,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "So mostly the hunters are\ntourists coming from abroad?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 114240,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Yeah, typically wealthy\nWestern foreigners."
+        }
+      ]
+    },
+    {
+      "tStartMs": 116480,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Is it just lions that are bred\nin this way?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119360,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "There are other animals,\nbut lions are the most popular."
+        }
+      ]
+    },
+    {
+      "tStartMs": 123240,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "There's the biggest demand for them.\nYou know, even lion farmers,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 127120,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "when they breed them, they think which\none's going to have a big dark mane,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 130840,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "which one's going to have like\na white lion?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 133560,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Which one's going to have blue eyes\nbecause they want"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135800,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "to push these prices up so they can\nsell them essentially kind of like"
+        }
+      ]
+    },
+    {
+      "tStartMs": 139960,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "a restaurant menu to these hunters\nwho are coming to hunt them down."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144040,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "How are the lions bred?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 147120,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "So it's just a constant cycle."
+        }
+      ]
+    },
+    {
+      "tStartMs": 150280,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "These lionesses, you know, once\nthey're split from their cub again,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 154120,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "they get pregnant,\nthey give birth to cubs,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156640,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "they're  split, get pregnant, give birth."
+        }
+      ]
+    },
+    {
+      "tStartMs": 158840,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "And because they're trying to produce\nthese lions at such a quick rate,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163360,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "there's issues with inbreeding,\nthere's genetic defects"
+        }
+      ]
+    },
+    {
+      "tStartMs": 167200,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "and a plethora of other\ngenetic issues that just create,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 172360,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "you know, make it very difficult\nfor lions to have any kind"
+        }
+      ]
+    },
+    {
+      "tStartMs": 175960,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "of quality of life.\nAnd to be clear,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 178480,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "is this practice legal still?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 181200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "It is technically legal to breed lions\nin South Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 185040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "So yes, it is technically legal\nin South Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 188080,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "Talk me through the reasons\nfor banning the practice."
+        }
+      ]
+    },
+    {
+      "tStartMs": 191160,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "So many people want\nto ban the practice because,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 194400,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "simply because let's start with the\nwelfare in which these lions are kept\nin. The enclosures are filthy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "The quality of life is poor\nbecause they're not thinking"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202560,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "about breeding these lions to be their\nhappiest, healthiest, fullest selves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 206640,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "They are simply thinking, how much money\ncan I squeeze out of this operation?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 210200,
+      "dDurationMs": 880,
+      "segs": [
+        {
+          "utf8": "And now let's hear from"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211080,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Stephanie Klarmann who works\nin conservation in South Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 214120,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "Predators operate solely\nfor their commercial value,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 217080,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "whether that is for entertainment,\nbody parts, trade or hunting,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 221400,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "meaning that these animals\nexist purely for profit."
+        }
+      ]
+    },
+    {
+      "tStartMs": 225240,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Their welfare\nand well-being are not prioritised,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 228360,
+      "dDurationMs": 3160,
+      "segs": [
+        {
+          "utf8": "and there have been numerous cases\nin which predators are kept"
+        }
+      ]
+    },
+    {
+      "tStartMs": 231520,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "in extremely inadequate\nliving conditions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 234120,
+      "dDurationMs": 4680,
+      "segs": [
+        {
+          "utf8": "Sometimes they are inbred and\nneglected to the extent that injuries"
+        }
+      ]
+    },
+    {
+      "tStartMs": 238800,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "and diseases are left untreated."
+        }
+      ]
+    },
+    {
+      "tStartMs": 241560,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "Now, conservationists all agree\nthat the captive breeding"
+        }
+      ]
+    },
+    {
+      "tStartMs": 245280,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "of lions is currently not\na conservation requirement,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 248160,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "since wild lion populations\nare actually stable in South Africa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 252240,
+      "dDurationMs": 4760,
+      "segs": [
+        {
+          "utf8": "And the release of captive bred lions\nposes a significant concern"
+        }
+      ]
+    },
+    {
+      "tStartMs": 257000,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "for free roaming wild lions\nthat are already in"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259880,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "reserves conflict with people and\nthe captive bred animals themselves."
+        }
+      ]
+    },
+    {
+      "tStartMs": 265560,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "Concerns have even been raised\nthat breeding lions"
+        }
+      ]
+    },
+    {
+      "tStartMs": 268360,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "in captivity for their bones,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 270520,
+      "dDurationMs": 4520,
+      "segs": [
+        {
+          "utf8": "their parts and their derivatives\ncan actually stimulate demand and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275040,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "in turn can increase poaching\nof wild lions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 278160,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "The South Africa Predator Association\nrepresents the hunting"
+        }
+      ]
+    },
+    {
+      "tStartMs": 281760,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "and breeding industry, and\non the issue of captive bred lions,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 285600,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "they say that lions play\na crucial role in generating income"
+        }
+      ]
+    },
+    {
+      "tStartMs": 289080,
+      "dDurationMs": 2680,
+      "segs": [
+        {
+          "utf8": "for private parks\nand local communities."
+        }
+      ]
+    },
+    {
+      "tStartMs": 291760,
+      "dDurationMs": 2840,
+      "segs": [
+        {
+          "utf8": "They dispute\nthat captive bred lions are inbred,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 294600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "and they point\nto numerous cases in quotes"
+        }
+      ]
+    },
+    {
+      "tStartMs": 297560,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "where captive lions have successfully\nbeen released into the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 301640,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "When it comes to conditions, they say\nthat the facilities accredited"
+        }
+      ]
+    },
+    {
+      "tStartMs": 305040,
+      "dDurationMs": 2760,
+      "segs": [
+        {
+          "utf8": "to the South\nAfrican Predator Association are"
+        }
+      ]
+    },
+    {
+      "tStartMs": 307800,
+      "dDurationMs": 4040,
+      "segs": [
+        {
+          "utf8": "in quotes, world class and adhere\nto strict rules and standards,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311840,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "and they say that some farmers\nhave used their profits to create"
+        }
+      ]
+    },
+    {
+      "tStartMs": 315240,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "in quotes, lush wilderness areas."
+        }
+      ]
+    },
+    {
+      "tStartMs": 317320,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "They also say that SAPA members\ndo not raise cubs to be petted,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 320680,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "or adult lions to be exhibited, and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 322680,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "they'll never condone hunting\ndrugged or tame lions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 325680,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "You've talked a bit about\nlions being hunted for trophies,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 329080,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "but what about bones?\nThe market for lion bones?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 331880,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "See, this is one of the many issues\nthat a lot of conservationists have"
+        }
+      ]
+    },
+    {
+      "tStartMs": 335960,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "with canned hunting.\nBecause it's legal,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 338600,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "it's kind of almost a front\nfor the illegal bone operation."
+        }
+      ]
+    },
+    {
+      "tStartMs": 344040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Even though it is legal\nin South Africa to export lion bones,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347080,
+      "dDurationMs": 2200,
+      "segs": [
+        {
+          "utf8": "it is legal. Why do people want lion bones?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 349280,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "So it's in Southeast Asia,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 352600,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "there's a belief that, you know, they\ncan give you strength, they're potent."
+        }
+      ]
+    },
+    {
+      "tStartMs": 356440,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "They can kind of, you know,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 359080,
+      "dDurationMs": 3240,
+      "segs": [
+        {
+          "utf8": "you can have like lion\nenergy kind of essentially."
+        }
+      ]
+    },
+    {
+      "tStartMs": 362320,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "Um, and they're also used as a front,\nas tiger bones."
+        }
+      ]
+    },
+    {
+      "tStartMs": 367200,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "So people use lion bones\nunder the guise of tiger bones"
+        }
+      ]
+    },
+    {
+      "tStartMs": 370280,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "because tigers are endangered and"
+        }
+      ]
+    },
+    {
+      "tStartMs": 372520,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "they kind of,\nyou know, put a tiger bone label"
+        }
+      ]
+    },
+    {
+      "tStartMs": 375960,
+      "dDurationMs": 3560,
+      "segs": [
+        {
+          "utf8": "on a lion bone, you know,\nto make more money."
+        }
+      ]
+    },
+    {
+      "tStartMs": 379520,
+      "dDurationMs": 4440,
+      "segs": [
+        {
+          "utf8": "And they're used for other\ntraditional, um, medicines and herbs."
+        }
+      ]
+    },
+    {
+      "tStartMs": 383960,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "And so it's, it's part\nof a long culture in Southeast Asia"
+        }
+      ]
+    },
+    {
+      "tStartMs": 387400,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "to use these bones for, you know,\nvarious things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 391240,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "What is public opinion\nin South Africa on this issue?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 393720,
+      "dDurationMs": 800,
+      "segs": [
+        {
+          "utf8": "What do people think?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 394520,
+      "dDurationMs": 4920,
+      "segs": [
+        {
+          "utf8": "So actually, a 2022 survey found that\nover 60% of people in South Africa"
+        }
+      ]
+    },
+    {
+      "tStartMs": 399440,
+      "dDurationMs": 2520,
+      "segs": [
+        {
+          "utf8": "were against, um, canned hunting."
+        }
+      ]
+    },
+    {
+      "tStartMs": 401960,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "So there is a bit of disgust,\nyou know, with canned hunting, um,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 407800,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "and people would like\nto see an end to it."
+        }
+      ]
+    },
+    {
+      "tStartMs": 411760,
+      "dDurationMs": 3960,
+      "segs": [
+        {
+          "utf8": "South Africa has said that it's going\nto shut down these captive lion farms,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 415720,
+      "dDurationMs": 3720,
+      "segs": [
+        {
+          "utf8": "but that has not happened yet.\nWhat is the hold up?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 419440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "I mean, the hold up is\nthe farmers, one."
+        }
+      ]
+    },
+    {
+      "tStartMs": 422320,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "They don't want to let go\nof essentially their livelihoods."
+        }
+      ]
+    },
+    {
+      "tStartMs": 424920,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "It's a profitable business.\nIt makes millions of dollars a year."
+        }
+      ]
+    },
+    {
+      "tStartMs": 429080,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Um, so they don't want to let it go."
+        }
+      ]
+    },
+    {
+      "tStartMs": 431200,
+      "dDurationMs": 4360,
+      "segs": [
+        {
+          "utf8": "And obviously the government has said,\nyou know, you can voluntarily leave,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 435560,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "but they haven't provided a financial\nincentive for the farmers to leave."
+        }
+      ]
+    },
+    {
+      "tStartMs": 439720,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "So they're thinking,\nwhy would I voluntarily leave"
+        }
+      ]
+    },
+    {
+      "tStartMs": 442920,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "if I'm not going to get a financial\nstipend, how will I survive?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 446360,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "How will I feed my family?\nHow will I continue on?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 449800,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "So there is that, you know,\ndebate and how to properly end it"
+        }
+      ]
+    },
+    {
+      "tStartMs": 455480,
+      "dDurationMs": 3480,
+      "segs": [
+        {
+          "utf8": "in a way where, you know,\nthe lions are taken care of,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 458960,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "because if we close it immediately,\nwhat happens to the lions in these enclosures?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 462480,
+      "dDurationMs": 2640,
+      "segs": [
+        {
+          "utf8": "There's eight thousand of them.\nThere are so many lions."
+        }
+      ]
+    },
+    {
+      "tStartMs": 465120,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "And as you said,\nthey can't be released into the wild."
+        }
+      ]
+    },
+    {
+      "tStartMs": 466960,
+      "dDurationMs": 4200,
+      "segs": [
+        {
+          "utf8": "Exactly. So there need to be\nso many conservation plans in place"
+        }
+      ]
+    },
+    {
+      "tStartMs": 471160,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "before they completely shut down\nthese captive lion farms."
+        }
+      ]
+    },
+    {
+      "tStartMs": 476200,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Danai, thank you so much\nfor coming on the podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 478440,
+      "dDurationMs": 3320,
+      "segs": [
+        {
+          "utf8": "Thank you so much for having me.\nNow, before we go, I want to tell you"
+        }
+      ]
+    },
+    {
+      "tStartMs": 481760,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "about some of the other episodes\nwe have done on What in the World."
+        }
+      ]
+    },
+    {
+      "tStartMs": 484960,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "We put out a brand new episode\nevery weekday."
+        }
+      ]
+    },
+    {
+      "tStartMs": 487520,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "You can listen to them here\non YouTube."
+        }
+      ]
+    },
+    {
+      "tStartMs": 489680,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "You can also watch us once a week."
+        }
+      ]
+    },
+    {
+      "tStartMs": 491760,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "We're putting out a version in\nvision too, so you can get to know us"
+        }
+      ]
+    },
+    {
+      "tStartMs": 494480,
+      "dDurationMs": 2600,
+      "segs": [
+        {
+          "utf8": "a little bit better. And we talk\nabout all kinds of things."
+        }
+      ]
+    },
+    {
+      "tStartMs": 497080,
+      "dDurationMs": 3880,
+      "segs": [
+        {
+          "utf8": "We have done an episode on why young\npeople are leaving France for Senegal,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 500960,
+      "dDurationMs": 5160,
+      "segs": [
+        {
+          "utf8": "and we recently talked about\nwhether we might discover alien life\non Jupiter's moon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 506120,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "All of those episodes,\nas I said, are right here on YouTube."
+        }
+      ]
+    },
+    {
+      "tStartMs": 509400,
+      "dDurationMs": 3080,
+      "segs": [
+        {
+          "utf8": "If you're not already, do subscribe\nand leave us a comment below"
+        }
+      ]
+    },
+    {
+      "tStartMs": 512480,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "with your thoughts.\nThat is it for today's episode."
+        }
+      ]
+    },
+    {
+      "tStartMs": 515440,
+      "dDurationMs": 2120,
+      "segs": [
+        {
+          "utf8": "Thank you for joining us.\nI'm Hannah Gelbart."
+        }
+      ]
+    },
+    {
+      "tStartMs": 517560,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "This has been What in the World\nfrom the BBC World Service."
+        }
+      ]
+    },
+    {
+      "tStartMs": 520600,
+      "dDurationMs": 3400,
+      "segs": [
+        {
+          "utf8": "We'll be back with another episode\nsoon. See you then."
+        }
+      ]
+    }
+  ]
+}

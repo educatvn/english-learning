@@ -1,0 +1,1537 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Cute, cuddly\nand riddled with chlamydia."
+    } ]
+  }, {
+    "tStartMs": 4600,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "That's not how you might expect to\ndescribe koalas, but it is the reality."
+    } ]
+  }, {
+    "tStartMs": 8760,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "As many as 80% of some wild\nkoala populations have chlamydia,"
+    } ]
+  }, {
+    "tStartMs": 13560,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "and it causes half of their deaths. And\nthat's not the only risk they're facing."
+    } ]
+  }, {
+    "tStartMs": 17840,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Their habitats, which are\neucalyptus forests in Australia,"
+    } ]
+  }, {
+    "tStartMs": 21160,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "are being devastated by wildfires,\ndroughts and urban development."
+    } ]
+  }, {
+    "tStartMs": 26320,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So today we're breaking down\nthe koala crisis,"
+    } ]
+  }, {
+    "tStartMs": 29000,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "and you're going to hear how a\nnew vaccine and conservation efforts\ncould help turn things around for them."
+    } ]
+  }, {
+    "tStartMs": 37800,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "It's Hannah here."
+    } ]
+  }, {
+    "tStartMs": 38560,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Welcome to What in the World,\nyour podcast for the stories"
+    } ]
+  }, {
+    "tStartMs": 41040,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "that everyone's talking about\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 43880,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And I'm speaking to Tiffanie Turnbull,\na BBC reporter who's in Sydney."
+    } ]
+  }, {
+    "tStartMs": 47520,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Hey, Tiffanie."
+    } ]
+  }, {
+    "tStartMs": 48400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Hi. How are you?\nI'm good thank you."
+    } ]
+  }, {
+    "tStartMs": 51040,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Now, I remember I went to Australia\nZoo once and I got to hold a koala,"
+    } ]
+  }, {
+    "tStartMs": 56440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and I was fascinated by\nhow much they sleep."
+    } ]
+  }, {
+    "tStartMs": 58840,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "It basically slept the whole time."
+    } ]
+  }, {
+    "tStartMs": 60400,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "They said they sleep\nat about 20 hours a day."
+    } ]
+  }, {
+    "tStartMs": 63300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Have you spent a lot of time\nwith koalas?"
+    } ]
+  }, {
+    "tStartMs": 65500,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Yeah, they do basically nap\nfor a living."
+    } ]
+  }, {
+    "tStartMs": 68740,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I grew up in Queensland,\nsouth east Queensland, which is one"
+    } ]
+  }, {
+    "tStartMs": 71820,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "of the places that koalas are quite\npopulous, or they used to be anyway."
+    } ]
+  }, {
+    "tStartMs": 77940,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So I have childhood memories\nof spotting one in the tree"
+    } ]
+  }, {
+    "tStartMs": 81660,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "in the backyard all the time,\neven rescuing a couple"
+    } ]
+  }, {
+    "tStartMs": 84540,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "if they get separated from\ntheir parents and that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 87900,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "We'd take them up to Australia Zoo,\nthey'd get a check up,"
+    } ]
+  }, {
+    "tStartMs": 90460,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and then Australia Zoo would find\ntheir mum and bring them back."
+    } ]
+  }, {
+    "tStartMs": 94140,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But yeah, definitely growing up\nthey were everywhere."
+    } ]
+  }, {
+    "tStartMs": 96540,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "And that is sadly changing."
+    } ]
+  }, {
+    "tStartMs": 98140,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I mean, they're treasured in Australia\nand to indigenous populations as well."
+    } ]
+  }, {
+    "tStartMs": 102060,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "But they are facing\nthese increasing threats."
+    } ]
+  }, {
+    "tStartMs": 105460,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "How big of a problem is it\nfor the size of their population?"
+    } ]
+  }, {
+    "tStartMs": 108820,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "It's a huge problem."
+    } ]
+  }, {
+    "tStartMs": 111180,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "They're - as you kind of touched on\n- they're Australia's kind"
+    } ]
+  }, {
+    "tStartMs": 113900,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "of national icon,\nits most famous animal."
+    } ]
+  }, {
+    "tStartMs": 116540,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "But in recent years populations\njust have been plummeting right"
+    } ]
+  }, {
+    "tStartMs": 120660,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "across the eastern coast,\nwhich is where most Australians live,"
+    } ]
+  }, {
+    "tStartMs": 125000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and in some places they've\neven dropped by estimated 80%."
+    } ]
+  }, {
+    "tStartMs": 129400,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And there are fears that koalas could\nbe extinct within a generation now,"
+    } ]
+  }, {
+    "tStartMs": 134120,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "in some states."
+    } ]
+  }, {
+    "tStartMs": 135520,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "One of the things that people are\nreally surprised about when we talk"
+    } ]
+  }, {
+    "tStartMs": 138560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "about koalas is the fact\nthat so many of them get chlamydia."
+    } ]
+  }, {
+    "tStartMs": 142880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And of course,\nhere it's known as an STI,"
+    } ]
+  }, {
+    "tStartMs": 146120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "a sexually transmitted infection\nor disease among humans."
+    } ]
+  }, {
+    "tStartMs": 150120,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "How widespread is it among koalas,"
+    } ]
+  }, {
+    "tStartMs": 152240,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and is it also sexually transmitted?"
+    } ]
+  }, {
+    "tStartMs": 154520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Is it kind of the same as the\nchlamydia that we know among humans?"
+    } ]
+  }, {
+    "tStartMs": 157960,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Yeah. So it's believed that koalas\nactually caught it from livestock."
+    } ]
+  }, {
+    "tStartMs": 161160,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So chlamydia is not that uncommon\nin animals."
+    } ]
+  }, {
+    "tStartMs": 163680,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "But what is kind of unique to the koala\nis the rapid spread of the disease"
+    } ]
+  }, {
+    "tStartMs": 169640,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "and the incredibly intense way\nthat it affects koalas,"
+    } ]
+  }, {
+    "tStartMs": 174600,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "but it is spread largely through\nkind of the same ways as in humans"
+    } ]
+  }, {
+    "tStartMs": 180320,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "and other animals.\nSo that is through,"
+    } ]
+  }, {
+    "tStartMs": 182420,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "like mating or even some koalas spread\nit to their young by feeding them."
+    } ]
+  }, {
+    "tStartMs": 187020,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "What kind of symptoms does it cause\nfor the koalas?"
+    } ]
+  }, {
+    "tStartMs": 189620,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So there are kind of two main ways\nthat it manifests."
+    } ]
+  }, {
+    "tStartMs": 192420,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "The first is a kind of disease\nor infection of the eye."
+    } ]
+  }, {
+    "tStartMs": 197660,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So it looks like conjunctivitis."
+    } ]
+  }, {
+    "tStartMs": 201340,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "The koalas\nthat I've seen that are sick,"
+    } ]
+  }, {
+    "tStartMs": 204180,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "their eyes are kind of almost glued\nshut with mucus, they can barely see."
+    } ]
+  }, {
+    "tStartMs": 209460,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "And the other form of chlamydia is\nthat it tends to affect them"
+    } ]
+  }, {
+    "tStartMs": 215180,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "with a infection of their reproductive\norgans, which also quite problematic."
+    } ]
+  }, {
+    "tStartMs": 220020,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "That can be so painful and get so out\nof control that they die from that, too."
+    } ]
+  }, {
+    "tStartMs": 225060,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "But even if they don't die, it\nreally frequently makes them sterile,"
+    } ]
+  }, {
+    "tStartMs": 229140,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "which means that they can't breed,\nwhich is obviously a huge problem"
+    } ]
+  }, {
+    "tStartMs": 233500,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "for an endangered population\nwhere you really need"
+    } ]
+  }, {
+    "tStartMs": 235980,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "them to be successfully breeding."
+    } ]
+  }, {
+    "tStartMs": 238420,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So it can make them blind\nand infertile."
+    } ]
+  }, {
+    "tStartMs": 241540,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "And I read that it can be treated\nwith antibiotics, right?"
+    } ]
+  }, {
+    "tStartMs": 244920,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Yes, it can be treated\nwith antibiotics."
+    } ]
+  }, {
+    "tStartMs": 246880,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "But vets say even that is\nkind of a nightmare because"
+    } ]
+  }, {
+    "tStartMs": 249920,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "the antibiotics attack bacteria\nin the koalas gut and kills that off."
+    } ]
+  }, {
+    "tStartMs": 255600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And that's a huge problem\nbecause koalas, famously,"
+    } ]
+  }, {
+    "tStartMs": 259040,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "their primary food source is eucalyptus\nleaves, which is actually toxic."
+    } ]
+  }, {
+    "tStartMs": 263960,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And so they have this\nreally unique bacteria or enzymes"
+    } ]
+  }, {
+    "tStartMs": 268320,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "or whatever in their gut that help\nthem break down that kind of food."
+    } ]
+  }, {
+    "tStartMs": 271880,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But the antibiotics mean that\nthey can't really do that anymore."
+    } ]
+  }, {
+    "tStartMs": 275200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Again, so you have a starvation problem\nkind of from a different angle though."
+    } ]
+  }, {
+    "tStartMs": 279440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So the treatment\ncan often kill them as well."
+    } ]
+  }, {
+    "tStartMs": 282800,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Their eating habits are so strange,\naren't they?\nBecause they're really fussy eaters."
+    } ]
+  }, {
+    "tStartMs": 285960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "They only eat the specific type of\neucalyptus and and it knackers them"
+    } ]
+  }, {
+    "tStartMs": 289240,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "because it's so indigestible, which is\nwhy they have to sleep for 20 hours."
+    } ]
+  }, {
+    "tStartMs": 292640,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And now scientists have\nbeen carrying out clinical research"
+    } ]
+  }, {
+    "tStartMs": 296200,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "about the chlamydia issue\nfor the population,"
+    } ]
+  }, {
+    "tStartMs": 299040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and they have developed a vaccine."
+    } ]
+  }, {
+    "tStartMs": 301120,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "And I think you've been speaking\nto some of the some of the scientists\nbehind that."
+    } ]
+  }, {
+    "tStartMs": 303980,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Yeah, I have, so they've been kind of\nworking at this for 20 years now."
+    } ]
+  }, {
+    "tStartMs": 309380,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So it's been a really long journey."
+    } ]
+  }, {
+    "tStartMs": 313300,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "You know, there's the development of\na vaccine, then you've got to test it."
+    } ]
+  }, {
+    "tStartMs": 317540,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And if it doesn't quite work the way\nthat you think it will,"
+    } ]
+  }, {
+    "tStartMs": 320100,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "you've got to tweak it\nand then test it again."
+    } ]
+  }, {
+    "tStartMs": 322140,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "And you've got to go through, kind of\nlike vaccine development in humans too,"
+    } ]
+  }, {
+    "tStartMs": 326220,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "you've got to go through all\nthese regulatory hurdles to make sure"
+    } ]
+  }, {
+    "tStartMs": 329140,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "that you're not just out there\njabbing random koalas"
+    } ]
+  }, {
+    "tStartMs": 333060,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "with vaccines that have no evidence\nbehind them."
+    } ]
+  }, {
+    "tStartMs": 336340,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So it's been\na very long road for them."
+    } ]
+  }, {
+    "tStartMs": 338860,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And there's kind of been two large\ngroups that - or two main groups"
+    } ]
+  }, {
+    "tStartMs": 344860,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "that have been  advancing a vaccine,\nslightly different,"
+    } ]
+  }, {
+    "tStartMs": 349400,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "one required two doses.\nAnd so that's a challenge too,"
+    } ]
+  }, {
+    "tStartMs": 352100,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "because you have to figure out\nhow to get the koala at second dose."
+    } ]
+  }, {
+    "tStartMs": 355500,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And as one of the vets joked to me,\nyou can't just tell them"
+    } ]
+  }, {
+    "tStartMs": 358140,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "their appointments next Monday\nand expect them to show up."
+    } ]
+  }, {
+    "tStartMs": 361580,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "They'll probably be sleeping.\nThey'll sleep right through it."
+    } ]
+  }, {
+    "tStartMs": 364560,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Exactly, exactly.\nWe've all been there."
+    } ]
+  }, {
+    "tStartMs": 367880,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "But the second one is\na single shot vaccine, that's\nobviously easier to administer,"
+    } ]
+  }, {
+    "tStartMs": 372160,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but there were some concerns about\nwhether that would provide the level"
+    } ]
+  }, {
+    "tStartMs": 375080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "of protection that they needed to\nactually, you know,"
+    } ]
+  }, {
+    "tStartMs": 378440,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "fundamentally change the way that\ntheir bodies respond to the disease."
+    } ]
+  }, {
+    "tStartMs": 381760,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And once you administer the vaccine\nto the koalas,"
+    } ]
+  }, {
+    "tStartMs": 384640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "how effective is it at preventing\nthem from getting chlamydia?"
+    } ]
+  }, {
+    "tStartMs": 387920,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Yeah. So the research trials found\nthat this was really, really effective."
+    } ]
+  }, {
+    "tStartMs": 392360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So I went to Currumbin Wildlife Hospital\non the Gold Coast in Queensland"
+    } ]
+  }, {
+    "tStartMs": 396360,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and had a chat to the staff there."
+    } ]
+  }, {
+    "tStartMs": 399120,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "They were using the QUT vaccine"
+    } ]
+  }, {
+    "tStartMs": 401480,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "and they were targeting a really,\nreally diseased population nearby,"
+    } ]
+  }, {
+    "tStartMs": 405200,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "where it's estimated about 80% of koalas\nin that population have chlamydia and"
+    } ]
+  }, {
+    "tStartMs": 410960,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "they vaccinated or in the process of\nvaccinating, I think about 30 koalas."
+    } ]
+  }, {
+    "tStartMs": 416400,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And so far only three of them\nhave actually caught chlamydia,"
+    } ]
+  }, {
+    "tStartMs": 420160,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and all of them have recovered\nand been fine."
+    } ]
+  }, {
+    "tStartMs": 422280,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "So that's a great indicator\nthat this is working."
+    } ]
+  }, {
+    "tStartMs": 425300,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "But then, separately, the University\nof the Sunshine Coast has also wrapped"
+    } ]
+  }, {
+    "tStartMs": 429660,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "like a decade's worth of clinical trials\ntogether and had a look at the results."
+    } ]
+  }, {
+    "tStartMs": 433860,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And incredibly,\nthey found that deaths"
+    } ]
+  }, {
+    "tStartMs": 436460,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "among vaccinated koalas dropped by\ntwo thirds, which is extraordinary."
+    } ]
+  }, {
+    "tStartMs": 441500,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "But also exciting was the fact that\nthe koalas that did catch chlamydia"
+    } ]
+  }, {
+    "tStartMs": 445940,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "were catching it later,\nwhich is a big deal"
+    } ]
+  }, {
+    "tStartMs": 448700,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "if again, you're trying to get them\nto breed and expand their population."
+    } ]
+  }, {
+    "tStartMs": 453780,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And so they saw things\nlike populations"
+    } ]
+  }, {
+    "tStartMs": 456980,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "that were headed right off the cliff\ntowards extinction."
+    } ]
+  }, {
+    "tStartMs": 460260,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "There were a couple populations where\nit just completely turned things around."
+    } ]
+  }, {
+    "tStartMs": 464820,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And I remember one of the researchers\ntelling me quite excitedly"
+    } ]
+  }, {
+    "tStartMs": 468660,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "about one population where now\nthey're worried about overpopulation"
+    } ]
+  }, {
+    "tStartMs": 472820,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and they're thinking\nabout relocating some of those koalas"
+    } ]
+  }, {
+    "tStartMs": 475980,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "just so they don't run out of habitat\nin the area."
+    } ]
+  }, {
+    "tStartMs": 480060,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "That is really, really positive."
+    } ]
+  }, {
+    "tStartMs": 482100,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "How long do you think until the\nvaccine is rolled out more widely?"
+    } ]
+  }, {
+    "tStartMs": 485520,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "That's going to be a challenge too."
+    } ]
+  }, {
+    "tStartMs": 487040,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Unfortunately.\nSo Australia is massive."
+    } ]
+  }, {
+    "tStartMs": 489680,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "As I mentioned, koalas are hard\nto find and hard to vaccinate."
+    } ]
+  }, {
+    "tStartMs": 494840,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Researchers have struggled\nto a degree with funding."
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "In the vaccine development process,\nthe vaccine rollout"
+    } ]
+  }, {
+    "tStartMs": 503280,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "is probably going to be\nthe same thing."
+    } ]
+  }, {
+    "tStartMs": 507240,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And then they've got to think about,\nthey can't vaccinate every koala."
+    } ]
+  }, {
+    "tStartMs": 510640,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "We don't know where they are.\nWe don't know how many there are."
+    } ]
+  }, {
+    "tStartMs": 513200,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "And also that would just be\nlike such an insurmountable task."
+    } ]
+  }, {
+    "tStartMs": 517420,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "So they've really got to think about\nwhich populations would benefit the most"
+    } ]
+  }, {
+    "tStartMs": 521300,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "from the vaccine and target those."
+    } ]
+  }, {
+    "tStartMs": 525540,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And so that's kind of the next step\nfor them is figuring out, 'Okay,"
+    } ]
+  }, {
+    "tStartMs": 529300,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "this is how much money we have,\nthis is how much vaccine we have."
+    } ]
+  }, {
+    "tStartMs": 532300,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "These are the koalas\nthat we think we should prioritise."
+    } ]
+  }, {
+    "tStartMs": 534760,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Let's go and get them sorted.'\nSo there's lots\nof different hurdles here."
+    } ]
+  }, {
+    "tStartMs": 538840,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "And also that fine line\nbetween letting the population thrive"
+    } ]
+  }, {
+    "tStartMs": 543600,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "and bring itself back\nfrom being endangered"
+    } ]
+  }, {
+    "tStartMs": 546020,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "and even, you know,\nat risk of extinction."
+    } ]
+  }, {
+    "tStartMs": 548040,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But without getting too big\na population without overpopulation."
+    } ]
+  }, {
+    "tStartMs": 553040,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "And aside from chlamydia,\nI want to talk a little bit"
+    } ]
+  }, {
+    "tStartMs": 556140,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "about some of the other threats that\nkoalas are facing because they live"
+    } ]
+  }, {
+    "tStartMs": 560260,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "in eucalyptus forests and, you know,\nwe've all seen some of the pictures"
+    } ]
+  }, {
+    "tStartMs": 564540,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "and the videos of the wildfires\nand the devastation"
+    } ]
+  }, {
+    "tStartMs": 567860,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "that has been happening in different\nparts of Australia in recent years."
+    } ]
+  }, {
+    "tStartMs": 571340,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "Yeah, and that's one thing that\nall the researchers and all the vets"
+    } ]
+  }, {
+    "tStartMs": 575800,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "and wildlife carers that I spoke\nto mentioned over and over and over,"
+    } ]
+  }, {
+    "tStartMs": 580020,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "is that this vaccine is not enough\nto save the koala."
+    } ]
+  }, {
+    "tStartMs": 584460,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "There are much more,"
+    } ]
+  }, {
+    "tStartMs": 587660,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "much bigger problems\nthat we'll need to solve as well."
+    } ]
+  }, {
+    "tStartMs": 590260,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "So this buys us a bit of time to\naddress some of those bigger issues,"
+    } ]
+  }, {
+    "tStartMs": 593920,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "which include things\nlike urbanisation."
+    } ]
+  }, {
+    "tStartMs": 596260,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "So if the koala doesn't have a tree,"
+    } ]
+  }, {
+    "tStartMs": 599640,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "it's - a vaccines no,\nno use to it really."
+    } ]
+  }, {
+    "tStartMs": 602260,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "So urbanisation is\na huge problem here"
+    } ]
+  }, {
+    "tStartMs": 605080,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "because that means that they lose\nthe habitat that they live in,"
+    } ]
+  }, {
+    "tStartMs": 608660,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "but also that food source that we\nmentioned that is already quite rare."
+    } ]
+  }, {
+    "tStartMs": 614000,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and urbanisation also leads them\nto encounter things like feral pets"
+    } ]
+  }, {
+    "tStartMs": 619600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and cars and that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 622000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And the government is trying\nto tackle all of this"
+    } ]
+  }, {
+    "tStartMs": 624160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "in terms of the habitat\nand habitat loss."
+    } ]
+  }, {
+    "tStartMs": 626880,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "It recently talked about plans\nfor the Great Koala National Park."
+    } ]
+  }, {
+    "tStartMs": 631660,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Tell me a bit about that.\nYeah. So this was an election promise"
+    } ]
+  }, {
+    "tStartMs": 635200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "of the state government of\nNew South Wales about two years ago."
+    } ]
+  }, {
+    "tStartMs": 639040,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "This will put extra protections\nin place to make sure"
+    } ]
+  }, {
+    "tStartMs": 641420,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "that habitat\nin this area is protected for koalas."
+    } ]
+  }, {
+    "tStartMs": 646120,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And as I mentioned before,\nthis is kind of like one"
+    } ]
+  }, {
+    "tStartMs": 649640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "of the main areas\nwhere those bushfires ripped through"
+    } ]
+  }, {
+    "tStartMs": 652600,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and decimated really,\nreally important koala habitat."
+    } ]
+  }, {
+    "tStartMs": 656920,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "So creating this national park\nallows them to preserve what's left\nof that habitat,"
+    } ]
+  }, {
+    "tStartMs": 661760,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "but also regrow some of that\nreally critical eucalyptus forest."
+    } ]
+  }, {
+    "tStartMs": 667540,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And Tiffanie, we actually heard from\nsome of the people involved in making"
+    } ]
+  }, {
+    "tStartMs": 670860,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "the Koala National Park happen."
+    } ]
+  }, {
+    "tStartMs": 672900,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Here is Paula Flack from the National\nParks Association of New South Wales."
+    } ]
+  }, {
+    "tStartMs": 677140,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "When I first heard that the Great Koala\nNational Park announcement was about"
+    } ]
+  }, {
+    "tStartMs": 680420,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "to be made, I was actually sitting\nin a campaign meeting,"
+    } ]
+  }, {
+    "tStartMs": 683580,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "and my colleagues\nand I were a little bit skeptical"
+    } ]
+  }, {
+    "tStartMs": 685740,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "because for eight and a half months,"
+    } ]
+  }, {
+    "tStartMs": 688100,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "following the completion\nof all of the assessment"
+    } ]
+  }, {
+    "tStartMs": 690860,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and community consultation and planning,\nthe government had been telling us"
+    } ]
+  }, {
+    "tStartMs": 694740,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "the announcement would be soon,\nit would be soon."
+    } ]
+  }, {
+    "tStartMs": 697020,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And we were just getting\nso frustrated with the delays."
+    } ]
+  }, {
+    "tStartMs": 700540,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "But the Minister's office confirmed\nthat indeed,"
+    } ]
+  }, {
+    "tStartMs": 703220,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "the Great Koala National Park was going\nto be announced the following day."
+    } ]
+  }, {
+    "tStartMs": 706620,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And what's more,\nthey were going to announce"
+    } ]
+  }, {
+    "tStartMs": 708780,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "the full 176000 hectares\nthat we've been campaigning for,"
+    } ]
+  }, {
+    "tStartMs": 713300,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and there would be an immediate stop\nto the logging."
+    } ]
+  }, {
+    "tStartMs": 716420,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So once we knew that,\nwe were absolutely euphoric."
+    } ]
+  }, {
+    "tStartMs": 721100,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "The meeting was abandoned."
+    } ]
+  }, {
+    "tStartMs": 722540,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "We were all up and cheering and crying\nand hugging and it was such a relief."
+    } ]
+  }, {
+    "tStartMs": 729360,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I would like to see beyond this - is\nthat the New South Wales government"
+    } ]
+  }, {
+    "tStartMs": 734120,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "will decide to actually pull out\nof logging in public native forests"
+    } ]
+  }, {
+    "tStartMs": 737440,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "throughout the whole state,\nwhich would be the right thing to do."
+    } ]
+  }, {
+    "tStartMs": 741120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Western Australia has done it,\nVictoria has done it."
+    } ]
+  }, {
+    "tStartMs": 743880,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And we know that the timber coming\nfrom these forests only contributes"
+    } ]
+  }, {
+    "tStartMs": 747160,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "about 6% to our timber requirements."
+    } ]
+  }, {
+    "tStartMs": 749400,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The rest is already coming\nfrom plantation."
+    } ]
+  }, {
+    "tStartMs": 751800,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So we think these forests are\nmuch better standing"
+    } ]
+  }, {
+    "tStartMs": 754160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "for all the values they have\nfor future generations."
+    } ]
+  }, {
+    "tStartMs": 757040,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "But in the meantime,\nwe'll take what we've got."
+    } ]
+  }, {
+    "tStartMs": 759000,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "The Great Koala National Park.\nWhat a wonderful outcome."
+    } ]
+  }, {
+    "tStartMs": 762040,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "We are incredibly excited about this."
+    } ]
+  }, {
+    "tStartMs": 764720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And this is Darcie Carruthers from\nthe Australian Conservation Foundation."
+    } ]
+  }, {
+    "tStartMs": 768720,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "The declaration of the Great Koala\nNational Park in New South Wales"
+    } ]
+  }, {
+    "tStartMs": 772640,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "is massive news, really positive news\nand also desperately needed."
+    } ]
+  }, {
+    "tStartMs": 779200,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And I say that\nbecause koalas are actually"
+    } ]
+  }, {
+    "tStartMs": 782440,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "on a pathway to becoming extinct in\nthe state of New South Wales by 2050."
+    } ]
+  }, {
+    "tStartMs": 787260,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "That's only 25 years away."
+    } ]
+  }, {
+    "tStartMs": 789340,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And the continuous populations\nof koalas throughout Queensland,"
+    } ]
+  }, {
+    "tStartMs": 792740,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "New South Wales and the Australian\nCapital Territory are endangered."
+    } ]
+  }, {
+    "tStartMs": 798140,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "And a big part of\nwhy the species is struggling so much"
+    } ]
+  }, {
+    "tStartMs": 802740,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "is because of the sheer amount of\ntheir habitat that's been destroyed."
+    } ]
+  }, {
+    "tStartMs": 806540,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "This has been a fantastic\nannouncement out of New South Wales,"
+    } ]
+  }, {
+    "tStartMs": 809940,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "and we really hope to see\nthis followed up by ambitious action"
+    } ]
+  }, {
+    "tStartMs": 815460,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "at the federal level with new laws\nthat will actually protect nature,"
+    } ]
+  }, {
+    "tStartMs": 819540,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "introduced into Parliament by the end\nof the year."
+    } ]
+  }, {
+    "tStartMs": 822140,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Back to you, Tiffanie. We've talked\na little bit about the vaccine"
+    } ]
+  }, {
+    "tStartMs": 826140,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and we've talked about the parks,\nyou know, all of these different ways"
+    } ]
+  }, {
+    "tStartMs": 829100,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "that the koala population is going\nto be protected in Australia."
+    } ]
+  }, {
+    "tStartMs": 833860,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "It sounds like it costs a lot."
+    } ]
+  }, {
+    "tStartMs": 836580,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Has there been pushback from people?"
+    } ]
+  }, {
+    "tStartMs": 838820,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "What's been the reaction to all\nof these plans and this investment?"
+    } ]
+  }, {
+    "tStartMs": 842460,
+    "dDurationMs": 6700,
+    "segs": [ {
+      "utf8": "I think because koalas are\nsuch a beloved animal in Australia."
+    } ]
+  }, {
+    "tStartMs": 849160,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "There are very few people\nwho would very publicly be like,"
+    } ]
+  }, {
+    "tStartMs": 852560,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "'No, don't spend that money on them."
+    } ]
+  }, {
+    "tStartMs": 854680,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Don't save the very cute,\ncuddly thing.' But there has"
+    } ]
+  }, {
+    "tStartMs": 858720,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "at times been pushed back from farming\ngroups or people who use native forests"
+    } ]
+  }, {
+    "tStartMs": 866440,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "for business about the plans\nto protect some of these areas."
+    } ]
+  }, {
+    "tStartMs": 871680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "But I would say\nprotecting koalas is"
+    } ]
+  }, {
+    "tStartMs": 876000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "very popular\nwith the broader population."
+    } ]
+  }, {
+    "tStartMs": 879120,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And it's something that a lot\nof Australians are concerned about."
+    } ]
+  }, {
+    "tStartMs": 882840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Tiffanie, thank you so much.\nThank you for having me."
+    } ]
+  }, {
+    "tStartMs": 885320,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "That's it from us.\nThank you for joining us."
+    } ]
+  }, {
+    "tStartMs": 887680,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "If you like this episode,\nplease do like, share. Follow."
+    } ]
+  }, {
+    "tStartMs": 890760,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Subscribe. You can find us right here\non YouTube five days a week."
+    } ]
+  }, {
+    "tStartMs": 894720,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Two of those episodes are here\nin the studio,"
+    } ]
+  }, {
+    "tStartMs": 896840,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "so you can see us chatting away\nwith some of your favorite guests."
+    } ]
+  }, {
+    "tStartMs": 900120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I'm Hannah, this is What in the World\nfrom the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 902840,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "We'll see you next time."
+    } ]
+  } ]
+}

@@ -1,0 +1,1399 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 80,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "One test you can use is at lunchtime."
+    } ]
+  }, {
+    "tStartMs": 2720,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Would you rather go\nand get a sandwich with a colleague,"
+    } ]
+  }, {
+    "tStartMs": 5040,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "or would you rather just have\nsome time on your own?"
+    } ]
+  }, {
+    "tStartMs": 7440,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I don't think I'd want to be\non my own. I'd always choose to be\nwith other people."
+    } ]
+  }, {
+    "tStartMs": 10880,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I'd always choose a colleague\nas well. We want some certainty, and"
+    } ]
+  }, {
+    "tStartMs": 13200,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "particularly in a world that feels very\nuncertain, it's a nice thing to have."
+    } ]
+  }, {
+    "tStartMs": 16640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "You can put yourself into this box\nand decide, you know, this is what I am."
+    } ]
+  }, {
+    "tStartMs": 20400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Hey, it's Hannah here, and this is\nWhat in the World, your podcast"
+    } ]
+  }, {
+    "tStartMs": 23400,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "for the stories that get people\ntalking from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 26880,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "The other day I was filming some TikToks\nand I was being a little bit particular"
+    } ]
+  }, {
+    "tStartMs": 31080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "about the script and the angles, and I\nwas working with a producer on the team,"
+    } ]
+  }, {
+    "tStartMs": 34320,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and he just stopped\nand he looked at me and he went,"
+    } ]
+  }, {
+    "tStartMs": 36760,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "you are so type A!\nAnd honestly, I had to look it up."
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So types are competitive,\nambitious, impatient"
+    } ]
+  }, {
+    "tStartMs": 44120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and organised\nand that is me through and through."
+    } ]
+  }, {
+    "tStartMs": 46840,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And I went\non a little bit of a rabbit hole,"
+    } ]
+  }, {
+    "tStartMs": 49480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "obsessing over the strengths\nand the flaws of my personality type."
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And maybe that's you too.\nOr maybe you're more of a type B,"
+    } ]
+  }, {
+    "tStartMs": 56720,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "maybe you are laid back,\nhappy to go with the flow."
+    } ]
+  }, {
+    "tStartMs": 59680,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Spontaneous, a bit chaotic.\nRight now the internet is obsessed"
+    } ]
+  }, {
+    "tStartMs": 63760,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "with labels, personality types,\nbirth charts, attachment styles,"
+    } ]
+  }, {
+    "tStartMs": 67880,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Myers-Briggs colour coding your aura."
+    } ]
+  }, {
+    "tStartMs": 70400,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "So where did all of this come from?\nAnd is it actually"
+    } ]
+  }, {
+    "tStartMs": 72920,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "helpful to squeeze our personalities\ninto neat little boxes?"
+    } ]
+  }, {
+    "tStartMs": 78920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Let's find out more of this now\nfrom our personality expert,"
+    } ]
+  }, {
+    "tStartMs": 81920,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Claudia Hammond, who's a psychologist\nand a BBC presenter."
+    } ]
+  }, {
+    "tStartMs": 84760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Hi welcome to the podcast.\nHi thanks for having me."
+    } ]
+  }, {
+    "tStartMs": 87040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So I want to go through some of\nthe labels that I have seen online."
+    } ]
+  }, {
+    "tStartMs": 89840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Okay. Can you tell me\nwhere these labels came from"
+    } ]
+  }, {
+    "tStartMs": 92320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and what they\nwere originally meant to describe."
+    } ]
+  }, {
+    "tStartMs": 94360,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And also kind of\nhow they're used nowadays?"
+    } ]
+  }, {
+    "tStartMs": 96520,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So the first one is\nI've kind of explained it."
+    } ]
+  }, {
+    "tStartMs": 98880,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Type A, type B.\nYeah."
+    } ]
+  }, {
+    "tStartMs": 100440,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So this was developed by\nsome cardiologists in the 1950s."
+    } ]
+  }, {
+    "tStartMs": 104440,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "And it was supposed to measure\nheart attack risk."
+    } ]
+  }, {
+    "tStartMs": 106280,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Basically they they found\nthat the type A personalities,"
+    } ]
+  }, {
+    "tStartMs": 109720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "these these striving people who were\nvery competitive had a higher risk"
+    } ]
+  }, {
+    "tStartMs": 114600,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "of having a heart attack\nthan the type B people."
+    } ]
+  }, {
+    "tStartMs": 118360,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "But, um, and so this is, you know,\nnearly 75 years old now."
+    } ]
+  }, {
+    "tStartMs": 122520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So it's really interesting\nthat it's that it's around"
+    } ]
+  }, {
+    "tStartMs": 125280,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "talked about so much at the moment.\nThere was lots of controversy"
+    } ]
+  }, {
+    "tStartMs": 127720,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "at the time because it was funded by\nthe tobacco industry,"
+    } ]
+  }, {
+    "tStartMs": 131080,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and also it\ndoesn't always seem to apply."
+    } ]
+  }, {
+    "tStartMs": 133280,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So the so the type A people can be\nvery conscientious"
+    } ]
+  }, {
+    "tStartMs": 135960,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and conscientious\npeople can often be more healthy."
+    } ]
+  }, {
+    "tStartMs": 138480,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So in terms of\nwhether it makes us healthy or not,"
+    } ]
+  }, {
+    "tStartMs": 140880,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "the jury is really out\non that, on that."
+    } ]
+  }, {
+    "tStartMs": 142920,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And also we're not we're not one type\nof personality all the time."
+    } ]
+  }, {
+    "tStartMs": 146760,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "We're very different\nin different situations."
+    } ]
+  }, {
+    "tStartMs": 148440,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "And this doesn't allow for that."
+    } ]
+  }, {
+    "tStartMs": 149680,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "What about introvert extrovert\nand ambivert?"
+    } ]
+  }, {
+    "tStartMs": 152520,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Yeah. So these ideas came from a\npsychologist called Hans Eysenck who\nwas very interested in personality."
+    } ]
+  }, {
+    "tStartMs": 158320,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And he used huge samples and then did\nwhat's known as factor analysis."
+    } ]
+  }, {
+    "tStartMs": 162200,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So he looked at these huge samples\nto try to work out\nwhat can people be broken down into."
+    } ]
+  }, {
+    "tStartMs": 166480,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And his was less of saying you're one\ntype or another and more of a continuum."
+    } ]
+  }, {
+    "tStartMs": 170680,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "But one of those continuums\nthat he looked at"
+    } ]
+  }, {
+    "tStartMs": 173040,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "was introversion and extroversion."
+    } ]
+  }, {
+    "tStartMs": 175960,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And a lot of people\nwill recognise themselves in this."
+    } ]
+  }, {
+    "tStartMs": 179760,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "But then there are these ambiverts,"
+    } ]
+  }, {
+    "tStartMs": 181160,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "or sometimes they're called\nsocialised introverts who may want"
+    } ]
+  }, {
+    "tStartMs": 184240,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "to be introverted but actually be\nquite good at socializing."
+    } ]
+  }, {
+    "tStartMs": 187680,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So everyone else will think\nthey're an extrovert."
+    } ]
+  }, {
+    "tStartMs": 189840,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "But if, say, I mean,\none test you can use is, um,"
+    } ]
+  }, {
+    "tStartMs": 193880,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "at lunchtime, would you rather go\nand get a sandwich with a colleague,"
+    } ]
+  }, {
+    "tStartMs": 197040,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "or would you rather just have\nsome time on your own,"
+    } ]
+  }, {
+    "tStartMs": 199800,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "given the choice?\nI don't think I'd want to be on my own."
+    } ]
+  }, {
+    "tStartMs": 201880,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I'd always choose to be\nwith other people."
+    } ]
+  }, {
+    "tStartMs": 203920,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "I'd always choose a colleague as well.\nYes, but a lot of people wouldn't."
+    } ]
+  }, {
+    "tStartMs": 205800,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "A lot of people would say, oh,\nyou know, the one bit of the day"
+    } ]
+  }, {
+    "tStartMs": 208360,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "when they can be on their own,\nthey might like to do this."
+    } ]
+  }, {
+    "tStartMs": 211120,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Um, and so it is interesting\nto note these differences"
+    } ]
+  }, {
+    "tStartMs": 214280,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "between us, but again,\nit depends on the situation."
+    } ]
+  }, {
+    "tStartMs": 216520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So you might be more extrovert\nat a party, say,"
+    } ]
+  }, {
+    "tStartMs": 220760,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and less extrovert at work.\nUm, it might depend"
+    } ]
+  }, {
+    "tStartMs": 223400,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "on how confident you are with\nthe people that you're working with."
+    } ]
+  }, {
+    "tStartMs": 225880,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "And so we recognise that we all behave\ndifferently in different situations."
+    } ]
+  }, {
+    "tStartMs": 229920,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But interestingly, we don't tend to\nrecognise that as much in other people."
+    } ]
+  }, {
+    "tStartMs": 233200,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "We like giving other people labels\nand saying other people are like this,"
+    } ]
+  }, {
+    "tStartMs": 237040,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and we don't take\ninto account the situations for them\nin the way we do for ourselves."
+    } ]
+  }, {
+    "tStartMs": 240720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "The way I understand it is\nthat extroverts get energy"
+    } ]
+  }, {
+    "tStartMs": 242880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "from other people, whereas introverts\nget energy from themselves,"
+    } ]
+  }, {
+    "tStartMs": 245520,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and ambiverts are a little bit\nof of both."
+    } ]
+  }, {
+    "tStartMs": 247920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "And I definitely do get my energy\nfrom other people."
+    } ]
+  }, {
+    "tStartMs": 250720,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "What about\nMyers-Briggs personality types."
+    } ]
+  }, {
+    "tStartMs": 253560,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Yeah. So this is also sometimes known\nas the MBTI."
+    } ]
+  }, {
+    "tStartMs": 256440,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "And it categorises you into various\nthings introversion or extroversion,"
+    } ]
+  }, {
+    "tStartMs": 260480,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "sensing or intuition, thinking\nor feeling and judging or perceiving."
+    } ]
+  }, {
+    "tStartMs": 264360,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So it asks you lots and lots\nof questions about your preferences\nfor different situations."
+    } ]
+  }, {
+    "tStartMs": 268200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And this gives you\na four letter result."
+    } ]
+  }, {
+    "tStartMs": 270440,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "So you may be you could say\nI'm an INTJ person or an ESFP."
+    } ]
+  }, {
+    "tStartMs": 275760,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "They have all these letters for them.\nAnd there are 16 possible types"
+    } ]
+  }, {
+    "tStartMs": 279400,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "they feel tailor made to you,\nwhich makes it quite popular."
+    } ]
+  }, {
+    "tStartMs": 282040,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "It is popular with companies, but\na big review of lots of studies done"
+    } ]
+  }, {
+    "tStartMs": 286240,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "on it found that between a third\nand two thirds of people are put"
+    } ]
+  }, {
+    "tStartMs": 289840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "into different categories if they\nfill it in again on a different day."
+    } ]
+  }, {
+    "tStartMs": 292880,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "That's interesting."
+    } ]
+  }, {
+    "tStartMs": 293520,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So but when you look at the box,\nyou look at the box describing it,"
+    } ]
+  }, {
+    "tStartMs": 296480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "and it's almost like looking at,\num, you know,"
+    } ]
+  }, {
+    "tStartMs": 298720,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "astrological signs and it will say\nyou're like this or like this."
+    } ]
+  }, {
+    "tStartMs": 302240,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It's very tempting to then look\nat that box and think and recognis e"
+    } ]
+  }, {
+    "tStartMs": 304840,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "some things about yourself in there.\nI've done it twice."
+    } ]
+  }, {
+    "tStartMs": 307600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I've always got the same result,\nand I've been like, that's me."
+    } ]
+  }, {
+    "tStartMs": 310320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "But then I was like that when\nI saw the type A type B thing too."
+    } ]
+  }, {
+    "tStartMs": 312880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "So maybe it doesn't say that much\nabout me. Don't show me a horoscope."
+    } ]
+  }, {
+    "tStartMs": 316960,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "We are seeing these labels ever\nso much online."
+    } ]
+  }, {
+    "tStartMs": 320120,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "You know some\nof the videos that you mentioned."
+    } ]
+  }, {
+    "tStartMs": 322240,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "How did they become such a big part\nof online culture,"
+    } ]
+  }, {
+    "tStartMs": 324800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "especially for younger people,\nfor Gen Z?"
+    } ]
+  }, {
+    "tStartMs": 327120,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Well, I think in one way we like them\nbecause we want some certainty, and"
+    } ]
+  }, {
+    "tStartMs": 330800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "particularly in a world that feels very\nuncertain, it's a nice thing to have."
+    } ]
+  }, {
+    "tStartMs": 334240,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "You can put yourself into this box\nand decide, you know, this is what I am"
+    } ]
+  }, {
+    "tStartMs": 338600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and this can, you know, help\nyou to understand your own identity"
+    } ]
+  }, {
+    "tStartMs": 341600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and to understand yourself, which\nI think is fine if you think of it"
+    } ]
+  }, {
+    "tStartMs": 344800,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "as fun and not something\nthat's going to limit you"
+    } ]
+  }, {
+    "tStartMs": 347480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "into thinking, oh,\nwell, I must be introverted,"
+    } ]
+  }, {
+    "tStartMs": 350120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "therefore I can't do this job or\nthat job, that might not be the case."
+    } ]
+  }, {
+    "tStartMs": 352920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You might be brilliant\nat doing a particular job."
+    } ]
+  }, {
+    "tStartMs": 354920,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Claudia, when it comes\nto knowing our personality traits,"
+    } ]
+  }, {
+    "tStartMs": 358120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "how useful can it be for us in terms of\nknowing and understanding how we think"
+    } ]
+  }, {
+    "tStartMs": 362200,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and how other people think,\nand how we can relate to each other?"
+    } ]
+  }, {
+    "tStartMs": 365040,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "I mean, where it might be useful\nis to remind us"
+    } ]
+  }, {
+    "tStartMs": 367560,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "that everyone's different and\nthat different things are going on"
+    } ]
+  }, {
+    "tStartMs": 370080,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "for other people and not to expect,\nsay, friends or colleagues,"
+    } ]
+  }, {
+    "tStartMs": 373880,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "to react in the same way\nthat you would to things."
+    } ]
+  }, {
+    "tStartMs": 376560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "And this is where I think\nit can be useful is appreciating"
+    } ]
+  }, {
+    "tStartMs": 379520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "that everyone comes\nwith their own baggage. Everyone has."
+    } ]
+  }, {
+    "tStartMs": 383080,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "You never know what's going on\nfor people in their minds."
+    } ]
+  }, {
+    "tStartMs": 385440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So someone's, you know,\nrude to you at work."
+    } ]
+  }, {
+    "tStartMs": 388160,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "You could assume\nthat this is because they hate you,"
+    } ]
+  }, {
+    "tStartMs": 390280,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "or it could be that something else\nis going on at home in their lives,"
+    } ]
+  }, {
+    "tStartMs": 392640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and you've got no idea what that is.\nSo I think where it can be useful"
+    } ]
+  }, {
+    "tStartMs": 395640,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "is to help us to be a little more\ntolerant of the differences between us."
+    } ]
+  }, {
+    "tStartMs": 399800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Do you think that everyone\nshould know their personality types"
+    } ]
+  }, {
+    "tStartMs": 403560,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and styles and all of this stuff,\nor do you think"
+    } ]
+  }, {
+    "tStartMs": 406040,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "it's also absolutely fine not to care\nand not to hop on the trend?"
+    } ]
+  }, {
+    "tStartMs": 409640,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "I think it's fine not to."
+    } ]
+  }, {
+    "tStartMs": 410800,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And I think if you're going to,\nthen why use the things"
+    } ]
+  }, {
+    "tStartMs": 413240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "from 50 to 75 years ago\nwhen there are newer tools now?"
+    } ]
+  }, {
+    "tStartMs": 416240,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "So for example,\none of the most used tools now"
+    } ]
+  }, {
+    "tStartMs": 419320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "in psychological studies,\num, looks at how high you score"
+    } ]
+  }, {
+    "tStartMs": 423360,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "on things like conscientiousness\nand openness to new experience."
+    } ]
+  }, {
+    "tStartMs": 426560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And it's called the big.\nThey have the big five."
+    } ]
+  }, {
+    "tStartMs": 428840,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Um, and you look\nat where you score"
+    } ]
+  }, {
+    "tStartMs": 431200,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "on each of those traits\nand look for a mixture of those."
+    } ]
+  }, {
+    "tStartMs": 433560,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It hasn't, but it hasn't got\nthose black and white answers."
+    } ]
+  }, {
+    "tStartMs": 435840,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "So in one way, it's not as appealing."
+    } ]
+  }, {
+    "tStartMs": 437240,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And it's, you know,\nharder to make into a quick TikTok."
+    } ]
+  }, {
+    "tStartMs": 440120,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Um, because it's a bit\nmore complicated than that,"
+    } ]
+  }, {
+    "tStartMs": 442720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "but that's why it's more useful. And\nI think that can be really, you know,"
+    } ]
+  }, {
+    "tStartMs": 445320,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "that can be really interesting\nto fill in."
+    } ]
+  }, {
+    "tStartMs": 446720,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What are the big five?"
+    } ]
+  }, {
+    "tStartMs": 447720,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So they are openness to experience."
+    } ]
+  }, {
+    "tStartMs": 450080,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Um, that's a new experiences\nconscientiousness, extroversion,"
+    } ]
+  }, {
+    "tStartMs": 454280,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "agreeableness and neuroticism,"
+    } ]
+  }, {
+    "tStartMs": 456600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "which is kind of how worried you are\nif you like."
+    } ]
+  }, {
+    "tStartMs": 458760,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "So and they're all\neach of those is a continuum."
+    } ]
+  }, {
+    "tStartMs": 461200,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So you can score high or low on each\nof those and have a combination."
+    } ]
+  }, {
+    "tStartMs": 464120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "But it doesn't then give you one type\nat the end,"
+    } ]
+  }, {
+    "tStartMs": 466880,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "but it can tell you quite a bit\nabout all sorts of different things\nabout your personality."
+    } ]
+  }, {
+    "tStartMs": 470160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "So I think that something\nlike that is interesting to,"
+    } ]
+  }, {
+    "tStartMs": 472480,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "to help you know,\na little bit more about yourself."
+    } ]
+  }, {
+    "tStartMs": 474800,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Um, and then to maybe think, uh,"
+    } ]
+  }, {
+    "tStartMs": 476920,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "well, perhaps, I don't know\nif you score not very high"
+    } ]
+  }, {
+    "tStartMs": 479280,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "on openness to new experiences.\nMaybe you want to change that."
+    } ]
+  }, {
+    "tStartMs": 483640,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Maybe you want to deliberately seek\nout some new experiences"
+    } ]
+  }, {
+    "tStartMs": 486840,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and see what see what that's like.\nOut your comfort zone."
+    } ]
+  }, {
+    "tStartMs": 489600,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 490120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Yeah, well thank you, Claudia, I've\nlearned so much about myself today."
+    } ]
+  }, {
+    "tStartMs": 492920,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Thanks for having me on."
+    } ]
+  }, {
+    "tStartMs": 494120,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "As Claudia said, these labels are not\nnew, and they're not just online trends."
+    } ]
+  }, {
+    "tStartMs": 497960,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And we've been hearing from\nsome BBC reporters around the world"
+    } ]
+  }, {
+    "tStartMs": 500560,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "about the different labels\nthat are popular where they are."
+    } ]
+  }, {
+    "tStartMs": 502920,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I'll say MBTI has definitely been\na mega trend"
+    } ]
+  }, {
+    "tStartMs": 506000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "in South Korea that you cannot miss."
+    } ]
+  }, {
+    "tStartMs": 508600,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "At this point,\nasking someone's MBTI in Korea"
+    } ]
+  }, {
+    "tStartMs": 511680,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "is just starting\nanother small conversation,"
+    } ]
+  }, {
+    "tStartMs": 514360,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "like asking\nsome casual questions such as"
+    } ]
+  }, {
+    "tStartMs": 517320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "what's your major\nand where you come from."
+    } ]
+  }, {
+    "tStartMs": 519880,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Companies are all over it too."
+    } ]
+  }, {
+    "tStartMs": 522160,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "You'll easily see\nmarketing campaigns promoting"
+    } ]
+  }, {
+    "tStartMs": 525440,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and recommending products tailored\nto each MBTI type."
+    } ]
+  }, {
+    "tStartMs": 529040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But now there is\na new personality trend on the rise,"
+    } ]
+  }, {
+    "tStartMs": 532320,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "which is called Teto or Egen."
+    } ]
+  }, {
+    "tStartMs": 535080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "These are short for testosterone\nand estrogen."
+    } ]
+  }, {
+    "tStartMs": 538680,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "The Sex hormones and similar to MBTI,"
+    } ]
+  }, {
+    "tStartMs": 542240,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "you answer a short quiz\nto figure out which one you are."
+    } ]
+  }, {
+    "tStartMs": 545920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Um, if you come out\nas more Teto type person,"
+    } ]
+  }, {
+    "tStartMs": 548960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "it basically means you have traits\ntraditionally labeled as masculine,"
+    } ]
+  }, {
+    "tStartMs": 553680,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "such as, uh, like being assertive,\nindependent, or logical."
+    } ]
+  }, {
+    "tStartMs": 559440,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "If you're more Egen type person,"
+    } ]
+  }, {
+    "tStartMs": 561560,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "it means you have these traits\ntraditionally seen as feminine,"
+    } ]
+  }, {
+    "tStartMs": 566480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "such as being sensitive,\ncaring or artistic."
+    } ]
+  }, {
+    "tStartMs": 570000,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Nigeria has lots of ethnicities\nand tribes."
+    } ]
+  }, {
+    "tStartMs": 573520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "One of them is the Igbo tribe,\none of the major tribes."
+    } ]
+  }, {
+    "tStartMs": 576280,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I am Igbo.\nin Igbo culture,"
+    } ]
+  }, {
+    "tStartMs": 578840,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "we do not have seven days a week.\nWe have four market days now."
+    } ]
+  }, {
+    "tStartMs": 581800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "These market days are governed by\ndifferent deities and they are also."
+    } ]
+  }, {
+    "tStartMs": 585720,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "sort of signified by different elements.\nIf you're born on a specific market day,"
+    } ]
+  }, {
+    "tStartMs": 590320,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "it is seen that it affects\nhow you're going to behave."
+    } ]
+  }, {
+    "tStartMs": 592480,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And I'm going to break it down\nfor you now."
+    } ]
+  }, {
+    "tStartMs": 594840,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Eke, is the first market day seen\nas the most important."
+    } ]
+  }, {
+    "tStartMs": 597680,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "And this is, um,\nrepresented by the element of fire."
+    } ]
+  }, {
+    "tStartMs": 600880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "People born on these days\nare seen to be more fierce,"
+    } ]
+  }, {
+    "tStartMs": 604000,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "hot tempered, great leaders,"
+    } ]
+  }, {
+    "tStartMs": 606240,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "very strong and very brave,\num, risk takers."
+    } ]
+  }, {
+    "tStartMs": 609600,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Now, people born on Orie,\nthe Orie market day is seen as water."
+    } ]
+  }, {
+    "tStartMs": 614840,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "These people are a lot more calm,\neasy going,"
+    } ]
+  }, {
+    "tStartMs": 617600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "simple people just flowing\nlike water."
+    } ]
+  }, {
+    "tStartMs": 620200,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Non-problematic most times\nnon-confrontational,"
+    } ]
+  }, {
+    "tStartMs": 622840,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "but very good friends,\ngood listeners."
+    } ]
+  }, {
+    "tStartMs": 625760,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "The third market day is Afor."
+    } ]
+  }, {
+    "tStartMs": 628000,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Therefore market day\nis signified by Earth."
+    } ]
+  }, {
+    "tStartMs": 630320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "These people are seen\nto be very strong on the ground,"
+    } ]
+  }, {
+    "tStartMs": 633520,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "very reliable, very, um, trustworthy."
+    } ]
+  }, {
+    "tStartMs": 636880,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Just like the Earth is very strong\nand sturdy."
+    } ]
+  }, {
+    "tStartMs": 640080,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "These people also seem to be that way\nin character and or in behaviour."
+    } ]
+  }, {
+    "tStartMs": 643920,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "And lastly, it is the Nkwo,\nNkwo is signified by the Air."
+    } ]
+  }, {
+    "tStartMs": 649000,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "These people are\na lot more free spirited, talkative,"
+    } ]
+  }, {
+    "tStartMs": 651960,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "outgoing, just out there\nliving their life very freely."
+    } ]
+  }, {
+    "tStartMs": 654560,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "People born on this day\nare seen to be a lot more out there,"
+    } ]
+  }, {
+    "tStartMs": 658000,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and probably working\nin industries like entertainment"
+    } ]
+  }, {
+    "tStartMs": 661520,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "or other front facing, um,\nindustries."
+    } ]
+  }, {
+    "tStartMs": 664920,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Well, that's it from me."
+    } ]
+  }, {
+    "tStartMs": 665760,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "But if you enjoyed this episode,\nplease do like, share, subscribe."
+    } ]
+  }, {
+    "tStartMs": 669800,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "You can find plenty more right here\non the BBC World Service YouTube channel"
+    } ]
+  }, {
+    "tStartMs": 673280,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "or wherever you get\nyour BBC podcasts."
+    } ]
+  }, {
+    "tStartMs": 675560,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And while you're here,\nplease drop us a comment below"
+    } ]
+  }, {
+    "tStartMs": 678040,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "because I want\nto know are you a type A?"
+    } ]
+  }, {
+    "tStartMs": 680320,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Are you a type B, or do you just feel\nthat none of this applies to you?"
+    } ]
+  }, {
+    "tStartMs": 683400,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Please let us know your thoughts.\nWe love hearing from you guys."
+    } ]
+  }, {
+    "tStartMs": 686640,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "I'm Hannah. This is What in the World\nfrom the BBC World Service\nand we'll see you next time."
+    } ]
+  } ]
+}

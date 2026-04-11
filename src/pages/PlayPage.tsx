@@ -2,7 +2,7 @@ import { useEffect, useRef, useState, useCallback } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import ReactPlayer from 'react-player';
 import { Brain, StickyNote, Plus, Trash2, ChevronRight, Subtitles, SkipBack, SkipForward, Repeat } from 'lucide-react';
-import { parseJSON3, findActiveCue, groupCuesIntoParagraphs } from '@/utils/captionParser';
+import { parseJSON3, findActiveCue, groupCuesIntoParagraphs, fetchCaptionData } from '@/utils/captionParser';
 import type { CaptionCue } from '@/utils/captionParser';
 import { maskText } from '@/utils/quizWord';
 import { useAuth } from '@/context/AuthContext';
@@ -119,23 +119,11 @@ export default function PlayPage() {
 
   useEffect(() => {
     async function loadCaptions() {
-      const base = import.meta.env.BASE_URL;
-      const paths = [`${base}captions/${videoId}.json`];
-      for (const path of paths) {
-        try {
-          const r = await fetch(path);
-          if (!r.ok) continue;
-          const data = await r.json();
-
-          const result = parseJSON3(data);
-          if (result.cues.length > 0) {
-            setCues(result.cues);
-            return;
-          }
-        } catch {
-          continue;
-        }
-      }
+      if (!videoId) return;
+      const data = await fetchCaptionData(videoId);
+      if (!data) return;
+      const result = parseJSON3(data);
+      if (result.cues.length > 0) setCues(result.cues);
     }
     loadCaptions().catch(console.error);
   }, [videoId]);

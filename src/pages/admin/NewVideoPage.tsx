@@ -4,7 +4,7 @@ import { Loader2, Video, CheckCircle2, AlertCircle, ChevronRight, Play, Plus, Ch
 import { extractVideoId } from '@/services/youtubeSubtitles';
 import { loadPlaylists, savePlaylist } from '@/services/playlists';
 import { saveVideo, loadVideos } from '@/services/videos';
-import { parseJSON3 } from '@/utils/captionParser';
+import { parseJSON3, fetchCaptionData } from '@/utils/captionParser';
 import { indexVideoWords, getIndexedVideoIds } from '@/services/vocabulary';
 import type { Playlist, VideoMeta } from '@/types';
 
@@ -57,7 +57,7 @@ export default function NewVideoPage() {
 
     try {
       const [res, existingVideos, pls] = await Promise.all([
-        fetch(`/youtube-proxy/oembed?url=${encodeURIComponent(`https://www.youtube.com/watch?v=${videoId}`)}&format=json`),
+        fetch(`${import.meta.env.DEV ? '/youtube-proxy' : 'https://www.youtube.com'}/oembed?url=${encodeURIComponent(`https://www.youtube.com/watch?v=${videoId}`)}&format=json`),
         loadVideos(),
         loadPlaylists(''),
       ]);
@@ -76,8 +76,10 @@ export default function NewVideoPage() {
         thumbnailUrl: `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`,
         addedAt: new Date().toISOString(),
       });
-      // Sort newest-first by createdAt, auto-select the newest one
-      const sorted = [...pls].sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+      // Sort newest-first by createdAt, keep only the 5 most recent, auto-select the newest
+      const sorted = [...pls]
+        .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
+        .slice(0, 5);
       setPlaylists(sorted);
       setSelectedPlaylistIds(sorted.length > 0 ? new Set([sorted[0].id]) : new Set());
       setCreatingPlaylist(false);
@@ -123,22 +125,9 @@ export default function NewVideoPage() {
     setError(null);
     setStep('saving');
 
-    const base = import.meta.env.BASE_URL;
     try {
       // 1. Fetch + validate captions first (required)
-      const captionPaths = [`${base}captions/${meta.videoId}.json`];
-      let captions: unknown = null;
-      for (const path of captionPaths) {
-        try {
-          const res = await fetch(path);
-          if (res.ok) {
-            captions = await res.json();
-            break;
-          }
-        } catch {
-          /* try next */
-        }
-      }
+      const captions = await fetchCaptionData(meta.videoId);
       if (!captions) throw new Error(`Không tìm thấy caption cho video này. Vui lòng thêm file public/captions/${meta.videoId}.json trước.`);
       const { cues } = parseJSON3(captions);
       if (cues.length === 0) throw new Error('File captions.json rỗng hoặc không hợp lệ.');
@@ -415,7 +404,6 @@ function ReindexSection() {
   const [indexingAll, setIndexingAll] = useState(false);
   const [indexingId, setIndexingId] = useState<string | null>(null);
   const [progress, setProgress] = useState({ done: 0, total: 0 });
-  const base = import.meta.env.BASE_URL;
 
   async function loadUnindexed() {
     setLoading(true);
@@ -434,21 +422,16 @@ function ReindexSection() {
   useEffect(() => { void loadUnindexed(); }, []);
 
   async function indexOne(video: VideoMeta): Promise<boolean> {
-    const paths = [`${base}captions/${video.videoId}.json`];
-    for (const path of paths) {
-      try {
-        const res = await fetch(path);
-        if (!res.ok) continue;
-        const data = await res.json();
-        const { cues } = parseJSON3(data);
-        if (cues.length === 0) continue;
-        await indexVideoWords(video.videoId, extractWords(cues));
-        return true;
-      } catch {
-        continue;
-      }
+    try {
+      const data = await fetchCaptionData(video.videoId);
+      if (!data) return false;
+      const { cues } = parseJSON3(data);
+      if (cues.length === 0) return false;
+      await indexVideoWords(video.videoId, extractWords(cues));
+      return true;
+    } catch {
+      return false;
     }
-    return false;
   }
 
   async function handleIndexOne(video: VideoMeta) {

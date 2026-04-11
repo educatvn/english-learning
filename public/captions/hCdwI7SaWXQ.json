@@ -1,0 +1,1477 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 120,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Look at the fairy tales we learn as\nkids. Rumpelstiltskin making that gold."
+    } ]
+  }, {
+    "tStartMs": 3560,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Pirates with their booty.\nThere is this kind of obsession"
+    } ]
+  }, {
+    "tStartMs": 7240,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "with gold as something\nthat you need to have to possess."
+    } ]
+  }, {
+    "tStartMs": 10440,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "In India, gold accounts\nfor about $3.8 trillion,"
+    } ]
+  }, {
+    "tStartMs": 15280,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "which is effectively the size\nof the entire Indian economy."
+    } ]
+  }, {
+    "tStartMs": 18480,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "What's going on\nwith the price of gold?"
+    } ]
+  }, {
+    "tStartMs": 21000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "We're talking\nabout the precious yellow metal"
+    } ]
+  }, {
+    "tStartMs": 23280,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "that's important to lots of\ndifferent cultures around the world."
+    } ]
+  }, {
+    "tStartMs": 26200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "For example, in China,\nit's a big part of Chinese New Year."
+    } ]
+  }, {
+    "tStartMs": 29600,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "In India, it's gold. Gold gifts are\ngiven as part of wedding traditions."
+    } ]
+  }, {
+    "tStartMs": 33680,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And let's be real,\nwe've all had those dreams"
+    } ]
+  }, {
+    "tStartMs": 35680,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "of getting our hands\non some gold jewellery."
+    } ]
+  }, {
+    "tStartMs": 37880,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Gold mining, that's the process\nto extract gold from the Earth"
+    } ]
+  }, {
+    "tStartMs": 41960,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "is a global industry with operations\non every continent except Antarctica."
+    } ]
+  }, {
+    "tStartMs": 47240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "It can take ten to 20 years before\na Gold Mine is ready for production."
+    } ]
+  }, {
+    "tStartMs": 51480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's been a crazy year which has seen\ngold prices go up and up."
+    } ]
+  }, {
+    "tStartMs": 55480,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Those records keep being broken.\nSo in this episode,"
+    } ]
+  }, {
+    "tStartMs": 58680,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "we're going to find out what's behind\nit all and why you should care."
+    } ]
+  }, {
+    "tStartMs": 61680,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I'm Iqra, and this is What in\nthe World from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 69080,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So let's break this down\na little bit more."
+    } ]
+  }, {
+    "tStartMs": 71000,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "We've got William from the What\nin the World team right here with me."
+    } ]
+  }, {
+    "tStartMs": 74320,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Hey, William.\nHey Iqra."
+    } ]
+  }, {
+    "tStartMs": 75800,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So, William, when people say\nbuy gold, what do we mean by that?"
+    } ]
+  }, {
+    "tStartMs": 79560,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "What are they buying?"
+    } ]
+  }, {
+    "tStartMs": 81160,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Buying gold is really shorthand\nfor a few things."
+    } ]
+  }, {
+    "tStartMs": 84400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "The first is physical gold.\nSo this is things like gold bars"
+    } ]
+  }, {
+    "tStartMs": 88240,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "or gold coins, which are typically\nbought by investors or banks."
+    } ]
+  }, {
+    "tStartMs": 92680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Jewellery is another form\nof physical gold."
+    } ]
+  }, {
+    "tStartMs": 95560,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "But when you buy jewellery\nin the shop, there's a retail markup."
+    } ]
+  }, {
+    "tStartMs": 98720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You're also paying for craftsmanship."
+    } ]
+  }, {
+    "tStartMs": 100720,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And if you resell that jewellery, you're\nnot going to get as much money back."
+    } ]
+  }, {
+    "tStartMs": 104040,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So it's not seen\nas as good of an investment."
+    } ]
+  }, {
+    "tStartMs": 106800,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "The next category is financial gold."
+    } ]
+  }, {
+    "tStartMs": 109680,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And this has been really crucial\nin recent years"
+    } ]
+  }, {
+    "tStartMs": 111960,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "in driving up the price of gold.\nBasically, if you have money,"
+    } ]
+  }, {
+    "tStartMs": 115600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "you can invest in something called\nan exchange traded fund."
+    } ]
+  }, {
+    "tStartMs": 118880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So some investor owns\na bunch of gold."
+    } ]
+  }, {
+    "tStartMs": 121520,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "He's got gold bars.\nAnd you've contributed to the pot."
+    } ]
+  }, {
+    "tStartMs": 124440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "So you own a percentage\nof their gold."
+    } ]
+  }, {
+    "tStartMs": 127160,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And as the price goes up, the value\nof what you own also goes up."
+    } ]
+  }, {
+    "tStartMs": 130720,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "And then lastly, you can buy gold\nindirectly through the stock market."
+    } ]
+  }, {
+    "tStartMs": 134680,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "You might invest in a mining company\nfor instance."
+    } ]
+  }, {
+    "tStartMs": 137480,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So you're essentially saying\nI'm investing in that company because"
+    } ]
+  }, {
+    "tStartMs": 140360,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "they're going to make huge profits as\nthey extract more gold and sell it."
+    } ]
+  }, {
+    "tStartMs": 143520,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And so, William, I was doing\nmy research before we sat down"
+    } ]
+  }, {
+    "tStartMs": 146280,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "and I was looking at the gold prices.\nI saw two different prices out there."
+    } ]
+  }, {
+    "tStartMs": 150960,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So the price for spot gold\nand the price for gold bullion."
+    } ]
+  }, {
+    "tStartMs": 155160,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "What's the difference?\nClear that up for us."
+    } ]
+  }, {
+    "tStartMs": 157080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Right. So spot gold is really\njust a reference price."
+    } ]
+  }, {
+    "tStartMs": 160600,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So if you open an investing app and\nyou're like"
+    } ]
+  }, {
+    "tStartMs": 162960,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "how much does gold cost today?\nWhat can I get it on the spot?"
+    } ]
+  }, {
+    "tStartMs": 165920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "It's a market value.\nThat's what spot gold is."
+    } ]
+  }, {
+    "tStartMs": 168720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Bullion, bullion gold - that refers\nto the gold bars, to the coins."
+    } ]
+  }, {
+    "tStartMs": 172720,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And it's always going to be higher\nthan the spot price"
+    } ]
+  }, {
+    "tStartMs": 175040,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "because it reflects the spot price,\nplus the cost of turning raw gold"
+    } ]
+  }, {
+    "tStartMs": 180000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "into something\nyou can physically touch or hold."
+    } ]
+  }, {
+    "tStartMs": 182880,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "So the manufacturing, the refining,\nthe shipping, the storing,"
+    } ]
+  }, {
+    "tStartMs": 186600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "the insurance,\nall that adds to the price."
+    } ]
+  }, {
+    "tStartMs": 189200,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "A gold coin is always going to cost\nmore per ounce than the spot price."
+    } ]
+  }, {
+    "tStartMs": 193920,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And of course, one of the main\nreasons we're talking about this,"
+    } ]
+  }, {
+    "tStartMs": 196400,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "it's been a bit of a crazy year and\nmore than a year for gold as well."
+    } ]
+  }, {
+    "tStartMs": 200440,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Why have the prices kept jumping up\nto record levels?"
+    } ]
+  }, {
+    "tStartMs": 204360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So in short, the world feels\nreally uncertain right now."
+    } ]
+  }, {
+    "tStartMs": 207920,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "If you look at recent events\nand ongoing events,"
+    } ]
+  }, {
+    "tStartMs": 210800,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "you'll see that stability\n- people don't feel so stable."
+    } ]
+  }, {
+    "tStartMs": 214160,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "So in January, gold hit\na record price above $5000 an ounce."
+    } ]
+  }, {
+    "tStartMs": 219920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "That was up 80% from a year earlier\nwhen it was around $2800."
+    } ]
+  }, {
+    "tStartMs": 224480,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So during uncertain moments,\npeople, investors, even banks,"
+    } ]
+  }, {
+    "tStartMs": 228920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "they turn to gold as a safe haven,\nsomething secure."
+    } ]
+  }, {
+    "tStartMs": 232440,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And so you mentioned that phrase\nsafe haven investment."
+    } ]
+  }, {
+    "tStartMs": 235760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "I see it a lot when we're referring\nto gold. Why is that?"
+    } ]
+  }, {
+    "tStartMs": 239240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "When people say safe haven,"
+    } ]
+  }, {
+    "tStartMs": 241360,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "they're just talking about\na safe asset during chaotic times."
+    } ]
+  }, {
+    "tStartMs": 246160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The fact is,\ngold has intrinsic value."
+    } ]
+  }, {
+    "tStartMs": 248560,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "It's worth something on its own."
+    } ]
+  }, {
+    "tStartMs": 250920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Look at the fairy tales we learn as\nkids. Rumpelstiltskin making that gold."
+    } ]
+  }, {
+    "tStartMs": 254440,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Pirates with their booty.\nThere is this kind of obsession"
+    } ]
+  }, {
+    "tStartMs": 258120,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "with gold as something that you need\nto have to possess, you know,"
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "to have power, to be wealthy.\nCash is different."
+    } ]
+  }, {
+    "tStartMs": 265240,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Our system that we operate in\nsays money has value."
+    } ]
+  }, {
+    "tStartMs": 269520,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "And for decades, the dollar\nhas sort of been the safeguard"
+    } ]
+  }, {
+    "tStartMs": 273320,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "or the strongest iteration\nof that system."
+    } ]
+  }, {
+    "tStartMs": 275760,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Governments all over the world have said\nif you have a dollar, you're safe,"
+    } ]
+  }, {
+    "tStartMs": 278760,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "because that's the standard.\nBut as we'll see, that's changing."
+    } ]
+  }, {
+    "tStartMs": 281880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Gold is scarce.\nIt's a finite resource."
+    } ]
+  }, {
+    "tStartMs": 284440,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "You can't make more of it.\nSo it's always going to have value."
+    } ]
+  }, {
+    "tStartMs": 287600,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Yeah that makes sense.\nAnd so talking"
+    } ]
+  }, {
+    "tStartMs": 290040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "about the prices surging now,\nwhy are we seeing that happening now?"
+    } ]
+  }, {
+    "tStartMs": 294440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "There's a lot of\ngeopolitical uncertainty right now."
+    } ]
+  }, {
+    "tStartMs": 297560,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And specifically I'd point to\nunpredictable American trade policy."
+    } ]
+  }, {
+    "tStartMs": 301880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "If we look back to April of 2025,"
+    } ]
+  }, {
+    "tStartMs": 304320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "this is when Trump introduced\nhis Liberation Day Tariffs."
+    } ]
+  }, {
+    "tStartMs": 307640,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Essentially, he was taxing goods\nimported from foreign countries,"
+    } ]
+  }, {
+    "tStartMs": 311120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "which made those items more expensive\nfor consumers,"
+    } ]
+  }, {
+    "tStartMs": 313880,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "for shoppers in the US, that made them\nless likely to buy those foreign goods."
+    } ]
+  }, {
+    "tStartMs": 318600,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And that sent financial markets\ninto a tailspin"
+    } ]
+  }, {
+    "tStartMs": 321280,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and created a lot of uncertainty."
+    } ]
+  }, {
+    "tStartMs": 323400,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "And it just created an environment\nwhere people said, whoa, what is stable?"
+    } ]
+  }, {
+    "tStartMs": 327440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Gold. Gold is stable.\nAnd there have been"
+    } ]
+  }, {
+    "tStartMs": 330160,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "so many other examples\nof the geopolitical instability."
+    } ]
+  }, {
+    "tStartMs": 333520,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I actually made a list\nbefore we sat down."
+    } ]
+  }, {
+    "tStartMs": 335680,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "You can look at the fresh tensions\nbetween the US, Canada and China,"
+    } ]
+  }, {
+    "tStartMs": 339040,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "unease around the Middle East, risks of\nthe government shutdown in Washington,"
+    } ]
+  }, {
+    "tStartMs": 343160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "the United States seizing\nVenezuelan President Nicolas Maduro"
+    } ]
+  }, {
+    "tStartMs": 346600,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and Trump's desire\nto purchase Greenland,"
+    } ]
+  }, {
+    "tStartMs": 349440,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "which Greenlanders have\nconsistently said is not for sale."
+    } ]
+  }, {
+    "tStartMs": 351920,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Another factor\nbehind the price rise of gold"
+    } ]
+  }, {
+    "tStartMs": 354280,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "is central banks around the world\nbuying more gold bars."
+    } ]
+  }, {
+    "tStartMs": 358480,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "So basically, a central bank kind of\nruns the monetary policy of a country."
+    } ]
+  }, {
+    "tStartMs": 362120,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "They can print money, do other tasks\nrelated to money and currency."
+    } ]
+  }, {
+    "tStartMs": 366960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And a lot of countries are saying\nwe need to diversify our portfolios."
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "We can't be reliant\non just having US dollars,"
+    } ]
+  }, {
+    "tStartMs": 374480,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "you know, reserved\nin banks around the world."
+    } ]
+  }, {
+    "tStartMs": 377240,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "A lot of this relates to Russia's\ninvasion, full scale invasion"
+    } ]
+  }, {
+    "tStartMs": 380400,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "of Ukraine, back in February 2022."
+    } ]
+  }, {
+    "tStartMs": 382600,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "As punishment for that,\na lot of countries said"
+    } ]
+  }, {
+    "tStartMs": 384960,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "we're going to freeze Russian assets."
+    } ]
+  }, {
+    "tStartMs": 387200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So the Russian government had money,\nyou know, much of it"
+    } ]
+  }, {
+    "tStartMs": 390200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "in US dollars,\nin banks around the world."
+    } ]
+  }, {
+    "tStartMs": 393160,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "And so as punishment,\ncountries - United States,"
+    } ]
+  }, {
+    "tStartMs": 396480,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "countries in the European Union,\nthey froze these assets"
+    } ]
+  }, {
+    "tStartMs": 399520,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "so Russia could no longer access\nits US dollars abroad and"
+    } ]
+  }, {
+    "tStartMs": 402640,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "other foreign currencies. So that was\na wake up call to a lot of countries."
+    } ]
+  }, {
+    "tStartMs": 405680,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "They said, whoa, we need\nto maybe diversify our portfolio."
+    } ]
+  }, {
+    "tStartMs": 409240,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And of course, you have other\ncountries who just want to diversify"
+    } ]
+  }, {
+    "tStartMs": 411720,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "their portfolios more generally,\nprotect their downside."
+    } ]
+  }, {
+    "tStartMs": 415400,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Poland, China, Turkey, India."
+    } ]
+  }, {
+    "tStartMs": 417880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Central banks and these countries have\nall been making a run for gold bars."
+    } ]
+  }, {
+    "tStartMs": 421000,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Another issue is inflation."
+    } ]
+  }, {
+    "tStartMs": 422440,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "As we know, prices have been rising\naround the world."
+    } ]
+  }, {
+    "tStartMs": 425000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So the cash in your pocket,\nit's not worth as much"
+    } ]
+  }, {
+    "tStartMs": 427800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "today as it was a year ago."
+    } ]
+  }, {
+    "tStartMs": 430000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Whereas gold,\nbecause gold is finite and scarce,"
+    } ]
+  }, {
+    "tStartMs": 432160,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "people say this is\na better store of value."
+    } ]
+  }, {
+    "tStartMs": 434720,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And then lastly, you sort of just\nhave to put all of this together."
+    } ]
+  }, {
+    "tStartMs": 438120,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "It's very clear that\ndemand is rising faster than supply."
+    } ]
+  }, {
+    "tStartMs": 442040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But gold is not like a shoe.\nIt's not like a phone."
+    } ]
+  }, {
+    "tStartMs": 445160,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "If demand goes up, you\ncan't just make more of it, right?"
+    } ]
+  }, {
+    "tStartMs": 448200,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And so that's sort of built\ninto the price rise as well."
+    } ]
+  }, {
+    "tStartMs": 450880,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "I can't lie."
+    } ]
+  }, {
+    "tStartMs": 451640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "I've had this image of gold jewellery\nin my head all throughout this chat."
+    } ]
+  }, {
+    "tStartMs": 456120,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "We mentioned it a little bit earlier.\nPeople all across the world buy gold."
+    } ]
+  }, {
+    "tStartMs": 460000,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Save gold. Which countries\nthough buy the most gold and why?"
+    } ]
+  }, {
+    "tStartMs": 465400,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So China and India are far and away\nthe biggest consumers of gold."
+    } ]
+  }, {
+    "tStartMs": 470680,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Together they account for\nabout 50% of global gold sales."
+    } ]
+  }, {
+    "tStartMs": 475120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "And actually,\nwhy don't we talk about India first?"
+    } ]
+  }, {
+    "tStartMs": 477880,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I spoke to someone about this."
+    } ]
+  }, {
+    "tStartMs": 479680,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So an interesting fact is that\nin India, gold accounts"
+    } ]
+  }, {
+    "tStartMs": 483800,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "for about $3.8 trillion,\nwhich as for some US banks, is"
+    } ]
+  }, {
+    "tStartMs": 488520,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "about 90% of our GDP, which means\nour gross domestic product,"
+    } ]
+  }, {
+    "tStartMs": 492840,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "which is effectively the size\nof the entire Indian economy."
+    } ]
+  }, {
+    "tStartMs": 495840,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So about 88 to 90% of that,"
+    } ]
+  }, {
+    "tStartMs": 499760,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "the amount is as much gold as we hold\nin our houses, household gold."
+    } ]
+  }, {
+    "tStartMs": 504960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Weddings are a big part\nof what fuels our demand for gold."
+    } ]
+  }, {
+    "tStartMs": 508240,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And so it's very, very common,"
+    } ]
+  }, {
+    "tStartMs": 510560,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "in Hindu cultures\nand in other religious cultures,"
+    } ]
+  }, {
+    "tStartMs": 513120,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "to be gifting and buying gold\nwhen someone is getting married."
+    } ]
+  }, {
+    "tStartMs": 516520,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And you might give a bride,\na set what is called"
+    } ]
+  }, {
+    "tStartMs": 519960,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "like a set of a necklace\nand some earrings you could add in,"
+    } ]
+  }, {
+    "tStartMs": 523160,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "like a nose accessory.\nSomething for the forehead."
+    } ]
+  }, {
+    "tStartMs": 525800,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "You could add bangles.\nThat's, of course, a big deal."
+    } ]
+  }, {
+    "tStartMs": 528440,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "And for the groom's side,\nyou could do, like, coins."
+    } ]
+  }, {
+    "tStartMs": 530280,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "You could do other kinds of gifting\nof gold. Other than that,"
+    } ]
+  }, {
+    "tStartMs": 534840,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "gold is also considered auspicious,\nespecially around Diwali time."
+    } ]
+  }, {
+    "tStartMs": 538360,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And there's a specific festival,\nwhich is called Dhanteras,"
+    } ]
+  }, {
+    "tStartMs": 541280,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "which comes in the run up to Diwali\na few days before Diwali, which is meant"
+    } ]
+  }, {
+    "tStartMs": 545080,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "for people to buy precious metals,\nespecially silver and gold."
+    } ]
+  }, {
+    "tStartMs": 548640,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So those days jewellers stay open\ntill, say, ten p.m."
+    } ]
+  }, {
+    "tStartMs": 551560,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "at night, thousands\nof people across the country go"
+    } ]
+  }, {
+    "tStartMs": 553960,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "and buy silver and gold because\nit's believed to bring good luck."
+    } ]
+  }, {
+    "tStartMs": 558040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "And then the third would be obviously\ngold as like a safe keep, gold"
+    } ]
+  }, {
+    "tStartMs": 562920,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "as a hedge against bad times,\ngold as an investment."
+    } ]
+  }, {
+    "tStartMs": 566960,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So a lot of families have grown up\nwith the thinking"
+    } ]
+  }, {
+    "tStartMs": 570240,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "that - buy gold when you have\nextra cash on hand, buy gold."
+    } ]
+  }, {
+    "tStartMs": 574480,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "It's more reliable\nthan maybe investing your money"
+    } ]
+  }, {
+    "tStartMs": 577640,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "in a stock market,\nwhich is not tangible."
+    } ]
+  }, {
+    "tStartMs": 579680,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And so a lot of people grow up\nwith that mindset."
+    } ]
+  }, {
+    "tStartMs": 581760,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So we know gold is very expensive\nright now."
+    } ]
+  }, {
+    "tStartMs": 584760,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Do you think that's putting people\noff from buying it?"
+    } ]
+  }, {
+    "tStartMs": 587680,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Actually, jewellers\nin the markets I spoke to"
+    } ]
+  }, {
+    "tStartMs": 589880,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "in Delhi told me\nthat it was the opposite."
+    } ]
+  }, {
+    "tStartMs": 591960,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "One, that people were buying\nmore gold when prices were rising,"
+    } ]
+  }, {
+    "tStartMs": 595160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "thinking that it will continue to\nrise so it becomes a good investment."
+    } ]
+  }, {
+    "tStartMs": 598600,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And the other thing was the way in which\nthey were buying gold was changing."
+    } ]
+  }, {
+    "tStartMs": 601640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "For instance,\ngold as an investment grew and gold"
+    } ]
+  }, {
+    "tStartMs": 605280,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "as jewellery\nor pure accessories dropped."
+    } ]
+  }, {
+    "tStartMs": 607760,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "And so that reflected basically that\npeople were feeling that insecurity"
+    } ]
+  }, {
+    "tStartMs": 612880,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "that prices might rise further.\nLet's bank in on this when we can."
+    } ]
+  }, {
+    "tStartMs": 618080,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "For instance, last year we saw that\ntypically gold as investment accounts"
+    } ]
+  }, {
+    "tStartMs": 623080,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "for 25% of gold purchasing in India."
+    } ]
+  }, {
+    "tStartMs": 625280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "But last year it was as high as 40%,\nwhich meant that"
+    } ]
+  }, {
+    "tStartMs": 628640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "the proportion of gold as jewellery\nversus gold as investment changed,"
+    } ]
+  }, {
+    "tStartMs": 632880,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "but the interest\nin gold still remained high."
+    } ]
+  }, {
+    "tStartMs": 635560,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "It's a similar story in China,"
+    } ]
+  }, {
+    "tStartMs": 637800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "where gold really is woven into\nthe social fabric of the country."
+    } ]
+  }, {
+    "tStartMs": 641400,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "It's associated with prosperity,\nwith good fortune."
+    } ]
+  }, {
+    "tStartMs": 645040,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "During the Chinese Lunar New Year, you\nknow, it's normal to buy people gold."
+    } ]
+  }, {
+    "tStartMs": 649400,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "You buy people gold for their weddings,\nfor births, for other major life events."
+    } ]
+  }, {
+    "tStartMs": 653480,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "There's actually\na famous idiom in China."
+    } ]
+  }, {
+    "tStartMs": 656040,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "People say jade during prosperous\ntimes, gold during tough times."
+    } ]
+  }, {
+    "tStartMs": 660760,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So you could see that in Chinese\nculture, gold is really viewed"
+    } ]
+  }, {
+    "tStartMs": 663920,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "as a safe haven asset.\nAnd we should say that"
+    } ]
+  }, {
+    "tStartMs": 666640,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "the current spike in gold prices has\nreally impacted consumer behaviour."
+    } ]
+  }, {
+    "tStartMs": 670800,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "We're seeing a shift away\nfrom people purchasing jewellery"
+    } ]
+  }, {
+    "tStartMs": 674320,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and an uptick in people buying gold\nfor investment."
+    } ]
+  }, {
+    "tStartMs": 677040,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So those gold bars, which you keep in\na safe rather than around your neck."
+    } ]
+  }, {
+    "tStartMs": 680200,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "I just want\nto share some numbers with you."
+    } ]
+  }, {
+    "tStartMs": 681920,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "In China, sales of gold jewellery\nfell by more than 30% in 2025."
+    } ]
+  }, {
+    "tStartMs": 686840,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "But by contrast, the purchase\nof gold bars, investment gold,"
+    } ]
+  }, {
+    "tStartMs": 690680,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "that that went up 35%."
+    } ]
+  }, {
+    "tStartMs": 693000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Okay, so we've been\non a bit of a journey with gold."
+    } ]
+  }, {
+    "tStartMs": 695800,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "You've told us all about it\nthroughout this episode."
+    } ]
+  }, {
+    "tStartMs": 698560,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "But William, what's next for gold?"
+    } ]
+  }, {
+    "tStartMs": 701400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Ooh, that's a big question.\nI think two things jump out."
+    } ]
+  }, {
+    "tStartMs": 705320,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "One, and this may sound\nincredibly simple,"
+    } ]
+  }, {
+    "tStartMs": 708160,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "we will continue\nto be fascinated by gold."
+    } ]
+  }, {
+    "tStartMs": 710600,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "The fact is we have as people, been\nfascinated with gold for millennia."
+    } ]
+  }, {
+    "tStartMs": 714640,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "If you look at the ancient Incans, they\nsaid that gold was tears of the sun."
+    } ]
+  }, {
+    "tStartMs": 719320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "It had a divine power in Egypt,\ngold was the skin of the gods."
+    } ]
+  }, {
+    "tStartMs": 723720,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "You know, we imbue it\nwith all this importance."
+    } ]
+  }, {
+    "tStartMs": 726880,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "That's not going to go away.\nWhether it's your wedding day,"
+    } ]
+  }, {
+    "tStartMs": 729480,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "whether it's, I don't know,\na kid's christening."
+    } ]
+  }, {
+    "tStartMs": 731840,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Gold is always going to play a role\nin a lot of countries social fabric,"
+    } ]
+  }, {
+    "tStartMs": 735560,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "in their day to day lives."
+    } ]
+  }, {
+    "tStartMs": 736680,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "That inherent fascination with gold\nmeans it will always have value."
+    } ]
+  }, {
+    "tStartMs": 740000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "However, I think looking forward, the\nvalue is always going to fluctuate,"
+    } ]
+  }, {
+    "tStartMs": 742920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "at least the market value, because\nwe're living in uncertain times."
+    } ]
+  }, {
+    "tStartMs": 745960,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "William, thank you so much\nfor all that golden knowledge."
+    } ]
+  }, {
+    "tStartMs": 748520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "See what I did there?\nGo for gold Iqra! Thank you. Thank you."
+    } ]
+  }, {
+    "tStartMs": 752040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "All right.\nWe're almost out of time for today."
+    } ]
+  }, {
+    "tStartMs": 754040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "But before I leave,\nyou guys, I wanted to read out some"
+    } ]
+  }, {
+    "tStartMs": 756280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "of the comments you have been leaving\non our YouTube video."
+    } ]
+  }, {
+    "tStartMs": 759280,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "It's all about how to deal\nwith stress. Dogan says,"
+    } ]
+  }, {
+    "tStartMs": 762080,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I'm 24 years old\nand I've deleted all social media"
+    } ]
+  }, {
+    "tStartMs": 765480,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "due to excessive doomscrolling.\nI just feel emotionally overwhelmed."
+    } ]
+  }, {
+    "tStartMs": 769600,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I think the reasons\nwhy so many people feel this way"
+    } ]
+  }, {
+    "tStartMs": 772280,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "is because social media causes\nbrain rot."
+    } ]
+  }, {
+    "tStartMs": 774720,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So thank you for that one,\nDogan. I notice"
+    } ]
+  }, {
+    "tStartMs": 776920,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "there's a few people mentioning they've\nquit social media in the comments"
+    } ]
+  }, {
+    "tStartMs": 779760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "to help with their mental health.\nSo keep the comments coming guys."
+    } ]
+  }, {
+    "tStartMs": 782520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Remember you can comment below\nand DM us on Instagram"
+    } ]
+  }, {
+    "tStartMs": 785520,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "at any time @bbcwhatintheworld\nover there."
+    } ]
+  }, {
+    "tStartMs": 787960,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "But for now, I'm Iqra,\nthis is What in the World"
+    } ]
+  }, {
+    "tStartMs": 790640,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "from the BBC World Service\nand I'll see you next time. Bye."
+    } ]
+  } ]
+}

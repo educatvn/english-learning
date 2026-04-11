@@ -2,7 +2,7 @@ import { useEffect, useState, useMemo, useRef, useCallback } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import {
   ArrowLeft, Check, Target, Flame, Calendar,
-  TrendingUp, Trophy,
+  TrendingUp, Trophy, Play,
 } from 'lucide-react'
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
@@ -155,8 +155,36 @@ export default function PlanDashboardPage() {
   const [saveStatus, setSaveStatus] = useState<'idle' | 'saving' | 'saved' | 'error'>('idle')
   const [statusDialog, setStatusDialog] = useState<'activate' | 'pause' | null>(null)
   const [noteDialogDate, setNoteDialogDate] = useState<string | null>(null)
+  const [inProgressItemId, setInProgressItemId] = useState<string | null>(null)
 
   const today = todayStr()
+  const inProgressKey = `plan_inprogress:${planId ?? ''}:${today}`
+
+  // Load / persist the current in-progress task (per plan, per day) in localStorage
+  useEffect(() => {
+    if (!planId) return
+    try {
+      setInProgressItemId(localStorage.getItem(inProgressKey))
+    } catch {
+      setInProgressItemId(null)
+    }
+  }, [inProgressKey, planId])
+
+  function toggleInProgress(itemId: string) {
+    if (!plan || plan.status !== 'active') return
+    // Don't mark an already-completed task as in-progress
+    if (todayCompleted.includes(itemId)) return
+    setInProgressItemId((prev) => {
+      const next = prev === itemId ? null : itemId
+      try {
+        if (next) localStorage.setItem(inProgressKey, next)
+        else localStorage.removeItem(inProgressKey)
+      } catch {
+        /* ignore */
+      }
+      return next
+    })
+  }
 
   // Pending toggle queue for debounced API calls
   const pendingToggles = useRef<string[]>([])
@@ -315,6 +343,13 @@ export default function PlanDashboardPage() {
     // Don't allow toggling when the plan isn't active
     if (plan?.status !== 'active') return
 
+    // If marking as done, clear in-progress for this item
+    const wasDone = (progressMap.get(today)?.completedItemIds ?? []).includes(itemId)
+    if (!wasDone && inProgressItemId === itemId) {
+      setInProgressItemId(null)
+      try { localStorage.removeItem(inProgressKey) } catch { /* ignore */ }
+    }
+
     // Optimistic UI update
     setProgress((prev) => {
       const idx = prev.findIndex((p) => p.date === today)
@@ -470,30 +505,80 @@ export default function PlanDashboardPage() {
             {plan.items.map((item) => {
               const done = todayCompleted.includes(item.id)
               const disabled = plan.status !== 'active'
+              const inProgress = !done && inProgressItemId === item.id
               return (
-                <button
+                <div
                   key={item.id}
-                  onClick={() => handleToggle(item.id)}
-                  disabled={disabled}
                   className={[
-                    'w-full flex items-center gap-3 px-2.5 md:px-3 py-3 md:py-2.5 rounded-lg text-left transition-colors',
-                    done ? 'bg-green-500/5' : '',
-                    disabled ? 'cursor-not-allowed opacity-60' : done ? 'hover:bg-green-500/10' : 'hover:bg-muted',
+                    'group relative w-full flex items-center gap-2 md:gap-3 px-2.5 md:px-3 py-3 md:py-2.5 rounded-lg transition-colors',
+                    done
+                      ? 'bg-green-500/5'
+                      : inProgress
+                      ? 'bg-primary/5 ring-1 ring-primary/30'
+                      : '',
+                    disabled ? 'opacity-60' : '',
                   ].join(' ')}
                 >
-                  <span className={[
-                    'w-5 h-5 rounded-full border-2 flex items-center justify-center shrink-0 transition-colors',
-                    done ? 'bg-green-500 border-green-500 text-white' : 'border-border',
-                  ].join(' ')}>
-                    {done && <Check className="w-3 h-3" />}
-                  </span>
-                  <span className={[
-                    'text-sm min-w-0 wrap-break-word',
-                    done ? 'line-through text-muted-foreground' : '',
-                  ].join(' ')}>
-                    {item.text}
-                  </span>
-                </button>
+                  {/* Animated left accent bar when in-progress */}
+                  {inProgress && (
+                    <span
+                      className="absolute left-0 top-1.5 bottom-1.5 w-0.5 rounded-full bg-primary animate-pulse"
+                      aria-hidden="true"
+                    />
+                  )}
+
+                  {/* Toggle done */}
+                  <button
+                    type="button"
+                    onClick={() => handleToggle(item.id)}
+                    disabled={disabled}
+                    title={done ? 'Mark as not done' : 'Mark as done'}
+                    className={[
+                      'flex items-center gap-3 flex-1 min-w-0 text-left',
+                      disabled ? 'cursor-not-allowed' : '',
+                    ].join(' ')}
+                  >
+                    <span className={[
+                      'w-5 h-5 rounded-full border-2 flex items-center justify-center shrink-0 transition-colors',
+                      done ? 'bg-green-500 border-green-500 text-white' : 'border-border',
+                    ].join(' ')}>
+                      {done && <Check className="w-3 h-3" />}
+                    </span>
+                    <span className={[
+                      'text-sm min-w-0 wrap-break-word',
+                      done ? 'line-through text-muted-foreground' : '',
+                    ].join(' ')}>
+                      {item.text}
+                    </span>
+                  </button>
+
+                  {/* In-progress toggle */}
+                  {!done && (
+                    <button
+                      type="button"
+                      onClick={() => toggleInProgress(item.id)}
+                      disabled={disabled}
+                      title={inProgress ? 'Stop — not working on this' : 'Mark as in progress'}
+                      className={[
+                        'relative w-7 h-7 rounded-full flex items-center justify-center shrink-0 transition-colors',
+                        inProgress
+                          ? 'bg-primary text-primary-foreground'
+                          : 'text-muted-foreground hover:text-primary hover:bg-primary/10 opacity-0 group-hover:opacity-100 focus:opacity-100',
+                        disabled ? 'cursor-not-allowed' : '',
+                      ].join(' ')}
+                    >
+                      {inProgress ? (
+                        <>
+                          {/* Pulsing ring */}
+                          <span className="absolute inset-0 rounded-full bg-primary/40 animate-ping" aria-hidden="true" />
+                          <Play className="w-3 h-3 fill-current relative" />
+                        </>
+                      ) : (
+                        <Play className="w-3 h-3" />
+                      )}
+                    </button>
+                  )}
+                </div>
               )
             })}
           </div>

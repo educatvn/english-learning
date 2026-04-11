@@ -1,0 +1,1183 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 40,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "English is everywhere\non the internet."
+    } ]
+  }, {
+    "tStartMs": 2240,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I think we are seeing\nthe effects of this,"
+    } ]
+  }, {
+    "tStartMs": 4880,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "and we're taking our social cues from"
+    } ]
+  }, {
+    "tStartMs": 8120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "sort of an Anglo-centric.\npart of the world."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "I love watching films and\nnot everything is translated to Thai,"
+    } ]
+  }, {
+    "tStartMs": 16840,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "so understanding English helps\nme enjoy them fully."
+    } ]
+  }, {
+    "tStartMs": 21200,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "I started learning English\nat school because I wanted to open up"
+    } ]
+  }, {
+    "tStartMs": 24360,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "for myself lots of opportunities\nand study abroad."
+    } ]
+  }, {
+    "tStartMs": 27920,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Hey, it's Hannah here and this is\nWhat in the World, your podcast"
+    } ]
+  }, {
+    "tStartMs": 30720,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "for the stories that get people\ntalking from the BBC World Service."
+    } ]
+  }, {
+    "tStartMs": 33920,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "In this episode, we're speaking about\none of my favourite things, languages."
+    } ]
+  }, {
+    "tStartMs": 37840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "English, as you probably guessed,\nis the most widely spoken language\nin the world."
+    } ]
+  }, {
+    "tStartMs": 42320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "There are millions of people who\nlearn it at school and as adults too."
+    } ]
+  }, {
+    "tStartMs": 46280,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "But have you ever wondered\nhow English became so dominant"
+    } ]
+  }, {
+    "tStartMs": 49000,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "in the first place\nand what impact does that have on AI,"
+    } ]
+  }, {
+    "tStartMs": 52160,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "internet culture,\nand other smaller languages?"
+    } ]
+  }, {
+    "tStartMs": 58320,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And here to chat us\nthrough this is Georgie Thorman"
+    } ]
+  }, {
+    "tStartMs": 60720,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "from BBC Learning English.\nThat's the part of the BBC"
+    } ]
+  }, {
+    "tStartMs": 63000,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "that helps millions of people around\nthe world improve their English."
+    } ]
+  }, {
+    "tStartMs": 65840,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Hello, welcome to the podcast.\nHi Hannah, thank you."
+    } ]
+  }, {
+    "tStartMs": 67960,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "I'm excited to be here."
+    } ]
+  }, {
+    "tStartMs": 69040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So English is\nthe most widely spoken language."
+    } ]
+  }, {
+    "tStartMs": 72240,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Just how many\npeople speak it globally?"
+    } ]
+  }, {
+    "tStartMs": 73960,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Hundreds of millions\nof people around the world."
+    } ]
+  }, {
+    "tStartMs": 76200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "In fact, 1.5\nbillion people speak English."
+    } ]
+  }, {
+    "tStartMs": 79960,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And what's interesting is\nthat only 400 million of those,"
+    } ]
+  }, {
+    "tStartMs": 83360,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "or around 25% of those, are native\nspeakers, which makes it distinct"
+    } ]
+  }, {
+    "tStartMs": 88920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "from other languages,\nbecause if you compare that"
+    } ]
+  }, {
+    "tStartMs": 91000,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "to the second most spoken language,\nMandarin Chinese,"
+    } ]
+  }, {
+    "tStartMs": 94160,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "with 1.1 billion speakers,"
+    } ]
+  }, {
+    "tStartMs": 96200,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "the vast majority\nof those are native speakers."
+    } ]
+  }, {
+    "tStartMs": 99240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So people, hundreds of millions\nof people are learning English"
+    } ]
+  }, {
+    "tStartMs": 102760,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "as either a second\nor foreign language."
+    } ]
+  }, {
+    "tStartMs": 104760,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So how did English become the most\nwidely spoken language in the world?"
+    } ]
+  }, {
+    "tStartMs": 108040,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "For a variety of reasons.\nSo one of those being colonisation."
+    } ]
+  }, {
+    "tStartMs": 111640,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So for about 400 years,\nBritain had an empire, which meant"
+    } ]
+  }, {
+    "tStartMs": 115480,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "that English spread to many parts of\nthe world and was the main language used"
+    } ]
+  }, {
+    "tStartMs": 119560,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "for things like government,\neducation, trade, things like that."
+    } ]
+  }, {
+    "tStartMs": 124360,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And when countries gained their\nindependence, many of them kept English"
+    } ]
+  }, {
+    "tStartMs": 128600,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "as an official language,\nwhich is why we have varieties"
+    } ]
+  }, {
+    "tStartMs": 131720,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "like Indian English, Nigerian\nEnglish, and American English."
+    } ]
+  }, {
+    "tStartMs": 137040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Another factor was the rise\nof the USA as a global superpower."
+    } ]
+  }, {
+    "tStartMs": 141440,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "So after the world wars, the USA\nbecame the world's largest economy."
+    } ]
+  }, {
+    "tStartMs": 147280,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "It also became a leader in things\nlike the entertainment industry."
+    } ]
+  }, {
+    "tStartMs": 151120,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So Hollywood, lots of us\nwere watching movies in English."
+    } ]
+  }, {
+    "tStartMs": 155800,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "It also became a leader\nin the tech industry."
+    } ]
+  }, {
+    "tStartMs": 158640,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "So we're all using Google, Apple,\nMicrosoft and other tech giants."
+    } ]
+  }, {
+    "tStartMs": 163240,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And then after that,\nit kind of became the language"
+    } ]
+  }, {
+    "tStartMs": 165400,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "of business, diplomacy,\neven academia."
+    } ]
+  }, {
+    "tStartMs": 168560,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "We're going to get more on to English\nin tech in just a bit."
+    } ]
+  }, {
+    "tStartMs": 171880,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But you mentioned some of the\ndifferent variations of of English"
+    } ]
+  }, {
+    "tStartMs": 175200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "and how it has transformed\nAmerican English, Indian English."
+    } ]
+  }, {
+    "tStartMs": 178160,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "There's hybrid languages like Spanglish,\nwhich is Spanish and English,"
+    } ]
+  }, {
+    "tStartMs": 181320,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and that's massive in the States.\nAnd of course, there are"
+    } ]
+  }, {
+    "tStartMs": 183800,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "so many different regional variations\nhere in the UK."
+    } ]
+  }, {
+    "tStartMs": 187120,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "How do languages evolve to develop\nthese different variations, dialects."
+    } ]
+  }, {
+    "tStartMs": 191760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So accent and dialect\nvariation happens when concentrations"
+    } ]
+  }, {
+    "tStartMs": 195240,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "of people are talking in\na certain way in a particular area."
+    } ]
+  }, {
+    "tStartMs": 199120,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "So if we look outside of the UK\nto ex-colonies like India, where one"
+    } ]
+  }, {
+    "tStartMs": 204200,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "of the official languages is English,\ntheir English variety, Indian English,"
+    } ]
+  }, {
+    "tStartMs": 208240,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "is heavily influenced by\nthe local languages in the area."
+    } ]
+  }, {
+    "tStartMs": 211760,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "So again, Indian English has\nvery distinct pronunciation features."
+    } ]
+  }, {
+    "tStartMs": 217680,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It has some of its own vocabulary,"
+    } ]
+  }, {
+    "tStartMs": 219960,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and the exchange goes both ways."
+    } ]
+  }, {
+    "tStartMs": 222000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So some of the, some words from\nIndian languages have kind of seeped"
+    } ]
+  }, {
+    "tStartMs": 226480,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "into a more global English, which is why\nwe have words like pyjamas and bungalow."
+    } ]
+  }, {
+    "tStartMs": 231120,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "So English is just\na big patchwork quilt of diversity."
+    } ]
+  }, {
+    "tStartMs": 234760,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And I read about Hinglish,\nBenglish and Tanglish as well."
+    } ]
+  }, {
+    "tStartMs": 238040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Different variations mixed\nwith Hindi, Bengali and Tamil."
+    } ]
+  }, {
+    "tStartMs": 241920,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Yes. So hybrid languages, these are\nmore of a mix of the language."
+    } ]
+  }, {
+    "tStartMs": 245760,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "How common is it\nfor English to be taught in schools"
+    } ]
+  }, {
+    "tStartMs": 248200,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "around the world as well?\nYeah, so English is definitely"
+    } ]
+  }, {
+    "tStartMs": 251400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "the most studied foreign language\naround the world."
+    } ]
+  }, {
+    "tStartMs": 254800,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "In Europe, for example, almost all\nof the schools have English"
+    } ]
+  }, {
+    "tStartMs": 259000,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "as a mandatory core subject,\nin primary and secondary school."
+    } ]
+  }, {
+    "tStartMs": 264080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Across the world, in terms\nof English being the main language"
+    } ]
+  }, {
+    "tStartMs": 267320,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "of instruction,\nit's harder to find stats."
+    } ]
+  }, {
+    "tStartMs": 269680,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But in the ex-colonies, where\nEnglish is an official language,"
+    } ]
+  }, {
+    "tStartMs": 273680,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "many of these countries will\nhave English as the main language"
+    } ]
+  }, {
+    "tStartMs": 276600,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "for not only English, but the core\nsubjects like math, science, history,"
+    } ]
+  }, {
+    "tStartMs": 282080,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "that will be the main language\nof instruction."
+    } ]
+  }, {
+    "tStartMs": 284320,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Georgie, thanks so much."
+    } ]
+  }, {
+    "tStartMs": 285440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thank you.\nAnd we've also been hearing from some"
+    } ]
+  }, {
+    "tStartMs": 287440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "of you about\nwhy you chose to learn English."
+    } ]
+  }, {
+    "tStartMs": 289440,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Hi guys. My name is Gaziza and\nI'm from Kazakhstan."
+    } ]
+  }, {
+    "tStartMs": 293080,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I started learning English\nat school because I wanted to open up"
+    } ]
+  }, {
+    "tStartMs": 296320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "for myself lots of opportunities\nand study abroad."
+    } ]
+  }, {
+    "tStartMs": 300080,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "English actually made it happen."
+    } ]
+  }, {
+    "tStartMs": 301760,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I'm currently residing\nand studying in Japan, using English"
+    } ]
+  }, {
+    "tStartMs": 306520,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "on a daily basis to communicate\nwith people from around the world."
+    } ]
+  }, {
+    "tStartMs": 310760,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Hi everyone, I'm Jin from Thailand."
+    } ]
+  }, {
+    "tStartMs": 313280,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "The reason why I learned English is\nbecause it opened up the world to me."
+    } ]
+  }, {
+    "tStartMs": 317440,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I love watching films and\nnot everything is translated to Thai,"
+    } ]
+  }, {
+    "tStartMs": 321320,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "so understanding English helps\nme enjoy them fully"
+    } ]
+  }, {
+    "tStartMs": 325520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and feel closer to the world\noutside Thailand."
+    } ]
+  }, {
+    "tStartMs": 329080,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "My name is Marcos and\nI'm from Paraguay."
+    } ]
+  }, {
+    "tStartMs": 331320,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I chose to learn English\nbecause I wanted to travel the world."
+    } ]
+  }, {
+    "tStartMs": 335120,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "I knew that English serves\nas a bridge language, which allows"
+    } ]
+  }, {
+    "tStartMs": 339400,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "you to communicate with people from\ndifferent nationalities and cultures."
+    } ]
+  }, {
+    "tStartMs": 343360,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Hey there!\nI'm from Fatima from Pakistan."
+    } ]
+  }, {
+    "tStartMs": 347440,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "You know, English started\nas just another subject at school,"
+    } ]
+  }, {
+    "tStartMs": 352160,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "but then I realised it is actually\na passport to my dreams."
+    } ]
+  }, {
+    "tStartMs": 357080,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Because of English, I made it\nto the London School of Economics."
+    } ]
+  }, {
+    "tStartMs": 361200,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And now I can connect,\nlearn and dream without borders."
+    } ]
+  }, {
+    "tStartMs": 365920,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Now let's find out\nhow English has shaped the internet"
+    } ]
+  }, {
+    "tStartMs": 368680,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "and AI - Artificial intelligence -\nand what the future might look like."
+    } ]
+  }, {
+    "tStartMs": 372240,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I'm speaking to Linda Heimisddóttir.\nHi, Linda. Hi."
+    } ]
+  }, {
+    "tStartMs": 375520,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Nice to be with you.\nReally nice to have you."
+    } ]
+  }, {
+    "tStartMs": 377600,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "So you're a linguist."
+    } ]
+  }, {
+    "tStartMs": 378520,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "You work for an AI company in Iceland,\nwhich is, of course, in Europe."
+    } ]
+  }, {
+    "tStartMs": 382320,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And you know all about the\ntechnical side of languages and AI."
+    } ]
+  }, {
+    "tStartMs": 386240,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Why is English\nthe most used language online?"
+    } ]
+  }, {
+    "tStartMs": 389480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Yeah, that's an excellent question."
+    } ]
+  }, {
+    "tStartMs": 391760,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I would say\nsome of the reasons are historical."
+    } ]
+  }, {
+    "tStartMs": 394840,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So the early development of the internet\nhappened mostly in the US and in the UK."
+    } ]
+  }, {
+    "tStartMs": 400840,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So you could say that it happened early,\nthat English became established"
+    } ]
+  }, {
+    "tStartMs": 405000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "as sort of the default language\nof communication online."
+    } ]
+  }, {
+    "tStartMs": 409320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Then of course, we have\na very English centric tech sector."
+    } ]
+  }, {
+    "tStartMs": 412520,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So we have a lot of big\ntech companies that prefer English,"
+    } ]
+  }, {
+    "tStartMs": 417200,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "but of course, maybe the main reason\nis that English is our lingua franca."
+    } ]
+  }, {
+    "tStartMs": 421480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So about a quarter of the world's\npopulation speaks English."
+    } ]
+  }, {
+    "tStartMs": 425480,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "So if you have a message\nand you want to be able to reach"
+    } ]
+  }, {
+    "tStartMs": 428800,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "a large, the largest\npossible audience,"
+    } ]
+  }, {
+    "tStartMs": 431960,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "then you might want to choose English\nas your language to convey that."
+    } ]
+  }, {
+    "tStartMs": 435520,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "And talking of AI,\nit's trained"
+    } ]
+  }, {
+    "tStartMs": 437880,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "on vast amounts\nof information from the internet."
+    } ]
+  }, {
+    "tStartMs": 440600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "As you've said that most of the language\non the internet is in English."
+    } ]
+  }, {
+    "tStartMs": 443800,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Does that mean that AI works best\nin English?"
+    } ]
+  }, {
+    "tStartMs": 446880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Yeah, yeah yeah yeah, absolutely."
+    } ]
+  }, {
+    "tStartMs": 449520,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "That's not to say that you\ncannot use it perfectly adequately"
+    } ]
+  }, {
+    "tStartMs": 454040,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "in other languages than English."
+    } ]
+  }, {
+    "tStartMs": 456640,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "But when you're using AI in,\nlet's say, Icelandic,"
+    } ]
+  }, {
+    "tStartMs": 460440,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "you certainly have to be more thoughtful\nabout how you're using the models."
+    } ]
+  }, {
+    "tStartMs": 464200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You have to be more critical\nof the output."
+    } ]
+  }, {
+    "tStartMs": 467200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And it's not just a matter\nof the language either."
+    } ]
+  }, {
+    "tStartMs": 469600,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "There's a cultural aspect to this."
+    } ]
+  }, {
+    "tStartMs": 471640,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So AI models, they might often\ndefault to an English centric view"
+    } ]
+  }, {
+    "tStartMs": 476320,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "of the world\nand they won't be as knowledgeable"
+    } ]
+  }, {
+    "tStartMs": 479200,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "about the history and culture\nof smaller language areas."
+    } ]
+  }, {
+    "tStartMs": 482240,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "And how are AI and translation apps\nchanging how English is used online"
+    } ]
+  }, {
+    "tStartMs": 488040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and also offline?\nYeah, that's an interesting question."
+    } ]
+  }, {
+    "tStartMs": 491240,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "So of course\nwe are surrounded online by English."
+    } ]
+  }, {
+    "tStartMs": 496320,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "And we live a lot\nof our life online as it is."
+    } ]
+  }, {
+    "tStartMs": 499960,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "And Nowadays we use AI a lot\nin our school work"
+    } ]
+  }, {
+    "tStartMs": 505280,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and in the workplace for example,"
+    } ]
+  }, {
+    "tStartMs": 507920,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "to make our lives easier,\nto make our work more efficient, etc."
+    } ]
+  }, {
+    "tStartMs": 511360,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So of course we want to do that\nin the best way possible."
+    } ]
+  }, {
+    "tStartMs": 515200,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So people might tend\nto use these tools in English rather"
+    } ]
+  }, {
+    "tStartMs": 520480,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "than chancing a worse outcome\nif they do it in their own language."
+    } ]
+  }, {
+    "tStartMs": 526040,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "But there are also\nopportunities there, right?"
+    } ]
+  }, {
+    "tStartMs": 528120,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Because language technology for a lot\nof languages, including Icelandic,"
+    } ]
+  }, {
+    "tStartMs": 531960,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "has taken a huge leap forward because\nof these models that are so powerful."
+    } ]
+  }, {
+    "tStartMs": 536200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So we are now able to do a lot\nof things with technology"
+    } ]
+  }, {
+    "tStartMs": 540200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "in our own language that we weren't\nable to do just a few years ago."
+    } ]
+  }, {
+    "tStartMs": 543200,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "And you mentioned translation."
+    } ]
+  }, {
+    "tStartMs": 544720,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "So that's one sort of application\nthat has become a lot more powerful."
+    } ]
+  }, {
+    "tStartMs": 551080,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "And that could, of course,\nmean that people may no longer need"
+    } ]
+  }, {
+    "tStartMs": 553960,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "to use English as a lingua franca,\nas a common denominator,"
+    } ]
+  }, {
+    "tStartMs": 556480,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "if they're able to speak to each other\ndirectly and instantly using AI,"
+    } ]
+  }, {
+    "tStartMs": 560680,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "using these translation apps, which\nare just getting better and better."
+    } ]
+  }, {
+    "tStartMs": 565000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And what about internet culture,\nthings like memes, Is there any evidence"
+    } ]
+  }, {
+    "tStartMs": 569320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "that English media is also taking\nover in in different countries"
+    } ]
+  }, {
+    "tStartMs": 574120,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and cultures as well?\nOh, absolutely. Yeah."
+    } ]
+  }, {
+    "tStartMs": 577720,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "I mean when you think back just a few\ndecades, I mean, I grew up in the 90s"
+    } ]
+  }, {
+    "tStartMs": 582200,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "and I definitely watched a lot\nof American television and movies."
+    } ]
+  }, {
+    "tStartMs": 586640,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But when it came to\nsort of current cultural phenomena,"
+    } ]
+  }, {
+    "tStartMs": 590640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I was getting my information\nfrom magazines and newspapers"
+    } ]
+  }, {
+    "tStartMs": 593600,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "in Icelandic and the radio, etc."
+    } ]
+  }, {
+    "tStartMs": 596040,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "and nowadays\neverything happens online."
+    } ]
+  }, {
+    "tStartMs": 598080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So sort of young people's\ncultural awareness comes a lot more"
+    } ]
+  }, {
+    "tStartMs": 601600,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "from the internet\nthan any other place."
+    } ]
+  }, {
+    "tStartMs": 604080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "And again, because English is\neverywhere on the internet,"
+    } ]
+  }, {
+    "tStartMs": 607600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I think we are seeing\nthe effects of this sort"
+    } ]
+  }, {
+    "tStartMs": 610880,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "of American culture is penetrating\nour lives in many different ways,"
+    } ]
+  }, {
+    "tStartMs": 614800,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "and we're taking our social cues\nfrom sort of an anglocentric part"
+    } ]
+  }, {
+    "tStartMs": 621120,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "of the world, you could say."
+    } ]
+  }, {
+    "tStartMs": 623840,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "We can also worry a little bit\nabout other aspects."
+    } ]
+  }, {
+    "tStartMs": 627120,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So if a language starts losing ground\nto another language"
+    } ]
+  }, {
+    "tStartMs": 629920,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "in certain domains of society, that's\nsomething that we need to look at."
+    } ]
+  }, {
+    "tStartMs": 634080,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "There is this term that has been coined,\n'digital language death', which is used"
+    } ]
+  }, {
+    "tStartMs": 639720,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "to describe when a language becomes\nirrelevant in the digital domain,"
+    } ]
+  }, {
+    "tStartMs": 643640,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "you start being able to use it\nto converse with technology."
+    } ]
+  }, {
+    "tStartMs": 648040,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And that is something\nthat we need to consider."
+    } ]
+  }, {
+    "tStartMs": 650480,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "But we don't really know\nwhat that means"
+    } ]
+  }, {
+    "tStartMs": 654280,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and what kind of an effect that has\non the language as a whole,"
+    } ]
+  }, {
+    "tStartMs": 657320,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "because we're just so early\ninto this AI boom"
+    } ]
+  }, {
+    "tStartMs": 661000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "and this truly kind of technical age\nthat we are living in."
+    } ]
+  }, {
+    "tStartMs": 664200,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Linda, great speaking to you. Thank you.\nThank you."
+    } ]
+  }, {
+    "tStartMs": 666920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "That's it from me,\nbut I am keen to hear from you."
+    } ]
+  }, {
+    "tStartMs": 669560,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "We know that loads of you use what in\nthe world to practice your English,"
+    } ]
+  }, {
+    "tStartMs": 672920,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and hopefully you're big fans\nof BBC Learning English too."
+    } ]
+  }, {
+    "tStartMs": 675640,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So get in touch with us.\nDrop us a comment below."
+    } ]
+  }, {
+    "tStartMs": 677680,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "We're also\non Instagram @bbcwhatintheworld and"
+    } ]
+  }, {
+    "tStartMs": 680480,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "we're on WhatsApp.\nI'm Hannah, this is What in the World"
+    } ]
+  }, {
+    "tStartMs": 683320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "from the BBC World Service\nand we'll see you next time."
+    } ]
+  } ]
+}
