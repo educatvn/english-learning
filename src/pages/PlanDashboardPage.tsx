@@ -694,7 +694,6 @@ function ActivityHeatmap({
 }) {
   const weeks = useMemo(() => build12MonthWeeks(), [])
   const monthLabels = useMemo(() => buildMonthLabels(weeks), [weeks])
-  const totalWeeks = weeks.length
 
   function getCellInfo(date: string) {
     const inPlan = date >= planStart && date <= planEnd
