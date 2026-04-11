@@ -1,5 +1,5 @@
 import { gas } from './googleSheets'
-import type { StudyPlan, DailyProgress } from '@/types'
+import type { StudyPlan, DailyProgress, PlanNote } from '@/types'
 
 // ── Plans CRUD ──────────────────────────────────────────────────────────────
 
@@ -45,4 +45,23 @@ export async function togglePlanItem(
   itemId: string,
 ): Promise<DailyProgress> {
   return gas<DailyProgress>('togglePlanItem', { userId, planId, date, itemId })
+}
+
+// ── Plan daily notes ────────────────────────────────────────────────────────
+
+export async function getPlanNotes(userId: string, planId: string): Promise<PlanNote[]> {
+  return gas<PlanNote[]>('getPlanNotes', { userId, planId })
+}
+
+export async function addPlanNote(note: {
+  planId: string
+  userId: string
+  date: string
+  text: string
+}): Promise<PlanNote> {
+  return gas<PlanNote>('addPlanNote', note)
+}
+
+export async function deletePlanNote(userId: string, id: string): Promise<void> {
+  await gas('deletePlanNote', { userId, id })
 }

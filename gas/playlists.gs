@@ -521,6 +521,10 @@ function planDailySheet() {
   return getOrCreateSheet('plan_daily', ['planId', 'userId', 'date', 'completedItemIds']);
 }
 
+function planNotesSheet() {
+  return getOrCreateSheet('plan_notes', ['id', 'planId', 'userId', 'date', 'text', 'createdAt']);
+}
+
 function getPlans(data) {
   var userId = String(data.userId);
   var rows = planSheet().getDataRange().getValues();
@@ -574,6 +578,14 @@ function deletePlanRow(data) {
   for (var i = dailyRows.length - 1; i >= 1; i--) {
     if (String(dailyRows[i][0]) === String(data.id)) {
       dailySheet.deleteRow(i + 1);
+    }
+  }
+  // Also delete notes for this plan
+  var notesSheet = planNotesSheet();
+  var noteRows = notesSheet.getDataRange().getValues();
+  for (var j = noteRows.length - 1; j >= 1; j--) {
+    if (String(noteRows[j][1]) === String(data.id)) {
+      notesSheet.deleteRow(j + 1);
     }
   }
 }
@@ -649,6 +661,64 @@ function getAllPlanDailyProgress(data) {
         completedItemIds: JSON.parse(r[3] || '[]'),
       };
     });
+}
+
+// ── Plan daily notes ─────────────────────────────────────────────────────────
+
+function getPlanNotes(data) {
+  var userId = String(data.userId);
+  var planId = String(data.planId);
+  var rows = planNotesSheet().getDataRange().getValues();
+  if (rows.length <= 1) return [];
+  return rows.slice(1)
+    .filter(function(r) {
+      return String(r[1]) === planId && String(r[2]) === userId;
+    })
+    .map(function(r) {
+      return {
+        id:        String(r[0]),
+        planId:    String(r[1]),
+        userId:    String(r[2]),
+        date:      toDateStr(r[3]),
+        text:      String(r[4] || ''),
+        createdAt: String(r[5] || ''),
+      };
+    });
+}
+
+function addPlanNote(data) {
+  var sheet = planNotesSheet();
+  var id = String(data.id || (Date.now().toString(36) + Math.random().toString(36).slice(2, 7)));
+  var createdAt = new Date().toISOString();
+  sheet.appendRow([
+    id,
+    String(data.planId),
+    String(data.userId),
+    String(data.date),
+    String(data.text || ''),
+    createdAt,
+  ]);
+  return {
+    id:        id,
+    planId:    String(data.planId),
+    userId:    String(data.userId),
+    date:      String(data.date),
+    text:      String(data.text || ''),
+    createdAt: createdAt,
+  };
+}
+
+function deletePlanNote(data) {
+  var sheet = planNotesSheet();
+  var userId = String(data.userId);
+  var id = String(data.id);
+  var rows = sheet.getDataRange().getValues();
+  for (var i = rows.length - 1; i >= 1; i--) {
+    if (String(rows[i][0]) === id && String(rows[i][2]) === userId) {
+      sheet.deleteRow(i + 1);
+      return;
+    }
+  }
 }
 
 function togglePlanItemRow(data) {
@@ -744,6 +814,9 @@ function doPost(e) {
     if (action === 'getPlanDailyProgress') return ok(getPlanDailyProgress(data));
     if (action === 'getAllPlanDailyProgress') return ok(getAllPlanDailyProgress(data));
     if (action === 'togglePlanItem')     return ok(togglePlanItemRow(data));
+    if (action === 'getPlanNotes')       return ok(getPlanNotes(data));
+    if (action === 'addPlanNote')        return ok(addPlanNote(data));
+    if (action === 'deletePlanNote')     { deletePlanNote(data); return ok(null); }
 
     return err('Unknown action: ' + action);
   } catch (ex) {

@@ -6,9 +6,10 @@ import {
 } from 'lucide-react'
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
-import { getPlans, getDailyProgress, togglePlanItem, activatePlan, pausePlan } from '@/services/plans'
+import { getPlans, getDailyProgress, togglePlanItem, activatePlan, pausePlan, getPlanNotes } from '@/services/plans'
 import { PlanStatusDialog } from '@/components/PlanStatusDialog'
-import type { StudyPlan, DailyProgress } from '@/types'
+import { DayNotesDialog } from '@/components/DayNotesDialog'
+import type { StudyPlan, DailyProgress, PlanNote } from '@/types'
 
 // ─── Date helpers (always local timezone) ────────────────────────────────────
 
@@ -149,9 +150,11 @@ export default function PlanDashboardPage() {
   const { planId } = useParams<{ planId: string }>()
   const [plan, setPlan] = useState<StudyPlan | null>(null)
   const [progress, setProgress] = useState<DailyProgress[]>([])
+  const [notes, setNotes] = useState<PlanNote[]>([])
   const [loading, setLoading] = useState(true)
   const [saveStatus, setSaveStatus] = useState<'idle' | 'saving' | 'saved' | 'error'>('idle')
   const [statusDialog, setStatusDialog] = useState<'activate' | 'pause' | null>(null)
+  const [noteDialogDate, setNoteDialogDate] = useState<string | null>(null)
 
   const today = todayStr()
 
@@ -168,17 +171,27 @@ export default function PlanDashboardPage() {
     Promise.all([
       getPlans(user.sub),
       getDailyProgress(user.sub, planId),
+      getPlanNotes(user.sub, planId),
     ])
-      .then(([plans, prog]) => {
+      .then(([plans, prog, planNotes]) => {
         const found = plans.find((p) => p.id === planId)
         setPlan(found ?? null)
         setProgress(prog ?? [])
+        setNotes(planNotes ?? [])
         lastConfirmed.current = prog ?? []
         lastConfirmedPlan.current = found ?? null
       })
       .catch(console.error)
       .finally(() => setLoading(false))
   }, [user, planId])
+
+  // Refetch notes after the dialog closes so indicators stay in sync
+  const refetchNotes = useCallback(() => {
+    if (!user || !planId) return
+    getPlanNotes(user.sub, planId).then(setNotes).catch(console.error)
+  }, [user, planId])
+
+  const noteDateSet = useMemo(() => new Set(notes.map((n) => n.date)), [notes])
 
   // Flush pending toggles to the API
   const flushToggles = useCallback(async () => {
@@ -493,6 +506,8 @@ export default function PlanDashboardPage() {
           planStart={startDate}
           planEnd={endDate}
           today={today}
+          noteDateSet={noteDateSet}
+          onCellClick={(date) => setNoteDialogDate(date)}
         />
       </main>
 
@@ -504,6 +519,18 @@ export default function PlanDashboardPage() {
           onConfirm={(opts) => {
             setStatusDialog(null)
             applyStatus(statusDialog === 'activate' ? 'active' : 'paused', opts)
+          }}
+        />
+      )}
+
+      {noteDialogDate && user && (
+        <DayNotesDialog
+          planId={plan.id}
+          userId={user.sub}
+          date={noteDialogDate}
+          onClose={() => {
+            setNoteDialogDate(null)
+            refetchNotes()
           }}
         />
       )}
@@ -526,6 +553,8 @@ function HeatmapGrid({
   today,
   planStart,
   planEnd,
+  noteDateSet,
+  onCellClick,
   fluid = false,
   cellPx,
   gapPx = 2,
@@ -538,6 +567,8 @@ function HeatmapGrid({
   today: string
   planStart: string
   planEnd: string
+  noteDateSet: Set<string>
+  onCellClick: (date: string) => void
   fluid?: boolean
   cellPx?: number
   gapPx?: number
@@ -615,15 +646,25 @@ function HeatmapGrid({
 
             const prog = progressMap.get(day.date)
             const completed = prog?.completedItemIds.length ?? 0
+            const hasNote = noteDateSet.has(day.date)
+            const titleSuffix = hasNote ? ' • has note' : ''
 
             return (
-              <div
+              <button
+                type="button"
                 key={day.date}
-                className="relative aspect-square min-w-0"
-                title={`${day.date}${inPlan ? `: ${completed}/${totalItems}` : ''}`}
+                onClick={() => onCellClick(day.date)}
+                className="relative aspect-square min-w-0 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-ring rounded-[3px]"
+                title={`${day.date}${inPlan ? `: ${completed}/${totalItems}` : ''}${titleSuffix}`}
               >
                 <div className={`absolute inset-0 rounded-[3px] ${bg}`} />
-              </div>
+                {hasNote && (
+                  <span
+                    className="absolute top-0 right-0 w-1.5 h-1.5 rounded-full bg-yellow-400 ring-1 ring-background"
+                    aria-hidden="true"
+                  />
+                )}
+              </button>
             )
           })}
         </div>
@@ -690,12 +731,16 @@ function ActivityHeatmap({
   planStart,
   planEnd,
   today,
+  noteDateSet,
+  onCellClick,
 }: {
   progressMap: Map<string, DailyProgress>
   totalItems: number
   planStart: string
   planEnd: string
   today: string
+  noteDateSet: Set<string>
+  onCellClick: (date: string) => void
 }) {
   const weeks = useMemo(() => build12MonthWeeks(), [])
   const monthLabels = useMemo(() => buildMonthLabels(weeks), [weeks])
@@ -733,6 +778,8 @@ function ActivityHeatmap({
             today={today}
             planStart={planStart}
             planEnd={planEnd}
+            noteDateSet={noteDateSet}
+            onCellClick={onCellClick}
             cellPx={12}
             gapPx={2}
           />
@@ -750,6 +797,8 @@ function ActivityHeatmap({
           today={today}
           planStart={planStart}
           planEnd={planEnd}
+          noteDateSet={noteDateSet}
+          onCellClick={onCellClick}
           fluid
         />
       </div>

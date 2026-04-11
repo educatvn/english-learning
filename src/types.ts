@@ -83,6 +83,15 @@ export interface DailyProgress {
   completedItemIds: string[]   // IDs of completed items
 }
 
+export interface PlanNote {
+  id: string
+  planId: string
+  userId: string
+  date: string                 // YYYY-MM-DD
+  text: string
+  createdAt: string            // ISO string
+}
+
 /** True when a video has a saved position worth resuming */
 export function isResumable(p: VideoProgress): boolean {
   if (p.positionMs <= 30_000) return false  // < 30 seconds — treat as not started
