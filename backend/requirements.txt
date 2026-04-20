@@ -1,0 +1,12 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+faster-whisper==1.1.1
+python-multipart==0.0.20
+torch>=2.0
+torchaudio>=2.0
+torchcodec
+transformers>=4.30,<5
+numpy<2
+phonemizer>=3.2
+soundfile
+requests

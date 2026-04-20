@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import ReactPlayer from 'react-player';
-import { Brain, StickyNote, Plus, Trash2, ChevronRight, Subtitles, SkipBack, SkipForward, Repeat } from 'lucide-react';
+import { Brain, StickyNote, Plus, Trash2, ChevronRight, Subtitles, SkipBack, SkipForward, Repeat, Mic } from 'lucide-react';
 import { parseJSON3, findActiveCue, groupCuesIntoParagraphs, fetchCaptionData } from '@/utils/captionParser';
 import type { CaptionCue } from '@/utils/captionParser';
 import { maskText } from '@/utils/quizWord';
@@ -16,7 +16,9 @@ import { useVideoProgress } from '@/hooks/useVideoProgress';
 import { useVideoNotes } from '@/hooks/useVideoNotes';
 import { QuizModal } from '@/components/QuizModal';
 import type { QuizResult } from '@/components/QuizModal';
+import { SpeakingPanel } from '@/components/SpeakingPanel';
 import { VideoProgressBar } from '@/components/VideoProgressBar';
+import { useSpeakingMode } from '@/hooks/useSpeakingMode';
 import { saveQuizAttempt } from '@/services/quizResults';
 import { addVocabWord, getVocabWords } from '@/services/vocabulary';
 import type { VocabEntry } from '@/types';
@@ -43,13 +45,36 @@ export default function PlayPage() {
   const pinnedCueIdxRef = useRef<number | null>(null);
   useEffect(() => { pinnedCueIdxRef.current = pinnedCueIdx; }, [pinnedCueIdx]);
 
-  const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes'>('captions');
+  const [sidebarTab, setSidebarTab] = useState<'captions' | 'notes' | 'speak'>('captions');
   const [isAddingNote, setIsAddingNote] = useState(false);
   const [pendingNoteMs, setPendingNoteMs] = useState(0);
   const [noteText, setNoteText] = useState('');
   const noteInputRef = useRef<HTMLTextAreaElement>(null);
 
   const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [sidebarWidth, setSidebarWidth] = useState(384);
+  const sidebarWidthRef = useRef(384);
+
+  const handleResizeStart = useCallback((e: React.PointerEvent) => {
+    e.preventDefault();
+    const startX = e.clientX;
+    const startWidth = sidebarWidthRef.current;
+    const target = e.currentTarget as HTMLElement;
+    target.setPointerCapture(e.pointerId);
+
+    const onMove = (ev: PointerEvent) => {
+      const delta = startX - ev.clientX; // drag left = wider
+      const newWidth = Math.min(800, Math.max(280, startWidth + delta));
+      sidebarWidthRef.current = newWidth;
+      setSidebarWidth(newWidth);
+    };
+    const onUp = () => {
+      target.removeEventListener('pointermove', onMove);
+      target.removeEventListener('pointerup', onUp);
+    };
+    target.addEventListener('pointermove', onMove);
+    target.addEventListener('pointerup', onUp);
+  }, []);
   const [captionsVisible, setCaptionsVisible] = useState(false);
   const [vocabWords, setVocabWords] = useState<Set<string>>(new Set());
   const [vocabDialog, setVocabDialog] = useState<{ word: string; cue: CaptionCue } | null>(null);
@@ -57,6 +82,7 @@ export default function PlayPage() {
   const wasPlayingRef = useRef(false);
 
   const quiz = useQuizMode();
+  const speaking = useSpeakingMode(cues);
   const watchTime = useWatchTime(user?.sub);
   const videoProgress = useVideoProgress(user?.sub, videoId);
   const { notes, addNote, removeNote } = useVideoNotes(user?.sub, videoId);
@@ -427,6 +453,7 @@ export default function PlayPage() {
             >
               <SkipForward className="w-4 h-4" />
             </button>
+
           </div>
 
           {/* Expand/collapse sidebar — right edge of video column, desktop only */}
@@ -445,13 +472,18 @@ export default function PlayPage() {
         {/* Sidebar — always visible below video on mobile, on right on desktop */}
         <div
           className={[
-            'flex-1 md:flex-none md:shrink-0 flex flex-col bg-card border-t md:border-t-0 md:border-l border-border overflow-hidden min-h-0',
-            'md:transition-[width] md:duration-300 md:ease-in-out',
-            sidebarOpen ? 'md:w-96' : 'md:w-0 md:border-l-0',
+            'flex-1 md:flex-none md:shrink-0 flex flex-col bg-card border-t md:border-t-0 md:border-l border-border overflow-hidden min-h-0 relative',
+            sidebarOpen ? '' : 'md:w-0! md:border-l-0',
           ].join(' ')}
+          style={sidebarOpen ? { width: sidebarWidth } : undefined}
         >
-          {/* Inner wrapper keeps content at fixed width so it clips cleanly during animation */}
-          <div className="flex flex-col flex-1 min-h-0 md:w-96 md:min-w-[384px]">
+          {/* Drag handle — left edge of sidebar */}
+          <div
+            onPointerDown={handleResizeStart}
+            className="hidden md:block absolute left-0 top-0 bottom-0 w-1.5 cursor-col-resize z-40 hover:bg-primary/20 active:bg-primary/30 transition-colors"
+          />
+          {/* Inner wrapper keeps content clipped */}
+          <div className="flex flex-col flex-1 min-h-0" style={{ minWidth: sidebarWidth }}>
           {/* Sidebar tabs */}
           <div className="flex border-b border-border shrink-0">
             <SidebarTab active={sidebarTab === 'captions'} onClick={() => setSidebarTab('captions')}>
@@ -464,6 +496,14 @@ export default function PlayPage() {
                   {notes.length}
                 </span>
               )}
+            </SidebarTab>
+            <SidebarTab active={sidebarTab === 'speak'} onClick={() => {
+              setSidebarTab('speak');
+              playerRef.current?.pause();
+              if (!speaking.speakingState && activeCueIdx >= 0) speaking.open(activeCueIdx);
+            }}>
+              <Mic className="w-3 h-3" />
+              Speak
             </SidebarTab>
             <div className="ml-auto flex items-center pr-2">
               <QuizToggle active={quiz.quizMode} onToggle={quiz.toggleQuizMode} />
@@ -569,6 +609,21 @@ export default function PlayPage() {
                 ))}
               </div>
             </div>
+          )}
+
+          {/* Speak panel */}
+          {sidebarTab === 'speak' && (
+            <SpeakingPanel
+              state={speaking.speakingState}
+              totalCues={cues.length}
+              activeCueIdx={activeCueIdx}
+              onOpen={speaking.open}
+              onGoToCue={speaking.goToCue}
+              onPlayCue={playCueAt}
+              onStartRecording={() => { playerRef.current?.pause(); speaking.startRecording(); }}
+              onStopRecording={speaking.stopRecording}
+              onRetry={speaking.retry}
+            />
           )}
           </div>{/* end inner wrapper */}
         </div>
