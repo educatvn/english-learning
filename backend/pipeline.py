@@ -25,7 +25,127 @@ from phonemizer import phonemize
 from phonemizer.separator import Separator
 
 
-# ── Models (loaded once on startup) ─────────────────────────────────────────
+# ══════════════════════════════════════════════════════════════════════════════
+# Scoring Constants — all tunable thresholds in one place
+# ══════════════════════════════════════════════════════════════════════════════
+
+# ── Phoneme distance costs ────────────────────────────────────────────────
+# Used by _phone_distance() when comparing two phonemes.
+PHONE_COST_SAME_GROUP = 0.2     # same phonetic group (e.g. /s/↔/z/, /p/↔/b/)
+PHONE_COST_NEAR_PAIR = 0.5     # known cross-group near-substitution (e.g. /θ/↔/t/)
+PHONE_COST_DIFFERENT = 1.0     # completely different phonemes (e.g. /θ/↔/k/)
+
+# ── Weighted Levenshtein costs ────────────────────────────────────────────
+# Used by _weighted_levenshtein() for edit operations on phoneme sequences.
+EDIT_COST_INSERT = 1.0          # cost of an extra spoken phoneme
+EDIT_COST_DELETE = 1.0          # cost of a missing expected phoneme
+
+# ── Word alignment (Needleman-Wunsch) ─────────────────────────────────────
+# Used by _align_words() to align reference words to ASR words.
+ALIGN_SCORE_EXACT = 3           # reward for exact word match
+ALIGN_SCORE_CLOSE = 2           # reward for fuzzy match (edit distance = 1)
+ALIGN_SCORE_STEM = 1            # reward for stem match (edit distance = 2, same prefix)
+ALIGN_SCORE_MISMATCH = -2       # penalty for unrelated words
+ALIGN_GAP_REF = -1              # penalty for skipping a reference word (missed)
+ALIGN_GAP_ASR = 0               # penalty for skipping an ASR word (extra spoken word)
+ALIGN_FUZZY_MIN_LEN = 5         # minimum word length to allow fuzzy matching
+ALIGN_STEM_PREFIX_LEN = 5       # prefix length that must match for stem-based fuzzy
+
+# ── Phoneme time window ───────────────────────────────────────────────────
+# Used when collecting wav2vec2 phonemes for a Whisper word's time range.
+PHONE_WINDOW_LEFT_MARGIN = 0.0  # no left margin — prevents bleeding from previous word
+PHONE_WINDOW_RIGHT_MARGIN = 0.03  # 30ms right margin to catch trailing consonants
+
+# ── Word scoring thresholds ───────────────────────────────────────────────
+# Applied to per-word phoneme scores to determine correct/mispronounced/missed.
+WORD_SCORE_CORRECT = 80         # phoneme score ≥ this → "correct"
+WORD_SCORE_PARTIAL = 50         # phoneme score ≥ this → "mispronounced" (partial credit)
+WORD_MATCHED_CORRECT = 1.0     # accuracy credit for a correct word
+WORD_MATCHED_PARTIAL = 0.5     # accuracy credit for a mispronounced word (score ≥ 50)
+WORD_MATCHED_BAD = 0.2         # accuracy credit for a badly mispronounced word (score < 50)
+
+# ── Overall score formula ─────────────────────────────────────────────────
+# overall = accuracy * W_ACCURACY + pronunciation * W_PRONUNCIATION + fluency * W_FLUENCY
+OVERALL_W_ACCURACY = 0.3        # weight of accuracy in overall score
+OVERALL_W_PRONUNCIATION = 0.5   # weight of pronunciation in overall score
+OVERALL_W_FLUENCY = 0.2         # weight of fluency in overall score
+
+# ── Accuracy gate ─────────────────────────────────────────────────────────
+# When accuracy is very low, pronunciation and fluency are meaningless
+# (user said completely wrong words).  Below this threshold, scale them down.
+ACCURACY_GATE_THRESHOLD = 30    # below this %, pronunciation/fluency are scaled down
+
+# ── Fluency scoring ───────────────────────────────────────────────────────
+# Thresholds based on native English conversational speech patterns.
+FLUENCY_MIN_WORDS = 2           # minimum words needed to compute fluency
+FLUENCY_DEFAULT = 50            # default fluency when too few words
+
+# Speaking rate (words per second)
+FLUENCY_RATE_VERY_SLOW = 1.0    # below this → heavily penalized
+FLUENCY_RATE_SLOW = 2.0         # below this → moderate penalty
+FLUENCY_RATE_FAST_MAX = 4.5     # above this → penalized for rushing
+FLUENCY_RATE_SWEET_MAX = 3.5    # optimal range ceiling for rate bonus
+
+# Average inter-word gap (seconds) — native speakers: ~0.08–0.15s
+FLUENCY_GAP_PERFECT = 0.15      # ≤ this → gap_score = 100
+FLUENCY_GAP_OKAY = 0.3          # ≤ this → moderate penalty
+FLUENCY_GAP_SLOW = 0.6          # ≤ this → significant penalty
+
+# Longest single gap (hesitation)
+FLUENCY_PAUSE_FINE = 0.3        # ≤ this → no penalty
+FLUENCY_PAUSE_NOTICE = 0.8      # ≤ this → moderate penalty
+FLUENCY_PAUSE_LONG = 1.5        # ≤ this → significant penalty
+FLUENCY_PAUSE_FLOOR = 15        # minimum pause score for very long hesitations
+
+# Fluency component weights (must sum to 1.0)
+FLUENCY_W_RATE = 0.35           # weight of speaking rate
+FLUENCY_W_GAP = 0.35            # weight of average gap
+FLUENCY_W_PAUSE = 0.30          # weight of longest pause
+
+# ── Fluency sub-score floors & scaling ────────────────────────────────────
+# Each fluency sub-score (rate, gap, pause) is clamped to a floor and scaled.
+# Format: (floor, scale_factor) — score = max(floor, int(base ± delta * scale))
+
+# Rate score: maps words-per-second to 0–100
+RATE_FLOOR_VERY_SLOW = 20       # minimum rate score when speaking very slowly
+RATE_SCALE_VERY_SLOW = 40       # multiplier for very slow range
+RATE_FLOOR_SLOW = 40            # minimum rate score when speaking slowly
+RATE_SCALE_SLOW = 40            # multiplier for slow range
+RATE_BASE_SWEET = 80            # base score at start of sweet-spot range
+RATE_SWEET_DIVISOR = 1.5        # divisor for sweet-spot bonus calculation
+RATE_SWEET_SCALE = 20           # multiplier for sweet-spot bonus
+RATE_FLOOR_FAST = 50            # minimum rate score when speaking too fast
+RATE_SCALE_FAST = 20            # penalty multiplier for rushing
+
+# Gap score: maps average inter-word gap to 0–100
+GAP_FLOOR_OKAY = 70             # minimum gap score in "okay" range
+GAP_SCALE_OKAY = 200            # penalty multiplier for okay range
+GAP_FLOOR_SLOW = 40             # minimum gap score in "slow" range
+GAP_SCALE_SLOW = 100            # penalty multiplier for slow range
+GAP_FLOOR_VERY_SLOW = 15        # minimum gap score for very slow gaps
+GAP_SCALE_VERY_SLOW = 50        # penalty multiplier for very slow gaps
+
+# Pause score: maps longest single gap to 0–100
+PAUSE_FLOOR_NOTICE = 50         # minimum pause score for noticeable hesitation
+PAUSE_SCALE_NOTICE = 100        # penalty multiplier for noticeable pause
+PAUSE_FLOOR_LONG = 25           # minimum pause score for long hesitation
+PAUSE_SCALE_LONG = 35           # penalty multiplier for long pause
+
+# ── Feedback thresholds ───────────────────────────────────────────────────
+FEEDBACK_MAX_MISPRONOUNCED = 3  # max mispronounced words to show in tips
+FEEDBACK_MAX_MISSED = 2         # max missed words to show in tips
+FEEDBACK_FLUENCY_WARN = 50      # show fluency tip when below this
+
+# Feedback summary thresholds (based on pronunciation score)
+FEEDBACK_GREAT_THRESHOLD = 80   # ≥ this → "Great pronunciation!"
+FEEDBACK_GOOD_THRESHOLD = 60    # ≥ this → "Good attempt!"
+FEEDBACK_KEEP_THRESHOLD = 40    # ≥ this → "Keep practicing"
+                                # below  → "Listen to the original again"
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Models (loaded once on startup)
+# ══════════════════════════════════════════════════════════════════════════════
 
 whisper_model: WhisperModel | None = None
 w2v_model: Wav2Vec2ForCTC | None = None
@@ -151,7 +271,6 @@ def recognize_phonemes(wav_path: str) -> list[RecognizedPhoneme]:
 
 def _number_to_words(s: str) -> str:
     """Convert a numeric string to English words (simple cases)."""
-    # Handle common cases without a heavy dependency
     ones = ["", "one", "two", "three", "four", "five", "six", "seven",
             "eight", "nine", "ten", "eleven", "twelve", "thirteen",
             "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
@@ -178,12 +297,10 @@ def _number_to_words(s: str) -> str:
 
 def text_to_phonemes(text: str) -> list[dict]:
     """Convert reference text → expected phonemes per word."""
-    # Match alphabetic words and numeric tokens
     raw_tokens = re.findall(r"[a-zA-Z']+|\d+", text)
     if not raw_tokens:
         return []
 
-    # Expand numbers to words, then flatten into individual word tokens
     words: list[str] = []
     for token in raw_tokens:
         if re.fullmatch(r"\d+", token):
@@ -232,7 +349,6 @@ _COMPOUND_SPLITS: dict[str, list[str]] = {
 }
 
 # Strip length mark — treat long/short as same base phoneme during comparison.
-# The distinction matters for advanced learners but not for basic scoring.
 _LENGTH_STRIP = str.maketrans("", "", "ː")
 
 
@@ -243,7 +359,6 @@ def _normalize_phonemes(tokens: list[str]) -> list[str]:
         if tok in _COMPOUND_SPLITS:
             out.extend(_COMPOUND_SPLITS[tok])
         else:
-            # Strip length mark (ː) from any token
             stripped = tok.translate(_LENGTH_STRIP)
             if stripped:
                 out.append(stripped)
@@ -251,8 +366,7 @@ def _normalize_phonemes(tokens: list[str]) -> list[str]:
 
 
 # Phonetic feature groups — substitution within the same group costs less
-# than across groups.  This prevents minor accent variations (e.g. /θ/ vs /ð/)
-# from being penalized as heavily as completely wrong sounds (/θ/ vs /k/).
+# than across groups.
 _PHONE_GROUPS: dict[str, int] = {}
 _GROUPS = [
     # Plosives (voiceless / voiced pairs)
@@ -283,7 +397,6 @@ for phones, gid in _GROUPS:
     for ph in phones:
         _PHONE_GROUPS[ph] = gid
 
-
 # Common cross-group near-substitutions — these occur in normal accents
 # and should be penalized less than truly wrong sounds.
 _NEAR_PAIRS: set[tuple[str, str]] = set()
@@ -298,21 +411,16 @@ for _a, _b in [
 
 
 def _phone_distance(a: str, b: str) -> float:
-    """Substitution cost between two phonemes based on phonetic similarity.
-
-    Returns 0.0 (identical), 0.2 (same group, e.g. /s/↔/z/),
-    0.5 (near-pair across groups, e.g. /θ/↔/t/),
-    or 1.0 (different groups, e.g. /θ/↔/k/).
-    """
+    """Substitution cost between two phonemes based on phonetic similarity."""
     if a == b:
         return 0.0
     ga = _PHONE_GROUPS.get(a)
     gb = _PHONE_GROUPS.get(b)
     if ga is not None and gb is not None and ga == gb:
-        return 0.2
+        return PHONE_COST_SAME_GROUP
     if (a, b) in _NEAR_PAIRS:
-        return 0.5
-    return 1.0
+        return PHONE_COST_NEAR_PAIR
+    return PHONE_COST_DIFFERENT
 
 
 def _weighted_levenshtein(a: list[str], b: list[str]) -> float:
@@ -323,13 +431,13 @@ def _weighted_levenshtein(a: list[str], b: list[str]) -> float:
         return float(len(a))
     prev = [float(i) for i in range(len(b) + 1)]
     for ca in a:
-        curr = [prev[0] + 1.0]
+        curr = [prev[0] + EDIT_COST_DELETE]
         for j, cb in enumerate(b):
             sub_cost = _phone_distance(ca, cb)
             curr.append(min(
-                curr[j] + 1.0,       # insert
-                prev[j + 1] + 1.0,   # delete
-                prev[j] + sub_cost,   # substitute
+                curr[j] + EDIT_COST_INSERT,
+                prev[j + 1] + EDIT_COST_DELETE,
+                prev[j] + sub_cost,
             ))
         prev = curr
     return prev[-1]
@@ -366,11 +474,34 @@ _CONTRACTIONS: dict[str, list[str]] = {
     "shouldn't": ["should", "not"],
     "hasn't": ["has", "not"], "haven't": ["have", "not"], "hadn't": ["had", "not"],
     "let's": ["let", "us"],
+    # Spoken reductions — natural informal pronunciations
+    "gonna": ["going", "to"],
+    "gotta": ["got", "to"],
+    "wanna": ["want", "to"],
+    "hafta": ["have", "to"],
+    "oughta": ["ought", "to"],
+    "kinda": ["kind", "of"],
+    "sorta": ["sort", "of"],
+    "lotta": ["lot", "of"],
+    "outta": ["out", "of"],
+    "coulda": ["could", "have"],
+    "shoulda": ["should", "have"],
+    "woulda": ["would", "have"],
+    "musta": ["must", "have"],
+    "dunno": ["do", "not", "know"],
+    "lemme": ["let", "me"],
+    "gimme": ["give", "me"],
 }
+
+# Reverse lookup: which multi-word sequences are valid spoken reductions?
+_REDUCTION_TARGETS: dict[tuple[str, ...], str] = {}
+for _red, _parts in _CONTRACTIONS.items():
+    if len(_parts) >= 2:
+        _REDUCTION_TARGETS[tuple(_parts)] = _red
 
 
 def _expand_contractions(words: list[str]) -> list[str]:
-    """Expand contractions to individual words for alignment."""
+    """Expand contractions and spoken reductions for alignment."""
     result: list[str] = []
     for w in words:
         low = w.lower()
@@ -393,20 +524,17 @@ def _align_words(ref_words: list[str], asr_words: list[str]) -> list[int | None]
 
     def sim(r: str, a: str) -> int:
         """Strict similarity: exact match or very close (edit distance ≤ 1
-        for words > 5 chars).  Short words must match exactly — "a" must
-        not match "I", "the" must not match "they"."""
+        for words > ALIGN_FUZZY_MIN_LEN chars).  Short words must match
+        exactly — "a" must not match "I", "the" must not match "they"."""
         if r == a:
-            return 3
-        # Only allow fuzzy match for longer words (morphological variants
-        # like "delivered"/"delivery") with edit distance exactly 1
-        if len(r) > 5 and len(a) > 5:
+            return ALIGN_SCORE_EXACT
+        if len(r) > ALIGN_FUZZY_MIN_LEN and len(a) > ALIGN_FUZZY_MIN_LEN:
             dist = _levenshtein(r, a)
             if dist == 1:
-                return 2
-            # Also allow distance 2 if both words share the same stem (≥5 chars)
-            if dist == 2 and r[:5] == a[:5]:
-                return 1
-        return -2
+                return ALIGN_SCORE_CLOSE
+            if dist == 2 and r[:ALIGN_STEM_PREFIX_LEN] == a[:ALIGN_STEM_PREFIX_LEN]:
+                return ALIGN_SCORE_STEM
+        return ALIGN_SCORE_MISMATCH
 
     NEG_INF = -999999
     dp = [[NEG_INF] * (m + 1) for _ in range(n + 1)]
@@ -414,15 +542,12 @@ def _align_words(ref_words: list[str], asr_words: list[str]) -> list[int | None]
     for j in range(1, m + 1):
         dp[0][j] = 0  # skip leading ASR words freely
 
-    GAP_REF = -1  # penalty for missing a reference word
-    GAP_ASR = 0   # no penalty for extra ASR words
-
     for i in range(1, n + 1):
-        dp[i][0] = dp[i - 1][0] + GAP_REF
+        dp[i][0] = dp[i - 1][0] + ALIGN_GAP_REF
         for j in range(1, m + 1):
             score_match = dp[i - 1][j - 1] + sim(ref_words[i - 1], asr_words[j - 1])
-            score_skip_ref = dp[i - 1][j] + GAP_REF
-            score_skip_asr = dp[i][j - 1] + GAP_ASR
+            score_skip_ref = dp[i - 1][j] + ALIGN_GAP_REF
+            score_skip_asr = dp[i][j - 1] + ALIGN_GAP_ASR
             dp[i][j] = max(score_match, score_skip_ref, score_skip_asr)
 
     # Traceback
@@ -434,7 +559,7 @@ def _align_words(ref_words: list[str], asr_words: list[str]) -> list[int | None]
             alignment[i - 1] = j - 1 if s > 0 else None
             i -= 1
             j -= 1
-        elif dp[i][j] == dp[i - 1][j] + GAP_REF:
+        elif dp[i][j] == dp[i - 1][j] + ALIGN_GAP_REF:
             alignment[i - 1] = None
             i -= 1
         else:
@@ -450,15 +575,12 @@ def score_pronunciation(
     expected_phonemes: list[dict],
 ) -> tuple[dict, dict]:
     # ── Expand contractions in both reference and ASR ──
-    # "you're" → ["you", "are"] so it can match ASR "you are" word-by-word.
-    # We also need to expand expected_phonemes to match the expanded words.
     raw_ref = [exp["word"].lower() for exp in expected_phonemes]
     raw_asr = [w.word.lower().strip(".,!?;:\"'") for w in asr.words]
 
-    # Build expanded reference: each original word may become 1+ expanded words.
-    # Track which original index each expanded word comes from.
+    # Build expanded reference with origin tracking
     exp_ref: list[str] = []
-    exp_ref_origin: list[int] = []  # exp_ref[k] came from original word exp_ref_origin[k]
+    exp_ref_origin: list[int] = []
     for i, w in enumerate(raw_ref):
         if w in _CONTRACTIONS:
             for part in _CONTRACTIONS[w]:
@@ -473,25 +595,48 @@ def score_pronunciation(
     # ── Word-level alignment (strict) ──
     expanded_alignment = _align_words(exp_ref, exp_asr)
 
-    # Collapse expanded alignment back to original word indices.
-    # For each original word, it's "matched" if ALL its expanded parts matched.
-    # It's "partial" if some matched.  It's "missed" if none matched.
-    orig_alignment: list[dict] = []  # per original word
+    # Build mapping: expanded ASR index → original ASR word index
+    exp_asr_to_orig: list[int] = []
+    for j, w in enumerate(raw_asr):
+        low = w.lower().strip(".,!?;:\"'")
+        count = len(_CONTRACTIONS[low]) if low in _CONTRACTIONS else 1
+        for _ in range(count):
+            exp_asr_to_orig.append(j)
+
+    # Detect which original ASR words are spoken reductions (e.g. "gonna")
+    asr_is_reduction: set[int] = set()
+    for j, w in enumerate(raw_asr):
+        low = w.lower().strip(".,!?;:\"'")
+        if low in _CONTRACTIONS and "'" not in low:
+            asr_is_reduction.add(j)
+
+    # Collapse expanded alignment back to original word indices
+    orig_alignment: list[dict] = []
     for i in range(len(expected_phonemes)):
-        # Find all expanded indices for this original word
         exp_indices = [k for k, orig in enumerate(exp_ref_origin) if orig == i]
         matched_asr_indices = [expanded_alignment[k] for k in exp_indices if expanded_alignment[k] is not None]
         total_parts = len(exp_indices)
         matched_parts = len(matched_asr_indices)
 
+        # Check if matched via a spoken reduction
+        is_reduction = False
+        if matched_asr_indices:
+            orig_asr_set = {exp_asr_to_orig[idx] for idx in matched_asr_indices}
+            if any(j in asr_is_reduction for j in orig_asr_set):
+                is_reduction = True
+
         if matched_parts == total_parts:
-            # Fully matched — find the ASR word(s) for time window
-            orig_alignment.append({"status": "matched", "asr_indices": matched_asr_indices})
+            orig_alignment.append({
+                "status": "matched", "asr_indices": matched_asr_indices,
+                "is_reduction": is_reduction,
+            })
         elif matched_parts > 0:
-            # Partial (e.g. "you're" → "you" matched but "are" didn't)
-            orig_alignment.append({"status": "partial", "asr_indices": matched_asr_indices})
+            orig_alignment.append({
+                "status": "partial", "asr_indices": matched_asr_indices,
+                "is_reduction": is_reduction,
+            })
         else:
-            orig_alignment.append({"status": "missed", "asr_indices": []})
+            orig_alignment.append({"status": "missed", "asr_indices": [], "is_reduction": False})
 
     # ── Per-word scoring ──
     word_details = []
@@ -501,22 +646,14 @@ def score_pronunciation(
         exp_phones = exp["phonemes"]
         align_info = orig_alignment[i]
 
-        # Map expanded ASR indices back to original ASR words for time windows.
-        # expanded_asr was built from raw_asr, so indices correspond 1:1 only
-        # when no contractions were expanded in ASR.  We need original ASR words
-        # for timestamps, so map back.
         asr_word: AsrWord | None = None
         heard_as: str | None = None
 
         if align_info["status"] == "missed":
-            # Word not found in ASR at all → missed
             status = "missed"
             word_phones: list[RecognizedPhoneme] = []
             phone_score = 0.0
         else:
-            # Find the original ASR word(s) that cover the matched time window.
-            # Since expanded ASR maps 1:N from original ASR words, we need to
-            # find which original ASR word the expanded index came from.
             asr_indices_expanded = align_info["asr_indices"]
 
             # Map expanded ASR index → original ASR word index
@@ -542,10 +679,9 @@ def score_pronunciation(
             if orig_asr_indices:
                 first_asr = asr.words[orig_asr_indices[0]]
                 last_asr = asr.words[orig_asr_indices[-1]]
-                asr_word = first_asr  # for probability
+                asr_word = first_asr
 
-                # Check if ASR text differs from reference.
-                # Compare expanded forms so "they've" == "they have".
+                # Check if ASR text differs from reference (compare expanded forms)
                 asr_text_parts = []
                 for j in orig_asr_indices:
                     low = asr.words[j].word.lower().strip(".,!?;:\"'")
@@ -557,46 +693,51 @@ def score_pronunciation(
                 if asr_text_parts != ref_text_parts:
                     heard_as = " ".join(asr.words[j].word for j in orig_asr_indices)
 
-                # Collect phonemes in the full time window
-                margin = 0.05
+                # Collect phonemes within the word's time window
                 word_phones = [
                     p for p in recognized_phonemes
-                    if (first_asr.start - margin) <= p.time <= (last_asr.end + margin)
+                    if (first_asr.start + PHONE_WINDOW_LEFT_MARGIN) <= p.time <= (last_asr.end + PHONE_WINDOW_RIGHT_MARGIN)
                 ]
             else:
                 word_phones = []
 
-            # Phoneme scoring
-            recognized_str = [p.phoneme for p in word_phones]
-            exp_norm = _normalize_phonemes(exp_phones)
-            rec_norm = _normalize_phonemes(recognized_str)
-
-            if exp_norm and rec_norm:
-                dist = _weighted_levenshtein(exp_norm, rec_norm)
-                phone_score = max(0, (1 - dist / max(len(exp_norm), len(rec_norm)))) * 100
-            elif not exp_norm:
+            # Spoken reduction → accept as correct
+            if align_info["is_reduction"]:
                 phone_score = 100.0
-            else:
-                phone_score = 0.0
-
-            # Partial match (e.g. "you're" but only "you" matched) → cap score
-            if align_info["status"] == "partial":
-                total_parts = len([k for k, o in enumerate(exp_ref_origin) if o == i])
-                matched_parts = len(align_info["asr_indices"])
-                # Scale score by match ratio — "you're" with only "you" = 50%
-                partial_ratio = matched_parts / total_parts
-                phone_score = phone_score * partial_ratio
-
-            # Determine status from phoneme score
-            if phone_score >= 80:
                 status = "correct"
-                matched += 1
-            elif phone_score >= 50:
-                status = "mispronounced"
-                matched += 0.5
+                matched += WORD_MATCHED_CORRECT
+                heard_as = None
             else:
-                status = "mispronounced"
-                matched += 0.2
+                # Phoneme scoring
+                recognized_str = [p.phoneme for p in word_phones]
+                exp_norm = _normalize_phonemes(exp_phones)
+                rec_norm = _normalize_phonemes(recognized_str)
+
+                if exp_norm and rec_norm:
+                    dist = _weighted_levenshtein(exp_norm, rec_norm)
+                    phone_score = max(0, (1 - dist / max(len(exp_norm), len(rec_norm)))) * 100
+                elif not exp_norm:
+                    phone_score = 100.0
+                else:
+                    phone_score = 0.0
+
+                # Partial match → scale score by match ratio
+                if align_info["status"] == "partial":
+                    total_parts = len([k for k, o in enumerate(exp_ref_origin) if o == i])
+                    matched_parts = len(align_info["asr_indices"])
+                    partial_ratio = matched_parts / total_parts
+                    phone_score = phone_score * partial_ratio
+
+                # Determine status from phoneme score
+                if phone_score >= WORD_SCORE_CORRECT:
+                    status = "correct"
+                    matched += WORD_MATCHED_CORRECT
+                elif phone_score >= WORD_SCORE_PARTIAL:
+                    status = "mispronounced"
+                    matched += WORD_MATCHED_PARTIAL
+                else:
+                    status = "mispronounced"
+                    matched += WORD_MATCHED_BAD
 
         avg_conf = (
             sum(p.confidence for p in word_phones) / len(word_phones)
@@ -623,12 +764,16 @@ def score_pronunciation(
 
     fluency = _compute_fluency(asr)
 
-    # Accuracy gates pronunciation/fluency: below 30% accuracy they're meaningless
-    accuracy_factor = min(1.0, accuracy / 30)
+    # Accuracy gates pronunciation/fluency
+    accuracy_factor = min(1.0, accuracy / ACCURACY_GATE_THRESHOLD)
     effective_pronunciation = round(pronunciation * accuracy_factor)
     effective_fluency = round(fluency * accuracy_factor)
 
-    overall = round(accuracy * 0.3 + effective_pronunciation * 0.5 + effective_fluency * 0.2)
+    overall = round(
+        accuracy * OVERALL_W_ACCURACY
+        + effective_pronunciation * OVERALL_W_PRONUNCIATION
+        + effective_fluency * OVERALL_W_FLUENCY
+    )
 
     score = {
         "accuracy": accuracy,
@@ -646,14 +791,9 @@ def score_pronunciation(
 
 
 def _compute_fluency(asr: AsrResult) -> int:
-    """Score fluency based on speaking rate, pauses, and rhythm.
-
-    Native conversational English is roughly 2.5–4 words/sec with short
-    inter-word gaps (~0.05-0.15s).  Learners tend to have longer/more
-    frequent pauses and slower or uneven pace.
-    """
-    if len(asr.words) < 2:
-        return 50
+    """Score fluency based on speaking rate, pauses, and rhythm."""
+    if len(asr.words) < FLUENCY_MIN_WORDS:
+        return FLUENCY_DEFAULT
 
     gaps = [
         asr.words[i].start - asr.words[i - 1].end
@@ -664,43 +804,44 @@ def _compute_fluency(asr: AsrResult) -> int:
 
     total_time = asr.words[-1].end - asr.words[0].start
     if total_time <= 0:
-        return 50
+        return FLUENCY_DEFAULT
     wps = len(asr.words) / total_time
 
     # ── Speaking rate score ──
-    # Sweet spot: 2.5–4.0 wps (natural English pace)
-    if wps < 1.0:
-        rate_score = max(20, int(wps / 1.0 * 40))
-    elif wps < 2.0:
-        rate_score = max(40, int(40 + (wps - 1.0) * 40))
-    elif wps <= 4.5:
-        rate_score = min(100, int(80 + (min(wps, 3.5) - 2.0) / 1.5 * 20))
+    if wps < FLUENCY_RATE_VERY_SLOW:
+        rate_score = max(RATE_FLOOR_VERY_SLOW, int(wps / FLUENCY_RATE_VERY_SLOW * RATE_SCALE_VERY_SLOW))
+    elif wps < FLUENCY_RATE_SLOW:
+        rate_score = max(RATE_FLOOR_SLOW, int(RATE_FLOOR_SLOW + (wps - FLUENCY_RATE_VERY_SLOW) * RATE_SCALE_SLOW))
+    elif wps <= FLUENCY_RATE_FAST_MAX:
+        rate_score = min(100, int(RATE_BASE_SWEET + (min(wps, FLUENCY_RATE_SWEET_MAX) - FLUENCY_RATE_SLOW) / RATE_SWEET_DIVISOR * RATE_SWEET_SCALE))
     else:
-        rate_score = max(50, int(100 - (wps - 4.5) * 20))
+        rate_score = max(RATE_FLOOR_FAST, int(100 - (wps - FLUENCY_RATE_FAST_MAX) * RATE_SCALE_FAST))
 
     # ── Gap score (average inter-word gap) ──
-    # Native: ~0.08-0.15s.  Learners: 0.2-0.5s+
-    if avg_gap <= 0.15:
+    if avg_gap <= FLUENCY_GAP_PERFECT:
         gap_score = 100
-    elif avg_gap <= 0.3:
-        gap_score = max(70, int(100 - (avg_gap - 0.15) * 200))
-    elif avg_gap <= 0.6:
-        gap_score = max(40, int(70 - (avg_gap - 0.3) * 100))
+    elif avg_gap <= FLUENCY_GAP_OKAY:
+        gap_score = max(GAP_FLOOR_OKAY, int(100 - (avg_gap - FLUENCY_GAP_PERFECT) * GAP_SCALE_OKAY))
+    elif avg_gap <= FLUENCY_GAP_SLOW:
+        gap_score = max(GAP_FLOOR_SLOW, int(GAP_FLOOR_OKAY - (avg_gap - FLUENCY_GAP_OKAY) * GAP_SCALE_SLOW))
     else:
-        gap_score = max(15, int(40 - (avg_gap - 0.6) * 50))
+        gap_score = max(GAP_FLOOR_VERY_SLOW, int(GAP_FLOOR_SLOW - (avg_gap - FLUENCY_GAP_SLOW) * GAP_SCALE_VERY_SLOW))
 
     # ── Pause penalty (longest gap) ──
-    # Any single gap > 0.5s indicates a hesitation
-    if max_gap <= 0.3:
+    if max_gap <= FLUENCY_PAUSE_FINE:
         pause_score = 100
-    elif max_gap <= 0.8:
-        pause_score = max(50, int(100 - (max_gap - 0.3) * 100))
-    elif max_gap <= 1.5:
-        pause_score = max(25, int(50 - (max_gap - 0.8) * 35))
+    elif max_gap <= FLUENCY_PAUSE_NOTICE:
+        pause_score = max(PAUSE_FLOOR_NOTICE, int(100 - (max_gap - FLUENCY_PAUSE_FINE) * PAUSE_SCALE_NOTICE))
+    elif max_gap <= FLUENCY_PAUSE_LONG:
+        pause_score = max(PAUSE_FLOOR_LONG, int(PAUSE_FLOOR_NOTICE - (max_gap - FLUENCY_PAUSE_NOTICE) * PAUSE_SCALE_LONG))
     else:
-        pause_score = 15
+        pause_score = FLUENCY_PAUSE_FLOOR
 
-    return min(100, round(rate_score * 0.35 + gap_score * 0.35 + pause_score * 0.3))
+    return min(100, round(
+        rate_score * FLUENCY_W_RATE
+        + gap_score * FLUENCY_W_GAP
+        + pause_score * FLUENCY_W_PAUSE
+    ))
 
 
 def _generate_feedback(word_details: list[dict], pronunciation: int, fluency: int) -> dict:
@@ -709,7 +850,7 @@ def _generate_feedback(word_details: list[dict], pronunciation: int, fluency: in
     mispronounced = [w for w in word_details if w["status"] == "mispronounced"]
     missed = [w for w in word_details if w["status"] == "missed"]
 
-    for w in mispronounced[:3]:
+    for w in mispronounced[:FEEDBACK_MAX_MISPRONOUNCED]:
         if w["expected_phonemes"] and w["recognized_phonemes"]:
             tips.append(
                 f"'{w['word']}': expected /{w['expected_phonemes']}/, "
@@ -718,17 +859,17 @@ def _generate_feedback(word_details: list[dict], pronunciation: int, fluency: in
         elif w.get("heard_as"):
             tips.append(f"'{w['word']}': heard as '{w['heard_as']}'")
 
-    for w in missed[:2]:
+    for w in missed[:FEEDBACK_MAX_MISSED]:
         tips.append(f"'{w['word']}' was not detected — try pronouncing it more clearly")
 
-    if fluency < 50:
+    if fluency < FEEDBACK_FLUENCY_WARN:
         tips.append("Try to speak more fluently with fewer pauses between words")
 
-    if pronunciation >= 80:
+    if pronunciation >= FEEDBACK_GREAT_THRESHOLD:
         summary = "Great pronunciation! Keep it up."
-    elif pronunciation >= 60:
+    elif pronunciation >= FEEDBACK_GOOD_THRESHOLD:
         summary = "Good attempt! A few words need work."
-    elif pronunciation >= 40:
+    elif pronunciation >= FEEDBACK_KEEP_THRESHOLD:
         summary = "Keep practicing — focus on the highlighted words."
     else:
         summary = "Listen to the original again and try speaking slowly."
@@ -782,7 +923,6 @@ def to_wav(input_path: str) -> str:
 
 def process(audio_path: str, reference_text: str) -> dict:
     """Run the full pronunciation scoring pipeline."""
-    # Convert to WAV (ensures compatibility with all models)
     wav_path = to_wav(audio_path)
 
     try:
