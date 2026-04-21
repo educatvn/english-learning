@@ -337,44 +337,91 @@ def _weighted_levenshtein(a: list[str], b: list[str]) -> float:
 
 # ── [4] Scoring Engine ──────────────────────────────────────────────────────
 
-def _align_words(ref_words: list[str], asr_words: list[str]) -> list[int | None]:
-    """Align reference words to ASR words using DP (Needleman-Wunsch style).
+# Expand contractions so "you're" matches ASR "you are", etc.
+_CONTRACTIONS: dict[str, list[str]] = {
+    "i'm": ["i", "am"], "i'll": ["i", "will"], "i'd": ["i", "would"],
+    "i've": ["i", "have"],
+    "you're": ["you", "are"], "you'll": ["you", "will"], "you'd": ["you", "would"],
+    "you've": ["you", "have"],
+    "he's": ["he", "is"], "he'll": ["he", "will"], "he'd": ["he", "would"],
+    "she's": ["she", "is"], "she'll": ["she", "will"], "she'd": ["she", "would"],
+    "it's": ["it", "is"], "it'll": ["it", "will"], "it'd": ["it", "would"],
+    "we're": ["we", "are"], "we'll": ["we", "will"], "we'd": ["we", "would"],
+    "we've": ["we", "have"],
+    "they're": ["they", "are"], "they'll": ["they", "will"], "they'd": ["they", "would"],
+    "they've": ["they", "have"],
+    "that's": ["that", "is"], "that'll": ["that", "will"], "that'd": ["that", "would"],
+    "there's": ["there", "is"], "there'll": ["there", "will"],
+    "here's": ["here", "is"],
+    "what's": ["what", "is"], "what'll": ["what", "will"], "what'd": ["what", "did"],
+    "who's": ["who", "is"], "who'll": ["who", "will"], "who'd": ["who", "would"],
+    "where's": ["where", "is"],
+    "when's": ["when", "is"],
+    "how's": ["how", "is"],
+    "don't": ["do", "not"], "doesn't": ["does", "not"], "didn't": ["did", "not"],
+    "isn't": ["is", "not"], "aren't": ["are", "not"], "wasn't": ["was", "not"],
+    "weren't": ["were", "not"],
+    "won't": ["will", "not"], "wouldn't": ["would", "not"],
+    "can't": ["can", "not"], "couldn't": ["could", "not"],
+    "shouldn't": ["should", "not"],
+    "hasn't": ["has", "not"], "haven't": ["have", "not"], "hadn't": ["had", "not"],
+    "let's": ["let", "us"],
+}
 
+
+def _expand_contractions(words: list[str]) -> list[str]:
+    """Expand contractions to individual words for alignment."""
+    result: list[str] = []
+    for w in words:
+        low = w.lower()
+        if low in _CONTRACTIONS:
+            result.extend(_CONTRACTIONS[low])
+        else:
+            result.append(low)
+    return result
+
+
+def _align_words(ref_words: list[str], asr_words: list[str]) -> list[int | None]:
+    """Align reference words to ASR words using Needleman-Wunsch DP.
+
+    Both inputs should already be expanded (contractions split) and lowered.
     Returns a list of length len(ref_words) where each entry is either the
-    index of the matched ASR word or None (missed).  Matches are order-
-    preserving and at most 1-to-1.
+    index of the matched ASR word or None (missed).
     """
     n = len(ref_words)
     m = len(asr_words)
 
     def sim(r: str, a: str) -> int:
+        """Strict similarity: exact match or very close (edit distance ≤ 1
+        for words > 5 chars).  Short words must match exactly — "a" must
+        not match "I", "the" must not match "they"."""
         if r == a:
             return 3
-        dist = _levenshtein(r, a)
-        threshold = 1 if len(r) <= 4 else 2
-        if dist <= threshold:
-            return 1
+        # Only allow fuzzy match for longer words (morphological variants
+        # like "delivered"/"delivery") with edit distance exactly 1
+        if len(r) > 5 and len(a) > 5:
+            dist = _levenshtein(r, a)
+            if dist == 1:
+                return 2
+            # Also allow distance 2 if both words share the same stem (≥5 chars)
+            if dist == 2 and r[:5] == a[:5]:
+                return 1
         return -2
 
-    # dp[i][j] = best score aligning ref[:i] with asr[:j]
     NEG_INF = -999999
     dp = [[NEG_INF] * (m + 1) for _ in range(n + 1)]
     dp[0][0] = 0
-    # Allow skipping ASR words at the start (no penalty)
     for j in range(1, m + 1):
-        dp[0][j] = 0
+        dp[0][j] = 0  # skip leading ASR words freely
 
-    GAP_REF = -1  # penalty for skipping a reference word (missed)
-    GAP_ASR = 0   # no penalty for skipping an ASR word (extra word in transcript)
+    GAP_REF = -1  # penalty for missing a reference word
+    GAP_ASR = 0   # no penalty for extra ASR words
 
     for i in range(1, n + 1):
         dp[i][0] = dp[i - 1][0] + GAP_REF
         for j in range(1, m + 1):
-            # Option 1: match ref[i-1] with asr[j-1]
             score_match = dp[i - 1][j - 1] + sim(ref_words[i - 1], asr_words[j - 1])
-            # Option 2: skip ref word (mark as missed)
             score_skip_ref = dp[i - 1][j] + GAP_REF
-            # Option 3: skip ASR word (extra word spoken)
             score_skip_asr = dp[i][j - 1] + GAP_ASR
             dp[i][j] = max(score_match, score_skip_ref, score_skip_asr)
 
@@ -396,216 +443,166 @@ def _align_words(ref_words: list[str], asr_words: list[str]) -> list[int | None]
     return alignment
 
 
-def _forced_align_phonemes(
-    expected: list[dict],
-    recognized: list[RecognizedPhoneme],
-) -> list[tuple[list[RecognizedPhoneme], float]]:
-    """Align reference words to recognized phonemes via phoneme-level DP.
-
-    Instead of relying on Whisper word boundaries (which are affected by
-    auto-correction), we align the full stream of recognized phonemes
-    directly against the concatenated expected-phoneme sequence, then
-    split the result back into per-word segments.
-
-    Returns a list (one per reference word) of (matched_phonemes, score).
-    """
-    # Build flat expected sequence with word boundaries
-    flat_exp: list[str] = []
-    word_boundaries: list[tuple[int, int]] = []  # (start_idx, end_idx) in flat_exp
-    for exp in expected:
-        norm = _normalize_phonemes(exp["phonemes"])
-        start = len(flat_exp)
-        flat_exp.extend(norm)
-        word_boundaries.append((start, len(flat_exp)))
-
-    rec_norm = _normalize_phonemes([p.phoneme for p in recognized])
-
-    if not flat_exp or not rec_norm:
-        return [([], 0.0)] * len(expected)
-
-    n = len(flat_exp)
-    m = len(rec_norm)
-
-    # DP: align flat_exp (reference) to rec_norm (what was spoken)
-    # dp[i][j] = min weighted distance aligning flat_exp[:i] to rec_norm[:j]
-    INF = float("inf")
-    dp = [[INF] * (m + 1) for _ in range(n + 1)]
-    dp[0][0] = 0.0
-    # Allow skipping leading recognized phonemes (user noise/breathing)
-    for j in range(1, m + 1):
-        dp[0][j] = 0.0
-
-    for i in range(1, n + 1):
-        dp[i][0] = dp[i - 1][0] + 1.0  # missing expected phoneme
-        for j in range(1, m + 1):
-            sub = dp[i - 1][j - 1] + _phone_distance(flat_exp[i - 1], rec_norm[j - 1])
-            delete = dp[i - 1][j] + 1.0      # expected phoneme not spoken
-            insert = dp[i][j - 1] + 0.5       # extra spoken phoneme (lower cost)
-            dp[i][j] = min(sub, delete, insert)
-
-    # Traceback to find which rec phonemes matched which expected phonemes
-    matches: list[int | None] = [None] * n  # matches[exp_idx] = rec_idx or None
-    i, j = n, m
-    while i > 0 and j > 0:
-        sub = dp[i - 1][j - 1] + _phone_distance(flat_exp[i - 1], rec_norm[j - 1])
-        if abs(dp[i][j] - sub) < 1e-9:
-            matches[i - 1] = j - 1
-            i -= 1
-            j -= 1
-        elif abs(dp[i][j] - (dp[i - 1][j] + 1.0)) < 1e-9:
-            matches[i - 1] = None  # expected but not spoken
-            i -= 1
-        else:
-            j -= 1  # extra spoken phoneme
-    while i > 0:
-        matches[i - 1] = None
-        i -= 1
-
-    # Split results back into per-word segments
-    results: list[tuple[list[RecognizedPhoneme], float]] = []
-    for exp_i, (start, end) in enumerate(word_boundaries):
-        word_exp = flat_exp[start:end]
-        word_len = len(word_exp)
-
-        if word_len == 0:
-            results.append(([], 100.0))
-            continue
-
-        # Collect matched recognized phonemes for this word
-        word_rec_indices = [matches[k] for k in range(start, end) if matches[k] is not None]
-        word_rec_phones: list[RecognizedPhoneme] = []
-        if word_rec_indices:
-            min_idx = min(word_rec_indices)
-            max_idx = max(word_rec_indices)
-            # Map normalized indices back to original recognized phonemes
-            # (approximate — use time-based approach for original phoneme objects)
-            word_rec_phones = []
-
-        # Compute per-word score from the DP path.
-        # Each phoneme contributes equally: perfect match = 0, same-group
-        # substitution = 0.3, cross-group substitution = 1.0, missing = 1.0.
-        # We also penalise coverage: if fewer than all expected phonemes
-        # were matched, scale the score down proportionally.
-        word_dist = 0.0
-        word_matched = 0
-        for k in range(start, end):
-            if matches[k] is not None:
-                word_dist += _phone_distance(flat_exp[k], rec_norm[matches[k]])
-                word_matched += 1
-            else:
-                word_dist += 1.0  # missing phoneme
-
-        # Base quality score from distance
-        quality = max(0.0, 1.0 - word_dist / word_len) if word_len else 1.0
-        # Coverage ratio — what fraction of expected phonemes were found
-        coverage = word_matched / word_len if word_len else 1.0
-        # Final score = quality * coverage — both must be high
-        word_score = quality * coverage * 100
-
-        results.append((word_rec_phones, word_score))
-
-    return results
-
-
 def score_pronunciation(
     reference: str,
     asr: AsrResult,
     recognized_phonemes: list[RecognizedPhoneme],
     expected_phonemes: list[dict],
 ) -> tuple[dict, dict]:
-    asr_lower = [w.word.lower().strip(".,!?;:\"'") for w in asr.words]
-    ref_lower = [exp["word"].lower() for exp in expected_phonemes]
+    # ── Expand contractions in both reference and ASR ──
+    # "you're" → ["you", "are"] so it can match ASR "you are" word-by-word.
+    # We also need to expand expected_phonemes to match the expanded words.
+    raw_ref = [exp["word"].lower() for exp in expected_phonemes]
+    raw_asr = [w.word.lower().strip(".,!?;:\"'") for w in asr.words]
 
-    # ── Two-track scoring ──
-    # Track A: Whisper word alignment (what Whisper thinks was said)
-    # Track B: Forced phoneme alignment (what wav2vec2 actually heard)
-    # The final score uses the LOWER of the two — catching cases where
-    # Whisper auto-corrects (Track A says OK but Track B catches the error)
-    # or where phoneme recognition is noisy (Track B noisy but Track A clear).
+    # Build expanded reference: each original word may become 1+ expanded words.
+    # Track which original index each expanded word comes from.
+    exp_ref: list[str] = []
+    exp_ref_origin: list[int] = []  # exp_ref[k] came from original word exp_ref_origin[k]
+    for i, w in enumerate(raw_ref):
+        if w in _CONTRACTIONS:
+            for part in _CONTRACTIONS[w]:
+                exp_ref.append(part)
+                exp_ref_origin.append(i)
+        else:
+            exp_ref.append(w)
+            exp_ref_origin.append(i)
 
-    # Track A: Whisper-based word alignment
-    alignment = _align_words(ref_lower, asr_lower)
+    exp_asr = _expand_contractions(raw_asr)
 
-    # Track B: Direct phoneme forced alignment (Whisper-independent)
-    forced_results = _forced_align_phonemes(expected_phonemes, recognized_phonemes)
+    # ── Word-level alignment (strict) ──
+    expanded_alignment = _align_words(exp_ref, exp_asr)
 
+    # Collapse expanded alignment back to original word indices.
+    # For each original word, it's "matched" if ALL its expanded parts matched.
+    # It's "partial" if some matched.  It's "missed" if none matched.
+    orig_alignment: list[dict] = []  # per original word
+    for i in range(len(expected_phonemes)):
+        # Find all expanded indices for this original word
+        exp_indices = [k for k, orig in enumerate(exp_ref_origin) if orig == i]
+        matched_asr_indices = [expanded_alignment[k] for k in exp_indices if expanded_alignment[k] is not None]
+        total_parts = len(exp_indices)
+        matched_parts = len(matched_asr_indices)
+
+        if matched_parts == total_parts:
+            # Fully matched — find the ASR word(s) for time window
+            orig_alignment.append({"status": "matched", "asr_indices": matched_asr_indices})
+        elif matched_parts > 0:
+            # Partial (e.g. "you're" → "you" matched but "are" didn't)
+            orig_alignment.append({"status": "partial", "asr_indices": matched_asr_indices})
+        else:
+            orig_alignment.append({"status": "missed", "asr_indices": []})
+
+    # ── Per-word scoring ──
     word_details = []
     matched = 0.0
 
     for i, exp in enumerate(expected_phonemes):
         exp_phones = exp["phonemes"]
-        asr_idx = alignment[i]
+        align_info = orig_alignment[i]
 
+        # Map expanded ASR indices back to original ASR words for time windows.
+        # expanded_asr was built from raw_asr, so indices correspond 1:1 only
+        # when no contractions were expanded in ASR.  We need original ASR words
+        # for timestamps, so map back.
         asr_word: AsrWord | None = None
         heard_as: str | None = None
 
-        if asr_idx is not None:
-            asr_word = asr.words[asr_idx]
-            if asr_lower[asr_idx] != ref_lower[i]:
-                heard_as = asr_word.word
-
-        # ── Track A: Whisper-window phoneme score ──
-        if asr_word:
-            margin = 0.05
-            word_phones = [
-                p for p in recognized_phonemes
-                if (asr_word.start - margin) <= p.time <= (asr_word.end + margin)
-            ]
+        if align_info["status"] == "missed":
+            # Word not found in ASR at all → missed
+            status = "missed"
+            word_phones: list[RecognizedPhoneme] = []
+            phone_score = 0.0
         else:
-            word_phones = []
+            # Find the original ASR word(s) that cover the matched time window.
+            # Since expanded ASR maps 1:N from original ASR words, we need to
+            # find which original ASR word the expanded index came from.
+            asr_indices_expanded = align_info["asr_indices"]
 
-        recognized_str = [p.phoneme for p in word_phones]
-        exp_norm = _normalize_phonemes(exp_phones)
-        rec_norm = _normalize_phonemes(recognized_str)
+            # Map expanded ASR index → original ASR word index
+            orig_asr_indices: list[int] = []
+            exp_asr_cursor = 0
+            orig_to_exp_ranges: list[tuple[int, int]] = []
+            for j, w in enumerate(raw_asr):
+                low = w.lower().strip(".,!?;:\"'")
+                start = exp_asr_cursor
+                if low in _CONTRACTIONS:
+                    exp_asr_cursor += len(_CONTRACTIONS[low])
+                else:
+                    exp_asr_cursor += 1
+                orig_to_exp_ranges.append((start, exp_asr_cursor))
 
-        if exp_norm and rec_norm:
-            dist_a = _weighted_levenshtein(exp_norm, rec_norm)
-            score_a = max(0, (1 - dist_a / max(len(exp_norm), len(rec_norm)))) * 100
-        elif not exp_norm:
-            score_a = 100.0
-        else:
-            score_a = 0.0
+            for exp_idx in asr_indices_expanded:
+                for j, (s, e) in enumerate(orig_to_exp_ranges):
+                    if s <= exp_idx < e:
+                        if j not in orig_asr_indices:
+                            orig_asr_indices.append(j)
+                        break
 
-        # ── Track B: Forced phoneme alignment score ──
-        _, score_b = forced_results[i]
+            if orig_asr_indices:
+                first_asr = asr.words[orig_asr_indices[0]]
+                last_asr = asr.words[orig_asr_indices[-1]]
+                asr_word = first_asr  # for probability
 
-        # ── Combined score ──
-        # Track B (forced phoneme alignment) is the primary signal — it's
-        # Whisper-independent and catches auto-corrections.
-        # Track A (Whisper-window) is secondary — useful when Track B is
-        # noisy but Whisper got a clean match.
-        # Weighting: 60% Track B, 40% Track A.  Both must agree for high score.
-        phone_score = score_b * 0.6 + score_a * 0.4
+                # Check if ASR text differs from reference.
+                # Compare expanded forms so "they've" == "they have".
+                asr_text_parts = []
+                for j in orig_asr_indices:
+                    low = asr.words[j].word.lower().strip(".,!?;:\"'")
+                    if low in _CONTRACTIONS:
+                        asr_text_parts.extend(_CONTRACTIONS[low])
+                    else:
+                        asr_text_parts.append(low)
+                ref_text_parts = _CONTRACTIONS.get(raw_ref[i], [raw_ref[i]])
+                if asr_text_parts != ref_text_parts:
+                    heard_as = " ".join(asr.words[j].word for j in orig_asr_indices)
 
-        # Average confidence from Whisper-window phonemes
-        avg_conf = (
-            sum(p.confidence for p in word_phones) / len(word_phones)
-            if word_phones else 0
-        )
+                # Collect phonemes in the full time window
+                margin = 0.05
+                word_phones = [
+                    p for p in recognized_phonemes
+                    if (first_asr.start - margin) <= p.time <= (last_asr.end + margin)
+                ]
+            else:
+                word_phones = []
 
-        # Whisper probability — secondary signal
-        whisper_prob = asr_word.probability if asr_word else 0
+            # Phoneme scoring
+            recognized_str = [p.phoneme for p in word_phones]
+            exp_norm = _normalize_phonemes(exp_phones)
+            rec_norm = _normalize_phonemes(recognized_str)
 
-        # Determine status — thresholds tuned for two-track scoring:
-        # 80+ = correct (both tracks must agree closely)
-        # 50-80 = mispronounced (noticeable deviation)
-        # <50 = bad mispronunciation or missed
-        if asr_word or score_b >= 40:
+            if exp_norm and rec_norm:
+                dist = _weighted_levenshtein(exp_norm, rec_norm)
+                phone_score = max(0, (1 - dist / max(len(exp_norm), len(rec_norm)))) * 100
+            elif not exp_norm:
+                phone_score = 100.0
+            else:
+                phone_score = 0.0
+
+            # Partial match (e.g. "you're" but only "you" matched) → cap score
+            if align_info["status"] == "partial":
+                total_parts = len([k for k, o in enumerate(exp_ref_origin) if o == i])
+                matched_parts = len(align_info["asr_indices"])
+                # Scale score by match ratio — "you're" with only "you" = 50%
+                partial_ratio = matched_parts / total_parts
+                phone_score = phone_score * partial_ratio
+
+            # Determine status from phoneme score
             if phone_score >= 80:
                 status = "correct"
                 matched += 1
             elif phone_score >= 50:
                 status = "mispronounced"
                 matched += 0.5
-                if not heard_as:
-                    heard_as = asr_word.word if asr_word else None
             else:
                 status = "mispronounced"
                 matched += 0.2
-                if not heard_as:
-                    heard_as = asr_word.word if asr_word else None
-        else:
-            status = "missed"
+
+        avg_conf = (
+            sum(p.confidence for p in word_phones) / len(word_phones)
+            if word_phones else 0
+        )
+        whisper_prob = asr_word.probability if asr_word else 0
 
         word_details.append({
             "word": exp["word"],
@@ -613,11 +610,9 @@ def score_pronunciation(
             "heard_as": heard_as,
             "pronunciation_score": round(phone_score),
             "expected_phonemes": " ".join(exp_phones),
-            "recognized_phonemes": " ".join(recognized_str),
+            "recognized_phonemes": " ".join(p.phoneme for p in word_phones) if align_info["status"] != "missed" else "",
             "confidence": round(avg_conf * 100),
             "whisper_confidence": round(whisper_prob * 100),
-            "score_whisper_track": round(score_a),
-            "score_phoneme_track": round(score_b),
         })
 
     total = len(expected_phonemes) or 1
@@ -628,10 +623,7 @@ def score_pronunciation(
 
     fluency = _compute_fluency(asr)
 
-    # Accuracy gates everything: if you said the wrong words entirely,
-    # pronunciation and fluency are meaningless.  Below 30% accuracy,
-    # scale down proportionally.  Above 30%, no penalty (enough words
-    # matched for pron/fluency to be meaningful).
+    # Accuracy gates pronunciation/fluency: below 30% accuracy they're meaningless
     accuracy_factor = min(1.0, accuracy / 30)
     effective_pronunciation = round(pronunciation * accuracy_factor)
     effective_fluency = round(fluency * accuracy_factor)
