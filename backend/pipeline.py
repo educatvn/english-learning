@@ -921,6 +921,72 @@ def to_wav(input_path: str) -> str:
 
 # ── Main entry point ───────────────────────────────────────────────────────
 
+def process_word(audio_path: str, word: str) -> dict:
+    """Run pronunciation scoring for a single word."""
+    wav_path = to_wav(audio_path)
+
+    try:
+        asr = asr_transcribe(wav_path)
+        recognized = recognize_phonemes(wav_path)
+        expected = text_to_phonemes(word)
+
+        if not expected:
+            return {
+                "word": word,
+                "transcript": asr.transcript,
+                "status": "missed",
+                "pronunciation_score": 0,
+                "expected_phonemes": "",
+                "recognized_phonemes": "",
+                "heard_as": asr.transcript or None,
+            }
+
+        exp = expected[0]
+        exp_phones = exp["phonemes"]
+
+        # Use all recognized phonemes for the single word
+        rec_phones = [p.phoneme for p in recognized]
+        exp_norm = _normalize_phonemes(exp_phones)
+        rec_norm = _normalize_phonemes(rec_phones)
+
+        if exp_norm and rec_norm:
+            dist = _weighted_levenshtein(exp_norm, rec_norm)
+            phone_score = max(0, (1 - dist / max(len(exp_norm), len(rec_norm)))) * 100
+        elif not exp_norm:
+            phone_score = 100.0
+        else:
+            phone_score = 0.0
+
+        # Determine status
+        if phone_score >= WORD_SCORE_CORRECT:
+            status = "correct"
+        elif phone_score >= WORD_SCORE_PARTIAL:
+            status = "mispronounced"
+        else:
+            status = "mispronounced"
+
+        # Check if ASR heard a different word
+        asr_text = asr.transcript.strip().lower()
+        ref_lower = word.strip().lower()
+        heard_as = asr.transcript if asr_text != ref_lower else None
+
+        return {
+            "word": word,
+            "transcript": asr.transcript,
+            "status": status,
+            "pronunciation_score": round(phone_score),
+            "expected_phonemes": " ".join(exp_phones),
+            "recognized_phonemes": " ".join(p.phoneme for p in recognized),
+            "heard_as": heard_as,
+        }
+    finally:
+        if wav_path != audio_path:
+            try:
+                os.unlink(wav_path)
+            except OSError:
+                pass
+
+
 def process(audio_path: str, reference_text: str) -> dict:
     """Run the full pronunciation scoring pipeline."""
     wav_path = to_wav(audio_path)

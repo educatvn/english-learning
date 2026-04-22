@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import type { CaptionCue } from '@/utils/captionParser';
-import { transcribeAndScore } from '@/services/speechScoring';
-import type { SpeakingScore } from '@/services/speechScoring';
+import { transcribeAndScore, transcribeAndScoreWord } from '@/services/speechScoring';
+import type { SpeakingScore, WordScore } from '@/services/speechScoring';
 
 export type SpeakingPhase = 'ready' | 'recording' | 'scoring' | 'result';
 
@@ -12,6 +12,10 @@ export interface SpeakingState {
   result: SpeakingScore | null;
   recordingBlob: Blob | null;
   micStream: MediaStream | null;
+  // Word practice mode
+  wordMode: boolean;
+  targetWord: string | null;
+  wordResult: WordScore | null;
 }
 
 export function useSpeakingMode(cues: CaptionCue[]) {
@@ -24,7 +28,10 @@ export function useSpeakingMode(cues: CaptionCue[]) {
   function open(cueIdx: number) {
     const cue = cues[cueIdx];
     if (!cue) return;
-    setSpeakingState({ cue, cueIdx, phase: 'ready', result: null, recordingBlob: null, micStream: null });
+    setSpeakingState({
+      cue, cueIdx, phase: 'ready', result: null, recordingBlob: null, micStream: null,
+      wordMode: false, targetWord: null, wordResult: null,
+    });
   }
 
   function close() {
@@ -36,7 +43,29 @@ export function useSpeakingMode(cues: CaptionCue[]) {
     const cue = cues[idx];
     if (!cue) return;
     stopRecording();
-    setSpeakingState({ cue, cueIdx: idx, phase: 'ready', result: null, recordingBlob: null, micStream: null });
+    setSpeakingState({
+      cue, cueIdx: idx, phase: 'ready', result: null, recordingBlob: null, micStream: null,
+      wordMode: false, targetWord: null, wordResult: null,
+    });
+  }
+
+  function openWord(word: string) {
+    setSpeakingState((prev) =>
+      prev ? {
+        ...prev, phase: 'ready', result: null, recordingBlob: null, micStream: null,
+        wordMode: true, targetWord: word, wordResult: null,
+      } : null,
+    );
+  }
+
+  function exitWordMode() {
+    stopRecording();
+    setSpeakingState((prev) =>
+      prev ? {
+        ...prev, phase: 'ready', result: null, recordingBlob: null, micStream: null,
+        wordMode: false, targetWord: null, wordResult: null,
+      } : null,
+    );
   }
 
   async function startRecording() {
@@ -67,7 +96,7 @@ export function useSpeakingMode(cues: CaptionCue[]) {
       recorder.start();
 
       setSpeakingState((prev) =>
-        prev ? { ...prev, phase: 'recording', recordingBlob: null, result: null, micStream: stream } : null,
+        prev ? { ...prev, phase: 'recording', recordingBlob: null, result: null, wordResult: null, micStream: stream } : null,
       );
     } catch (err) {
       console.error('Microphone access denied:', err);
@@ -89,10 +118,17 @@ export function useSpeakingMode(cues: CaptionCue[]) {
     if (!state) return;
 
     try {
-      const result = await transcribeAndScore(blob, state.cue.text);
-      setSpeakingState((prev) =>
-        prev ? { ...prev, phase: 'result', result } : null,
-      );
+      if (state.wordMode && state.targetWord) {
+        const wordResult = await transcribeAndScoreWord(blob, state.targetWord);
+        setSpeakingState((prev) =>
+          prev ? { ...prev, phase: 'result', wordResult } : null,
+        );
+      } else {
+        const result = await transcribeAndScore(blob, state.cue.text);
+        setSpeakingState((prev) =>
+          prev ? { ...prev, phase: 'result', result } : null,
+        );
+      }
     } catch (err) {
       console.error('Scoring failed:', err);
       setSpeakingState((prev) =>
@@ -103,7 +139,7 @@ export function useSpeakingMode(cues: CaptionCue[]) {
 
   function retry() {
     setSpeakingState((prev) =>
-      prev ? { ...prev, phase: 'ready', result: null, recordingBlob: null } : null,
+      prev ? { ...prev, phase: 'ready', result: null, wordResult: null, recordingBlob: null } : null,
     );
   }
 
@@ -112,6 +148,8 @@ export function useSpeakingMode(cues: CaptionCue[]) {
     open,
     close,
     goToCue,
+    openWord,
+    exitWordMode,
     startRecording,
     stopRecording,
     retry,

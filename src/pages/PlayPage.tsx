@@ -623,6 +623,8 @@ export default function PlayPage() {
               onStartRecording={() => { playerRef.current?.pause(); speaking.startRecording(); }}
               onStopRecording={speaking.stopRecording}
               onRetry={speaking.retry}
+              onWordClick={speaking.openWord}
+              onExitWordMode={speaking.exitWordMode}
             />
           )}
           </div>{/* end inner wrapper */}

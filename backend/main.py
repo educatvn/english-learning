@@ -1,7 +1,7 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
-from pipeline import load_models, process
+from pipeline import load_models, process, process_word
 import tempfile
 import os
 
@@ -40,5 +40,22 @@ async def transcribe(
 
     try:
         return process(tmp_path, reference_text)
+    finally:
+        os.unlink(tmp_path)
+
+
+@app.post("/transcribe-word")
+async def transcribe_word_endpoint(
+    audio: UploadFile = File(...),
+    word: str = Form(...),
+):
+    suffix = os.path.splitext(audio.filename or "audio.webm")[1]
+    with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
+        content = await audio.read()
+        tmp.write(content)
+        tmp_path = tmp.name
+
+    try:
+        return process_word(tmp_path, word)
     finally:
         os.unlink(tmp_path)

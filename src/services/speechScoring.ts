@@ -28,6 +28,33 @@ export interface SpeakingScore {
   };
 }
 
+export interface WordScore {
+  word: string;
+  transcript: string;
+  status: 'correct' | 'mispronounced' | 'missed';
+  pronunciation_score: number;
+  expected_phonemes: string;
+  recognized_phonemes: string;
+  heard_as: string | null;
+}
+
+export async function transcribeAndScoreWord(audioBlob: Blob, word: string): Promise<WordScore> {
+  const form = new FormData();
+  form.append('audio', audioBlob, 'recording.webm');
+  form.append('word', word);
+
+  const res = await fetch(`${API_URL}/transcribe-word`, {
+    method: 'POST',
+    body: form,
+  });
+
+  if (!res.ok) {
+    throw new Error(`Word scoring failed: ${res.status}`);
+  }
+
+  return res.json();
+}
+
 export async function transcribeAndScore(audioBlob: Blob, referenceText: string): Promise<SpeakingScore> {
   const form = new FormData();
   form.append('audio', audioBlob, 'recording.webm');
