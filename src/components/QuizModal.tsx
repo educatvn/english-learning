@@ -3,6 +3,15 @@ import { Check, X } from 'lucide-react'
 import type { CaptionCue } from '@/utils/captionParser'
 import type { QuizWord } from '@/utils/quizWord'
 import { checkAnswer } from '@/utils/quizWord'
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogDescription,
+} from '@/components/ui/dialog'
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
 
 export interface QuizResult {
   correct: boolean
@@ -30,53 +39,50 @@ export function QuizModal({ cue, quizWord, onClose }: Props) {
     return () => clearTimeout(t)
   }, [result, onClose])
 
-  // Dismiss on Escape
-  useEffect(() => {
-    function onKey(e: KeyboardEvent) {
-      if (e.key === 'Escape' && !result) onClose(null)
-    }
-    document.addEventListener('keydown', onKey)
-    return () => document.removeEventListener('keydown', onKey)
-  }, [result, onClose])
-
   function handleSubmit() {
     if (!answer.trim()) return
     setResult({ correct: checkAnswer(answer, quizWord), userAnswer: answer.trim() })
+  }
+
+  function handleOpenChange(open: boolean) {
+    if (!open && !result) onClose(null)
   }
 
   const before = cue.text.slice(0, quizWord.startIdx)
   const after = cue.text.slice(quizWord.endIdx)
 
   return (
-    <div
-      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/70 backdrop-blur-sm p-4"
-      onClick={(e) => { if (e.target === e.currentTarget && !result) onClose(null) }}
-    >
-      <div className="w-full max-w-lg bg-gray-900 border border-gray-700 rounded-2xl shadow-2xl overflow-hidden">
-        {/* Sentence with blank */}
-        <div className="px-6 pt-6 pb-5">
-          <p className="text-[11px] text-gray-500 font-semibold uppercase tracking-widest mb-3">
+    <Dialog open onOpenChange={handleOpenChange}>
+      <DialogContent
+        showCloseButton={false}
+        className="w-full max-w-lg bg-gray-900 border border-gray-700 rounded-2xl shadow-2xl overflow-hidden p-0 sm:max-w-lg"
+      >
+        {/* Header / Sentence with blank */}
+        <DialogHeader className="px-6 pt-6 pb-5">
+          <DialogTitle className="text-[11px] text-gray-500 font-semibold uppercase tracking-widest">
             Fill in the blank
-          </p>
-          <p className="text-lg text-gray-100 leading-relaxed">
-            {before}
-            {result ? (
-              <span className={[
-                'inline font-semibold px-1 rounded',
-                result.correct
-                  ? 'text-green-300'
-                  : 'text-red-300',
-              ].join(' ')}>
-                {quizWord.word}
-              </span>
-            ) : (
-              <span className="inline-block border-b-2 border-blue-400 min-w-[4ch] text-center text-blue-400 font-semibold mx-0.5">
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              </span>
-            )}
-            {after}
-          </p>
-        </div>
+          </DialogTitle>
+          <DialogDescription asChild>
+            <p className="text-lg text-gray-100 leading-relaxed">
+              {before}
+              {result ? (
+                <span className={[
+                  'inline font-semibold px-1 rounded',
+                  result.correct
+                    ? 'text-green-300'
+                    : 'text-red-300',
+                ].join(' ')}>
+                  {quizWord.word}
+                </span>
+              ) : (
+                <span className="inline-block border-b-2 border-blue-400 min-w-[4ch] text-center text-blue-400 font-semibold mx-0.5">
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </span>
+              )}
+              {after}
+            </p>
+          </DialogDescription>
+        </DialogHeader>
 
         {/* Result banner */}
         {result && (
@@ -110,38 +116,39 @@ export function QuizModal({ cue, quizWord, onClose }: Props) {
         {/* Input row (hidden after result) */}
         {!result && (
           <div className="px-5 pb-5 flex gap-2">
-            <input
+            <Input
               ref={inputRef}
               value={answer}
               onChange={(e) => setAnswer(e.target.value)}
               onKeyDown={(e) => { if (e.key === 'Enter') handleSubmit() }}
               placeholder="Type the missing word…"
-              className="flex-1 h-10 rounded-xl bg-gray-800 border border-gray-700 px-3 text-sm text-white placeholder:text-gray-600 focus:outline-none focus:ring-1 focus:ring-blue-500"
+              className="flex-1 h-10 rounded-xl bg-gray-800 border-gray-700 text-white placeholder:text-gray-600"
               autoComplete="off"
               spellCheck={false}
             />
-            <button
+            <Button
               onClick={handleSubmit}
               disabled={!answer.trim()}
-              className="h-10 px-5 rounded-xl bg-blue-600 text-white text-sm font-semibold hover:bg-blue-500 disabled:opacity-40 transition-colors shrink-0"
+              className="h-10 px-5 rounded-xl shrink-0"
             >
               Check
-            </button>
+            </Button>
           </div>
         )}
 
         {/* "Got it" button for incorrect result */}
         {result && !result.correct && (
           <div className="px-5 pb-5">
-            <button
+            <Button
+              variant="ghost"
               onClick={() => onClose(result)}
-              className="w-full h-9 rounded-xl bg-gray-800 hover:bg-gray-700 text-sm text-gray-300 font-medium transition-colors"
+              className="w-full h-9 rounded-xl bg-gray-800 hover:bg-gray-700 text-gray-300"
             >
               Got it
-            </button>
+            </Button>
           </div>
         )}
-      </div>
-    </div>
+      </DialogContent>
+    </Dialog>
   )
 }

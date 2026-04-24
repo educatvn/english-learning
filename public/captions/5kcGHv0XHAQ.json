@@ -1,0 +1,1562 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 0,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Chào mọi người và chào mừng\ntrở lại kênh YouTube của tôi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 4080,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Hôm nay chúng ta sẽ học\nvề một điều gì đó hữu ích."
+        }
+      ]
+    },
+    {
+      "tStartMs": 7840,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Làm thế nào để học tiếng Anh chỉ bằng điện thoại của bạn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 11280,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "Điện thoại của chúng ta là những công cụ mạnh mẽ\ncó thể thay đổi cách chúng ta học tập."
+        }
+      ]
+    },
+    {
+      "tStartMs": 16720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Việc đầu tiên tôi sẽ làm nếu muốn học"
+        }
+      ]
+    },
+    {
+      "tStartMs": 19840,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "tiếng Anh từ điện thoại là đổi\nngôn ngữ của điện thoại sang tiếng Anh.  Ban"
+        }
+      ]
+    },
+    {
+      "tStartMs": 24880,
+      "dDurationMs": 5680,
+      "segs": [
+        {
+          "utf8": "đầu điều này có thể hơi khó khăn,\nnhưng bạn sẽ nhanh chóng nắm bắt được các thuật ngữ kỹ thuật"
+        }
+      ]
+    },
+    {
+      "tStartMs": 30560,
+      "dDurationMs": 6880,
+      "segs": [
+        {
+          "utf8": "và các cụm từ thông dụng mà bạn gặp hàng ngày, chẳng hạn như khi\ncập nhật ứng dụng hoặc điều chỉnh cài đặt."
+        }
+      ]
+    },
+    {
+      "tStartMs": 37440,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Hãy nghĩ đến các cài đặt trên điện thoại của bạn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 39680,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Đó là nơi chính để\nthay đổi mọi thứ và khắc phục sự cố."
+        }
+      ]
+    },
+    {
+      "tStartMs": 43360,
+      "dDurationMs": 8080,
+      "segs": [
+        {
+          "utf8": "Nếu bạn chuyển sang sử dụng tiếng Anh, bạn\nsẽ học được những từ mới như điểm phát sóng cá nhân,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 51440,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "màn hình và độ sáng, hình nền, v.v."
+        }
+      ]
+    },
+    {
+      "tStartMs": 55680,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "Và bạn sẽ quen với việc\nnhìn thấy những từ mới này trên điện thoại của mình."
+        }
+      ]
+    },
+    {
+      "tStartMs": 60320,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "Một cách khác để học tiếng Anh trên\nđiện thoại là sử dụng Google"
+        }
+      ]
+    },
+    {
+      "tStartMs": 65120,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Translate hoặc bất kỳ ứng dụng dịch thuật tương tự nào bạn có."
+        }
+      ]
+    },
+    {
+      "tStartMs": 68800,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Theo tôi,\ncác ứng dụng dịch thuật thực sự bị đánh giá thấp."
+        }
+      ]
+    },
+    {
+      "tStartMs": 72800,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Nó giống như việc bạn có cả một cuốn từ điển\ntrong túi vậy."
+        }
+      ]
+    },
+    {
+      "tStartMs": 76160,
+      "dDurationMs": 4480,
+      "segs": [
+        {
+          "utf8": "Giả sử bạn nhìn thấy một biển báo trên đường\nvà bạn không biết nó có nghĩa là gì."
+        }
+      ]
+    },
+    {
+      "tStartMs": 80640,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Ví dụ, một biển báo ghi \"cần kéo xe\"."
+        }
+      ]
+    },
+    {
+      "tStartMs": 83840,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "Với ứng dụng dịch thuật, bạn có thể\nnghe cách phát âm tiếng Anh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 88720,
+      "dDurationMs": 6560,
+      "segs": [
+        {
+          "utf8": "Hãy xem các ví dụ về cách sử dụng từ \"tow\" trong\ncâu và xem từ này được sử dụng như một danh từ,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 95280,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "động từ hoặc tính từ, điều này sẽ giúp\nbạn mở rộng vốn từ vựng của mình."
+        }
+      ]
+    },
+    {
+      "tStartMs": 99200,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Điều này giúp bạn hiểu rõ"
+        }
+      ]
+    },
+    {
+      "tStartMs": 102800,
+      "dDurationMs": 4640,
+      "segs": [
+        {
+          "utf8": "nghĩa của từ và cách sử dụng\nnó một cách nhanh chóng và dễ dàng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 107440,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Tôi thực sự khuyến khích bạn sử dụng"
+        }
+      ]
+    },
+    {
+      "tStartMs": 110000,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "ứng dụng dịch thuật bất cứ khi nào gặp phải\ntừ mà bạn không thực sự hiểu."
+        }
+      ]
+    },
+    {
+      "tStartMs": 113840,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Đây là một tính năng thậm chí còn tuyệt vời hơn nữa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 115920,
+      "dDurationMs": 4880,
+      "segs": [
+        {
+          "utf8": "Bạn thậm chí có thể chụp ảnh và dịch\ntoàn bộ nội dung trong ảnh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 120800,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "Ví dụ, giả sử bạn đang ở một nhà hàng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 124400,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Bạn có thể chụp ảnh thực đơn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 126480,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Giờ tôi có thể xem thực đơn bằng tiếng Anh\nhoặc bằng ngôn ngữ mẹ đẻ của bạn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 131200,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "Điều này rất hữu ích vì bạn có thể\nxem cả phiên bản tiếng Anh và"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135040,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "thực đơn bằng ngôn ngữ mẹ đẻ của mình cạnh nhau."
+        }
+      ]
+    },
+    {
+      "tStartMs": 138480,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "Nó giúp việc học trở nên thiết thực và thú vị, đặc biệt\nnếu bạn không chắc chắn về các món ăn có trong thực đơn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 144560,
+      "dDurationMs": 6960,
+      "segs": [
+        {
+          "utf8": "Giờ đây khi điện thoại của chúng ta đã được chuyển sang ngôn ngữ tiếng Anh,\nbạn sẽ muốn tải xuống một ứng dụng học tập chuyên dụng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 151520,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "Ứng dụng chỉ đơn giản là bất kỳ chương trình nào bạn tải xuống,\nví dụ như WhatsApp, Spotify, Amazon, v.v."
+        }
+      ]
+    },
+    {
+      "tStartMs": 158240,
+      "dDurationMs": 6080,
+      "segs": [
+        {
+          "utf8": "Như các bạn đã biết, tôi là người bản ngữ và\nđôi khi khi học sinh yêu cầu tôi thử"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164320,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "các ứng dụng mới để học tiếng Anh, đặc biệt là các ứng dụng có trí tuệ nhân tạo,\ntôi nhận ra một số ứng dụng nghe không tự nhiên."
+        }
+      ]
+    },
+    {
+      "tStartMs": 170640,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "Vậy nên, sau khi thử nhiều ứng dụng khác nhau,\nứng dụng thu hút sự chú ý của tôi nhất là Beespeaker."
+        }
+      ]
+    },
+    {
+      "tStartMs": 177360,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Beespeaker là một ứng dụng dễ sử dụng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 180800,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Điều này rất quan trọng khi bạn\nhọc tiếng Anh vì bạn"
+        }
+      ]
+    },
+    {
+      "tStartMs": 184560,
+      "dDurationMs": 4240,
+      "segs": [
+        {
+          "utf8": "không muốn tải xuống một ứng dụng\nkhó sử dụng hoặc phức tạp."
+        }
+      ]
+    },
+    {
+      "tStartMs": 188800,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Và Beespeaker đã làm rất tốt điều này."
+        }
+      ]
+    },
+    {
+      "tStartMs": 192080,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Trang chủ của họ đơn giản và dễ sử dụng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 195440,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Và điều quan trọng nhất\nlà các video của họ chính xác."
+        }
+      ]
+    },
+    {
+      "tStartMs": 199120,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Cảm giác như bạn đang tham gia một\nlớp học trực tiếp, nhưng còn tốt hơn nữa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 202880,
+      "dDurationMs": 6480,
+      "segs": [
+        {
+          "utf8": "Điểm khác biệt giữa ứng dụng này và\ncác ứng dụng khác là nó không có hình đại diện AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 209360,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Thay vào đó, bạn có thể thấy một người thật đang nói chuyện,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 212640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "quan sát ngôn ngữ cơ thể và\ncách họ thể hiện bản thân."
+        }
+      ]
+    },
+    {
+      "tStartMs": 216320,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "Điều này rất quan trọng vì khi bạn nói tiếng Anh\ntrong đời thực, bạn đang nói chuyện với một người thật."
+        }
+      ]
+    },
+    {
+      "tStartMs": 222560,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "Bạn không nói chuyện với hình đại diện AI,\nvì vậy bạn có thể nhìn thấy môi của chúng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 226880,
+      "dDurationMs": 6240,
+      "segs": [
+        {
+          "utf8": "Bạn có thể nghe thấy giọng điệu, cách phát âm, ngữ\nđiệu và cả cảm xúc của họ."
+        }
+      ]
+    },
+    {
+      "tStartMs": 233120,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Giờ chúng ta đã đổi ngôn ngữ điện thoại\nsang tiếng Anh và tải ứng dụng xuống rồi,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 237840,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "hãy bắt đầu học tiếng Anh bằng điện thoại nhé."
+        }
+      ]
+    },
+    {
+      "tStartMs": 240560,
+      "dDurationMs": 7440,
+      "segs": [
+        {
+          "utf8": "Tôi đang dùng Beespeaker và một phần tôi thích là khi\nnhấp vào biểu tượng bộ não, biểu tượng của người hướng dẫn AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 248000,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Bạn nhấn vào nút \"cảnh\" và nó sẽ hiển thị cho bạn"
+        }
+      ]
+    },
+    {
+      "tStartMs": 251040,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "các tình huống khác nhau để bạn có thể\nluyện tập tiếng Anh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 254320,
+      "dDurationMs": 3200,
+      "segs": [
+        {
+          "utf8": "Chúng ta hãy cùng luyện tập một bài tập khá hóc búa nhé."
+        }
+      ]
+    },
+    {
+      "tStartMs": 257520,
+      "dDurationMs": 5120,
+      "segs": [
+        {
+          "utf8": "Việc phàn nàn về thức ăn, đặc biệt là khi\nbạn không chắc chắn cách diễn đạt sao cho phù hợp.  Ai cũng"
+        }
+      ]
+    },
+    {
+      "tStartMs": 262640,
+      "dDurationMs": 4800,
+      "segs": [
+        {
+          "utf8": "biết rằng ở\nMỹ, đồ ăn có thể không ngon."
+        }
+      ]
+    },
+    {
+      "tStartMs": 267440,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Đây là một cách tuyệt vời để luyện tập."
+        }
+      ]
+    },
+    {
+      "tStartMs": 269840,
+      "dDurationMs": 880,
+      "segs": [
+        {
+          "utf8": "Chúng ta bắt đầu nào."
+        }
+      ]
+    },
+    {
+      "tStartMs": 270720,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "Chào mừng quý khách đến với nhà hàng của chúng tôi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 272160,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Tôi có thể giúp gì cho bạn hôm nay?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 273760,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "Đơn hàng của bạn có vấn đề gì không?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 275760,
+      "dDurationMs": 1680,
+      "segs": [
+        {
+          "utf8": "Đúng vậy, có điều gì đó không ổn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 277440,
+      "dDurationMs": 4160,
+      "segs": [
+        {
+          "utf8": "Tôi đã lâu không nhận được đồ ăn,\nvà tôi tự hỏi lý do chậm trễ là gì."
+        }
+      ]
+    },
+    {
+      "tStartMs": 281600,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "Bạn có thể hỏi đầu bếp được không?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 282640,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Tôi thành thật xin lỗi vì sự chậm trễ này."
+        }
+      ]
+    },
+    {
+      "tStartMs": 284880,
+      "dDurationMs": 2240,
+      "segs": [
+        {
+          "utf8": "Chắc hẳn điều đó khiến bạn rất bực bội."
+        }
+      ]
+    },
+    {
+      "tStartMs": 287120,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Để tôi kiểm tra ngay với nhà bếp\nvà tìm hiểu lý do chậm trễ."
+        }
+      ]
+    },
+    {
+      "tStartMs": 291040,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "Bạn có thể cho tôi biết bạn đã đặt món gì không?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 293200,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "Vâng, tôi đã gọi món bít tết."
+        }
+      ]
+    },
+    {
+      "tStartMs": 295120,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "Cảm ơn bạn đã cung cấp thông tin."
+        }
+      ]
+    },
+    {
+      "tStartMs": 296400,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Tôi sẽ tìm hiểu ngay xem chuyện gì đã xảy ra với\nđơn đặt hàng bít tết của bạn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 299520,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Xin hãy đợi tôi một chút."
+        }
+      ]
+    },
+    {
+      "tStartMs": 302400,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "Cảm ơn sự kiên nhẫn của bạn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 303760,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Có vẻ như đã xảy ra nhầm lẫn trong bếp\nvà món ăn của bạn đang được chuẩn bị."
+        }
+      ]
+    },
+    {
+      "tStartMs": 307840,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Tôi rất xin lỗi vì sự bất tiện này."
+        }
+      ]
+    },
+    {
+      "tStartMs": 310160,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "Để bù lại,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 311200,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "bạn có muốn được tặng một món tráng miệng\ntùy chọn khi món chính được dọn ra không?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 315200,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Vâng, điều đó thật tuyệt.  Cảm ơn"
+        }
+      ]
+    },
+    {
+      "tStartMs": 316800,
+      "dDurationMs": 960,
+      "segs": [
+        {
+          "utf8": ".  Tuyệt"
+        }
+      ]
+    },
+    {
+      "tStartMs": 317760,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "vời!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 319120,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Bạn có thể đoán trước được người phục vụ\nsẽ nói gì sau khi bạn phàn nàn,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 323040,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "nhưng biết đâu bạn sẽ được\năn miễn phí hoặc được tặng món tráng miệng miễn phí."
+        }
+      ]
+    },
+    {
+      "tStartMs": 327440,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "Trong trường hợp này, đó là dịch vụ miễn phí, có\nnghĩa là nhà hàng sẽ không tính phí cho bạn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 332640,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Tôi cảm thấy tự tin hơn rất nhiều\nsau khi luyện tập với gia sư AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 337040,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Giờ thì hãy mang sự tự tin này\nvào thực tế và thực hành việc"
+        }
+      ]
+    },
+    {
+      "tStartMs": 341600,
+      "dDurationMs": 2960,
+      "segs": [
+        {
+          "utf8": "phàn nàn về đồ ăn tại nhà hàng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 344560,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": "Này, mọi chuyện ổn chứ?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 346080,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "Bạn cần gì không?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 347440,
+      "dDurationMs": 2720,
+      "segs": [
+        {
+          "utf8": "Vâng, thực ra tôi đã đợi đồ ăn của mình"
+        }
+      ]
+    },
+    {
+      "tStartMs": 350160,
+      "dDurationMs": 5040,
+      "segs": [
+        {
+          "utf8": "hơn 30 phút rồi mà còn không\nbiết khi nào mới được mang ra nữa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 355200,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "Bạn có thể hỏi đầu bếp được không?  Trời ơi"
+        }
+      ]
+    },
+    {
+      "tStartMs": 356640,
+      "dDurationMs": 1520,
+      "segs": [
+        {
+          "utf8": ", mình xin lỗi nhiều lắm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 358160,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "Tôi sẽ hỏi ngay bây giờ.  Hiện tại"
+        }
+      ]
+    },
+    {
+      "tStartMs": 359520,
+      "dDurationMs": 2160,
+      "segs": [
+        {
+          "utf8": "chúng tôi khá bận rộn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 361680,
+      "dDurationMs": 1840,
+      "segs": [
+        {
+          "utf8": "Để tôi lấy thêm nước cho bạn nhé."
+        }
+      ]
+    },
+    {
+      "tStartMs": 363520,
+      "dDurationMs": 560,
+      "segs": [
+        {
+          "utf8": "Được rồi.  Tôi rất"
+        }
+      ]
+    },
+    {
+      "tStartMs": 364080,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "tiếc về điều đó."
+        }
+      ]
+    },
+    {
+      "tStartMs": 365360,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "Có lẽ chúng tôi có thể tặng bạn một\nmón tráng miệng miễn phí để bù lại thời gian chờ đợi.  Tuyệt"
+        }
+      ]
+    },
+    {
+      "tStartMs": 368480,
+      "dDurationMs": 960,
+      "segs": [
+        {
+          "utf8": "vời!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 369440,
+      "dDurationMs": 1120,
+      "segs": [
+        {
+          "utf8": "Cảm ơn bạn rất nhiều."
+        }
+      ]
+    },
+    {
+      "tStartMs": 370560,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Tuyệt vời, cảm ơn bạn rất nhiều."
+        }
+      ]
+    },
+    {
+      "tStartMs": 373040,
+      "dDurationMs": 5760,
+      "segs": [
+        {
+          "utf8": "Tôi vừa thực hành một tình huống thực tế,\ntrong đó tôi phàn nàn về món ăn của mình và"
+        }
+      ]
+    },
+    {
+      "tStartMs": 378800,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "họ đã tặng tôi một\nmón tráng miệng hoàn toàn miễn phí."
+        }
+      ]
+    },
+    {
+      "tStartMs": 384160,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "Và bây giờ, hãy cùng khám phá\nmột số tính năng thú vị trên ứng dụng Beespeaker."
+        }
+      ]
+    },
+    {
+      "tStartMs": 389440,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Lần này tôi muốn thử\nmột điều gì đó hơi khác một chút."
+        }
+      ]
+    },
+    {
+      "tStartMs": 392960,
+      "dDurationMs": 2320,
+      "segs": [
+        {
+          "utf8": "Tôi sẽ nhấp vào mục \"Các khóa học\"."
+        }
+      ]
+    },
+    {
+      "tStartMs": 395280,
+      "dDurationMs": 2400,
+      "segs": [
+        {
+          "utf8": "Tại đây bạn có thể chọn các cấp độ khác nhau."
+        }
+      ]
+    },
+    {
+      "tStartMs": 397680,
+      "dDurationMs": 6160,
+      "segs": [
+        {
+          "utf8": "Họ có các cấp độ A, A1, A2, B1 và ​​B2,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 403840,
+      "dDurationMs": 5200,
+      "segs": [
+        {
+          "utf8": "điều này thật tuyệt vời vì bạn có thể bắt đầu một\nbài học dựa trên trình độ tiếng Anh hiện tại của mình."
+        }
+      ]
+    },
+    {
+      "tStartMs": 409040,
+      "dDurationMs": 4720,
+      "segs": [
+        {
+          "utf8": "Hãy cùng nhấp vào cấp độ B2 và\nxem chúng ta có thể luyện tập những chủ đề nào nhé."
+        }
+      ]
+    },
+    {
+      "tStartMs": 413760,
+      "dDurationMs": 3440,
+      "segs": [
+        {
+          "utf8": "Những chủ đề này chắc chắn là nâng cao hơn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 417200,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Tôi sẽ chọn phần B2,\ncấu tạo từ và tính từ."
+        }
+      ]
+    },
+    {
+      "tStartMs": 421760,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "Tôi muốn luyện tập đoạn hội thoại phỏng vấn xin việc."
+        }
+      ]
+    },
+    {
+      "tStartMs": 425280,
+      "dDurationMs": 1920,
+      "segs": [
+        {
+          "utf8": "Chúng ta cùng luyện tập một đoạn hội thoại ngắn nhé."
+        }
+      ]
+    },
+    {
+      "tStartMs": 427200,
+      "dDurationMs": 1040,
+      "segs": [
+        {
+          "utf8": "Cảm ơn bạn đã đến hôm nay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 428240,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Bạn có thể chia sẻ kinh nghiệm làm việc của mình\ntrong lĩnh vực kinh tế được không?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 431120,
+      "dDurationMs": 7040,
+      "segs": [
+        {
+          "utf8": "Ngoài lĩnh vực tài chính, tôi còn có kinh nghiệm\ntrong phân tích dữ liệu và nghiên cứu khoa học."
+        }
+      ]
+    },
+    {
+      "tStartMs": 438160,
+      "dDurationMs": 960,
+      "segs": [
+        {
+          "utf8": "Điều đó thật ấn tượng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 439120,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "Một điều tôi thích ở đoạn hội thoại này là tôi\nđang được nghe một người thật nói tiếng Anh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 445440,
+      "dDurationMs": 3920,
+      "segs": [
+        {
+          "utf8": "Anh ấy đang đặt những câu hỏi hay,\ncó thể dùng trong buổi phỏng vấn xin việc."
+        }
+      ]
+    },
+    {
+      "tStartMs": 449360,
+      "dDurationMs": 4080,
+      "segs": [
+        {
+          "utf8": "Bạn có thể kể về một lần bạn phải\nthuyết phục ai đó nhìn nhận mọi việc theo cách của mình không?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 453440,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "Tôi đã trình bày các dữ liệu khoa học và chỉ ra sự\nphù hợp của chúng đối với công ty."
+        }
+      ]
+    },
+    {
+      "tStartMs": 458800,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Cảm ơn bạn đã dành thời gian và trả lời các câu hỏi hôm nay."
+        }
+      ]
+    },
+    {
+      "tStartMs": 460880,
+      "dDurationMs": 1280,
+      "segs": [
+        {
+          "utf8": "Chúng tôi sẽ liên lạc lại sớm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 462160,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "Cảm ơn vì cơ hội này.  Rất"
+        }
+      ]
+    },
+    {
+      "tStartMs": 463920,
+      "dDurationMs": 1440,
+      "segs": [
+        {
+          "utf8": "vui được gặp bạn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 465360,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "Ứng dụng này thậm chí còn cung cấp một kịch bản để tôi\ncó thể luyện tập cách đáp trả anh ấy.  Thậm chí còn có cả"
+        }
+      ]
+    },
+    {
+      "tStartMs": 470720,
+      "dDurationMs": 3120,
+      "segs": [
+        {
+          "utf8": "bộ đếm thời gian, nên tôi phải lặp lại"
+        }
+      ]
+    },
+    {
+      "tStartMs": 473840,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "những từ này đúng giờ, nếu không tôi sẽ\nphải làm lại từ đầu."
+        }
+      ]
+    },
+    {
+      "tStartMs": 477440,
+      "dDurationMs": 2880,
+      "segs": [
+        {
+          "utf8": "Điều này thúc đẩy bạn phải phát âm cho đúng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 480320,
+      "dDurationMs": 4400,
+      "segs": [
+        {
+          "utf8": "Bạn có thể kiểm tra điểm số để xem\nmình đã phát âm đúng tất cả các từ hay chưa."
+        }
+      ]
+    },
+    {
+      "tStartMs": 484720,
+      "dDurationMs": 4560,
+      "segs": [
+        {
+          "utf8": "Và đến cuối bài học, bạn\ncó thể xem mình đã kiếm được bao nhiêu điểm."
+        }
+      ]
+    },
+    {
+      "tStartMs": 489280,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "Nếu bạn cũng thích ứng dụng này như tôi, bạn có thể tải\nBeespeaker trên Google Play và App Store."
+        }
+      ]
+    },
+    {
+      "tStartMs": 496000,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "Nhưng để mở khóa tất cả các tính năng này,\nbạn cần mua Beespeaker Pro.  Đoán xem"
+        }
+      ]
+    },
+    {
+      "tStartMs": 501360,
+      "dDurationMs": 720,
+      "segs": [
+        {
+          "utf8": "?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 502080,
+      "dDurationMs": 1760,
+      "segs": [
+        {
+          "utf8": "Tôi có tin tuyệt vời muốn chia sẻ với bạn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 503840,
+      "dDurationMs": 6320,
+      "segs": [
+        {
+          "utf8": "Nếu bạn sử dụng mã của tôi, ARIANNITA,\nbạn sẽ được giảm 40% khi mua Beespeaker Pro."
+        }
+      ]
+    },
+    {
+      "tStartMs": 510160,
+      "dDurationMs": 4960,
+      "segs": [
+        {
+          "utf8": "Đây là gói trả phí giúp bạn mở khóa\nhơn 3.000 bài học trong ứng dụng và"
+        }
+      ]
+    },
+    {
+      "tStartMs": 515120,
+      "dDurationMs": 3840,
+      "segs": [
+        {
+          "utf8": "cho phép bạn trò chuyện không giới hạn với gia sư AI."
+        }
+      ]
+    },
+    {
+      "tStartMs": 518960,
+      "dDurationMs": 2480,
+      "segs": [
+        {
+          "utf8": "Cách cuối cùng, nhưng chắc chắn không kém phần quan trọng,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 521440,
+      "dDurationMs": 5840,
+      "segs": [
+        {
+          "utf8": "để học tiếng Anh trên điện thoại\nlà nghe nhạc hoặc podcast."
+        }
+      ]
+    },
+    {
+      "tStartMs": 527280,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Tôi nghĩ cách này là dễ nhất trong tất cả các cách"
+        }
+      ]
+    },
+    {
+      "tStartMs": 531040,
+      "dDurationMs": 3600,
+      "segs": [
+        {
+          "utf8": "vì bạn thậm chí không cảm thấy\nmình đang học tiếng Anh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 534640,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "Ý tôi là, nói thật, ai\nmà chẳng yêu âm nhạc chứ?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 538320,
+      "dDurationMs": 5920,
+      "segs": [
+        {
+          "utf8": "Tôi biết rằng có rất nhiều thể loại âm nhạc tuyệt vời trong mọi ngôn ngữ,\nnhưng hiện tại, chúng ta chỉ đang nói về tiếng Anh thôi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 544240,
+      "dDurationMs": 4000,
+      "segs": [
+        {
+          "utf8": "Nếu bạn bắt đầu nghe các bài hát tiếng Anh một cách chậm rãi,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 548240,
+      "dDurationMs": 2800,
+      "segs": [
+        {
+          "utf8": "thật chậm rãi, bạn sẽ bắt đầu\nhiểu được những gì họ đang nói."
+        }
+      ]
+    },
+    {
+      "tStartMs": 551040,
+      "dDurationMs": 5440,
+      "segs": [
+        {
+          "utf8": "Bạn sẽ học được từ mới, nắm bắt được\ntiếng lóng thông dụng vì nhiều bài hát sử dụng chúng,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 556480,
+      "dDurationMs": 3520,
+      "segs": [
+        {
+          "utf8": "và thậm chí bạn có thể xem\nlời bài hát để theo dõi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 560000,
+      "dDurationMs": 3760,
+      "segs": [
+        {
+          "utf8": "Bạn cũng có thể tìm thấy podcast, đúng vậy, bằng tiếng Anh."
+        }
+      ]
+    },
+    {
+      "tStartMs": 563760,
+      "dDurationMs": 2080,
+      "segs": [
+        {
+          "utf8": "Hãy chọn thứ gì đó mà bạn thực sự thích."
+        }
+      ]
+    },
+    {
+      "tStartMs": 565840,
+      "dDurationMs": 5280,
+      "segs": [
+        {
+          "utf8": "Ví dụ, TED Talks Daily rất tốt\nvì người nói thường trình bày rõ ràng,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 571120,
+      "dDurationMs": 4320,
+      "segs": [
+        {
+          "utf8": "không quá nhanh, và có rất nhiều\nchủ đề thú vị để lựa chọn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 575440,
+      "dDurationMs": 6720,
+      "segs": [
+        {
+          "utf8": "Nhưng điều quan trọng nhất là tìm được một podcast mà bạn\nthích và một chủ đề thực sự thu hút bạn."
+        }
+      ]
+    },
+    {
+      "tStartMs": 582160,
+      "dDurationMs": 3280,
+      "segs": [
+        {
+          "utf8": "Và miễn là họ\nnói tiếng Anh, bạn đoán xem điều gì sẽ xảy ra tiếp theo?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 585440,
+      "dDurationMs": 960,
+      "segs": [
+        {
+          "utf8": "Bạn đang học hỏi.  Đơn"
+        }
+      ]
+    },
+    {
+      "tStartMs": 586400,
+      "dDurationMs": 1360,
+      "segs": [
+        {
+          "utf8": "giản vậy thôi."
+        }
+      ]
+    },
+    {
+      "tStartMs": 587760,
+      "dDurationMs": 3360,
+      "segs": [
+        {
+          "utf8": "Hãy cố gắng biến việc nghe podcast thành một thói quen."
+        }
+      ]
+    },
+    {
+      "tStartMs": 591120,
+      "dDurationMs": 7360,
+      "segs": [
+        {
+          "utf8": "Vậy nên thay vì chỉ lướt\nđiện thoại hàng giờ liền, có lẽ khi bạn đang làm việc nhà"
+        }
+      ]
+    },
+    {
+      "tStartMs": 598480,
+      "dDurationMs": 8640,
+      "segs": [
+        {
+          "utf8": "như rửa bát, đi bộ, đi xe buýt hoặc\nmáy bay, hãy bật podcast yêu thích của bạn lên."
+        }
+      ]
+    },
+    {
+      "tStartMs": 607120,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "Hãy để cho tất cả những tiếng Anh đó lọt vào tai bạn và\nthực sự chú ý đến những từ ngữ và cụm từ họ sử dụng."
+        }
+      ]
+    },
+    {
+      "tStartMs": 612480,
+      "dDurationMs": 2560,
+      "segs": [
+        {
+          "utf8": "Bạn sẽ ngạc nhiên về những gì mình học được."
+        }
+      ]
+    },
+    {
+      "tStartMs": 615040,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Được rồi mọi người, video hôm nay đến đây là hết."
+        }
+      ]
+    },
+    {
+      "tStartMs": 618080,
+      "dDurationMs": 6960,
+      "segs": [
+        {
+          "utf8": "Hãy cho tôi biết trong phần bình luận bên dưới nếu bạn đang sử dụng\nmột trong những mẹo này để học tiếng Anh trên điện thoại nhé."
+        }
+      ]
+    },
+    {
+      "tStartMs": 625040,
+      "dDurationMs": 5600,
+      "segs": [
+        {
+          "utf8": "Và nếu bạn thích video này và thấy nó\ncực kỳ hữu ích, đừng quên nhấn nút thích nhé.  Hãy"
+        }
+      ]
+    },
+    {
+      "tStartMs": 630640,
+      "dDurationMs": 5360,
+      "segs": [
+        {
+          "utf8": "đăng ký kênh và nhấn vào\nbiểu tượng chuông thông báo để nhận thêm nhiều mẹo học tiếng Anh hữu ích nhé!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 636000,
+      "dDurationMs": 1600,
+      "segs": [
+        {
+          "utf8": "Hẹn gặp lại các bạn vào tuần sau."
+        }
+      ]
+    },
+    {
+      "tStartMs": 637600,
+      "dDurationMs": 3040,
+      "segs": [
+        {
+          "utf8": "Tạm biệt."
+        }
+      ]
+    }
+  ]
+}

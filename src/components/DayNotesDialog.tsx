@@ -1,7 +1,17 @@
 import { useEffect, useState } from 'react'
-import { X, Trash2, StickyNote, Loader2 } from 'lucide-react'
+import { Trash2, StickyNote, Loader2 } from 'lucide-react'
 import type { PlanNote } from '@/types'
 import { addPlanNote, deletePlanNote, getPlanNotes } from '@/services/plans'
+import { Button } from '@/components/ui/button'
+import { Textarea } from '@/components/ui/textarea'
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogDescription,
+} from '@/components/ui/dialog'
+import { Separator } from '@/components/ui/separator'
 
 interface Props {
   planId: string
@@ -50,15 +60,6 @@ export function DayNotesDialog({ planId, userId, date, onClose }: Props) {
     }
   }, [planId, userId, date])
 
-  // Close on Escape
-  useEffect(() => {
-    function onKey(e: KeyboardEvent) {
-      if (e.key === 'Escape') onClose()
-    }
-    document.addEventListener('keydown', onKey)
-    return () => document.removeEventListener('keydown', onKey)
-  }, [onClose])
-
   async function handleAdd() {
     const trimmed = text.trim()
     if (!trimmed) return
@@ -87,29 +88,17 @@ export function DayNotesDialog({ planId, userId, date, onClose }: Props) {
   }
 
   return (
-    <div
-      className="fixed inset-0 z-200 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm"
-      onClick={onClose}
-    >
-      <div
-        className="bg-card border border-border rounded-2xl shadow-2xl w-full max-w-md max-h-[90vh] p-5 flex flex-col gap-4"
-        onClick={(e) => e.stopPropagation()}
-      >
+    <Dialog open={true} onOpenChange={(open) => { if (!open) onClose() }}>
+      <DialogContent className="max-w-md max-h-[90vh] flex flex-col gap-4">
         {/* Header */}
-        <div className="flex items-start justify-between gap-3">
-          <div className="min-w-0">
-            <p className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground mb-0.5 flex items-center gap-1">
-              <StickyNote className="w-3 h-3" /> Notes
-            </p>
-            <h2 className="text-lg font-bold text-foreground wrap-break-word">{formatDateLabel(date)}</h2>
-          </div>
-          <button
-            onClick={onClose}
-            className="w-7 h-7 rounded-lg flex items-center justify-center text-muted-foreground hover:text-foreground hover:bg-accent transition-colors shrink-0"
-          >
-            <X className="w-4 h-4" />
-          </button>
-        </div>
+        <DialogHeader>
+          <DialogDescription className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground mb-0.5 flex items-center gap-1">
+            <StickyNote className="w-3 h-3" /> Notes
+          </DialogDescription>
+          <DialogTitle className="text-lg font-bold text-foreground wrap-break-word">
+            {formatDateLabel(date)}
+          </DialogTitle>
+        </DialogHeader>
 
         {/* Notes list */}
         <div className="flex-1 overflow-y-auto -mx-1 px-1 min-h-20">
@@ -134,13 +123,15 @@ export function DayNotesDialog({ planId, userId, date, onClose }: Props) {
                       <p className="text-[10px] text-muted-foreground mt-1">{formatTime(n.createdAt)}</p>
                     )}
                   </div>
-                  <button
+                  <Button
+                    variant="ghost"
+                    size="icon-xs"
                     onClick={() => handleDelete(n)}
-                    className="w-7 h-7 rounded-md flex items-center justify-center text-muted-foreground hover:text-red-500 hover:bg-red-500/10 transition-colors shrink-0 opacity-0 group-hover:opacity-100"
+                    className="text-muted-foreground hover:text-red-500 hover:bg-red-500/10 shrink-0 opacity-0 group-hover:opacity-100"
                     title="Delete note"
                   >
                     <Trash2 className="w-3.5 h-3.5" />
-                  </button>
+                  </Button>
                 </li>
               ))}
             </ul>
@@ -148,9 +139,10 @@ export function DayNotesDialog({ planId, userId, date, onClose }: Props) {
         </div>
 
         {/* Add new note */}
-        <div className="flex flex-col gap-2 border-t border-border pt-3">
-          <p className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">Add note</p>
-          <textarea
+        <div className="flex flex-col gap-2">
+          <Separator />
+          <p className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground pt-1">Add note</p>
+          <Textarea
             value={text}
             onChange={(e) => setText(e.target.value)}
             onKeyDown={(e) => {
@@ -161,22 +153,21 @@ export function DayNotesDialog({ planId, userId, date, onClose }: Props) {
             }}
             placeholder="Write a note for this day…"
             rows={3}
-            className="w-full rounded-lg border border-border bg-background px-3 py-2 text-sm resize-none focus:outline-none focus:ring-2 focus:ring-ring"
+            className="resize-none"
           />
           {error && <p className="text-xs text-destructive">{error}</p>}
           <div className="flex items-center justify-between gap-2">
             <span className="text-[10px] text-muted-foreground">⌘/Ctrl + Enter to save</span>
-            <button
+            <Button
               onClick={handleAdd}
               disabled={adding || !text.trim()}
-              className="inline-flex items-center gap-1.5 px-4 h-9 rounded-lg bg-primary text-primary-foreground text-xs font-semibold hover:bg-primary/90 transition-colors disabled:opacity-60"
             >
               {adding ? <Loader2 className="w-3.5 h-3.5 animate-spin" /> : null}
               Save note
-            </button>
+            </Button>
           </div>
         </div>
-      </div>
-    </div>
+      </DialogContent>
+    </Dialog>
   )
 }

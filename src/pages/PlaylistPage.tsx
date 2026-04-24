@@ -13,6 +13,7 @@ import { loadVideos } from '@/services/videos'
 import { useAuth } from '@/context/AuthContext'
 import { addVocabWord, getVocabWords } from '@/services/vocabulary'
 import { VocabDialog } from '@/components/VocabDialog'
+import { Button } from '@/components/ui/button'
 import { useQuizMode } from '@/hooks/useQuizMode'
 import { useWatchTime } from '@/hooks/useWatchTime'
 import { useVideoProgress } from '@/hooks/useVideoProgress'
@@ -275,31 +276,34 @@ export default function PlaylistPage() {
         hideAddVideo
         breadcrumb={
           <div ref={dropdownRef} className="relative">
-            <button
+            <Button
+              variant="ghost"
+              size="sm"
               onClick={() => setDropdownOpen((v) => !v)}
-              className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors px-2 py-1 rounded hover:bg-accent max-w-xs"
+              className="gap-1.5 text-muted-foreground hover:text-foreground max-w-xs"
             >
               <span className="truncate">{playlist?.name ?? '…'}</span>
               <ChevronDown className="w-3.5 h-3.5 shrink-0" />
-            </button>
+            </Button>
             {dropdownOpen && videos.length > 0 && (
               <div className="absolute top-full left-0 mt-1 w-72 rounded-lg border border-border bg-card shadow-xl py-1 z-50 max-h-80 overflow-y-auto">
                 {videos.map((video, idx) => (
-                  <button
+                  <Button
                     key={video.videoId}
+                    variant="ghost"
                     onClick={() => jumpTo(idx)}
                     className={[
-                      'w-full flex items-center gap-3 px-3 py-2 text-left hover:bg-accent transition-colors',
+                      'w-full justify-start gap-3 px-3 py-2 h-auto rounded-none',
                       idx === currentIdx ? 'bg-accent/60' : '',
                     ].join(' ')}
                   >
                     <span className="text-[10px] text-muted-foreground font-mono w-4 shrink-0">{idx + 1}</span>
                     <img src={video.thumbnailUrl} alt="" className="w-14 rounded shrink-0 aspect-video object-cover" />
-                    <span className={['text-xs line-clamp-2 flex-1', idx === currentIdx ? 'text-foreground font-medium' : 'text-muted-foreground'].join(' ')}>
+                    <span className={['text-xs line-clamp-2 flex-1 text-left', idx === currentIdx ? 'text-foreground font-medium' : 'text-muted-foreground'].join(' ')}>
                       {video.title}
                     </span>
                     {idx === currentIdx && <Play className="w-3 h-3 shrink-0 text-primary fill-primary" />}
-                  </button>
+                  </Button>
                 ))}
               </div>
             )}
@@ -307,33 +311,26 @@ export default function PlaylistPage() {
         }
         right={
           <div className="flex items-center gap-1">
-            <button
-              className="md:hidden w-8 h-8 flex items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
-              onClick={() => setMobileSidebarOpen((v) => !v)}
-              title="Captions & Notes"
-            >
+            <Button variant="ghost" size="icon" className="md:hidden text-muted-foreground hover:text-foreground" onClick={() => setMobileSidebarOpen((v) => !v)} title="Captions & Notes">
               <PanelRight className="w-4 h-4" />
-            </button>
-            <button
+            </Button>
+            <Button
+              variant={quiz.quizMode ? 'default' : 'secondary'}
+              size="sm"
               onClick={quiz.toggleQuizMode}
               title={quiz.quizMode ? 'Quiz mode on — click to disable' : 'Enable quiz mode'}
-              className={[
-                'flex items-center gap-1.5 h-7 px-3 rounded-lg text-xs font-semibold transition-colors mr-1',
-                quiz.quizMode ? 'bg-primary text-primary-foreground hover:bg-primary/90' : 'bg-muted text-muted-foreground hover:bg-accent hover:text-foreground',
-              ].join(' ')}
+              className="gap-1.5 font-semibold mr-1"
             >
               <Brain className="w-3.5 h-3.5" />
               Quiz
-            </button>
-            <button onClick={() => jumpTo(currentIdx - 1)} disabled={currentIdx === 0}
-              className="w-7 h-7 rounded flex items-center justify-center text-muted-foreground hover:text-foreground hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors">
+            </Button>
+            <Button variant="ghost" size="icon-sm" onClick={() => jumpTo(currentIdx - 1)} disabled={currentIdx === 0} className="text-muted-foreground hover:text-foreground">
               <ChevronLeft className="w-4 h-4" />
-            </button>
+            </Button>
             <span className="text-xs text-muted-foreground font-mono w-12 text-center">{currentIdx + 1}/{videos.length}</span>
-            <button onClick={() => jumpTo(currentIdx + 1)} disabled={currentIdx >= videos.length - 1}
-              className="w-7 h-7 rounded flex items-center justify-center text-muted-foreground hover:text-foreground hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors">
+            <Button variant="ghost" size="icon-sm" onClick={() => jumpTo(currentIdx + 1)} disabled={currentIdx >= videos.length - 1} className="text-muted-foreground hover:text-foreground">
               <ChevronRight className="w-4 h-4" />
-            </button>
+            </Button>
           </div>
         }
       />
@@ -459,12 +456,9 @@ export default function PlaylistPage() {
           {/* Mobile close button */}
           <div className="md:hidden flex items-center justify-between px-4 py-2 border-b border-border shrink-0">
             <span className="text-xs font-medium text-muted-foreground">Captions & Notes</span>
-            <button
-              onClick={() => setMobileSidebarOpen(false)}
-              className="w-7 h-7 flex items-center justify-center rounded hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
-            >
+            <Button variant="ghost" size="icon-sm" onClick={() => setMobileSidebarOpen(false)} className="text-muted-foreground hover:text-foreground">
               <X className="w-4 h-4" />
-            </button>
+            </Button>
           </div>
 
           {/* Tabs */}
@@ -502,24 +496,26 @@ export default function PlaylistPage() {
                 const qw = quiz.quizMode ? pickQuizWord(cue.text) : null
                 const displayText = qw ? maskText(cue.text, qw) : cue.text
                 return (
-                  <button
+                  <Button
                     key={cue.startMs}
+                    variant="ghost"
                     ref={isActive ? activeCueRef : null}
                     onClick={() => handleCueClick(cue, idx)}
                     className={[
-                      'w-full text-left px-4 py-3 border-b border-border/60',
-                      'text-sm leading-relaxed transition-colors duration-100',
-                      'hover:bg-accent focus:outline-none focus:bg-accent',
+                      'w-full justify-start text-left px-4 py-3 h-auto rounded-none border-b border-border/60',
+                      'leading-relaxed',
                       isActive
                         ? 'bg-primary/10 border-l-2 border-l-primary text-foreground'
                         : 'text-muted-foreground border-l-2 border-l-transparent',
                     ].join(' ')}
                   >
-                    <span className="text-[10px] text-muted-foreground/50 font-mono block mb-0.5">
-                      {formatTime(cue.startMs)}
+                    <span className="w-full">
+                      <span className="text-[10px] text-muted-foreground/50 font-mono block mb-0.5">
+                        {formatTime(cue.startMs)}
+                      </span>
+                      {displayText}
                     </span>
-                    {displayText}
-                  </button>
+                  </Button>
                 )
               })}
             </div>
@@ -548,22 +544,19 @@ export default function PlaylistPage() {
                       className="w-full bg-muted border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder:text-muted-foreground resize-none focus:outline-none focus:border-primary/50 focus:ring-1 focus:ring-primary/20"
                     />
                     <div className="flex gap-2">
-                      <button onClick={handleSaveNote} disabled={!noteText.trim()}
-                        className="flex-1 h-7 rounded-lg bg-primary hover:bg-primary/90 disabled:opacity-40 disabled:cursor-not-allowed text-primary-foreground text-xs font-semibold transition-colors">
+                      <Button size="sm" onClick={handleSaveNote} disabled={!noteText.trim()} className="flex-1 font-semibold">
                         Save
-                      </button>
-                      <button onClick={handleCancelNote}
-                        className="h-7 px-3 rounded-lg bg-muted hover:bg-accent text-muted-foreground text-xs transition-colors">
+                      </Button>
+                      <Button variant="secondary" size="sm" onClick={handleCancelNote} className="text-muted-foreground">
                         Cancel
-                      </button>
+                      </Button>
                     </div>
                   </div>
                 ) : (
-                  <button onClick={handleStartAddNote}
-                    className="w-full flex items-center justify-center gap-2 h-8 rounded-lg border border-dashed border-border hover:border-foreground/30 text-muted-foreground hover:text-foreground text-xs transition-colors">
+                  <Button variant="outline" onClick={handleStartAddNote} className="w-full gap-2 border-dashed text-muted-foreground hover:text-foreground">
                     <Plus className="w-3.5 h-3.5" />
                     Add note at {formatTime(currentMs)}
-                  </button>
+                  </Button>
                 )}
               </div>
 
@@ -576,18 +569,18 @@ export default function PlaylistPage() {
                 )}
                 {notes.map((note) => (
                   <div key={note.createdAt} className="group flex gap-3 px-4 py-3 border-b border-border/60 hover:bg-accent/50 transition-colors">
-                    <button
+                    <Button
+                      variant="link"
+                      size="xs"
                       onClick={() => handleSeek(note.positionMs)}
-                      className="text-[10px] font-mono text-yellow-500 hover:text-yellow-400 shrink-0 mt-0.5 hover:underline transition-colors"
+                      className="text-[10px] font-mono text-yellow-500 hover:text-yellow-400 shrink-0 mt-0.5 p-0 h-auto"
                     >
                       {formatTime(note.positionMs)}
-                    </button>
+                    </Button>
                     <p className="flex-1 text-xs text-foreground leading-relaxed whitespace-pre-wrap">{note.text}</p>
-                    <button onClick={() => removeNote(note.createdAt)}
-                      className="opacity-0 group-hover:opacity-100 shrink-0 w-5 h-5 flex items-center justify-center text-muted-foreground hover:text-destructive transition-all"
-                      title="Delete note">
+                    <Button variant="ghost" size="icon-xs" onClick={() => removeNote(note.createdAt)} className="opacity-0 group-hover:opacity-100 shrink-0 w-5 h-5 text-muted-foreground hover:text-destructive" title="Delete note">
                       <Trash2 className="w-3 h-3" />
-                    </button>
+                    </Button>
                   </div>
                 ))}
               </div>
@@ -609,15 +602,16 @@ function SidebarTab({ active, onClick, children }: {
   active: boolean; onClick: () => void; children: React.ReactNode
 }) {
   return (
-    <button
+    <Button
+      variant="ghost"
       onClick={onClick}
       className={[
-        'flex items-center gap-1.5 px-4 py-2.5 text-xs font-medium border-b-2 transition-colors',
+        'gap-1.5 px-4 py-2.5 rounded-none border-b-2',
         active ? 'border-primary text-foreground' : 'border-transparent text-muted-foreground hover:text-foreground',
       ].join(' ')}
     >
       {children}
-    </button>
+    </Button>
   )
 }
 

@@ -89,13 +89,14 @@ export function SpeakingPanel({
         <p className="text-sm font-medium text-foreground mb-1">Speaking Practice</p>
         <p className="text-xs text-muted-foreground mb-5">Select a cue to start practicing pronunciation</p>
         {activeCueIdx >= 0 && (
-          <button
+          <Button
             onClick={() => onOpen(activeCueIdx)}
-            className="flex items-center gap-2 h-10 px-5 rounded-full bg-red-500 hover:bg-red-600 text-white text-sm font-medium transition-colors shadow-lg shadow-red-500/25"
+            className="rounded-full bg-red-500 hover:bg-red-600 text-white shadow-lg shadow-red-500/25"
+            size="lg"
           >
             <Mic className="w-4 h-4" />
             Start practicing
-          </button>
+          </Button>
         )}
       </div>
     );
@@ -108,13 +109,15 @@ export function SpeakingPanel({
     return (
       <div className="flex flex-col flex-1 overflow-hidden">
         <div className="px-4 pt-4 pb-3 shrink-0">
-          <button
+          <Button
+            variant="ghost"
+            size="sm"
             onClick={onExitWordMode}
-            className="flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors mb-3"
+            className="mb-3 text-muted-foreground hover:text-foreground"
           >
             <ArrowLeft className="w-3.5 h-3.5" />
             Back to sentence
-          </button>
+          </Button>
           <div className="rounded-xl bg-muted/50 border border-border/50 px-4 py-4 mb-3 text-center">
             <p className="text-2xl font-bold text-foreground">{targetWord}</p>
             <p className="text-[10px] text-muted-foreground mt-1">Word practice</p>
@@ -124,13 +127,14 @@ export function SpeakingPanel({
         <div className="flex-1 overflow-y-auto px-4 py-3">
           {phase === 'ready' && (
             <div className="flex flex-col items-center gap-4 pt-6">
-              <button
+              <Button
                 onClick={onStartRecording}
-                className="group relative w-16 h-16 rounded-full bg-red-500 hover:bg-red-600 active:scale-95 flex items-center justify-center text-white transition-all shadow-lg shadow-red-500/30"
+                className="group relative w-16 h-16 rounded-full bg-red-500 hover:bg-red-600 active:scale-95 text-white shadow-lg shadow-red-500/30"
+                size="icon-lg"
               >
                 <span className="absolute inset-0 rounded-full bg-red-400/30 animate-ping group-hover:animate-none" />
                 <Mic className="w-7 h-7 relative" />
-              </button>
+              </Button>
               <p className="text-xs text-muted-foreground">Say "<span className="font-medium text-foreground">{targetWord}</span>"</p>
             </div>
           )}
@@ -179,32 +183,38 @@ export function SpeakingPanel({
 
         {/* Controls row */}
         <div className="flex items-center justify-between">
-          <button
+          <Button
+            variant="ghost"
+            size="sm"
             onClick={() => onPlayCue(cueIdx)}
-            className="flex items-center gap-1.5 h-7 px-2.5 rounded-lg hover:bg-accent text-xs text-muted-foreground hover:text-foreground transition-colors"
+            className="text-muted-foreground hover:text-foreground"
           >
             <Volume2 className="w-3.5 h-3.5" />
             Listen
-          </button>
+          </Button>
 
           <div className="flex items-center gap-1">
-            <button
+            <Button
+              variant="ghost"
+              size="icon-sm"
               onClick={() => onGoToCue(cueIdx - 1)}
               disabled={cueIdx <= 0}
-              className="w-7 h-7 flex items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+              className="text-muted-foreground hover:text-foreground"
             >
               <ChevronLeft className="w-4 h-4" />
-            </button>
+            </Button>
             <span className="text-[10px] text-muted-foreground tabular-nums min-w-[3rem] text-center">
               {cueIdx + 1} / {totalCues}
             </span>
-            <button
+            <Button
+              variant="ghost"
+              size="icon-sm"
               onClick={() => onGoToCue(cueIdx + 1)}
               disabled={cueIdx >= totalCues - 1}
-              className="w-7 h-7 flex items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+              className="text-muted-foreground hover:text-foreground"
             >
               <ChevronRight className="w-4 h-4" />
-            </button>
+            </Button>
           </div>
         </div>
       </div>
@@ -212,13 +222,14 @@ export function SpeakingPanel({
       <div className="flex-1 overflow-y-auto px-4 py-3">
         {phase === 'ready' && (
           <div className="flex flex-col items-center gap-4 pt-6">
-            <button
+            <Button
               onClick={onStartRecording}
-              className="group relative w-16 h-16 rounded-full bg-red-500 hover:bg-red-600 active:scale-95 flex items-center justify-center text-white transition-all shadow-lg shadow-red-500/30"
+              className="group relative w-16 h-16 rounded-full bg-red-500 hover:bg-red-600 active:scale-95 text-white shadow-lg shadow-red-500/30"
+              size="icon-lg"
             >
               <span className="absolute inset-0 rounded-full bg-red-400/30 animate-ping group-hover:animate-none" />
               <Mic className="w-7 h-7 relative" />
-            </button>
+            </Button>
             <p className="text-xs text-muted-foreground">Tap to start recording</p>
           </div>
         )}
@@ -320,12 +331,13 @@ function RecordingView({ stream, onStop }: { stream: MediaStream | null; onStop:
 
       <canvas ref={canvasRef} width={320} height={56} className="w-full max-w-[320px] h-14" />
 
-      <button
+      <Button
         onClick={onStop}
-        className="w-14 h-14 rounded-full bg-red-500 hover:bg-red-600 active:scale-95 flex items-center justify-center text-white transition-all shadow-lg shadow-red-500/30"
+        className="w-14 h-14 rounded-full bg-red-500 hover:bg-red-600 active:scale-95 text-white shadow-lg shadow-red-500/30"
+        size="icon-lg"
       >
         <Square className="w-5 h-5 fill-current" />
-      </button>
+      </Button>
       <p className="text-[11px] text-muted-foreground">Tap to stop</p>
     </div>
   );
@@ -390,10 +402,11 @@ function WordResultView({
 
       {/* Expected pronunciation — listen to native audio */}
       {entry?.audioUrl && (
-        <button
+        <Button
+          variant="ghost"
           type="button"
           onClick={() => playDictAudio(entry.audioUrl)}
-          className="flex items-center gap-2.5 w-full text-left group rounded-xl border border-border bg-card p-3"
+          className="flex items-center gap-2.5 w-full text-left group rounded-xl border border-border bg-card p-3 h-auto"
         >
           <span className="w-8 h-8 shrink-0 rounded-full bg-blue-500/10 group-hover:bg-blue-500/20 flex items-center justify-center text-blue-500 transition-colors">
             <Volume2 className="w-3.5 h-3.5" />
@@ -402,7 +415,7 @@ function WordResultView({
             <span className="text-xs text-foreground font-medium">Listen to expected pronunciation</span>
             {entry.phonetic && <span className="text-[10px] text-muted-foreground font-mono">{entry.phonetic}</span>}
           </div>
-        </button>
+        </Button>
       )}
 
       {/* Details card */}
@@ -445,16 +458,17 @@ function WordResultView({
 
       {/* Playback of user's recording */}
       {audioUrl && (
-        <button
+        <Button
+          variant="ghost"
           type="button"
           onClick={togglePlayback}
-          className="flex items-center gap-2.5 w-full text-left group rounded-xl border border-border bg-card p-3"
+          className="flex items-center gap-2.5 w-full text-left group rounded-xl border border-border bg-card p-3 h-auto"
         >
           <span className="w-8 h-8 shrink-0 rounded-full bg-primary/10 group-hover:bg-primary/20 flex items-center justify-center text-primary transition-colors">
             {isPlaying ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5 ml-0.5" />}
           </span>
           <span className="text-xs text-muted-foreground">Listen to your recording</span>
-        </button>
+        </Button>
       )}
       {audioUrl && (
         <audio
@@ -611,11 +625,12 @@ function TranscriptComparison({
 
       <div>
         <p className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider mb-1.5">You said</p>
-        <button
+        <Button
+          variant="ghost"
           type="button"
           onClick={togglePlayback}
           disabled={!audioUrl}
-          className="flex items-center gap-2.5 w-full text-left group disabled:opacity-50 disabled:cursor-default"
+          className="flex items-center gap-2.5 w-full text-left group h-auto p-0"
         >
           <span className="w-8 h-8 shrink-0 rounded-full bg-primary/10 group-hover:bg-primary/20 flex items-center justify-center text-primary transition-colors">
             {isPlaying ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5 ml-0.5" />}
@@ -623,7 +638,7 @@ function TranscriptComparison({
           <span className="text-sm text-foreground/80 leading-relaxed min-w-0">
             {transcript || <span className="italic text-muted-foreground">(nothing detected)</span>}
           </span>
-        </button>
+        </Button>
         {audioUrl && (
           <audio
             ref={audioRef}
@@ -667,13 +682,15 @@ function WordBadge({ word, onClick }: { word: WordDetail; onClick: () => void })
           <span className="font-semibold text-foreground text-xs">{word.word}</span>
           {entry?.phonetic && <span className="font-mono text-muted-foreground">{entry.phonetic}</span>}
           {entry?.audioUrl && (
-            <button
+            <Button
+              variant="ghost"
+              size="icon-xs"
               type="button"
               onClick={(e) => { e.stopPropagation(); playDictAudio(entry.audioUrl); }}
-              className="w-4 h-4 flex items-center justify-center text-primary hover:text-primary/80 transition-colors"
+              className="w-4 h-4 text-primary hover:text-primary/80"
             >
               <Volume2 className="w-3 h-3" />
-            </button>
+            </Button>
           )}
         </div>
 
@@ -742,13 +759,15 @@ function CueWord({ word, clean, onClick }: { word: string; clean: string; onClic
           <span className="font-semibold text-foreground text-xs">{clean}</span>
           {entry?.phonetic && <span className="font-mono text-muted-foreground">{entry.phonetic}</span>}
           {entry?.audioUrl && (
-            <button
+            <Button
+              variant="ghost"
+              size="icon-xs"
               type="button"
               onClick={(e) => { e.stopPropagation(); playDictAudio(entry.audioUrl); }}
-              className="w-4 h-4 flex items-center justify-center text-primary hover:text-primary/80 transition-colors"
+              className="w-4 h-4 text-primary hover:text-primary/80"
             >
               <Volume2 className="w-3 h-3" />
-            </button>
+            </Button>
           )}
         </div>
         {entry === undefined && (
@@ -782,14 +801,16 @@ function ReferenceWord({ word, colorClass }: { word: string; colorClass: string 
         <span className={`font-medium cursor-default ${colorClass}`}>
           {word}
           {entry?.audioUrl && (
-            <button
+            <Button
+              variant="ghost"
+              size="icon-xs"
               type="button"
               onClick={(e) => { e.stopPropagation(); playDictAudio(entry.audioUrl); }}
-              className="inline-flex items-center justify-center w-4 h-4 ml-0.5 align-middle text-muted-foreground hover:text-primary transition-colors"
+              className="inline-flex w-4 h-4 ml-0.5 align-middle text-muted-foreground hover:text-primary"
               title="Listen to pronunciation"
             >
               <Volume2 className="w-3 h-3" />
-            </button>
+            </Button>
           )}
         </span>
       </TooltipTrigger>
@@ -798,13 +819,15 @@ function ReferenceWord({ word, colorClass }: { word: string; colorClass: string 
           <span className="font-semibold text-foreground text-xs">{word}</span>
           {entry?.phonetic && <span className="font-mono text-muted-foreground">{entry.phonetic}</span>}
           {entry?.audioUrl && (
-            <button
+            <Button
+              variant="ghost"
+              size="icon-xs"
               type="button"
               onClick={() => playDictAudio(entry.audioUrl)}
-              className="w-4 h-4 flex items-center justify-center text-primary hover:text-primary/80 transition-colors"
+              className="w-4 h-4 text-primary hover:text-primary/80"
             >
               <Volume2 className="w-3 h-3" />
-            </button>
+            </Button>
           )}
         </div>
         {entry === undefined && (
@@ -889,24 +912,29 @@ function ScoreBar({ label, value }: { label: string; value: number }) {
   );
 }
 
-// ── Shared hook: blob → stable object URL with cleanup ──────────────────
-// "Adjusting state during rendering" pattern — React supports calling
-// setState during render when the value depends on changed props.
-// See: https://react.dev/reference/react/useState#storing-information-from-previous-renders
+// ── Shared hook: blob → stable data URL (no revocation needed) ──────────
 
 function useAudioUrl(blob: Blob | null): string | null {
-  const [prevBlob, setPrevBlob] = useState<Blob | null>(null);
   const [url, setUrl] = useState<string | null>(null);
+  const [prevBlob, setPrevBlob] = useState<Blob | null>(null);
 
+  // Reset when blob changes — "adjusting state during render" pattern
+  // (officially supported: https://react.dev/reference/react/useState#storing-information-from-previous-renders)
   if (blob !== prevBlob) {
-    // Revoke old URL
-    if (url) URL.revokeObjectURL(url);
-    // Create new URL synchronously during render
-    const newUrl = blob ? URL.createObjectURL(blob) : null;
     setPrevBlob(blob);
-    setUrl(newUrl);
-    return newUrl;
+    if (!blob) setUrl(null);
   }
+
+  useEffect(() => {
+    if (!blob) return;
+    let cancelled = false;
+    const reader = new FileReader();
+    reader.onloadend = () => {
+      if (!cancelled) setUrl(reader.result as string);
+    };
+    reader.readAsDataURL(blob);
+    return () => { cancelled = true; };
+  }, [blob]);
 
   return url;
 }

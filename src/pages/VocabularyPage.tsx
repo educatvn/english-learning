@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { BookOpen, Trash2, Search, ChevronDown, ChevronUp, ExternalLink, Loader2, BookPlus } from 'lucide-react'
+import { Button } from '@/components/ui/button'
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
 import { getVocabWords, deleteVocabWord, searchCaptionIndex } from '@/services/vocabulary'
@@ -102,7 +103,7 @@ function WordCard({
     <div className="rounded-xl border border-border bg-card overflow-hidden">
       {/* Word header */}
       <div className="flex items-center gap-3 px-4 py-3">
-        <button onClick={handleExpand} className="flex-1 flex items-start gap-3 text-left min-w-0">
+        <Button variant="ghost" onClick={handleExpand} className="flex-1 flex items-start gap-3 text-left min-w-0 h-auto p-0">
           <div className="flex-1 min-w-0">
             <div className="flex items-center gap-2 flex-wrap">
               <span className="text-base font-semibold text-foreground">{entry.word}</span>
@@ -121,14 +122,16 @@ function WordCard({
             ? <ChevronUp className="w-4 h-4 text-muted-foreground shrink-0 mt-0.5" />
             : <ChevronDown className="w-4 h-4 text-muted-foreground shrink-0 mt-0.5" />
           }
-        </button>
-        <button
+        </Button>
+        <Button
+          variant="ghost"
+          size="icon-sm"
           onClick={onDelete}
-          className="w-7 h-7 flex items-center justify-center rounded-lg text-muted-foreground hover:text-destructive hover:bg-destructive/10 transition-colors shrink-0"
+          className="text-muted-foreground hover:text-destructive hover:bg-destructive/10 shrink-0"
           title="Remove from vocabulary"
         >
           <Trash2 className="w-3.5 h-3.5" />
-        </button>
+        </Button>
       </div>
 
       {/* Expanded panel */}

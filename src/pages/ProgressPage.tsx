@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Clock, Brain, TrendingUp, ExternalLink, Check, X } from 'lucide-react'
+import { Button } from '@/components/ui/button'
 import { useAuth } from '@/context/AuthContext'
 import { getProgressData } from '@/services/googleSheets'
 import { loadVideos } from '@/services/videos'
@@ -104,18 +105,15 @@ export default function ProgressPage() {
           {/* Period selector */}
           <div className="flex gap-0.5 mb-6 p-1 rounded-lg bg-muted w-fit">
             {(['today', '7d', '30d'] as const).map((p) => (
-              <button
+              <Button
                 key={p}
+                variant={period === p ? 'secondary' : 'ghost'}
+                size="xs"
                 onClick={() => setPeriod(p)}
-                className={[
-                  'px-4 py-1.5 rounded-md text-xs font-medium transition-colors',
-                  period === p
-                    ? 'bg-card shadow-sm text-foreground'
-                    : 'text-muted-foreground hover:text-foreground',
-                ].join(' ')}
+                className={period === p ? 'bg-card shadow-sm' : ''}
               >
                 {p === 'today' ? 'Today' : p === '7d' ? 'Last 7 days' : 'Last 30 days'}
-              </button>
+              </Button>
             ))}
           </div>
 

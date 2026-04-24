@@ -4,6 +4,7 @@ import {
   ArrowLeft, Check, Target, Flame, Calendar,
   TrendingUp, Trophy, Play,
 } from 'lucide-react'
+import { Button } from '@/components/ui/button'
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
 import { getPlans, getDailyProgress, togglePlanItem, activatePlan, pausePlan, getPlanNotes } from '@/services/plans'
@@ -528,13 +529,14 @@ export default function PlanDashboardPage() {
                   )}
 
                   {/* Toggle done */}
-                  <button
+                  <Button
+                    variant="ghost"
                     type="button"
                     onClick={() => handleToggle(item.id)}
                     disabled={disabled}
                     title={done ? 'Mark as not done' : 'Mark as done'}
                     className={[
-                      'flex items-center gap-3 flex-1 min-w-0 text-left',
+                      'flex items-center gap-3 flex-1 min-w-0 text-left h-auto p-0',
                       disabled ? 'cursor-not-allowed' : '',
                     ].join(' ')}
                   >
@@ -550,17 +552,19 @@ export default function PlanDashboardPage() {
                     ].join(' ')}>
                       {item.text}
                     </span>
-                  </button>
+                  </Button>
 
                   {/* In-progress toggle */}
                   {!done && (
-                    <button
+                    <Button
+                      variant="ghost"
+                      size="icon-sm"
                       type="button"
                       onClick={() => toggleInProgress(item.id)}
                       disabled={disabled}
                       title={inProgress ? 'Stop — not working on this' : 'Mark as in progress'}
                       className={[
-                        'relative w-7 h-7 rounded-full flex items-center justify-center shrink-0 transition-colors',
+                        'relative rounded-full shrink-0',
                         inProgress
                           ? 'bg-primary text-primary-foreground'
                           : 'text-muted-foreground hover:text-primary hover:bg-primary/10 opacity-0 group-hover:opacity-100 focus:opacity-100',
@@ -569,14 +573,13 @@ export default function PlanDashboardPage() {
                     >
                       {inProgress ? (
                         <>
-                          {/* Pulsing ring */}
                           <span className="absolute inset-0 rounded-full bg-primary/40 animate-ping" aria-hidden="true" />
                           <Play className="w-3 h-3 fill-current relative" />
                         </>
                       ) : (
                         <Play className="w-3 h-3" />
                       )}
-                    </button>
+                    </Button>
                   )}
                 </div>
               )
@@ -735,11 +738,12 @@ function HeatmapGrid({
             const titleSuffix = hasNote ? ' • has note' : ''
 
             return (
-              <button
+              <Button
+                variant="ghost"
                 type="button"
                 key={day.date}
                 onClick={() => onCellClick(day.date)}
-                className="relative aspect-square min-w-0 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-ring rounded-[3px]"
+                className="relative aspect-square min-w-0 p-0 h-auto rounded-[3px]"
                 title={`${day.date}${inPlan ? `: ${completed}/${totalItems}` : ''}${titleSuffix}`}
               >
                 <div className={`absolute inset-0 rounded-[3px] ${bg}`} />
@@ -749,7 +753,7 @@ function HeatmapGrid({
                     aria-hidden="true"
                   />
                 )}
-              </button>
+              </Button>
             )
           })}
         </div>
@@ -760,13 +764,14 @@ function HeatmapGrid({
 
 function StatusToggle({ active, onToggle }: { active: boolean; onToggle: () => void }) {
   return (
-    <button
+    <Button
+      variant="ghost"
       type="button"
       onClick={onToggle}
       role="switch"
       aria-checked={active}
       title={active ? 'Active — click to pause' : 'Paused — click to activate'}
-      className="inline-flex items-center gap-2 shrink-0 group"
+      className="gap-2 shrink-0 group h-auto p-0"
     >
       <span className="text-[10px] font-semibold uppercase tracking-wider text-muted-foreground group-hover:text-foreground transition-colors">
         {active ? 'Active' : 'Paused'}
@@ -784,7 +789,7 @@ function StatusToggle({ active, onToggle }: { active: boolean; onToggle: () => v
           ].join(' ')}
         />
       </span>
-    </button>
+    </Button>
   )
 }
 

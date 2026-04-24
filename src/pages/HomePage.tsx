@@ -13,6 +13,8 @@ import { getVideosPaged, getRecentProgress } from '@/services/googleSheets'
 import { loadVideos } from '@/services/videos'
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
 
 // ─── HomePage ────────────────────────────────────────────────────────────────
 
@@ -218,12 +220,14 @@ export default function HomePage() {
           {/* Mobile close button */}
           <div className="md:hidden flex items-center justify-between px-3 pb-2 border-b border-border mb-1">
             <span className="text-xs font-semibold text-muted-foreground uppercase tracking-wide">Menu</span>
-            <button
+            <Button
+              variant="ghost"
+              size="icon-sm"
               onClick={() => setSidebarOpen(false)}
-              className="w-7 h-7 flex items-center justify-center rounded hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
+              className="text-muted-foreground hover:text-foreground"
             >
               <X className="w-4 h-4" />
-            </button>
+            </Button>
           </div>
 
           {/* All Videos */}
@@ -244,18 +248,20 @@ export default function HomePage() {
                   <div className="px-3 mt-2 mb-1 flex items-center justify-between">
                     <span className="text-xs font-bold text-foreground">Playlists</span>
                     {isAdmin && (
-                      <button
+                      <Button
+                        variant="ghost"
+                        size="icon-xs"
                         onClick={() => setCreatingSystemPlaylist(true)}
-                        className="w-5 h-5 rounded flex items-center justify-center hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
+                        className="w-5 h-5 text-muted-foreground hover:text-foreground"
                         title="New system playlist"
                       >
                         <Plus className="w-3.5 h-3.5" />
-                      </button>
+                      </Button>
                     )}
                   </div>
                   {creatingSystemPlaylist && (
                     <div className="mx-2 mb-1 flex items-center gap-1">
-                      <input
+                      <Input
                         ref={newSystemPlaylistInputRef}
                         value={newSystemPlaylistName}
                         onChange={(e) => setNewSystemPlaylistName(e.target.value)}
@@ -264,21 +270,23 @@ export default function HomePage() {
                           if (e.key === 'Escape') { setCreatingSystemPlaylist(false); setNewSystemPlaylistName('') }
                         }}
                         placeholder="Playlist name…"
-                        className="flex-1 h-7 rounded-md border border-input bg-background px-2 text-xs focus:outline-none focus:ring-1 focus:ring-ring"
+                        className="flex-1 h-7 text-xs"
                       />
-                      <button
+                      <Button
+                        size="icon-xs"
                         onClick={handleCreateSystemPlaylist}
                         disabled={!newSystemPlaylistName.trim()}
-                        className="w-6 h-6 rounded flex items-center justify-center bg-primary text-primary-foreground disabled:opacity-50 hover:bg-primary/90 transition-colors"
                       >
                         <Check className="w-3.5 h-3.5" />
-                      </button>
-                      <button
+                      </Button>
+                      <Button
+                        variant="ghost"
+                        size="icon-xs"
                         onClick={() => { setCreatingSystemPlaylist(false); setNewSystemPlaylistName('') }}
-                        className="w-6 h-6 rounded flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground"
+                        className="text-muted-foreground"
                       >
                         <X className="w-3.5 h-3.5" />
-                      </button>
+                      </Button>
                     </div>
                   )}
                   {systemPlaylists.map((playlist) => (
@@ -299,18 +307,20 @@ export default function HomePage() {
               <div className="mt-2">
                 <div className="px-3 mb-1 flex items-center justify-between">
                   <span className="text-xs font-bold text-foreground">Your Playlists</span>
-                  <button
+                  <Button
+                    variant="ghost"
+                    size="icon-xs"
                     onClick={() => setCreatingPlaylist(true)}
-                    className="w-5 h-5 rounded flex items-center justify-center hover:bg-accent text-muted-foreground hover:text-foreground transition-colors"
+                    className="w-5 h-5 text-muted-foreground hover:text-foreground"
                     title="New playlist"
                   >
                     <Plus className="w-3.5 h-3.5" />
-                  </button>
+                  </Button>
                 </div>
 
                 {creatingPlaylist && (
                   <div className="mx-2 mb-1 flex items-center gap-1">
-                    <input
+                    <Input
                       ref={newPlaylistInputRef}
                       value={newPlaylistName}
                       onChange={(e) => setNewPlaylistName(e.target.value)}
@@ -319,21 +329,23 @@ export default function HomePage() {
                         if (e.key === 'Escape') { setCreatingPlaylist(false); setNewPlaylistName('') }
                       }}
                       placeholder="Playlist name…"
-                      className="flex-1 h-7 rounded-md border border-input bg-background px-2 text-xs focus:outline-none focus:ring-1 focus:ring-ring"
+                      className="flex-1 h-7 text-xs"
                     />
-                    <button
+                    <Button
+                      size="icon-xs"
                       onClick={handleCreatePlaylist}
                       disabled={!newPlaylistName.trim()}
-                      className="w-6 h-6 rounded flex items-center justify-center bg-primary text-primary-foreground disabled:opacity-50 hover:bg-primary/90 transition-colors"
                     >
                       <Check className="w-3.5 h-3.5" />
-                    </button>
-                    <button
+                    </Button>
+                    <Button
+                      variant="ghost"
+                      size="icon-xs"
                       onClick={() => { setCreatingPlaylist(false); setNewPlaylistName('') }}
-                      className="w-6 h-6 rounded flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground"
+                      className="text-muted-foreground"
                     >
                       <X className="w-3.5 h-3.5" />
-                    </button>
+                    </Button>
                   </div>
                 )}
 
@@ -513,40 +525,44 @@ function Pagination({ page, totalPages, onChange, compact }: {
 
   return (
     <div className={['flex items-center gap-1 flex-wrap justify-end', compact ? '' : 'mt-8'].join(' ')}>
-      <button
+      <Button
+        variant="outline"
+        size="icon"
         onClick={() => onChange(page - 1)}
         disabled={page === 1}
-        className="w-8 h-8 rounded-lg flex items-center justify-center border border-border hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors text-muted-foreground hover:text-foreground"
+        className="text-muted-foreground hover:text-foreground disabled:opacity-30"
       >
         <ChevronLeft className="w-4 h-4" />
-      </button>
+      </Button>
 
       {pages.map((p, i) =>
         p === '…' ? (
           <span key={`ellipsis-${i}`} className="w-8 h-8 flex items-center justify-center text-xs text-muted-foreground">…</span>
         ) : (
-          <button
+          <Button
             key={p}
+            variant={p === page ? 'default' : 'outline'}
+            size="icon"
             onClick={() => onChange(p)}
             className={[
-              'w-8 h-8 rounded-lg text-xs font-medium transition-colors',
-              p === page
-                ? 'bg-primary text-primary-foreground'
-                : 'border border-border hover:bg-accent text-muted-foreground hover:text-foreground',
+              'text-xs',
+              p !== page ? 'text-muted-foreground hover:text-foreground' : '',
             ].join(' ')}
           >
             {p}
-          </button>
+          </Button>
         )
       )}
 
-      <button
+      <Button
+        variant="outline"
+        size="icon"
         onClick={() => onChange(page + 1)}
         disabled={page === totalPages}
-        className="w-8 h-8 rounded-lg flex items-center justify-center border border-border hover:bg-accent disabled:opacity-30 disabled:cursor-not-allowed transition-colors text-muted-foreground hover:text-foreground"
+        className="text-muted-foreground hover:text-foreground"
       >
         <ChevronRight className="w-4 h-4" />
-      </button>
+      </Button>
     </div>
   )
 }
@@ -711,20 +727,24 @@ function SidebarItem({
       {(onEdit || onDelete) && (
         <div className="absolute right-2 flex items-center gap-0.5 opacity-0 group-hover:opacity-100 transition-opacity">
           {onEdit && (
-            <button
+            <Button
+              variant="ghost"
+              size="icon-xs"
               onClick={(e) => { e.stopPropagation(); onEdit() }}
-              className="w-5 h-5 flex items-center justify-center rounded hover:bg-accent hover:text-foreground text-muted-foreground transition-colors"
+              className="w-5 h-5 text-muted-foreground hover:text-foreground"
             >
               <Pencil className="w-3 h-3" />
-            </button>
+            </Button>
           )}
           {onDelete && (
-            <button
+            <Button
+              variant="ghost"
+              size="icon-xs"
               onClick={(e) => { e.stopPropagation(); onDelete() }}
-              className="w-5 h-5 flex items-center justify-center rounded hover:bg-accent hover:text-destructive text-muted-foreground transition-colors"
+              className="w-5 h-5 text-muted-foreground hover:text-destructive"
             >
               <Trash2 className="w-3 h-3" />
-            </button>
+            </Button>
           )}
         </div>
       )}
@@ -776,43 +796,48 @@ function VideoCard({
         </Link>
 
         {activePlaylistId && inActivePlaylist && (
-          <button
+          <Button
+            variant="ghost"
+            size="icon-sm"
             onClick={() => onRemoveFromPlaylist(video.videoId, activePlaylistId)}
-            className="absolute top-1.5 left-1.5 w-7 h-7 rounded-full bg-black/60 text-white flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity hover:bg-red-500/80"
+            className="absolute top-1.5 left-1.5 rounded-full bg-black/60 text-white opacity-0 group-hover:opacity-100 hover:bg-red-500/80"
             title="Remove from playlist"
           >
             <X className="w-3.5 h-3.5" />
-          </button>
+          </Button>
         )}
       </div>
 
       {playlists.length > 0 && (
         <div ref={menuRef} className="absolute top-1.5 right-1.5 z-10">
-          <button
+          <Button
+            variant="ghost"
+            size="icon-sm"
             onClick={() => setMenuOpen((v) => !v)}
-            className="w-7 h-7 rounded-full bg-black/60 text-white flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity hover:bg-black/80"
+            className="rounded-full bg-black/60 text-white opacity-0 group-hover:opacity-100 hover:bg-black/80"
             title="Add to playlist"
           >
             <Plus className="w-3.5 h-3.5" />
-          </button>
+          </Button>
 
           {menuOpen && (
             <div className="absolute top-8 right-0 w-44 rounded-lg border border-border bg-card shadow-lg py-1 text-xs">
               {playlists.map((playlist) => {
                 const inThis = playlist.videoIds.includes(video.videoId)
                 return (
-                  <button
+                  <Button
                     key={playlist.id}
+                    variant="ghost"
                     onClick={() => {
                       if (inThis) onRemoveFromPlaylist(video.videoId, playlist.id)
                       else onAddToPlaylist(video.videoId, playlist.id)
                       setMenuOpen(false)
                     }}
-                    className="w-full text-left px-3 py-2 hover:bg-accent flex items-center gap-2 transition-colors"
+                    className="w-full justify-start px-3 py-2 gap-2 h-auto rounded-none"
                   >
                     <Check className={['w-3 h-3 shrink-0 text-primary', inThis ? 'opacity-100' : 'opacity-0'].join(' ')} />
                     <span className="truncate">{playlist.name}</span>
-                  </button>
+                  </Button>
                 )
               })}
             </div>
@@ -879,19 +904,18 @@ function PlaylistEditModal({
       <div className="w-full max-w-md bg-card border border-border rounded-xl shadow-2xl flex flex-col max-h-[80vh]">
         <div className="flex items-center justify-between px-5 py-4 border-b border-border shrink-0">
           <span className="font-semibold text-sm">Edit Playlist</span>
-          <button onClick={onClose} className="w-7 h-7 rounded flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground">
+          <Button variant="ghost" size="icon-sm" onClick={onClose} className="text-muted-foreground">
             <X className="w-4 h-4" />
-          </button>
+          </Button>
         </div>
 
         <div className="px-5 py-4 border-b border-border shrink-0 flex flex-col gap-3">
           <div>
             <label className="text-xs font-medium text-muted-foreground block mb-1.5">Name</label>
-            <input
+            <Input
               value={name}
               onChange={(e) => setName(e.target.value)}
               onKeyDown={(e) => { if (e.key === 'Enter') handleSave() }}
-              className="w-full h-9 rounded-lg border border-input bg-background px-3 text-sm focus:outline-none focus:ring-1 focus:ring-ring"
               autoFocus
             />
           </div>
@@ -955,9 +979,9 @@ function PlaylistEditModal({
                           <p className="text-xs font-medium line-clamp-2 leading-snug">{video.title}</p>
                           {video.channelName && <p className="text-[10px] text-muted-foreground mt-0.5">{video.channelName}</p>}
                         </div>
-                        <button onClick={() => remove(video.videoId)} className="w-6 h-6 flex items-center justify-center rounded hover:bg-destructive/10 hover:text-destructive text-muted-foreground transition-colors shrink-0">
+                        <Button variant="ghost" size="icon-xs" onClick={() => remove(video.videoId)} className="text-muted-foreground hover:text-destructive hover:bg-destructive/10 shrink-0">
                           <X className="w-3.5 h-3.5" />
-                        </button>
+                        </Button>
                       </div>
                     )}
                   </Draggable>
@@ -969,8 +993,8 @@ function PlaylistEditModal({
         </DragDropContext>
 
         <div className="flex items-center justify-end gap-2 px-5 py-4 border-t border-border shrink-0">
-          <button onClick={onClose} className="h-8 px-4 rounded-lg border border-border text-xs font-medium hover:bg-accent transition-colors">Cancel</button>
-          <button onClick={handleSave} disabled={!name.trim()} className="h-8 px-4 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 disabled:opacity-50 transition-colors">Save</button>
+          <Button variant="outline" size="sm" onClick={onClose}>Cancel</Button>
+          <Button size="sm" onClick={handleSave} disabled={!name.trim()}>Save</Button>
         </div>
       </div>
     </div>
@@ -992,8 +1016,8 @@ function ConfirmModal({ message, onConfirm, onCancel }: {
       <div className="w-full max-w-xs bg-card border border-border rounded-xl shadow-2xl p-5 flex flex-col gap-4">
         <p className="text-sm text-foreground text-center">{message}</p>
         <div className="flex items-center gap-2">
-          <button onClick={onCancel} className="flex-1 h-9 rounded-lg border border-border text-xs font-medium hover:bg-accent transition-colors">Cancel</button>
-          <button onClick={onConfirm} className="flex-1 h-9 rounded-lg bg-destructive text-destructive-foreground text-xs font-medium hover:bg-destructive/90 transition-colors">Remove</button>
+          <Button variant="outline" onClick={onCancel} className="flex-1">Cancel</Button>
+          <Button variant="destructive" onClick={onConfirm} className="flex-1">Remove</Button>
         </div>
       </div>
     </div>

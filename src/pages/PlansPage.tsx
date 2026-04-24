@@ -6,6 +6,8 @@ import {
 import { Link } from 'react-router-dom'
 import { useAuth } from '@/context/AuthContext'
 import { AppHeader } from '@/components/AppHeader'
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
 import { getPlans, upsertPlan, deletePlan, activatePlan, pausePlan } from '@/services/plans'
 import { PlanStatusDialog } from '@/components/PlanStatusDialog'
 import type { StudyPlan, PlanItem } from '@/types'
@@ -205,15 +207,16 @@ export default function PlansPage() {
               {saveStatus === 'error' && (
                 <span className="text-[10px] text-red-500">Failed</span>
               )}
-              <button
+              <Button
+                size="xs"
                 onClick={handleNew}
-                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 transition-colors whitespace-nowrap shrink-0"
+                className="shrink-0"
                 title="New Plan"
               >
                 <Plus className="w-3.5 h-3.5" />
                 <span className="hidden sm:inline">New Plan</span>
                 <span className="sm:hidden">New</span>
-              </button>
+              </Button>
             </div>
           </div>
 
@@ -222,12 +225,13 @@ export default function PlansPage() {
               <Target className="w-10 h-10 text-muted-foreground/40 mx-auto mb-3" />
               <p className="text-sm text-muted-foreground">No plans yet</p>
               <p className="text-xs text-muted-foreground mt-1">Create your first study plan to get started</p>
-              <button
+              <Button
+                size="sm"
                 onClick={handleNew}
-                className="mt-4 inline-flex items-center gap-1.5 px-4 py-2 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 transition-colors"
+                className="mt-4"
               >
                 <Plus className="w-3.5 h-3.5" /> Create Plan
-              </button>
+              </Button>
             </div>
           ) : (
             <div className="space-y-3">
@@ -301,37 +305,21 @@ function PlanCard({
         <ChevronRight className="w-3.5 h-3.5" />
       </Link>
       {(plan.status === 'draft' || plan.status === 'paused') && (
-        <button
-          onClick={onActivate}
-          className="w-8 h-8 md:w-7 md:h-7 rounded-lg border border-border flex items-center justify-center hover:bg-green-500/10 transition-colors text-muted-foreground hover:text-green-600"
-          title="Activate"
-        >
+        <Button variant="outline" size="icon-sm" onClick={onActivate} className="text-muted-foreground hover:text-green-600 hover:bg-green-500/10" title="Activate">
           <Play className="w-3 h-3" />
-        </button>
+        </Button>
       )}
       {plan.status === 'active' && (
-        <button
-          onClick={onPause}
-          className="w-8 h-8 md:w-7 md:h-7 rounded-lg border border-border flex items-center justify-center hover:bg-yellow-500/10 transition-colors text-muted-foreground hover:text-yellow-600"
-          title="Pause"
-        >
+        <Button variant="outline" size="icon-sm" onClick={onPause} className="text-muted-foreground hover:text-yellow-600 hover:bg-yellow-500/10" title="Pause">
           <Pause className="w-3 h-3" />
-        </button>
+        </Button>
       )}
-      <button
-        onClick={onEdit}
-        className="w-8 h-8 md:w-7 md:h-7 rounded-lg border border-border flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground hover:text-foreground"
-        title="Edit"
-      >
+      <Button variant="outline" size="icon-sm" onClick={onEdit} className="text-muted-foreground hover:text-foreground" title="Edit">
         <Pencil className="w-3 h-3" />
-      </button>
-      <button
-        onClick={onDelete}
-        className="w-8 h-8 md:w-7 md:h-7 rounded-lg border border-border flex items-center justify-center hover:bg-red-500/10 transition-colors text-muted-foreground hover:text-red-500"
-        title="Delete"
-      >
+      </Button>
+      <Button variant="outline" size="icon-sm" onClick={onDelete} className="text-muted-foreground hover:text-red-500 hover:bg-red-500/10" title="Delete">
         <Trash2 className="w-3 h-3" />
-      </button>
+      </Button>
     </>
   )
 
@@ -461,12 +449,9 @@ function PlanForm({
 
   return (
     <main className="flex-1 px-4 py-4 md:px-6 md:py-6 max-w-2xl mx-auto w-full">
-      <button
-        onClick={onCancel}
-        className="text-xs text-muted-foreground hover:text-foreground transition-colors mb-4 inline-flex items-center gap-1"
-      >
+      <Button variant="ghost" size="xs" onClick={onCancel} className="text-muted-foreground hover:text-foreground mb-4 gap-1">
         <X className="w-3 h-3" /> Cancel
-      </button>
+      </Button>
 
       <h2 className="text-lg font-bold mb-4">{existing ? 'Edit Plan' : 'New Plan'}</h2>
 
@@ -476,12 +461,11 @@ function PlanForm({
           <label className="text-xs font-semibold text-muted-foreground uppercase tracking-wider block mb-1.5">
             Plan Name
           </label>
-          <input
+          <Input
             type="text"
             value={name}
             onChange={(e) => setName(e.target.value)}
             placeholder="e.g. Daily English Practice"
-            className="w-full rounded-lg border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
             required
           />
         </div>
@@ -492,13 +476,13 @@ function PlanForm({
             Duration
           </label>
           <div className="flex items-center gap-2">
-            <input
+            <Input
               type="number"
               min={1}
               max={60}
               value={durationMonths}
               onChange={(e) => setDurationMonths(Math.max(1, parseInt(e.target.value) || 1))}
-              className="w-20 rounded-lg border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
+              className="w-20"
             />
             <span className="text-sm text-muted-foreground">month(s)</span>
           </div>
@@ -515,59 +499,43 @@ function PlanForm({
               <div key={item.id} className="flex items-center gap-2 group">
                 <GripVertical className="w-3.5 h-3.5 text-muted-foreground/40 shrink-0" />
                 <span className="text-xs text-muted-foreground shrink-0 w-5">{idx + 1}.</span>
-                <input
+                <Input
                   type="text"
                   value={item.text}
                   onChange={(e) => updateItemText(item.id, e.target.value)}
-                  className="flex-1 rounded-lg border border-border bg-background px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
+                  className="flex-1 py-1.5"
                 />
-                <button
-                  type="button"
-                  onClick={() => removeItem(item.id)}
-                  className="w-7 h-7 rounded-lg flex items-center justify-center hover:bg-red-500/10 transition-colors text-muted-foreground hover:text-red-500 opacity-0 group-hover:opacity-100"
-                >
+                <Button variant="ghost" size="icon-sm" type="button" onClick={() => removeItem(item.id)} className="text-muted-foreground hover:text-red-500 hover:bg-red-500/10 opacity-0 group-hover:opacity-100">
                   <Trash2 className="w-3 h-3" />
-                </button>
+                </Button>
               </div>
             ))}
           </div>
 
           <div className="flex items-center gap-2">
-            <input
+            <Input
               type="text"
               value={newItemText}
               onChange={(e) => setNewItemText(e.target.value)}
               onKeyDown={(e) => { if (e.key === 'Enter') { e.preventDefault(); addItem() } }}
               placeholder="Add an item… (press Enter)"
-              className="flex-1 rounded-lg border border-dashed border-border bg-background px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
+              className="flex-1 py-1.5 border-dashed"
             />
-            <button
-              type="button"
-              onClick={addItem}
-              className="w-7 h-7 rounded-lg border border-border flex items-center justify-center hover:bg-accent transition-colors text-muted-foreground hover:text-foreground"
-            >
+            <Button variant="outline" size="icon-sm" type="button" onClick={addItem} className="text-muted-foreground hover:text-foreground">
               <Plus className="w-3.5 h-3.5" />
-            </button>
+            </Button>
           </div>
         </div>
 
         {/* Submit */}
         <div className="flex items-center gap-2 pt-2">
-          <button
-            type="submit"
-            disabled={saving || !name.trim() || items.length === 0}
-            className="inline-flex items-center gap-1.5 px-4 py-2 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors disabled:opacity-50 disabled:pointer-events-none"
-          >
+          <Button type="submit" disabled={saving || !name.trim() || items.length === 0} className="gap-1.5">
             <Check className="w-3.5 h-3.5" />
             {saving ? 'Saving…' : existing ? 'Save Changes' : 'Create Plan'}
-          </button>
-          <button
-            type="button"
-            onClick={onCancel}
-            className="px-4 py-2 rounded-lg text-sm text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
-          >
+          </Button>
+          <Button variant="ghost" type="button" onClick={onCancel} className="text-muted-foreground hover:text-foreground">
             Cancel
-          </button>
+          </Button>
         </div>
       </form>
     </main>

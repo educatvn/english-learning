@@ -4,6 +4,8 @@ import { StickyNote, Search, Play, Trash2, Clock, Loader2 } from 'lucide-react'
 import { useAuth } from '@/context/AuthContext'
 import { searchNotes, deleteNote } from '@/services/googleSheets'
 import { AppHeader } from '@/components/AppHeader'
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
 import type { NoteWithMeta } from '@/services/googleSheets'
 
 const PAGE_SIZE = 15
@@ -136,12 +138,12 @@ export default function NotesPage() {
                 ) : (
                   <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-muted-foreground pointer-events-none" />
                 )}
-                <input
+                <Input
                   type="text"
                   value={search}
                   onChange={(e) => handleSearchChange(e.target.value)}
                   placeholder="Search in note text or video title…"
-                  className="w-full h-9 pl-9 pr-4 rounded-lg border border-border bg-card text-sm placeholder:text-muted-foreground focus:outline-none focus:border-primary/50 focus:ring-1 focus:ring-primary/20 transition"
+                  className="h-9 pl-9 pr-4 bg-card"
                 />
               </div>
               <span className="text-xs text-muted-foreground shrink-0 tabular-nums">
@@ -170,38 +172,39 @@ export default function NotesPage() {
                 {/* Pagination */}
                 {totalPages > 1 && (
                   <div className="flex items-center justify-center gap-1 mt-6 flex-wrap">
-                    <button
+                    <Button
+                      variant="outline"
+                      size="xs"
                       onClick={() => handlePageChange(Math.max(1, page - 1))}
                       disabled={page === 1}
-                      className="h-8 px-3 rounded-lg text-xs border border-border hover:bg-accent disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                      className="h-8 px-3"
                     >
                       Prev
-                    </button>
+                    </Button>
                     {buildPages(totalPages, page).map((p, i) =>
                       p === '…' ? (
                         <span key={`ell-${i}`} className="h-8 w-8 flex items-center justify-center text-xs text-muted-foreground">…</span>
                       ) : (
-                        <button
+                        <Button
                           key={p}
+                          variant={p === page ? 'default' : 'outline'}
+                          size="icon-xs"
                           onClick={() => handlePageChange(p)}
-                          className={[
-                            'h-8 w-8 rounded-lg text-xs border transition-colors',
-                            p === page
-                              ? 'border-primary bg-primary text-primary-foreground'
-                              : 'border-border hover:bg-accent',
-                          ].join(' ')}
+                          className="h-8 w-8"
                         >
                           {p}
-                        </button>
+                        </Button>
                       )
                     )}
-                    <button
+                    <Button
+                      variant="outline"
+                      size="xs"
                       onClick={() => handlePageChange(Math.min(totalPages, page + 1))}
                       disabled={page === totalPages}
-                      className="h-8 px-3 rounded-lg text-xs border border-border hover:bg-accent disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+                      className="h-8 px-3"
                     >
                       Next
-                    </button>
+                    </Button>
                   </div>
                 )}
               </>
@@ -275,13 +278,15 @@ function NoteRow({
       </div>
 
       {/* Delete */}
-      <button
+      <Button
+        variant="outline"
+        size="icon"
         onClick={onDelete}
-        className="opacity-0 group-hover:opacity-100 w-8 h-8 rounded-lg border border-border flex items-center justify-center hover:bg-destructive/10 hover:text-destructive hover:border-destructive/30 text-muted-foreground transition-all shrink-0 mt-0.5"
+        className="opacity-0 group-hover:opacity-100 hover:bg-destructive/10 hover:text-destructive hover:border-destructive/30 text-muted-foreground shrink-0 mt-0.5"
         title="Delete note"
       >
         <Trash2 className="w-3.5 h-3.5" />
-      </button>
+      </Button>
     </div>
   )
 }

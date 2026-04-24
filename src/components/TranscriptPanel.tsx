@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { Play, ArrowDownToLine } from 'lucide-react'
+import { Button } from '@/components/ui/button'
 import type { CaptionCue, CaptionParagraph } from '@/utils/captionParser'
 import { pickQuizWord, maskText } from '@/utils/quizWord'
 
@@ -93,13 +94,15 @@ export function TranscriptPanel({ paragraphs, currentMs, onCueClick, onParagraph
     <div className="flex-1 flex flex-col relative min-h-0">
       {/* Floating "jump to current" button — visible when user scrolls away from active */}
       {isOutOfSync && (
-        <button
+        <Button
+          variant="default"
+          size="sm"
           onClick={scrollToActive}
-          className="absolute top-3 left-1/2 -translate-x-1/2 z-10 flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-primary text-primary-foreground text-xs font-semibold shadow-lg hover:bg-primary/90 transition-colors"
+          className="absolute top-3 left-1/2 -translate-x-1/2 z-10 gap-1.5 rounded-full shadow-lg"
         >
           <ArrowDownToLine className="w-3 h-3" />
           Jump to current
-        </button>
+        </Button>
       )}
       <div ref={containerRef} className="flex-1 overflow-y-auto px-5 py-4 space-y-7">
       {paragraphs.map((para, pi) => {
@@ -108,13 +111,15 @@ export function TranscriptPanel({ paragraphs, currentMs, onCueClick, onParagraph
         return (
           <div key={para.startMs} ref={isActiveParagraph ? activeParagraphRef : null}>
             {/* Timestamp — click to seek to paragraph start */}
-            <button
+            <Button
+              variant="outline"
+              size="xs"
               onClick={() => onParagraphSeek(para.startMs)}
-              className="flex items-center gap-1.5 px-2 py-0.5 rounded border border-border text-[11px] font-mono text-muted-foreground hover:border-primary hover:text-primary hover:bg-primary/5 mb-2.5 transition-colors"
+              className="gap-1.5 px-2 py-0.5 text-[11px] font-mono text-muted-foreground hover:border-primary hover:text-primary hover:bg-primary/5 mb-2.5"
             >
               <Play className="w-3 h-3" />
               {formatTime(para.startMs)}
-            </button>
+            </Button>
 
             {/* Paragraph — inline cue spans */}
             <p className="text-sm leading-loose text-foreground/75 select-text">

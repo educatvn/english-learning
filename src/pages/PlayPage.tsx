@@ -2,6 +2,8 @@ import { useEffect, useRef, useState, useCallback } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import ReactPlayer from 'react-player';
 import { Brain, StickyNote, Plus, Trash2, ChevronRight, Subtitles, SkipBack, SkipForward, Repeat, Mic } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { Textarea } from '@/components/ui/textarea';
 import { parseJSON3, findActiveCue, groupCuesIntoParagraphs, fetchCaptionData } from '@/utils/captionParser';
 import type { CaptionCue } from '@/utils/captionParser';
 import { maskText } from '@/utils/quizWord';
@@ -378,11 +380,12 @@ export default function PlayPage() {
             )}
 
             {/* CC toggle bubble — bottom-right of video, desktop only */}
-            <button
+            <Button
               onClick={() => setCaptionsVisible(v => !v)}
               title={captionsVisible ? 'Hide captions' : 'Show captions'}
+              variant="ghost"
               className={[
-                'absolute bottom-5 right-5 hidden md:flex items-center gap-2 px-5 py-2.5 rounded-full text-base font-bold transition-all duration-200 shadow-lg',
+                'absolute bottom-5 right-5 hidden md:flex gap-2 px-5 py-2.5 rounded-full text-base font-bold duration-200 shadow-lg',
                 captionsVisible
                   ? 'bg-white text-black hover:bg-white/90 scale-105 ring-2 ring-white/40'
                   : 'bg-black/75 text-white border-2 border-white/40 hover:bg-black/90 hover:border-white/70',
@@ -391,7 +394,7 @@ export default function PlayPage() {
             >
               <Subtitles className="w-5 h-5" />
               CC
-            </button>
+            </Button>
 
             {vocabDialog && (
               <VocabDialog
@@ -418,55 +421,63 @@ export default function PlayPage() {
 
           {/* Cue navigation bar */}
           <div className="shrink-0 flex items-center justify-center gap-3 bg-gray-900 border-t border-gray-800 py-2">
-            <button
+            <Button
               onClick={() => playCueAt(activeCueIdx - 1)}
               disabled={activeCueIdx <= 0}
               title="Previous cue"
-              className="w-9 h-9 flex items-center justify-center rounded-full text-gray-300 hover:bg-gray-700 hover:text-white disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+              variant="ghost"
+              size="icon"
+              className="w-9 h-9 rounded-full text-gray-300 hover:bg-gray-700 hover:text-white disabled:opacity-30"
             >
               <SkipBack className="w-4 h-4" />
-            </button>
+            </Button>
             <div className="flex flex-col items-center gap-0.5">
-              <button
+              <Button
                 onClick={() => { if (activeCueIdx >= 0) playCueAt(activeCueIdx); }}
                 disabled={activeCueIdx < 0}
                 title="Replay current cue"
-                className="w-9 h-9 flex items-center justify-center rounded-full text-gray-300 hover:bg-gray-700 hover:text-white disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+                variant="ghost"
+                size="icon"
+                className="w-9 h-9 rounded-full text-gray-300 hover:bg-gray-700 hover:text-white disabled:opacity-30"
               >
                 <Repeat className="w-4 h-4" />
-              </button>
+              </Button>
               {/* Repeat toggle dot */}
-              <button
+              <Button
                 onClick={() => setRepeatMode(v => !v)}
                 title={repeatMode ? 'Repeat on — click to turn off' : 'Turn on repeat'}
+                variant="ghost"
                 className={[
-                  'w-1.5 h-1.5 rounded-full transition-colors',
+                  'w-1.5 h-1.5 min-w-0 min-h-0 p-0 rounded-full border-0',
                   repeatMode ? 'bg-blue-400' : 'bg-gray-600 hover:bg-gray-400',
                 ].join(' ')}
               />
             </div>
-            <button
+            <Button
               onClick={() => playCueAt(activeCueIdx + 1)}
               disabled={activeCueIdx >= cues.length - 1}
               title="Next cue"
-              className="w-9 h-9 flex items-center justify-center rounded-full text-gray-300 hover:bg-gray-700 hover:text-white disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+              variant="ghost"
+              size="icon"
+              className="w-9 h-9 rounded-full text-gray-300 hover:bg-gray-700 hover:text-white disabled:opacity-30"
             >
               <SkipForward className="w-4 h-4" />
-            </button>
+            </Button>
 
           </div>
 
           {/* Expand/collapse sidebar — right edge of video column, desktop only */}
-          <button
+          <Button
             onClick={() => setSidebarOpen(v => !v)}
             title={sidebarOpen ? 'Expand video' : 'Show sidebar'}
+            variant="outline"
             className={[
-              'hidden md:flex absolute right-0 top-1/2 -translate-y-1/2 z-30 w-7 h-14 items-center justify-center rounded-full bg-card border border-border text-muted-foreground hover:text-foreground hover:bg-accent hover:scale-110 active:scale-95 transition-all duration-300 shadow-lg',
+              'hidden md:flex absolute right-0 top-1/2 -translate-y-1/2 z-30 w-7 h-14 rounded-full bg-card text-muted-foreground hover:text-foreground hover:bg-accent hover:scale-110 active:scale-95 duration-300 shadow-lg',
               sidebarOpen ? 'translate-x-1/2' : '-translate-x-2',
             ].join(' ')}
           >
             <ChevronRight className={['w-4 h-4 transition-transform duration-300', sidebarOpen ? 'rotate-0' : 'rotate-180'].join(' ')} />
-          </button>
+          </Button>
         </div>
 
         {/* Sidebar — always visible below video on mobile, on right on desktop */}
@@ -548,29 +559,34 @@ export default function PlayPage() {
                       className="w-full bg-muted border border-border rounded-lg px-3 py-2 text-sm text-foreground placeholder:text-muted-foreground resize-none focus:outline-none focus:border-primary/50 focus:ring-1 focus:ring-primary/20"
                     />
                     <div className="flex gap-2">
-                      <button
+                      <Button
                         onClick={handleSaveNote}
                         disabled={!noteText.trim()}
-                        className="flex-1 h-7 rounded-lg bg-primary hover:bg-primary/90 disabled:opacity-40 disabled:cursor-not-allowed text-primary-foreground text-xs font-semibold transition-colors"
+                        size="sm"
+                        className="flex-1 bg-primary hover:bg-primary/90 text-primary-foreground text-xs font-semibold"
                       >
                         Save
-                      </button>
-                      <button
+                      </Button>
+                      <Button
                         onClick={handleCancelNote}
-                        className="h-7 px-3 rounded-lg bg-muted hover:bg-accent text-muted-foreground text-xs transition-colors"
+                        variant="ghost"
+                        size="sm"
+                        className="px-3 bg-muted hover:bg-accent text-muted-foreground text-xs"
                       >
                         Cancel
-                      </button>
+                      </Button>
                     </div>
                   </div>
                 ) : (
-                  <button
+                  <Button
                     onClick={handleStartAddNote}
-                    className="w-full flex items-center justify-center gap-2 h-8 rounded-lg border border-dashed border-border hover:border-foreground/30 text-muted-foreground hover:text-foreground text-xs transition-colors"
+                    variant="outline"
+                    size="default"
+                    className="w-full gap-2 border-dashed hover:border-foreground/30 text-muted-foreground hover:text-foreground text-xs"
                   >
                     <Plus className="w-3.5 h-3.5" />
                     Add note at {formatTime(currentMs)}
-                  </button>
+                  </Button>
                 )}
               </div>
 
@@ -591,20 +607,23 @@ export default function PlayPage() {
                     key={note.createdAt}
                     className="group flex gap-3 px-4 py-3 border-b border-border/60 hover:bg-accent/50 transition-colors"
                   >
-                    <button
+                    <Button
                       onClick={() => handleSeek(note.positionMs)}
-                      className="text-[10px] font-mono text-yellow-500 hover:text-yellow-400 shrink-0 mt-0.5 hover:underline transition-colors"
+                      variant="link"
+                      className="text-[10px] font-mono text-yellow-500 hover:text-yellow-400 shrink-0 mt-0.5 p-0 h-auto"
                     >
                       {formatTime(note.positionMs)}
-                    </button>
+                    </Button>
                     <p className="flex-1 text-xs text-foreground leading-relaxed whitespace-pre-wrap">{note.text}</p>
-                    <button
+                    <Button
                       onClick={() => removeNote(note.createdAt)}
-                      className="opacity-0 group-hover:opacity-100 shrink-0 w-5 h-5 flex items-center justify-center text-muted-foreground hover:text-destructive transition-all"
+                      variant="ghost"
+                      size="icon-xs"
+                      className="opacity-0 group-hover:opacity-100 w-5 h-5 text-muted-foreground hover:text-destructive"
                       title="Delete note"
                     >
                       <Trash2 className="w-3 h-3" />
-                    </button>
+                    </Button>
                   </div>
                 ))}
               </div>
@@ -640,15 +659,16 @@ export default function PlayPage() {
 
 function SidebarTab({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
   return (
-    <button
+    <Button
+      variant="ghost"
       onClick={onClick}
       className={[
-        'flex items-center gap-1.5 px-4 py-2.5 text-xs font-medium border-b-2 transition-colors',
+        'gap-1.5 px-4 py-2.5 rounded-none border-b-2',
         active ? 'border-primary text-foreground' : 'border-transparent text-muted-foreground hover:text-foreground',
       ].join(' ')}
     >
       {children}
-    </button>
+    </Button>
   );
 }
 
@@ -656,19 +676,16 @@ function SidebarTab({ active, onClick, children }: { active: boolean; onClick: (
 
 function QuizToggle({ active, onToggle }: { active: boolean; onToggle: () => void }) {
   return (
-    <button
+    <Button
+      variant={active ? 'default' : 'secondary'}
+      size="sm"
       onClick={onToggle}
       title={active ? 'Quiz mode on — click to disable' : 'Enable quiz mode'}
-      className={[
-        'flex items-center gap-1.5 h-7 px-3 rounded-lg text-xs font-semibold transition-colors',
-        active
-          ? 'bg-primary text-primary-foreground hover:bg-primary/90'
-          : 'bg-muted text-muted-foreground hover:bg-accent hover:text-foreground',
-      ].join(' ')}
+      className="gap-1.5 font-semibold"
     >
       <Brain className="w-3.5 h-3.5" />
       Quiz
-    </button>
+    </Button>
   );
 }
 

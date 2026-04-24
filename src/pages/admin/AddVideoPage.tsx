@@ -1,5 +1,7 @@
 import { useState } from 'react'
 import { Loader2, Video, CheckCircle2, Download, Save, AlertCircle, ChevronRight } from 'lucide-react'
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
 import {
   COMMON_LANGUAGES,
   type VideoInfo,
@@ -125,25 +127,26 @@ export default function AddVideoPage() {
             <h2 className="text-sm font-medium">Video URL</h2>
           </div>
           <div className="flex gap-2">
-            <input
+            <Input
               type="url"
               placeholder="https://www.youtube.com/watch?v=..."
               value={url}
               onChange={(e) => setUrl(e.target.value)}
               onKeyDown={(e) => e.key === 'Enter' && !isLoading && handleFetchInfo()}
               disabled={isLoading}
-              className="flex-1 h-9 rounded-lg border border-input bg-background px-3 text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-ring disabled:opacity-50"
+              className="flex-1 h-9 bg-background px-3"
             />
-            <button
+            <Button
               onClick={handleFetchInfo}
               disabled={!url.trim() || isLoading}
-              className="h-9 px-4 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 transition-colors"
+              size="lg"
+              className="px-4 gap-2"
             >
               {step === 'fetching-info'
                 ? <><Loader2 className="w-3.5 h-3.5 animate-spin" /> Fetching…</>
                 : 'Fetch Info'
               }
-            </button>
+            </Button>
           </div>
         </section>
 
@@ -180,35 +183,36 @@ export default function AddVideoPage() {
                 {COMMON_LANGUAGES.map((lang) => {
                   const isSelected = selectedLang.code === lang.code
                   return (
-                    <button
+                    <Button
                       key={lang.code}
                       onClick={() => setSelectedLang(lang)}
                       disabled={step === 'fetching-subs'}
+                      variant={isSelected ? 'default' : 'outline'}
+                      size="xs"
                       className={[
-                        'px-3 py-1.5 rounded-lg text-xs font-medium border transition-colors disabled:opacity-50',
-                        isSelected
-                          ? 'bg-primary text-primary-foreground border-primary'
-                          : 'bg-background border-border hover:border-foreground/30',
+                        'px-3 py-1.5',
+                        isSelected ? 'border-primary' : 'hover:border-foreground/30',
                       ].join(' ')}
                     >
                       {lang.name}
-                    </button>
+                    </Button>
                   )
                 })}
               </div>
             </div>
 
             {step !== 'done' && (
-              <button
+              <Button
                 onClick={handleLoadSubtitles}
                 disabled={step === 'fetching-subs'}
-                className="h-9 px-4 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 transition-colors"
+                size="lg"
+                className="px-4 gap-2"
               >
                 {step === 'fetching-subs'
                   ? <><Loader2 className="w-3.5 h-3.5 animate-spin" /> Loading subtitles…</>
                   : 'Load Subtitles'
                 }
-              </button>
+              </Button>
             )}
           </section>
         )}
@@ -235,19 +239,20 @@ export default function AddVideoPage() {
                     <CheckCircle2 className="w-3.5 h-3.5" /> Saved
                   </span>
                 )}
-                <button
+                <Button
                   onClick={handleDownload}
-                  className="h-8 px-3 rounded-lg border border-border text-xs font-medium hover:bg-accent flex items-center gap-1.5 transition-colors"
+                  variant="outline"
+                  className="px-3 gap-1.5 text-xs"
                 >
                   <Download className="w-3.5 h-3.5" /> Download JSON
-                </button>
-                <button
+                </Button>
+                <Button
                   onClick={handleSave}
                   disabled={saved}
-                  className="h-8 px-3 rounded-lg bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 disabled:opacity-60 flex items-center gap-1.5 transition-colors"
+                  className="px-3 gap-1.5 text-xs disabled:opacity-60"
                 >
                   <Save className="w-3.5 h-3.5" /> {saved ? 'Saved' : 'Save to Library'}
-                </button>
+                </Button>
               </div>
             </div>
 
@@ -284,12 +289,13 @@ export default function AddVideoPage() {
             </div>
 
             <div className="pt-2 border-t border-border">
-              <button
+              <Button
                 onClick={handleReset}
-                className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+                variant="link"
+                className="text-muted-foreground hover:text-foreground no-underline hover:no-underline"
               >
                 + Add another video
-              </button>
+              </Button>
             </div>
           </section>
         )}

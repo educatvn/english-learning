@@ -5,6 +5,8 @@ import { useAuth } from '@/context/AuthContext'
 import { searchContent } from '@/services/googleSheets'
 import type { SearchResult } from '@/services/googleSheets'
 import { UserButton } from '@/components/UserButton'
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
 
 // ─── Highlight ────────────────────────────────────────────────────────────────
 
@@ -86,11 +88,12 @@ export function AppHeader({ right, breadcrumb, hideAddVideo = false, onMenuClick
         <>
           <div className="flex border-b border-border">
             {(['videos', 'playlists'] as const).map((tab) => (
-              <button
+              <Button
                 key={tab}
+                variant="ghost"
                 onClick={() => setSearchTab(tab)}
                 className={[
-                  'flex items-center gap-1.5 px-4 py-2.5 text-xs font-medium border-b-2 transition-colors -mb-px',
+                  'flex items-center gap-1.5 px-4 py-2.5 text-xs font-medium border-b-2 rounded-none transition-colors -mb-px',
                   searchTab === tab
                     ? 'border-primary text-foreground'
                     : 'border-transparent text-muted-foreground hover:text-foreground',
@@ -104,7 +107,7 @@ export function AppHeader({ right, breadcrumb, hideAddVideo = false, onMenuClick
                 {tab === 'playlists' && searchResults.playlists.length > 0 && (
                   <span className="ml-0.5 text-[10px] bg-muted px-1.5 py-0.5 rounded-full">{searchResults.playlists.length}</span>
                 )}
-              </button>
+              </Button>
             ))}
           </div>
           <div className="max-h-72 overflow-y-auto">
@@ -136,10 +139,11 @@ export function AppHeader({ right, breadcrumb, hideAddVideo = false, onMenuClick
               searchResults.playlists.length === 0 ? (
                 <div className="px-4 py-8 text-center text-sm text-muted-foreground">No playlists found</div>
               ) : searchResults.playlists.map((pl) => (
-                <button
+                <Button
                   key={pl.id}
+                  variant="ghost"
                   onClick={() => { navigate(`/playlist/${pl.id}`); clearSearch() }}
-                  className="w-full flex items-center gap-3 px-4 py-2.5 hover:bg-accent transition-colors text-left"
+                  className="w-full h-auto flex items-center gap-3 px-4 py-2.5 rounded-none justify-start text-left"
                 >
                   <div className="w-14 aspect-video rounded bg-muted flex items-center justify-center shrink-0">
                     <ListMusic className="w-4 h-4 text-muted-foreground/50" />
@@ -152,7 +156,7 @@ export function AppHeader({ right, breadcrumb, hideAddVideo = false, onMenuClick
                       {pl.videoIds.length} video{pl.videoIds.length !== 1 ? 's' : ''}
                     </p>
                   </div>
-                </button>
+                </Button>
               ))
             )}
           </div>
@@ -175,13 +179,15 @@ export function AppHeader({ right, breadcrumb, hideAddVideo = false, onMenuClick
         {/* ── Logo + hamburger (order 1 on both) ── */}
         <div className="flex items-center gap-2 shrink-0 order-1">
           {onMenuClick && (
-            <button
+            <Button
+              variant="ghost"
+              size="icon"
               onClick={onMenuClick}
-              className="md:hidden w-8 h-8 flex items-center justify-center rounded-lg text-muted-foreground hover:text-foreground hover:bg-accent transition-colors"
+              className="md:hidden text-muted-foreground"
               aria-label="Open menu"
             >
               <Menu className="w-4 h-4" />
-            </button>
+            </Button>
           )}
           <Link to="/" className="flex items-center gap-2 shrink-0 hover:opacity-90 transition-opacity">
             <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="E" className="w-6 h-6 rounded" />
@@ -212,20 +218,22 @@ export function AppHeader({ right, breadcrumb, hideAddVideo = false, onMenuClick
         {/* ── Search (order 3 on mobile → wraps to row 2; order 2 on desktop → middle) ── */}
         <div ref={searchRef} className="w-full order-3 md:order-2 md:flex-1 md:w-auto relative">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-muted-foreground pointer-events-none z-10" />
-          <input
+          <Input
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             onFocus={() => { if (searchQuery.trim()) setSearchOpen(true) }}
             placeholder="Search videos or playlists…"
-            className="w-full h-9 rounded-lg border border-input bg-background pl-9 pr-9 text-sm focus:outline-none focus:ring-1 focus:ring-ring placeholder:text-muted-foreground"
+            className="h-9 pl-9 pr-9"
           />
           {searchQuery && (
-            <button
+            <Button
+              variant="ghost"
+              size="icon-xs"
               onClick={clearSearch}
-              className="absolute right-2.5 top-1/2 -translate-y-1/2 w-5 h-5 flex items-center justify-center rounded text-muted-foreground hover:text-foreground transition-colors z-10"
+              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-muted-foreground z-10"
             >
               <X className="w-3.5 h-3.5" />
-            </button>
+            </Button>
           )}
           {searchDropdown}
         </div>

@@ -1,6 +1,9 @@
 import { useEffect, useRef, useState } from 'react'
-import { BookPlus, Check, Loader2, X, Volume2, Square } from 'lucide-react'
+import { BookPlus, Check, Loader2, Volume2, Square } from 'lucide-react'
 import { fetchDictionaryEntry, type DictionaryEntry } from '@/services/vocabulary'
+import { Dialog, DialogContent } from '@/components/ui/dialog'
+import { Button } from '@/components/ui/button'
+import { Separator } from '@/components/ui/separator'
 
 interface Props {
   word: string
@@ -58,13 +61,6 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
   const primaryDefinition =
     entry?.meanings?.[0]?.definitions?.[0]?.definition ?? ''
 
-  // Close on backdrop click or Escape
-  useEffect(() => {
-    function onKey(e: KeyboardEvent) { if (e.key === 'Escape') onClose() }
-    document.addEventListener('keydown', onKey)
-    return () => document.removeEventListener('keydown', onKey)
-  }, [onClose])
-
   async function handleAdd() {
     setAdding(true)
     setError(null)
@@ -85,22 +81,21 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
   const meaningSections = entry?.meanings ?? []
 
   return (
-    <div
-      className="fixed inset-0 z-200 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm"
-      onClick={onClose}
-    >
-      <div
-        className="bg-white dark:bg-card border border-border rounded-2xl shadow-2xl w-full max-w-md max-h-[90vh] overflow-y-auto p-5 flex flex-col gap-4 font-serif"
-        onClick={(e) => e.stopPropagation()}
+    <Dialog open={true} onOpenChange={(open) => { if (!open) onClose() }}>
+      <DialogContent
+        showCloseButton={false}
+        className="max-w-md max-h-[90vh] overflow-y-auto p-5 flex flex-col gap-4 font-serif rounded-2xl sm:max-w-md"
       >
         {/* Close button — positioned absolute in the corner */}
         <div className="flex items-start justify-end -mb-6">
-          <button
+          <Button
+            variant="ghost"
+            size="icon-sm"
             onClick={onClose}
-            className="w-7 h-7 rounded-lg flex items-center justify-center text-slate-400 hover:text-slate-700 dark:hover:text-foreground hover:bg-slate-100 dark:hover:bg-accent transition-colors shrink-0"
+            className="text-slate-400 hover:text-slate-700 dark:hover:text-foreground shrink-0"
           >
-            <X className="w-4 h-4" />
-          </button>
+            <span className="sr-only">Close</span>
+          </Button>
         </div>
 
         {entry === undefined ? (
@@ -131,13 +126,15 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
               {(entry.phonetic || entry.audioUrl) && (
                 <div className="flex items-center gap-2 mt-2 font-sans">
                   {entry.audioUrl && (
-                    <button
+                    <Button
+                      variant="ghost"
+                      size="icon-xs"
                       onClick={playAudio}
                       title="Play pronunciation"
-                      className="w-5 h-5 rounded-full flex items-center justify-center text-blue-700 dark:text-blue-400 hover:bg-blue-50 dark:hover:bg-blue-950/40 transition-colors shrink-0"
+                      className="rounded-full text-blue-700 dark:text-blue-400 hover:bg-blue-50 dark:hover:bg-blue-950/40 shrink-0"
                     >
                       <Volume2 className="w-4 h-4 fill-current" />
-                    </button>
+                    </Button>
                   )}
                   {entry.phonetic && (
                     <span className="text-sm text-slate-700 dark:text-slate-300 font-mono">{entry.phonetic}</span>
@@ -152,13 +149,16 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
                 <section key={mi} className="flex flex-col gap-2">
                   {/* Repeat headword + POS for subsequent meaning groups */}
                   {mi > 0 && (
-                    <div className="flex items-baseline gap-2 flex-wrap pt-2 border-t border-slate-200 dark:border-border">
-                      <h3 className="text-xl font-bold text-[#0a1a44] dark:text-white">
-                        {word}
-                      </h3>
-                      <span className="text-base italic text-slate-600 dark:text-slate-300">
-                        {m.partOfSpeech}
-                      </span>
+                    <div className="flex flex-col gap-2 pt-2">
+                      <Separator />
+                      <div className="flex items-baseline gap-2 flex-wrap">
+                        <h3 className="text-xl font-bold text-[#0a1a44] dark:text-white">
+                          {word}
+                        </h3>
+                        <span className="text-base italic text-slate-600 dark:text-slate-300">
+                          {m.partOfSpeech}
+                        </span>
+                      </div>
                     </div>
                   )}
 
@@ -212,8 +212,9 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
 
             {/* Origin */}
             {entry.origin && (
-              <div className="pt-3 border-t border-slate-200 dark:border-border">
-                <p className="text-[10px] font-semibold uppercase tracking-wider text-slate-500 dark:text-muted-foreground mb-1 font-sans">Origin</p>
+              <div className="flex flex-col gap-1 pt-3">
+                <Separator />
+                <p className="text-[10px] font-semibold uppercase tracking-wider text-slate-500 dark:text-muted-foreground mt-1 font-sans">Origin</p>
                 <p className="text-[13px] text-slate-700 dark:text-slate-300 leading-relaxed">{entry.origin}</p>
               </div>
             )}
@@ -234,14 +235,14 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
         )}
 
         {/* CTA */}
-        <button
+        <Button
           onClick={handleAdd}
           disabled={adding || added}
           className={[
-            'w-full h-11 rounded-xl flex items-center justify-center gap-2 text-sm font-semibold transition-colors font-sans',
+            'w-full h-11 rounded-xl gap-2 text-sm font-semibold font-sans',
             added
-              ? 'bg-green-500/15 text-green-600 cursor-default'
-              : 'bg-[#0a1a44] text-white hover:bg-[#0a1a44]/90 disabled:opacity-60 dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90',
+              ? 'bg-green-500/15 text-green-600 cursor-default hover:bg-green-500/15'
+              : 'bg-[#0a1a44] text-white hover:bg-[#0a1a44]/90 dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90',
           ].join(' ')}
         >
           {added ? (
@@ -251,8 +252,8 @@ export function VocabDialog({ word, sourceText, isSaved, onAdd, onClose }: Props
           ) : (
             <><BookPlus className="w-4 h-4" /> Add to My Vocabulary</>
           )}
-        </button>
-      </div>
-    </div>
+        </Button>
+      </DialogContent>
+    </Dialog>
   )
 }

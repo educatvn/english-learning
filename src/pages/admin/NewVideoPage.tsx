@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Loader2, Video, CheckCircle2, AlertCircle, ChevronRight, Play, Plus, Check, ListVideo, RefreshCw } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { Input } from '@/components/ui/input';
 import { extractVideoId } from '@/services/youtubeSubtitles';
 import { loadPlaylists, savePlaylist } from '@/services/playlists';
 import { saveVideo, loadVideos } from '@/services/videos';
@@ -31,7 +33,9 @@ export default function NewVideoPage() {
   const inputRef = useRef<HTMLInputElement>(null);
 
   // Auto-focus input on mount
-  useEffect(() => { inputRef.current?.focus(); }, []);
+  useEffect(() => {
+    inputRef.current?.focus();
+  }, []);
 
   // Playlist state — loaded when preview opens
   const [playlists, setPlaylists] = useState<Playlist[]>([]);
@@ -57,7 +61,9 @@ export default function NewVideoPage() {
 
     try {
       const [res, existingVideos, pls] = await Promise.all([
-        fetch(`${import.meta.env.DEV ? '/youtube-proxy' : 'https://www.youtube.com'}/oembed?url=${encodeURIComponent(`https://www.youtube.com/watch?v=${videoId}`)}&format=json`),
+        fetch(
+          `${import.meta.env.DEV ? '/youtube-proxy' : 'https://www.youtube.com'}/oembed?url=${encodeURIComponent(`https://www.youtube.com/watch?v=${videoId}`)}&format=json`,
+        ),
         loadVideos(),
         loadPlaylists(''),
       ]);
@@ -77,9 +83,7 @@ export default function NewVideoPage() {
         addedAt: new Date().toISOString(),
       });
       // Sort newest-first by createdAt, keep only the 5 most recent, auto-select the newest
-      const sorted = [...pls]
-        .sort((a, b) => b.createdAt.localeCompare(a.createdAt))
-        .slice(0, 5);
+      const sorted = [...pls].sort((a, b) => b.createdAt.localeCompare(a.createdAt)).slice(0, 5);
       setPlaylists(sorted);
       setSelectedPlaylistIds(sorted.length > 0 ? new Set([sorted[0].id]) : new Set());
       setCreatingPlaylist(false);
@@ -128,7 +132,8 @@ export default function NewVideoPage() {
     try {
       // 1. Fetch + validate captions first (required)
       const captions = await fetchCaptionData(meta.videoId);
-      if (!captions) throw new Error(`Không tìm thấy caption cho video này. Vui lòng thêm file public/captions/${meta.videoId}.json trước.`);
+      if (!captions)
+        throw new Error(`Không tìm thấy caption cho video này. Vui lòng thêm file public/captions/${meta.videoId}.json trước.`);
       const { cues } = parseJSON3(captions);
       if (cues.length === 0) throw new Error('File captions.json rỗng hoặc không hợp lệ.');
 
@@ -190,7 +195,7 @@ export default function NewVideoPage() {
             <h2 className="text-sm font-medium">Video ID hoặc URL</h2>
           </div>
           <div className="flex gap-2">
-            <input
+            <Input
               ref={inputRef}
               type="text"
               placeholder="S7mfygW40Cs  hoặc  https://www.youtube.com/watch?v=..."
@@ -198,24 +203,17 @@ export default function NewVideoPage() {
               onChange={e => setInput(e.target.value)}
               onKeyDown={e => e.key === 'Enter' && step === 'idle' && handleFetchInfo()}
               disabled={step !== 'idle'}
-              className="flex-1 h-9 rounded-lg border border-input bg-background px-3 text-sm font-mono placeholder:text-muted-foreground placeholder:font-sans focus:outline-none focus:ring-2 focus:ring-ring disabled:opacity-50"
+              className="flex-1 h-9 bg-background px-3 font-mono placeholder:font-sans"
             />
             {step === 'idle' && (
-              <button
-                onClick={handleFetchInfo}
-                disabled={!input.trim()}
-                className="h-9 px-4 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 transition-colors"
-              >
+              <Button onClick={handleFetchInfo} disabled={!input.trim()}>
                 Tìm kiếm
-              </button>
+              </Button>
             )}
             {step === 'fetching-info' && (
-              <button
-                disabled
-                className="h-9 px-4 rounded-lg bg-primary text-primary-foreground text-sm font-medium opacity-60 flex items-center gap-2"
-              >
+              <Button disabled className="gap-2">
                 <Loader2 className="w-3.5 h-3.5 animate-spin" /> Đang tải…
-              </button>
+              </Button>
             )}
           </div>
         </section>
@@ -250,19 +248,21 @@ export default function NewVideoPage() {
                   <ListVideo className="w-3.5 h-3.5" /> Thêm vào playlist
                   <span className="normal-case font-normal text-muted-foreground">(tùy chọn)</span>
                 </label>
-                <button
+                <Button
+                  variant="ghost"
+                  size="xs"
                   onClick={() => setCreatingPlaylist(true)}
                   disabled={isSaving || creatingPlaylist}
-                  className="text-xs text-muted-foreground hover:text-foreground flex items-center gap-1 transition-colors disabled:opacity-40"
+                  className="gap-1 text-muted-foreground hover:text-foreground"
                 >
                   <Plus className="w-3.5 h-3.5" /> New playlist
-                </button>
+                </Button>
               </div>
 
               {/* Inline new playlist form */}
               {creatingPlaylist && (
                 <div className="flex gap-2">
-                  <input
+                  <Input
                     autoFocus
                     value={newPlaylistName}
                     onChange={e => setNewPlaylistName(e.target.value)}
@@ -274,44 +274,42 @@ export default function NewVideoPage() {
                       }
                     }}
                     placeholder="Tên playlist…"
-                    className="flex-1 h-8 rounded-md border border-input bg-background px-3 text-sm focus:outline-none focus:ring-2 focus:ring-ring"
+                    className="flex-1 h-8"
                   />
-                  <button
-                    onClick={handleCreatePlaylist}
-                    disabled={!newPlaylistName.trim()}
-                    className="h-8 px-3 rounded-md bg-primary text-primary-foreground text-xs font-medium hover:bg-primary/90 disabled:opacity-50 transition-colors"
-                  >
+                  <Button size="sm" onClick={handleCreatePlaylist} disabled={!newPlaylistName.trim()}>
                     Tạo
-                  </button>
-                  <button
+                  </Button>
+                  <Button
+                    variant="outline"
+                    size="sm"
                     onClick={() => {
                       setCreatingPlaylist(false);
                       setNewPlaylistName('');
                     }}
-                    className="h-8 px-2 rounded-md border border-border text-xs hover:bg-accent transition-colors"
                   >
                     Hủy
-                  </button>
+                  </Button>
                 </div>
               )}
 
               {playlists.length === 0 && !creatingPlaylist ? (
                 <p className="text-sm text-muted-foreground">
                   Chưa có playlist nào.{' '}
-                  <button onClick={() => setCreatingPlaylist(true)} className="underline hover:text-foreground transition-colors">
+                  <Button variant="link" size="xs" onClick={() => setCreatingPlaylist(true)} className="p-0 h-auto">
                     Tạo playlist mới
-                  </button>
+                  </Button>
                 </p>
               ) : playlists.length > 0 ? (
                 <div className="rounded-lg border border-border overflow-hidden">
                   {playlists.map(playlist => {
                     const checked = selectedPlaylistIds.has(playlist.id);
                     return (
-                      <button
+                      <Button
                         key={playlist.id}
+                        variant="ghost"
                         onClick={() => togglePlaylist(playlist.id)}
                         disabled={isSaving}
-                        className="w-full flex items-center gap-3 px-4 py-2.5 hover:bg-accent border-b border-border/60 last:border-b-0 transition-colors text-left disabled:opacity-50"
+                        className="w-full justify-start gap-3 px-4 py-2.5 h-auto rounded-none border-b border-border/60 last:border-b-0"
                       >
                         <div
                           className={[
@@ -325,7 +323,7 @@ export default function NewVideoPage() {
                         <span className="text-xs text-muted-foreground">
                           {playlist.videoIds.length} video{playlist.videoIds.length !== 1 ? 's' : ''}
                         </span>
-                      </button>
+                      </Button>
                     );
                   })}
                 </div>
@@ -336,11 +334,7 @@ export default function NewVideoPage() {
 
             {/* Actions */}
             <div className="flex items-center gap-3">
-              <button
-                onClick={handleSave}
-                disabled={isSaving}
-                className="h-9 px-5 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 transition-colors"
-              >
+              <Button onClick={handleSave} disabled={isSaving} className="gap-2">
                 {isSaving ? (
                   <>
                     <Loader2 className="w-3.5 h-3.5 animate-spin" /> Đang lưu…
@@ -348,14 +342,10 @@ export default function NewVideoPage() {
                 ) : (
                   'Lưu vào thư viện'
                 )}
-              </button>
-              <button
-                onClick={handleReset}
-                disabled={isSaving}
-                className="h-9 px-4 rounded-lg border border-border text-sm hover:bg-accent transition-colors disabled:opacity-50"
-              >
+              </Button>
+              <Button variant="outline" onClick={handleReset} disabled={isSaving}>
                 Hủy
-              </button>
+              </Button>
             </div>
           </section>
         )}
@@ -385,9 +375,9 @@ export default function NewVideoPage() {
               >
                 Về trang chủ
               </Link>
-              <button onClick={handleReset} className="h-9 px-4 text-sm text-muted-foreground hover:text-foreground transition-colors">
+              <Button variant="ghost" onClick={handleReset} className="text-muted-foreground hover:text-foreground">
                 + Thêm video khác
-              </button>
+              </Button>
             </div>
           </section>
         )}
@@ -419,7 +409,9 @@ function ReindexSection() {
 
   // Run once on mount — loadUnindexed is stable (defined in component scope)
   // eslint-disable-next-line react-hooks/set-state-in-effect
-  useEffect(() => { void loadUnindexed(); }, []);
+  useEffect(() => {
+    void loadUnindexed();
+  }, []);
 
   async function indexOne(video: VideoMeta): Promise<boolean> {
     try {
@@ -464,13 +456,9 @@ function ReindexSection() {
           </h2>
           <p className="text-xs text-muted-foreground mt-0.5">Videos chưa được index sẽ không xuất hiện trong "In other videos".</p>
         </div>
-        <button
-          onClick={loadUnindexed}
-          disabled={loading || indexingAll}
-          className="h-7 px-3 rounded-lg border border-border text-xs text-muted-foreground hover:text-foreground hover:bg-accent disabled:opacity-40 transition-colors shrink-0"
-        >
+        <Button variant="outline" size="xs" onClick={loadUnindexed} disabled={loading || indexingAll} className="text-muted-foreground hover:text-foreground shrink-0">
           Refresh
-        </button>
+        </Button>
       </div>
 
       {loading ? (
@@ -499,12 +487,9 @@ function ReindexSection() {
               </div>
             </div>
           ) : (
-            <button
-              onClick={handleIndexAll}
-              className="h-8 px-4 rounded-lg bg-primary text-primary-foreground text-xs font-semibold hover:bg-primary/90 transition-colors"
-            >
+            <Button size="sm" onClick={handleIndexAll} className="font-semibold">
               Index tất cả ({unindexed.length} video)
-            </button>
+            </Button>
           )}
 
           {/* Per-video list */}
@@ -513,13 +498,9 @@ function ReindexSection() {
               <div key={video.videoId} className="flex items-center gap-3 px-3 py-2.5 border-b border-border/60 last:border-b-0">
                 <img src={video.thumbnailUrl} alt="" className="w-14 aspect-video rounded object-cover shrink-0" />
                 <p className="flex-1 text-xs text-foreground line-clamp-2 min-w-0">{video.title}</p>
-                <button
-                  onClick={() => handleIndexOne(video)}
-                  disabled={indexingId === video.videoId || indexingAll}
-                  className="h-7 px-3 rounded-lg border border-border text-xs text-muted-foreground hover:text-foreground hover:bg-accent disabled:opacity-40 transition-colors shrink-0"
-                >
+                <Button variant="outline" size="xs" onClick={() => handleIndexOne(video)} disabled={indexingId === video.videoId || indexingAll} className="text-muted-foreground hover:text-foreground shrink-0">
                   {indexingId === video.videoId ? <Loader2 className="w-3 h-3 animate-spin" /> : 'Index'}
-                </button>
+                </Button>
               </div>
             ))}
           </div>
