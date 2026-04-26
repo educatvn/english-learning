@@ -102,7 +102,7 @@ export function SpeakingPanel({
     );
   }
 
-  const { cue, cueIdx, phase, result, recordingBlob, wordMode, targetWord, wordResult } = state;
+  const { cue, cueIdx, phase, result, recordingBlob, wordMode, targetWord, wordResult, error } = state;
 
   // ── Word practice mode ──
   if (wordMode && targetWord) {
@@ -127,6 +127,12 @@ export function SpeakingPanel({
         <div className="flex-1 overflow-y-auto px-4 py-3">
           {phase === 'ready' && (
             <div className="flex flex-col items-center gap-4 pt-6">
+              {error && (
+                <div className="flex items-start gap-2 rounded-lg bg-red-500/10 border border-red-500/20 px-3 py-2 text-xs text-red-500 max-w-75">
+                  <AlertCircle className="w-3.5 h-3.5 shrink-0 mt-0.5" />
+                  <span>{error}</span>
+                </div>
+              )}
               <Button
                 onClick={onStartRecording}
                 className="group relative w-16 h-16 rounded-full bg-red-500 hover:bg-red-600 active:scale-95 text-white shadow-lg shadow-red-500/30"
@@ -162,66 +168,72 @@ export function SpeakingPanel({
   return (
     <div className="flex flex-col flex-1 overflow-hidden">
       <div className="px-4 pt-4 pb-3 shrink-0">
-        {/* Cue text card — words are clickable with dictionary tooltips */}
-        <div className="rounded-xl bg-muted/50 border border-border/50 px-4 py-3 mb-3">
-          <TooltipProvider delayDuration={300}>
-            <p className="text-sm font-semibold text-foreground leading-relaxed">
-              {cue.text.split(/\s+/).map((word, i) => {
-                const clean = word.replace(/[.,!?;:"']/g, '');
-                if (!clean) return <span key={i}>{i > 0 && ' '}{word}</span>;
-                return (
-                  <span key={i}>
-                    {i > 0 && ' '}
-                    <CueWord word={word} clean={clean} onClick={() => onWordClick(clean)} />
-                  </span>
-                );
-              })}
-            </p>
-          </TooltipProvider>
-          <p className="text-[10px] text-muted-foreground mt-1.5">Click any word to practice individually</p>
-        </div>
-
-        {/* Controls row */}
-        <div className="flex items-center justify-between">
+        {/* Cue text card — icon play button left, text right */}
+        <div className="flex items-start gap-3 rounded-xl bg-muted/50 border border-border/50 px-4 py-3 mb-3">
           <Button
             variant="ghost"
-            size="sm"
+            size="icon"
             onClick={() => onPlayCue(cueIdx)}
+            className="w-9 h-9 shrink-0 rounded-full bg-primary/10 hover:bg-primary/20 text-primary mt-0.5"
+          >
+            <Volume2 className="w-4 h-4" />
+          </Button>
+          <div className="min-w-0 flex-1">
+            <TooltipProvider delayDuration={300}>
+              <p className="text-sm font-semibold text-foreground leading-relaxed">
+                {cue.text.split(/\s+/).map((word, i) => {
+                  const clean = word.replace(/[.,!?;:"']/g, '');
+                  if (!clean) return <span key={i}>{i > 0 && ' '}{word}</span>;
+                  return (
+                    <span key={i}>
+                      {i > 0 && ' '}
+                      <CueWord word={word} clean={clean} onClick={() => onWordClick(clean)} />
+                    </span>
+                  );
+                })}
+              </p>
+            </TooltipProvider>
+            <p className="text-[10px] text-muted-foreground mt-1.5">Click any word to practice individually</p>
+          </div>
+        </div>
+
+        {/* Navigation — centered, prominent */}
+        <div className="flex items-center justify-center gap-2">
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={() => onGoToCue(cueIdx - 1)}
+            disabled={cueIdx <= 0}
             className="text-muted-foreground hover:text-foreground"
           >
-            <Volume2 className="w-3.5 h-3.5" />
-            Listen
+            <ChevronLeft className="w-4 h-4" />
+            Prev
           </Button>
-
-          <div className="flex items-center gap-1">
-            <Button
-              variant="ghost"
-              size="icon-sm"
-              onClick={() => onGoToCue(cueIdx - 1)}
-              disabled={cueIdx <= 0}
-              className="text-muted-foreground hover:text-foreground"
-            >
-              <ChevronLeft className="w-4 h-4" />
-            </Button>
-            <span className="text-[10px] text-muted-foreground tabular-nums min-w-[3rem] text-center">
-              {cueIdx + 1} / {totalCues}
-            </span>
-            <Button
-              variant="ghost"
-              size="icon-sm"
-              onClick={() => onGoToCue(cueIdx + 1)}
-              disabled={cueIdx >= totalCues - 1}
-              className="text-muted-foreground hover:text-foreground"
-            >
-              <ChevronRight className="w-4 h-4" />
-            </Button>
-          </div>
+          <span className="text-xs text-muted-foreground tabular-nums min-w-[4rem] text-center font-medium">
+            {cueIdx + 1} / {totalCues}
+          </span>
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={() => onGoToCue(cueIdx + 1)}
+            disabled={cueIdx >= totalCues - 1}
+            className="text-muted-foreground hover:text-foreground"
+          >
+            Next
+            <ChevronRight className="w-4 h-4" />
+          </Button>
         </div>
       </div>
 
       <div className="flex-1 overflow-y-auto px-4 py-3">
         {phase === 'ready' && (
           <div className="flex flex-col items-center gap-4 pt-6">
+            {error && (
+              <div className="flex items-start gap-2 rounded-lg bg-red-500/10 border border-red-500/20 px-3 py-2 text-xs text-red-500 max-w-75">
+                <AlertCircle className="w-3.5 h-3.5 shrink-0 mt-0.5" />
+                <span>{error}</span>
+              </div>
+            )}
             <Button
               onClick={onStartRecording}
               className="group relative w-16 h-16 rounded-full bg-red-500 hover:bg-red-600 active:scale-95 text-white shadow-lg shadow-red-500/30"
@@ -274,18 +286,26 @@ function RecordingView({ stream, onStop }: { stream: MediaStream | null; onStop:
     const canvasCtx = canvas.getContext('2d');
     if (!canvasCtx) return;
 
-    const audioCtx = new AudioContext();
-    const source = audioCtx.createMediaStreamSource(stream);
-    const analyser = audioCtx.createAnalyser();
-    analyser.fftSize = 256;
-    source.connect(analyser);
+    let audioCtx: AudioContext | null = null;
+    let analyser: AnalyserNode | null = null;
+    let dataArray: Uint8Array<ArrayBuffer> | null = null;
 
-    const bufferLength = analyser.frequencyBinCount;
-    const dataArray = new Uint8Array(bufferLength);
+    try {
+      // Match the stream's sample rate to avoid audio device errors on macOS
+      const trackSettings = stream.getAudioTracks()[0]?.getSettings();
+      const sampleRate = trackSettings?.sampleRate;
+      audioCtx = new AudioContext(sampleRate ? { sampleRate } : undefined);
+      const source = audioCtx.createMediaStreamSource(stream);
+      analyser = audioCtx.createAnalyser();
+      analyser.fftSize = 256;
+      source.connect(analyser);
+      dataArray = new Uint8Array(analyser.frequencyBinCount);
+    } catch (err) {
+      console.warn('AudioContext visualization failed, recording continues:', err);
+    }
 
     function draw() {
       animRef.current = requestAnimationFrame(draw);
-      analyser.getByteFrequencyData(dataArray);
 
       const w = canvas!.width;
       const h = canvas!.height;
@@ -294,26 +314,44 @@ function RecordingView({ stream, onStop }: { stream: MediaStream | null; onStop:
       const barCount = 40;
       const gap = 3;
       const barWidth = (w - gap * (barCount - 1)) / barCount;
-      const step = Math.floor(bufferLength / barCount);
 
-      for (let i = 0; i < barCount; i++) {
-        const value = dataArray[i * step];
-        const norm = value / 255;
-        const barHeight = Math.max(4, norm * h * 0.85);
-        const x = i * (barWidth + gap);
-        const y = (h - barHeight) / 2;
+      if (analyser && dataArray) {
+        analyser.getByteFrequencyData(dataArray);
+        const step = Math.floor(dataArray.length / barCount);
 
-        canvasCtx!.fillStyle = `rgba(248, 113, 113, ${0.35 + norm * 0.65})`;
-        canvasCtx!.beginPath();
-        canvasCtx!.roundRect(x, y, barWidth, barHeight, barWidth / 2);
-        canvasCtx!.fill();
+        for (let i = 0; i < barCount; i++) {
+          const value = dataArray[i * step];
+          const norm = value / 255;
+          const barHeight = Math.max(4, norm * h * 0.85);
+          const x = i * (barWidth + gap);
+          const y = (h - barHeight) / 2;
+
+          canvasCtx!.fillStyle = `rgba(248, 113, 113, ${0.35 + norm * 0.65})`;
+          canvasCtx!.beginPath();
+          canvasCtx!.roundRect(x, y, barWidth, barHeight, barWidth / 2);
+          canvasCtx!.fill();
+        }
+      } else {
+        // Fallback: show a simple pulsing animation when AudioContext is unavailable
+        const t = Date.now() / 300;
+        for (let i = 0; i < barCount; i++) {
+          const norm = 0.3 + 0.2 * Math.sin(t + i * 0.3);
+          const barHeight = Math.max(4, norm * h * 0.5);
+          const x = i * (barWidth + gap);
+          const y = (h - barHeight) / 2;
+
+          canvasCtx!.fillStyle = `rgba(248, 113, 113, ${0.3 + norm * 0.4})`;
+          canvasCtx!.beginPath();
+          canvasCtx!.roundRect(x, y, barWidth, barHeight, barWidth / 2);
+          canvasCtx!.fill();
+        }
       }
     }
     draw();
 
     return () => {
       cancelAnimationFrame(animRef.current);
-      audioCtx.close();
+      audioCtx?.close().catch(() => {});
     };
   }, [stream]);
 
@@ -413,7 +451,7 @@ function WordResultView({
           </span>
           <div className="flex flex-col min-w-0">
             <span className="text-xs text-foreground font-medium">Listen to expected pronunciation</span>
-            {entry.phonetic && <span className="text-[10px] text-muted-foreground font-mono">{entry.phonetic}</span>}
+            {entry.phonetic && <span className="text-[10px] text-muted-foreground font-ipa">{entry.phonetic}</span>}
           </div>
         </Button>
       )}
@@ -423,13 +461,13 @@ function WordResultView({
         {result.expected_phonemes && (
           <div className="flex justify-between text-xs">
             <span className="text-muted-foreground">Expected</span>
-            <span className="font-mono">/{result.expected_phonemes}/</span>
+            <span className="font-ipa">/{result.expected_phonemes}/</span>
           </div>
         )}
         {result.recognized_phonemes && (
           <div className="flex justify-between text-xs">
             <span className="text-muted-foreground">Heard</span>
-            <span className="font-mono">/{result.recognized_phonemes}/</span>
+            <span className="font-ipa">/{result.recognized_phonemes}/</span>
           </div>
         )}
         {result.heard_as && (
@@ -502,7 +540,7 @@ function ResultView({
   onRetry: () => void;
   onWordClick: (word: string) => void;
 }) {
-  const { overall, accuracy, pronunciation, fluency, word_details } = result.score;
+  const { overall, accuracy, pronunciation, fluency, prosody, word_details } = result.score;
 
   const mispronounced = word_details.filter(w => w.status === 'mispronounced');
   const missed = word_details.filter(w => w.status === 'missed');
@@ -510,8 +548,8 @@ function ResultView({
 
   return (
     <div className="flex flex-col gap-4">
-      {/* Score card */}
-      <div className="rounded-xl border border-border bg-card p-4">
+      {/* Score card + Try again */}
+      <div className="rounded-xl border border-border bg-card p-4 space-y-4">
         <div className="flex items-center gap-5">
           <ScoreRing value={overall} size={72} />
           <div className="flex-1 space-y-2">
@@ -520,10 +558,27 @@ function ResultView({
             <ScoreBar label="Fluency" value={fluency} />
           </div>
         </div>
+        <Button size="lg" onClick={onRetry} className="w-full">
+          <RotateCcw className="w-3.5 h-3.5" />
+          Try again
+        </Button>
       </div>
 
+      {/* Prosody breakdown */}
+      {prosody && (
+        <div className="rounded-xl border border-border bg-card p-4">
+          <p className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider mb-3">Prosody</p>
+          <div className="space-y-2">
+            <ScoreBar label="Stress" value={prosody.stress} />
+            <ScoreBar label="Intonation" value={prosody.intonation} />
+            <ScoreBar label="Rhythm" value={prosody.rhythm} />
+            <ScoreBar label="Rate" value={prosody.rate} />
+          </div>
+        </div>
+      )}
+
       {/* Transcript comparison */}
-      <TranscriptComparison wordDetails={word_details} transcript={result.transcript} recordingBlob={recordingBlob} />
+      <TranscriptComparison wordDetails={word_details} transcript={result.transcript} reference={result.reference} recordingBlob={recordingBlob} />
 
       {/* Word-by-word breakdown — clickable */}
       <div className="rounded-xl border border-border bg-card p-4">
@@ -556,12 +611,6 @@ function ResultView({
 
       {/* Feedback */}
       {result.feedback.summary && <FeedbackCard feedback={result.feedback} overall={overall} />}
-
-      {/* Retry */}
-      <Button size="lg" onClick={onRetry}>
-        <RotateCcw className="w-3.5 h-3.5" />
-        Try again
-      </Button>
     </div>
   );
 }
@@ -571,10 +620,12 @@ function ResultView({
 function TranscriptComparison({
   wordDetails,
   transcript,
+  reference,
   recordingBlob,
 }: {
   wordDetails: WordDetail[];
   transcript: string;
+  reference: string;
   recordingBlob: Blob | null;
 }) {
   const audioRef = useRef<HTMLAudioElement>(null);
@@ -602,7 +653,8 @@ function TranscriptComparison({
   return (
     <div className="rounded-xl border border-border bg-card p-4 space-y-3">
       <div>
-        <p className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider mb-1.5">Reference</p>
+        <p className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider mb-1">Reference</p>
+        <p className="text-sm text-foreground/60 leading-relaxed mb-1.5">{reference}</p>
         <TooltipProvider delayDuration={300}>
           <p className="text-sm leading-relaxed">
             {wordDetails.map((w, i) => {
@@ -625,20 +677,22 @@ function TranscriptComparison({
 
       <div>
         <p className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider mb-1.5">You said</p>
-        <Button
-          variant="ghost"
-          type="button"
-          onClick={togglePlayback}
-          disabled={!audioUrl}
-          className="flex items-center gap-2.5 w-full text-left group h-auto p-0"
-        >
-          <span className="w-8 h-8 shrink-0 rounded-full bg-primary/10 group-hover:bg-primary/20 flex items-center justify-center text-primary transition-colors">
-            {isPlaying ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5 ml-0.5" />}
-          </span>
-          <span className="text-sm text-foreground/80 leading-relaxed min-w-0">
+        <div className="flex items-start gap-2.5">
+          {audioUrl && (
+            <Button
+              variant="ghost"
+              size="icon"
+              type="button"
+              onClick={togglePlayback}
+              className="w-8 h-8 shrink-0 rounded-full bg-primary/10 hover:bg-primary/20 text-primary"
+            >
+              {isPlaying ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5 ml-0.5" />}
+            </Button>
+          )}
+          <p className="text-sm text-foreground/80 leading-relaxed min-w-0 pt-1">
             {transcript || <span className="italic text-muted-foreground">(nothing detected)</span>}
-          </span>
-        </Button>
+          </p>
+        </div>
         {audioUrl && (
           <audio
             ref={audioRef}
@@ -680,7 +734,7 @@ function WordBadge({ word, onClick }: { word: WordDetail; onClick: () => void })
         {/* Dictionary header */}
         <div className="flex items-center gap-1.5">
           <span className="font-semibold text-foreground text-xs">{word.word}</span>
-          {entry?.phonetic && <span className="font-mono text-muted-foreground">{entry.phonetic}</span>}
+          {entry?.phonetic && <span className="font-ipa text-muted-foreground">{entry.phonetic}</span>}
           {entry?.audioUrl && (
             <Button
               variant="ghost"
@@ -716,19 +770,39 @@ function WordBadge({ word, onClick }: { word: WordDetail; onClick: () => void })
             {word.expected_phonemes && (
               <div className="flex justify-between">
                 <span className="text-muted-foreground">Expected</span>
-                <span className="font-mono">/{word.expected_phonemes}/</span>
+                <span className="font-ipa">/{word.expected_phonemes}/</span>
               </div>
             )}
             {word.recognized_phonemes && (
               <div className="flex justify-between">
                 <span className="text-muted-foreground">Heard</span>
-                <span className="font-mono">/{word.recognized_phonemes}/</span>
+                <span className="font-ipa">/{word.recognized_phonemes}/</span>
               </div>
             )}
             {word.heard_as && (
               <div className="flex justify-between">
                 <span className="text-muted-foreground">Heard as</span>
                 <span className="font-medium">"{word.heard_as}"</span>
+              </div>
+            )}
+            {word.prosody_score != null && (
+              <div className="pt-1 border-t border-border/50 space-y-1">
+                <div className="flex justify-between">
+                  <span className="text-muted-foreground">Stress</span>
+                  <span className="font-semibold">{word.prosody_score}%</span>
+                </div>
+                {word.prosody_details && (
+                  <>
+                    <StressFeatureBar label="Volume" value={word.prosody_details.energy} />
+                    <StressFeatureBar label="Pitch" value={word.prosody_details.pitch} unit="Hz" />
+                    <StressFeatureBar label="Vowel len." value={Math.round(word.prosody_details.vowel_duration * 100)} unit="%" />
+                    <p className="text-[9px] text-muted-foreground/70 pt-0.5">
+                      {word.prosody_details.is_content_word
+                        ? 'Content word — should be stressed (louder, longer, higher pitch)'
+                        : 'Function word — typically unstressed'}
+                    </p>
+                  </>
+                )}
               </div>
             )}
           </>
@@ -757,7 +831,7 @@ function CueWord({ word, clean, onClick }: { word: string; clean: string; onClic
       <TooltipContent side="bottom" className="w-56 space-y-1.5 text-[11px]">
         <div className="flex items-center gap-1.5">
           <span className="font-semibold text-foreground text-xs">{clean}</span>
-          {entry?.phonetic && <span className="font-mono text-muted-foreground">{entry.phonetic}</span>}
+          {entry?.phonetic && <span className="font-ipa text-muted-foreground">{entry.phonetic}</span>}
           {entry?.audioUrl && (
             <Button
               variant="ghost"
@@ -817,7 +891,7 @@ function ReferenceWord({ word, colorClass }: { word: string; colorClass: string 
       <TooltipContent side="top" className="w-56 space-y-1.5 text-[11px]">
         <div className="flex items-center gap-1.5">
           <span className="font-semibold text-foreground text-xs">{word}</span>
-          {entry?.phonetic && <span className="font-mono text-muted-foreground">{entry.phonetic}</span>}
+          {entry?.phonetic && <span className="font-ipa text-muted-foreground">{entry.phonetic}</span>}
           {entry?.audioUrl && (
             <Button
               variant="ghost"
@@ -908,6 +982,15 @@ function ScoreBar({ label, value }: { label: string; value: number }) {
         <div className={`h-full rounded-full ${color} transition-all duration-700 ease-out`} style={{ width: `${value}%` }} />
       </div>
       <span className={`text-[11px] font-bold tabular-nums w-7 text-right ${textColor}`}>{value}</span>
+    </div>
+  );
+}
+
+function StressFeatureBar({ label, value, unit }: { label: string; value: number; unit?: string }) {
+  return (
+    <div className="flex justify-between text-[10px]">
+      <span className="text-muted-foreground">{label}</span>
+      <span className="tabular-nums">{value}{unit ? ` ${unit}` : ''}</span>
     </div>
   );
 }
