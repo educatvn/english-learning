@@ -927,12 +927,92 @@ function ReferenceWord({ word, colorClass }: { word: string; colorClass: string 
 
 function FeedbackCard({ feedback, overall }: { feedback: SpeakingScore['feedback']; overall: number }) {
   const borderColor = overall >= 80 ? 'border-l-green-500' : overall >= 50 ? 'border-l-yellow-500' : 'border-l-red-500';
+  const hasContent = feedback.phoneme_errors?.length > 0
+    || feedback.missed_words?.length > 0
+    || feedback.prosody_tips?.length > 0
+    || feedback.tips?.length > 0;
+
+  if (!hasContent && !feedback.summary) return null;
 
   return (
-    <div className={`rounded-xl border border-border bg-card p-4 border-l-4 ${borderColor}`}>
+    <div className={`rounded-xl border border-border bg-card p-4 border-l-4 ${borderColor} space-y-3`}>
       <p className="text-xs font-medium text-foreground">{feedback.summary}</p>
-      {feedback.tips.length > 0 && (
-        <ul className="mt-2 space-y-1.5">
+
+      {/* Phoneme errors — visual bars */}
+      {feedback.phoneme_errors?.length > 0 && (
+        <div className="space-y-2">
+          <p className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider">Sounds to practice</p>
+          {feedback.phoneme_errors.map((err, i) => (
+            <div key={i} className="space-y-1">
+              <div className="flex items-center gap-2">
+                <span className="font-ipa text-xs font-semibold text-foreground min-w-[2rem]">/{err.phoneme}/</span>
+                {err.confused_with && (
+                  <span className="text-[10px] text-muted-foreground">
+                    sounds like <span className="font-ipa font-semibold text-yellow-500">/{err.confused_with}/</span>
+                  </span>
+                )}
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="flex-1 h-1.5 rounded-full bg-red-400/15 overflow-hidden">
+                  <div
+                    className="h-full rounded-full bg-red-400 transition-all duration-500"
+                    style={{ width: `${err.score}%` }}
+                  />
+                </div>
+                <span className="text-[10px] font-bold tabular-nums text-red-500 w-6 text-right">{err.score}</span>
+              </div>
+              <p className="text-[10px] text-muted-foreground">
+                in {err.words.map((w, j) => (
+                  <span key={j}>
+                    {j > 0 && ', '}
+                    <span className="font-medium text-foreground/80">{w}</span>
+                  </span>
+                ))}
+              </p>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* Missed words */}
+      {feedback.missed_words?.length > 0 && (
+        <div>
+          <p className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider mb-1.5">Not detected</p>
+          <div className="flex flex-wrap gap-1">
+            {feedback.missed_words.map((w, i) => (
+              <span key={i} className="inline-block px-2 py-0.5 rounded-md text-[10px] font-medium bg-red-500/10 text-red-500 border border-red-500/20">
+                {w}
+              </span>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Prosody tips — with score bars */}
+      {feedback.prosody_tips?.length > 0 && (
+        <div className="space-y-2">
+          <p className="text-[10px] font-semibold text-muted-foreground uppercase tracking-wider">Prosody tips</p>
+          {feedback.prosody_tips.map((tip, i) => (
+            <div key={i} className="space-y-0.5">
+              <div className="flex items-center gap-2">
+                <span className="text-[10px] text-muted-foreground w-16 shrink-0">{tip.label}</span>
+                <div className="flex-1 h-1.5 rounded-full bg-yellow-400/15 overflow-hidden">
+                  <div
+                    className="h-full rounded-full bg-yellow-400 transition-all duration-500"
+                    style={{ width: `${tip.score}%` }}
+                  />
+                </div>
+                <span className="text-[10px] font-bold tabular-nums text-yellow-500 w-6 text-right">{tip.score}</span>
+              </div>
+              <p className="text-[10px] text-muted-foreground pl-16">{tip.detail}</p>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* Legacy text tips */}
+      {feedback.tips?.length > 0 && (
+        <ul className="space-y-1.5">
           {feedback.tips.map((tip, i) => (
             <li key={i} className="flex items-start gap-2 text-[11px] text-muted-foreground leading-relaxed">
               <AlertCircle className="w-3 h-3 shrink-0 mt-0.5 text-muted-foreground/60" />

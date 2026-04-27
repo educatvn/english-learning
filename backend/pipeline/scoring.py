@@ -142,7 +142,10 @@ def score_word(
         verification_penalty = word_verification.penalty
 
         # If verification says word was NOT spoken at all → missed
-        if not word_verification.is_verified:
+        # But only if penalty is very low (missed=0.0 or substituted=0.1).
+        # Low-confidence matches (penalty=0.3) pass through with reduced score
+        # so GOP can still assess pronunciation quality.
+        if not word_verification.is_verified and verification_penalty < 0.2:
             return WordScore(
                 word=aligned_word.word,
                 status="missed",
@@ -406,17 +409,24 @@ def _generate_feedback(
     fluency: int,
     prosody: ProsodyResult,
 ) -> dict:
-    """Generate actionable, data-driven feedback.
+    """Generate structured, visual feedback.
 
-    Fix #14: Rank by impact = (100 - score) * frequency (not just sort by score).
-    Fix #15: Group repeated phoneme errors across words.
-    Fix #16: Prosody feedback includes expected vs actual values.
+    Returns:
+        {
+            "summary": str,
+            "phoneme_errors": [{"phoneme", "confused_with", "score", "words"}, ...],
+            "missed_words": [str, ...],
+            "prosody_tips": [{"label", "score", "detail"}, ...],
+            "tips": [str, ...]   # legacy text tips for anything not covered above
+        }
     """
+    phoneme_errors: list[dict] = []
+    missed_words: list[str] = []
+    prosody_tips: list[dict] = []
     tips: list[str] = []
 
-    # Fix #15: Group phoneme errors across all words
-    # Collect all low-scoring phonemes, grouped by phoneme identity
-    error_map: dict[str, list[tuple[str, dict]]] = defaultdict(list)  # phoneme → [(word, detail), ...]
+    # ── Phoneme errors (grouped by phoneme) ──
+    error_map: dict[str, list[tuple[str, dict]]] = defaultdict(list)
     for ws in word_scores:
         if ws.status == "missed":
             continue
@@ -424,88 +434,59 @@ def _generate_feedback(
             if pd["score"] < 40:
                 error_map[pd["phoneme"]].append((ws.word, pd))
 
-    # Fix #14: Rank phoneme errors by impact = (100 - avg_score) * frequency
     phoneme_impacts: list[tuple[str, float, list[tuple[str, dict]]]] = []
     for phoneme, occurrences in error_map.items():
         avg_score = sum(o[1]["score"] for o in occurrences) / len(occurrences)
         impact = (100 - avg_score) * len(occurrences)
         phoneme_impacts.append((phoneme, impact, occurrences))
 
-    phoneme_impacts.sort(key=lambda x: -x[1])  # highest impact first
+    phoneme_impacts.sort(key=lambda x: -x[1])
 
-    for phoneme, _, occurrences in phoneme_impacts[:3]:
-        words_affected = list(dict.fromkeys(o[0] for o in occurrences))  # unique, order-preserved
+    for phoneme, _, occurrences in phoneme_impacts[:5]:
+        words_affected = list(dict.fromkeys(o[0] for o in occurrences))[:4]
+        avg_score = round(sum(o[1]["score"] for o in occurrences) / len(occurrences))
         example_pd = occurrences[0][1]
-        avg_score = sum(o[1]["score"] for o in occurrences) / len(occurrences)
+        confused_with = None
+        if example_pd.get("confusion") and example_pd.get("best_alternative"):
+            confused_with = example_pd["best_alternative"]
 
-        if len(occurrences) > 1:
-            word_list = ", ".join(f"'{w}'" for w in words_affected[:3])
-            if example_pd.get("confusion") and example_pd.get("best_alternative"):
-                alt = example_pd["best_alternative"]
-                tips.append(
-                    f"/{phoneme}/ → /{alt}/ in {word_list} "
-                    f"(avg score: {avg_score:.0f}/100, {len(occurrences)} occurrences) "
-                    f"— practice this sound distinction"
-                )
-            else:
-                tips.append(
-                    f"/{phoneme}/ needs work in {word_list} "
-                    f"(avg score: {avg_score:.0f}/100, {len(occurrences)} occurrences)"
-                )
-        else:
-            word = words_affected[0]
-            if example_pd.get("confusion") and example_pd.get("best_alternative"):
-                alt = example_pd["best_alternative"]
-                conf_prob = example_pd.get("confusion_prob", 0)
-                qualifier = "common substitution" if conf_prob > 0.1 else "focus on distinguishing"
-                tips.append(
-                    f"'{word}': /{phoneme}/ sounds like /{alt}/ — {qualifier}"
-                )
-            else:
-                tips.append(
-                    f"'{word}': the /{phoneme}/ sound needs work "
-                    f"(score: {avg_score:.0f}/100)"
-                )
+        phoneme_errors.append({
+            "phoneme": phoneme,
+            "confused_with": confused_with,
+            "score": avg_score,
+            "words": words_affected,
+        })
 
-    # Missed words
-    missed = [ws for ws in word_scores if ws.status == "missed"]
-    if missed:
-        missed_words = ", ".join(f"'{ws.word}'" for ws in missed[:3])
-        verb = "was" if len(missed) == 1 else "were"
-        tips.append(f"{missed_words} {verb} not detected — try pronouncing more clearly")
+    # ── Missed words ──
+    for ws in word_scores:
+        if ws.status == "missed":
+            missed_words.append(ws.word)
 
-    # Fix #16: Prosody feedback with expected vs actual values
+    # ── Prosody tips ──
     if prosody.stress_score < 45:
-        tips.append(
-            f"Stress contrast is low (score: {prosody.stress_score}/100) "
-            f"— content words should be ~1.3-2x louder/longer than function words"
-        )
+        prosody_tips.append({
+            "label": "Stress",
+            "score": prosody.stress_score,
+            "detail": "Content words should be louder & longer than function words",
+        })
     if prosody.intonation_score < 45:
-        if prosody.contour_type == "flat":
-            tips.append(
-                f"Your pitch contour is flat (F0 std: {prosody.f0_std:.1f} semitones, "
-                f"expected ~4-6 semitones for natural English) "
-                f"— try rising pitch on questions and falling on statements"
-            )
-        else:
-            tips.append(
-                f"Intonation needs work (score: {prosody.intonation_score}/100, "
-                f"contour: {prosody.contour_type}, F0 std: {prosody.f0_std:.1f} st) "
-                f"— aim for 4-6 semitones of pitch variation"
-            )
+        detail = ("Pitch is too flat — vary your pitch more"
+                  if prosody.contour_type == "flat"
+                  else "Pitch variation needs work — aim for natural rise and fall")
+        prosody_tips.append({
+            "label": "Intonation",
+            "score": prosody.intonation_score,
+            "detail": detail,
+        })
     if prosody.rhythm_score < 45:
-        if prosody.npvi < 40:
-            tips.append(
-                f"Speech rhythm is too even (nPVI: {prosody.npvi:.0f}, "
-                f"expected 40-70 for English) "
-                f"— stress key syllables longer, reduce unstressed syllables"
-            )
-        else:
-            tips.append(
-                f"Speech rhythm is choppy (nPVI: {prosody.npvi:.0f}, "
-                f"expected 40-70 for English) "
-                f"— try connecting words more smoothly"
-            )
+        detail = ("Speech is too even — stress key syllables longer"
+                  if prosody.npvi < 40
+                  else "Speech is choppy — try connecting words more smoothly")
+        prosody_tips.append({
+            "label": "Rhythm",
+            "score": prosody.rhythm_score,
+            "detail": detail,
+        })
 
     if fluency < 45:
         tips.append("Try to speak more continuously with fewer pauses between words")
@@ -520,4 +501,10 @@ def _generate_feedback(
     else:
         summary = "Listen to the original again and try speaking slowly."
 
-    return {"summary": summary, "tips": tips}
+    return {
+        "summary": summary,
+        "phoneme_errors": phoneme_errors,
+        "missed_words": missed_words,
+        "prosody_tips": prosody_tips,
+        "tips": tips,
+    }

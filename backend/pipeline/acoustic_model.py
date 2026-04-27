@@ -4,24 +4,29 @@ Acoustic Modeling Layer
 Two models:
 1. Phoneme model (wav2vec2-lv-60-espeak-cv-ft): frame-level IPA posteriors
    for forced alignment, GOP computation, and pronunciation scoring.
-2. ASR model (wav2vec2-base-960h): English word transcription for verifying
-   what the user actually said. Without this, forced alignment always
-   "succeeds" regardless of input.
+2. ASR model (Whisper): English word transcription for verifying what the
+   user actually said. Whisper has a built-in language model so it produces
+   real English words (not character-level gibberish like wav2vec2-base-960h).
 
 Why two models:
 - The phoneme model outputs IPA — you can't reliably convert IPA back to
   English words for transcript verification.
-- The ASR model outputs English letters/words — tells us WHAT was said.
-- Both are wav2vec2 CTC, same architecture, shared loading code.
+- The ASR model outputs English words — tells us WHAT was said.
+
+CRITICAL: The ASR model must NEVER receive the reference text as a prompt
+or conditioning signal. Doing so causes Whisper to hallucinate the reference
+regardless of what was actually spoken. The ASR must be completely blind to
+the expected text.
 """
 
 import os
 import re
+import zlib
 from dataclasses import dataclass
 
 import torch
 import torchaudio
-from transformers import Wav2Vec2ForCTC, Wav2Vec2Processor
+from transformers import Wav2Vec2ForCTC, Wav2Vec2Processor, WhisperProcessor, WhisperForConditionalGeneration
 
 
 @dataclass
@@ -153,60 +158,184 @@ class AcousticModel:
         return decoded
 
 
-class ASRModel:
-    """Word-level ASR model for transcript verification.
+@dataclass
+class TranscriptResult:
+    """Whisper transcript with per-word confidence scores."""
+    text: str                       # Full transcript (lowercase)
+    word_confidences: list[float]   # Per-word avg log-prob (aligned with words in text)
 
-    Uses wav2vec2-base-960h which outputs English letters, giving us
-    actual English words to compare against the reference text.
-    This is the ONLY reliable way to know what the user said.
+
+class ASRModel:
+    """Word-level ASR model for transcript verification using Whisper.
+
+    Whisper has a built-in language model, producing real English words
+    instead of character-level noise. This makes verification reliable.
+
+    IMPORTANT: Whisper's LM auto-corrects mispronunciations — it may
+    output "much" even when the user clearly mispronounced it. To catch
+    this, we extract per-word confidence (token log-probs). Words that
+    Whisper "corrected" will have LOW confidence despite matching the
+    reference text. The verification layer uses this to penalize them.
+
+    CRITICAL ANTI-HALLUCINATION MEASURES:
+    - NEVER pass reference text as initial_prompt or decoder conditioning.
+    - Detect and flag hallucinated outputs via compression ratio and
+      avg log-probability thresholds.
+    - If audio is too short or silent, return empty string.
     """
 
+    # Hallucination detection thresholds
+    COMPRESSION_RATIO_THRESHOLD = 2.4   # Whisper default; repetitive = hallucinated
+    AVG_LOGPROB_THRESHOLD = -1.5        # Below this = very unreliable
+    MIN_AUDIO_SECONDS = 0.3             # Reject audio shorter than 300ms
+
+    # Per-word confidence: below this log-prob, word is likely mispronounced
+    # even if Whisper's LM auto-corrected the text output
+    WORD_LOW_CONFIDENCE = -0.5
+
     def __init__(self):
-        self.model: Wav2Vec2ForCTC | None = None
-        self.processor: Wav2Vec2Processor | None = None
+        self.model: WhisperForConditionalGeneration | None = None
+        self.processor: WhisperProcessor | None = None
 
     def load(self):
-        """Load the ASR model. Call once at startup."""
+        """Load the Whisper model. Call once at startup."""
         model_name = os.getenv(
-            "ASR_MODEL", "facebook/wav2vec2-base-960h"
+            "ASR_MODEL", "openai/whisper-base"
         )
-        print(f"[ASRModel] Loading '{model_name}'...")
-        self.processor = Wav2Vec2Processor.from_pretrained(model_name)
-        self.model = Wav2Vec2ForCTC.from_pretrained(model_name)
+        print(f"[ASRModel] Loading Whisper '{model_name}'...")
+        self.processor = WhisperProcessor.from_pretrained(model_name)
+        self.model = WhisperForConditionalGeneration.from_pretrained(model_name)
         self.model.eval()
-        print(f"[ASRModel] Loaded.")
+        print(f"[ASRModel] Whisper loaded.")
 
-    def transcribe(self, waveform: torch.Tensor, sample_rate: int) -> str:
-        """Transcribe audio to English text.
+    def transcribe(self, waveform: torch.Tensor, sample_rate: int) -> TranscriptResult:
+        """Transcribe audio to English text using Whisper.
 
-        Args:
-            waveform: (1, N) mono waveform (any sample rate, will resample)
-            sample_rate: sample rate of waveform
+        Returns TranscriptResult with:
+        - text: the transcript string
+        - word_confidences: per-word average token log-probability.
+          High (close to 0) = confident. Low (< -0.5) = uncertain/mispronounced.
 
-        Returns:
-            Lowercase English transcript, e.g. "hello what's your name"
+        Whisper's LM will auto-correct mispronunciations in the TEXT,
+        but the log-probs reveal the acoustic uncertainty. A word like
+        "much" that was mispronounced will have a low log-prob even
+        though Whisper outputs the correct spelling.
         """
+        empty = TranscriptResult(text="", word_confidences=[])
+
         if self.model is None or self.processor is None:
-            return ""
+            return empty
 
         # Resample to 16kHz if needed
         if sample_rate != 16000:
             waveform = torchaudio.functional.resample(waveform, sample_rate, 16000)
+            sample_rate = 16000
 
-        inputs = self.processor(
+        # Reject too-short audio
+        duration = waveform.shape[-1] / sample_rate
+        if duration < self.MIN_AUDIO_SECONDS:
+            return empty
+
+        # Prepare input features (mel spectrogram)
+        input_features = self.processor(
             waveform.squeeze().numpy(),
             sampling_rate=16000,
             return_tensors="pt",
-            padding=True,
-        )
+        ).input_features
 
+        # Generate with scores for confidence extraction
+        # NO initial_prompt, NO decoder_input_ids conditioning
+        # condition_on_prev_tokens=False: reduce LM auto-correction so
+        # mispronunciations are less likely to be "fixed" by the LM
         with torch.no_grad():
-            logits = self.model(**inputs).logits
+            output = self.model.generate(
+                input_features,
+                language="en",
+                task="transcribe",
+                condition_on_prev_tokens=False,
+                return_dict_in_generate=True,
+                output_scores=True,
+            )
 
-        predicted_ids = torch.argmax(logits, dim=-1)
-        transcript = self.processor.batch_decode(predicted_ids)[0]
+        token_ids = output.sequences[0]
+        transcript = self.processor.decode(token_ids, skip_special_tokens=True)
 
-        # Clean up: lowercase, collapse whitespace, strip
-        transcript = transcript.lower().strip()
-        transcript = re.sub(r'\s+', ' ', transcript)
-        return transcript
+        # Anti-hallucination check 1: compression ratio
+        if transcript.strip():
+            text_bytes = transcript.encode("utf-8")
+            compressed = zlib.compress(text_bytes)
+            compression_ratio = len(text_bytes) / max(len(compressed), 1)
+            if compression_ratio > self.COMPRESSION_RATIO_THRESHOLD:
+                print(f"[ASRModel] Hallucination: compression_ratio={compression_ratio:.2f}, rejecting")
+                return empty
+
+        if not output.scores:
+            transcript = transcript.lower().strip()
+            transcript = re.sub(r'\s+', ' ', transcript)
+            return TranscriptResult(text=transcript, word_confidences=[])
+
+        # Extract per-token log-probabilities
+        prompt_len = len(token_ids) - len(output.scores)
+        generated_ids = token_ids[prompt_len:]
+        token_logprobs: list[float] = []
+        for i, score in enumerate(output.scores):
+            lp = torch.log_softmax(score, dim=-1)
+            token_id = generated_ids[i].item()
+            token_logprobs.append(lp[0, token_id].item())
+
+        # Anti-hallucination check 2: average log-probability
+        if token_logprobs:
+            avg_logprob = sum(token_logprobs) / len(token_logprobs)
+            print(f"[ASRModel] transcript='{transcript.strip()[:80]}' avg_logprob={avg_logprob:.2f}")
+            if avg_logprob < self.AVG_LOGPROB_THRESHOLD:
+                print(f"[ASRModel] Low confidence, rejecting")
+                return empty
+
+        # Map tokens → words with per-word confidence
+        # Whisper tokens: space-prefixed tokens start a new word (e.g. " much")
+        tokenizer = self.processor.tokenizer
+        eos_id = tokenizer.eos_token_id
+        words: list[str] = []
+        word_logprobs: list[list[float]] = []
+        current_text = ""
+        current_probs: list[float] = []
+
+        for i, tid in enumerate(generated_ids.tolist()):
+            if tid == eos_id:
+                break
+            token_text = tokenizer.decode([tid])
+            if token_text.startswith(" ") and current_text.strip():
+                # Previous word complete
+                words.append(current_text.strip().lower())
+                word_logprobs.append(current_probs)
+                current_text = token_text
+                current_probs = [token_logprobs[i]]
+            else:
+                current_text += token_text
+                current_probs.append(token_logprobs[i])
+
+        if current_text.strip():
+            words.append(current_text.strip().lower())
+            word_logprobs.append(current_probs)
+
+        # Compute per-word average log-prob
+        word_confidences = [
+            sum(probs) / len(probs) if probs else -float('inf')
+            for probs in word_logprobs
+        ]
+
+        # Build transcript: annotate low-confidence words with [?]
+        # so users can see which words Whisper was uncertain about
+        display_words: list[str] = []
+        for w, c in zip(words, word_confidences):
+            flag = " ← LOW" if c < self.WORD_LOW_CONFIDENCE else ""
+            print(f"  [{w}] conf={c:.2f}{flag}")
+            if c < self.WORD_LOW_CONFIDENCE:
+                display_words.append(f"{w}(?)")
+            else:
+                display_words.append(w)
+
+        transcript_text = " ".join(display_words)
+        transcript_text = re.sub(r'\s+', ' ', transcript_text).strip()
+
+        return TranscriptResult(text=transcript_text, word_confidences=word_confidences)

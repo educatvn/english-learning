@@ -44,6 +44,9 @@ export interface SpeakingScore {
   };
   feedback: {
     summary: string;
+    phoneme_errors: { phoneme: string; confused_with: string | null; score: number; words: string[] }[];
+    missed_words: string[];
+    prosody_tips: { label: string; score: number; detail: string }[];
     tips: string[];
   };
 }

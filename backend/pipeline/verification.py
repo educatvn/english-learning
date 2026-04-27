@@ -24,6 +24,11 @@ PENALTY_MISSED = 0.0
 PENALTY_SUBSTITUTED = 0.1
 PENALTY_MATCHED = 1.0
 
+# Whisper confidence: below this log-prob, word is likely mispronounced
+# even though Whisper's LM auto-corrected it to a real English word.
+WORD_LOW_CONFIDENCE = -0.5
+PENALTY_LOW_CONFIDENCE = 0.3   # Penalty for low-confidence matches
+
 
 # ── Data structures ──────────────────────────────────────────────────────
 
@@ -59,15 +64,16 @@ def _normalize_text(text: str) -> list[str]:
 def _align_words(
     reference: list[str],
     transcript: list[str],
-) -> list[str]:
+) -> tuple[list[str], list[int]]:
     """Align reference words against transcript words using edit distance.
 
-    Returns a list of length len(reference), where each element is:
-    - "match": word found in transcript at expected position
-    - "sub:X": word was substituted with X
-    - "miss": word not found
-
-    Uses standard Levenshtein DP with backtracking.
+    Returns:
+        statuses: list of length len(reference), each element is:
+            - "match": word found in transcript at expected position
+            - "sub:X": word was substituted with X
+            - "miss": word not found
+        trans_indices: list of length len(reference), the transcript word
+            index that each reference word matched/substituted with (-1 if missed).
     """
     n = len(reference)
     m = len(transcript)
@@ -90,28 +96,28 @@ def _align_words(
                     dp[i - 1][j - 1],   # substitute
                 )
 
-    # Backtrack
+    # Backtrack — also track which transcript index each ref word aligned to
     result = ["miss"] * n
+    trans_indices = [-1] * n
     i, j = n, m
     while i > 0 and j > 0:
         if reference[i - 1] == transcript[j - 1] and dp[i][j] == dp[i - 1][j - 1]:
             result[i - 1] = "match"
+            trans_indices[i - 1] = j - 1
             i -= 1
             j -= 1
         elif dp[i][j] == dp[i - 1][j - 1] + 1:
-            # substitution
             result[i - 1] = f"sub:{transcript[j - 1]}"
+            trans_indices[i - 1] = j - 1
             i -= 1
             j -= 1
         elif dp[i][j] == dp[i][j - 1] + 1:
-            # insertion (extra word in transcript, skip it)
             j -= 1
         else:
-            # deletion (ref word missing)
             result[i - 1] = "miss"
             i -= 1
 
-    return result
+    return result, trans_indices
 
 
 # ── Main verification ────────────────────────────────────────────────────
@@ -120,14 +126,18 @@ def verify_utterance(
     asr_transcript: str,
     reference_text: str,
     reference_words: list[str],
+    word_confidences: list[float] | None = None,
 ) -> VerificationResult:
     """Verify ASR transcript against reference text.
 
     Args:
         asr_transcript: What the ASR model heard (English words)
         reference_text: The original reference text
-        reference_words: List of words from text processor (may differ from
-                        raw reference due to contraction expansion etc.)
+        reference_words: List of words from text processor
+        word_confidences: Per-word Whisper log-prob confidence (aligned with
+            words in asr_transcript). Used to detect mispronunciations that
+            Whisper's LM auto-corrected: if a word matches but confidence
+            is low, apply a penalty instead of full match.
 
     Returns:
         VerificationResult with per-word match status.
@@ -156,20 +166,31 @@ def verify_utterance(
             overall_match=0.0,
         )
 
-    alignment = _align_words(ref_norm, trans_norm)
+    statuses, trans_indices = _align_words(ref_norm, trans_norm)
 
     word_verifications: list[WordVerification] = []
     n_matched = 0
 
-    for i, (orig_word, status) in enumerate(zip(reference_words, alignment)):
+    for i, (orig_word, status) in enumerate(zip(reference_words, statuses)):
         if status == "match":
+            # Check Whisper per-word confidence for this transcript word.
+            # If confidence is low, Whisper's LM likely auto-corrected a
+            # mispronunciation → reduce penalty to flag it.
+            penalty = PENALTY_MATCHED
+            ti = trans_indices[i]
+            if word_confidences and 0 <= ti < len(word_confidences):
+                conf = word_confidences[ti]
+                if conf < WORD_LOW_CONFIDENCE:
+                    penalty = PENALTY_LOW_CONFIDENCE
+
             word_verifications.append(WordVerification(
                 word=orig_word,
-                is_verified=True,
-                penalty=PENALTY_MATCHED,
+                is_verified=penalty >= PENALTY_MATCHED,
+                penalty=penalty,
                 heard_as=None,
             ))
-            n_matched += 1
+            if penalty >= PENALTY_MATCHED:
+                n_matched += 1
         elif status.startswith("sub:"):
             heard = status[4:]
             word_verifications.append(WordVerification(

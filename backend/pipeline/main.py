@@ -91,8 +91,10 @@ def assess_pronunciation(
     # [1] Phoneme model: audio → frame-level posteriors
     acoustic: AcousticOutput = _get_acoustic(wav_path)
 
-    # [1b] ASR model: audio → English word transcript
-    asr_transcript = _asr_model.transcribe(acoustic.waveform, acoustic.sample_rate)
+    # [1b] ASR model: audio → English word transcript + per-word confidence
+    asr_result = _asr_model.transcribe(acoustic.waveform, acoustic.sample_rate)
+    asr_transcript = asr_result.text
+    word_confidences = asr_result.word_confidences
 
     # [2] Text processing: reference → phoneme sequence with stress
     processed: ProcessedText = process_text(reference_text)
@@ -108,9 +110,10 @@ def assess_pronunciation(
         }
 
     # [2b] Verify: does ASR transcript match the reference? (word-level)
+    # Pass word_confidences so that Whisper LM auto-corrections are detected
     ref_word_list = [wp.word for wp in processed.words]
     verification: VerificationResult = verify_utterance(
-        asr_transcript, reference_text, ref_word_list,
+        asr_transcript, reference_text, ref_word_list, word_confidences,
     )
 
     # [3] CTC forced alignment: phonemes → audio frames (with posteriors)
@@ -181,7 +184,8 @@ def assess_word(wav_path: str, word: str) -> dict:
         }
 
     # ASR: what did the user actually say?
-    asr_transcript = _asr_model.transcribe(acoustic.waveform, acoustic.sample_rate)
+    asr_result = _asr_model.transcribe(acoustic.waveform, acoustic.sample_rate)
+    asr_transcript = asr_result.text
     wv = verify_single_word(asr_transcript, word)
 
     alignment = align_utterance(
